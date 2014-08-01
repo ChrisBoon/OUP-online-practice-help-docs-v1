@@ -1,0 +1,103 @@
+{
+ "title": {
+    "english": "Progress Report",
+    "turkish": "-",
+    "arabic": "-"
+  },
+ "segment": "primary",
+ "userType": ["student"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "PSRP001.png",
+      "pageTitle": {
+        "english": "Subtitle needed?",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "This row shows the total number of times you attempted the activities in each unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "This row shows your total score for each unit. For example, if the score is 70/80, 70 is the number of items (questions) you answered correctly, and 80 is the total number of items in the unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "This row shows the total amount of time you worked on each unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "This row shows the number of times you attempted each activity.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 25,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "This row shows your score on each activity. It shows the score for your last attempt on the activity. For example, if the score is 8/10, 8 is the number of items (questions) you answered correctly, and 10 is the total number of items in the activity.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 30,
+          "numberPosLeft": 30,
+          "text":{
+            "english": "This row shows the total amount of time you spent on each activity.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 35,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "Click here to return to the previous screen.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 40,
+          "numberPosLeft": 40,
+          "text":{
+            "english": "Click here to print this report.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

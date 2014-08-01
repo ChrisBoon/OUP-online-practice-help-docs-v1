@@ -1,0 +1,144 @@
+{
+ "title": {
+    "english": "Class Summary Report",
+    "turkish": "-",
+    "arabic": "-"
+  },
+ "segment": "primary",
+ "userType": ["teacher"],
+ "pageCount": 2,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "PTRCS001.png",
+      "pageTitle": {
+        "english": "Subtitle needed?",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Click here to go to the Class Report for a specific class (you can view the work of specific students in a class).",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to view the Class Report for this class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "This row shows the average number of activities completed for each unit for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the unit, and 9 is the total number of activities in the unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "This row shows the average score for each unit for this class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 25,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "This row shows the average amount of time students in this class worked on each unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "PTRCS002.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 6,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "This is the average number of activities completed in the entire level for this class. For example, if the number is 80/90, 80 is the average number of activities completed, and 90 is the total number of activities in the level. ",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 7,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "This is the average score for all of the activities completed in the level for this class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 8,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "This is the average amount of time students in this class spent in the entire level.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 9,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "Click here to return to the previous screen.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 10,
+          "numberPosTop": 25,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "Click here to export this report to Microsoft Excel™.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 11,
+          "numberPosTop": 30,
+          "numberPosLeft": 30,
+          "text":{
+            "english": "Click here to print this report.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

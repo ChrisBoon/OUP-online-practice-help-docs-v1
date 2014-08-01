@@ -1,0 +1,43 @@
+{
+ "title": {
+    "english": "Media Centre",
+    "turkish": "-",
+    "arabic": "-"
+  },
+ "segment": "primary",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "PTM001.png",
+      "pageTitle": {
+        "english": "Subtitle needed?",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Click on the arrow button to play and pause an audio track. Use the controls to move through the track and change the volume.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click on the title to download a video and play it in your local media player.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

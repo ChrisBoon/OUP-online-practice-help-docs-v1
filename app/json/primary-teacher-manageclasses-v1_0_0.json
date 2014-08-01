@@ -1,0 +1,267 @@
+{
+ "title": {
+    "english": "Managing your classes",
+    "turkish": "-",
+    "arabic": "-"
+  },
+ "segment": "primary",
+ "userType": ["teacher"],
+ "pageCount": 5,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "PTMC001.png",
+      "pageTitle": {
+        "english": "Subtitle needed?",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "This screen shows all of the classes that you have created.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to view the details for this class. You can view your students, view your class ID code, change the name of this class, delete students, or join an institution.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click here to hide units or lessons for your class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "Click here to delete this class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 25,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "Click here to add a new class for a book that you have registered for. (To add a new level, go to your Home page and click “add a level”.)",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "PTMC002.png",
+      "pageTitle": {
+        "english": "Subtitle needed?",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Click here to change the name of this class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to join an institution. Check this box to delete this student from this class. Then click “Save Changes.”",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click here to go back to the previous screen. If you did not click “Save Changes” your changes will not be saved.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "Click here to save the changes you made to this class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "PTMC003.png",
+      "pageTitle": {
+        "english": "Subtitle needed?",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Enter the new name for your class. Then click “Save.” If you do not want to change the name of your class, click “Cancel.”",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to save your class name and return to the Class Details page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click here to go back to the Class Details page without saving any changes.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "Click here to delete this class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 25,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "Click here to add a new class for a book that you have registered for. (To add a new level, go to your Home page and click “add a level”.)",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page04": {
+      "pageType": "screenshot",
+      "imgId": "PTMC004.png",
+      "pageTitle": {
+        "english": "Subtitle needed?",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Cancel.”",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to submit your institution ID code and return to the Class Details page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click here if you do not have an institution ID code.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page05": {
+      "pageType": "screenshot",
+      "imgId": "PTMC005.png",
+      "pageTitle": {
+        "english": "Subtitle needed?",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Click here to hide a whole unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to hide selected lessons within a unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click here to save the changes you made to this class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

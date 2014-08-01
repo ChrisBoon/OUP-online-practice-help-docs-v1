@@ -1,0 +1,394 @@
+@import "base/_reset";
+@import "base/_helpers";
+@import "partials/_oup-ny-typography";
+@import "partials/_icomoon";
+@import "partials/_ui-variables";
+
+
+@import "custom-pages/_welcome";
+@import "custom-pages/_404";
+
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  color:$text-color;
+  font-size: $base-font-size;
+  font-family: $base-font-family;
+  font-weight: $base-font-weight;
+  line-height: $base-line-height;
+}
+
+//menu tray
+.slide-out-drawer{
+  position: absolute;
+  top: $headerHeight;
+  height: calc(100% - #{$headerHeight} );
+  background: #fff;
+  width: $slideOutWidth;
+  z-index: z("sidebar");
+  transition:all 0.5s;
+  overflow: auto;
+  &--left{
+    left: 0;
+    background: $color-main;
+    &.ng-hide {
+      transform: translate(-280px);
+    }
+  }
+  &--right{
+    right: 0;
+    background: $color-grey-dark;
+    &.ng-hide {
+      transform: translate(280px);
+    }
+  }
+}
+.help-menu{
+  color:#fff;
+  font-size: $menu-font-size;
+  font-weight: 300;
+  .panel{
+    background:rgba(#fff,0.2);
+  }
+  .accordion-toggle{
+    $arrowSizing: ($headerHeight / 5);
+    display: block;
+    position: relative;
+    height: $headerHeight;
+    background: $color-accent-dark;
+    padding: 0 (($default-padding / 2) + $arrowSizing) 0 ($default-padding / 2);
+    line-height: $headerHeight - 1px;
+    color: #fff;
+    @extend %user-select-none;
+    cursor: pointer;
+    &__arrow{
+      position: absolute;
+      display: block;
+      width: ($arrowSizing * 3);
+      height: ($arrowSizing * 3);
+      color:#fff;
+      top:($arrowSizing * 0.8);
+      right: $arrowSizing;
+      transition: transform 0.3s;
+      &:before {
+        font-family: 'icomoon';
+        content: "\e60b";
+        @include smooth-text;
+        font-size: ($arrowSizing * 3);
+        line-height: ($arrowSizing * 3.4);
+        display: block;
+        top: 0;
+      }
+      &--up{
+        transform: rotate(-180deg);
+      }
+    }
+  }
+
+  &__user{
+    &__list{
+      padding: ($default-padding / 4) 0;
+    }
+    &__list-item{
+      margin-bottom: 4px;
+      &:last-child{
+        margin-bottom: 0;
+      }
+    }
+  }
+  &__option{
+    display: block;
+    border-radius: $brad-small;
+    margin: 0 ($default-padding / 4);
+    padding: 0.35em ($default-padding / 4);
+    @extend %user-select-none;
+    &:hover{
+      background:rgba(#fff,0.2);
+    }
+    &--active{
+      background:#fff;
+      color: $text-color;
+      pointer-events:none;
+    }
+  }
+//help-menu uses angular-ui bootstrap - these rules needed for animation
+  .collapse {
+    display: none;
+    &.in{
+      display: block;
+    }
+  }
+  .collapsing {
+    position: relative;
+    height: 0;
+    overflow: hidden;
+    transition: height .35s ease;
+  }
+}
+
+
+
+.content-container{
+  position: relative;
+  height: 100%;
+  padding-top: 50px;
+  .site-header{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0px;
+    background: $color-main;
+    color: #fff;
+    height: $headerHeight;
+    &__heading{
+      line-height: ($headerHeight - 1px);
+      font-weight: 300;
+      @include clearfix;
+      float: left;
+      &__label{
+        $lineWidth: 6px;
+        $lineLength: 30px;
+        display: block;
+        height: $headerHeight;
+        float: left;
+        cursor: pointer;
+        position: relative;
+        padding: 0 $default-padding 0 ($default-padding + $headerHeight);
+        transition: background 0.2s;
+        @extend %user-select-none;
+        &:hover{
+          background:rgba($color-accent-dark,0.35);
+        }
+        .open-tray-icon{
+          display: block;
+          background:#fff;
+          position: absolute;
+          width: $lineLength;
+          height: $lineWidth;
+          top: ($headerHeight / 2) - ($lineWidth / 2);
+          left: $default-padding;
+          border-radius: ($lineWidth / 2);
+          transition: width 0.4s;
+          outline: 1px solid transparent;
+          &:before, &:after{
+            content: "";
+            display: block;
+            position: absolute;
+            width: $lineLength;
+            height: $lineWidth;
+            border-radius: ($lineWidth / 2);
+            background: #fff;
+            transition: transform 0.4s;
+            outline: 1px solid transparent;
+          }
+          &:before{
+            top: 0 - ($lineLength/3);
+          }
+          &:after{
+            top: ($lineLength/3);
+          }
+        }
+        &:hover .open-tray-icon:before{
+          transform:rotate(35deg) translate(9px, -3px);
+        }
+        &:hover .open-tray-icon:after{
+          transform:rotate(-35deg) translate(9px, 3px);
+        }
+      }
+      &__hidden-checkbox{
+        display: none;
+      }
+      &--tray-open{
+        .site-header__heading__label:hover .open-tray-icon:before{
+            transform:rotate(-35deg) translate(-8px, -3px);
+        }
+        .site-header__heading__label:hover .open-tray-icon:after{
+            transform:rotate(35deg) translate(-8px, 3px);
+        }
+      }
+    }
+  }
+
+  .content-area{
+    height: 100%;
+    width: 100%;
+    background:#efefef;
+    transition: opacity 0.5s;
+    &--inactive{
+      opacity:0.25;
+    }
+    &__view{
+      padding: ($default-padding / 2) $default-padding $default-padding $default-padding;
+      height: 100%;
+      overflow: auto;
+      overflow-y: scroll;
+      @include ios-scroll;
+      @at-root{
+        @keyframes scaleUp {
+          from  { opacity: 0.3; transform: scale(0.8); }
+        }
+        @keyframes slideOutLeft {
+          to    { transform: translateY(100%);opacity: 0; }
+        }
+      }
+      &.ng-enter{
+        overflow: hidden;
+        position: absolute;
+        background: #efefef;
+        animation: scaleUp 0.5s both ease-in;
+        z-index:1;
+      }
+      &.ng-leave{
+        overflow: hidden;
+        position: absolute;
+        background: #efefef;
+        transform-origin: 0% 0%;
+        animation:slideOutLeft 0.5s both ease-in;
+        z-index:2;
+      }
+    }
+  }
+}
+
+.language-choice-toggle{
+  float: right;
+  text-transform: capitalize;
+  height: $headerHeight;
+  line-height: ($headerHeight - 1px);
+  padding: 0 $default-padding;
+  font-weight: 300;
+  cursor: pointer;
+  transition: background 0.2s;
+  @extend %user-select-none;
+  &:hover{
+    background:rgba($color-accent-dark,0.35);
+  }    
+}
+.language-choice__list{
+  color:#fff;
+  font-size: $menu-font-size;
+  font-weight: 300;
+  padding: ($default-padding / 4) 0;
+  &__item{
+    display: block;
+    border-radius: $brad-small;
+    margin: 0 ($default-padding / 4) 4px;
+    padding: 0.35em ($default-padding / 4);
+    cursor: pointer;
+    @extend %user-select-none;
+    &:hover{
+      background:rgba(#fff,0.35);
+    }
+    &--active{
+      background:#fff;
+      color: $text-color;
+      pointer-events:none;
+    }
+  }  
+}
+
+.help-doc{
+  &__title{
+    color: $color-main;
+    font-size: $heading-font-size;
+  }
+  &__page{
+    &__title{
+      font-size: $heading-font-size;
+      color: $color-grey-main;
+      padding-bottom: 0.4em;
+    }
+    &__scaffold{
+      border-radius: $brad;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+      background: #FFF;
+      overflow: hidden;
+      margin-bottom: ($default-padding / 2);
+      &--screenshot{
+        @include clearfix;
+        &__text-frame{
+          float: left;
+          width: 50%;
+          padding: ($default-padding / 3) ($default-padding / 1.5) ($default-padding / 3) ($default-padding / 3);
+          @include breakpoint(medium){
+            padding: ($default-padding / 3);
+            float: none;
+            width: 100%;
+          }
+        }
+        &__image-frame{
+          float: right;
+          width: 50%;
+          max-width: 700px;
+          @include breakpoint(medium){
+            width: 100%;
+            max-width: 100%;
+            float: none;
+          }
+        }
+        &__number{
+          position: absolute;
+          display: block;
+          background:#000;
+          color:#fff;
+          font-size: 12px;
+          height: 1.5em;
+          width: 1.5em;
+          line-height: 1.5em;
+          border-radius: 0.75em;
+          text-align: center;
+          transition: box-shadow 0.3s;
+          cursor: pointer;
+          @extend %user-select-none;
+          &--focus{
+            z-index: z("number");
+            background: #10A4DA;
+            box-shadow: 0 0 0 8px rgba(#10A4DA,0.3);
+          }
+        }
+        &__img-container{
+          position: relative;
+        }
+        &__img{
+          display: block;
+          width: 100%;
+        }
+      }
+    }
+    &__paragraph{
+      font-size: $copy-font-size;
+      &--numbered{
+        padding: 0.4em 0.4em 0.4em 2.4em;
+        border-radius: 4px;
+        position: relative;
+        margin-bottom: 0.2em;
+        cursor: pointer;
+        &__number{
+          font-size: 12px;
+          position: absolute;
+          width: 1.5em;
+          height: 1.5em;
+          line-height: 1.5em;
+          background: #000;
+          color: #FFF;
+          border-radius: 50%;
+          text-align: center;
+          cursor: pointer;
+          left: 0.4rem;
+          top: 0.5rem;
+        }
+        &--focus{
+          background: #EBEFEF;
+          .help-doc__page__paragraph--numbered__number{
+            background: #10A4DA;
+          }
+        }
+      }
+    }
+  }
+}

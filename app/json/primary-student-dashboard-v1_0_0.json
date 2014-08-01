@@ -1,0 +1,154 @@
+{
+ "title": {
+    "english": "Trophy Room",
+    "turkish": "-",
+    "arabic": "-"
+  },
+ "segment": "primary",
+ "userType": ["student"],
+ "pageCount": 2,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "PSD001.png",
+      "pageTitle": {
+        "english": "Trophy Room",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Click here to see achievements in the Trophy Room.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to see Reports.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "These are the unit titles in a level.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "A student has three attempts at an activity. The highest score of the three attempts is recorded as the score in the student’s report. Stars are awarded for points scored across the activities in a level.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 25,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "30% of the total possible points scored in a unit: A bronze star is awarded.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 30,
+          "numberPosLeft": 30,
+          "text":{
+            "english": "70% of the total possible points scored in a unit: A silver star is awarded.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 35,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "90% of the total possible points scored in a unit: A gold star is awarded.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 40,
+          "numberPosLeft": 40,
+          "text":{
+            "english": "100% of the total possible points scored in a unit: A bonus trophy is awarded.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "PSD002.png",
+      "pageTitle": {
+        "english": "Dashboard",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Each activity in an Online Practice level is tagged with a learning area. The Dashboard shows student activity results for a level across different learning areas.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Results for activities within the different learning areas are displayed as a percentage based on the average score of all completed activities in a learning area within a level.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Open-ended activities where no score is given are displayed as ‘not scored’.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "The number of completed activities is shown along with the total number of activities in a learning area.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

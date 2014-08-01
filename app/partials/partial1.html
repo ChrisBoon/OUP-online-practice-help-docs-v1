@@ -1,0 +1,126 @@
+<div class="help-doc">
+  <!-- Use a CodeKit loop here once released -->
+  <h1 ng-if="language.language == 'english'" 
+      class="help-doc__title">
+    {{helpdoc.title.english}}
+  </h1>
+  <h1 ng-if="language.language == 'french'"
+      class="help-doc__title">
+    {{helpdoc.title.french}}
+  </h1>
+  <h1 ng-if="language.language == 'turkish'" 
+      class="help-doc__title">
+    {{helpdoc.title.turkish}}
+  </h1>
+  <h1 ng-if="language.language == 'arabic'"
+      class="help-doc__title">
+    {{helpdoc.title.arabic}}
+  </h1>
+
+  <div ng-repeat="page in helpdoc.pages"
+       class="help-doc__page"
+       ng-controller="MyCtrl2">
+
+    <!-- Use a CodeKit loop here once released -->
+    <h2 class="help-doc__page__title"
+        ng-if="language.language == 'english'">
+      {{page.pageTitle.english}}
+    </h2>
+    <h2 class="help-doc__page__title"
+        ng-if="language.language == 'french'">
+      {{page.pageTitle.french}}
+    </h2>
+    <h2 class="help-doc__page__title"
+        ng-if="language.language == 'turkish'">
+      {{page.pageTitle.turkish}}
+    </h2>
+    <h2 class="help-doc__page__title"
+        ng-if="language.language == 'arabic'">
+      {{page.pageTitle.arabic}}
+    </h2>
+    
+
+    <!-- start if screenshot -->
+    <div ng-if="page.pageType == 'screenshot'"
+         class="help-doc__page__scaffold help-doc__page__scaffold--screenshot">
+      <div class="help-doc__page__scaffold--screenshot__text-frame">
+        <div ng-repeat="para in page.paragraphs"
+             class="help-doc__page__paragraph help-doc__page__paragraph--numbered"
+             ng-click="focus.focussed=para.number"
+             ng-class="{'help-doc__page__paragraph--numbered--focus': focus.focussed===para.number}">
+          <div class="help-doc__page__paragraph--numbered__number">{{para.number}}</div>
+
+          <!-- Use a CodeKit loop here once released -->
+          <p ng-if="language.language == 'english'"
+             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
+            {{para.text.english}}
+          </p>
+          <p ng-if="language.language == 'french'"
+             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
+            {{para.text.french}}
+          </p>
+          <p ng-if="language.language == 'turkish'"
+             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
+            {{para.text.turkish}}
+          </p>
+          <p ng-if="language.language == 'arabic'"
+             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
+            {{para.text.arabic}}
+          </p>
+          
+        </div>
+      </div>
+
+      <div class="help-doc__page__scaffold--screenshot__image-frame">
+        <div class="help-doc__page__scaffold--screenshot__img-container">
+          <img ng-src="img/{{page.imgId}}"
+               class="help-doc__page__scaffold--screenshot__img">
+          <div ng-repeat="para in page.paragraphs"
+               class="help-doc__page__scaffold--screenshot__number"
+               ng-click="focus.focussed=para.number"
+               ng-class="{'help-doc__page__scaffold--screenshot__number--focus': focus.focussed===para.number}"
+               ng-style="itemStyle(para)">
+            {{para.number}}
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <!-- end if screenshot -->
+
+    <!-- start if 404 -->
+    <div 
+    ng-if="page.pageType == '404'"
+    class="help-doc__page--404 help-doc__page__scaffold"
+    >
+
+    <!-- Use a CodeKit loop here once released -->
+    <p ng-if="language.language == 'english'">
+      {{page.content.thing01.text.english}}
+    </p>
+
+    <p ng-if="language.language == 'french'">
+      {{page.content.thing01.text.french}}
+    </p>
+
+    <p ng-if="language.language == 'turkish'">
+      {{page.content.thing01.text.turkish}}
+    </p>
+
+    <p ng-if="language.language == 'arabic'">
+      {{page.content.thing01.text.arabic}}
+    </p>
+
+    <a 
+    ng-href="{{page.content.thing02.link}}"
+    >
+      {{page.content.thing02.link}}
+    </a>
+
+    </div>
+    <!-- end if 404 -->
+
+
+  </div> <!--end help-doc__page -->
+
+</div> <!-- end help-doc -->

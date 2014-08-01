@@ -1,0 +1,296 @@
+{
+ "title": {
+    "english": "Teacher registration",
+    "french": "Enregistrement des enseignants"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 6,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgUrl": "img/adult/teacher-registration/001.png",
+      "pageTitle": {
+        "english": "Add your profile information",
+        "french": "Ajouter les informations de votre profil"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 27,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Enter your first name (given name).",
+            "french": "Entrez votre prénom (nom donné)."            
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 32,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Enter your last name (family name).",
+            "french": "Entrez votre nom (nom de famille)."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 36,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Enter your email address.",
+            "french": "Entrez votre adresse e-mail."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 40,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Type your email address again.",
+            "french": "Entrez de nouveau votre adresse e-mail."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 44,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Choose a password.",
+            "french": "Choisissez un mot de passe."
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 48,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Type your password again.",
+            "french": "Entrez de nouveau votre mot de passe."
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 87,
+          "numberPosLeft": 12,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "french": "Cliquez ici pour retourner à la page précédente."
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 87,
+          "numberPosLeft": 86,
+          "text":{
+            "english": "Click here to submit your information and go to the next page.",
+            "french": "Cliquez ici pour soumettre votre information et passer à la page suivante."
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgUrl": "img/adult/teacher-registration/002.png",
+      "pageTitle": {
+        "english": "Choose a product",
+        "french": "Choisissez un produit"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "Click on your book cover to select that book. It is very important to select the book that you are using. Check the title and the cover to make sure it is your book. If you are using more than one book, you can add another book later by choosing “Add a Book” from your Home page (you will need a new access code to add a book).",
+            "french": "Cliquez sur la couverture de votre livre pour sélectionner ce livre. Il est très important de choisir le livre que vous utilisez. Vérifiez le titre et la couverture pour s'assurer qu'il est votre livre. Si vous utilisez plus d'un livre, vous pouvez ajouter un autre livre plus tard en choisissant “Ajouter un livre” de votre page d'accueil (vous aurez besoin d'un nouveau code d'accès pour ajouter un livre)."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 87,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "french": "Cliquez ici pour retourner à la page précédente."
+          }
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgUrl": "img/adult/teacher-registration/003.png",
+      "pageTitle": {
+        "english": "Enter your institution ID code",
+        "french": "Entrez votre code d'identification de l'institution"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip.” You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
+            "french": "Si vous avez un code institution ID, entrez-le ici. Ceci est un code que votre administrateur peut vous donner. Ce code lie vos dossiers de classe avec votre école ou de l'établissement. Si vous n'avez pas un code institution d'identification, cliquez sur \"Passer\". Vous pouvez entrer un code d'identification institution plus tard en cliquant sur \"Rejoignez une institution\" de votre page Détails de classe."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 87,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "french": "Cliquez ici pour retourner à la page précédente."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 87,
+          "numberPosLeft": 77,
+          "text":{
+            "english": "Click here if you do not have an institution ID code.",
+            "french": "Cliquez ici si vous n'avez pas un code d'identification institution."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 87,
+          "numberPosLeft": 86,
+          "text":{
+            "english": "Click here to submit your institution ID code and go to the next page.",
+            "french": "Cliquez ici pour soumettre votre code d'identification de l'institution et aller à la page suivante."
+          }
+        }
+      }
+    },
+    "page04": {
+      "pageType": "screenshot",
+      "imgUrl": "img/adult/teacher-registration/004.png",
+      "pageTitle": {
+        "english": "Add a Class Name",
+        "french": "Ajouter un nom de classe"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "Enter a name for your first class. To enter additional classes later, click “Manage Classes” from your Home page when you finish registering.",
+            "french": "Entrez un nom pour votre première classe. Pour entrer classes supplémentaires ultérieurement, cliquez sur \"Gérer les catégories\" de votre page d'accueil lorsque vous avez terminé l'enregistrement."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 87,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "french": "Cliquez ici pour retourner à la page précédente."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 87,
+          "numberPosLeft": 77,
+          "text":{
+            "english": "Click here to skip this page without entering a class name.",
+            "french": "Cliquez ici pour aller sur cette page sans entrer un nom de classe."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 87,
+          "numberPosLeft": 86,
+          "text":{
+            "english": "Click here to submit your class name and go to the next page.",
+            "french": "Cliquez ici pour soumettre votre nom de classe et aller à la page suivante."
+          }
+        }
+      }
+    },
+    "page05": {
+      "pageType": "screenshot",
+      "imgUrl": "img/adult/teacher-registration/005.png",
+      "pageTitle": {
+        "english": "Class ID (if you added a Class Name)",
+        "french": "ID de classe (si vous avez ajouté un nom de classe)"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "This is the class ID code for the class you named in the previous screen. Give this code to your students so they can join your class and you can see their work.",
+            "french": "C'est le code d'identification de classe pour la classe que vous avez nommé dans l'écran précédent. Donner ce code à vos élèves afin qu'ils puissent rejoindre votre classe et vous pouvez voir leur travail."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 87,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to print this page for your records or to copy and share with your students.",
+            "french": "Cliquez ici pour imprimer cette page pour vos dossiers ou de copier et partager avec vos élèves."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 87,
+          "numberPosLeft": 77,
+          "text":{
+            "english": "Click here to go to the next page.",
+            "french": "Cliquez ici pour aller à la page suivante."
+          }
+        }
+      }
+    },
+    "page06": {
+      "pageType": "screenshot",
+      "imgUrl": "img/adult/teacher-registration/003.png",
+      "pageTitle": {
+        "english": "Registration summary",
+        "french": "résumé d'enregistrement"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "This page shows your registration information. You may want to print this page for your records. To change this information, select “Edit Profile” after you log in (it will be in the top right of the screen).",
+            "french": "Cette page vos informations d'enregistrement. Vous pouvez imprimer cette page pour vos dossiers. Pour modifier ces informations, sélectionnez \"Modifier mon profil\" après vous être connecté (il sera dans le coin supérieur droit de l'écran)."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 87,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "french": "Cliquez ici pour retourner à la page précédente."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 87,
+          "numberPosLeft": 77,
+          "text":{
+            "english": "Click here to print your registration information.",
+            "french": "Cliquez ici pour imprimer vos informations d'enregistrement."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 87,
+          "numberPosLeft": 86,
+          "text":{
+            "english": "Click here to complete the registration and log in to your course.",
+            "french": "Cliquez ici pour terminer l'enregistrement et vous connecter à Incredible anglais pratique en ligne."
+          }
+        }
+      }
+    }
+  }
+}

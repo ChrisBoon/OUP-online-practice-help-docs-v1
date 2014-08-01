@@ -1,0 +1,29 @@
+{
+ "title": {
+    "english": "Welcome page will be populated by this file once text is set.",
+    "turkish": "-",
+    "arabic": "-"
+  },
+  "segment": "all",
+  "userType": ["teacher","student","admin"],
+  "pageCount": 1,
+  "pages": {
+    "page01": {
+      "pageType": "welcome",
+      "imgUrl": "",
+
+      "content":{
+        "thing01": {
+          "text":{
+            "english": "-",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "thing02": {
+          "link": "-"
+        }
+      }
+    }
+  }
+}

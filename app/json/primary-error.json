@@ -1,0 +1,29 @@
+{
+ "title": {
+    "english": "We're sorry, something seems to have gone wrong!",
+    "turkish": "-",
+    "arabic": "-"
+  },
+  "segment": "all",
+  "userType": ["teacher","student","admin"],
+  "pageCount": 1,
+  "pages": {
+    "page01": {
+      "pageType": "404",
+      "imgUrl": "img/adult/teacher-login/001.png",
+
+      "content":{
+        "thing01": {
+          "text":{
+            "english": "There was no content at the address you chose. Try using the slide-out menu to find the page you were looking for, or to return to the Online Practice homepage go to:",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "thing02": {
+          "link": "http://thepagelocation/index.html"
+        }
+      }
+    }
+  }
+}

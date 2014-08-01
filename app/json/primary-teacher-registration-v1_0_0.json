@@ -1,0 +1,328 @@
+{
+ "title": {
+    "english": "Teacher registration",
+    "turkish": "-",
+    "arabic": "-"
+  },
+ "segment": "primary",
+ "userType": ["teacher"],
+ "pageCount": 6,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "PTR001.png",
+      "pageTitle": {
+        "english": "Add your profile information",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 27,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Enter your first name (given name).",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 32,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Enter your last name (family name).",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 36,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Enter your email address.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 40,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Type your email address again.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 44,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Choose a password.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 48,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Type your password again.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 87,
+          "numberPosLeft": 12,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 87,
+          "numberPosLeft": 86,
+          "text":{
+            "english": "Click here to submit your information and go to the next page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "PTR002.png",
+      "pageTitle": {
+        "english": "Choose a product",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "Click on your book cover to select that level. It is very important to select the level that you are using. Check the title and the cover to make sure it is your level. If you are using more than one level, you can add another level later by choosing “add a level” from your Home page (you will need a new access code to add a level).",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 87,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "PTR003.png",
+      "pageTitle": {
+        "english": "Enter your institution ID code",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip.” You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 87,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 87,
+          "numberPosLeft": 77,
+          "text":{
+            "english": "Click here if you do not have an institution ID code.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 87,
+          "numberPosLeft": 86,
+          "text":{
+            "english": "Click here to submit your institution ID code and go to the next page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page04": {
+      "pageType": "screenshot",
+      "imgId": "PTR004.png",
+      "pageTitle": {
+        "english": "Add a Class Name",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "Enter a name for your first class. To enter additional classes later, click “Manage Classes” from your Home page when you finish registering.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 87,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 87,
+          "numberPosLeft": 77,
+          "text":{
+            "english": "Click here to skip this page without entering a class name.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 87,
+          "numberPosLeft": 86,
+          "text":{
+            "english": "Click here to submit your class name and go to the next page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page05": {
+      "pageType": "screenshot",
+      "imgId": "PTR005.png",
+      "pageTitle": {
+        "english": "Class ID (if you added a Class Name)",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "This is the class ID code for the class you named in the previous screen. Give this code to your students so they can join your class and you can see their work.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 87,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to print this page for your records or to copy and share with your students.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 87,
+          "numberPosLeft": 77,
+          "text":{
+            "english": "Click here to go to the next page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page06": {
+      "pageType": "screenshot",
+      "imgId": "PTR006.png",
+      "pageTitle": {
+        "english": "Registration summary",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "This page shows your registration information. You may want to print this page for your records. To change this information, select “Edit Profile” after you log in (it will be in the top right of the screen).",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 87,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 87,
+          "numberPosLeft": 77,
+          "text":{
+            "english": "Click here to print your registration information.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 87,
+          "numberPosLeft": 86,
+          "text":{
+            "english": "Click here to complete the registration and log in to your Online Practice.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}
