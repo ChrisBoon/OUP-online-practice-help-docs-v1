@@ -1,0 +1,83 @@
+
+.help-menu{
+  color:#fff;
+  font-size: $menu-font-size;
+  font-weight: 300;
+  .panel{
+    background:rgba(#fff,0.2);
+  }
+  .accordion-toggle{
+    $arrowSizing: ($headerHeight / 5);
+    display: block;
+    position: relative;
+    height: $headerHeight;
+    background: $color-accent-dark;
+    padding: 0 (($default-padding / 2) + $arrowSizing) 0 ($default-padding / 2);
+    line-height: $headerHeight - 1px;
+    color: #fff;
+    @extend %user-select-none;
+    cursor: pointer;
+    &__arrow{
+      position: absolute;
+      display: block;
+      width: ($arrowSizing * 3);
+      height: ($arrowSizing * 3);
+      color:#fff;
+      top:($arrowSizing * 0.8);
+      right: $arrowSizing;
+      transition: transform 0.3s;
+      &:before {
+        font-family: 'icomoon';
+        content: "\e60b";
+        @include smooth-text;
+        font-size: ($arrowSizing * 3);
+        line-height: ($arrowSizing * 3.4);
+        display: block;
+        top: 0;
+      }
+      &--up{
+        transform: rotate(-180deg);
+      }
+    }
+  }
+
+  &__user{
+    &__list{
+      padding: ($default-padding / 4) 0;
+    }
+    &__list-item{
+      margin-bottom: 4px;
+      &:last-child{
+        margin-bottom: 0;
+      }
+    }
+  }
+  &__option{
+    display: block;
+    border-radius: $brad-small;
+    margin: 0 ($default-padding / 4);
+    padding: 0.35em ($default-padding / 4);
+    @extend %user-select-none;
+    &:hover{
+      background:rgba(#fff,0.2);
+    }
+    &--active{
+      background:#fff;
+      color: $text-color;
+      pointer-events:none;
+    }
+  }
+//help-menu uses angular-ui bootstrap - these rules needed for animation
+  .collapse {
+    display: none;
+    &.in{
+      display: block;
+    }
+  }
+  .collapsing {
+    position: relative;
+    height: 0;
+    overflow: hidden;
+    transition: height .35s ease;
+  }
+}

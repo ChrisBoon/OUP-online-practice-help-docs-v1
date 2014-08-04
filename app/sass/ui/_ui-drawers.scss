@@ -1,0 +1,28 @@
+.slide-out-drawer{
+  position: absolute;
+  top: $headerHeight;
+  height: calc(100% - #{$headerHeight} );
+  background: #fff;
+  width: $slideOutWidth;
+  z-index: z("sidebar");
+  transition:all 0.5s;
+  overflow: auto;
+  &--left{
+    left: 0;
+    &.ng-hide {
+      transform: translate(-$slideOutWidth);
+    }
+  }
+  &--right{
+    right: 0;
+    &.ng-hide {
+      transform: translate($slideOutWidth);
+    }
+  }
+  &--nav{
+    background: $color-main;
+  }
+  &--language{
+    background: $color-grey-dark;
+  }
+}

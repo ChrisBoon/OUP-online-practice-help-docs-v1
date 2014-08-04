@@ -1,0 +1,100 @@
+.help-doc{
+  &__title{
+    color: $color-main;
+    font-size: $heading-font-size;
+  }
+  &__page{
+    &__title{
+      font-size: $heading-font-size;
+      color: $color-grey-main;
+      padding-bottom: 0.4em;
+    }
+    &__scaffold{
+      border-radius: $brad;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+      background: #FFF;
+      overflow: hidden;
+      margin-bottom: ($default-padding / 2);
+      &--screenshot{
+        @include clearfix;
+        &__text-frame{
+          float: left;
+          width: 50%;
+          padding: ($default-padding / 3) ($default-padding / 1.5) ($default-padding / 3) ($default-padding / 3);
+          @include breakpoint(medium){
+            padding: ($default-padding / 3);
+            float: none;
+            width: 100%;
+          }
+        }
+        &__image-frame{
+          float: right;
+          width: 50%;
+          max-width: 700px;
+          @include breakpoint(medium){
+            width: 100%;
+            max-width: 100%;
+            float: none;
+          }
+        }
+        &__number{
+          position: absolute;
+          display: block;
+          background:#000;
+          color:#fff;
+          font-size: 12px;
+          height: 1.5em;
+          width: 1.5em;
+          line-height: 1.5em;
+          border-radius: 0.75em;
+          text-align: center;
+          transition: box-shadow 0.3s;
+          cursor: pointer;
+          @extend %user-select-none;
+          &--focus{
+            z-index: z("number");
+            background: #10A4DA;
+            box-shadow: 0 0 0 8px rgba(#10A4DA,0.3);
+          }
+        }
+        &__img-container{
+          position: relative;
+        }
+        &__img{
+          display: block;
+          width: 100%;
+        }
+      }
+    }
+    &__paragraph{
+      font-size: $copy-font-size;
+      &--numbered{
+        padding: 0.4em 0.4em 0.4em 2.4em;
+        border-radius: 4px;
+        position: relative;
+        margin-bottom: 0.2em;
+        cursor: pointer;
+        &__number{
+          font-size: 12px;
+          position: absolute;
+          width: 1.5em;
+          height: 1.5em;
+          line-height: 1.5em;
+          background: #000;
+          color: #FFF;
+          border-radius: 50%;
+          text-align: center;
+          cursor: pointer;
+          left: 0.4rem;
+          top: 0.5rem;
+        }
+        &--focus{
+          background: #EBEFEF;
+          .help-doc__page__paragraph--numbered__number{
+            background: #10A4DA;
+          }
+        }
+      }
+    }
+  }
+}

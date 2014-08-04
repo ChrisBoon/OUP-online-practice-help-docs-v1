@@ -1,0 +1,59 @@
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  color:$text-color;
+  font-size: $base-font-size;
+  font-family: $base-font-family;
+  font-weight: $base-font-weight;
+  line-height: $base-line-height;
+}
+
+.content-container{
+  position: relative;
+  height: 100%;
+  padding-top: $headerHeight;
+}
+
+.content-area{
+  height: 100%;
+  width: 100%;
+  background:#efefef;
+  transition: opacity 0.5s;
+  &--inactive{
+    opacity:0.25;
+  }
+  &__view{
+    padding: ($default-padding / 2) $default-padding $default-padding $default-padding;
+    height: 100%;
+    overflow: auto;
+    overflow-y: scroll;
+    @include ios-scroll;
+    @at-root{
+      @keyframes scaleUp {
+        from  { opacity: 0;  }
+      }
+      @keyframes slideOutLeft {
+        to    { opacity: 0; }
+      }
+    }
+    &.ng-enter{
+      overflow: hidden;
+      position: absolute;
+      background: #efefef;
+      animation: scaleUp 0.75s 0.5s both ease-in;
+      z-index:1;
+    }
+    &.ng-leave{
+      overflow: hidden;
+      position: absolute;
+      background: #efefef;
+      animation:slideOutLeft 0.3s both ease-in;
+      z-index:2;
+    }
+  }
+}

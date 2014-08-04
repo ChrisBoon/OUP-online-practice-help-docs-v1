@@ -1,0 +1,92 @@
+.site-header{
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0px;
+  background: $color-main;
+  color: #fff;
+  height: $headerHeight;
+  &__heading{
+    line-height: ($headerHeight - 1px);
+    font-weight: 300;
+    @include clearfix;
+    float: left;
+    &__label{
+      $lineWidth: 6px;
+      $lineLength: 30px;
+      display: block;
+      height: $headerHeight;
+      float: left;
+      cursor: pointer;
+      position: relative;
+      padding: 0 $default-padding 0 ($default-padding + $headerHeight);
+      transition: background 0.2s;
+      @extend %user-select-none;
+      &:hover{
+        background:rgba($color-accent-dark,0.35);
+      }
+      .open-tray-icon{
+        display: block;
+        background:#fff;
+        position: absolute;
+        width: $lineLength;
+        height: $lineWidth;
+        top: ($headerHeight / 2) - ($lineWidth / 2);
+        left: $default-padding;
+        border-radius: ($lineWidth / 2);
+        transition: width 0.4s;
+        outline: 1px solid transparent;
+        &:before, &:after{
+          content: "";
+          display: block;
+          position: absolute;
+          width: $lineLength;
+          height: $lineWidth;
+          border-radius: ($lineWidth / 2);
+          background: #fff;
+          transition: transform 0.4s;
+          outline: 1px solid transparent;
+        }
+        &:before{
+          top: 0 - ($lineLength/3);
+        }
+        &:after{
+          top: ($lineLength/3);
+        }
+      }
+      &:hover .open-tray-icon:before{
+        transform:rotate(35deg) translate(9px, -3px);
+      }
+      &:hover .open-tray-icon:after{
+        transform:rotate(-35deg) translate(9px, 3px);
+      }
+    }
+    &__hidden-checkbox{
+      display: none;
+    }
+    &--tray-open{
+      .site-header__heading__label:hover .open-tray-icon:before{
+          transform:rotate(-35deg) translate(-8px, -3px);
+      }
+      .site-header__heading__label:hover .open-tray-icon:after{
+          transform:rotate(35deg) translate(-8px, 3px);
+      }
+    }
+  }
+}
+
+
+.language-choice-toggle{
+  float: right;
+  text-transform: capitalize;
+  height: $headerHeight;
+  line-height: ($headerHeight - 1px);
+  padding: 0 $default-padding;
+  font-weight: 300;
+  cursor: pointer;
+  transition: background 0.2s;
+  @extend %user-select-none;
+  &:hover{
+    background:rgba($color-accent-dark,0.35);
+  }    
+}

@@ -1,0 +1,22 @@
+.language-choice__list{
+  color:#fff;
+  font-size: $menu-font-size;
+  font-weight: 300;
+  padding: ($default-padding / 4) 0;
+  &__item{
+    display: block;
+    border-radius: $brad-small;
+    margin: 0 ($default-padding / 4) 4px;
+    padding: 0.35em ($default-padding / 4);
+    cursor: pointer;
+    @extend %user-select-none;
+    &:hover{
+      background:rgba(#fff,0.35);
+    }
+    &--active{
+      background:#fff;
+      color: $text-color;
+      pointer-events:none;
+    }
+  }  
+}

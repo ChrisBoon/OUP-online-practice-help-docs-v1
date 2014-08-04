@@ -34,7 +34,7 @@ class="ng-cloak"
   <![endif]-->
 
   <div 
-  class="slide-out-drawer slide-out-drawer--left"
+  class="slide-out-drawer slide-out-drawer--left slide-out-drawer--nav"
   ng-show="openDrawer.open"
   ng-swipe-left="openDrawer.open=false"
   >
@@ -132,7 +132,7 @@ class="ng-cloak"
   </div>
 
   <div 
-  class="slide-out-drawer slide-out-drawer--right"
+  class="slide-out-drawer slide-out-drawer--right slide-out-drawer--language"
   ng-show="openDrawer.openRight"
   ng-if="appLanguages.length > 1"
   ng-swipe-right="openDrawer.openRight=false"
