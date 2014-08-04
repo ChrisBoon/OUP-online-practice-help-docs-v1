@@ -318,40 +318,29 @@ body {
       -webkit-overflow-scrolling: touch; }
 @-webkit-keyframes scaleUp {
   from {
-    opacity: 0.3;
-    -webkit-transform: scale(0.8);
-            transform: scale(0.8); } }
+    opacity: 0; } }
 @keyframes scaleUp {
   from {
-    opacity: 0.3;
-    -webkit-transform: scale(0.8);
-            transform: scale(0.8); } }
+    opacity: 0; } }
 @-webkit-keyframes slideOutLeft {
   to {
-    -webkit-transform: translateY(100%);
-            transform: translateY(100%);
     opacity: 0; } }
 @keyframes slideOutLeft {
   to {
-    -webkit-transform: translateY(100%);
-            transform: translateY(100%);
     opacity: 0; } }
       .content-container .content-area__view.ng-enter {
         overflow: hidden;
         position: absolute;
         background: #efefef;
-        -webkit-animation: scaleUp 0.5s both ease-in;
-                animation: scaleUp 0.5s both ease-in;
+        -webkit-animation: scaleUp 0.75s 0.5s both ease-in;
+                animation: scaleUp 0.75s 0.5s both ease-in;
         z-index: 1; }
       .content-container .content-area__view.ng-leave {
         overflow: hidden;
         position: absolute;
         background: #efefef;
-        -webkit-transform-origin: 0% 0%;
-            -ms-transform-origin: 0% 0%;
-                transform-origin: 0% 0%;
-        -webkit-animation: slideOutLeft 0.5s both ease-in;
-                animation: slideOutLeft 0.5s both ease-in;
+        -webkit-animation: slideOutLeft 0.3s both ease-in;
+                animation: slideOutLeft 0.3s both ease-in;
         z-index: 2; }
 
 .language-choice-toggle {

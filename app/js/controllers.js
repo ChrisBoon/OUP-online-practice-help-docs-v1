@@ -65,7 +65,10 @@ angular.module('myApp.controllers', [])
     $scope.appLanguages = courseLanguages;
     $scope.courseName = currentCourseTitle;
 
-
+    //workaround for touch bug
+    $scope.go = function ( path ) {
+      $location.path( path );
+    };
 
   }])
 

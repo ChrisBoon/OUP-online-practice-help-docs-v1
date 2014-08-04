@@ -230,25 +230,24 @@ body{
       @include ios-scroll;
       @at-root{
         @keyframes scaleUp {
-          from  { opacity: 0.3; transform: scale(0.8); }
+          from  { opacity: 0;  }
         }
         @keyframes slideOutLeft {
-          to    { transform: translateY(100%);opacity: 0; }
+          to    { opacity: 0; }
         }
       }
       &.ng-enter{
         overflow: hidden;
         position: absolute;
         background: #efefef;
-        animation: scaleUp 0.5s both ease-in;
+        animation: scaleUp 0.75s 0.5s both ease-in;
         z-index:1;
       }
       &.ng-leave{
         overflow: hidden;
         position: absolute;
         background: #efefef;
-        transform-origin: 0% 0%;
-        animation:slideOutLeft 0.5s both ease-in;
+        animation:slideOutLeft 0.3s both ease-in;
         z-index:2;
       }
     }

@@ -94,8 +94,7 @@ class="ng-cloak"
               <!-- Use a CodeKit loop here once released -->
               <a 
               ng-if="language.language == 'english'"
-              ng-href="#/{{listitem.id}}"
-              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id"
+              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id;go('{{listitem.id}}')"
               ng-class="{'help-menu__option--active': obj.value1 === '/doc/'+listitem.id}"
               class="help-menu__option"
               >
@@ -103,8 +102,7 @@ class="ng-cloak"
               </a>
               <a 
               ng-if="language.language == 'french'"
-              ng-href="#/{{listitem.id}}"
-              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id"
+              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id;go('{{listitem.id}}')"
               ng-class="{'help-menu__option--active': obj.value1 === '/doc/'+listitem.id}"
               class="help-menu__option"
               >
@@ -112,8 +110,7 @@ class="ng-cloak"
               </a>
               <a 
               ng-if="language.language == 'turkish'"
-              ng-href="#/{{listitem.id}}"
-              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id"
+              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id;go('{{listitem.id}}')"
               ng-class="{'help-menu__option--active': obj.value1 === '/doc/'+listitem.id}"
               class="help-menu__option"
               >
@@ -121,8 +118,7 @@ class="ng-cloak"
               </a>
               <a 
               ng-if="language.language == 'arabic'"
-              ng-href="#/{{listitem.id}}"
-              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id"
+              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id;go('{{listitem.id}}')"
               ng-class="{'help-menu__option--active': obj.value1 === '/doc/'+listitem.id}"
               class="help-menu__option"
               >
