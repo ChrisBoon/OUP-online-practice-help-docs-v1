@@ -43,6 +43,23 @@
     <!-- start if screenshot -->
     <div ng-if="page.pageType == 'screenshot'"
          class="help-doc__page__scaffold help-doc__page__scaffold--screenshot">
+
+
+      <div class="help-doc__page__scaffold--screenshot__image-frame">
+        <div class="help-doc__page__scaffold--screenshot__img-container">
+          <img ng-src="img/{{page.imgId}}"
+               class="help-doc__page__scaffold--screenshot__img">
+          <div ng-repeat="para in page.paragraphs"
+               class="help-doc__page__scaffold--screenshot__number"
+               ng-click="focus.focussed=para.number"
+               ng-class="{'help-doc__page__scaffold--screenshot__number--focus': focus.focussed===para.number}"
+               ng-style="itemStyle(para)">
+            {{para.number}}
+          </div>
+        </div>
+      </div>
+
+
       <div class="help-doc__page__scaffold--screenshot__text-frame">
         <div ng-repeat="para in page.paragraphs"
              class="help-doc__page__paragraph help-doc__page__paragraph--numbered"
@@ -71,19 +88,6 @@
         </div>
       </div>
 
-      <div class="help-doc__page__scaffold--screenshot__image-frame">
-        <div class="help-doc__page__scaffold--screenshot__img-container">
-          <img ng-src="img/{{page.imgId}}"
-               class="help-doc__page__scaffold--screenshot__img">
-          <div ng-repeat="para in page.paragraphs"
-               class="help-doc__page__scaffold--screenshot__number"
-               ng-click="focus.focussed=para.number"
-               ng-class="{'help-doc__page__scaffold--screenshot__number--focus': focus.focussed===para.number}"
-               ng-style="itemStyle(para)">
-            {{para.number}}
-          </div>
-        </div>
-      </div>
 
     </div>
     <!-- end if screenshot -->
