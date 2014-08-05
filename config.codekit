@@ -38,6 +38,149 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/img\/PAR001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PAR001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PAR001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PAR002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PAR002.png",
+		"outputAbbreviatedPath": "\/app\/img\/PAR002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PAR003.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PAR003.png",
+		"outputAbbreviatedPath": "\/app\/img\/PAR003.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PAR004.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PAR004.png",
+		"outputAbbreviatedPath": "\/app\/img\/PAR004.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PSAL001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PSAL001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PSAL001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PSAL002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PSAL002.png",
+		"outputAbbreviatedPath": "\/app\/img\/PSAL002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PSAL003.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PSAL003.png",
+		"outputAbbreviatedPath": "\/app\/img\/PSAL003.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PSCC001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PSCC001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PSCC001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PSCJ001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PSCJ001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PSCJ001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PSD001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PSD001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PSD001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PSD002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PSD002.png",
+		"outputAbbreviatedPath": "\/app\/img\/PSD002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PSH001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PSH001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PSH001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PSRP001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PSRP001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PSRP001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/PTAC001.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -122,6 +265,17 @@
 		"initialSize": 2821,
 		"inputAbbreviatedPath": "\/app\/img\/PTAL004.png",
 		"outputAbbreviatedPath": "\/app\/img\/PTAL004.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PTAL005.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PTAL005.png",
+		"outputAbbreviatedPath": "\/app\/img\/PTAL005.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -500,6 +654,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/PTRSA001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PTRSA001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PTRSA001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PTRSA002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PTRSA002.png",
+		"outputAbbreviatedPath": "\/app\/img\/PTRSA002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PTRU001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PTRU001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PTRU001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PTRU002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2821,
+		"inputAbbreviatedPath": "\/app\/img\/PTRU002.png",
+		"outputAbbreviatedPath": "\/app\/img\/PTRU002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/index.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -867,8 +1065,8 @@
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/README.md",
 		"outputAbbreviatedPath": "\/README.html",
 		"outputPathIsOutsideProject": 0,
@@ -1642,7 +1840,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "\/app"
 	},
 "settingsFileVersion": "2"
 }
