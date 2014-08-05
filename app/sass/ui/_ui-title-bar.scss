@@ -8,7 +8,6 @@
   height: $headerHeight;
   &__heading{
     line-height: ($headerHeight - 1px);
-    font-weight: 300;
     @include clearfix;
     float: left;
     &__label{
@@ -82,7 +81,6 @@
   height: $headerHeight;
   line-height: ($headerHeight - 1px);
   padding: 0 $default-padding;
-  font-weight: 300;
   cursor: pointer;
   transition: background 0.2s;
   @extend %user-select-none;

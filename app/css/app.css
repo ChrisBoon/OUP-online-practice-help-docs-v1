@@ -183,7 +183,6 @@ body {
   height: 50px; }
   .site-header__heading {
     line-height: 49px;
-    font-weight: 300;
     float: left; }
     .site-header__heading:after {
       content: "";
@@ -252,7 +251,6 @@ body {
   height: 50px;
   line-height: 49px;
   padding: 0 20px;
-  font-weight: 300;
   cursor: pointer;
   -webkit-transition: background 0.2s;
           transition: background 0.2s; }
@@ -288,8 +286,7 @@ body {
 
 .help-menu {
   color: #fff;
-  font-size: 18px;
-  font-weight: 300; }
+  font-size: 18px; }
   .help-menu .panel {
     background: rgba(255, 255, 255, 0.2); }
   .help-menu .accordion-toggle {
@@ -354,7 +351,6 @@ body {
 .language-choice__list {
   color: #fff;
   font-size: 18px;
-  font-weight: 300;
   padding: 5px 0; }
   .language-choice__list__item {
     display: block;
