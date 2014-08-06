@@ -1,7 +1,5 @@
 'use strict';
-
 /* Controllers */
-
 angular.module('myApp.controllers', [])
   .controller('MyCtrl1', ['$scope', '$routeParams', '$http', '$location',
     function ($scope, $routeParams, $http, $location) {
@@ -83,6 +81,4 @@ angular.module('myApp.controllers', [])
         return { top: para.numberPosTop + '%', left: para.numberPosLeft + '%' };
       };
   }])
-
-
 ;

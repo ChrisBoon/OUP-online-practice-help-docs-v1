@@ -10,13 +10,27 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/app.css"/>
-  <script src="bower_components/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js"></script>
-  <script src="bower_components/angular/angular.min.js"></script>
+  
+  <!--<script src="bower_components/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js"></script>-->
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.min.js"></script>
+  <!--<script src="bower_components/angular/angular.min.js"></script>-->
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.20/angular.min.js"></script>
 
+  <!--<script src="bower_components/angular-route/angular-route.min.js"></script>-->
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.20/angular-route.min.js"></script>
+
+  <!--<script src="bower_components/angular-animate/angular-animate.min.js"></script>-->
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.20/angular-animate.min.js"></script>
+
+  <!--<script src="bower_components/angular-touch/angular-touch.min.js"></script>-->
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.20/angular-touch.min.js"></script>
+
+  <script src="js/ui-bootstrap-custom-tpls-0.10.0.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/controllers.min.js"></script>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   <script>
-  //global variable used to set course specific calls in controllers.js
-  //there are probably many better ways to do this.
+  //global variable used to set course specific calls in controllers.js - there are probably many better ways to do this.
   currentCourse = "faf2e";
   currentCourseTitle = "Family and Friends";
   courseLanguages = ['English','Turkish','Arabic'];
@@ -27,11 +41,9 @@ ng-controller="MyCtrl1"
 ng-init="getLang()"
 class="ng-cloak"
 >
-
   <!--[if lt IE 9]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
   <![endif]-->
-
   <div 
   class="slide-out-drawer slide-out-drawer--left slide-out-drawer--nav"
   ng-show="openDrawer.open"
@@ -44,7 +56,6 @@ class="ng-cloak"
         ng-init="status.open = false" 
         is-open="status.open"
         >
-        
           <!-- Use a CodeKit loop here once released -->
           <accordion-heading ng-if="language.language == 'english'">
             {{user.userType.english}}
@@ -81,8 +92,6 @@ class="ng-cloak"
             >
             </span>
           </accordion-heading>
-
-
 
           <ul class="help-menu__user__list">
             <li
@@ -130,7 +139,6 @@ class="ng-cloak"
     </div>
   </div>
 
-
   <div class="content-container">
     <div class="site-header">
       <h1 
@@ -138,8 +146,8 @@ class="ng-cloak"
       ng-class="{'site-header__heading--tray-open': openDrawer.open === true}"
       ng-click="openDrawer.openLanguage=false;openDrawer.open = !openDrawer.open"
       >
-          <span class="open-tray-icon"></span>
-          <span class="site-header__heading__span">Family and Friends: </span>Help
+        <span class="open-tray-icon"></span>
+        <span class="site-header__heading__span">Family and Friends: </span>Help
       </h1>
 
       <div class="language-choice-container">
@@ -150,7 +158,6 @@ class="ng-cloak"
         >
           {{language.language}}
         </div>
-
         <div 
         class="menu menu--language"
         ng-show="openDrawer.openLanguage"
@@ -168,8 +175,6 @@ class="ng-cloak"
           </ul>
         </div>
       </div>
-
-
     </div>
 
     <div 
@@ -180,13 +185,6 @@ class="ng-cloak"
     <div ng-view class="content-area__view"></div>
   </div>
 
-  </div> <!-- end content-container -->
-
-  <script src="bower_components/angular-route/angular-route.min.js"></script>
-  <script src="bower_components/angular-animate/angular-animate.min.js"></script>
-  <script src="bower_components/angular-touch/angular-touch.min.js"></script>
-  <script src="js/ui-bootstrap-custom-tpls-0.10.0.min.js"></script>
-  <script src="js/app.js"></script>
-  <script src="js/controllers.js"></script>
+  </div><!-- /content-container -->
 </body>
 </html>

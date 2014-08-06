@@ -720,12 +720,12 @@
 		},
 	"\/app\/js\/controllers.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/app\/js\/controllers.js",
-		"outputAbbreviatedPath": "\/app\/js\/min\/controllers-min.js",
+		"outputAbbreviatedPath": "\/app\/js\/controllers.min.js",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
