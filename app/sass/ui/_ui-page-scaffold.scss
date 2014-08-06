@@ -24,6 +24,7 @@ body{
   width: 100%;
   background:#efefef;
   transition: opacity 0.5s;
+  -webkit-transform: translate3d(0,0,0);
   &--inactive{
     opacity:0.25;
   }

@@ -138,6 +138,7 @@ body {
   background: #efefef;
   -webkit-transition: opacity 0.5s;
           transition: opacity 0.5s; }
+  -webkit-transform: translate3d(0, 0, 0); }
   .content-area--inactive {
     opacity: 0.25; }
   .content-area__view {
