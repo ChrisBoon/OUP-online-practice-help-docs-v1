@@ -10,7 +10,7 @@ angular.module('myApp.controllers', [])
     //      Getting this programmatically somehow may be better.
 
     //sets drawer as closed on default
-    $scope.openDrawer = {"open":false, "openRight":false};
+    $scope.openDrawer = {"open":false, "openLangauge":false};
 
     //used to set 'active' state on items in the drawer when the corresponding doc is currently displayed.
     $scope.obj = {"value1":$location.path()};

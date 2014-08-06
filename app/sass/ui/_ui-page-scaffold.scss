@@ -30,6 +30,12 @@ body{
   }
   &__view{
     padding: ($default-padding / 2) $default-padding $default-padding $default-padding;
+    @include breakpoint(small){
+      padding: ($default-padding / 2) $mobile-padding $mobile-padding $mobile-padding;
+    }
+    @include breakpoint(tiny){
+      padding: ($default-padding / 2) 0 0 0;
+    }
     height: 100%;
     overflow: auto;
     overflow-y: scroll;

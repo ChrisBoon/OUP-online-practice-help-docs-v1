@@ -1,6 +1,7 @@
 .slide-out-drawer{
   position: absolute;
   top: $headerHeight;
+  bottom: 0;
   height: calc(100% - #{$headerHeight} );
   background: #fff;
   width: $slideOutWidth;
@@ -21,8 +22,5 @@
   }
   &--nav{
     background: $color-main;
-  }
-  &--language{
-    background: $color-grey-dark;
   }
 }

@@ -1,90 +1,78 @@
 .site-header{
+  font-size:$header-font-size;
+  @include breakpoint(small){
+    font-size: $copy-font-size;
+  }
   position: absolute;
   width: 100%;
   left: 0;
   top: 0px;
+  height: $headerHeight;
   background: $color-main;
   color: #fff;
-  height: $headerHeight;
+  @include clearfix;
+
   &__heading{
+    $lineWidth: 6px;
+    $lineLength: 30px;
     line-height: ($headerHeight - 1px);
-    @include clearfix;
     float: left;
-    &__label{
-      $lineWidth: 6px;
-      $lineLength: 30px;
-      display: block;
-      height: $headerHeight;
-      float: left;
-      cursor: pointer;
-      position: relative;
-      padding: 0 $default-padding 0 ($default-padding + $headerHeight);
-      transition: background 0.2s;
-      @extend %user-select-none;
-      &:hover{
-        background:rgba($color-accent-dark,0.35);
+    height: $headerHeight;
+    position: relative;
+    padding: 0 $default-padding 0 $headerHeight;
+    transition: background 0.2s;
+    cursor: pointer;
+    @extend %user-select-none;
+    @extend %no-tap-color;
+
+    &__span{
+      @include breakpoint(tiny){
+        display: none;
       }
-      .open-tray-icon{
+    }
+    .open-tray-icon{
+      display: block;
+      background:#fff;
+      position: absolute;
+      width: $lineLength;
+      height: $lineWidth;
+      top: ($headerHeight / 2) - ($lineWidth / 2);
+      left: $mobile-padding;
+      border-radius: ($lineWidth / 2);
+      transition: width 0.4s;
+      outline: 1px solid transparent;
+      &:before, &:after{
+        content: "";
         display: block;
-        background:#fff;
         position: absolute;
         width: $lineLength;
         height: $lineWidth;
-        top: ($headerHeight / 2) - ($lineWidth / 2);
-        left: $default-padding;
         border-radius: ($lineWidth / 2);
-        transition: width 0.4s;
+        background: #fff;
+        transition: transform 0.4s;
         outline: 1px solid transparent;
-        &:before, &:after{
-          content: "";
-          display: block;
-          position: absolute;
-          width: $lineLength;
-          height: $lineWidth;
-          border-radius: ($lineWidth / 2);
-          background: #fff;
-          transition: transform 0.4s;
-          outline: 1px solid transparent;
-        }
-        &:before{
-          top: 0 - ($lineLength/3);
-        }
-        &:after{
-          top: ($lineLength/3);
-        }
       }
-      &:hover .open-tray-icon:before{
-        transform:rotate(35deg) translate(9px, -3px);
+      &:before{
+        top: 0 - ($lineLength/3);
       }
-      &:hover .open-tray-icon:after{
-        transform:rotate(-35deg) translate(9px, 3px);
+      &:after{
+        top: ($lineLength/3);
       }
     }
-    &__hidden-checkbox{
-      display: none;
+    @at-root .no-touch &:hover .open-tray-icon:before{
+      transform:rotate(35deg) translate(9px, -3px);
     }
-    &--tray-open{
-      .site-header__heading__label:hover .open-tray-icon:before{
+    @at-root .no-touch &:hover .open-tray-icon:after{
+      transform:rotate(-35deg) translate(9px, 3px);
+    }
+    @at-root .no-touch &--tray-open:hover{
+      .open-tray-icon:before{
           transform:rotate(-35deg) translate(-8px, -3px);
       }
-      .site-header__heading__label:hover .open-tray-icon:after{
+      .open-tray-icon:after{
           transform:rotate(35deg) translate(-8px, 3px);
       }
     }
+
   }
-}
-
-
-.language-choice-toggle{
-  float: right;
-  text-transform: capitalize;
-  height: $headerHeight;
-  line-height: ($headerHeight - 1px);
-  padding: 0 $default-padding;
-  cursor: pointer;
-  transition: background 0.2s;
-  @extend %user-select-none;
-  &:hover{
-    background:rgba($color-accent-dark,0.35);
-  }    
 }

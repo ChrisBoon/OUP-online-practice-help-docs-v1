@@ -2,16 +2,28 @@
   &__title{
     color: $color-main;
     font-size: $heading-font-size;
+    @include breakpoint(tiny){
+      padding-left: $mobile-padding;
+      font-size: $menu-font-size;
+    }
   }
   &__page{
     &__title{
       font-size: $heading-font-size;
       color: $color-grey-main;
       padding-bottom: 0.4em;
+      @include breakpoint(tiny){
+        padding-left: $mobile-padding;
+        font-size: $menu-font-size;
+      }
     }
     &__scaffold{
       border-radius: $brad;
       box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+      @include breakpoint(tiny){
+        border-radius: 0;
+        box-shadow: none;
+      }
       background: #FFF;
       overflow: hidden;
       margin-bottom: ($default-padding / 2);
@@ -51,6 +63,7 @@
           transition: box-shadow 0.3s;
           cursor: pointer;
           @extend %user-select-none;
+          @extend %no-tap-color;
           &--focus{
             z-index: z("number");
             background: #10A4DA;
@@ -90,6 +103,7 @@
         }
         &--focus{
           background: #EBEFEF;
+          @extend %no-tap-color;
           .help-doc__page__paragraph--numbered__number{
             background: #10A4DA;
           }

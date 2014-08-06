@@ -15,6 +15,7 @@
     line-height: $headerHeight - 1px;
     color: #fff;
     @extend %user-select-none;
+    @extend %no-tap-color;
     cursor: pointer;
     &__arrow{
       position: absolute;
@@ -46,6 +47,7 @@
     }
     &__list-item{
       margin-bottom: 4px;
+      cursor: pointer;
       &:last-child{
         margin-bottom: 0;
       }

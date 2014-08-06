@@ -130,55 +130,52 @@ class="ng-cloak"
     </div>
   </div>
 
-  <div 
-  class="slide-out-drawer slide-out-drawer--right slide-out-drawer--language"
-  ng-show="openDrawer.openRight"
-  ng-if="appLanguages.length > 1"
-  ng-swipe-right="openDrawer.openRight=false"
-  >
-    <ul class="language-choice__list">
-      <li 
-      class="language-choice__list__item"
-      ng-repeat="appLang in appLanguages"
-      ng-click="language.language = appLang.toLowerCase();setLang(language.language)"
-      ng-class="{'language-choice__list__item--active': language.language === appLang.toLowerCase()}"
-      >
-        {{appLang}}
-      </li>
-    </ul>
-  </div>
-
 
   <div class="content-container">
     <div class="site-header">
       <h1 
       class="site-header__heading" 
       ng-class="{'site-header__heading--tray-open': openDrawer.open === true}"
+      ng-click="openDrawer.openLanguage=false;openDrawer.open = !openDrawer.open"
       >
-        <label class="site-header__heading__label">
           <span class="open-tray-icon"></span>
-          <input 
-          type="checkbox" 
-          ng-model="openDrawer.open" 
-          class="site-header__heading__hidden-checkbox"
-          >
-            <!--$courseTitle--> Online Practice: Help
-        </label>
+          <span class="site-header__heading__span"><!--$courseTitle-->: </span>Help
       </h1>
 
-      <div 
-      class="language-choice-toggle"
-      ng-if="appLanguages.length > 1"
-      ng-click="openDrawer.openRight = !openDrawer.openRight"
-      >
-        {{language.language}}
+      <div class="language-choice-container">
+        <div 
+        class="language-choice-toggle"
+        ng-if="appLanguages.length > 1"
+        ng-click="openDrawer.openLanguage = !openDrawer.openLanguage"
+        >
+          {{language.language}}
+        </div>
+
+        <div 
+        class="menu menu--language"
+        ng-show="openDrawer.openLanguage"
+        ng-if="appLanguages.length > 1"
+        >
+          <ul class="language-choice__list">
+            <li 
+            class="language-choice__list__item"
+            ng-repeat="appLang in appLanguages"
+            ng-click="language.language = appLang.toLowerCase();setLang(language.language); openDrawer.openLanguage=false;"
+            ng-class="{'language-choice__list__item--active': language.language === appLang.toLowerCase()}"
+            >
+              {{appLang}}
+            </li>
+          </ul>
+        </div>
       </div>
+
+
     </div>
 
     <div 
     class="content-area"
-    ng-click="openDrawer.open=false; openDrawer.openRight=false"
-    ng-class="{'content-area--inactive': openDrawer.open === true || openDrawer.openRight === true}"
+    ng-click="openDrawer.open=false; openDrawer.openLanguage=false"
+    ng-class="{'content-area--inactive': openDrawer.open === true || openDrawer.openLanguage === true}"
     >
     <div ng-view class="content-area__view"></div>
   </div>
