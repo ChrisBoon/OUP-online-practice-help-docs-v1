@@ -1,0 +1,182 @@
+.index-page{
+  $size: 250px;
+  position: relative;
+  padding-top: $headerHeight;
+  background: #efefef;
+  &__header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: $headerHeight;
+    line-height:$headerHeight;
+    font-size:$header-font-size;
+    background: $color-main;
+    color: #fff;
+  }
+  &__heading{
+    float: left;
+    padding: 0 $default-padding;
+    @include breakpoint(small){
+      padding: 0 $mobile-padding;
+    }
+  }
+  &__search{
+    &__toggle{
+      float: right;
+      height: $headerHeight;
+      padding: 5px;
+      cursor: pointer;
+      margin-right: $default-padding - 5px;
+      @include breakpoint(small){
+        margin-right: $mobile-padding - 5px;
+      }
+      &__icon{
+        opacity: 0.75;
+        transition:opacity 0.2s;
+      }
+      &:hover .index-page__search__toggle__icon,
+      &--active .index-page__search__toggle__icon{
+        opacity: 1;
+      }
+    }
+    &__container{
+      background:#333;
+      transition: all 0.5s;
+      transform-origin: top center;
+      height: $headerHeight;
+      overflow: hidden;
+      padding: 5px;
+      &.ng-hide {
+        transform: translate(0,-100%);
+        opacity: 0;
+      }
+    }
+    &__input{
+      background:#fff;
+      border-radius: $brad;
+      outline: none;
+      border:none;
+      box-shadow:none;
+      height: $headerHeight - 10px;
+      display: block;
+      width: 100%;
+      color:$color-main;
+      font-size: inherit;
+      margin: 0;
+      padding: 0 $default-padding;
+    }
+  }
+  &__container{
+    height: 100%;
+    overflow: auto;
+    @include ios-scroll;
+  }
+  &__list{
+    display: block;
+    padding: $default-padding;
+    @include breakpoint(small){
+      padding: $mobile-padding;
+    }
+    @include clearfix;
+    margin: 0 auto;
+    max-width: 1100px;
+    @media (min-width: 600px) and (max-width: 840px){
+      max-width: 550px;
+    }
+    @media (min-width: 841px) and (max-width: 1070px){
+      max-width: 810px;
+    }
+  }
+  &__item{
+    display: block;
+    width: $size;
+    float: left;
+    margin-bottom: ($size / 20);
+    @media (max-width: 600px){
+      float: none;
+      width: auto;
+      @include clearfix;
+    }
+    @media (min-width: 600px) and (max-width: 840px){
+      margin-right: 10px;
+      &:nth-child(2n){
+        margin-right: 0;
+      }
+    }
+    @media (min-width: 841px) and (max-width: 1070px){
+      margin-right: 10px;
+      &:nth-child(3n){
+        margin-right: 0;
+      }
+     }
+    @media (min-width: 1071px){
+      margin-right: 10px;
+       &:nth-child(4n){
+        margin-right: 0;
+      }
+    }
+  }
+  &__link{
+    display: block;
+    background:#fff;
+    border-radius: $brad;
+    overflow: hidden;
+    box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2);
+    &__thumb{
+    @media (max-width: 600px){
+        float: left;
+        width: 80px;
+        height: 80px;
+        margin-right: 10px;
+      }
+      img{
+        display: block;
+        width: 100%;
+      }
+    }
+    &__span{
+      display: block;
+      padding: 0.25em 0.5em;
+      background:#fff;
+      font-size: $copy-font-size;
+      min-height:4em;
+      line-height: 1.4em;
+      @include breakpoint(small){
+        font-size: $menu-font-size;
+        min-height: 1em;
+
+      }
+    }
+  }
+}
+
+.index-page__item.ng-enter,
+.index-page__item.ng-move {
+  transition: 0.6s all;
+}
+.index-page__item.ng-leave{
+  transition: 0.2s all;
+}
+
+.index-page__item.ng-enter,
+.index-page__item.ng-move {
+  opacity: 0;
+  transform:scale(0);
+}
+
+.index-page__item.ng-move.ng-move-active,
+.index-page__item.ng-enter.ng-enter-active {
+  opacity: 1;
+  transform:scale(1);
+}
+
+.index-page__item.ng-leave {
+  opacity: 1;
+  transform:scale(1);
+}
+
+.index-page__item.ng-leave.ng-leave-active {
+  opacity: 0;
+  transform:scale(1.2);
+}
