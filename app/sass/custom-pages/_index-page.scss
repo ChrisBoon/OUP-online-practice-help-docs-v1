@@ -71,6 +71,7 @@
     height: 100%;
     overflow: auto;
     @include ios-scroll;
+    -webkit-transform: translate3d(0,0,0);
   }
   &__list{
     display: block;
