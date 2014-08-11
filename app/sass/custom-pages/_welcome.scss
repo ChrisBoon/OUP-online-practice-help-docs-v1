@@ -1,4 +1,68 @@
-.help-doc__page--welcome{
-  font-size: $copy-font-size;
-
+.welcome-page{
+  &__container{
+    font-size: $copy-font-size;
+    margin: 0 auto;
+    max-width: 900px;
+  }
+  &__heading{
+    color: $color-main;
+    font-size: $heading-font-size;
+    margin: 0 auto;
+    max-width: 900px;
+    margin-bottom: 0.4em;
+    @include breakpoint(tiny){
+      padding-left: $mobile-padding;
+      padding-right: $mobile-padding;
+      font-size: $menu-font-size;
+    }
+  }
+  &__segment{
+    border-radius: $brad;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    &:last-child{
+      margin-bottom: 0;
+    }
+    background:#fff;
+    @include breakpoint(tiny){
+      border-radius: 0;
+      box-shadow: none;
+    }
+    padding: ($default-padding / 3);
+    &__heading{
+      font-size: $menu-font-size;
+      color: $color-grey-main;
+      padding-bottom: 0.2em;
+    }
+    p{
+      margin-bottom: 0.3em;
+    }
+    &--languages{
+      background:$color-grey-main;
+      color: #fff;
+      &__heading{
+        color: #fff;
+      }
+      .link--email-support{
+        border-bottom: 1px solid rgba(#fff,0.4);
+        transition: background-color 0.3s, border-color 0.3s;
+        &:hover{
+          border-color: rgba(30,30,30,0);
+          background-color: rgba(30,30,30,0.2);
+        }
+      }
+    }
+    &--contact{
+      background:#000;
+      color: #fff;
+      &__heading{
+        color: #fff;
+      }
+    }
+    &--specs{
+      &__heading{
+        font-weight: 700;
+      }
+    }
+  }
 }

@@ -95,32 +95,31 @@
     <!-- start if 404 -->
     <div 
     ng-if="page.pageType == '404'"
-    class="help-doc__page--404 help-doc__page__scaffold"
+    class="error-page"
     >
+      <div class="error-page__segment">
+      <!-- Use a CodeKit loop here once released -->
+        <p ng-if="language.language == 'english'">
+          {{page.content.thing01.text.english}}
+        </p>
 
-    <!-- Use a CodeKit loop here once released -->
-    <p ng-if="language.language == 'english'">
-      {{page.content.thing01.text.english}}
-    </p>
+        <p ng-if="language.language == 'french'">
+          {{page.content.thing01.text.french}}
+        </p>
 
-    <p ng-if="language.language == 'french'">
-      {{page.content.thing01.text.french}}
-    </p>
+        <p ng-if="language.language == 'turkish'">
+          {{page.content.thing01.text.turkish}}
+        </p>
 
-    <p ng-if="language.language == 'turkish'">
-      {{page.content.thing01.text.turkish}}
-    </p>
-
-    <p ng-if="language.language == 'arabic'">
-      {{page.content.thing01.text.arabic}}
-    </p>
-
-    <a 
-    ng-href="{{page.content.thing02.link}}"
-    >
-      {{page.content.thing02.link}}
-    </a>
-
+        <p ng-if="language.language == 'arabic'">
+          {{page.content.thing01.text.arabic}}
+        </p>
+        <p class="link-to-home">
+          <a href="/index.html">
+            {{page.content.thing02.link}}
+          </a>
+        </p>
+      </div>
     </div>
     <!-- end if 404 -->
 

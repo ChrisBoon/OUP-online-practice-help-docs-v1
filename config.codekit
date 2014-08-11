@@ -38,6 +38,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/icons\/help-doc-icon-exp-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-exp-2x.png",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-exp-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/icons\/help-doc-icon-faf2e-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102336,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-faf2e-2x.png",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-faf2e-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/PAR001.png": {
 		"fileType": 32768,
 		"ignore": 0,
