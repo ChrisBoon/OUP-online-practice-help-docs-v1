@@ -10,7 +10,7 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/app.css"/>
-  
+  <script src="http:////cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.2/fastclick.min.js"></script>
   <!--<script src="bower_components/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js"></script>-->
   <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.min.js"></script>
   <!--<script src="bower_components/angular/angular.min.js"></script>-->
@@ -34,6 +34,11 @@
   currentCourse = "faf2e";
   currentCourseTitle = "Family and Friends";
   courseLanguages = ['English','Turkish','Arabic'];
+
+  var runFastClick = function() {
+    FastClick.attach(document.body);
+  }
+  runFastClick();
   </script>
 </head>
 <body 
@@ -186,5 +191,11 @@ class="ng-cloak course-home"
   </div>
 
   </div><!-- /content-container -->
+  <script>
+    var runFastClick = function() {
+      FastClick.attach(document.body);
+    }
+    runFastClick();
+  </script>  
 </body>
 </html>
