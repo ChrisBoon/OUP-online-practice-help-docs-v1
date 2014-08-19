@@ -99,24 +99,21 @@
     >
       <div class="error-page__segment">
       <!-- Use a CodeKit loop here once released -->
-        <p ng-if="language.language == 'english'">
-          {{page.content.thing01.text.english}}
-        </p>
+        <div ng-if="language.language == 'english'">
+          <p>{{page.content.thing01.text.english}}</p>
+          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.english}}</a>
+        <div>
 
-        <p ng-if="language.language == 'french'">
-          {{page.content.thing01.text.french}}
-        </p>
+        <div ng-if="language.language == 'turkish'">
+          <p>{{page.content.thing01.text.turkish}}</p>
+          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.turkish}}</a>
+        <div>
 
-        <p ng-if="language.language == 'turkish'">
-          {{page.content.thing01.text.turkish}}
-        </p>
+        <div ng-if="language.language == 'arabic'">
+          <p>{{page.content.thing01.text.arabic}}</p>
+          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.arabic}}</a>
+        <div>
 
-        <p ng-if="language.language == 'arabic'">
-          {{page.content.thing01.text.arabic}}
-        </p>
-        <p class="link-to-home">
-          <a ng-click="go('')">http://thepagelocation/index.html</a>
-        </p>
       </div>
     </div>
     <!-- end if 404 -->

@@ -1,40 +1,23 @@
 .error-page{
   font-size: $menu-font-size;
   color: lighten($text-color,40);
+  @include breakpoint(tiny){
+    margin-left: $mobile-padding;
+    margin-right: $mobile-padding;
+  }
   a{
-    font-size: $heading-font-size;
-    display: inline-block;
-    background:$color-main;
+    font-size: $menu-font-size;
+    display: block;
+    background:#fff;
     border-radius: $brad;
-    color:#fff;
+    color:$color-main;
     padding: 1em 2em;
     margin: 1em 0;
-    @include breakpoint(medium){
-      font-size: $menu-font-size;
-    }
-    @include breakpoint(small){
-      display: block;
-    }
-  }
-  &__segment{
-    border-radius: $brad;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
-    margin-bottom: 10px;
-    &:last-child{
-      margin-bottom: 0;
-    }
-    background:#fff;
-    @include breakpoint(tiny){
-      border-radius: 0;
-      box-shadow: none;
-    }
-    padding: ($default-padding / 1.5) ($default-padding / 3);
-    p{
-    max-width: 800px;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-
+    cursor: pointer;
+    @include breakpoint(medium){
+      padding: 0.5em 2em;
+      margin: 0.5em 0;
     }
   }
 }

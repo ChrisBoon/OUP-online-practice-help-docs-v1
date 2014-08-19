@@ -882,11 +882,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/partials\/partial2.html": {
+	"\/app\/partials\/welcome-primary.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/partials\/partial2.html",
+		"inputAbbreviatedPath": "\/app\/partials\/welcome-primary.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
