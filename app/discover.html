@@ -30,10 +30,14 @@
   <script src="js/controllers.min.js"></script>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   <script>
-  //global variable used to set course specific calls in controllers.js - there are probably many better ways to do this.
-  currentCourse = "od";
-  currentCourseTitle = "Oxford Discover";
-  courseLanguages = ['English','Turkish','Arabic'];
+  opHelpGlobals = {
+    config:{
+      homePage:"primary",
+      currentCourse: "od",
+      currentCourseTitle: "Oxford Discover",
+      courseLanguages: ['English','Turkish','Arabic']     
+    }
+  }
 
   var runFastClick = function() {
     FastClick.attach(document.body);
