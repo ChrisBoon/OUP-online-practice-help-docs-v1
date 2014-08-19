@@ -1,6 +1,6 @@
 {
  "title": {
-    "english": "Welcome page will be populated by this file once text is set.",
+    "english": "Welcome to Online Practice help",
     "turkish": "-",
     "arabic": "-"
   },
@@ -13,11 +13,28 @@
       "imgUrl": "",
 
       "content":{
-        "thing01": {
-          "text":{
-            "english": "-",
+        "section01": {
+          "title":{
+            "english": "Using Online Practice Help",
             "turkish": "-",
             "arabic": "-"
+          },
+          "text":{
+            "01":{
+              "english": "Use the slide-out menu on the left to find help and guidance on using the different areas of your Online Practice course for students, teachers and administrators.",
+              "turkish": "-",
+              "arabic": "-"
+            },
+            "02":{
+              "english": "Click any piece of text in each Help section to see the related number highlight on the screen shots.",
+              "turkish": "-",
+              "arabic": "-"
+            },
+            "03":{
+              "english": "Use the menu on the right to use the Online Practice Help area in a different language.",
+              "turkish": "-",
+              "arabic": "-"
+            }
           }
         },
         "thing02": {

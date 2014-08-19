@@ -38,6 +38,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/icons\/help-doc-icon-eos-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16251,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-eos-2x.png",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-eos-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/app\/icons\/help-doc-icon-exp-2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -47,7 +58,7 @@
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-exp-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/app\/icons\/help-doc-icon-faf2e-2x.png": {
 		"fileType": 32768,
@@ -58,7 +69,40 @@
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-faf2e-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/app\/icons\/help-doc-icon-od-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16251,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-od-2x.png",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-od-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/app\/icons\/help-doc-icon-q2e-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16251,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-2x.png",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/app\/icons\/help-doc-icon-t2t-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16251,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-t2t-2x.png",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-t2t-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/app\/img\/PAR001.png": {
 		"fileType": 32768,

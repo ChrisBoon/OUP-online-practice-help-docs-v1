@@ -4,8 +4,7 @@ angular.module('myApp.controllers', [])
   .controller('MyCtrl1', ['$scope', '$routeParams', '$http', '$location',
     function ($scope, $routeParams, $http, $location) {
 
-    //note: currentCourse is defined in the head of html file for each course as a global variable.
-    //      Getting this programmatically somehow may be better.
+    //note: opHelpGlobals is defined in the head of html file for each course as a global variable.
 
     //sets drawer as closed on default
     $scope.openDrawer = {"open":false, "openLangauge":false};
@@ -15,11 +14,10 @@ angular.module('myApp.controllers', [])
 
     //not sure this if/else statement is still relevant - consider cutting to just the else part if not used.
     if ( $routeParams.helpmenuId === undefined) {
-      $scope.helpmenuId = "primary-welcome";
+      $scope.helpmenuId =  opHelpGlobals.config.currentCourse+'-welcome';
     }
     else{
       $scope.helpmenuId = $routeParams.helpmenuId;
-    }
 
     //get the json for the required doc
     $http.get('json/' + $scope.helpmenuId + '.json')
@@ -32,15 +30,17 @@ angular.module('myApp.controllers', [])
       .error(
         function(data){
           $http.get('json/primary-error.json')
-            .success(
-              function(data) {
-                $scope.helpdoc = data;
-              }
-            );          
+          .success(
+            function(data) {
+              $scope.helpdoc = data;
+            }
+          );          
         }
       );
+    }
+
     //get json for toc of course to create menu
-    $http.get('json/pagelist-' + currentCourse + '.json').success(function(data) {
+    $http.get('json/pagelist-' + opHelpGlobals.config.currentCourse + '.json').success(function(data) {
       $scope.helpmenu = data;
     });
 
@@ -49,19 +49,18 @@ angular.module('myApp.controllers', [])
     //If not we set the language to English.
     $scope.getLang = function(){
 
-      if (localStorage.getItem("language-" + currentCourse + "") === null) {
-        localStorage.setItem("language-" + currentCourse + "","english");
+      if (localStorage.getItem("language-" + opHelpGlobals.config.currentCourse + "") === null) {
+        localStorage.setItem("language-" + opHelpGlobals.config.currentCourse + "","english");
       }
-      $scope.language = {"language":localStorage.getItem("language-" + currentCourse + "")};
+      $scope.language = {"language":localStorage.getItem("language-" + opHelpGlobals.config.currentCourse + "")};
     };
     //Updates localstorage so we can use getLang next time a user is here.
     $scope.setLang = function(thing){
-      localStorage.setItem("language-" + currentCourse + "",thing);
+      localStorage.setItem("language-" + opHelpGlobals.config.currentCourse + "",thing);
     };
     //gets appLanguages global variable and adds it to scope for use with expressions in html page.
-    //note - this is my second globl variable - at the least I should encapsulate these into one object.
-    $scope.appLanguages = courseLanguages;
-    $scope.courseName = currentCourseTitle;
+    $scope.appLanguages = opHelpGlobals.config.courseLanguages;
+    $scope.courseName = opHelpGlobals.config.currentCourseTitle;
 
     //workaround for touch bug
     $scope.go = function ( path ) {

@@ -8,8 +8,7 @@ angular.module('myApp', [
   'ui.bootstrap'
 ]).
 config(['$routeProvider', function($routeProvider) {
-  $routeProvider.when('/', {templateUrl: 'partials/partial2.html', controller: 'MyCtrl1'});
-  $routeProvider.when('/home', {templateUrl: 'partials/partial2.html', controller: 'MyCtrl1'});
+  $routeProvider.when('/', {templateUrl: 'partials/welcome-'+ opHelpGlobals.config.homePage +'.html', controller: 'MyCtrl1'});
   $routeProvider.when('/:helpmenuId', {templateUrl: 'partials/partial1.html', controller: 'MyCtrl1'});
   $routeProvider.otherwise({redirectTo: '/'});
 }]);
