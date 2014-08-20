@@ -8,23 +8,21 @@
   left: 0;
   top: 0px;
   height: $headerHeight;
-  background: $color-main;
+  background: lighten($color-accent-contrast,20);
   color: #fff;
-  @include clearfix;
 
   &__heading{
+    // box-shadow: inset 0 -1px 0 0 #333;
+    color: $text-color;
     $lineWidth: 6px;
     $lineLength: 30px;
     line-height: ($headerHeight - 1px);
     float: left;
     height: $headerHeight;
     position: relative;
-    padding: 0 $default-padding 0 $headerHeight;
+    padding: 0 ($default-padding / 2);
     transition: background 0.2s;
-    cursor: pointer;
-    @extend %user-select-none;
-    @extend %no-tap-color;
-
+    cursor: default;
     &__span{
       @include breakpoint(tiny){
         display: none;
@@ -73,6 +71,82 @@
           transform:rotate(35deg) translate(-8px, 3px);
       }
     }
-
+  }
+  .menu-toggle{
+    $lineWidth: 2px;
+    $lineLength: 18px;
+    float: left;
+    position: relative;
+    height: $headerHeight;
+    line-height: $headerHeight - 1px;
+    padding: 0 $lineLength 0 (($lineLength * 2) +10px);
+    font-size: $copy-font-size;
+    text-transform: capitalize;
+    text-align: center;
+    cursor: pointer;
+    transition: background 0.2s;
+    @extend %user-select-none;
+    @extend %no-tap-color;
+    background: $color-accent-contrast;
+    @at-root .no-touch &:not(.menu-toggle--tray-open):hover{
+      background: #E4AD01;
+    }
+    &:before{
+      content: "";
+      position: absolute;
+      display: block;
+      background:$color-accent-contrast;
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      top: ($headerHeight - 24px) / 2;
+      left: $lineLength - 3px;
+      transform: scale(0);
+      transition: all 0.2s;
+    }
+    &--tray-open{
+      background: #333;
+      &:before{
+      transform: scale(1);
+      }
+    }
+    &__icon{
+      display: block;
+      background:#fff;
+      position: absolute;
+      width: $lineLength;
+      height: $lineWidth;
+      top: ($headerHeight / 2) - ($lineWidth / 2);
+      left: $lineLength;
+      transition: width 0.4s;
+      outline: 1px solid transparent;
+      transition: background 0.4s;
+      &:before, &:after{
+        content: "";
+        display: block;
+        position: absolute;
+        width: $lineLength;
+        height: $lineWidth;
+        top:0;
+        background: #fff;
+        transition: all 0.4s;
+        outline: 1px solid transparent;
+      }
+      &:before{
+        transform: translate(0,-8px);
+      }
+      &:after{
+        transform: translate(0,8px);
+      }      
+    }
+    &--tray-open .menu-toggle__icon{
+      background: none;
+      &:before{
+        transform: rotate(45deg);
+      }
+      &:after{
+        transform: rotate(-45deg);
+      }
+    }
   }
 }

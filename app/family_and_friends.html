@@ -161,18 +161,14 @@ class="ng-cloak course-home"
 
   <div class="content-container">
     <div class="site-header">
-      <h1 
-      class="site-header__heading" 
-      ng-class="{'site-header__heading--tray-open': openDrawer.open === true}"
-      ng-click="openDrawer.openLanguage=false;openDrawer.open = !openDrawer.open"
-      >
-        <span class="open-tray-icon"></span>
+      <h1 class="site-header__heading">
         <span class="site-header__heading__span">Family and Friends: </span>Help
       </h1>
 
       <div class="language-choice-container">
         <div 
         class="language-choice-toggle"
+        ng-class="{'language-choice-toggle--open': openDrawer.openLanguage === true}"
         ng-if="appLanguages.length > 1"
         ng-click="openDrawer.openLanguage = !openDrawer.openLanguage"
         >
@@ -195,6 +191,16 @@ class="ng-cloak course-home"
           </ul>
         </div>
       </div>
+
+      <div
+      class="menu-toggle"
+      ng-class="{'menu-toggle--tray-open': openDrawer.open === true}"
+      ng-click="openDrawer.open = !openDrawer.open"
+      >
+        <span class="menu-toggle__text">Menu</span>
+        <span class="menu-toggle__icon"></span>
+      </div>
+
     </div>
 
     <div 
