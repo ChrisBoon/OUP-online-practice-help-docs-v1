@@ -59,6 +59,17 @@ class="ng-cloak course-home"
   ng-swipe-left="openDrawer.open=false"
   >
     <div class="help-menu">
+
+    <a 
+    ng-click="openDrawer.open=false;obj.value1='/';go('')"
+    ng-class="{'help-menu__option--active': obj.value1 === '/'}"
+    class="help-menu__option--home"
+    >
+      <span ng-if="language.language == 'english'">Welcome/FAQ</span>
+      <span ng-if="language.language == 'turkish'">Welcome/FAQ</span>
+      <span ng-if="language.language == 'arabic'">Welcome/FAQ</span>
+    </a>
+
       <accordion close-others="oneAtATime">
         <accordion-group 
         ng-repeat="user in helpmenu" 
@@ -111,32 +122,32 @@ class="ng-cloak course-home"
               <!-- Use a CodeKit loop here once released -->
               <a 
               ng-if="language.language == 'english'"
-              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/doc/'+listitem.id}"
+              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
+              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
               class="help-menu__option"
               >
                 {{listitem.title.english}}
               </a>
               <a 
               ng-if="language.language == 'french'"
-              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/doc/'+listitem.id}"
+              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
+              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
               class="help-menu__option"
               >
                 {{listitem.title.french}}
               </a>
               <a 
               ng-if="language.language == 'turkish'"
-              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/doc/'+listitem.id}"
+              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
+              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
               class="help-menu__option"
               >
                 {{listitem.title.turkish}}
               </a>
               <a 
               ng-if="language.language == 'arabic'"
-              ng-click="openDrawer.open=false;obj.value1='/doc/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/doc/'+listitem.id}"
+              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
+              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
               class="help-menu__option"
               >
                 {{listitem.title.arabic}}
