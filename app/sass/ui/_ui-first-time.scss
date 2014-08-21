@@ -1,0 +1,28 @@
+.first-time-message{
+  position: absolute;
+  top: $headerHeight + 6px;
+  left: $default-padding;
+  max-width: calc(100% - 120px);
+  padding: 12px;
+  border-radius: $brad;
+  background-color: #fff;
+  font-size: $heading-font-size;
+  z-index: z("first-time");
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+
+  &:before{
+    content: "";
+    display: block;
+    position: absolute;
+    top: -15px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 30px 30px 30px;
+    border-color: transparent transparent #fff transparent;
+  }
+  &.ng-hide {
+    opacity: 0;
+  }  
+}

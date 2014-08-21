@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js"> <!--<![endif]-->
 <head>
@@ -47,8 +45,9 @@
 </head>
 <body 
 ng-controller="MyCtrl1"
-ng-init="getLang()"
+ng-init="getLang();firstTimeCheck()"
 class="ng-cloak course-home"
+    ng-click="firstTimeSet()"
 >
   <!--[if lt IE 9]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -65,9 +64,9 @@ class="ng-cloak course-home"
     ng-class="{'help-menu__option--active': obj.value1 === '/'}"
     class="help-menu__option--home"
     >
-      <span ng-if="language.language == 'english'">Welcome/FAQ</span>
-      <span ng-if="language.language == 'turkish'">Welcome/FAQ</span>
-      <span ng-if="language.language == 'arabic'">Welcome/FAQ</span>
+      <span ng-if="language.language == 'english'">Welcome</span>
+      <span ng-if="language.language == 'turkish'">Welcome (Turkish)</span>
+      <span ng-if="language.language == 'arabic'">Welcome (Arabic)</span>
     </a>
 
       <accordion close-others="oneAtATime">
@@ -156,15 +155,20 @@ class="ng-cloak course-home"
           </ul>
         </accordion-group>
       </accordion>
+    <a 
+    ng-click="openDrawer.open=false;obj.value1='/faq';go('/faq')"
+    ng-class="{'help-menu__option--active': obj.value1 === '/faq'}"
+    class="help-menu__option--home"
+    >
+      <span ng-if="language.language == 'english'">FAQ</span>
+      <span ng-if="language.language == 'turkish'">FAQ (Turkish)</span>
+      <span ng-if="language.language == 'arabic'">FAQ (Arabic)</span>
+    </a>      
     </div>
   </div>
 
   <div class="content-container">
     <div class="site-header">
-      <h1 class="site-header__heading">
-        <span class="site-header__heading__span">Oxford Discover: </span>Help
-      </h1>
-
       <div class="language-choice-container">
         <div 
         class="language-choice-toggle"
@@ -197,16 +201,23 @@ class="ng-cloak course-home"
       ng-class="{'menu-toggle--tray-open': openDrawer.open === true}"
       ng-click="openDrawer.open = !openDrawer.open"
       >
-        <span class="menu-toggle__text">Menu</span>
+        <span class="menu-toggle__text">Help documents</span>
         <span class="menu-toggle__icon"></span>
-      </div>
+      </div><!--/menu-toggle-->
 
     </div>
+
+    <div
+    class="first-time-message"
+    ng-if="firstTime.first === 'true'"
+    >
+    Click here to choose a help topic
+  </div><!--/first-time-message-->
 
     <div 
     class="content-area"
     ng-click="openDrawer.open=false; openDrawer.openLanguage=false"
-    ng-class="{'content-area--inactive': openDrawer.open === true || openDrawer.openLanguage === true}"
+    ng-class="{'content-area--inactive': openDrawer.open === true || openDrawer.openLanguage === true || firstTime.first === 'true'}"
     >
     <div ng-view class="content-area__view"></div>
   </div>

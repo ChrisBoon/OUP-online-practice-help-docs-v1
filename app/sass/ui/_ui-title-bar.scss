@@ -102,12 +102,14 @@
       top: ($headerHeight - 24px) / 2;
       left: $lineLength - 3px;
       transform: scale(0);
-      transition: all 0.2s;
+      opacity:0;
+      transition: all 0.4s;
     }
     &--tray-open{
       background: #333;
       &:before{
       transform: scale(1);
+      opacity:1;
       }
     }
     &__icon{

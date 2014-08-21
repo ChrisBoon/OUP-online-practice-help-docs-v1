@@ -61,9 +61,7 @@
       background:rgba(243, 243, 243, 1);
     }
     &--active{
-      // background:lighten(#EBEBEB,2);
       color: $color-accent-contrast;
-      pointer-events:none;
     }
   }
 //help-menu uses angular-ui bootstrap - these rules needed for animation

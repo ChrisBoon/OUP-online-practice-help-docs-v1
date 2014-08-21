@@ -2,9 +2,7 @@
   position: relative;
   float: right;
   height: $headerHeight;
-  @include breakpoint(small){
-    min-width: 100px;
-  }
+  width: 120px;
 }
 
 .language-choice-toggle{
@@ -13,17 +11,17 @@
   text-align: center;
   height: $headerHeight;
   line-height: $headerHeight - 1px;
-  padding: 0 18px;
+  padding: 0;
   cursor: pointer;
   transition: background 0.2s;
   @extend %user-select-none;
   @extend %no-tap-color;
-  // background: $color-accent-contrast;
+  background: $color-accent-contrast;
   @at-root .no-touch &:not(.language-choice-toggle--open):hover{
-    background: $color-accent-contrast;
+    background: #E4AD01;
   }
   &--open{
-    background: $color-accent-contrast;
+    background: #333;
   }
 }
 

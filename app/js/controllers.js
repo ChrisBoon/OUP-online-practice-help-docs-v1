@@ -67,6 +67,22 @@ angular.module('myApp.controllers', [])
       $location.path( path );
     };
 
+    $scope.firstTimeSet = function(){
+      sessionStorage.setItem("firstTime-" + opHelpGlobals.config.currentCourse + "","false");
+      $scope.firstTime = {"first":"false"};
+    };
+
+    $scope.firstTimeCheck = function(){
+      if (sessionStorage.getItem("firstTime-" + opHelpGlobals.config.currentCourse + "") === null) {
+        sessionStorage.setItem("firstTime-" + opHelpGlobals.config.currentCourse + "","true");
+        $scope.firstTime = {"first":"true"};
+      }
+    };
+
+
+
+
+
   }])
 
   .controller('MyCtrl2', ['$scope',
