@@ -1,6 +1,6 @@
 {
  "title": {
-    "english": "How to add a new class",
+    "english": "Add a New Class",
     "turkish": "-",
     "arabic": "-"
   },
@@ -12,7 +12,7 @@
       "pageType": "screenshot",
       "imgId": "PTAC001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Choose a level",
         "turkish": "-",
         "arabic": "-"
       },
@@ -22,27 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Click on a book cover to select that level for your new class. To add a new level, go to your Home page and click “add a level”.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph02": {
-          "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
-          "text":{
-            "english": "Click here to go back to the previous page.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph03": {
-          "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
-          "text":{
-            "english": "Click here to go to the next page.",
+            "english": "Choose a level for your new class.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -53,23 +33,23 @@
       "pageType": "screenshot",
       "imgId": "PTAC002.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Enter your institution code",
         "turkish": "-",
         "arabic": "-"
       },
       "paragraphs":{
         "paragraph01": {
-          "number": 1,
+          "number": 2,
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip.” You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
+            "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
             "turkish": "-",
             "arabic": "-"
           }
         },
         "paragraph02": {
-          "number": 2,
+          "number": 3,
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
@@ -79,7 +59,7 @@
           }
         },
         "paragraph03": {
-          "number": 3,
+          "number": 4,
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
@@ -89,7 +69,7 @@
           }
         },
         "paragraph04": {
-          "number": 4,
+          "number": 5,
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
@@ -104,37 +84,17 @@
       "pageType": "screenshot",
       "imgId": "PTAC003.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Create a class name",
         "turkish": "-",
         "arabic": "-"
       },
       "paragraphs":{
         "paragraph01": {
-          "number": 1,
+          "number": 6,
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Enter a name for your new class here. You can change this name later by clicking “Edit” on your Class Details page.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph02": {
-          "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
-          "text":{
-            "english": "Click here to go back to the previous page.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph03": {
-          "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
-          "text":{
-            "english": "Click here to go to the next page.",
+            "english": "Enter a name for your class here.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -145,37 +105,17 @@
       "pageType": "screenshot",
       "imgId": "PTAC004.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Save your class ID code",
         "turkish": "-",
         "arabic": "-"
       },
       "paragraphs":{
         "paragraph01": {
-          "number": 1,
+          "number": 7,
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "This is the class ID code for your new class. Give this code to your students so they can join your class and you can see their work.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph02": {
-          "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
-          "text":{
-            "english": "Click here to print this page for your records or to copy and share with your students. ",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph03": {
-          "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
-          "text":{
-            "english": "Click here to finish adding your class and go back to your home page.",
+            "english": "This is the ID code for your new class. Save the code and distribute it to your students. They will be able to join your class with the new code and you will be able to see their reports.",
             "turkish": "-",
             "arabic": "-"
           }

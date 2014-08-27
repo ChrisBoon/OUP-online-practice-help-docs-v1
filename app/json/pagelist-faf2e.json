@@ -1,5 +1,5 @@
 {
-  "02_teacher": {
+  "01_teacher": {
     "order": 1,
     "userType": {
         "english": "Teacher",
@@ -10,7 +10,7 @@
       "item01":{
         "order":1,
         "title": {
-          "english": "Register / sign up",
+          "english": "Registration",
           "turkish": "-",
           "arabic": "-"
         },
@@ -28,32 +28,59 @@
       "item03":{
         "order":3,
         "title": {
-          "english": "Edit Profile",
-          "turkish": "-",
-          "arabic": "-"
-        },
-        "id": "primary-teacher-editprofile-v1_0_0"
-      },
-      "item04":{
-        "order":4,
-        "title": {
-          "english": "Manage Classes",
+          "english": "Manage classes",
           "turkish": "-",
           "arabic": "-"
         },
         "id": "primary-teacher-manageclasses-v1_0_0"
       },
+      "item04":{
+        "order":4,
+        "title": {
+          "english": "Class Details",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-classdetails-v1_0_0"
+      },
       "item05":{
         "order":5,
         "title": {
-          "english": "Add Class",
+          "english": "Edit Class Name",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-classeditname-v1_0_0"
+      },
+      "item06":{
+        "order":6,
+        "title": {
+          "english": "Join  an Institution",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-joininstitution-v1_0_0"
+      },
+      "item07":{
+        "order":7,
+        "title": {
+          "english": "Hide Units and Lessons",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-contentassign-v1_0_0"
+      },
+      "item08":{
+        "order":8,
+        "title": {
+          "english": "Add a New Class",
           "turkish": "-",
           "arabic": "-"
         },
         "id": "primary-teacher-addclass-v1_0_0"
       },
-      "item06":{
-        "order":6,
+      "item09":{
+        "order":9,
         "title": {
           "english": "Class Summary Report",
           "turkish": "-",
@@ -61,8 +88,8 @@
         },
         "id": "primary-teacher-reportclasssummary-v1_0_0"
       },
-      "item07":{
-        "order":7,
+      "item10":{
+        "order":10,
         "title": {
           "english": "Class Report",
           "turkish": "-",
@@ -70,8 +97,8 @@
         },
         "id": "primary-teacher-reportclass-v1_0_0"
       },
-      "item08":{
-        "order":8,
+      "item11":{
+        "order":11,
         "title": {
           "english": "Student Report",
           "turkish": "-",
@@ -79,17 +106,17 @@
         },
         "id": "primary-teacher-reportstudent-v1_0_0"
       },
-      "item09":{
-        "order":9,
+      "item12":{
+        "order":12,
         "title": {
-          "english": "Student Activity Report",
+          "english": "Achievements",
           "turkish": "-",
           "arabic": "-"
         },
-        "id": "primary-teacher-reportstudentactivity-v1_0_0"
+        "id": "primary-teacher-dashboard-v1_0_0"
       },
-      "item10":{
-        "order":10,
+      "item13":{
+        "order":13,
         "title": {
           "english": "Unit Report",
           "turkish": "-",
@@ -97,17 +124,62 @@
         },
         "id": "primary-teacher-reportunit-v1_0_0"
       },
-      "item11":{
-        "order":11,
+      "item14":{
+        "order":14,
         "title": {
-          "english": "Add a Level",
+          "english": "Lesson Report",
           "turkish": "-",
           "arabic": "-"
         },
-        "id": "primary-teacher-addlevel-v1_0_0"
+        "id": "primary-teacher-reportlesson-v1_0_0"
       },
-      "item12":{
-        "order":12,
+      "item15":{
+        "order":15,
+        "title": {
+          "english": "Student Activity Report",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-reportstudentactivity-v1_0_0"
+      },
+      "item16":{
+        "order":16,
+        "title": {
+          "english": "Enter Online Practice",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-enteronlinepractice-v1_0_0"
+      },
+      "item17":{
+        "order":17,
+        "title": {
+          "english": "Activities",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-activities-v1_0_0"
+      },
+      "item18":{
+        "order":18,
+        "title": {
+          "english": "Glossary",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-glossary-v1_0_0"
+      },
+      "item19":{
+        "order":19,
+        "title": {
+          "english": "Resources",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-resources-v1_0_0"
+      },
+      "item20":{
+        "order":20,
         "title": {
           "english": "Media Centre",
           "turkish": "-",
@@ -115,8 +187,17 @@
         },
         "id": "primary-teacher-media-v1_0_0"
       },
-      "item13":{
-        "order":13,
+      "item21":{
+        "order":21,
+        "title": {
+          "english": "Add a Level",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-addlevel-v1_0_0"
+      },
+      "item22":{
+        "order":22,
         "title": {
           "english": "Email",
           "turkish": "-",
@@ -124,27 +205,27 @@
         },
         "id": "primary-teacher-email-v1_0_0"
       },
-      "item14":{
-        "order":14,
+      "item23":{
+        "order":23,
         "title": {
-          "english": "Discussion Forum",
+          "english": "Forum",
           "turkish": "-",
           "arabic": "-"
         },
         "id": "primary-teacher-forum-v1_0_0"
       },
-      "item15":{
-        "order":15,
+      "item24":{
+        "order":24,
         "title": {
-          "english": "Trophy Room",
+          "english": "Edit Profile",
           "turkish": "-",
           "arabic": "-"
         },
-        "id": "primary-teacher-dashboard-v1_0_0"
+        "id": "primary-teacher-editprofile-v1_0_0"
       }
     }
   },
-  "01_student": {
+  "02_student": {
     "order": 2,
     "userType": {
         "english": "Student",
@@ -155,7 +236,7 @@
       "item01":{
         "order":1,
         "title": {
-          "english": "Register / sign up",
+          "english": "Registration",
           "turkish": "-",
           "arabic": "-"
         },
@@ -173,59 +254,68 @@
       "item03":{
         "order":3,
         "title": {
-          "english": "Edit Profile",
-          "turkish": "-",
-          "arabic": "-"
-        },
-        "id": "primary-student-editprofile-v1_0_0"
-      },
-      "item04":{
-        "order":4,
-        "title": {
           "english": "Add a Level",
           "turkish": "-",
           "arabic": "-"
         },
         "id": "primary-student-addlevel-v1_0_0"
       },
+      "item04":{
+        "order":4,
+        "title": {
+          "english": "Activities",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-activities-v1_0_0"
+      },
       "item05":{
         "order":5,
         "title": {
-          "english": "Progress Report",
+          "english": "Glossary",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-glossary-v1_0_0"
+      },
+      "item06":{
+        "order":6,
+        "title": {
+          "english": "Resources",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-resources-v1_0_0"
+      },
+      "item07":{
+        "order":7,
+        "title": {
+          "english": "Achievements",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-dashboard-v1_0_0"
+      },
+      "item08":{
+        "order":8,
+        "title": {
+          "english": "Report",
           "turkish": "-",
           "arabic": "-"
         },
         "id": "primary-student-reportprogress-v1_0_0"
       },
-      "item06":{
-        "order":6,
-        "title": {
-          "english": "Join a Class",
-          "turkish": "-",
-          "arabic": "-"
-        },
-        "id": "primary-student-classjoin-v1_0_0"
-      },
-      "item07":{
-        "order":7,
-        "title": {
-          "english": "Change Class",
-          "turkish": "-",
-          "arabic": "-"
-        },
-        "id": "primary-student-classchange-v1_0_0"
-      },
-      "item08":{
-        "order":8,
-        "title": {
-          "english": "Media Centre",
-          "turkish": "-",
-          "arabic": "-"
-        },
-        "id": "primary-student-media-v1_0_0"
-      },
       "item09":{
         "order":9,
+        "title": {
+          "english": "Unit Report",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-reportunit-v1_0_0"
+      },
+      "item10":{
+        "order":10,
         "title": {
           "english": "Email",
           "turkish": "-",
@@ -233,23 +323,50 @@
         },
         "id": "primary-student-email-v1_0_0"
       },
-      "item10":{
-        "order":10,
+      "item11":{
+        "order":11,
         "title": {
-          "english": "Discussions",
+          "english": "Forum",
           "turkish": "-",
           "arabic": "-"
         },
         "id": "primary-student-forum-v1_0_0"
       },
-      "item11":{
-        "order":11,
+      "item12":{
+        "order":12,
         "title": {
-          "english": "Trophy Room",
+          "english": "Media Centre",
           "turkish": "-",
           "arabic": "-"
         },
-        "id": "primary-student-dashboard-v1_0_0"
+        "id": "primary-student-media-v1_0_0"
+      },
+      "item13":{
+        "order":13,
+        "title": {
+          "english": "Join a Class",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-classjoin-v1_0_0"
+      },
+      "item14":{
+        "order":14,
+        "title": {
+          "english": "Change Class",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-classchange-v1_0_0"
+      },
+      "item15":{
+        "order":15,
+        "title": {
+          "english": "Edit Profile",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-editprofile-v1_0_0"
       }
     }
   },
@@ -264,7 +381,7 @@
       "item01":{
         "order":1,
         "title": {
-          "english": "Register / sign up",
+          "english": "Registration",
           "turkish": "-",
           "arabic": "-"
         },

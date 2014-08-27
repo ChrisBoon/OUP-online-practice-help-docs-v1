@@ -1,0 +1,54 @@
+{
+ "title": {
+    "english": "Enter Online Practice",
+    "turkish": "-",
+    "arabic": "-"
+  },
+ "segment": "primary",
+ "userType": ["teacher"],
+ "pageCount": 2,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "PTEOP001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Click an icon to choose your Online Practice level. If you add further levels you will be able to access them here.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "PTEOP002.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 2,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "When you have chosen a level you can enter the Activity area, view and download supporting course resources or visit the Media Centre to use audio and video files for your level.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

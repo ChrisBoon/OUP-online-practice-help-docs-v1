@@ -1,16 +1,16 @@
 {
  "title": {
-    "english": "Join a Class",
+    "english": "Edit Class Name",
     "turkish": "-",
     "arabic": "-"
   },
  "segment": "primary",
- "userType": ["student"],
+ "userType": ["teacher"],
  "pageCount": 1,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PSCJ001.png",
+      "imgId": "PTCEN001.png",
       "pageTitle": {
         "english": "",
         "turkish": "",
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
+            "english": "Enter the new name for your class. Then click “Save”. If you do not want to change the name of your class, click “Cancel”.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to submit your class ID code and return to your Home page.",
+            "english": "Click here to save your class name and return to the Class Details page.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Click here to go back to the previous page without joining a class.",
+            "english": "Click here to go back to the Class Details page without saving any changes.",
             "turkish": "-",
             "arabic": "-"
           }

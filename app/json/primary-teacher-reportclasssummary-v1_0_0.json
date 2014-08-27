@@ -6,15 +6,15 @@
   },
  "segment": "primary",
  "userType": ["teacher"],
- "pageCount": 2,
+ "pageCount": 1,
  "pages": {
     "page01": {
       "pageType": "screenshot",
       "imgId": "PTRCS001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
+        "english": "",
+        "turkish": "",
+        "arabic": ""
       },
       "paragraphs":{
         "paragraph01": {
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Click here to go to the Class Report for a specific class (you can view the work of specific students in a class).",
+            "english": "Use the menu to go to the Class Report for a specific class (you can view the work of specific students in a class).",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to view the Class Report for this class.",
+            "english": "You can also click on a class title to view a class report.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "This row shows the average number of activities completed for each unit for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the unit, and 9 is the total number of activities in the unit.",
+            "english": "Click here to view a Unit Report. You can see students’ scores for all lessons in the unit.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -52,7 +52,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "This row shows the average score for each unit for this class.",
+            "english": "This row shows the average number of activities completed in each unit for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the unit, and 9 is the total number of activities in the unit.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -62,76 +62,75 @@
           "numberPosTop": 25,
           "numberPosLeft": 25,
           "text":{
+            "english": "This row shows the average score in each unit for this class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 30,
+          "numberPosLeft": 30,
+          "text":{
             "english": "This row shows the average amount of time students in this class worked on each unit.",
             "turkish": "-",
             "arabic": "-"
           }
-        }
-      }
-    },
-    "page02": {
-      "pageType": "screenshot",
-      "imgId": "PTRCS002.png",
-      "pageTitle": {
-        "english": "",
-        "turkish": "",
-        "arabic": ""
-      },
-      "paragraphs":{
-        "paragraph01": {
-          "number": 6,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
-          "text":{
-            "english": "This is the average number of activities completed in the entire level for this class. For example, if the number is 80/90, 80 is the average number of activities completed, and 90 is the total number of activities in the level. ",
-            "turkish": "-",
-            "arabic": "-"
-          }
         },
-        "paragraph02": {
+        "paragraph07": {
           "number": 7,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 35,
+          "numberPosLeft": 35,
           "text":{
-            "english": "This is the average score for all of the activities completed in the level for this class.",
+            "english": "This is the total of the average number of activities completed in the entire level for this class. For example, if the number is 80/90, 80 is the total of the average number of activities completed across units, and 90 is the total number of activities in the level.",
             "turkish": "-",
             "arabic": "-"
           }
         },
-        "paragraph03": {
+        "paragraph08": {
           "number": 8,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 40,
+          "numberPosLeft": 40,
           "text":{
-            "english": "This is the average amount of time students in this class spent in the entire level.",
+            "english": "This is the average score across units in the level.",
             "turkish": "-",
             "arabic": "-"
           }
         },
-        "paragraph04": {
+        "paragraph09": {
           "number": 9,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 45,
+          "numberPosLeft": 45,
+          "text":{
+            "english": "This is the total of the average amount of time in each unit that students spent on activities across the level.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph10": {
+          "number": 10,
+          "numberPosTop": 50,
+          "numberPosLeft": 50,
           "text":{
             "english": "Click here to return to the previous screen.",
             "turkish": "-",
             "arabic": "-"
           }
         },
-        "paragraph05": {
-          "number": 10,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+        "paragraph11": {
+          "number": 11,
+          "numberPosTop": 55,
+          "numberPosLeft": 55,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "-",
             "arabic": "-"
           }
         },
-        "paragraph06": {
-          "number": 11,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+        "paragraph12": {
+          "number": 12,
+          "numberPosTop": 60,
+          "numberPosLeft": 60,
           "text":{
             "english": "Click here to print this report.",
             "turkish": "-",

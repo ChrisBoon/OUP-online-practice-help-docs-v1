@@ -1,6 +1,6 @@
 {
  "title": {
-    "english": "Edit your profile",
+    "english": "Edit Profile",
     "turkish": "-",
     "arabic": "-"
   },
@@ -12,9 +12,9 @@
       "pageType": "screenshot",
       "imgId": "PTEP001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
+        "english": "",
+        "turkish": "",
+        "arabic": ""
       },
       "paragraphs":{
         "paragraph01": {

@@ -1,20 +1,20 @@
 {
  "title": {
-    "english": "Student Report",
+    "english": "Activities",
     "turkish": "-",
     "arabic": "-"
   },
  "segment": "primary",
- "userType": ["teacher"],
+ "userType": ["student"],
  "pageCount": 1,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTRS001.png",
+      "imgId": "PSA001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
+        "english": "",
+        "turkish": "",
+        "arabic": ""
       },
       "paragraphs":{
         "paragraph01": {
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
+            "english": "Use this menu to choose a unit and lesson. When you choose a unit and lesson you will be taken to the first activity within the lesson.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to view the Class Report for the class shown in the menu on the right.",
+            "english": "Use this menu to choose an activity within a lesson.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Use this menu to view the Class Report for a different class. Select “All Classes” to go to the Class Summary Report.",
+            "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -52,7 +52,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "Use this menu to view the Student Report for a different student in this class.",
+            "english": "The Online Practice activities are displayed in this area.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -62,7 +62,7 @@
           "numberPosTop": 25,
           "numberPosLeft": 25,
           "text":{
-            "english": "Click here to see the student’s Achievements.",
+            "english": "Your current activity score is shown here.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -72,7 +72,7 @@
           "numberPosTop": 30,
           "numberPosLeft": 30,
           "text":{
-            "english": "Use this menu to see a student’s results for a specific unit or all units.",
+            "english": "You can attempt an activity three times. The highest score of your attempts is recorded in your report.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -82,7 +82,7 @@
           "numberPosTop": 35,
           "numberPosLeft": 35,
           "text":{
-            "english": "You can also click on a unit title to view a student’s Unit Report.",
+            "english": "Click here to see a Quick Tip pop-up with guidance on completing an activity.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -92,7 +92,7 @@
           "numberPosTop": 40,
           "numberPosLeft": 40,
           "text":{
-            "english": "Click on a lesson title to view the student’s work in this lesson.",
+            "english": "If an activity has an attachment, an icon will appear here. Click to download or display the attachment.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -102,7 +102,7 @@
           "numberPosTop": 45,
           "numberPosLeft": 45,
           "text":{
-            "english": "This row shows a student’s total score for all activities in a lesson.",
+            "english": "You can check your answers when you have answered all questions in an activity.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -112,7 +112,7 @@
           "numberPosTop": 50,
           "numberPosLeft": 50,
           "text":{
-            "english": "This row shows the number of times a student attempted all activities in a lesson.",
+            "english": "You can try an activity again if you answer some questions incorrectly. You can try an activity three times.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -122,7 +122,7 @@
           "numberPosTop": 55,
           "numberPosLeft": 55,
           "text":{
-            "english": "This row shows the total amount of time the student spent on each lesson.",
+            "english": "If you answer some questions incorrectly you can see the correct answers.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -132,7 +132,7 @@
           "numberPosTop": 60,
           "numberPosLeft": 60,
           "text":{
-            "english": "This is the student’s total score across all activities in a unit.",
+            "english": "You can find supporting resources here which will help you with your Online Practice work, if available.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -142,7 +142,7 @@
           "numberPosTop": 65,
           "numberPosLeft": 65,
           "text":{
-            "english": "This is the total number of times the student has attempted all activities in a unit.",
+            "english": "You can view the Picture Glossary here, if available. The Picture Glossary will help you with the course vocabulary.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -152,37 +152,7 @@
           "numberPosTop": 70,
           "numberPosLeft": 70,
           "text":{
-            "english": "This is the total time taken on all activities in a unit.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph15": {
-          "number": 15,
-          "numberPosTop": 75,
-          "numberPosLeft": 75,
-          "text":{
-            "english": "Click here to return to the previous screen.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph16": {
-          "number": 16,
-          "numberPosTop": 80,
-          "numberPosLeft": 80,
-          "text":{
-            "english": "Click here to export this report to Microsoft Excel™.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph17": {
-          "number": 17,
-          "numberPosTop": 85,
-          "numberPosLeft": 85,
-          "text":{
-            "english": "Click here to print this report.",
+            "english": "Access your Achievements and Reports here.",
             "turkish": "-",
             "arabic": "-"
           }

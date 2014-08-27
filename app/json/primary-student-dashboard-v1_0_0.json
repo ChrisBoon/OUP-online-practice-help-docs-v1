@@ -1,6 +1,6 @@
 {
  "title": {
-    "english": "Trophy Room",
+    "english": "Achievements",
     "turkish": "-",
     "arabic": "-"
   },
@@ -12,9 +12,9 @@
       "pageType": "screenshot",
       "imgId": "PSD001.png",
       "pageTitle": {
-        "english": "Trophy Room",
-        "turkish": "-",
-        "arabic": "-"
+        "english": "",
+        "turkish": "",
+        "arabic": ""
       },
       "paragraphs":{
         "paragraph01": {
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Click here to see achievements in the Trophy Room.",
+            "english": "Click here to see your Achievements in the Trophy Room and Skills Dashboard.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to see Reports.",
+            "english": "Click here to see your Reports.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "These are the unit titles in a level.",
+            "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect! You can attempt an Online Practice activity three times. The highest score of the three attempts is recorded as your final score.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -52,7 +52,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "A student has three attempts at an activity. The highest score of the three attempts is recorded as the score in the student’s report. Stars are awarded for points scored across the activities in a level.",
+            "english": "If you score 30% of the total possible points in a unit you will be awarded a bronze star.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -62,7 +62,7 @@
           "numberPosTop": 25,
           "numberPosLeft": 25,
           "text":{
-            "english": "30% of the total possible points scored in a unit: A bronze star is awarded.",
+            "english": "If you score 70% of the total possible points in a unit you will be awarded a silver star.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -72,7 +72,7 @@
           "numberPosTop": 30,
           "numberPosLeft": 30,
           "text":{
-            "english": "70% of the total possible points scored in a unit: A silver star is awarded.",
+            "english": "If you score 90% of the total possible points in a unit you will be awarded a gold star.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -82,17 +82,7 @@
           "numberPosTop": 35,
           "numberPosLeft": 35,
           "text":{
-            "english": "90% of the total possible points scored in a unit: A gold star is awarded.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph08": {
-          "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
-          "text":{
-            "english": "100% of the total possible points scored in a unit: A bonus trophy is awarded.",
+            "english": "If you score 100% of the total possible points in a unit you will be awarded a bonus trophy.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -113,7 +103,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Each activity in an Online Practice level is tagged with a learning area. The Dashboard shows student activity results for a level across different learning areas.",
+            "english": "This is your Skills Dashboard. Each activity in an Online Practice level belongs to a learning area, for example Reading, Writing, Listening, etc. The Skills Dashboard shows your activity results for a level across the different skill areas.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -123,7 +113,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Results for activities within the different learning areas are displayed as a percentage based on the average score of all completed activities in a learning area within a level.",
+            "english": "Results for activities within the different skill areas are displayed as a percentage based on the average score of all completed activities in a skill area within a level.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -133,7 +123,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Open-ended activities where no score is given are displayed as ‘not scored’.",
+            "english": "Results for skill areas which contain open-ended activities where no score is given are displayed as “Not scored”.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -143,7 +133,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "The number of completed activities is shown along with the total number of activities in a learning area.",
+            "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
             "turkish": "-",
             "arabic": "-"
           }

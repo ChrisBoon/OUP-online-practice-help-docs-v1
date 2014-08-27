@@ -6,13 +6,13 @@
   },
  "segment": "primary",
  "userType": ["teacher"],
- "pageCount": 1,
+ "pageCount": 2,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTM001.png",
+      "imgId": "PSM001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Audio",
         "turkish": "-",
         "arabic": "-"
       },
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Click on the arrow button to play and pause an audio track. Use the controls to move through the track and change the volume.",
+            "english": "The Media Centre provides class audio and video files for you and your students to use, if available.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,38 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click on the title to download a video and play it in your local media player.",
+            "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "PSM002.png",
+      "pageTitle": {
+        "english": "Video",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 3,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Click on a video title to play a video file. It will play in a new tab in your browser.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 4,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Use the controls to play and pause the video, change the volume and enter full-screen view.",
             "turkish": "-",
             "arabic": "-"
           }

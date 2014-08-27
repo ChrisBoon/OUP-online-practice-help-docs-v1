@@ -12,7 +12,7 @@
       "pageType": "screenshot",
       "imgId": "PTAL001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Enter your access code",
         "turkish": "-",
         "arabic": "-"
       },
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Enter your access code. Your access code is on your Online Practice Teacher’s Access Code Card. If your card has a grey box, scratch the grey off (with a coin or other object) to see your code. You must have an access code to add a new level to your account.",
+            "english": "Enter your Online Practice access code here. The access code is on your Teacher’s Access Code Card. You must have an access code to add a new level to your account.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to go to the Oxford University Press website for information to buy an access code.",
+            "english": "Click here to go to the Oxford University Press website for information on how to buy an access code.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -73,7 +73,7 @@
       "pageType": "screenshot",
       "imgId": "PTAL002.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Join an institution",
         "turkish": "-",
         "arabic": "-"
       },
@@ -97,16 +97,6 @@
             "turkish": "-",
             "arabic": "-"
           }
-        },
-        "paragraph03": {
-          "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
-          "text":{
-            "english": "Click here to go to the next page.",
-            "turkish": "-",
-            "arabic": "-"
-          }
         }
       }
     },
@@ -114,7 +104,7 @@
       "pageType": "screenshot",
       "imgId": "PTAL003.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Join an institution",
         "turkish": "-",
         "arabic": "-"
       },
@@ -124,7 +114,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip.” You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
+            "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -154,7 +144,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "Click here to submit your institution ID code and go to the next page.",
+            "english": "Click here to submit your institution ID code and go to your Home page.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -165,7 +155,7 @@
       "pageType": "screenshot",
       "imgId": "PTAL004.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Create a class",
         "turkish": "-",
         "arabic": "-"
       },
@@ -175,7 +165,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Enter a name for your first class for this level. To enter additional classes later, click “Manage Classes” from your Home page.",
+            "english": "Enter a name for your first class. To create additional classes later, click “Manage Classes” from your Home page when you finish registering.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -216,7 +206,7 @@
       "pageType": "screenshot",
       "imgId": "PTAL005.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Save your class code",
         "turkish": "-",
         "arabic": "-"
       },
@@ -246,7 +236,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Click here to finish adding your new level and go back to your Home page.",
+            "english": "Click here to return to your Home page.",
             "turkish": "-",
             "arabic": "-"
           }

@@ -1,6 +1,6 @@
 {
  "title": {
-    "english": "Progress Report",
+    "english": "Report",
     "turkish": "-",
     "arabic": "-"
   },
@@ -10,11 +10,11 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PSRP001.png",
+      "imgId": "PSR001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
+        "english": "",
+        "turkish": "",
+        "arabic": ""
       },
       "paragraphs":{
         "paragraph01": {
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "This row shows the total number of times you attempted the activities in each unit.",
+            "english": "This page shows your activity scores for all units in your level of Online Practice.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "This row shows your total score for each unit. For example, if the score is 70/80, 70 is the number of items (questions) you answered correctly, and 80 is the total number of items in the unit.",
+            "english": "Use this menu to display reports for all units or display reports for separate units.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "This row shows the total amount of time you worked on each unit.",
+            "english": "This row shows the total score of all activities attempted in each lesson of a unit. The score is shown out of the total number of possible points in the attempted activities.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -52,7 +52,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "This row shows the number of times you attempted each activity.",
+            "english": "This row shows the total number of activity attempts in each lesson of a unit.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -62,7 +62,7 @@
           "numberPosTop": 25,
           "numberPosLeft": 25,
           "text":{
-            "english": "This row shows your score on each activity. It shows the score for your last attempt on the activity. For example, if the score is 8/10, 8 is the number of items (questions) you answered correctly, and 10 is the total number of items in the activity.",
+            "english": "This row shows the time spent on activities in each lesson of a unit.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -72,7 +72,7 @@
           "numberPosTop": 30,
           "numberPosLeft": 30,
           "text":{
-            "english": "This row shows the total amount of time you spent on each activity.",
+            "english": "The total score in a unit is shown here.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -82,7 +82,7 @@
           "numberPosTop": 35,
           "numberPosLeft": 35,
           "text":{
-            "english": "Click here to return to the previous screen.",
+            "english": "The total number of activity attempts in a unit is shown here.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -92,7 +92,17 @@
           "numberPosTop": 40,
           "numberPosLeft": 40,
           "text":{
-            "english": "Click here to print this report.",
+            "english": "The total time taken on all activity attempts in a unit is shown here.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 45,
+          "numberPosLeft": 45,
+          "text":{
+            "english": "Click here to see your activity scores displayed as a percentage of the total number of points available.",
             "turkish": "-",
             "arabic": "-"
           }

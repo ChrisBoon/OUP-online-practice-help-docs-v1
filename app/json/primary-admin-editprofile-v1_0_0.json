@@ -10,11 +10,11 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTEP001.png",
+      "imgId": "PAEP001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
+        "english": "",
+        "turkish": "",
+        "arabic": ""
       },
       "paragraphs":{
         "paragraph01": {
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Click here to change your email address.",
+            "english": "Click here to change your institution name.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -52,7 +52,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "Click here to confirm your new email address.",
+            "english": "Click here to change your email address.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -62,7 +62,7 @@
           "numberPosTop": 25,
           "numberPosLeft": 25,
           "text":{
-            "english": "Click here to change your password.",
+            "english": "Click here to confirm your new email address.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -72,7 +72,7 @@
           "numberPosTop": 30,
           "numberPosLeft": 30,
           "text":{
-            "english": "Click here to confirm your new password.",
+            "english": "Click here to change your password.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -82,7 +82,7 @@
           "numberPosTop": 35,
           "numberPosLeft": 35,
           "text":{
-            "english": "Click here to save your changes.",
+            "english": "Click here to confirm your new password.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -91,6 +91,16 @@
           "number": 8,
           "numberPosTop": 40,
           "numberPosLeft": 40,
+          "text":{
+            "english": "Click here to save your changes.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 45,
+          "numberPosLeft": 45,
           "text":{
             "english": "Click here to cancel without saving any changes.",
             "turkish": "-",

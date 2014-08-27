@@ -1,16 +1,16 @@
 {
  "title": {
-    "english": "Home",
+    "english": "Student Unit Report",
     "turkish": "-",
     "arabic": "-"
   },
  "segment": "primary",
- "userType": ["teacher"],
+ "userType": ["student"],
  "pageCount": 1,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTH001.png",
+      "imgId": "PSRU001.png",
       "pageTitle": {
         "english": "",
         "turkish": "",
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Click here to manage your Online Practice classes. You can view the details of your classes, delete students’ accounts, add new classes, delete classes, or join an institution.",
+            "english": "Use this menu to display reports for all units or display reports for separate units.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to view scores and reports on your students’ progress.",
+            "english": "This row shows the scores for each activity in a lesson. The score is shown out of the total number of possible points in an activity.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Click here to enter the Online Practice activity area.",
+            "english": "This row shows the number of attempts at each activity in a lesson.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -52,7 +52,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "Click here to add another level of your Online Practice course.",
+            "english": "This row shows the time taken for all attempts at each activity in a lesson.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -62,7 +62,7 @@
           "numberPosTop": 25,
           "numberPosLeft": 25,
           "text":{
-            "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
+            "english": "The total score for a lesson is shown here.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -72,7 +72,17 @@
           "numberPosTop": 30,
           "numberPosLeft": 30,
           "text":{
-            "english": "Click here to view discussions in the Forum.",
+            "english": "The total number of activity attempts for a lesson is shown here.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 35,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "The total time taken on all activities in a lesson is shown here.",
             "turkish": "-",
             "arabic": "-"
           }

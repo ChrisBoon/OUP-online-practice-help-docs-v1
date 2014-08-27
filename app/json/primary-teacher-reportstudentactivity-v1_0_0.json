@@ -6,7 +6,7 @@
   },
  "segment": "primary",
  "userType": ["teacher"],
- "pageCount": 2,
+ "pageCount": 1,
  "pages": {
     "page01": {
       "pageType": "screenshot",
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Click here to view the Student Report for this student.",
+            "english": "Click here to view the Unit Report for this student.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -52,7 +52,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "Click here to view the Unit Report for this student.",
+            "english": "Click here to view the Lesson Report for this student.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -62,7 +62,7 @@
           "numberPosTop": 25,
           "numberPosLeft": 25,
           "text":{
-            "english": "Click here to view the work of a student in another class. Select “All Classes” to go to the Class Summary Report.",
+            "english": "Use this menu to view the work of a student in another class. Select “All Classes” to go to the Class Summary Report.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -72,7 +72,7 @@
           "numberPosTop": 30,
           "numberPosLeft": 30,
           "text":{
-            "english": "Click here to view the work of a different student for this activity.",
+            "english": "Use this menu to view the work of a different student for this activity.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -82,7 +82,7 @@
           "numberPosTop": 35,
           "numberPosLeft": 35,
           "text":{
-            "english": "Click here to view a different unit.",
+            "english": "Use this menu to view a different unit.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -92,58 +92,27 @@
           "numberPosTop": 40,
           "numberPosLeft": 40,
           "text":{
-            "english": "Click here to view a different lesson.",
+            "english": "Use this menu to view a different lesson.",
             "turkish": "-",
             "arabic": "-"
           }
-        }
-      }
-    },
-    "page02": {
-      "pageType": "screenshot",
-      "imgId": "PTRSA002.png",
-      "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "",
-        "arabic": ""
-      },
-      "paragraphs":{
-        "paragraph01": {
+        },
+        "paragraph09": {
           "number": 9,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 45,
+          "numberPosLeft": 45,
           "text":{
-            "english": "This report shows the most recent attempt on this activity by the student selected. Please note that for speaking activities that include a voice-record feature, the student’s recordings are not saved.",
+            "english": "This score shows the most recent attempt on this activity by the student selected. Please note that for speaking activities that include a voice-record feature, the student’s recordings are not saved.",
             "turkish": "-",
             "arabic": "-"
           }
         },
-        "paragraph02": {
+        "paragraph10": {
           "number": 10,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 50,
+          "numberPosLeft": 50,
           "text":{
-            "english": "Click here to return to the previous screen.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph03": {
-          "number": 11,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
-          "text":{
-            "english": "Click here to view the student’s work on the previous activity in this level.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph04": {
-          "number": 12,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
-          "text":{
-            "english": "Click here to view the student’s work on the next activity in this level.",
+            "english": "This shows the number of times a student has attempted this activity.",
             "turkish": "-",
             "arabic": "-"
           }

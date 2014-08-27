@@ -1,6 +1,6 @@
 {
  "title": {
-    "english": "Class Report",
+    "english": "Lesson Report",
     "turkish": "-",
     "arabic": "-"
   },
@@ -10,7 +10,7 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTRC001.png",
+      "imgId": "PTRL001.png",
       "pageTitle": {
         "english": "Subtitle needed?",
         "turkish": "-",
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "This screen shows reports for all students in a class.",
+            "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Use this menu to see a report for a different class.",
+            "english": "Click here to view the Class Report.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Use this menu to see reports for an individual student or all students.",
+            "english": "Use this menu to view a Unit Report for a different class.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -52,7 +52,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "You can also click on a student’s name to see their results across lessons and units.",
+            "english": "Use this menu to view a Unit Report for a different student.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -62,7 +62,7 @@
           "numberPosTop": 25,
           "numberPosLeft": 25,
           "text":{
-            "english": "Use this menu to filter the report to see students’ results in a particular unit.",
+            "english": "Use this menu to view the Unit Report for a different unit.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -72,7 +72,7 @@
           "numberPosTop": 30,
           "numberPosLeft": 30,
           "text":{
-            "english": "You can also click on a unit title to see results in a unit.",
+            "english": "Use this menu to view the Unit Report for a different lesson.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -82,7 +82,7 @@
           "numberPosTop": 35,
           "numberPosLeft": 35,
           "text":{
-            "english": "This row shows the average number of completed activities in each unit for the class.",
+            "english": "This row shows this student’s score on each activity in this lesson. It shows the score for the student’s last attempt on the activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The . symbol means that the activity does not have a score.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -92,7 +92,7 @@
           "numberPosTop": 40,
           "numberPosLeft": 40,
           "text":{
-            "english": "This row shows the average total score for activities in a unit for the class.",
+            "english": "This row shows the number of attempts for each activity in this lesson.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -102,7 +102,7 @@
           "numberPosTop": 45,
           "numberPosLeft": 45,
           "text":{
-            "english": "This row shows the average time spent on activities in a unit for the class.",
+            "english": "This row shows the total amount of time spent on all attempts at each activity.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -112,7 +112,7 @@
           "numberPosTop": 50,
           "numberPosLeft": 50,
           "text":{
-            "english": "This is the total of the average number of activities completed across the units.",
+            "english": "This is the student’s total score for this lesson.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -122,7 +122,7 @@
           "numberPosTop": 55,
           "numberPosLeft": 55,
           "text":{
-            "english": "This is the total average score for all students across the units.",
+            "english": "This is the total number of times this student attempted all activities in this lesson.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -132,7 +132,7 @@
           "numberPosTop": 60,
           "numberPosLeft": 60,
           "text":{
-            "english": "This is the average amount of time all students spent on activities.",
+            "english": "This is the total amount of time this student spent on this lesson.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -142,7 +142,7 @@
           "numberPosTop": 65,
           "numberPosLeft": 65,
           "text":{
-            "english": "This row shows the number of activities completed by a student in each unit.",
+            "english": "Click on the + symbol to increase this student’s number of attempts. Each increase will give the student three more attempts.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -152,7 +152,7 @@
           "numberPosTop": 70,
           "numberPosLeft": 70,
           "text":{
-            "english": "This row shows a student’s total score in each unit.",
+            "english": "Click here to return to the previous screen.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -162,7 +162,7 @@
           "numberPosTop": 75,
           "numberPosLeft": 75,
           "text":{
-            "english": "This row shows the total amount of time a student spent on activities in each unit.",
+            "english": "Click here to print this report.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -172,47 +172,7 @@
           "numberPosTop": 80,
           "numberPosLeft": 80,
           "text":{
-            "english": "This is the total number of activities completed by a student.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph17": {
-          "number": 17,
-          "numberPosTop": 85,
-          "numberPosLeft": 85,
-          "text":{
-            "english": "This is the average unit activity score for a student across the level.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph18": {
-          "number": 18,
-          "numberPosTop": 90,
-          "numberPosLeft": 90,
-          "text":{
-            "english": "This is the total amount of time this student worked in the entire level.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph19": {
-          "number": 19,
-          "numberPosTop": 95,
-          "numberPosLeft": 95,
-          "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph20": {
-          "number": 20,
-          "numberPosTop": 10,
-          "numberPosLeft": 5,
-          "text":{
-            "english": "Click here to print this report.",
             "turkish": "-",
             "arabic": "-"
           }

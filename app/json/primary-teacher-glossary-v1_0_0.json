@@ -1,16 +1,16 @@
 {
  "title": {
-    "english": "Join a Class",
+    "english": "Glossary",
     "turkish": "-",
     "arabic": "-"
   },
  "segment": "primary",
- "userType": ["student"],
+ "userType": ["teacher"],
  "pageCount": 1,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PSCJ001.png",
+      "imgId": "PTG001.png",
       "pageTitle": {
         "english": "",
         "turkish": "",
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
+            "english": "The Glossary contains all core vocabulary in a level. Click on a letter to go to the words beginning with that letter in the Glossary.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to submit your class ID code and return to your Home page.",
+            "english": "Type a word in the text box to search for a word. The Glossary automatically searches for the word.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,17 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Click here to go back to the previous page without joining a class.",
+            "english": "Scroll through the menu and choose a word to see the picture.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "Click the icon to hear the audio, if available.",
             "turkish": "-",
             "arabic": "-"
           }

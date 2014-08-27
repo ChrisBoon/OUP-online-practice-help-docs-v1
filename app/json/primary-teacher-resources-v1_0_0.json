@@ -1,16 +1,16 @@
 {
  "title": {
-    "english": "Join a Class",
+    "english": "Resources",
     "turkish": "-",
     "arabic": "-"
   },
  "segment": "primary",
- "userType": ["student"],
+ "userType": ["teacher"],
  "pageCount": 1,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PSCJ001.png",
+      "imgId": "PTRES001.png",
       "pageTitle": {
         "english": "",
         "turkish": "",
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
+            "english": "This is the Teacher Resources area. Where available, this area will provide supporting material for you and your students when using Online Practice. Resources displayed for teachers may be different from students’ resources.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to submit your class ID code and return to your Home page.",
+            "english": "Click on a title or icon to open a resource. PDF files and documents will open in a new tab or download to your computer or device depending on your browser settings.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Click here to go back to the previous page without joining a class.",
+            "english": "Click on an audio track title to play the file in your browser. Use the controls to play, pause and adjust the volume.",
             "turkish": "-",
             "arabic": "-"
           }

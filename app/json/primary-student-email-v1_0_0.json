@@ -6,13 +6,13 @@
   },
  "segment": "primary",
  "userType": ["student"],
- "pageCount": 5,
+ "pageCount": 3,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTE001.png",
+      "imgId": "PSE001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Your messages",
         "turkish": "-",
         "arabic": "-"
       },
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "This is the inbox. When you receive a message it will appear here, below the inbox header.",
+            "english": "This is your inbox. When you receive a message it will appear in the column here.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,57 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "A number appears to the right of the inbox header. This number shows the number of unread messages in your inbox.",
+            "english": "A number is displayed to the right of the inbox header. This number shows the how many unread messages are in your inbox.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Select a message in your inbox. It will display on the right.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "Click the “Delete” button to remove a message from your inbox.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 25,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "Click the “Reply” button to reply to a message.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 30,
+          "numberPosLeft": 30,
+          "text":{
+            "english": "Click on the Sent header to display your sent messages.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 35,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "Click the “Create New Message” button if you want to write a new message.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -41,81 +91,9 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "PTE002.png",
+      "imgId": "PSE002.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
-      },
-      "paragraphs":{
-        "paragraph01": {
-          "number": 3,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
-          "text":{
-            "english": "This is the Message View panel. When you select a message, it will appear here.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph02": {
-          "number": 4,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
-          "text":{
-            "english": "Click on the Delete button to remove the email from the inbox.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph03": {
-          "number": 5,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
-          "text":{
-            "english": "Click the Reply button to reply to sender.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        }
-      }
-    },
-    "page03": {
-      "pageType": "screenshot",
-      "imgId": "PTE003.png",
-      "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
-      },
-      "paragraphs":{
-        "paragraph01": {
-          "number": 6,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
-          "text":{
-            "english": "Below the Inbox section is the Sent section. Click on the Sent heading to collapse the Inbox messages so that the sent messages appear. Sent messages will appear in the same way as Inbox messages.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph02": {
-          "number": 7,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
-          "text":{
-            "english": "Click the Create New Message button if you want to create a new message.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        }
-      }
-    },
-    "page04": {
-      "pageType": "screenshot",
-      "imgId": "PTE004.png",
-      "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Write a message",
         "turkish": "-",
         "arabic": "-"
       },
@@ -125,7 +103,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "The Reply/Create New Message window will contain To and CC fields. Select the recipient by clicking the To button, add other people you wish to include by clicking the CC button. This launches a pop-up with a list of all students in the class.",
+            "english": "The Reply/Create New Message window contains To and CC buttons. Choose a student you want to write to by clicking the “To” button and choosing a name. Add other students you wish to send your message to by clicking the “CC” button. You can message any student in your Online Practice class and your teacher. You cannot send a message to an email address outside your Online Practice class.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -135,58 +113,58 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click on 'Select all' to email all users included in the class at once, then click 'OK'. If you choose not to select anyone from the pop-up, click Cancel.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph03": {
-          "number": 10,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
-          "text":{
-            "english": "Use the Send button to send the message to the recipient.",
+            "english": "Click on “Select all” to email all students in your class together, then click “OK”. If you choose not to select anyone, click “Cancel”.",
             "turkish": "-",
             "arabic": "-"
           }
         }
       }
     },
-    "page05": {
+    "page03": {
       "pageType": "screenshot",
-      "imgId": "PTE001.png",
+      "imgId": "PSE003.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Send your message",
         "turkish": "-",
         "arabic": "-"
       },
       "paragraphs":{
         "paragraph01": {
-          "number": 11,
+          "number": 10,
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "You can save messages you have written and return to them later by clicking the Save button.",
+            "english": "Click on the paperclip icon to attach a file to your message. You can attach two files with a total size of 2MB.",
             "turkish": "-",
             "arabic": "-"
           }
         },
         "paragraph02": {
-          "number": 12,
+          "number": 11,
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "If you decide not to send the message, click the 'Cancel' button. This will return you to the Inbox.",
+            "english": "Use the “Send” button to send the message when you are ready.",
             "turkish": "-",
             "arabic": "-"
           }
         },
         "paragraph03": {
-          "number": 13,
+          "number": 12,
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Your message will appear in the Drafts section when you create a message and save it without sending it.",
+            "english": "If you decide not to send the message, click the “Cancel” button. This will return you to the inbox.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 13,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "You can save messages before you send them and return to them later in the Drafts area by clicking the “Save” button.",
             "turkish": "-",
             "arabic": "-"
           }

@@ -1,18 +1,18 @@
 {
  "title": {
-    "english": "Discussion Forum",
+    "english": "Forum",
     "turkish": "-",
     "arabic": "-"
   },
  "segment": "primary",
  "userType": ["student"],
- "pageCount": 5,
+ "pageCount": 2,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTF001.png",
+      "imgId": "PSF001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Write a post",
         "turkish": "-",
         "arabic": "-"
       },
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "You can create a new post or start a new thread by entering content in the New Post column. This will begin a new discussion that appears in the column on the right.",
+            "english": "You can create a new post by writing in the Create New Post column. When you click the “Post” button it will appear in the Discussions and Comments list. Your teacher and any student in your Online Practice class can see your post and reply to it.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,57 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "This is where you can view and reply to all of the current discussions.",
+            "english": "Write your message in the blank text area under the formatting buttons.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "This is where you can view and reply to all of the current posts.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click “Post” to add the post to the column on the right.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click “Show” to view other students’ replies.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click “Hide” to hide the replies.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click “Reply” to reply to a post.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -41,81 +91,9 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "PTF002.png",
+      "imgId": "PSF002.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
-      },
-      "paragraphs":{
-        "paragraph01": {
-          "number": 3,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
-          "text":{
-            "english": "You can write your message in the blank text field under the formatting tools.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph02": {
-          "number": 4,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
-          "text":{
-            "english": "Click Post to add the message to the column on the right.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        }
-      }
-    },
-    "page03": {
-      "pageType": "screenshot",
-      "imgId": "PTF003.png",
-      "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
-      },
-      "paragraphs":{
-        "paragraph01": {
-          "number": 5,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
-          "text":{
-            "english": "Click the Show Replies button to view other users' replies.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph02": {
-          "number": 6,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
-          "text":{
-            "english": "Click the Hide Replies link to hide replies.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph02": {
-          "number": 7,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
-          "text":{
-            "english": "Click the Reply link to reply to a post.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        }
-      }
-    },
-    "page04": {
-      "pageType": "screenshot",
-      "imgId": "PTF004.png",
-      "pageTitle": {
-        "english": "Subtitle needed?",
+        "english": "Reply to a post",
         "turkish": "-",
         "arabic": "-"
       },
@@ -125,38 +103,27 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "The Reply link will open a text box under the post you are replying to. You can enter the reply directly within the thread.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        }
-      }
-    },
-    "page05": {
-      "pageType": "screenshot",
-      "imgId": "PTF001.png",
-      "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
-      },
-      "paragraphs":{
-        "paragraph01": {
-          "number": 9,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
-          "text":{
-            "english": "Click Post to post your reply to the thread.",
+            "english": "If you click “Reply”, a text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
             "turkish": "-",
             "arabic": "-"
           }
         },
         "paragraph02": {
-          "number": 10,
+          "number": 9,
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click the Cancel button if you do not want to post your reply.",
+            "english": "Click “Post” to post your reply to the discussion.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 10,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click “Cancel” if you do not want to post your reply.",
             "turkish": "-",
             "arabic": "-"
           }

@@ -1,6 +1,6 @@
 {
  "title": {
-    "english": "Home",
+    "english": "Hide Units and Lessons",
     "turkish": "-",
     "arabic": "-"
   },
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Click here to manage your Online Practice classes. You can view the details of your classes, delete students’ accounts, add new classes, delete classes, or join an institution.",
+            "english": "You can hide units and lessons from your students by checking the boxes on this page. Your students will only see the activities in the units or lessons when you uncheck the boxes.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to view scores and reports on your students’ progress.",
+            "english": "Choose a class using the menu.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Click here to enter the Online Practice activity area.",
+            "english": "Check a box here to hide a whole unit.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -52,7 +52,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "Click here to add another level of your Online Practice course.",
+            "english": "Check a box here to hide selected lessons within a unit.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -62,17 +62,7 @@
           "numberPosTop": 25,
           "numberPosLeft": 25,
           "text":{
-            "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph06": {
-          "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
-          "text":{
-            "english": "Click here to view discussions in the Forum.",
+            "english": "Click here to save the changes you made to this class. ",
             "turkish": "-",
             "arabic": "-"
           }

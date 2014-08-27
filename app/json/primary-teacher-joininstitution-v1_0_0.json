@@ -1,16 +1,16 @@
 {
  "title": {
-    "english": "Join a Class",
+    "english": "Join an Institution",
     "turkish": "-",
     "arabic": "-"
   },
  "segment": "primary",
- "userType": ["student"],
+ "userType": ["teacher"],
  "pageCount": 1,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PSCJ001.png",
+      "imgId": "PTJI001.png",
       "pageTitle": {
         "english": "",
         "turkish": "",
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
+            "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. The administrator will be able to see reports for the Online Practice classes of all teachers who have joined the Online Practice institution. If you do not have an institution ID code, click “Cancel”.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to submit your class ID code and return to your Home page.",
+            "english": "Click here to submit your institution ID code and return to the Class Details page.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Click here to go back to the previous page without joining a class.",
+            "english": "Click here if you do not have an institution ID code.",
             "turkish": "-",
             "arabic": "-"
           }

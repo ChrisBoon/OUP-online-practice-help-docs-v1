@@ -1,6 +1,6 @@
 {
  "title": {
-    "english": "Home",
+    "english": "Class Details",
     "turkish": "-",
     "arabic": "-"
   },
@@ -10,7 +10,7 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTH001.png",
+      "imgId": "PTCD001.png",
       "pageTitle": {
         "english": "",
         "turkish": "",
@@ -22,7 +22,7 @@
           "numberPosTop": 5,
           "numberPosLeft": 5,
           "text":{
-            "english": "Click here to manage your Online Practice classes. You can view the details of your classes, delete students’ accounts, add new classes, delete classes, or join an institution.",
+            "english": "Click here to change the name of this class.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -32,7 +32,7 @@
           "numberPosTop": 10,
           "numberPosLeft": 10,
           "text":{
-            "english": "Click here to view scores and reports on your students’ progress.",
+            "english": "Click here to join an institution.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 15,
           "numberPosLeft": 15,
           "text":{
-            "english": "Click here to enter the Online Practice activity area.",
+            "english": "Check this box to delete this student from this class. Then click “Save Changes”.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -52,7 +52,7 @@
           "numberPosTop": 20,
           "numberPosLeft": 20,
           "text":{
-            "english": "Click here to add another level of your Online Practice course.",
+            "english": "Click here to go back to the previous screen. If you did not click “Save Changes” your changes will not be saved.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -62,17 +62,7 @@
           "numberPosTop": 25,
           "numberPosLeft": 25,
           "text":{
-            "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph06": {
-          "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
-          "text":{
-            "english": "Click here to view discussions in the Forum.",
+            "english": "Click here to save the changes you made to this class.",
             "turkish": "-",
             "arabic": "-"
           }
