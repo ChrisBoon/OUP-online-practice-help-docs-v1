@@ -171,12 +171,14 @@ class="ng-cloak course-home"
     <div class="site-header">
       <div class="language-choice-container">
         <div 
-        class="language-choice-toggle"
+        class="language-choice-toggle {{language.language}}"
         ng-class="{'language-choice-toggle--open': openDrawer.openLanguage === true}"
         ng-if="appLanguages.length > 1"
         ng-click="openDrawer.openLanguage = !openDrawer.openLanguage"
         >
-          {{language.language}}
+          <span class="language-chosen__container language-chosen__container--{{language.language}}">
+            <span class="language-chosen--english">{{language.language}}</span>
+          </span>
         </div>
         <div 
         class="menu menu--language"
@@ -190,7 +192,9 @@ class="ng-cloak course-home"
             ng-click="language.language = appLang.toLowerCase();setLang(language.language); openDrawer.openLanguage=false;"
             ng-class="{'language-choice__list__item--active': language.language === appLang.toLowerCase()}"
             >
-              {{appLang}}
+              <span class="language-chosen__container language-chosen__container--{{appLang}}">
+                <span class="language-chosen--english">{{appLang}}</span>
+              </span>
             </li>
           </ul>
         </div>

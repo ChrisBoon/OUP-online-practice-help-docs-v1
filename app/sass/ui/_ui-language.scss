@@ -61,3 +61,25 @@
     }
   }  
 }
+
+//code below replaces English spelling of language with native version in language toggle.
+//added here as easier than adjusting the js, but eventually should move in to main logic.
+
+.language-chosen__container--turkish,
+.language-chosen__container--Turkish{
+  &:before{
+    content: "Türk";
+  }
+  .language-chosen--english{
+    display: none;
+  }
+}
+.language-chosen__container--arabic,
+.language-chosen__container--Arabic{
+  &:before{
+    content: "العربية";
+  }
+  .language-chosen--english{
+    display: none;
+  }
+}
