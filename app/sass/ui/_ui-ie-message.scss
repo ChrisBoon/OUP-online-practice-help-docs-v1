@@ -1,0 +1,20 @@
+.lt-ie9{
+  background: #efefef;
+  .oldie-message{
+    padding: 2em;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    &__p{
+      margin-bottom: 1em;
+    }
+    .update-browser-link{
+      color: $color-external-link;
+      text-decoration: underline;
+    }
+  }
+  .slide-out-drawer,
+  .content-container{
+    display: none;
+  }
+}

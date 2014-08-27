@@ -9,7 +9,6 @@
   font-size: $heading-font-size;
   z-index: z("first-time");
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
-
   &:before{
     content: "";
     display: block;
