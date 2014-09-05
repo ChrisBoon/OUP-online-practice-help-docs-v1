@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 2,
+          "numberPosLeft": 70,
           "text":{
             "english": "Choose a class from the menu.",
             "turkish": "-",
@@ -40,8 +40,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 2,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 2,
+          "numberPosLeft": 1,
           "text":{
             "english": "You can create a new post by writing in the Create New Post column. When you click the “Post” button it will appear in the Discussions and Comments list. Any student in your Online Practice class can see your post and reply to it. Students can also write posts and begin discussions.",
             "turkish": "-",
@@ -50,8 +50,8 @@
         },
         "paragraph02": {
           "number": 3,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 20,
+          "numberPosLeft": 1,
           "text":{
             "english": "Write your message in the blank text area under the formatting buttons.  ",
             "turkish": "-",
@@ -60,8 +60,8 @@
         },
         "paragraph03": {
           "number": 4,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 2,
+          "numberPosLeft": 41,
           "text":{
             "english": "This is where you can view and reply to all of the current posts.",
             "turkish": "-",
@@ -70,8 +70,8 @@
         },
         "paragraph04": {
           "number": 5,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 85,
+          "numberPosLeft": 1,
           "text":{
             "english": "Click “Post” to add a post to the column on the right.",
             "turkish": "-",
@@ -80,8 +80,8 @@
         },
         "paragraph05": {
           "number": 6,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 20,
+          "numberPosLeft": 39,
           "text":{
             "english": "Click “Show” to view your students' replies to a post.",
             "turkish": "-",
@@ -90,8 +90,8 @@
         },
         "paragraph06": {
           "number": 7,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 39,
+          "numberPosLeft": 39,
           "text":{
             "english": "Click “Hide” to hide the replies.",
             "turkish": "-",
@@ -100,8 +100,8 @@
         },
         "paragraph07": {
           "number": 8,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 42,
+          "numberPosLeft": 56,
           "text":{
             "english": "Click “Reply” to reply to a post.",
             "turkish": "-",
@@ -121,8 +121,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 9,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 44,
+          "numberPosLeft": 42,
           "text":{
             "english": "If you click “Reply”, a text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
             "turkish": "-",
@@ -131,8 +131,8 @@
         },
         "paragraph02": {
           "number": 10,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 63,
+          "numberPosLeft": 42,
           "text":{
             "english": "Click “Post” to post your reply to the discussion.",
             "turkish": "-",
@@ -141,8 +141,8 @@
         },
         "paragraph03": {
           "number": 11,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 63,
+          "numberPosLeft": 55,
           "text":{
             "english": "Click “Cancel” if you do not want to post your reply.",
             "turkish": "-",
@@ -151,8 +151,8 @@
         },
         "paragraph04": {
           "number": 12,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 29,
+          "numberPosLeft": 79,
           "text":{
             "english": "Click “Delete Conversation” to delete an entire discussion which includes the original post, as well as all students' replies. Students are not able to delete discussions.",
             "turkish": "-",
@@ -161,8 +161,8 @@
         },
         "paragraph05": {
           "number": 13,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 79,
+          "numberPosLeft": 42,
           "text":{
             "english": "Click “Delete Reply” to delete any reply within a discussion. Students are not able to delete replies.",
             "turkish": "-",

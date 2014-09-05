@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 21,
+          "numberPosLeft": 60,
           "text":{
             "english": "If you are a first-time user click “Register.”",
             "turkish": "-",
@@ -40,8 +40,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 2,
+          "numberPosLeft": 22,
           "text":{
             "english": "This page explains the Terms of Use. You must agree to the terms in order to register for Online Practice.",
             "turkish": "-",
@@ -50,8 +50,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 82,
+          "numberPosLeft": 65,
           "text":{
             "english": "Check the box to show that you agree to the Terms of Use.",
             "turkish": "-",
@@ -60,8 +60,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 90,
+          "numberPosLeft": 13,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
@@ -70,8 +70,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 90,
+          "numberPosLeft": 83,
           "text":{
             "english": "Click here to go to the next page. You must check the box to show that you agree to the Terms of Use before you can go to the next page.",
             "turkish": "-",
@@ -91,8 +91,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 17,
+          "numberPosLeft": 8,
           "text":{
             "english": "Enter your Administrator access code.",
             "turkish": "-",
@@ -101,8 +101,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 17,
+          "numberPosLeft": 53,
           "text":{
             "english": "Click “Enter”.",
             "turkish": "-",
@@ -122,8 +122,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 14,
+          "numberPosLeft": 27,
           "text":{
             "english": "Enter your first name (given name).",
             "turkish": "-",
@@ -132,8 +132,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 20,
+          "numberPosLeft": 27,
           "text":{
             "english": "Enter your last name (family name).",
             "turkish": "-",
@@ -142,8 +142,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 27,
+          "numberPosLeft": 27,
           "text":{
             "english": "Enter your email address.",
             "turkish": "-",
@@ -152,8 +152,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 34,
+          "numberPosLeft": 27,
           "text":{
             "english": "Type your email address again.",
             "turkish": "-",
@@ -162,8 +162,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 41,
+          "numberPosLeft": 27,
           "text":{
             "english": "Choose a password.",
             "turkish": "-",
@@ -172,8 +172,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 48,
+          "numberPosLeft": 27,
           "text":{
             "english": "Type your password again.",
             "turkish": "-",
@@ -182,8 +182,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 90,
+          "numberPosLeft": 11,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
@@ -192,8 +192,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
+          "numberPosTop": 90,
+          "numberPosLeft": 85,
           "text":{
             "english": "Click here to submit your information and go to the next page.",
             "turkish": "-",
@@ -213,8 +213,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 15,
+          "numberPosLeft": 8,
           "text":{
             "english": "Enter the name of your school or institution.",
             "turkish": "-",
@@ -223,8 +223,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 90,
+          "numberPosLeft": 12,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
@@ -233,8 +233,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 90,
+          "numberPosLeft": 85,
           "text":{
             "english": "Click here to submit the name of your institution and go to the next page.",
             "turkish": "-",
@@ -254,8 +254,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 12,
+          "numberPosLeft": 9,
           "text":{
             "english": "This is the ID code for your institution. Give this code to your teachers so they can link their class records to your institution. If teachers do not link to your institution with this code, you will not be able to see their classes in your reports.",
             "turkish": "-",
@@ -264,8 +264,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 89,
+          "numberPosLeft": 12,
           "text":{
             "english": "Click here to print this page and save it for your records.",
             "turkish": "-",
@@ -274,8 +274,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 89,
+          "numberPosLeft": 86,
           "text":{
             "english": "Click here to go to the next page.",
             "turkish": "-",
@@ -295,8 +295,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 6,
+          "numberPosLeft": 8,
           "text":{
             "english": "This page shows your registration information. You may want to print this page for your records. If you want to change this information, select Edit Profile after you log in (it will be in the top right of the screen).",
             "turkish": "-",
@@ -305,7 +305,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
+          "numberPosTop": 91,
           "numberPosLeft": 10,
           "text":{
             "english": "Click here to go back to the previous page.",
@@ -315,8 +315,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 91,
+          "numberPosLeft": 23,
           "text":{
             "english": "Click here to print your registration information.",
             "turkish": "-",
@@ -325,8 +325,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 91,
+          "numberPosLeft": 84,
           "text":{
             "english": "Click here to complete the registration and log in to your Online Practice.",
             "turkish": "-",

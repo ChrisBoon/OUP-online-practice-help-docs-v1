@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 2,
+          "numberPosLeft": 71,
           "text":{
             "english": "Select a class from the menu.",
             "turkish": "-",
@@ -40,8 +40,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 2,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 2,
+          "numberPosLeft": 2,
           "text":{
             "english": "This is your inbox. Your messages will appear in the column here.",
             "turkish": "-",
@@ -50,8 +50,8 @@
         },
         "paragraph02": {
           "number": 3,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 2,
+          "numberPosLeft": 33,
           "text":{
             "english": "A number is displayed to the right of the inbox header. This number shows how many unread messages are in your inbox.",
             "turkish": "-",
@@ -60,8 +60,8 @@
         },
         "paragraph03": {
           "number": 4,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 46,
+          "numberPosLeft": 2,
           "text":{
             "english": "Select a message in your inbox. It will display on the right.",
             "turkish": "-",
@@ -70,8 +70,8 @@
         },
         "paragraph04": {
           "number": 5,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 3,
+          "numberPosLeft": 80,
           "text":{
             "english": "Click the “Delete” button to remove a message from your inbox.",
             "turkish": "-",
@@ -80,8 +80,8 @@
         },
         "paragraph05": {
           "number": 6,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 8,
+          "numberPosLeft": 80,
           "text":{
             "english": "Click the “Reply” button to reply to a message.",
             "turkish": "-",
@@ -90,8 +90,8 @@
         },
         "paragraph06": {
           "number": 7,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 74,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click on the Sent header to display your sent messages.",
             "turkish": "-",
@@ -100,8 +100,8 @@
         },
         "paragraph07": {
           "number": 8,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 90,
+          "numberPosLeft": 69,
           "text":{
             "english": "Click the “Create New Message” button if you want to write a new message.",
             "turkish": "-",
@@ -121,8 +121,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 9,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 10,
+          "numberPosLeft": 42,
           "text":{
             "english": "The Reply and Create New Message windows contain To and CC buttons. Choose a student you want to write to by clicking the “To” button and choosing a name. Add other students you wish to send your message to by clicking the “CC” button. You can message any student in your Online Practice class. You cannot send a message to an email address outside your Online Practice class.",
             "turkish": "-",
@@ -131,8 +131,8 @@
         },
         "paragraph02": {
           "number": 10,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 23,
+          "numberPosLeft": 72,
           "text":{
             "english": "Click on “Select all” to email all students in your class together, then click “OK”. If you choose not to select anyone, click “Cancel”.",
             "turkish": "-",
@@ -152,8 +152,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 11,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 40,
+          "numberPosLeft": 83,
           "text":{
             "english": "Click on the paperclip icon to attach a file to your message. You can attach two files with a total size of 2MB.",
             "turkish": "-",
@@ -162,8 +162,8 @@
         },
         "paragraph02": {
           "number": 12,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 90,
+          "numberPosLeft": 53,
           "text":{
             "english": "Use the “Send” button to send the message when you are ready.",
             "turkish": "-",
@@ -172,8 +172,8 @@
         },
         "paragraph03": {
           "number": 13,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 90,
+          "numberPosLeft": 68,
           "text":{
             "english": "If you decide not to send the message, click the “Cancel” button. This will return you to the inbox.",
             "turkish": "-",
@@ -182,8 +182,8 @@
         },
         "paragraph04": {
           "number": 14,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 90,
+          "numberPosLeft": 83,
           "text":{
             "english": "You can save messages before you send them and return to them later in the Drafts area by clicking the “Save” button.",
             "turkish": "-",
