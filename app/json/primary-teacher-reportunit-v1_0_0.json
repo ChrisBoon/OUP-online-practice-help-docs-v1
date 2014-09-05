@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 1,
+          "numberPosLeft": 10,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 1,
+          "numberPosLeft": 23,
           "text":{
             "english": "Click here to view the Class Report.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 1,
+          "numberPosLeft": 37,
           "text":{
             "english": "Use this menu to view a Unit Report for a different class.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 11.5,
+          "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to view a Unit Report for a different student.",
             "turkish": "-",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 17,
+          "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to view the Unit Report for a different unit.",
             "turkish": "-",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 27,
+          "numberPosLeft": 42,
           "text":{
             "english": "Click here to view this student’s work for this lesson.",
             "turkish": "-",
@@ -79,8 +79,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 32,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows this student’s score on each activity in this unit. It shows the score for the student’s last attempt on the activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The . symbol means that the activity does not have a score.",
             "turkish": "-",
@@ -89,8 +89,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
+          "numberPosTop": 38,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows the total number of times this student attempted each activity in this unit. The . symbol means that attempts are not recorded for the activity.",
             "turkish": "-",
@@ -99,8 +99,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 45,
-          "numberPosLeft": 45,
+          "numberPosTop": 42,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows the total amount of time this student spent on each activity in this unit.",
             "turkish": "-",
@@ -109,8 +109,8 @@
         },
         "paragraph10": {
           "number": 10,
-          "numberPosTop": 50,
-          "numberPosLeft": 50,
+          "numberPosTop": 32,
+          "numberPosLeft": 24,
           "text":{
             "english": "This is the student’s total score in a lesson.",
             "turkish": "-",
@@ -119,8 +119,8 @@
         },
         "paragraph11": {
           "number": 11,
-          "numberPosTop": 55,
-          "numberPosLeft": 55,
+          "numberPosTop": 38,
+          "numberPosLeft": 24,
           "text":{
             "english": "This is the student’s total number of activity attempts in a lesson.",
             "turkish": "-",
@@ -129,8 +129,8 @@
         },
         "paragraph12": {
           "number": 12,
-          "numberPosTop": 60,
-          "numberPosLeft": 60,
+          "numberPosTop": 42,
+          "numberPosLeft": 24,
           "text":{
             "english": "This is the total amount of time taken on activities in a lesson.",
             "turkish": "-",
@@ -139,8 +139,8 @@
         },
         "paragraph13": {
           "number": 13,
-          "numberPosTop": 65,
-          "numberPosLeft": 65,
+          "numberPosTop": 17,
+          "numberPosLeft": 79,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "-",
@@ -149,8 +149,8 @@
         },
         "paragraph14": {
           "number": 14,
-          "numberPosTop": 70,
-          "numberPosLeft": 70,
+          "numberPosTop": 17,
+          "numberPosLeft": 88,
           "text":{
             "english": "Click here to print this report.",
             "turkish": "-",

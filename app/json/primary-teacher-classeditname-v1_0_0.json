@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 47,
+          "numberPosLeft": 10,
           "text":{
             "english": "Enter the new name for your class. Then click “Save”. If you do not want to change the name of your class, click “Cancel”.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 57,
+          "numberPosLeft": 12,
           "text":{
             "english": "Click here to save your class name and return to the Class Details page.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 57,
+          "numberPosLeft": 24,
           "text":{
             "english": "Click here to go back to the Class Details page without saving any changes.",
             "turkish": "-",

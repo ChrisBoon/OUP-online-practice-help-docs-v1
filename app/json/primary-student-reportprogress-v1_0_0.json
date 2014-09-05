@@ -10,7 +10,7 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PSR001.png",
+      "imgId": "PSRS001.png",
       "pageTitle": {
         "english": "",
         "turkish": "",
@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 6,
+          "numberPosLeft": 68,
           "text":{
             "english": "This page shows your activity scores for all units in your level of Online Practice.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 16,
+          "numberPosLeft": 9,
           "text":{
             "english": "Use this menu to display reports for all units or display reports for separate units.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 36,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows the total score of all activities attempted in each lesson of a unit. The score is shown out of the total number of possible points in the attempted activities.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 42,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows the total number of activity attempts in each lesson of a unit.",
             "turkish": "-",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 48,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows the time spent on activities in each lesson of a unit.",
             "turkish": "-",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 36,
+          "numberPosLeft": 17,
           "text":{
             "english": "The total score in a unit is shown here.",
             "turkish": "-",
@@ -79,8 +79,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 42,
+          "numberPosLeft": 17,
           "text":{
             "english": "The total number of activity attempts in a unit is shown here.",
             "turkish": "-",
@@ -89,8 +89,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
+          "numberPosTop": 48,
+          "numberPosLeft": 17,
           "text":{
             "english": "The total time taken on all activity attempts in a unit is shown here.",
             "turkish": "-",
@@ -99,8 +99,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 45,
-          "numberPosLeft": 45,
+          "numberPosTop": 16,
+          "numberPosLeft": 80,
           "text":{
             "english": "Click here to see your activity scores displayed as a percentage of the total number of points available.",
             "turkish": "-",

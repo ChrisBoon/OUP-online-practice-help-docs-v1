@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 1,
+          "numberPosLeft": 10,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 1,
+          "numberPosLeft": 24,
           "text":{
             "english": "Click here to view the Class Report for the class shown on the right.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 1,
+          "numberPosLeft": 36,
           "text":{
             "english": "Click here to view the Unit Report for this student.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 1,
+          "numberPosLeft": 48,
           "text":{
             "english": "Click here to view the Lesson Report for this student.",
             "turkish": "-",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 9,
+          "numberPosLeft": 68,
           "text":{
             "english": "Use this menu to view the work of a student in another class. Select “All Classes” to go to the Class Summary Report.",
             "turkish": "-",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 16,
+          "numberPosLeft": 2,
           "text":{
             "english": "Use this menu to view the work of a different student for this activity.",
             "turkish": "-",
@@ -79,8 +79,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 20,
+          "numberPosLeft": 8,
           "text":{
             "english": "Use this menu to view a different unit.",
             "turkish": "-",
@@ -89,7 +89,7 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
+          "numberPosTop": 20,
           "numberPosLeft": 40,
           "text":{
             "english": "Use this menu to view a different lesson.",
@@ -99,8 +99,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 45,
-          "numberPosLeft": 45,
+          "numberPosTop": 87,
+          "numberPosLeft": 10,
           "text":{
             "english": "This score shows the most recent attempt on this activity by the student selected. Please note that for speaking activities that include a voice-record feature, the student’s recordings are not saved.",
             "turkish": "-",
@@ -109,8 +109,8 @@
         },
         "paragraph10": {
           "number": 10,
-          "numberPosTop": 50,
-          "numberPosLeft": 50,
+          "numberPosTop": 87,
+          "numberPosLeft": 27,
           "text":{
             "english": "This shows the number of times a student has attempted this activity.",
             "turkish": "-",

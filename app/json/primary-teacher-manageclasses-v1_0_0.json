@@ -20,7 +20,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosLeft": 25,
           "text":{
             "english": "This screen shows all of the classes that you have created.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 21,
+          "numberPosLeft": 41,
           "text":{
             "english": "Click here to view the details for a class. You can view your students, view your class ID code, change the name of this class, delete students’ accounts, or join an institution.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 21,
+          "numberPosLeft": 61,
           "text":{
             "english": "Click here to hide units or lessons for your class.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 21,
+          "numberPosLeft": 77,
           "text":{
             "english": "Click here to view your class and student reports.",
             "turkish": "-",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 21,
+          "numberPosLeft": 89,
           "text":{
             "english": "Click here to delete a class.",
             "turkish": "-",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 88,
+          "numberPosLeft": 73,
           "text":{
             "english": "Click here to create a new class. (To add a new level, go to your Home page and click “Add a Level”.)",
             "turkish": "-",

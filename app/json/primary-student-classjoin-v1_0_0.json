@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 22,
+          "numberPosLeft": 9,
           "text":{
             "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 29,
+          "numberPosLeft": 26,
           "text":{
             "english": "Click here to submit your class ID code and return to your Home page.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 29,
+          "numberPosLeft": 38,
           "text":{
             "english": "Click here to go back to the previous page without joining a class.",
             "turkish": "-",

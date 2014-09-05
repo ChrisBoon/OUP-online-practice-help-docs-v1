@@ -19,7 +19,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
+          "numberPosTop": 22,
           "numberPosLeft": 5,
           "text":{
             "english": "View student reports from teachers who have joined your institution’s Online Practice.",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 22,
+          "numberPosLeft": 53,
           "text":{
             "english": "View the Online Practice activities for all levels of your course.",
             "turkish": "-",
@@ -50,8 +50,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 3,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 30,
+          "numberPosLeft": 1,
           "text":{
             "english": "Administrators can view activities for all levels of a course. Select a level to view on this page.",
             "turkish": "-",

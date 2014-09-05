@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 13,
+          "numberPosLeft": 19,
           "text":{
             "english": "Click here to change your first name.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 22,
+          "numberPosLeft": 19,
           "text":{
             "english": "Click here to change your last name (family name).",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 31,
+          "numberPosLeft": 19,
           "text":{
             "english": "Click here to change your institution name.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 48,
+          "numberPosLeft": 19,
           "text":{
             "english": "Click here to change your email address.",
             "turkish": "-",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 57,
+          "numberPosLeft": 19,
           "text":{
             "english": "Click here to confirm your new email address.",
             "turkish": "-",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 65,
+          "numberPosLeft": 19,
           "text":{
             "english": "Click here to change your password.",
             "turkish": "-",
@@ -79,8 +79,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 74,
+          "numberPosLeft": 19,
           "text":{
             "english": "Click here to confirm your new password.",
             "turkish": "-",
@@ -89,8 +89,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
+          "numberPosTop": 84,
+          "numberPosLeft": 19,
           "text":{
             "english": "Click here to save your changes.",
             "turkish": "-",
@@ -99,8 +99,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 45,
-          "numberPosLeft": 45,
+          "numberPosTop": 84,
+          "numberPosLeft": 34,
           "text":{
             "english": "Click here to cancel without saving any changes.",
             "turkish": "-",

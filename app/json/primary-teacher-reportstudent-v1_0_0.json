@@ -12,15 +12,15 @@
       "pageType": "screenshot",
       "imgId": "PTRS001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
+        "english": "",
+        "turkish": "",
+        "arabic": ""
       },
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 1.5,
+          "numberPosLeft": 10,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 1.5,
+          "numberPosLeft": 23,
           "text":{
             "english": "Click here to view the Class Report for the class shown in the menu on the right.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 3,
+          "numberPosLeft": 73,
           "text":{
             "english": "Use this menu to view the Class Report for a different class. Select “All Classes” to go to the Class Summary Report.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 11,
+          "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to view the Student Report for a different student in this class.",
             "turkish": "-",
@@ -59,7 +59,7 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
+          "numberPosTop": 11,
           "numberPosLeft": 25,
           "text":{
             "english": "Click here to see the student’s Achievements.",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 17,
+          "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to see a student’s results for a specific unit or all units.",
             "turkish": "-",
@@ -79,8 +79,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 27,
+          "numberPosLeft": 1,
           "text":{
             "english": "You can also click on a unit title to view a student’s Unit Report.",
             "turkish": "-",
@@ -89,8 +89,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
+          "numberPosTop": 27,
+          "numberPosLeft": 29.5,
           "text":{
             "english": "Click on a lesson title to view the student’s work in this lesson.",
             "turkish": "-",
@@ -99,8 +99,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 45,
-          "numberPosLeft": 45,
+          "numberPosTop": 32,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows a student’s total score for all activities in a lesson.",
             "turkish": "-",
@@ -109,8 +109,8 @@
         },
         "paragraph10": {
           "number": 10,
-          "numberPosTop": 50,
-          "numberPosLeft": 50,
+          "numberPosTop": 37,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows the number of times a student attempted all activities in a lesson.",
             "turkish": "-",
@@ -119,8 +119,8 @@
         },
         "paragraph11": {
           "number": 11,
-          "numberPosTop": 55,
-          "numberPosLeft": 55,
+          "numberPosTop": 41,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows the total amount of time the student spent on each lesson.",
             "turkish": "-",
@@ -129,8 +129,8 @@
         },
         "paragraph12": {
           "number": 12,
-          "numberPosTop": 60,
-          "numberPosLeft": 60,
+          "numberPosTop": 32,
+          "numberPosLeft": 17,
           "text":{
             "english": "This is the student’s total score across all activities in a unit.",
             "turkish": "-",
@@ -139,8 +139,8 @@
         },
         "paragraph13": {
           "number": 13,
-          "numberPosTop": 65,
-          "numberPosLeft": 65,
+          "numberPosTop": 37,
+          "numberPosLeft": 17,
           "text":{
             "english": "This is the total number of times the student has attempted all activities in a unit.",
             "turkish": "-",
@@ -149,8 +149,8 @@
         },
         "paragraph14": {
           "number": 14,
-          "numberPosTop": 70,
-          "numberPosLeft": 70,
+          "numberPosTop": 41,
+          "numberPosLeft": 17,
           "text":{
             "english": "This is the total time taken on all activities in a unit.",
             "turkish": "-",
@@ -159,28 +159,18 @@
         },
         "paragraph15": {
           "number": 15,
-          "numberPosTop": 75,
-          "numberPosLeft": 75,
-          "text":{
-            "english": "Click here to return to the previous screen.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph16": {
-          "number": 16,
-          "numberPosTop": 80,
-          "numberPosLeft": 80,
+          "numberPosTop": 17,
+          "numberPosLeft": 78,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "-",
             "arabic": "-"
           }
         },
-        "paragraph17": {
-          "number": 17,
-          "numberPosTop": 85,
-          "numberPosLeft": 85,
+        "paragraph16": {
+          "number": 16,
+          "numberPosTop": 17,
+          "numberPosLeft": 87,
           "text":{
             "english": "Click here to print this report.",
             "turkish": "-",

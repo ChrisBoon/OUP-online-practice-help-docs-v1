@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 27,
+          "numberPosLeft": 9,
           "text":{
             "english": "Enter your new class ID code here and then click “Save”.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 35,
+          "numberPosLeft": 25,
           "text":{
             "english": "Click here to submit your new class ID code and return to your Home page.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 35,
+          "numberPosLeft": 37,
           "text":{
             "english": "Click here to go back to the previous page without changing your class.",
             "turkish": "-",

@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 3,
+          "numberPosLeft": 73,
           "text":{
             "english": "Use the menu to go to the Class Report for a specific class (you can view the work of specific students in a class).",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 26,
+          "numberPosLeft": 1,
           "text":{
             "english": "You can also click on a class title to view a class report.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 26,
+          "numberPosLeft": 38,
           "text":{
             "english": "Click here to view a Unit Report. You can see students’ scores for all lessons in the unit.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 30,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average number of activities completed in each unit for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the unit, and 9 is the total number of activities in the unit.",
             "turkish": "-",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 34,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average score in each unit for this class.",
             "turkish": "-",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 38,
+          "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average amount of time students in this class worked on each unit.",
             "turkish": "-",
@@ -79,8 +79,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 30,
+          "numberPosLeft": 23,
           "text":{
             "english": "This is the total of the average number of activities completed in the entire level for this class. For example, if the number is 80/90, 80 is the total of the average number of activities completed across units, and 90 is the total number of activities in the level.",
             "turkish": "-",
@@ -89,8 +89,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
+          "numberPosTop": 34,
+          "numberPosLeft": 23,
           "text":{
             "english": "This is the average score across units in the level.",
             "turkish": "-",
@@ -99,8 +99,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 45,
-          "numberPosLeft": 45,
+          "numberPosTop": 38,
+          "numberPosLeft": 23,
           "text":{
             "english": "This is the total of the average amount of time in each unit that students spent on activities across the level.",
             "turkish": "-",
@@ -109,28 +109,18 @@
         },
         "paragraph10": {
           "number": 10,
-          "numberPosTop": 50,
-          "numberPosLeft": 50,
-          "text":{
-            "english": "Click here to return to the previous screen.",
-            "turkish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph11": {
-          "number": 11,
-          "numberPosTop": 55,
-          "numberPosLeft": 55,
+          "numberPosTop": 10,
+          "numberPosLeft": 78,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "-",
             "arabic": "-"
           }
         },
-        "paragraph12": {
-          "number": 12,
-          "numberPosTop": 60,
-          "numberPosLeft": 60,
+        "paragraph11": {
+          "number": 11,
+          "numberPosTop": 10,
+          "numberPosLeft": 88,
           "text":{
             "english": "Click here to print this report.",
             "turkish": "-",

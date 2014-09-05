@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 30,
+          "numberPosLeft": 1,
           "text":{
             "english": "Click an icon to choose your Online Practice level. If you add further levels you will be able to access them here.",
             "turkish": "-",
@@ -41,7 +41,7 @@
         "paragraph01": {
           "number": 2,
           "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosLeft": 3,
           "text":{
             "english": "When you have chosen a level you can enter the Activity area, view and download supporting course resources or visit the Media Centre to use audio and video files for your level.",
             "turkish": "-",

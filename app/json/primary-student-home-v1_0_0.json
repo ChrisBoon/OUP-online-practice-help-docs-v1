@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 7,
+          "numberPosLeft": 7,
           "text":{
             "english": "When you enter Online Practice or click on the Home icon at the top of the screen you will see the levels of your course here.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 54,
+          "numberPosLeft": 17,
           "text":{
             "english": "Click on “Add a level” to add another level if you have an access code.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 33,
+          "numberPosLeft": 39,
           "text":{
             "english": "Choose the level you want to enter.",
             "turkish": "-",
@@ -60,8 +60,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 7,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to change to a different level.",
             "turkish": "-",
@@ -70,8 +70,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 40,
+          "numberPosLeft": 15,
           "text":{
             "english": "Click here to enter the Online Practice Activity area.",
             "turkish": "-",
@@ -80,8 +80,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 40,
+          "numberPosLeft": 37,
           "text":{
             "english": "Click here to see your Report, Trophy Room and Skills Dashboard. These show your achievements and progress for all of the activities in this level.",
             "turkish": "-",
@@ -90,8 +90,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 40,
+          "numberPosLeft": 59,
           "text":{
             "english": "Click here to use the Email area. You can message your teacher and other students in your Online Practice class. The Email icon appears here when you have joined a class.",
             "turkish": "-",
@@ -100,8 +100,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 40,
+          "numberPosLeft": 81,
           "text":{
             "english": "Click here to use the Forum. You can join in discussions with your teacher and other students in your Online Practice class. The Forum icon appears here when you have joined a class.",
             "turkish": "-",
@@ -110,8 +110,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 74,
+          "numberPosLeft": 26,
           "text":{
             "english": "Click here to access the Media Centre to listen to class audio and watch videos, if available.",
             "turkish": "-",
@@ -120,8 +120,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 74,
+          "numberPosLeft": 48,
           "text":{
             "english": "Click here to access the Resources area where you can find extra resources that will support you with your Online Practice.",
             "turkish": "-",
@@ -130,8 +130,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
+          "numberPosTop": 74,
+          "numberPosLeft": 70,
           "text":{
             "english": "Click here to join an Online Practice class or change class. You will need a class code from your teacher to do this.",
             "turkish": "-",

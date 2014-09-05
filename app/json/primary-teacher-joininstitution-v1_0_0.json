@@ -19,7 +19,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
+          "numberPosTop": 39,
           "numberPosLeft": 5,
           "text":{
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. The administrator will be able to see reports for the Online Practice classes of all teachers who have joined the Online Practice institution. If you do not have an institution ID code, click “Cancel”.",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 52,
+          "numberPosLeft": 20,
           "text":{
             "english": "Click here to submit your institution ID code and return to the Class Details page.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 52,
+          "numberPosLeft": 33,
           "text":{
             "english": "Click here if you do not have an institution ID code.",
             "turkish": "-",

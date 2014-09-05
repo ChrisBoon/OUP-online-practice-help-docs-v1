@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 24,
+          "numberPosLeft": 3,
           "text":{
             "english": "Click here to manage your Online Practice classes. You can view the details of your classes, delete students’ accounts, add new classes, delete classes, or join an institution.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 36,
+          "numberPosLeft": 3,
           "text":{
             "english": "Click here to view scores and reports on your students’ progress.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 48,
+          "numberPosLeft": 3,
           "text":{
             "english": "Click here to enter the Online Practice activity area.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 24,
+          "numberPosLeft": 50,
           "text":{
             "english": "Click here to add another level of your Online Practice course.",
             "turkish": "-",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 36,
+          "numberPosLeft": 50,
           "text":{
             "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
             "turkish": "-",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 48,
+          "numberPosLeft": 50,
           "text":{
             "english": "Click here to view discussions in the Forum.",
             "turkish": "-",

@@ -10,7 +10,7 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTH001.png",
+      "imgId": "PTCA001.png",
       "pageTitle": {
         "english": "",
         "turkish": "",
@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 2.5,
+          "numberPosLeft": 29,
           "text":{
             "english": "You can hide units and lessons from your students by checking the boxes on this page. Your students will only see the activities in the units or lessons when you uncheck the boxes.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 2.5,
+          "numberPosLeft": 62,
           "text":{
             "english": "Choose a class using the menu.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 31,
+          "numberPosLeft": 4,
           "text":{
             "english": "Check a box here to hide a whole unit.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 21,
+          "numberPosLeft": 25,
           "text":{
             "english": "Check a box here to hide selected lessons within a unit.",
             "turkish": "-",
@@ -59,10 +59,10 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 94,
+          "numberPosLeft": 24,
           "text":{
-            "english": "Click here to save the changes you made to this class. ",
+            "english": "Click here to save the changes you made to this class.",
             "turkish": "-",
             "arabic": "-"
           }
