@@ -31,10 +31,10 @@
   opHelpGlobals = {
     config:{
       homePage:"primary",
+      bodyClass: "primary",
       currentCourse: "od",
       currentCourseTitle: "Oxford Discover",
-      courseLanguages: ['English','Turkish','Arabic']     
-    }
+      courseLanguages: ['English','Turkish','Arabic']    }
   }
 
   var runFastClick = function() {
@@ -46,8 +46,8 @@
 <body 
 ng-controller="MyCtrl1"
 ng-init="getLang();firstTimeCheck()"
-class="ng-cloak course-home"
-    ng-click="firstTimeSet()"
+class="ng-cloak course-home primary"
+ng-click="firstTimeSet()"
 >
   <!--[if lt IE 9]>
       <div class="oldie-message">
@@ -70,7 +70,7 @@ class="ng-cloak course-home"
     >
       <span ng-if="language.language == 'english'">Welcome</span>
       <span ng-if="language.language == 'turkish'">Welcome (Turkish)</span>
-      <span ng-if="language.language == 'arabic'">Welcome (Arabic)</span>
+      <span ng-if="language.language == 'arabic'" class="rtl">Welcome (Arabic)</span>
     </a>
 
       <accordion close-others="oneAtATime">
@@ -108,7 +108,7 @@ class="ng-cloak course-home"
           </accordion-heading>
 
           <accordion-heading ng-if="language.language == 'arabic'">
-            {{user.userType.arabic}}
+            <div class="rtl">{{user.userType.arabic}}</div>
             <span 
             class="accordion-toggle__arrow"
             ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
@@ -151,7 +151,7 @@ class="ng-cloak course-home"
               ng-if="language.language == 'arabic'"
               ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
               ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option"
+              class="help-menu__option rtl"
               >
                 {{listitem.title.arabic}}
               </a>
@@ -166,7 +166,7 @@ class="ng-cloak course-home"
     >
       <span ng-if="language.language == 'english'">FAQ</span>
       <span ng-if="language.language == 'turkish'">FAQ (Turkish)</span>
-      <span ng-if="language.language == 'arabic'">FAQ (Arabic)</span>
+      <span ng-if="language.language == 'arabic'" class="rtl">FAQ (Arabic)</span>
     </a>      
     </div>
   </div>

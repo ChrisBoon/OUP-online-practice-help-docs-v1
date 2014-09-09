@@ -13,7 +13,7 @@
     {{helpdoc.title.turkish}}
   </h1>
   <h1 ng-if="language.language == 'arabic'"
-      class="help-doc__title">
+      class="help-doc__title rtl">
     {{helpdoc.title.arabic}}
   </h1>
 
@@ -34,7 +34,7 @@
         ng-if="language.language == 'turkish'">
       {{page.pageTitle.turkish}}
     </h2>
-    <h2 class="help-doc__page__title"
+    <h2 class="help-doc__page__title rtl"
         ng-if="language.language == 'arabic'">
       {{page.pageTitle.arabic}}
     </h2>
@@ -81,7 +81,7 @@
             {{para.text.turkish}}
           </p>
           <p ng-if="language.language == 'arabic'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
+             class="help-doc__page__text help-doc__page__paragraph--numbered__text rtl">
             {{para.text.arabic}}
           </p>
           
@@ -109,7 +109,7 @@
           <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.turkish}}</a>
         <div>
 
-        <div ng-if="language.language == 'arabic'">
+        <div ng-if="language.language == 'arabic'" class="rtl">
           <p>{{page.content.thing01.text.arabic}}</p>
           <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.arabic}}</a>
         <div>

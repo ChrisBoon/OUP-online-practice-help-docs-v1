@@ -8,7 +8,7 @@
   left: 0;
   top: 0px;
   height: $headerHeight;
-  background: lighten($color-accent-contrast,20);
+  background: $color-accent-contrast-light;
   color: #fff;
 
   &__heading{

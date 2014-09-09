@@ -11,7 +11,7 @@
     height: $headerHeight;
     line-height:$headerHeight;
     font-size:$header-font-size;
-    background: $color-main;
+    background: $color-accent-contrast-light;
     color: #fff;
   }
   &__heading{
@@ -26,18 +26,22 @@
       float: right;
       height: $headerHeight;
       padding: 5px;
+      background:$color-accent-contrast;
       cursor: pointer;
-      margin-right: $default-padding - 5px;
-      @include breakpoint(small){
-        margin-right: $mobile-padding - 5px;
-      }
+      transition: background 0.2s;
       &__icon{
         opacity: 0.75;
         transition:opacity 0.2s;
       }
-      &:hover .index-page__search__toggle__icon,
-      &--active .index-page__search__toggle__icon{
-        opacity: 1;
+      @at-root .no-touch &:not(.index-page__search__toggle--active):hover{
+        background: #E4AD01;
+      }
+
+      &--active{
+        background: #333;
+        .index-page__search__toggle__icon{
+          opacity: 1;
+        }
       }
     }
     &__container{
@@ -46,7 +50,10 @@
       transform-origin: top center;
       height: $headerHeight;
       overflow: hidden;
-      padding: 5px;
+      padding: 0px;
+      position: absolute;
+      width: 100%;
+      z-index: z("header");
       &.ng-hide {
         transform: translate(0,-100%);
         opacity: 0;
@@ -54,11 +61,11 @@
     }
     &__input{
       background:#fff;
-      border-radius: $brad;
+      // border-radius: $brad;
       outline: none;
       border:none;
       box-shadow:none;
-      height: $headerHeight - 10px;
+      height: $headerHeight;
       display: block;
       width: 100%;
       color:$color-main;

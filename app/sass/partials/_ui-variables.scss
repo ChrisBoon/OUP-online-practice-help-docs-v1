@@ -6,6 +6,7 @@ $color-grey-dark: #333 !global;
 $color-grey-light: #ccc !global;
 $color-external-link: #007795;
 $color-accent-contrast:rgb(255, 194, 0);
+$color-accent-contrast-light: lighten($color-accent-contrast,20);
 
 // repeated styles
 $default-padding: 20px !global;

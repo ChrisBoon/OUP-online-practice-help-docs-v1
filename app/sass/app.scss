@@ -19,3 +19,12 @@
 @import "custom-pages/_404";
 
 @import "shame/_shame-print";
+
+.rtl{
+  direction:rtl;
+  text-align: right;
+  // color: red;
+}
+.help-menu .help-menu__option--home>.rtl{
+  display: block;
+}
