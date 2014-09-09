@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web-app containing Help Docs for new Online Ptacice courses.
+This project is a web-app containing Help Docs for new Online Pracice courses.
 
 It will be used by all courses going forward. Features include:
 * uses angularjs to pull the help data from json files so separation of content from UI for easy updating.
