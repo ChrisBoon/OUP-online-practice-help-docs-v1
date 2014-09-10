@@ -1,8 +1,8 @@
 {
  "title": {
-    "english": "Edit your profile",
+    "english": "Edit Profile",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "تحريرالملف الشخصي"
   },
  "segment": "primary",
  "userType": ["admin"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "Click here to change your first name.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لتغيير اسمك الأول."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Click here to change your last name (family name).",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "اانقر هنا لتغيير اسمك الأخير (اسم العائلة)."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Click here to change your institution name.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لتغيير اسم مؤسستك."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "Click here to change your email address.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لتغيير عنوان بريدك الإلكتروني."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "Click here to confirm your new email address.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لتأكيد عنوان بريدك الإلكتروني."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "Click here to change your password.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لتغيير كلمة المرور الخاصة بك."
           }
         },
         "paragraph07": {
@@ -84,7 +84,7 @@
           "text":{
             "english": "Click here to confirm your new password.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لتأكيد كلمة المرور الجديدة الخاصة بك."
           }
         },
         "paragraph08": {
@@ -94,7 +94,7 @@
           "text":{
             "english": "Click here to save your changes.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لحفظ التغييرات التي أجريتها."
           }
         },
         "paragraph09": {
@@ -104,7 +104,7 @@
           "text":{
             "english": "Click here to cancel without saving any changes.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للإلغاء بدون حفظ أي تغييرات."
           }
         }
       }
