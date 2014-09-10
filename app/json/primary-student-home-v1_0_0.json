@@ -2,7 +2,7 @@
  "title": {
     "english": "Home",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "الصفحة الرئيسية"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -14,7 +14,7 @@
       "pageTitle": {
         "english": "Choose your level",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "حدد مستواك"
       },
       "paragraphs":{
         "paragraph01": {
@@ -24,7 +24,7 @@
           "text":{
             "english": "When you enter Online Practice or click on the Home icon at the top of the screen you will see the levels of your course here.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "عندما تدخل الممارسة عبر الإنترنت أو تنقر علىأيقونة الصفحة الرئيسية في أعلى الشاشة,سوف ترى مستويات الدورة الخاصة بك هنا."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Click on “Add a level” to add another level if you have an access code.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر على “Add a level”(\"أضف مستوى\") لإضافة مستوى آخر إذا كان لديك رمز دخول."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Choose the level you want to enter.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "اختر المستوى الذي ترغب في إدخاله."
           }
         }
       }
@@ -55,7 +55,7 @@
       "pageTitle": {
         "english": "Choose an Online Practice area",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "اختر منطقة الممارسة عبر شبكة الإنترنت"
       },
       "paragraphs":{
         "paragraph01": {
@@ -65,7 +65,7 @@
           "text":{
             "english": "Click here to change to a different level.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للتغيير إلى مستوى مختلف."
           }
         },
         "paragraph02": {
@@ -75,7 +75,7 @@
           "text":{
             "english": "Click here to enter the Online Practice Activity area.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لدخول منطقة ممارسة النشاط عبر شبكة الإنترنت."
           }
         },
         "paragraph03": {
@@ -85,7 +85,7 @@
           "text":{
             "english": "Click here to see your Report, Trophy Room and Skills Dashboard. These show your achievements and progress for all of the activities in this level.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لرؤية التقرير الخاص بك في غرفة الميدالياتولوحة المهارات. تُظهِر هذه الغرفة واللوحة التحصيل والتقدم الخاصينِبك في جميع الأنشطة في هذا المستوى."
           }
         },
         "paragraph04": {
@@ -95,7 +95,7 @@
           "text":{
             "english": "Click here to use the Email area. You can message your teacher and other students in your Online Practice class. The Email icon appears here when you have joined a class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني. يمكنك مراسلة معلمك والطلاب الآخرين المُدرَجين في فصلالممارسة عبر شبكة الإنترنتالخاصبك. تظهر أيقونة البريد الإلكتروني هنا بعد أن تنضم لأحد الفصول."
           }
         },
         "paragraph05": {
@@ -105,7 +105,7 @@
           "text":{
             "english": "Click here to use the Forum. You can join in discussions with your teacher and other students in your Online Practice class. The Forum icon appears here when you have joined a class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لاستخدام المنتدى. يمكنك الإنضمام إلى مناقشة مع معلمك والطلاب الآخرين في فصلالممارسة عبر شبكة الإنترنتالخاصبك. تظهر أيقونة المنتدى هنا بعد أن تنضم لأحد الفصول."
           }
         },
         "paragraph06": {
@@ -115,7 +115,7 @@
           "text":{
             "english": "Click here to access the Media Centre to listen to class audio and watch videos, if available.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للوصول إلى مركز الوسائط للاستماع إلى صوت الفصل ومشاهدة مقاطع الفيديو، إذا كان ذلك متاحًا."
           }
         },
         "paragraph07": {
@@ -125,7 +125,7 @@
           "text":{
             "english": "Click here to access the Resources area where you can find extra resources that will support you with your Online Practice.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للدخول إلى منطقة الموارد حيث يمكنك أن تجد الموارد الإضافية التي سوف تدعمك في الممارسة عبر شبكة الإنترنت."
           }
         },
         "paragraph08": {
@@ -135,7 +135,7 @@
           "text":{
             "english": "Click here to join an Online Practice class or change class. You will need a class code from your teacher to do this.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للانضمام إلى فصل الممارسة عبر شبكة الإنترنت، أو تغيير الفصل. سوف تحتاج إلى رمز خاص بالفصلمن معلمك للقيام بذلك."
           }
         }
       }

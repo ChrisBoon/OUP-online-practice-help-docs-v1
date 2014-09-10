@@ -2,7 +2,7 @@
  "title": {
     "english": "Email",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "البريد الإلكتروني"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "This is your inbox. When you receive a message it will appear in the column here.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو صندوق البريد الوارد الخاص بك.  عندما تستلم رسالة ما, سوف تظهر في العمود هنا."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "A number is displayed to the right of the inbox header. This number shows the how many unread messages are in your inbox.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يتم عرض رقم علىيمين رأسية البريد الوارد.  ويُظهِر هذا الرقم عدد الرسائل غير المقروءة في صندوق البريد الوارد الخاص بك."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Select a message in your inbox. It will display on the right.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "حدد رسالة في صندوق البريد الوارد الخاص بك. ستظهر على اليمين."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "Click the “Delete” button to remove a message from your inbox.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر فوق زِر “Delete”(\"حذف\") لإزالة رسالة ما من صندوق البريد الوارد الخاص بك."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "Click the “Reply” button to reply to a message.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر فوق زِر“Reply” (\"رد\") للرد على رسالة ما."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "Click on the Sent header to display your sent messages.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "اضغط على رأسية المُرسَل لعرض الرسائل المُرسَلة."
           }
         },
         "paragraph07": {
@@ -84,7 +84,7 @@
           "text":{
             "english": "Click the “Create New Message” button if you want to write a new message.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر فوق زِر“Create New Message”(\"إنشاء رسالة جديدة\") إذا كنت تريد كتابة رسالة جديدة."
           }
         }
       }
@@ -95,7 +95,7 @@
       "pageTitle": {
         "english": "Write a message",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "كتابة رسالة جديدة"
       },
       "paragraphs":{
         "paragraph01": {
@@ -105,7 +105,7 @@
           "text":{
             "english": "The Reply/Create New Message window contains To and CC buttons. Choose a student you want to write to by clicking the “To” button and choosing a name. Add other students you wish to send your message to by clicking the “CC” button. You can message any student in your Online Practice class and your teacher. You cannot send a message to an email address outside your Online Practice class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "تحتوي نافذتي الرد/إنشاء رسالة جديدة على زري To وCC. حدد الطالب الذي ترغب في كتابة رسالة له عن طريق النقر على زِر “TO” واختيار اسم. أضف الطلاب الآخرين الذين ترغب في إرسال رسالتك إليهم من خلال النقر على زر \"CC\". يمكنك مراسلة أي طالب في فصلالممارسة عبر شبكة الإنترنت الخاص بك ومعلمك كذلك. لا يمكنك إرسال رسالة إلى عنوان بريد إلكتروني خارج فصل الممارسة على الإنترنتالخاصبك."
           }
         },
         "paragraph02": {
@@ -115,7 +115,7 @@
           "text":{
             "english": "Click on “Select all” to email all students in your class together, then click “OK”. If you choose not to select anyone, click “Cancel”.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر على “Select all” (\"تحديد الجميع\") لإرسال رسالة إلكترونية إلى جميع الطلاب في فصلك في نفس الوقت، ثم انقر على “OK”(\"موافق\"). إذا اخترت عدم تحديد أي شخص، انقر على “Cancel”(\"إلغاء\")."
           }
         }
       }
@@ -126,7 +126,7 @@
       "pageTitle": {
         "english": "Send your message",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "أرسل رسالتك"
       },
       "paragraphs":{
         "paragraph01": {
@@ -136,7 +136,7 @@
           "text":{
             "english": "Click on the paperclip icon to attach a file to your message. You can attach two files with a total size of 2MB.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "اضغط على أيقونة مشبك الورق لإرفاق ملف برسالتك. يمكنك إرفاق ملفين بإجمالي حجم 2ميجابايت."
           }
         },
         "paragraph02": {
@@ -146,7 +146,7 @@
           "text":{
             "english": "Use the “Send” button to send the message when you are ready.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم زِر“Send”(\"إرسال\") لإرسال الرسالة عندما تكون جاهزًا."
           }
         },
         "paragraph03": {
@@ -154,9 +154,9 @@
           "numberPosTop": 86,
           "numberPosLeft": 68,
           "text":{
-            "english": "You can save messages before you send them and return to them later in the Drafts area by clicking the “Save” button.",
+            "english": "If you decide not to send the message, click the “Cancel” button. This will return you to the inbox.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "إذا قررت عدم إرسال الرسالة، فانقر علىزر “Cancel” (\"إلغاء\").  فسوف يعيدك إلى صندوق البريد الوارد."
           }
         },
         "paragraph04": {
@@ -164,9 +164,9 @@
           "numberPosTop": 86,
           "numberPosLeft": 83,
           "text":{
-            "english": "If you decide not to send the message, click the “Cancel” button. This will return you to the inbox.",
+            "english": "You can save messages before you send them and return to them later in the Drafts area by clicking the “Save” button.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك حفظ الرسائل قبل إرسالها والعودة إليها في وقت لاحق في منطقة المسودات عن طريق النقر على زر“Save” (\"حفظ\")."
           }
         }
       }

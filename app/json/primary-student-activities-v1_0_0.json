@@ -2,7 +2,7 @@
  "title": {
     "english": "Activities",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "أنشطة"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "Use this menu to choose a unit and lesson. When you choose a unit and lesson you will be taken to the first activity within the lesson.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لاختيار وحدة ودرس. عند اختيار وحدة ودرس سيتم نقلك إلى النشاط الأول ضمن الدرس."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Use this menu to choose an activity within a lesson.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لاختيار النشاط من خلال الدرس."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل. "
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "The Online Practice activities are displayed in this area.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يتم عرض أنشطة الممارسة عبرشبكةالإنترنتفي هذهالمنطقة."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "Your current activity score is shown here.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يتم إظهار درجة النشاط الحالي الخاص بك هنا."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "You can attempt an activity three times. The highest score of your attempts is recorded in your report.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك أن تجرب النشاط ثلاث مرات. يتم تسجيل الدرجة الأعلى لمحاولاتك في التقرير الخاص بك."
           }
         },
         "paragraph07": {
@@ -84,7 +84,7 @@
           "text":{
             "english": "Click here to see a Quick Tip pop-up with guidance on completing an activity.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لرؤية نصيحة سريعة منبثقة مع توجيهات بشأن استكمال النشاط."
           }
         },
         "paragraph08": {
@@ -94,7 +94,7 @@
           "text":{
             "english": "If an activity has an attachment, an icon will appear here. Click to download or display the attachment.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "في حالة احتواء النشاط على مرفق، فستظهر أيقونة هنا. انقر لتحميل أو عرض المرفق."
           }
         },
         "paragraph09": {
@@ -104,7 +104,7 @@
           "text":{
             "english": "You can check your answers when you have answered all questions in an activity.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك التحقق من إجاباتك عندما تكون قد أجبت عن جميع الأسئلة في نشاط ما."
           }
         },
         "paragraph10": {
@@ -114,7 +114,7 @@
           "text":{
             "english": "You can try an activity again if you answer some questions incorrectly. You can try an activity three times.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك تجربة أحد الأنشطة مرة أخرى إذا كانت إجاباتك عن بعض الأسئلة غير صحيحة. يمكنك أن تجرب النشاط ثلاث مرات."
           }
         },
         "paragraph11": {
@@ -124,7 +124,7 @@
           "text":{
             "english": "If you answer some questions incorrectly you can see the correct answers.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "إذا أجبت عن بعض الأسئلة بطريقة غير صحيحة يمكنك رؤية الإجابات الصحيحة."
           }
         },
         "paragraph12": {
@@ -134,7 +134,7 @@
           "text":{
             "english": "You can find supporting resources here which will help you with your Online Practice work, if available.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك أن تجد مصادر الدعم هنا الأمر الذي سيساعدك في أعمال الممارسة عبر شبكة الإنترنت، إذا كانت متاحة."
           }
         },
         "paragraph13": {
@@ -144,7 +144,7 @@
           "text":{
             "english": "You can view the Picture Glossary here, if available. The Picture Glossary will help you with the course vocabulary.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك عرض مسرد الصور هنا، إذا كان متاحًا. سوف يساعدك مسرد الصور في المفردات الخاصة بالمقرر."
           }
         },
         "paragraph14": {
@@ -154,7 +154,7 @@
           "text":{
             "english": "Access your Achievements and Reports here.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "أدخل على التحصيل والتقارير الخاصة بك هنا."
           }
         }
       }
