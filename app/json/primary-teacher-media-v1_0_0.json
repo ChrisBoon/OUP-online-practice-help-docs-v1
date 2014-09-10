@@ -6,11 +6,11 @@
   },
  "segment": "primary",
  "userType": ["teacher"],
- "pageCount": 2,
+ "pageCount": 3,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PSM001.png",
+      "imgId": "PTM001.png",
       "pageTitle": {
         "english": "Audio",
         "turkish": "-",
@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 4,
+          "numberPosLeft": 27,
           "text":{
             "english": "The Media Centre provides class audio and video files for you and your students to use, if available.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 56,
+          "numberPosLeft": 26,
           "text":{
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
             "turkish": "-",
@@ -41,7 +41,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "PSM002.png",
+      "imgId": "PTM002.png",
       "pageTitle": {
         "english": "Video",
         "turkish": "-",
@@ -50,18 +50,29 @@
       "paragraphs":{
         "paragraph01": {
           "number": 3,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 69,
+          "numberPosLeft": 26,
           "text":{
             "english": "Click on a video title to play a video file. It will play in a new tab in your browser.",
             "turkish": "-",
             "arabic": "-"
           }
-        },
-        "paragraph02": {
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "PTM003.jpg",
+      "pageTitle": {
+        "english": "Video",
+        "turkish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
           "number": 4,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 84,
+          "numberPosLeft": 5,
           "text":{
             "english": "Use the controls to play and pause the video, change the volume and enter full-screen view.",
             "turkish": "-",
