@@ -2,7 +2,7 @@
  "title": {
     "english": "Student Activity Report",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "تقرير نشاط الطالب"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (متوسط الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Click here to view the Class Report for the class shown on the right.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لعرض تقرير الفصل الخاص بالفصل المعروض على اليمين."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Click here to view the Unit Report for this student.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لعرض تقرير الوحدة لهذا الطالب."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "Click here to view the Lesson Report for this student.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لعرض تقرير الدرس لهذا الطالب."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "Use this menu to view the work of a student in another class. Select “All Classes” to go to the Class Summary Report.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لعرض عمل طالب ما في فصل أخرى. حدد “All Classes”  (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "Use this menu to view the work of a different student for this activity.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لعرض عمل طالب مختلف لهذا النشاط."
           }
         },
         "paragraph07": {
@@ -84,7 +84,7 @@
           "text":{
             "english": "Use this menu to view a different unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لعرض وحدة مختلفة."
           }
         },
         "paragraph08": {
@@ -94,7 +94,7 @@
           "text":{
             "english": "Use this menu to view a different lesson.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لعرض درس مختلف."
           }
         },
         "paragraph09": {
@@ -104,7 +104,7 @@
           "text":{
             "english": "This score shows the most recent attempt on this activity by the student selected. Please note that for speaking activities that include a voice-record feature, the student’s recordings are not saved.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "تُظهِر هذه الدرجة أحدث محاولة في هذا النشاط من قِبل الطالب المحدد. يُرجَى ملاحظة أنه لأنشطة التحدث التي تتضمن ميزة تسجيل الصوت، لا يتم حفظ تسجيلات الطالب."
           }
         },
         "paragraph10": {
@@ -114,7 +114,7 @@
           "text":{
             "english": "This shows the number of times a student has attempted this activity.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يُظهِر هذا عدد المرات التي حاول فيها طالب ما في هذا النشاط."
           }
         }
       }

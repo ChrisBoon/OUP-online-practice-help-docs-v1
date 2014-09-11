@@ -2,7 +2,7 @@
  "title": {
     "english": "Media Centre",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "مركز الوسائط"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -14,7 +14,7 @@
       "pageTitle": {
         "english": "Audio",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "الصوت"
       },
       "paragraphs":{
         "paragraph01": {
@@ -24,7 +24,7 @@
           "text":{
             "english": "The Media Centre provides class audio and video files for you and your students to use, if available.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يقدم مركز الوسائط للصف ملفات صوتية وملفات فيديو لك ولطلابك لاستخدامها، إذا كانت متوفرة."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر فوق عنوان أحد الملفاتالصوتية. سوف يظهر مشغل الصوت ويقوم بتشغيل مقطع الفيديو. استخدم زر السهم لتشغيل وإيقاف المسار. استخدم مفاتيح التحكم للتحرك من خلال المسار وتغيير مستوى جهارة الصوت."
           }
         }
       }
@@ -45,7 +45,7 @@
       "pageTitle": {
         "english": "Video",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "الفيديو"
       },
       "paragraphs":{
         "paragraph01": {
@@ -66,7 +66,7 @@
       "pageTitle": {
         "english": "Video",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "الفيديو"
       },
       "paragraphs":{
         "paragraph01": {
@@ -76,7 +76,7 @@
           "text":{
             "english": "Use the controls to play and pause the video, change the volume and enter full-screen view.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم مفاتيح التحكم لتشغيل وإيقاف مقطع الفيديو وتغيير مستوى جهارة الصوت وإدخال المنظر بملء الشاشة."
           }
         }
       }

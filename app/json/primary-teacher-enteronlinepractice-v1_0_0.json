@@ -2,7 +2,7 @@
  "title": {
     "english": "Enter Online Practice",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "أدخل الممارسة على الإنترنت"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "Click an icon to choose your Online Practice level. If you add further levels you will be able to access them here.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر علىالأيقونة لتحديد مستوى الممارسة الخاص بك على الإنترنت. إذا قمت بإضافة المزيد من المستويات، فسوف يكون بإمكانك الدخول إليها هنا."
           }
         }
       }
@@ -45,7 +45,7 @@
           "text":{
             "english": "When you have chosen a level you can enter the Activity area, view and download supporting course resources or visit the Media Centre to use audio and video files for your level.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "عند تحديدك مستوى ما، يمكنك دخول منطقة النشاط، واستعراض وتحميل مراجع الدورة الداعمةأو زيارة المركز الإعلامي لاستخدام ملفات الصوت والفيديو الخاصة بمستواك."
           }
         }
       }

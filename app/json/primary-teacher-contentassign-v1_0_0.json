@@ -2,7 +2,7 @@
  "title": {
     "english": "Hide Units and Lessons",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "إخفاء الوحدات والدروس"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "You can hide units and lessons from your students by checking the boxes on this page. Your students will only see the activities in the units or lessons when you uncheck the boxes.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك إخفاء الوحدات والدروس عن طلابك عن طريق وضععلامة فيالمربعات الموجودة في هذه الصفحة. سيتمكن طلابك من رؤية الأنشطة الموجودة في الوحدات أو الدروس فقط عندما لا تضع علامة في المربعات."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Choose a class using the menu.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Check a box here to hide a whole unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "ضع علامة فيمربع ما هنا لإخفاء الوحدة كاملةً."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "Check a box here to hide selected lessons within a unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "ضععلامةفيمربع ما هنا لإخفاء الدروس التي تم تحديدها داخل الوحدة."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "Click here to save the changes you made to this class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
           }
         }
       }
