@@ -2,7 +2,7 @@
  "title": {
     "english": "Student Registration",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "تسجيل الطلاب"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "If you are a first-time user click “Register”.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "إذا كنت مستخدمًا لأول مرة,فانقر على“Register”(\"تسجيل\")."
           }
         }
       }
@@ -35,7 +35,7 @@
       "pageTitle": {
         "english": "Agree to the Terms of Use",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "وافق على شروط الاستخدام"
       },
       "paragraphs":{
         "paragraph01": {
@@ -45,7 +45,7 @@
           "text":{
             "english": "This page explains the Terms of Use. You must agree to the terms in order to register for Online Practice.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "تشرح هذه الصفحة شروط الاستخدام. يجب عليك الموافقة على الشروط لكي تقوم بالتسجيل الخاص بالممارسة عبر شبكة الإنترنت."
           }
         },
         "paragraph02": {
@@ -55,7 +55,7 @@
           "text":{
             "english": "Check the box to show that you agree to the Terms of Use.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "ضع علامة في المربع لإظهار موافقتك على شروط الاستخدام."
           }
         },
         "paragraph03": {
@@ -65,7 +65,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
       }
@@ -76,7 +76,7 @@
       "pageTitle": {
         "english": "Enter your access code",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "أدخل رمز الدخول الخاص بك"
       },
       "paragraphs":{
         "paragraph01": {
@@ -86,7 +86,7 @@
           "text":{
             "english": "Enter the access code found on your Student’s access code card.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "أدخل رمز الدخولالموجود على بطاقة رمز دخولالطالب الخاصة بك."
           }
         },
         "paragraph02": {
@@ -96,7 +96,7 @@
           "text":{
             "english": "Click “Enter”.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر “Enter”(\"إدخال\")"
           }
         }
       }
@@ -107,7 +107,7 @@
       "pageTitle": {
         "english": "Enter your details",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "أدخل التفاصيل الخاصة بك"
       },
       "paragraphs":{
         "paragraph01": {
@@ -117,7 +117,7 @@
           "text":{
             "english": "Enter your first name (given name).",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "أدخل اسمك الأول (الاسم المُعطَى)."
           }
         },
         "paragraph02": {
@@ -127,7 +127,7 @@
           "text":{
             "english": "Enter your last name (family name).",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "أدخل اسمك الأخير (اسم العائلة)."
           }
         },
         "paragraph03": {
@@ -137,7 +137,7 @@
           "text":{
             "english": "Enter your email address.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "أدخل عنوان بريدك الإلكتروني."
           }
         },
         "paragraph04": {
@@ -147,7 +147,7 @@
           "text":{
             "english": "Type your email address again.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "اطبع عنوان بريدك الإلكتروني مرةً أخرى."
           }
         },
         "paragraph05": {
@@ -157,7 +157,7 @@
           "text":{
             "english": "Choose a password.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "حدد كلمة مرور."
           }
         },
         "paragraph06": {
@@ -167,7 +167,7 @@
           "text":{
             "english": "Type your password again.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "قم بطباعة كلمة المرور مرة أخرى."
           }
         },
         "paragraph07": {
@@ -177,7 +177,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
         "paragraph08": {
@@ -187,7 +187,7 @@
           "text":{
             "english": "Click here to submit your information and go to the next page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لإرسال المعلومات الخاصة بك وانتقل للصفحة التالية."
           }
         }
       }
@@ -198,7 +198,7 @@
       "pageTitle": {
         "english": "Choose a level",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "حدد مستوى"
       },
       "paragraphs":{
         "paragraph01": {
@@ -208,7 +208,7 @@
           "text":{
             "english": "Click on your book cover to select your level. It is very important to select the level that you are using. Check the title and the cover to make sure it is your level. If you are using more than one level, you can add another level later by choosing “Add a level” from your Home page (you will need a new access code to add a level).",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر فوق غلاف الكتاب الخاص بك لتحديد مستواك. من الأهمية بمكان أن تحدد المستوى الذي تستخدمه. تحقق من العنوان والغلاف لتتأكد أنه المستوى الخاص بك. إذا كنت تستخدم أكثر من مستوى، يمكنك إضافةمستوى آخر في وقت لاحق عن طريق اختيار“Add a level” (\"أضف مستوى\") من صفحتك الرئيسية (سوف تحتاج إلى رمز دخول جديد لإضافة مستوى)."
           }
         },
         "paragraph02": {
@@ -218,7 +218,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
       }
@@ -229,7 +229,7 @@
       "pageTitle": {
         "english": "Enter your class code",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "أدخل رمز الفصل الخاص بك."
       },
       "paragraphs":{
         "paragraph01": {
@@ -239,7 +239,7 @@
           "text":{
             "english": "If you have a class ID code, enter it here. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it. If you do not have a class ID code, click “Skip”. To enter this code later, choose “Join a Class” from your Home page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "إذا كان لديك رمز مُعرِّف خاص بأحد الفصول، فقم بإدخاله هنا. يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكنللمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه. إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول، فانقر على “Skip”(\"تخطي\"). لإدخال هذا الرمز في وقت لاحق؛ اختر “Join a Class” (\"الانضمام إلى أحد الفصول\") من الصفحة الرئيسية."
           }
         },
         "paragraph02": {
@@ -249,7 +249,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
         "paragraph03": {
@@ -259,7 +259,7 @@
           "text":{
             "english": "Click here if you do not have a class ID code.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول."
           }
         },
         "paragraph04": {
@@ -269,7 +269,7 @@
           "text":{
             "english": "Click here to submit your class ID code and go to the next page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وانتقل للصفحة التالية."
           }
         }
       }
@@ -280,7 +280,7 @@
       "pageTitle": {
         "english": "Save your registration information",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "قم حفظ معلومات التسجيل الخاصة بك."
       },
       "paragraphs":{
         "paragraph01": {
@@ -290,7 +290,7 @@
           "text":{
             "english": "This page shows your registration information. You may want to print this page for reference. To change this information, select Edit Profile after you log in (it will be in the top right of the screen).",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "تُظهِر هذه الصفحة معلومات التسجيل الخاصة بك. وقد ترغب في طباعة هذه الصفحة كمرجع. لتغيير هذه المعلومات؛ حدد Edit Profile(\"تحريرالملف الشخصي\") بعد تسجيل الدخول (سيوجد في أعلى يمين الشاشة)."
           }
         },
         "paragraph02": {
@@ -300,7 +300,7 @@
           "text":{
             "english": "Click here to print your registration information.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لطباعة معلومات التسجيل الخاصة بك."
           }
         },
         "paragraph03": {
@@ -310,7 +310,7 @@
           "text":{
             "english": "Click here to complete registration and log in to your Online Practice.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لإكمال التسجيل وتسجيل الدخول في الممارسة الخاصة بك عبر شبكة الإنترنت."
           }
         }
       }

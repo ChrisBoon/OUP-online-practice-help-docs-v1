@@ -1,8 +1,8 @@
 {
  "title": {
-    "english": "Student Unit Report",
+    "english": "Unit Report",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "تقرير وحدة الطالب"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "Use this menu to display reports for all units or display reports for separate units.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لعرض تقارير لجميع الوحدات أو لعرض تقارير لوحدات منفصلة."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "This row shows the scores for each activity in a lesson. The score is shown out of the total number of possible points in an activity.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يبين هذا الصف درجات كل نشاط في درس ما. يتم عرض درجةالرقم الإجمالي للنقاط الممكنة في نشاط ما."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "This row shows the number of attempts at each activity in a lesson.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يُظهِر هذا الصف عدد المحاولات الخاصة بكل نشاط في درس ما."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "This row shows the time taken for all attempts at each activity in a lesson.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يُظهِر هذا الصف الوقت المُستغرَق في كل المحاولات الخاصة بكل نشاط في درس ما."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "The total score for a lesson is shown here.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يتم عرض الدرجة الإجمالية للدرس هنا."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "The total number of activity attempts for a lesson is shown here.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يتم عرض العدد الإجمالي لمحاولات النشاط الخاصة بدرس ما هنا."
           }
         },
         "paragraph07": {
@@ -84,7 +84,7 @@
           "text":{
             "english": "The total time taken on all activities in a lesson is shown here.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يتم عرض إجمالي الوقت المُستغرَق في كل الأنشطة الخاصة بدرس ماهنا."
           }
         }
       }

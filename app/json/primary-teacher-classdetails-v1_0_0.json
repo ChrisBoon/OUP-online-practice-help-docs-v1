@@ -2,7 +2,7 @@
  "title": {
     "english": "Class Details",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "تفاصيل الفصل"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "Click here to change the name of this class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لتغيير اسم هذا الفصل."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Click here to join an institution.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للانضمام إلى مؤسسة ما."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Check this box to delete this student from this class. Then click “Save Changes”.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "ضع علامة فيهذا المربع لحذف هذا الطالب من هذا الفصل. ثم انقر على “Save Changes”(\"حفظ التغييرات\")."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "Click here to go back to the previous screen. If you did not click “Save Changes” your changes will not be saved.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للعودة إلى الشاشة السابقة. في حالة عدم النقر على “Save Changes”(\"حفظ التغييرات\"),فلن يتم حفظ التغييرات التي أجريتها."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "Click here to save the changes you made to this class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لحفظ التغييرات التي أجريتهاعلى هذا الفصل."
           }
         }
       }

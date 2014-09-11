@@ -1,4 +1,4 @@
-<div class="help-doc">
+<div class="help-doc {{language.language}}">
   <!-- Use a CodeKit loop here once released -->
   <h1 ng-if="language.language == 'english'" 
       class="help-doc__title">
@@ -99,20 +99,21 @@
     >
       <div class="error-page__segment">
       <!-- Use a CodeKit loop here once released -->
+
         <div ng-if="language.language == 'english'">
           <p>{{page.content.thing01.text.english}}</p>
           <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.english}}</a>
-        <div>
+        </div>
 
         <div ng-if="language.language == 'turkish'">
           <p>{{page.content.thing01.text.turkish}}</p>
           <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.turkish}}</a>
-        <div>
+        </div>
 
         <div ng-if="language.language == 'arabic'" class="rtl">
           <p>{{page.content.thing01.text.arabic}}</p>
           <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.arabic}}</a>
-        <div>
+        </div>
 
       </div>
     </div>

@@ -2,7 +2,7 @@
  "title": {
     "english": "Forum",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "المنتدى"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -14,7 +14,7 @@
       "pageTitle": {
         "english": "Write a post",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "كتابة منشور"
       },
       "paragraphs":{
         "paragraph01": {
@@ -24,7 +24,7 @@
           "text":{
             "english": "You can create a new post by writing in the Create New Post column. When you click the “Post” button it will appear in the Discussions and Comments list. Your teacher and any student in your Online Practice class can see your post and reply to it.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك عمل منشور جديد عن طريق الكتابة في عمود إنشاء منشور جديد. عند النقر علىزر“Post” (\"نشر\"), سوف تظهر في قائمة المناقشات والتعليقات. يمكن لمعلمك ولأي طالب مشتركفي الممارسة الخاصة بك على الإنترنت أن يرى منشورك ويرد عليه."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Write your message in the blank text area under the formatting buttons.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "اكتب رسالتك في المنطقة الفارغة تحت أزرار التنسيق."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "This is where you can view and reply to all of the current posts.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو المكان الذي يمكنك من خلاله عرض والرد على جميع المنشورات الحالية."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "Click “Post” to add the post to the column on the right.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر على “Post” (\"نشر\") لإضافة المنشور إلى العمود الواقع على اليمين."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "Click “Show” to view other students’ replies.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر على “Show”(\"إظهار\") لعرض ردود الطلابالآخرين."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "Click “Hide” to hide the replies.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر على “Hide” (\"إخفاء\") لإخفاء الردود."
           }
         },
         "paragraph07": {
@@ -84,7 +84,7 @@
           "text":{
             "english": "Click “Reply” to reply to a post.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر على “Reply” (\"رد\") للرد على المنشور."
           }
         }
       }
@@ -95,7 +95,7 @@
       "pageTitle": {
         "english": "Reply to a post",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "الرد على منشور"
       },
       "paragraphs":{
         "paragraph01": {
@@ -105,7 +105,7 @@
           "text":{
             "english": "If you click “Reply”, a text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي ترد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
           }
         },
         "paragraph02": {
@@ -115,7 +115,7 @@
           "text":{
             "english": "Click “Post” to post your reply to the discussion.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر على “Post”(\"نشر\") لنشر ردك على المناقشة."
           }
         },
         "paragraph03": {
@@ -125,7 +125,7 @@
           "text":{
             "english": "Click “Cancel” if you do not want to post your reply.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر على “Cancel” (\"إلغاء\") إذا كنت لا تريد نشر ردك."
           }
         }
       }

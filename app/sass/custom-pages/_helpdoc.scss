@@ -6,6 +6,7 @@
     font-size: $heading-font-size;
     @include breakpoint(tiny){
       padding-left: $mobile-padding;
+      padding-right: $mobile-padding;
       font-size: $menu-font-size;
     }
   }
@@ -16,6 +17,7 @@
       padding-bottom: 0.4em;
       @include breakpoint(tiny){
         padding-left: $mobile-padding;
+        padding-right: $mobile-padding;
         font-size: $menu-font-size;
       }
     }
@@ -85,6 +87,9 @@
       font-size: $copy-font-size;
       &--numbered{
         padding: 0.4em 0.4em 0.4em 2.4em;
+        @at-root .arabic &{
+          padding: 0.4em 2.4em 0.4em 0.4em;
+        }
         border-radius: 4px;
         position: relative;
         margin-bottom: 0.2em;
@@ -101,6 +106,10 @@
           text-align: center;
           cursor: pointer;
           left: 0.4rem;
+          @at-root .arabic &{
+            right: 0.4rem;
+            left: auto;
+          }
           top: 0.5rem;
         }
         &--focus{

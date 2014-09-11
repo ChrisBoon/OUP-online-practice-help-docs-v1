@@ -1,8 +1,8 @@
 {
  "title": {
     "english": "Try again! There isn’t a page at the address you chose.",
-    "turkish": "-",
-    "arabic": "-"
+    "turkish": "Tekrar deneyin! Seçtiğiniz adreste bir sayfa yok.",
+    "arabic": "حاول مرة أخرى! لا توجد صفحة في العنوان الذي اخترته."
   },
   "segment": "all",
   "userType": ["teacher","student","admin"],
@@ -15,15 +15,15 @@
         "thing01": {
           "text":{
             "english": "Use the slide-out menu to find the page you were looking for, or go to:",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Aradığınız sayfayı bulmak için kaydırma menüsünü kullanın, ya da şuraya gidin:",
+            "arabic": "استعمل قائمة الشرائح الخارجية للعثور على الصفحة التي تبحث عنها، أو انتقل إلى:"
           }
         },
         "thing02": {
           "text":{
             "english": "Online Practice Help",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Çevrim İçi Uygulama Yardım.",
+            "arabic": "المساعدة الخاصة بالممارسة عبر شبكة الإنترنت."
           }
         }
       }

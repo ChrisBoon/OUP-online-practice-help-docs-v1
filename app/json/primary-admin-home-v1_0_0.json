@@ -1,8 +1,8 @@
 {
  "title": {
     "english": "Administrator Home",
-    "turkish": "-",
-    "arabic": "-"
+    "turkish": "ا",
+    "arabic": "لصفحة الرئيسية الخاصة بمراقب النظام"
   },
  "segment": "primary",
  "userType": ["admin"],
@@ -14,7 +14,7 @@
       "pageTitle": {
         "english": "View Reports",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "عرض التقارير"
       },
       "paragraphs":{
         "paragraph01": {
@@ -24,7 +24,7 @@
           "text":{
             "english": "View student reports from teachers who have joined your institution’s Online Practice.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "عرض تقارير الطلاب من المعلمين الذين انضموا للممارسة عبر الإنترنت الخاصة بالمؤسسة."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "View the Online Practice activities for all levels of your course.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "أنشطة الممارسة عبر شبكة الإنترنت لجميع مستويات المقرر الخاص بك."
           }
         }
       }
@@ -45,7 +45,7 @@
       "pageTitle": {
         "english": "View activities",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "عرض الأنشطة"
       },
       "paragraphs":{
         "paragraph01": {
@@ -55,7 +55,7 @@
           "text":{
             "english": "Administrators can view activities for all levels of a course. Select a level to view on this page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكن للمديرين عرض الأنشطة لجميع المستوياتالخاصة بإحدى الدورات. حدد مستوى لعرضه على هذه الصفحة."
           }
         }
       }

@@ -2,7 +2,7 @@
  "title": {
     "english": "Class Report",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "التقرير الخاص بالفصل "
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -12,9 +12,9 @@
       "pageType": "screenshot",
       "imgId": "PTRC001.png",
       "pageTitle": {
-        "english": "Subtitle needed?",
-        "turkish": "-",
-        "arabic": "-"
+        "english": "",
+        "turkish": "",
+        "arabic": ""
       },
       "paragraphs":{
         "paragraph01": {
@@ -24,7 +24,7 @@
           "text":{
             "english": "This screen shows reports for all students in a class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "تُظهِر هذه الشاشة تقارير جميع الطلاب في فصل ما."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Use this menu to see a report for a different class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لرؤية تقرير ما لفصل مختلف."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Use this menu to see reports for an individual student or all students.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لرؤية تقارير طالب ما على حدة أو تقارير كل الطلاب."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "You can also click on a student’s name to see their results across lessons and units.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك أيضًا النقر على اسم طالب ما لمُعرِّفة نتائجه عبر الدروس والوحدات."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "Use this menu to filter the report to see students’ results in a particular unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لتصفية التقارير لرؤية نتائج الطلاب في وحدة معينة."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "You can also click on a unit title to see results in a unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك أيضًا النقر على عنوان وحدة ما لترى النتائج في تلك وحدة."
           }
         },
         "paragraph07": {
@@ -84,7 +84,7 @@
           "text":{
             "english": "This row shows the average number of completed activities in each unit for the class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يبين هذا الصف متوسط الأنشطة المُنجَزة في كل وحدة للفصل."
           }
         },
         "paragraph08": {
@@ -94,7 +94,7 @@
           "text":{
             "english": "This row shows the average total score for activities in a unit for the class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يبين هذا الصف المتوسط الإجمالي للدرجةالخاصة بالأنشطة في وحدة ماللفصل."
           }
         },
         "paragraph09": {
@@ -104,7 +104,7 @@
           "text":{
             "english": "This row shows the average time spent on activities in a unit for the class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يبين هذا الصف الوقت المنقضي في الأنشطة في وحدة ماللفصل."
           }
         },
         "paragraph10": {
@@ -114,7 +114,7 @@
           "text":{
             "english": "This is the total of the average number of activities completed across the units.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو المتوسط الإجمالي للأنشطة المُنجَزة في الوحدات."
           }
         },
         "paragraph11": {
@@ -124,7 +124,7 @@
           "text":{
             "english": "This is the total average score for all students across the units.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو المتوسط الإجمالي لدرجةجميع الطلاب في الوحدات."
           }
         },
         "paragraph12": {
@@ -134,7 +134,7 @@
           "text":{
             "english": "This is the average amount of time all students spent on activities.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو متوسط مقدار الوقت الذي قضاه كل الطلاب في الأنشطة."
           }
         },
         "paragraph13": {
@@ -144,7 +144,7 @@
           "text":{
             "english": "This row shows the number of activities completed by a student in each unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يُظهِر هذا الصف عدد الأنشطة التي أنجزها طالب ما في كل وحدة."
           }
         },
         "paragraph14": {
@@ -154,7 +154,7 @@
           "text":{
             "english": "This row shows a student’s total score in each unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يُظهِر هذا الصف إجمالي درجة الطالب في كل وحدة."
           }
         },
         "paragraph15": {
@@ -164,7 +164,7 @@
           "text":{
             "english": "This row shows the total amount of time a student spent on activities in each unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يُظهِر هذا الصف إجمالي مقدار الوقت الذي قضاه الطالب بالأنشطة في كل وحدة."
           }
         },
         "paragraph16": {
@@ -174,7 +174,7 @@
           "text":{
             "english": "This is the total number of activities completed by a student.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو العدد الإجمالي للأنشطة المُنجَزة من قِبل الطالب."
           }
         },
         "paragraph17": {
@@ -184,7 +184,7 @@
           "text":{
             "english": "This is the average unit activity score for a student across the level.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو متوسط درجة النشاط بالوحدة لطالب ما في المستوى."
           }
         },
         "paragraph18": {
@@ -194,7 +194,7 @@
           "text":{
             "english": "This is the total amount of time this student worked in the entire level.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو إجمالي مقدار الوقت الذي عمله الطالب في كامل المستوى."
           }
         },
         "paragraph19": {
@@ -204,7 +204,7 @@
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
         "paragraph20": {
@@ -214,7 +214,7 @@
           "text":{
             "english": "Click here to print this report.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }
       }

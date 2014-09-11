@@ -42,7 +42,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 16251,
+		"initialSize": 9205,
 		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-eos-2x.png",
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-eos-2x.png",
 		"outputPathIsOutsideProject": 0,
@@ -53,7 +53,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 91089,
 		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-exp-2x.png",
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-exp-2x.png",
 		"outputPathIsOutsideProject": 0,
@@ -64,7 +64,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 102336,
+		"initialSize": 100774,
 		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-faf2e-2x.png",
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-faf2e-2x.png",
 		"outputPathIsOutsideProject": 0,
@@ -75,18 +75,18 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 16251,
+		"initialSize": 9205,
 		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-od-2x.png",
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-od-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/app\/icons\/help-doc-icon-q2e-2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 16251,
+		"initialSize": 9205,
 		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-2x.png",
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-2x.png",
 		"outputPathIsOutsideProject": 0,
@@ -97,7 +97,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 16251,
+		"initialSize": 9205,
 		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-t2t-2x.png",
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-t2t-2x.png",
 		"outputPathIsOutsideProject": 0,
@@ -566,13 +566,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/app\/img\/PTAL002.png": {
+	"\/app\/img\/ptal002.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 0,
-		"inputAbbreviatedPath": "\/app\/img\/PTAL002.png",
-		"outputAbbreviatedPath": "\/app\/img\/PTAL002.png",
+		"inputAbbreviatedPath": "\/app\/img\/ptal002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ptal002.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -639,6 +639,17 @@
 		"initialSize": 8016,
 		"inputAbbreviatedPath": "\/app\/img\/PTCEN001.png",
 		"outputAbbreviatedPath": "\/app\/img\/PTCEN001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PTD001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123307,
+		"inputAbbreviatedPath": "\/app\/img\/PTD001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PTD001.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -786,6 +797,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/PTM001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18689,
+		"inputAbbreviatedPath": "\/app\/img\/PTM001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PTM001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PTM002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18414,
+		"inputAbbreviatedPath": "\/app\/img\/PTM002.png",
+		"outputAbbreviatedPath": "\/app\/img\/PTM002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PTM003.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79312,
+		"inputAbbreviatedPath": "\/app\/img\/PTM003.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/PTM003.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/PTMC001.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -925,6 +969,17 @@
 		"initialSize": 21909,
 		"inputAbbreviatedPath": "\/app\/img\/PTRES001.png",
 		"outputAbbreviatedPath": "\/app\/img\/PTRES001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/PTRL001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35627,
+		"inputAbbreviatedPath": "\/app\/img\/PTRL001.png",
+		"outputAbbreviatedPath": "\/app\/img\/PTRL001.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

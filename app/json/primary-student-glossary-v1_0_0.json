@@ -2,7 +2,7 @@
  "title": {
     "english": "Glossary",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "المسرد"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "The Glossary contains all core vocabulary in a level. Click on a letter to go to the words beginning with that letter in the Glossary.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يحتوي المسرد على جميع المفردات الأساسية في مستوى ما. انقر فوق حرف ما للانتقال إلى الكلمات التي تبدأ بهذا الحرف في المسرد."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Type a word in the text box to search for a word. The Glossary automatically searches for the word.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "قم بكتابةكلمة في المربع الحواري للبحث عنها. سيبحث المسرد بشكل تلقائي عن الكلمة."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Scroll through the menu and choose a word to see the picture.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "مرِّر من خلال القائمة واختر كلمة لرؤية الصورة."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "Click the icon to hear the audio, if available.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر على الأيقونة لسماع الصوت، إذا كان متاحًا."
           }
         }
       }

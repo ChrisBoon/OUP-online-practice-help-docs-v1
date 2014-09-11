@@ -2,7 +2,7 @@
  "title": {
     "english": "Change Class",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "تغيير الفصل"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "Enter your new class ID code here and then click “Save”.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "أدخل رمز مُعرِّف الفصل الجديد الخاص بك هنا ثم انقر على “Save”(\"حفظ\")."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Click here to submit your new class ID code and return to your Home page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الجديد الخاصبك وعُدإلى صفحتك الرئيسية."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Click here to go back to the previous page without changing your class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة بدون تغيير الفصل الخاص بك."
           }
         }
       }

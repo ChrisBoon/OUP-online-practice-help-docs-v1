@@ -2,7 +2,7 @@
  "title": {
     "english": "Resources",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "الموارد"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "This is the Resources area. Where available, this area will provide supporting material for you when using Online Practice.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذه هي منطقة الموارد وعندما تكون متاحة، فإن هذه المنطقة ستقدم موادًا داعمةً لك عند استخدام الممارسة عبر شبكة الإنترنت."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Click on a title to open a Resource. PDF files and documents will open in a new tab or download to your computer or device depending on your browser settings.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر فوق عنوان ما لفتح أحد الموارد. وسوف يتم فتحملفات PDF والوثائق في علامة تبويب جديدة أو تنزيلها على الحاسب أو الجهاز الخاص بك حسب إعدادات المتصفح الخاص بك."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Click on an audio track title to play the file in the browser. Use the controls to play, pause and adjust the volume.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر على أحد عناوينالمسار الصوتي لتشغيل الملف داخل المتصفح. استخدم مفاتيح التحكم لتشغيل مستوى جهارة الصوتوإيقافهوضبطه."
           }
         }
       }
