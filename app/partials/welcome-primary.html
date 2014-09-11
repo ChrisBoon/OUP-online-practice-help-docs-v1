@@ -42,3 +42,93 @@ ng-if="language.language == 'english'"
   </div><!--/welcome-page__container-->
 
 </div><!--/welcome-page ENGLISH-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'turkish'"
+>
+
+  <h1 class="welcome-page__heading">{{courseName}} Çevrim İçi Uygulama Yardım’a Hoşgeldiniz</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">Çevrim İçi Uygulama Yardım’ı Kullanma</h2>
+      <p>Çevrim İçi Uygulama kursunun öğrenciler, öğretmenler ve yöneticilere yönelik farklı alanlarının kullanımıyla ilgili yardım ve rehberlik için soldaki kaydırma menüsünü kullanın.</p>
+      <p>Ekran resimlerindeki ilgili sayı noktasını görüntülemek için Yardım bölümlerindeki herhangi bir metin parçasına tıklayın.</p>
+      <p ng-if="appLanguages.length > 1">Çevrim İçi Uygulama alanını farklı bir alanda kullanmak için sağdaki menüyü kullanın.</p>
+    </div>
+
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">Önerilen Tarayıcılar ve Desteklenen Cihazlar</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Windows®:</h3>
+        <p>Internet Explorer 9+, Firefox 28+, Chrome 31+</p>
+        <p>Aktivitelerin kaydedilmesi için Flash Player 11+ eklentisi gereklidir.</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Mac® OS X:</h3>
+        <p>Firefox 25+, Safari 7.0.2+, Chrome 33+</p>
+        <p>Aktivitelerin kaydedilmesi için Flash Player 11+ eklentisi gereklidir.</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Android®:</h3>
+        <p>OS 4.0 veya üstü olmalıdır ve desteklenen tarayıcı Google® Chrome’dur.</p>
+        <p>Aşağıdaki cihazlar üzerinde test edilmiş ve desteklenmektedir: Samsung® Galaxy Tab v2 & v3, Samsung® Galaxy Note 10.1 7” & 10”, Google® Nexus 7, Google® Nexus 10</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">iOS®:</h3>
+        <p>OS, iOS®6 veya üstü olmalıdır ve desteklenen tarayıcı Safari’dir.</p>
+        <p>Aşağıdaki cihazlarda test edilmiş ve desteklenmektedir: iPad® 2 veya üstü, iPad® Mini, iPad® Air</p>
+      </div>
+      <p class="small-text">* Windows® ve Mac® OSX ile yapılan kayıt aktiviteleri Flash Player 11+ eklentisi gerektirir. Flash Player’ın en güncel sürümünü indirmek için şu siteye gidin: <a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a></p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page TURKISH-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'arabic'"
+>
+
+  <h1 class="welcome-page__heading rtl">مرحبًا بكم في المساعدةالخاصةبالممارسة عبر الإنترنت {{courseName}}</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro rtl">
+      <h2 class="welcome-page__segment__heading">استخدام المساعدة الخاصة بالممارسة عبر شبكة الإنترنت</h2>
+      <p>استخدم قائمة الشرائح الخارجية على اليسار للعثور على المساعدة والإرشادات حولاستخدام المناطق المختلفة لدورة الممارسة الخاصة بك عبر شبكة الإنترنت للطلاب والمعلمين والمديرين.</p>
+      <p>انقر أي جزء من النص في كل قسم من المساعدة لرؤية العدد ذي الصلة المُوضَحبلقطات الشاشة.</p>
+      <p ng-if="appLanguages.length > 1">استخدم القائمة الموجودة على اليمين لاستخدام منطقة المساعدة الخاصة بالممارسة عبر شبكة الإنترنت بلغة مختلفة.</p>
+    </div>
+
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading rtl">المتصفحات المُوصَى بها والأجهزة المدعومة</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading tar">Windows®:</h3>
+        <p class="tar">Internet Explorer 9+, Firefox 28+, Chrome 31+</p>
+        <p class="rtl">يكون قابس 11+Flash Player مطلوبًا لتسجيل الأنشطة</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading tar">Mac® OS X:</h3>
+        <p class="tar">Firefox 25+, Safari 7.0.2+, Chrome 33+</p>
+        <p class="rtl">يكون قابس 11+Flash Player مطلوبًا لتسجيل الأنشطة</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading tar">Android®:</h3>
+        <p class="rtl">يجب أن يكون OS 4.0 أو أعلى ويجب أن يكون المتصفح المدعوم Google® Chrome</p>
+        <p class="rtl">تم اختباره ودعمه في الأجهزة التالية: Samsung® Galaxy Tab v2 & v3, Samsung® Galaxy Note 10.1 7” & 10”, Google® Nexus 7, Google® Nexus 10</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading tar">iOS®:</h3>
+        <p class="rtl">يجب أن يكون OS iOS®6 أو أعلى ويجب أن يكون المتصفح المدعوم Safari</p>
+        <p class="rtl">تم اختباره ودعمه في الأجهزة التالية iPad® 2 أو الأحدث, iPad® Mini, Pad® Air</p>
+      </div>
+      <p class="small-text rtl">* يتطلب تسجيل الأنشطة على Windows®  وMac® OSX استخدام قابس  11+Flash Player. انتقل إلى الموقع التالي لتنزيل أحدث إصدار من Flash Player: <a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a></p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page ARABIC-->
