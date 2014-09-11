@@ -2,7 +2,7 @@
  "title": {
     "english": "Class Summary Report",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "تقرير موجز الفصل"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "Use the menu to go to the Class Report for a specific class (you can view the work of specific students in a class).",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم القائمة للذهاب إلى تقرير الفصل الخاص بفصل معين (يمكنك استعراض أعمال طلاب محددين في فصل ما)."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "You can also click on a class title to view a class report.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك أيضًا النقر علىعنوانفصل ما لعرض التقرير الخاص به."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Click here to view a Unit Report. You can see students’ scores for all lessons in the unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لعرض تقرير وحدة ما. يمكنك أن ترى درجات الطلاب لجميع الدروس في الوحدة."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "This row shows the average number of activities completed in each unit for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the unit, and 9 is the total number of activities in the unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يبين هذا الصف متوسط عدد الأنشطة المُنجَزة في كل وحدة لهذا الفصل. على سبيل المثال: إذا كان العدد هو8/9، فإن 8 هو متوسط عدد الأنشطة المُنجَزة في الوحدة، و9 هو إجمالي الأنشطة في الوحدة."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "This row shows the average score in each unit for this class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يبين هذا الصف متوسط الدرجةفي كل وحدة لهذا الفصل."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "This row shows the average amount of time students in this class worked on each unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يُظهِر هذا الصف متوسط مقدار الوقت الذي قضاه الطالب في هذا الفصل بالعمل في كل وحدة."
           }
         },
         "paragraph07": {
@@ -84,7 +84,7 @@
           "text":{
             "english": "This is the total of the average number of activities completed in the entire level for this class. For example, if the number is 80/90, 80 is the total of the average number of activities completed across units, and 90 is the total number of activities in the level.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو إجمالي متوسط عدد الأنشطة المُنجَزة في مستوى كامل لهذا الفصل. على سبيل المثال: إذا كان الرقم 80/90، فإن 80 هو إجمالي متوسط عدد الأنشطة المُنجَزة في الوحدة، و90 هو إجمالي الأنشطة في المستوى."
           }
         },
         "paragraph08": {
@@ -94,7 +94,7 @@
           "text":{
             "english": "This is the average score across units in the level.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو متوسط الدرجة عبر الوحدات في المستوى."
           }
         },
         "paragraph09": {
@@ -104,7 +104,7 @@
           "text":{
             "english": "This is the total of the average amount of time in each unit that students spent on activities across the level.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو إجمالي متوسط الوقت في كل وحدة والذي يقضيه الطلاب في الأنشطة خلال المستوى."
           }
         },
         "paragraph10": {
@@ -114,7 +114,7 @@
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للعودة إلى الشاشة السابقة."
           }
         },
         "paragraph11": {
@@ -124,7 +124,7 @@
           "text":{
             "english": "Click here to print this report.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™.  "
           }
         }
       }

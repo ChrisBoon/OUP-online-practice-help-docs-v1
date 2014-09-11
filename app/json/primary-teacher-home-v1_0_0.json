@@ -2,7 +2,7 @@
  "title": {
     "english": "Home",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "الصفحة الرئيسية "
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "Click here to manage your Online Practice classes. You can view the details of your classes, delete students’ accounts, add new classes, delete classes, or join an institution.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لإدارة فصول الممارسة الخاصة بك عبر شبكة الإنترنت. يمكنك عرض التفاصيل المتعلقة بالفصول الخاصة بك أو حذف حسابات الطلاب أو إضافة فصول جديدة أو حذف الفصول أو الانضمام لإحدى المؤسسات."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Click here to view scores and reports on your students’ progress.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لعرض الدرجات والتقارير حول تقدم الطلاب التابعين لك."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Click here to enter the Online Practice activity area.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لدخول منطقة نشاط الممارسة عبر شبكة الإنترنت."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "Click here to add another level of your Online Practice course.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لإضافة مستوى آخر لمقرر الممارسة الخاصة بك عبر شبكة الإنترنت."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني وإرسال الرسائل إلى طلابك. إذا كانت لديك رسائل جديدة، فإن عدد الرسائل سيظهر هنا."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "Click here to view discussions in the Forum.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لعرض المناقشات في المنتدى."
           }
         }
       }

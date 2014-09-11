@@ -2,7 +2,7 @@
  "title": {
     "english": "Lesson Report",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "تقرير عن الدرس"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -24,7 +24,7 @@
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "Click here to view the Class Report.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لعرض التقرير عن الفصل."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "Use this menu to view a Unit Report for a different class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لفصل مختلف."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "Use this menu to view a Unit Report for a different student.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لطالب مختلف."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "Use this menu to view the Unit Report for a different unit.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لوحدة مختلفة."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "Use this menu to view the Unit Report for a different lesson.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لدرس مختلف."
           }
         },
         "paragraph07": {
@@ -84,7 +84,7 @@
           "text":{
             "english": "This row shows this student’s score on each activity in this lesson. It shows the score for the student’s last attempt on the activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The . symbol means that the activity does not have a score.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يُظهِر هذا الصف درجات هذا الطالب في كل نشاط في هذا الدرس. ويوضح الدرجةالخاصة بآخر محاولة للطالب في النشاط. فعلى سبيل المثال، إذا كانت الدرجةهي 8/10، فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عنها الطالب إجابة صحيحة، والرقم 10 هو العدد الإجمالي للبنود في النشاط. يُقصَد بالرمز . أن النشاط ليست عليه أية درجة."
           }
         },
         "paragraph08": {
@@ -94,7 +94,7 @@
           "text":{
             "english": "This row shows the number of attempts for each activity in this lesson.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يُظهِر هذا الصف عدد المحاولات الخاصة بكل نشاط في هذا الدرس."
           }
         },
         "paragraph09": {
@@ -104,7 +104,7 @@
           "text":{
             "english": "This row shows the total amount of time spent on all attempts at each activity.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يظهر هذا النشاط مقدار الوقت المُستغرَق في كافة المحاولة لكل نشاط."
           }
         },
         "paragraph10": {
@@ -114,7 +114,7 @@
           "text":{
             "english": "This is the student’s total score for this lesson.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذه هي النتيجة الإجمالية للطالب بالنسبة لهذا الدرس."
           }
         },
         "paragraph11": {
@@ -124,7 +124,7 @@
           "text":{
             "english": "This is the total number of times this student attempted all activities in this lesson.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو العدد الإجمالي للأوقات التي حاول فيها هذا الطالب القيام بجميع الأنشطة في هذا الدرس."
           }
         },
         "paragraph12": {
@@ -134,7 +134,7 @@
           "text":{
             "english": "This is the total amount of time this student spent on this lesson.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو مقدار الوقت الإجمالي الذي قضاه الطالب في هذا الدرس."
           }
         },
         "paragraph13": {
@@ -144,7 +144,7 @@
           "text":{
             "english": "Click on the + symbol to increase this student’s number of attempts. Each increase will give the student three more attempts.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر فوق رمز + لزيادة عدد محاولات هذا الطالب. وستعطي كل زيادة الطالب ثلاث محاولات إضافية."
           }
         },
         "paragraph14": {
@@ -154,7 +154,7 @@
           "text":{
             "english": "Click here to print this report.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للعودة إلى الشاشة السابقة."
           }
         },
         "paragraph15": {
@@ -164,7 +164,7 @@
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }
       }

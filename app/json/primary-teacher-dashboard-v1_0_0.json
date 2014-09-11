@@ -2,7 +2,7 @@
  "title": {
     "english": "Achievements",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "التحصيل"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -14,7 +14,7 @@
       "pageTitle": {
         "english": "Trophy Room",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "غرفة الميداليات"
       },
       "paragraphs":{
         "paragraph01": {
@@ -24,7 +24,7 @@
           "text":{
             "english": "This is the Trophy Room. You can see each of your students’ Trophy Room areas by clicking on “Achievements” in the Student Report area.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذه هي غرفة الميداليات. يمكنك أن ترى كل مناطق غرفةالميدالياتالخاصة بطلابك بالضغط على“Achievements” (\"التحصيل\") في منطقة تقرير الطالب."
           }
         },
         "paragraph02": {
@@ -34,7 +34,7 @@
           "text":{
             "english": "These are the unit titles in a level.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذه هي عناوين الوحدة في مستوى ما."
           }
         },
         "paragraph03": {
@@ -44,7 +44,7 @@
           "text":{
             "english": "A student has three attempts at an Online Practice activity. The highest score of the three attempts is recorded as the student’s final score. Stars are awarded in the Trophy Room for the number of points a student has scored across the activities in a level.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "3 متاح للطالب ثلاث محاولات في نشاط الممارسة على الإنترنت. يتم تسجيل أعلى درجة في المحاولات الثلاث كدرجةنهائية للطالب. يتم منح النجوم في غرفة الميدالياتوفقد عدد معين من النقاط التي أحرزهاالطالب عبر الأنشطة في مستوى ما."
           }
         },
         "paragraph04": {
@@ -54,7 +54,7 @@
           "text":{
             "english": "If a student has scored 30% of the total possible points in a unit they are awarded a bronze star.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "•  إذا أحرزالطالب 30% من مجموع النقاط الممكنة في وحدةما,يتممنحهنجمةبرونزية."
           }
         },
         "paragraph05": {
@@ -64,7 +64,7 @@
           "text":{
             "english": "If a student has scored 70% of the total possible points in a unit they are awarded a silver star.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "•  إذا أحرزالطالب 70% من مجموع النقاط الممكنة في وحدة ما، يتم منحه نجمة فضية."
           }
         },
         "paragraph06": {
@@ -74,7 +74,7 @@
           "text":{
             "english": "If a student has scored 90% of the total possible points in a unit they are awarded a gold star.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "•  إذا أحرزالطالب 90% من مجموع النقاط الممكنة في وحدة ما، يتم منحه نجمة ذهبية."
           }
         },
         "paragraph07": {
@@ -84,7 +84,7 @@
           "text":{
             "english": "If a student has scored 100% of the total possible points in a unit they are awarded a trophy.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "•  إذا أحرزالطالب 100% من مجموع النقاط الممكنة في وحدة ما، يتم منحه ميدالية."
           }
         },
         "paragraph08": {
@@ -94,7 +94,7 @@
           "text":{
             "english": "This is the student Skills Dashboard. Each activity in an Online Practice level belongs to a skill area for example Reading, Writing, Listening, etc. The Skills Dashboard shows student activity results for a level across the different skill areas.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذه هي لوحة مهارات الطالب. ينتمي كل نشاط في مستوى الممارسة على الإنترنت إلى منطقة مهارة ما, مثل: القراءة, والكتابة, والاستماع, وغير ذلك. تُظهِر لوحة المهارات نتائج النشاط الطلابي لمستوى ماعبر مجالات المهارات المختلفة."
           }
         },
         "paragraph09": {
@@ -104,7 +104,7 @@
           "text":{
             "english": "Each skill area box displays the current average score across all completed activities in the skill area. The score is shown as a percentage of the total possible points available.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يُظهِر كل صندوق خاص بمجال لمهارة معينة متوسط الدرجة الحالية خلال جميع الأنشطة المُنجَزة في مجال تلك المهارة. يتم عرض الدرجات كنسبة مئوية لمجموع النقاط الممكنة المتاحة."
           }
         },
         "paragraph10": {
@@ -114,7 +114,7 @@
           "text":{
             "english": "Results for skill areas which contain open-ended activities where no score is given (e.g. speak and record or free writing activities) are displayed as “Not scored”.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "يتم عرض نتائج مجالات المهارة التي تحتوي على أنشطة مفتوحة حيث لا تُمنَحدرجات (مثل:أنشطة التحدث والتسجيل أو الكتابة الحرة) وتعرضهاعبارة \"ليست ذات درجة\"."
           }
         },
         "paragraph11": {
@@ -124,7 +124,7 @@
           "text":{
             "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "ويظهر عدد الأنشطة المُنجَزة هنا جنبًا إلى جنب مع عدد الأنشطة في هذا المجال من المهارة."
           }
         }
 

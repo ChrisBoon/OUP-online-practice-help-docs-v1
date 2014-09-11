@@ -2,7 +2,7 @@
  "title": {
     "english": "Add a New Class",
     "turkish": "-",
-    "arabic": "-"
+    "arabic": "إضافة فصل جديد"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -14,7 +14,7 @@
       "pageTitle": {
         "english": "Choose a level",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "حدد مستوى"
       },
       "paragraphs":{
         "paragraph01": {
@@ -24,7 +24,7 @@
           "text":{
             "english": "Choose a level for your new class.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "حدد مستوى لفصلك الجديد."
           }
         }
       }
@@ -35,7 +35,7 @@
       "pageTitle": {
         "english": "Enter your institution code",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "أدخل رمز المؤسسة الخاص"
       },
       "paragraphs":{
         "paragraph01": {
@@ -45,7 +45,7 @@
           "text":{
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فقم بإدخاله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك."
           }
         },
         "paragraph02": {
@@ -55,7 +55,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
         "paragraph03": {
@@ -65,7 +65,7 @@
           "text":{
             "english": "Click here if you do not have an institution ID code.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         },
         "paragraph04": {
@@ -75,7 +75,7 @@
           "text":{
             "english": "Click here to submit your institution ID code and go to the next page.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاص بك وانتقل إلى الصفحة التالية."
           }
         }
       }
@@ -86,7 +86,7 @@
       "pageTitle": {
         "english": "Create a class name",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "إنشاء اسم للفصل"
       },
       "paragraphs":{
         "paragraph01": {
@@ -96,7 +96,7 @@
           "text":{
             "english": "Enter a name for your class here.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "أدخل اسمًالفصلك هنا."
           }
         }
       }
@@ -107,7 +107,7 @@
       "pageTitle": {
         "english": "Save your class ID code",
         "turkish": "-",
-        "arabic": "-"
+        "arabic": "احفظ رمز مُعرِّف الفصل الخاص بك."
       },
       "paragraphs":{
         "paragraph01": {
@@ -117,7 +117,7 @@
           "text":{
             "english": "This is the ID code for your new class. Save the code and distribute it to your students. They will be able to join your class with the new code and you will be able to see their reports.",
             "turkish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو رمز مُعرِّف الفصل الجديد الخاص بك. احفظ الرمز ووزعه على طلابك. سوف يكون بإمكانهم الانضمام إلى فصلك من خلال الرمز الجديد، وسوف تكون قادرًا على رؤية تقاريرهم."
           }
         }
       }
