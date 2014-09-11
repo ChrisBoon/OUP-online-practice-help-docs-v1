@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 1,
-          "numberPosLeft": 37,
+          "numberPosTop": 4,
+          "numberPosLeft": 72,
           "text":{
             "english": "Use this menu to view a Unit Report for a different class.",
             "turkish": "-",
