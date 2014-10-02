@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 20,
-          "numberPosLeft": 10,
+          "numberPosTop": 17,
+          "numberPosLeft": 9,
           "text":{
             "english": "Enter your Online Practice access code here. The access code is on your Student’s Access Code Card. You must have an access code to add a new level to your account.",
             "turkish": "Çevrim İçi Uygulama erişim kodunuzu buraya girin. Erişim kodu Öğrenci Erişim Kodu Kartınızın üzerindedir. Hesabınıza yeni bir seviye eklemek için bir erişim kodu gerekir.",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 32,
-          "numberPosLeft": 11,
+          "numberPosTop": 30,
+          "numberPosLeft": 10,
           "text":{
             "english": "Click here to go to the Oxford University Press website for information on how to buy an access code.",
             "turkish": "Erişim kodunu nasıl alacağınızla ilgili bilgi almak üzere Oxford University Press internet sitesine gitmek için buraya tıklayın.",
@@ -39,7 +39,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 20,
+          "numberPosTop": 17,
           "numberPosLeft": 41,
           "text":{
             "english": "Click here to submit your access code.",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 84,
-          "numberPosLeft": 3,
+          "numberPosTop": 91,
+          "numberPosLeft": 1,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 84,
-          "numberPosLeft": 83,
+          "numberPosTop": 91,
+          "numberPosLeft": 84,
           "text":{
             "english": "Click here to go to the next page after entering your access code.",
             "turkish": "Erişim kodunuzu girdikten sonra bir sonraki sayfaya geçmek için buraya tıklayın.",
@@ -80,7 +80,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 15,
+          "numberPosTop": 7,
           "numberPosLeft": 3,
           "text":{
             "english": "Choose a level. It is very important to choose the level that you are using. Check to make sure it is the same level as your book.",
@@ -90,8 +90,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 79,
-          "numberPosLeft": 3,
+          "numberPosTop": 91,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
@@ -111,8 +111,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 24,
-          "numberPosLeft": 10,
+          "numberPosTop": 22,
+          "numberPosLeft": 9,
           "text":{
             "english": "If you have a class ID code, enter it here. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it. If you do not have a class ID code, click “Skip”. To enter this code later, choose “Join a Class” from your Home page.",
             "turkish": "Bir ders ID kodunuz varsa, buraya girin. Ders ID kodu öğretmeniniz tarafından size verilen bir koddur. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar. Bir ders ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Bu kodu daha sonra girmek için, Anasayfanızdan “Join a Class” seçeneğini seçin.",
@@ -121,8 +121,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 80,
-          "numberPosLeft": 3,
+          "numberPosTop": 90,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
@@ -131,8 +131,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 80,
-          "numberPosLeft": 72,
+          "numberPosTop": 90,
+          "numberPosLeft": 73,
           "text":{
             "english": "Click here if you do not have a class ID code.",
             "turkish": "Bir ders ID kodunuz yoksa buraya tıklayın.",
@@ -141,7 +141,7 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 80,
+          "numberPosTop": 90,
           "numberPosLeft": 84,
           "text":{
             "english": "Click here to submit your class ID code and go to your Home page.",

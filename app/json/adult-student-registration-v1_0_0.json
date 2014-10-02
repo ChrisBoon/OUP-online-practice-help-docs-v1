@@ -203,8 +203,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 12,
-          "numberPosLeft": 3,
+          "numberPosTop": 10,
+          "numberPosLeft": 1,
           "text":{
             "english": "Click on your book cover to select your level. It is very important to select the level that you are using. Check the title and the cover to make sure it is your level. If you are using more than one level, you can add another level later by choosing “Add a level” from your Home page (you will need a new access code to add a level).",
             "turkish": "Seviyenizi girmek için kitap kapağınıza tıklayın. Kullandığınız seviyenin seçilmesi son derece önemlidir. Sizin seviyenizde olduğundan emin olmak için başlığı ve kapağı kontrol edin. Birden fazla seviye kullanıyorsanız, Anasayfanızdan “Add a level”i seçerek başka bir seviye ekleyebilirsiniz (seviye eklemek için yeni bir erişim kodu gerekecek).",
@@ -235,7 +235,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 21,
-          "numberPosLeft": 11,
+          "numberPosLeft": 9,
           "text":{
             "english": "If you have a class ID code, enter it here. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it. If you do not have a class ID code, click “Skip”. To enter this code later, choose “Join a Class” from your Home page.",
             "turkish": "Bir ders ID kodunuz varsa, buraya girin. Ders ID kodu öğretmeniniz tarafından size verilen bir koddur. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar. Bir ders ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Bu kodu daha sonra girmek için, Anasayfanızdan “Join a Class” seçeneğini seçin.",
@@ -286,7 +286,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 5,
-          "numberPosLeft": 10,
+          "numberPosLeft": 8,
           "text":{
             "english": "This page shows your registration information. You may want to print this page for reference. To change this information, select Edit Profile after you log in (it will be in the top right of the screen).",
             "turkish": "Bu sayfa kayıt bilgilerinizi gösterir. Referans için bu sayfayı yazdırmak isteyebilirsiniz. Bu bilgileri değiştirmek için, oturum açtıktan sonra Profili Düzenle’yi seçin (ekranın sağ üst köşesinde olacak).",
