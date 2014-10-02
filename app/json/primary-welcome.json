@@ -1,8 +1,8 @@
 {
  "title": {
     "english": "Welcome to Online Practice help",
-    "turkish": "-",
-    "arabic": "-"
+    "turkish": "Çevrim İçi Uygulama Yardım’a Hoş Geldiniz",
+    "arabic": "مرحبًا بكم في المساعدة الخاصة بالممارسة عبر الإنترنت [عنوان الدورة]"
   },
   "segment": "all",
   "userType": ["teacher","student","admin"],
@@ -16,24 +16,24 @@
         "section01": {
           "title":{
             "english": "Using Online Practice Help",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Çevrim İçi Uygulama Yardım’ı Kullanma",
+            "arabic": "استخدام المساعدة الخاصة بالممارسة عبر شبكة الإنترنت"
           },
           "text":{
             "01":{
               "english": "Use the slide-out menu on the left to find help and guidance on using the different areas of your Online Practice course for students, teachers and administrators.",
-              "turkish": "-",
-              "arabic": "-"
+              "turkish": "Çevrim İçi Uygulama kursunun öğrenciler, öğretmenler ve yöneticilere yönelik farklı alanlarının kullanımıyla ilgili yardım ve rehberlik için soldaki kaydırma menüsünü kullanın.",
+              "arabic": "استخدم قائمة الشرائح الخارجية على اليسار للعثور على المساعدة والإرشادات حول استخدام المناطق المختلفة لدورة الممارسة الخاصة بك عبر شبكة الإنترنت للطلاب والمعلمين والمديرين."
             },
             "02":{
               "english": "Click any piece of text in each Help section to see the related number highlight on the screen shots.",
-              "turkish": "-",
-              "arabic": "-"
+              "turkish": "Ekran resimlerindeki ilgili sayı noktasını görüntülemek için Yardım bölümlerindeki herhangi bir metin parçasına tıklayın.",
+              "arabic": "انقر أي جزء من النص في كل قسم من المساعدة لرؤية العدد ذي الصلة الموضح بلقطات الشاشة."
             },
             "03":{
               "english": "Use the menu on the right to use the Online Practice Help area in a different language.",
-              "turkish": "-",
-              "arabic": "-"
+              "turkish": "Çevrim İçi Uygulama alanını farklı bir alanda kullanmak için sağdaki menüyü kullanın.",
+              "arabic": "استخدم القائمة الموجودة على اليمين لاستخدام منطقة المساعدة الخاصة بالممارسة عبر شبكة الإنترنت بلغة مختلفة."
             }
           }
         },

@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Edit Profile",
-    "turkish": "-",
+    "turkish": "Profili Düzenle",
     "arabic": "تحريرالملف الشخصي"
   },
  "segment": "primary",
@@ -23,7 +23,7 @@
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to change your first name.",
-            "turkish": "-",
+            "turkish": "Adınızı değiştirmek için buraya tıklayın.",
             "arabic": "انقر هنا لتغيير اسمك الأول."
           }
         },
@@ -33,7 +33,7 @@
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to change your last name (family name).",
-            "turkish": "-",
+            "turkish": "Soyadınızı (aile adı) değiştirmek için buraya tıklayın.",
             "arabic": "انقر هنا لتغيير اسمك الأخير (اسم العائلة)."
           }
         },
@@ -43,7 +43,7 @@
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to change your email address.",
-            "turkish": "-",
+            "turkish": "E-posta adresinizi değiştirmek için buraya tıklayın.",
             "arabic": "انقر هنا لتغيير عنوان بريدك الإلكتروني."
           }
         },
@@ -53,7 +53,7 @@
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to confirm your new email address.",
-            "turkish": "-",
+            "turkish": "Yeni e-posta adresinizi onaylamak için buraya tıklayın.",
             "arabic": "انقر هنا لتأكيد عنوان بريدك الإلكتروني الجديد."
           }
         },
@@ -63,7 +63,7 @@
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to change your password.",
-            "turkish": "-",
+            "turkish": "Parolanızı değiştirmek için buraya tıklayın.",
             "arabic": "انقر هنا لتغيير كلمة المرور الخاصة بك."
           }
         },
@@ -73,7 +73,7 @@
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to confirm your new password.",
-            "turkish": "-",
+            "turkish": "Yeni parolanızı onaylamak için buraya tıklayın.",
             "arabic": "انقر هنا لتأكيد كلمة المرور الجديدة الخاصة بك."
           }
         },
@@ -83,8 +83,8 @@
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to save your changes.",
-            "turkish": "-",
-            "arabic": "انقر هنا لحفظكلمة المرور الخاصة بك."
+            "turkish": "Değişikliklerinizi kaydetmek için buraya tıklayın.",
+            "arabic": "اانقر هنا لحفظ كلمة المرور الخاصة بك."
           }
         },
         "paragraph08": {
@@ -93,7 +93,7 @@
           "numberPosLeft": 41,
           "text":{
             "english": "Click here to cancel without saving any changes.",
-            "turkish": "-",
+            "turkish": "Değişiklikleri kaydetmeden iptal etmek için buraya tıklayın.",
             "arabic": "انقر هنا للإلغاء بدون حفظ أي تغييرات."
           }
         }

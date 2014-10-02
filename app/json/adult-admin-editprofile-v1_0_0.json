@@ -1,0 +1,113 @@
+{
+ "title": {
+    "english": "Edit Profile",
+    "turkish": "Profili Düzenle",
+    "arabic": "تحرير الملف الشخصي"
+  },
+ "segment": "adult",
+ "userType": ["admin"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "AAEP001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 13,
+          "numberPosLeft": 19,
+          "text":{
+            "english": "Click here to change your first name.",
+            "turkish": "Adınızı değiştirmek için buraya tıklayın.",
+            "arabic": "انقر هنا لتغيير اسمك الأول."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 22,
+          "numberPosLeft": 19,
+          "text":{
+            "english": "Click here to change your last name (family name).",
+            "turkish": "Soyadınızı (aile adı) değiştirmek için buraya tıklayın.",
+            "arabic": "اانقر هنا لتغيير اسمك الأخير (اسم العائلة)."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 31,
+          "numberPosLeft": 19,
+          "text":{
+            "english": "Click here to change your institution name.",
+            "turkish": "Kurum adınızı değiştirmek için buraya tıklayın.",
+            "arabic": "انقر هنا لتغيير اسم مؤسستك."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 48,
+          "numberPosLeft": 19,
+          "text":{
+            "english": "Click here to change your email address.",
+            "turkish": "E-posta adresinizi değiştirmek için buraya tıklayın.",
+            "arabic": "انقر هنا لتغيير عنوان بريدك الإلكتروني."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 57,
+          "numberPosLeft": 19,
+          "text":{
+            "english": "Click here to confirm your new email address.",
+            "turkish": "Yeni e-posta adresinizi onaylamak için buraya tıklayın.",
+            "arabic": "انقر هنا لتأكيد عنوان بريدك الإلكتروني."
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 65,
+          "numberPosLeft": 19,
+          "text":{
+            "english": "Click here to change your password.",
+            "turkish": "Parolanızı değiştirmek için buraya tıklayın.",
+            "arabic": "انقر هنا لتغيير كلمة المرور الخاصة بك."
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 74,
+          "numberPosLeft": 19,
+          "text":{
+            "english": "Click here to confirm your new password.",
+            "turkish": "Yeni parolanızı onaylamak için buraya tıklayın.",
+            "arabic": "انقر هنا لتأكيد كلمة المرور الجديدة الخاصة بك."
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 84,
+          "numberPosLeft": 19,
+          "text":{
+            "english": "Click here to save your changes.",
+            "turkish": "Değişikliklerinizi kaydetmek için buraya tıklayın.",
+            "arabic": "انقر هنا لحفظ التغييرات التي أجريتها."
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 84,
+          "numberPosLeft": 34,
+          "text":{
+            "english": "Click here to cancel without saving any changes.",
+            "turkish": "Değişiklikleri kaydetmeden iptal etmek için buraya tıklayın.",
+            "arabic": "انقر هنا للإلغاء بدون حفظ أي تغييرات."
+          }
+        }
+      }
+    }
+  }
+}

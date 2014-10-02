@@ -1,0 +1,113 @@
+{
+ "title": {
+    "english": "Report",
+    "turkish": "Rapor",
+    "arabic": "التقرير"
+  },
+ "segment": "adult",
+ "userType": ["student"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASRS001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 6,
+          "numberPosLeft": 68,
+          "text":{
+            "english": "This page shows your activity scores for all segments in your level of Online Practice.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 16,
+          "numberPosLeft": 9,
+          "text":{
+            "english": "Use this menu to display reports for all segments or for specific segment.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 36,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the total score of all activities attempted in unit. The score is shown out of the total number of possible points in the attempted activities.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 42,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the total number of activity attempts in each unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 48,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the time spent on activities in each unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 36,
+          "numberPosLeft": 17,
+          "text":{
+            "english": "The total score in a specific segment is shown here.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 42,
+          "numberPosLeft": 17,
+          "text":{
+            "english": "The total number of activity attempts in a specific segment is shown here.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 48,
+          "numberPosLeft": 17,
+          "text":{
+            "english": "The total time taken on all activity attempts in a specific segment is shown here.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 16,
+          "numberPosLeft": 80,
+          "text":{
+            "english": "Click here to see your activity scores displayed as a percentage of the total number of points available.",
+            "turkish": "Mevcut puanların toplam sayısının bir yüzdesi olarak görüntülenen aktivite puanlarınızı görmek için buraya tıklayın.",
+            "arabic": "انقر هنا لرؤية درجات النشاط الخاص بك وهي معروضة كنسبة مئوية من العد الإجمالي للنقاط المتوفرة."
+          }
+        }
+      }
+    }
+  }
+}

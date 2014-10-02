@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Change Class",
-    "turkish": "-",
+    "turkish": "Ders Değiştir",
     "arabic": "تغيير الفصل"
   },
  "segment": "primary",
@@ -23,7 +23,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "Enter your new class ID code here and then click “Save”.",
-            "turkish": "-",
+            "turkish": "Yeni ders ID kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın.",
             "arabic": "أدخل رمز مُعرِّف الفصل الجديد الخاص بك هنا ثم انقر على “Save”(\"حفظ\")."
           }
         },
@@ -33,8 +33,8 @@
           "numberPosLeft": 25,
           "text":{
             "english": "Click here to submit your new class ID code and return to your Home page.",
-            "turkish": "-",
-            "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الجديد الخاصبك وعُدإلى صفحتك الرئيسية."
+            "turkish": "Yeni ders ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
+            "arabic": "اانقر هنا لإرسال رمز مُعرِّف الفصل الجديد الخاص بك وعُد إلى صفحتك الرئيسية."
           }
         },
         "paragraph03": {
@@ -43,7 +43,7 @@
           "numberPosLeft": 37,
           "text":{
             "english": "Click here to go back to the previous page without changing your class.",
-            "turkish": "-",
+            "turkish": "Dersi değiştirmeden bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة بدون تغيير الفصل الخاص بك."
           }
         }

@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Unit Report",
-    "turkish": "-",
+    "turkish": "Ünite Raporu",
     "arabic": "تقرير الوحدة"
   },
  "segment": "primary",
@@ -23,7 +23,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
-            "turkish": "-",
+            "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -33,7 +33,7 @@
           "numberPosLeft": 23,
           "text":{
             "english": "Click here to view the Class Report.",
-            "turkish": "-",
+            "turkish": "Sınıf Raporunu görüntülemek için buraya tıklayın.",
             "arabic": "انقر هنا لعرض التقرير عن الفصل."
           }
         },
@@ -43,7 +43,7 @@
           "numberPosLeft": 72,
           "text":{
             "english": "Use this menu to view a Unit Report for a different class.",
-            "turkish": "-",
+            "turkish": "Farklı bir derse ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لفصل مختلف."
           }
         },
@@ -53,7 +53,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to view a Unit Report for a different student.",
-            "turkish": "-",
+            "turkish": "Farklı bir öğrenciye ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لطالب مختلف."
           }
         },
@@ -63,7 +63,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to view the Unit Report for a different unit.",
-            "turkish": "-",
+            "turkish": "Farklı bir üniteye ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لوحدة مختلفة."
           }
         },
@@ -73,7 +73,7 @@
           "numberPosLeft": 42,
           "text":{
             "english": "Click here to view this student’s work for this lesson.",
-            "turkish": "-",
+            "turkish": "Bu öğrencinin bu konuyla ilgili çalışmasını görüntülemek için buraya tıklayın.",
             "arabic": "انقر هنا لعرض عمل هذا الطالب الخاص بهذا الدرس."
           }
         },
@@ -83,8 +83,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows this student’s score on each activity in this unit. It shows the score for the student’s last attempt on the activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The . symbol means that the activity does not have a score.",
-            "turkish": "-",
-            "arabic": "يُظهِر هذا الصف درجة هذا الطالب في كل نشاط في هذه الوحدة. ويوضح الدرجةالخاصة بآخر محاولة للطالب في النشاط. فعلى سبيل المثال، إذا كانت الدرجةهي 8/10، فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عنها الطالب إجابة صحيحة، والرقم 10 هو العدد الإجمالي للبنود في النشاط. يُقصَد بالرمز . أن النشاط ليست عليه أية درجة."
+            "turkish": "Bu satır öğrencinin bu ünitede yer alan her bir aktivite puanını gösterir. Öğrencinin aktivitedeki en son denemesinde elde ettiği puanı gösterir. Örneğin; puan 8/10 ise, 8 öğrencinin doğru yanıtladığı öğe (soru) sayısı, 10 ise aktivitedeki toplam öğe sayısıdır. “.” sembolü aktivitenin bir puanı olmadığını ifade eder.",
+            "arabic": "يُظهِر هذا الصف درجة هذا الطالب في كل نشاط في هذه الوحدة. ويوضح الدرجة الخاصة بآخر محاولة للطالب في النشاط. فعلى سبيل المثال، إذا كانت الدرجة هي 8/10، فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عنها الطالب إجابة صحيحة، والرقم 10 هو العدد الإجمالي للبنود في النشاط. يُقصَد بالرمز . أن النشاط ليست عليه أية درجة."
           }
         },
         "paragraph08": {
@@ -93,7 +93,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the total number of times this student attempted each activity in this unit. The . symbol means that attempts are not recorded for the activity.",
-            "turkish": "-",
+            "turkish": "Bu satır öğrencinin bu ünitedeki her bir aktiviteyi toplam deneme sayısını gösterir. “.” sembolü aktivite için deneme kaydedilmediğini ifade eder.",
             "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي حاول فيها هذا الطالب القيام بجميع الأنشطة في هذه الوحدة. يعني الرمز . أنه لم يتم تسجيل المحاولات الخاصة بالنشاط."
           }
         },
@@ -103,7 +103,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the total amount of time this student spent on each activity in this unit.",
-            "turkish": "-",
+            "turkish": "Bu satır öğrencinin her bir aktivitede harcadığı toplam süreyi gösterir.",
             "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي قضاها هذا الطالب في القيام بجميع الأنشطة في هذه الوحدة."
           }
         },
@@ -113,7 +113,7 @@
           "numberPosLeft": 24,
           "text":{
             "english": "This is the student’s total score in a lesson.",
-            "turkish": "-",
+            "turkish": "Öğrencinin bir dersteki toplam puanını gösterir.",
             "arabic": "هذه هي النتيجة الإجمالية للطالب في أحد الدروس."
           }
         },
@@ -123,7 +123,7 @@
           "numberPosLeft": 24,
           "text":{
             "english": "This is the student’s total number of activity attempts in a lesson.",
-            "turkish": "-",
+            "turkish": "Bu, öğrencinin bir dersteki toplam aktivite deneme sayısıdır.",
             "arabic": "هذا هو العدد الإجمالي لمحاولات النشاط الخاصة بالطالب في أحد الدروس."
           }
         },
@@ -133,7 +133,7 @@
           "numberPosLeft": 24,
           "text":{
             "english": "This is the total amount of time taken on activities in a lesson.",
-            "turkish": "-",
+            "turkish": "Bu, bir konuda yer alan aktivitelerde harcanan toplam süredir.",
             "arabic": "هذا هو مقدار الوقت الإجمالي الذي تستغرقه الأنشطة في أحد الدروس."
           }
         },
@@ -143,7 +143,7 @@
           "numberPosLeft": 79,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
-            "turkish": "-",
+            "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -153,7 +153,7 @@
           "numberPosLeft": 88,
           "text":{
             "english": "Click here to print this report.",
-            "turkish": "-",
+            "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }

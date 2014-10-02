@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Achievements",
-    "turkish": "-",
+    "turkish": "Başarılar",
     "arabic": "التحصيل"
   },
  "segment": "primary",
@@ -13,7 +13,7 @@
       "imgId": "PTD001.png",
       "pageTitle": {
         "english": "Trophy Room",
-        "turkish": "-",
+        "turkish": "Zafer Odası",
         "arabic": "غرفة الميداليات"
       },
       "paragraphs":{
@@ -23,8 +23,8 @@
           "numberPosLeft": 49,
           "text":{
             "english": "This is the Trophy Room. You can see each of your students’ Trophy Room areas by clicking on “Achievements” in the Student Report area.",
-            "turkish": "-",
-            "arabic": "هذه هي غرفة الميداليات. يمكنك أن ترى كل مناطق غرفةالميدالياتالخاصة بطلابك بالضغط على“Achievements” (\"التحصيل\") في منطقة تقرير الطالب."
+            "turkish": "Burası Zafer Odasıdır. Öğrenci Rapor alanında “Achievements”üzerine tıklayarak her öğrencinin Zafer Odası alanını görebilirsiniz.",
+            "arabic": "هذه هي غرفة الميداليات. يمكنك أن ترى كل مناطق غرفة الميداليات الخاصة بطلابك بالضغط على “Achievements” (\"التحصيل\") في منطقة تقرير الطالب."
           }
         },
         "paragraph02": {
@@ -33,7 +33,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "These are the unit titles in a level.",
-            "turkish": "-",
+            "turkish": "Bunlar bir seviyedeki ünite başlıklarıdır.",
             "arabic": "هذه هي عناوين الوحدة في مستوى ما."
           }
         },
@@ -43,8 +43,8 @@
           "numberPosLeft": 31,
           "text":{
             "english": "A student has three attempts at an Online Practice activity. The highest score of the three attempts is recorded as the student’s final score. Stars are awarded in the Trophy Room for the number of points a student has scored across the activities in a level.",
-            "turkish": "-",
-            "arabic": "3 متاح للطالب ثلاث محاولات في نشاط الممارسة على الإنترنت. يتم تسجيل أعلى درجة في المحاولات الثلاث كدرجةنهائية للطالب. يتم منح النجوم في غرفة الميدالياتوفقد عدد معين من النقاط التي أحرزهاالطالب عبر الأنشطة في مستوى ما."
+            "turkish": "Öğrencinin Çevrim İçi Uygulama aktivitesini üç kez deneme hakkı vardır. Üç deneme sonunda elde edilen en yüksek puan öğrencinin final puanı olanak kaydedilir. Bir seviyedeki aktivitelerde öğrencinin aldığı puan sayısı Zafer Odasında yıldızla ödüllendirilir.",
+            "arabic": "متاح للطالب ثلاث محاولات في نشاط الممارسة على الإنترنت. يتم تسجيل أعلى درجة في المحاولات الثلاث كدرجة نهائية للطالب. يتم منح النجوم في غرفة الميداليات وفقد عدد معين من النقاط التي أحرزها الطالب عبر الأنشطة في مستوى ما."
           }
         },
         "paragraph04": {
@@ -53,8 +53,8 @@
           "numberPosLeft": 34,
           "text":{
             "english": "If a student has scored 30% of the total possible points in a unit they are awarded a bronze star.",
-            "turkish": "-",
-            "arabic": "•  إذا أحرزالطالب 30% من مجموع النقاط الممكنة في وحدةما,يتممنحهنجمةبرونزية."
+            "turkish": "• Öğrenci bir ünitede mümkün olan toplam puanların %30’unu alırsa bronz bir yıldızla ödüllendirilir.",
+            "arabic": "•  إذا أحرز الطالب 30% من مجموع النقاط الممكنة في وحدة ما, يتم منحه نجمة برونزية."
           }
         },
         "paragraph05": {
@@ -63,8 +63,8 @@
           "numberPosLeft": 42,
           "text":{
             "english": "If a student has scored 70% of the total possible points in a unit they are awarded a silver star.",
-            "turkish": "-",
-            "arabic": "•  إذا أحرزالطالب 70% من مجموع النقاط الممكنة في وحدة ما، يتم منحه نجمة فضية."
+            "turkish": "• Öğrenci bir ünitede mümkün olan toplam puanların %70’ini alırsa gümüş bir yıldızla ödüllendirilir.",
+            "arabic": "•  ذا أحرز الطالب 70% من مجموع النقاط الممكنة في وحدة ما، يتم منحه نجمة فضية."
           }
         },
         "paragraph06": {
@@ -73,8 +73,8 @@
           "numberPosLeft": 49,
           "text":{
             "english": "If a student has scored 90% of the total possible points in a unit they are awarded a gold star.",
-            "turkish": "-",
-            "arabic": "•  إذا أحرزالطالب 90% من مجموع النقاط الممكنة في وحدة ما، يتم منحه نجمة ذهبية."
+            "turkish": "• Öğrenci bir ünitede mümkün olan toplam puanların %90’ını alırsa altın bir yıldızla ödüllendirilir.",
+            "arabic": "•  ذا أحرز الطالب 90% من مجموع النقاط الممكنة في وحدة ما، يتم منحه نجمة ذهبية."
           }
         },
         "paragraph07": {
@@ -83,8 +83,8 @@
           "numberPosLeft": 56,
           "text":{
             "english": "If a student has scored 100% of the total possible points in a unit they are awarded a trophy.",
-            "turkish": "-",
-            "arabic": "•  إذا أحرزالطالب 100% من مجموع النقاط الممكنة في وحدة ما، يتم منحه ميدالية."
+            "turkish": "• Öğrenci bir ünitede mümkün olan toplam puanların %100’ünü alırsa kupayla ödüllendirilir.",
+            "arabic": "•  إذا أحرزا لطالب 100% من مجموع النقاط الممكنة في وحدة ما، يتم منحه ميدالية."
           }
         },
         "paragraph08": {
@@ -93,8 +93,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This is the student Skills Dashboard. Each activity in an Online Practice level belongs to a skill area for example Reading, Writing, Listening, etc. The Skills Dashboard shows student activity results for a level across the different skill areas.",
-            "turkish": "-",
-            "arabic": "هذه هي لوحة مهارات الطالب. ينتمي كل نشاط في مستوى الممارسة على الإنترنت إلى منطقة مهارة ما, مثل: القراءة, والكتابة, والاستماع, وغير ذلك. تُظهِر لوحة المهارات نتائج النشاط الطلابي لمستوى ماعبر مجالات المهارات المختلفة."
+            "turkish": "Burası öğrencinin Beceriler Panosudur. Bir Çevrim İçi Uygulama seviyesindeki her bir aktivite Okuma, Yazma, Dinleme vb. bir beceri alanına aittir. Beceriler Panosu farklı beceri alanlarında bir seviye için öğrencinin aktivite sonuçlarını gösterir.",
+            "arabic": "هذه هي لوحة مهارات الطالب. ينتمي كل نشاط في مستوى الممارسة على الإنترنت إلى منطقة مهارة ما, مثل: القراءة, والكتابة, والاستماع, وغير ذلك. تُظهِر لوحة المهارات نتائج النشاط الطلابي لمستوى ما عبر مجالات المهارات المختلفة."
           }
         },
         "paragraph09": {
@@ -103,7 +103,7 @@
           "numberPosLeft": 3,
           "text":{
             "english": "Each skill area box displays the current average score across all completed activities in the skill area. The score is shown as a percentage of the total possible points available.",
-            "turkish": "-",
+            "turkish": "Her bir beceri alanı kutusu, beceri alanında tamamlanan tüm aktiviteler için güncel ortalama puanı gösterir. Puan mümkün olan toplam puanların bir yüzdesi olarak gösterilir.",
             "arabic": "يُظهِر كل صندوق خاص بمجال لمهارة معينة متوسط الدرجة الحالية خلال جميع الأنشطة المُنجَزة في مجال تلك المهارة. يتم عرض الدرجات كنسبة مئوية لمجموع النقاط الممكنة المتاحة."
           }
         },
@@ -113,8 +113,8 @@
           "numberPosLeft": 67,
           "text":{
             "english": "Results for skill areas which contain open-ended activities where no score is given (e.g. speak and record or free writing activities) are displayed as “Not scored”.",
-            "turkish": "-",
-            "arabic": "يتم عرض نتائج مجالات المهارة التي تحتوي على أنشطة مفتوحة حيث لا تُمنَحدرجات (مثل:أنشطة التحدث والتسجيل أو الكتابة الحرة) وتعرضهاعبارة \"ليست ذات درجة\"."
+            "turkish": "Puan verilmeyen (örn. konuşma ve kaydetme ya da serbest yazı aktiviteleri) açık uçlu aktiviteler içeren beceri alanları sonuçları “Not scored” olarak görüntülenir.",
+            "arabic": "يتم عرض نتائج مجالات المهارة التي تحتوي على أنشطة مفتوحة حيث لا تُمنَح درجات (مثل: أنشطة التحدث والتسجيل أو الكتابة الحرة) وتعرضه اعبارة \"ليست ذات درجة\"."
           }
         },
         "paragraph11": {
@@ -123,7 +123,7 @@
           "numberPosLeft": 3,
           "text":{
             "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
-            "turkish": "-",
+            "turkish": "Tamamlanan aktivitelerin sayısı beceri alanındaki toplam aktivite sayısıyla birlikte gösterilir.",
             "arabic": "ويظهر عدد الأنشطة المُنجَزة هنا جنبًا إلى جنب مع عدد الأنشطة في هذا المجال من المهارة."
           }
         }

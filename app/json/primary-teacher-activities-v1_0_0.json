@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Activities",
-    "turkish": "-",
+    "turkish": "Aktiviteler",
     "arabic": "أنشطة"
   },
  "segment": "primary",
@@ -23,7 +23,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to choose a unit and lesson. When you choose a unit and lesson you will be taken to the first activity within the lesson.",
-            "turkish": "-",
+            "turkish": "Bir ünite ya da ders seçmek için bu menüyü kullanın. Bir ünite ya da ders seçtiğinizde, ders içindeki ilk aktiviteye yönlendirilirsiniz.",
             "arabic": "استخدم هذه القائمة لاختيار وحدة ودرس. عند اختيار وحدة ودرس سيتم نقلك إلى النشاط الأول ضمن الدرس."
           }
         },
@@ -33,7 +33,7 @@
           "numberPosLeft": 45,
           "text":{
             "english": "Use this menu to choose an activity within a lesson.",
-            "turkish": "-",
+            "turkish": "Ders içinden bir aktivite seçmek için bu menüyü kullanın.",
             "arabic": "استخدم هذه القائمة لاختيار النشاط من خلال الدرس."
           }
         },
@@ -43,7 +43,7 @@
           "numberPosLeft": 67,
           "text":{
             "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
-            "turkish": "-",
+            "turkish": "Aktiviteler arasında sırayla gezinmek için “Previous” ve “Next” düğmelerini kullanın.",
             "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل."
           }
         },
@@ -53,8 +53,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "The Online Practice activities are displayed in this area.",
-            "turkish": "-",
-            "arabic": "يتم عرض أنشطة الممارسة عبرشبكةالإنترنتفي هذهالمنطقة."
+            "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda görüntülenir.",
+            "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
           }
         },
         "paragraph05": {
@@ -63,7 +63,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "A student’s current activity score is shown here.",
-            "turkish": "-",
+            "turkish": "Öğrencinin mevcut aktivite puanı burada görüntülenir.",
             "arabic": "تظهر درجة النشاط الحالي للطالب هنا."
           }
         },
@@ -73,7 +73,7 @@
           "numberPosLeft": 27,
           "text":{
             "english": "A student can attempt an activity three times. The highest score of their attempts is recorded in the student’s report.",
-            "turkish": "-",
+            "turkish": "Öğrenci bir aktiviteyi üç kez deneyebilir. Denemelerin sonunda elde edilen en yüksek puan öğrencinin raporuna kaydedilir.",
             "arabic": "يمكن للطالب أن يحاول في نشاط ما ثلاث مرات. يتم تسجيل أعلى درجة لمحاولاتهم في تقرير الطالب."
           }
         },
@@ -83,7 +83,7 @@
           "numberPosLeft": 45,
           "text":{
             "english": "Click here to see a Quick Tip pop-up with guidance on completing an activity.",
-            "turkish": "-",
+            "turkish": "Bir aktiviteyi tamamlama rehberi ile birlikte Hızlı İpucu iletisini görmek için buraya tıklayın.",
             "arabic": "انقر هنا لرؤية نصيحة سريعة منبثقة مع توجيهات بشأن استكمال النشاط."
           }
         },
@@ -93,7 +93,7 @@
           "numberPosLeft": 51,
           "text":{
             "english": "If an activity has an attachment an icon will appear here. Click to download or display the attachment.",
-            "turkish": "-",
+            "turkish": "Aktivitede bir ek varsa, simge burada görünecektir. İndirmek veya eki görüntülemek için buraya tıklayın.",
             "arabic": "في حالة احتواء النشاط على مرفق، فستظهر أيقونة هنا. انقر لتحميل أو عرض المرفق."
           }
         },
@@ -103,8 +103,8 @@
           "numberPosLeft": 66,
           "text":{
             "english": "A student can check their answers when they have answered all questions in an activity.",
-            "turkish": "-",
-            "arabic": "يمكن للطالب مراجعة إجاباتهم عندما يجيبون علىجميع الأسئلة فينشاط ما."
+            "turkish": "Öğrenci aktivitedeki tüm soruları cevapladıktan sonra cevaplarını kontrol edebilir.",
+            "arabic": "يمكن للطالب مراجعة إجاباتهم عندما يجيبون على جميع الأسئلة في نشاط ما."
           }
         },
         "paragraph10": {
@@ -113,7 +113,7 @@
           "numberPosLeft": 76,
           "text":{
             "english": "A student can try again if they answered some questions incorrectly. They can try an activity three times.",
-            "turkish": "-",
+            "turkish": "Öğrenci bazı soruları yanlış cevapladıysa tekrar deneyebilir. Bir aktiviteyi üç kez deneme hakkına sahipler.",
             "arabic": "يمكن للطالب المحاول مرة أخرى في حالة الإجابة على بعض الأسئلة بشكل غير صحيح. يمكنهم أن يحاول في نشاط ما ثلاث مرات."
           }
         },
@@ -123,7 +123,7 @@
           "numberPosLeft": 87,
           "text":{
             "english": "If a student answers some questions incorrectly they can see the correct answers.",
-            "turkish": "-",
+            "turkish": "Öğrenci sorulardan bazılarını yanlış cevaplarsa doğru cevapları görebilir.",
             "arabic": "إذا أجاب الطالب على بعض الأسئلة بشكل غير صحيح فبإمكانه رؤية الإجابات الصحيحة."
           }
         },
@@ -133,7 +133,7 @@
           "numberPosLeft": 4,
           "text":{
             "english": "Teachers can find supporting Resources here, if available.",
-            "turkish": "-",
+            "turkish": "Öğretmenler, varsa destekleyici Kaynakları burada bulabilir.",
             "arabic": "يمكن للمعلمين العثور على المراجع المساعدة هنا، إن وجدت."
           }
         },
@@ -143,7 +143,7 @@
           "numberPosLeft": 19,
           "text":{
             "english": "A Picture Glossary can be accessed here, if available. The Picture Glossary contains core level vocabulary.",
-            "turkish": "-",
+            "turkish": "Varsa, Resimli Sözlüğe buradan ulaşılabilir. Resimli Sözlük seviyedeki temel kelimeleri içerir.",
             "arabic": "يمكن الدخول إلى مسرد الصور من هنا، إن وجد. يحتوي مسرد الصور على المفردات الأساسية الخاصة بمستوى ما."
           }
         },
@@ -153,7 +153,7 @@
           "numberPosLeft": 32,
           "text":{
             "english": "Students can access their Achievements area and Reports here. Teachers must access students’ Reports from the Home page.",
-            "turkish": "-",
+            "turkish": "Öğrenciler, Başarılar alanı ve Raporlara buradan erişebilir. Öğretmenler, öğrenci Raporlarına Anasayfadan erişmelidir.",
             "arabic": "يمكن للطلاب الوصول إلى تقارير ومجالات التحصيل الخاصة بهم من هنا. يجب على المعلمين الدخول إلى تقارير الطلاب من الصفحة الرئيسية."
           }
         }

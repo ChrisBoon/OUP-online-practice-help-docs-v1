@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Media Centre",
-    "turkish": "-",
+    "turkish": "Medya Merkezi",
     "arabic": "مركز الوسائط"
   },
  "segment": "primary",
@@ -13,8 +13,8 @@
       "imgId": "PTM001.png",
       "pageTitle": {
         "english": "Audio",
-        "turkish": "-",
-        "arabic": "-"
+        "turkish": "Ses",
+        "arabic": "الصوت"
       },
       "paragraphs":{
         "paragraph01": {
@@ -23,7 +23,7 @@
           "numberPosLeft": 27,
           "text":{
             "english": "The Media Centre provides class audio and video files for you and your students to use, if available.",
-            "turkish": "-",
+            "turkish": "Medya Merkezi, varsa dersle ilgili ses ve video dosyalarını kullanımınıza sunar.",
             "arabic": "يقدم لك مركز الوسائط ملفات صوتية وملفات فيديو خاصة بالفصل لاستخدامها، إذا كانت متوفرة."
           }
         },
@@ -33,8 +33,8 @@
           "numberPosLeft": 26,
           "text":{
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
-            "turkish": "-",
-            "arabic": "انقر فوق عنوان أحد الملفاتالصوتية. سوف يظهر مشغل الصوت ويقوم بتشغيل مقطع الفيديو. استخدم زر السهم لتشغيل وإيقاف المسار. استخدم مفاتيح التحكم للتحرك من خلال المسار وتغيير مستوى جهارة الصوت."
+            "turkish": "Bir ses dosyası başlığına tıklayın. Bir ses oynatıcı görünür ve sesi oynatır. Parçayı oynatmak ve durdurmak için ok tuşunu kullanın. Parçanın içinde gezinmek ve ses seviyesini değiştirmek için kontrolleri kullanın.",
+            "arabic": "اانقر فوق عنوان أحد الملفاتالصوتية. سوف يظهر مشغل الصوت ويقوم بتشغيل مقطع الفيديو. استخدم زر السهم لتشغيل وإيقاف المسار. استخدم مفاتيح التحكم للتحرك من خلال المسار وتغيير مستوى جهارة الصوت."
           }
         }
       }
@@ -44,7 +44,7 @@
       "imgId": "PTM002.png",
       "pageTitle": {
         "english": "Video",
-        "turkish": "-",
+        "turkish": "Video",
         "arabic": "الفيديو"
       },
       "paragraphs":{
@@ -54,7 +54,7 @@
           "numberPosLeft": 26,
           "text":{
             "english": "Click on a video title to play a video file. It will play in a new tab in your browser.",
-            "turkish": "-",
+            "turkish": "Bir video dosyasını oynatmak için video başlığına tıklayın. Tarayıcınızda yeni bir sekmede oynatılacaktır.",
             "arabic": "انقر فوق عنوان مقطع الفيديو لتشغيل ملف الفيديو. سوف يقوم بتشغيل علامة تبويب جديدة في المتصفح الخاص بك."
           }
         }
@@ -65,8 +65,8 @@
       "imgId": "PTM003.jpg",
       "pageTitle": {
         "english": "Video",
-        "turkish": "-",
-        "arabic": "-"
+        "turkish": "Video",
+        "arabic": "الفيديو"
       },
       "paragraphs":{
         "paragraph01": {
@@ -75,7 +75,7 @@
           "numberPosLeft": 5,
           "text":{
             "english": "Use the controls to play and pause the video, change the volume and enter full-screen view.",
-            "turkish": "-",
+            "turkish": "Video’yu oynatmak ve durdurmak, ses seviyesini değiştirmek ve tam ekran görünümüne geçmek için kontrolleri kullanın.",
             "arabic": "استخدم مفاتيح التحكم لتشغيل وإيقاف مقطع الفيديو وتغيير مستوى جهارة الصوت وإدخال المنظر بملء الشاشة."
           }
         }

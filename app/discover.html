@@ -34,7 +34,7 @@
       bodyClass: "primary",
       currentCourse: "od",
       currentCourseTitle: "Oxford Discover",
-      courseLanguages: ['English']    }
+      courseLanguages: ['English','Turkish','Arabic']    }
   }
 
   var runFastClick = function() {
@@ -69,8 +69,8 @@ ng-click="firstTimeSet()"
     class="help-menu__option--home"
     >
       <span ng-if="language.language == 'english'">Welcome</span>
-      <span ng-if="language.language == 'turkish'">Welcome (Turkish)</span>
-      <span ng-if="language.language == 'arabic'" class="rtl">Welcome (Arabic)</span>
+      <span ng-if="language.language == 'turkish'">Hoşgeldiniz</span>
+      <span ng-if="language.language == 'arabic'" class="rtl">مرحبًا بكم</span>
     </a>
 
       <accordion close-others="oneAtATime">
@@ -165,8 +165,8 @@ ng-click="firstTimeSet()"
     class="help-menu__option--home"
     >
       <span ng-if="language.language == 'english'">FAQ</span>
-      <span ng-if="language.language == 'turkish'">FAQ (Turkish)</span>
-      <span ng-if="language.language == 'arabic'" class="rtl">FAQ (Arabic)</span>
+      <span ng-if="language.language == 'turkish'">SSS</span>
+      <span ng-if="language.language == 'arabic'" class="rtl"> الأسئلة المتكررة</span>
     </a>      
     </div>
   </div>

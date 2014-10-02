@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Class Report",
-    "turkish": "-",
+    "turkish": "Ders Raporu",
     "arabic": "التقرير الخاص بالفصل "
   },
  "segment": "primary",
@@ -23,7 +23,7 @@
           "numberPosLeft": 31,
           "text":{
             "english": "This screen shows reports for all students in a class.",
-            "turkish": "-",
+            "turkish": "Bu ekran bir dersteki tüm öğrencilerin raporlarını gösterir.",
             "arabic": "تُظهِر هذه الشاشة تقارير جميع الطلاب في فصل ما."
           }
         },
@@ -33,7 +33,7 @@
           "numberPosLeft": 72,
           "text":{
             "english": "Use this menu to see a report for a different class.",
-            "turkish": "-",
+            "turkish": "Farklı derse ait bir rapor görüntülemek için bu menüyü kullanın.",
             "arabic": "استخدم هذه القائمة لرؤية تقرير ما لفصل مختلف."
           }
         },
@@ -43,7 +43,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to see reports for an individual student or all students.",
-            "turkish": "-",
+            "turkish": "Sadece bir öğrencinin ya da tüm öğrencilerin raporlarını görüntülemek için bu menüyü kullanın.",
             "arabic": "استخدم هذه القائمة لرؤية تقارير طالب ما على حدة أو تقارير كل الطلاب."
           }
         },
@@ -53,7 +53,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "You can also click on a student’s name to see their results across lessons and units.",
-            "turkish": "-",
+            "turkish": "Ayrıca bir öğrencinin adına tıklayarak tüm konu ve ünitelerdeki sonuçlarını görüntüleyebilirsiniz.",
             "arabic": "يمكنك أيضًا النقر على اسم طالب ما لمُعرِّفة نتائجه عبر الدروس والوحدات."
           }
         },
@@ -63,7 +63,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to filter the report to see students’ results in a particular unit.",
-            "turkish": "-",
+            "turkish": "Öğrencilerin belli bir ünitedeki sonuçlarını görmek üzere raporu filtrelemek için bu menüyü kullanın.",
             "arabic": "استخدم هذه القائمة لتصفية التقارير لرؤية نتائج الطلاب في وحدة معينة."
           }
         },
@@ -73,7 +73,7 @@
           "numberPosLeft": 33,
           "text":{
             "english": "You can also click on a unit title to see results in a unit.",
-            "turkish": "-",
+            "turkish": "Bir ünitedeki sonuçları görüntülemek için ünite başlığına da tıklayabilirsiniz.",
             "arabic": "يمكنك أيضًا النقر على عنوان وحدة ما لترى النتائج في تلك وحدة."
           }
         },
@@ -83,7 +83,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average number of completed activities in each unit for the class.",
-            "turkish": "-",
+            "turkish": "Bu satır dersteki her bir ünitede tamamlanan ortalama aktivite sayısını gösterir.",
             "arabic": "يبين هذا الصف متوسط الأنشطة المُنجَزة في كل وحدة للفصل."
           }
         },
@@ -93,8 +93,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average total score for activities in a unit for the class.",
-            "turkish": "-",
-            "arabic": "يبين هذا الصف المتوسط الإجمالي للدرجةالخاصة بالأنشطة في وحدة ماللفصل."
+            "turkish": "Bu satır dersteki her bir ünitedeki aktivitelerin ortalama toplam puanını gösterir.",
+            "arabic": "يبين هذا الصف المتوسط الإجمالي للدرجة الخاصة بالأنشطة في وحدة ما للفصل."
           }
         },
         "paragraph09": {
@@ -103,8 +103,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average time spent on activities in a unit for the class.",
-            "turkish": "-",
-            "arabic": "يبين هذا الصف الوقت المنقضي في الأنشطة في وحدة ماللفصل."
+            "turkish": "Bu satır dersin bir ünitesinde aktiviteler için harcanan ortalama süreyi gösterir.",
+            "arabic": "يبين هذا الصف الوقت المنقضي في الأنشطة في وحدة ما للفصل."
           }
         },
         "paragraph10": {
@@ -113,7 +113,7 @@
           "numberPosLeft": 22,
           "text":{
             "english": "This is the total of the average number of activities completed across the units.",
-            "turkish": "-",
+            "turkish": "Bu tüm ünitelerde tamamlanan ortalama aktivite sayısının toplamıdır.",
             "arabic": "هذا هو المتوسط الإجمالي للأنشطة المُنجَزة في الوحدات."
           }
         },
@@ -123,8 +123,8 @@
           "numberPosLeft": 22,
           "text":{
             "english": "This is the total average score for all students across the units.",
-            "turkish": "-",
-            "arabic": "هذا هو المتوسط الإجمالي لدرجةجميع الطلاب في الوحدات."
+            "turkish": "Bu ünitelerdeki tüm öğrenciler için toplam ortalama puandır.",
+            "arabic": "هذا هو المتوسط الإجمالي لدرجة جميع الطلاب في الوحدات."
           }
         },
         "paragraph12": {
@@ -133,7 +133,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This is the average amount of time all students spent on activities.",
-            "turkish": "-",
+            "turkish": "Bu tüm öğrencilerin akvitelerde harcadığı ortalama süredir.",
             "arabic": "هذا هو متوسط مقدار الوقت الذي قضاه كل الطلاب في الأنشطة."
           }
         },
@@ -143,7 +143,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the number of activities completed by a student in each unit.",
-            "turkish": "-",
+            "turkish": "Bu satır bir öğrenci tarafından her ünitede tamamlanan aktivite sayısını gösterir.",
             "arabic": "يُظهِر هذا الصف عدد الأنشطة التي أنجزها طالب ما في كل وحدة."
           }
         },
@@ -153,7 +153,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows a student’s total score in each unit.",
-            "turkish": "-",
+            "turkish": "Bu satır öğrencinin her ünitedeki toplam puanını gösterir.",
             "arabic": "يُظهِر هذا الصف إجمالي درجة الطالب في كل وحدة."
           }
         },
@@ -163,7 +163,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the total amount of time a student spent on activities in each unit.",
-            "turkish": "-",
+            "turkish": "Bu satır bir öğrencinin her bir ünitedeki aktivitelerde harcadığı toplam süreyi gösterir.",
             "arabic": "يُظهِر هذا الصف إجمالي مقدار الوقت الذي قضاه الطالب بالأنشطة في كل وحدة."
           }
         },
@@ -173,7 +173,7 @@
           "numberPosLeft": 22,
           "text":{
             "english": "This is the total number of activities completed by a student.",
-            "turkish": "-",
+            "turkish": "Bu bir öğrenci tarafından tamamlanan toplam aktivite sayısıdır.",
             "arabic": "هذا هو العدد الإجمالي للأنشطة المُنجَزة من قِبل الطالب."
           }
         },
@@ -183,7 +183,7 @@
           "numberPosLeft": 22,
           "text":{
             "english": "This is the average unit activity score for a student across the level.",
-            "turkish": "-",
+            "turkish": "Bu bir öğrencinin seviye boyunca ortalama ünite aktivite puanıdır.",
             "arabic": "هذا هو متوسط درجة النشاط بالوحدة لطالب ما في المستوى."
           }
         },
@@ -193,7 +193,7 @@
           "numberPosLeft": 22,
           "text":{
             "english": "This is the total amount of time this student worked in the entire level.",
-            "turkish": "-",
+            "turkish": "Bu öğrencinin seviyenin tamamında çalıştığı toplam süredir.",
             "arabic": "هذا هو إجمالي مقدار الوقت الذي عمله الطالب في كامل المستوى."
           }
         },
@@ -203,7 +203,7 @@
           "numberPosLeft": 78,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
-            "turkish": "-",
+            "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -213,7 +213,7 @@
           "numberPosLeft": 87,
           "text":{
             "english": "Click here to print this report.",
-            "turkish": "-",
+            "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }

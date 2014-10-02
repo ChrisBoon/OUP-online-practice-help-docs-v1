@@ -1,0 +1,339 @@
+{
+ "title": {
+    "english": "Administrator Registration",
+    "turkish": "Yönetici Kaydı",
+    "arabic": "عرض التقارير"
+  },
+ "segment": "adult",
+ "userType": ["admin"],
+ "pageCount": 7,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "AAR001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 21,
+          "numberPosLeft": 60,
+          "text":{
+            "english": "If you are a first-time user click “Register.”",
+            "turkish": "İlk kez kullanıyorsanız “Register” seçeneğine tıklayın.",
+            "arabic": "إذا كنت مستخدمًا لأول مرة,فانقر على “Register”(\"تسجيل\")."
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "AAR002.png",
+      "pageTitle": {
+        "english": "Agree to the Terms of Use",
+        "turkish": "Kullanım Koşullarını kabul edin.",
+        "arabic": "وافق على شروط الاستخدام"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 2,
+          "numberPosLeft": 22,
+          "text":{
+            "english": "This page explains the Terms of Use. You must agree to the terms in order to register for Online Practice.",
+            "turkish": "Bu sayfa Kullanım Koşullarını açıklamaktadır. Çevrim İçi Uygulamaya kaydolmak için koşulları kabul etmeniz gerekir.",
+            "arabic": "تشرح هذه الصفحة شروط الاستخدام. يجب عليك الموافقة على الشروط لكي تقوم بالتسجيل الخاص بالممارسة عبر شبكة الإنترنت."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 82,
+          "numberPosLeft": 65,
+          "text":{
+            "english": "Check the box to show that you agree to the Terms of Use.",
+            "turkish": "Kullanım Koşullarını kabul ettiğinizi göstermek için kutucuğu işaretleyin.",
+            "arabic": "ضع علامة في المربع لإظهار موافقتك على شروط الاستخدام."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 90,
+          "numberPosLeft": 13,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 90,
+          "numberPosLeft": 83,
+          "text":{
+            "english": "Click here to go to the next page. You must check the box to show that you agree to the Terms of Use before you can go to the next page.",
+            "turkish": "Bir sonraki sayfaya gitmek için buraya tıklayın. Bir sonraki sayfaya gidebilmeniz için önce Kullanım Koşullarını kabul ettiğinizi gösteren kutucuğu işaretlemeniz gerekir.",
+            "arabic": "انقر هنا للانتقال إلى الصفحة التالية. يجب عليك وضع علامة في المربع لإظهار موافقتك على شروط الاستخدام قبل أن يمكنك الانتقال إلى الصفحة التالية."
+          }
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "AAR003.png",
+      "pageTitle": {
+        "english": "Enter your access code",
+        "turkish": "Erişim kodunuzu girin",
+        "arabic": "أدخل رمز الدخول الخاص بك"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 17,
+          "numberPosLeft": 8,
+          "text":{
+            "english": "Enter your Administrator access code.",
+            "turkish": "Yönetici erişim kodunuzu girin.",
+            "arabic": "أدخل رمز دخول المدير الخاص بك."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 17,
+          "numberPosLeft": 53,
+          "text":{
+            "english": "Click “Enter”.",
+            "turkish": "“Enter” seçeneğine tıklayın.",
+            "arabic": "انقر “Enter”(\"إدخال\")"
+          }
+        }
+      }
+    },
+    "page04": {
+      "pageType": "screenshot",
+      "imgId": "AAR004.png",
+      "pageTitle": {
+        "english": "Enter your details",
+        "turkish": "Ayrıntılarınızı girin",
+        "arabic": "أدخل التفاصيل الخاصة بك"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 14,
+          "numberPosLeft": 27,
+          "text":{
+            "english": "Enter your first name (given name).",
+            "turkish": "Adınızı girin.",
+            "arabic": "أدخل اسمك الأول (الاسم المُعطَى)."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 20,
+          "numberPosLeft": 27,
+          "text":{
+            "english": "Enter your last name (family name).",
+            "turkish": "Soyadınızı (aile adı) girin.",
+            "arabic": "أدخل اسمك الأخير (اسم العائلة)."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 27,
+          "numberPosLeft": 27,
+          "text":{
+            "english": "Enter your email address.",
+            "turkish": "E-posta adresinizi tekrar girin.",
+            "arabic": "أدخل عنوان بريدك الإلكتروني."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 34,
+          "numberPosLeft": 27,
+          "text":{
+            "english": "Type your email address again.",
+            "turkish": "E-posta adresinizi tekrardan yazın.",
+            "arabic": "اطبع عنوان بريدك الإلكتروني مرةً أخرى."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 41,
+          "numberPosLeft": 27,
+          "text":{
+            "english": "Choose a password.",
+            "turkish": "Bir parola seçin.",
+            "arabic": "حدد كلمة مرور."
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 48,
+          "numberPosLeft": 27,
+          "text":{
+            "english": "Type your password again.",
+            "turkish": "Parolanızı tekrar girin.",
+            "arabic": "قم بطباعة كلمة المرور مرة أخرى."
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 90,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 90,
+          "numberPosLeft": 85,
+          "text":{
+            "english": "Click here to submit your information and go to the next page.",
+            "turkish": "Bilgilerinizi göndermek ve bir sonraki sayfaya geçmek için buraya tıklayın.",
+            "arabic": "انقر هنا لإرسال المعلومات الخاصة بك وانتقل للصفحة التالية."
+          }
+        }
+      }
+    },
+    "page05": {
+      "pageType": "screenshot",
+      "imgId": "AAR005.png",
+      "pageTitle": {
+        "english": "Enter your institution name",
+        "turkish": "Kurum adınızı girin",
+        "arabic": "أدخل اسم المؤسسة الخاصة بك"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 15,
+          "numberPosLeft": 8,
+          "text":{
+            "english": "Enter the name of your school or institution.",
+            "turkish": "Okul ya da kurumunuzun adını girin.",
+            "arabic": "أدخل اسم مدرستك أو مؤسستك."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 90,
+          "numberPosLeft": 12,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 90,
+          "numberPosLeft": 85,
+          "text":{
+            "english": "Click here to submit the name of your institution and go to the next page.",
+            "turkish": "Kurumunuzun adını göndermek ve bir sonraki sayfaya geçmek için buraya tıklayın.",
+            "arabic": "انقر هنا لإرسال اسم المؤسسة الخاصة بك وانتقل للصفحة التالية."
+          }
+        }
+      }
+    },
+    "page06": {
+      "pageType": "screenshot",
+      "imgId": "AAR006.png",
+      "pageTitle": {
+        "english": "Save your institution ID code",
+        "turkish": "Kurum ID kodunuzu kaydedin",
+        "arabic": "احفظ رمزمُعرِّفالمؤسسة الخاصة بك."
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 12,
+          "numberPosLeft": 9,
+          "text":{
+            "english": "This is the ID code for your institution. Give this code to your teachers so they can link their class records to your institution. If teachers do not link to your institution with this code, you will not be able to see their classes in your reports.",
+            "turkish": "Bu kurumunuza ait ID kodudur. Sınıf kayıtlarını kurumunuza iletebilmeleri için bu kodu öğretmenlerinize verin. Öğretmenler kurumunuza bu kodla bağlanmazsa, raporlarınızda onların sınıflarını göremezsiniz.",
+            "arabic": "هذا هو رمز مُعرِّف المؤسسة الخاصة بك. أعط هذا الرمز لمعلميك لكي يمكنهم ربط سجلاتفصولهمبمؤسستك. إذا لم يرتبط المعلمون ابلمؤسسة الخاصة بك عن طريق هذا الرمز، فلن يمكنك رؤية الفصول الخاصة بهم في تقاريرك."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 89,
+          "numberPosLeft": 12,
+          "text":{
+            "english": "Click here to print this page and save it for your records.",
+            "turkish": "Bu sayfayı yazdırmak ve kayıtlarınız için kaydetmek üzere buraya tıklayın.",
+            "arabic": "انقر هنا لطباعة هذه الصفحة واحفظها في السجلات الخاصة بك."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 89,
+          "numberPosLeft": 86,
+          "text":{
+            "english": "Click here to go to the next page.",
+            "turkish": "Bir sonraki sayfaya gitmek için buraya tıklayın.",
+            "arabic": "انقر هنا للانتقال إلى الصفحة التالية."
+          }
+        }
+      }
+    },
+    "page07": {
+      "pageType": "screenshot",
+      "imgId": "AAR007.png",
+      "pageTitle": {
+        "english": "Save your registration information",
+        "turkish": "Kayıt bilgilerinizi kaydedin",
+        "arabic": "قم حفظ معلومات التسجيل الخاصة بك."
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 6,
+          "numberPosLeft": 8,
+          "text":{
+            "english": "This page shows your registration information. You may want to print this page for your records. If you want to change this information, select Edit Profile after you log in (it will be in the top right of the screen).",
+            "turkish": "Bu sayfa kayıt bilgilerinizi gösterir. Kayıtlarınız için bu sayfayı yazdırmak isteyebilirsiniz. Bu bilgileri değiştirmek isterseniz, oturum açtıktan sonra Profili Düzenle’yi seçin (ekranın sağ üst köşesinde olacak).",
+            "arabic": "تُظهِر هذه الصفحة معلومات التسجيل الخاصة بك. وقد ترغب في طباعة هذه الصفحة مع السجلات الخاصة بك. إذا كنتترغب في تغيير هذه المعلومات، فحددEdit Profile(تحريرالملف الشخصي) بعد تسجيل الدخول (سيوجد في أعلى يمين الشاشة)."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 91,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 91,
+          "numberPosLeft": 23,
+          "text":{
+            "english": "Click here to print your registration information.",
+            "turkish": "Kayıt bilgilerinizi yazdırmak için buraya tıklayın.",
+            "arabic": "انقر هنا لطباعة معلومات التسجيل الخاصة بك."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 91,
+          "numberPosLeft": 84,
+          "text":{
+            "english": "Click here to complete the registration and log in to your Online Practice.",
+            "turkish": "Kaydı tamamlamak ve Çevrim İçi Uygulama oturumunuzu açmak için buraya tıklayın.",
+            "arabic": "انقر هنا لإكمال التسجيل وتسجيل الدخول إلىالممارسة الخاصة بك عبر شبكة الإنترنت."
+          }
+        }
+      }
+    }    
+  }
+}

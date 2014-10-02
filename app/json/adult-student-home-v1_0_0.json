@@ -1,0 +1,134 @@
+{
+ "title": {
+    "english": "Home",
+    "turkish": "Anasayfa",
+    "arabic": "الصفحة الرئيسية"
+  },
+ "segment": "adult",
+ "userType": ["student"],
+ "pageCount": 2,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASH001.jpg",
+      "pageTitle": {
+        "english": "Choose your level",
+        "turkish": "Seviyenizi seçin",
+        "arabic": "حدد مستواك"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 7,
+          "numberPosLeft": 7,
+          "text":{
+            "english": "When you enter Online Practice or click on the Home icon at the top of the screen you will see the levels of your course here. Choose the level you want to enter.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 54,
+          "numberPosLeft": 17,
+          "text":{
+            "english": "Click on “Add a level” to add another level if you have an access code.",
+            "turkish": "Bir erişim kodunuz varsa ek seviye eklemek için “Add a level” seçeneğine tıklayın.",
+            "arabic": "انقر على “Add a level”(\"أضف مستوى\") لإضافة مستوى آخر إذا كان لديك رمز دخول."
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "ASH002.png",
+      "pageTitle": {
+        "english": "Choose an Online Practice area",
+        "turkish": "Bir Çevrim İçi Uygulama alanı seçin",
+        "arabic": "اختر منطقة الممارسة عبر شبكة الإنترنت"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 7,
+          "numberPosLeft": 2,
+          "text":{
+            "english": "Click here to change to a different level.",
+            "turkish": "Farklı bir seviyeye geçmekiçin buraya tıklayın.",
+            "arabic": "انقر هنا للتغيير إلى مستوى مختلف."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 40,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click here to enter the Online Practice Activity area.",
+            "turkish": "Çevrim İçi Uygulama Aktivitesi alanına girmek için buraya tıklayın.",
+            "arabic": "انقر هنا لدخول منطقة ممارسة النشاط عبر شبكة الإنترنت."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 40,
+          "numberPosLeft": 37,
+          "text":{
+            "english": "Click here to see your Report, Trophy Room, and Grades. These show your achievements and progress for all of the activities in this level.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 40,
+          "numberPosLeft": 59,
+          "text":{
+            "english": "Click here to use the Email area. You can message your teacher and other students in your Online Practice class. The Email icon appears here when you have joined a class.",
+            "turkish": "E-posta alanını kullanmak için buraya tıklayın. Çevrim İçi Uygulama sınıfınızdaki öğretmen ve diğer öğrencilere mesaj gönderebilirsiniz. Bir sınıfa katıldığınızda burada bir E-posta simgesi görünür.",
+            "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني. يمكنك مراسلة معلمك والطلاب الآخرين المُدرَجين في فصل الممارسة عبر شبكة الإنترنت الخاص بك. تظهر أيقونة البريد الإلكتروني هنا بعد أن تنضم لأحد الفصول."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 40,
+          "numberPosLeft": 81,
+          "text":{
+            "english": "Click here to use the Discussion Board. You can join in discussions with your teacher and other students in your Online Practice class. The Discussion Board icon appears here when you have joined a class.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 74,
+          "numberPosLeft": 26,
+          "text":{
+            "english": "Click here to access the Media Center to listen to class audio and watch videos, if available.",
+            "turkish": "Varsa sınıfın sesini dinlemek ve videoları izlemek üzere Medya Merkezine erişmek için buraya tıklayın.",
+            "arabic": "انقر هنا للوصول إلى مركز الوسائط للاستماع إلى صوت الفصل ومشاهدة مقاطع الفيديو، إذا كان ذلك متاحًا."
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 74,
+          "numberPosLeft": 48,
+          "text":{
+            "english": "Click here to access the Resources area where you can find extra resources that will support you with your Online Practice.",
+            "turkish": "Çevrim İçi Uygulamanızda sizi destekleyecek olan ekstra kaynakları bulabileceğiniz Kaynaklar alanına erişmek için buraya tıklayın.",
+            "arabic": "انقر هنا للدخول إلى منطقة الموارد حيث يمكنك أن تجد الموارد الإضافية التي سوف تدعمك في الممارسة عبر شبكة الإنترنت."
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 74,
+          "numberPosLeft": 70,
+          "text":{
+            "english": "Click here to join an Online Practice class or change class. You will need a class code from your teacher to do this.",
+            "turkish": "Çevrim İçi Uygulama sınıfına katılmak veya sınıf değiştirmek için buraya tıklayın. Bunu yapabilmeniz için öğretmeninizden bir sınıf kodu almanız gerekecektir.",
+            "arabic": "اانقر هنا للانضمام إلى فصل الممارسة عبر شبكة الإنترنت، أو تغيير الفصل. سوف تحتاج إلى رمز خاص بالفصل من معلمك للقيام بذلك."
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Glossary",
-    "turkish": "-",
+    "turkish": "Sözlük",
     "arabic": "المسرد"
   },
  "segment": "primary",
@@ -23,7 +23,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "The Glossary contains all core vocabulary in a level. Click on a letter to go to the words beginning with that letter in the Glossary.",
-            "turkish": "-",
+            "turkish": "Sözlük, bir seviyedeki temel kelimelerin tümünü içerir. Sözlükte o harfle başlayan kelimelere gitmek için bir harfe tıklayın.",
             "arabic": "يحتوي المسرد على جميع المفردات الأساسية في مستوى ما. انقر فوق حرف ما للانتقال إلى الكلمات التي تبدأ بهذا الحرف في المسرد."
           }
         },
@@ -33,8 +33,8 @@
           "numberPosLeft": 12,
           "text":{
             "english": "Type a word in the text box to search for a word. The Glossary automatically searches for the word.",
-            "turkish": "-",
-            "arabic": "قم بكتابةكلمة في المربع الحواري للبحث عنها. سيبحث المسرد بشكل تلقائي عن الكلمة."
+            "turkish": "Bir kelimeyi aramak için metin kutusuna girin. Sözlük otomatik olarak kelimeyi aratır.",
+            "arabic": "قم بكتابة كلمة في المربع الحواري للبحث عنها. سيبحث المسرد بشكل تلقائي عن الكلمة."
           }
         },
         "paragraph03": {
@@ -43,7 +43,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Scroll through the menu and choose a word to see the picture.",
-            "turkish": "-",
+            "turkish": "Menüyü kaydırın ve resmini görmek istediğiniz kelimeyi seçin.",
             "arabic": "مرِّر من خلال القائمة واختر كلمة لرؤية الصورة."
           }
         },
@@ -53,7 +53,7 @@
           "numberPosLeft": 23,
           "text":{
             "english": "Click the icon to hear the audio, if available.",
-            "turkish": "-",
+            "turkish": "Varsa sesi dinlemek için simgeye tıklayın.",
             "arabic": "انقر على الأيقونة لسماع الصوت، إذا كان متاحًا."
           }
         }

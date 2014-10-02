@@ -1,0 +1,155 @@
+{
+ "title": {
+    "english": "Discussion Board",
+    "turkish": "-",
+    "arabic": "-"
+  },
+ "segment": "adult",
+ "userType": ["student"],
+ "pageCount": 3,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASF001.png",
+      "pageTitle": {
+        "english": "Reply to a post",
+        "turkish": "Bir gönderiyi yanıtla",
+        "arabic": "الرد على منشور"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 3,
+          "numberPosLeft": 2,
+          "text":{
+            "english": "YThis is where you can view and reply to all of the current posts.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 20,
+          "numberPosLeft": 2,
+          "text":{
+            "english": "Click “Show” to view other students' replies.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 3,
+          "numberPosLeft": 41,
+          "text":{
+            "english": "Click “Hide” to hide the replies.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 82,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click “Reply” to reply to a post. A text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 21,
+          "numberPosLeft": 39,
+          "text":{
+            "english": "Click “Post” to post your reply to the discussion.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 38,
+          "numberPosLeft": 39,
+          "text":{
+            "english": "Click “Cancel” if you do not want to post your reply.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 38,
+          "numberPosLeft": 61,
+          "text":{
+            "english": "Click “Reply” to reply to a post.",
+            "turkish": "Bir gönderiyi yanıtlamak için “Reply” seçeneğine a tıklayın.",
+            "arabic": "انقر على “Reply” (\"رد\") للرد على المنشور."
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "ASF002.png",
+      "pageTitle": {
+        "english": "Write a post",
+        "turkish": "Gönderi yaz",
+        "arabic": "كتابة منشور"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 61,
+          "text":{
+            "english": "You can create a new post by clicking the “Create New Post” button. A new window will open. Your teacher and any student in your Online Practice class can see your post and reply to it.",
+            "turkish": "“Reply” seçeneğine tıklarsanız, yanıtladığınız gönderinin altında bir metin kutusu açılacaktır. Yanıtınızı doğrudan tartışma içerisine girebilirsiniz.",
+            "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي ترد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
+          }
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "ASF003.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 2,
+          "numberPosTop": 52,
+          "numberPosLeft": 52,
+          "text":{
+            "english": "Type here to give your post a title.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 3,
+          "numberPosTop": 52,
+          "numberPosLeft": 64,
+          "text":{
+            "english": "Type your message in the blank text area under the formatting buttons.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+          "paragraph03": {
+          "number": 4,
+          "numberPosTop": 52,
+          "numberPosLeft": 52,
+          "text":{
+            "english": "Click “Post” after you’ve finished typing your message.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

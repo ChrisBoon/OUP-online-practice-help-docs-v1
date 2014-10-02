@@ -1,0 +1,153 @@
+{
+ "title": {
+    "english": "Activities",
+    "turkish": "Aktiviteler",
+    "arabic": "أنشطة"
+  },
+ "segment": "adult",
+ "userType": ["student"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASA001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 2,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
+            "turkish": "-",
+            "arabic": "ا-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 2,
+          "numberPosLeft": 45,
+          "text":{
+            "english": "Use this menu to choose an activity within a unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 2,
+          "numberPosLeft": 67,
+          "text":{
+            "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
+            "turkish": "Aktiviteler arasında sırayla gezinmek için “Previous” ve “Next” düğmelerini kullanın.",
+            "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل. "
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 14,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "The Online Practice activities are displayed in this area.",
+            "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda görüntülenir.",
+            "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 84,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to see a grammar chart pop-up related to the current activity.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 84,
+          "numberPosLeft": 27,
+          "text":{
+            "english": "Click here to check your answers when you have answered all questions in an activity.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 84,
+          "numberPosLeft": 45,
+          "text":{
+            "english": "You can try an activity again if you answer some questions incorrectly. You can try an activity as many times as you like.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 84,
+          "numberPosLeft": 51,
+          "text":{
+            "english": "If you answer some questions incorrectly you can see the correct answers.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 84,
+          "numberPosLeft": 66,
+          "text":{
+            "english": "Click here to see a Feedback pop-up with guidance on completing an activity.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph10": {
+          "number": 10,
+          "numberPosTop": 84,
+          "numberPosLeft": 76,
+          "text":{
+            "english": "Your current activity score is shown here.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph11": {
+          "number": 11,
+          "numberPosTop": 84,
+          "numberPosLeft": 87,
+          "text":{
+            "english": "You can find supporting resources here that will help you with your Online Practice work, if available.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph12": {
+          "number": 12,
+          "numberPosTop": 92,
+          "numberPosLeft": 4,
+          "text":{
+            "english": "You can view the Picture Glossary here, if available. The Picture Glossary will help you with the course vocabulary.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph13": {
+          "number": 13,
+          "numberPosTop": 92,
+          "numberPosLeft": 19,
+          "text":{
+            "english": "Access your Achievements and Reports here.",
+            "turkish": "Başarılarınız ve Raporlarınıza buradan erişebilirsiniz.",
+            "arabic": "أدخل على التحصيل والتقارير الخاصة بك هنا."
+          }
+        }
+      }
+    }
+  }
+}

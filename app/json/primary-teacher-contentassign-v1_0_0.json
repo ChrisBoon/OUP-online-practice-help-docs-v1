@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Hide Units and Lessons",
-    "turkish": "-",
+    "turkish": "Üniteleri ve Konuları Gizle",
     "arabic": "إخفاء الوحدات والدروس"
   },
  "segment": "primary",
@@ -23,8 +23,8 @@
           "numberPosLeft": 29,
           "text":{
             "english": "You can hide units and lessons from your students by checking the boxes on this page. Your students will only see the activities in the units or lessons when you uncheck the boxes.",
-            "turkish": "-",
-            "arabic": "يمكنك إخفاء الوحدات والدروس عن طلابك عن طريق وضععلامة فيالمربعات الموجودة في هذه الصفحة. سيتمكن طلابك من رؤية الأنشطة الموجودة في الوحدات أو الدروس فقط عندما لا تضع علامة في المربعات."
+            "turkish": "Bu sayfadaki kutucukları işaretleyerek ünite ve konuları öğrencilerinizden gizleyebilirsiniz. Kutucukların işaretini kaldırdığınızda öğrencileriniz sadece ünite veya konulardaki aktiviteleri görebilirler.",
+            "arabic": "يمكنك إخفاء الوحدات والدروس عن طلابك عن طريق وضع علامة في المربعات الموجودة في هذه الصفحة. سيتمكن طلابك من رؤية الأنشطة الموجودة في الوحدات أو الدروس فقط عندما لا تضع علامة في المربعات."
           }
         },
         "paragraph02": {
@@ -33,7 +33,7 @@
           "numberPosLeft": 62,
           "text":{
             "english": "Choose a class using the menu.",
-            "turkish": "-",
+            "turkish": "Menüyü kullanarak bir ders seçin.",
             "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
           }
         },
@@ -43,8 +43,8 @@
           "numberPosLeft": 4,
           "text":{
             "english": "Check a box here to hide a whole unit.",
-            "turkish": "-",
-            "arabic": "ضع علامة فيمربع ما هنا لإخفاء الوحدة كاملةً."
+            "turkish": "Ünitenin tamamını gizlemek için bir kutucuğu işaretleyin.",
+            "arabic": "ضع علامة في مربع ما هنا لإخفاء الوحدة كاملةً."
           }
         },
         "paragraph04": {
@@ -53,8 +53,8 @@
           "numberPosLeft": 25,
           "text":{
             "english": "Check a box here to hide selected lessons within a unit.",
-            "turkish": "-",
-            "arabic": "ضععلامةفيمربع ما هنا لإخفاء الدروس التي تم تحديدها داخل الوحدة."
+            "turkish": "Ünite içindeki seçili konuları gizlemek için buradaki bir kutucuğu işaretleyin.",
+            "arabic": "ضع علامة في مربع ما هنا لإخفاء الدروس التي تم تحديدها داخل الوحدة."
           }
         },
         "paragraph05": {
@@ -63,7 +63,7 @@
           "numberPosLeft": 24,
           "text":{
             "english": "Click here to save the changes you made to this class.",
-            "turkish": "-",
+            "turkish": "Bu derste yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
           }
         }

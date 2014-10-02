@@ -3,16 +3,16 @@
     "order": 1,
     "userType": {
         "english": "Teacher",
-        "turkish": "-",
-        "arabic": "-"
+        "turkish": "Öğretmen",
+        "arabic": "المعلم"
       },
     "docsList":{
       "item01":{
         "order":1,
         "title": {
           "english": "Registration",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Kayıt",
+          "arabic": "التسجيل"
         },
         "id": "primary-teacher-registration-v1_0_0"
       },
@@ -20,17 +20,17 @@
         "order":2,
         "title": {
           "english": "Home",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Anasayfa",
+          "arabic": "الصفحة الرئيسية"
         },
         "id": "primary-teacher-home-v1_0_0"
       },
       "item03":{
         "order":3,
         "title": {
-          "english": "Manage classes",
-          "turkish": "-",
-          "arabic": "-"
+          "english": "Manage Classes",
+          "turkish": "Sınıfları Yönet",
+          "arabic": "إدارة الفصول"
         },
         "id": "primary-teacher-manageclasses-v1_0_0"
       },
@@ -38,8 +38,8 @@
         "order":4,
         "title": {
           "english": "Class Details",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Sınıf Ayrıntıları",
+          "arabic": "تفاصيل الفصل"
         },
         "id": "primary-teacher-classdetails-v1_0_0"
       },
@@ -47,17 +47,17 @@
         "order":5,
         "title": {
           "english": "Edit Class Name",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Sınıf Adını Düzenle",
+          "arabic": "تحرير اسم الفصل"
         },
         "id": "primary-teacher-classeditname-v1_0_0"
       },
       "item06":{
         "order":6,
         "title": {
-          "english": "Join  an Institution",
-          "turkish": "-",
-          "arabic": "-"
+          "english": "Join an Institution",
+          "turkish": "Bir Kuruma Kaydol",
+          "arabic": "الانضمام إلى مؤسسة"
         },
         "id": "primary-teacher-joininstitution-v1_0_0"
       },
@@ -65,8 +65,8 @@
         "order":7,
         "title": {
           "english": "Hide Units and Lessons",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Üniteleri ve Konuları Gizle",
+          "arabic": "إخفاء الوحدات والدروس"
         },
         "id": "primary-teacher-contentassign-v1_0_0"
       },
@@ -74,8 +74,8 @@
         "order":8,
         "title": {
           "english": "Add a New Class",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Yeni Sınıf Ekle",
+          "arabic": "إضافة فصل جديد"
         },
         "id": "primary-teacher-addclass-v1_0_0"
       },
@@ -83,8 +83,8 @@
         "order":9,
         "title": {
           "english": "Class Summary Report",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Sınıf Özeti Raporu",
+          "arabic": "تقرير موجز الفصل"
         },
         "id": "primary-teacher-reportclasssummary-v1_0_0"
       },
@@ -92,8 +92,8 @@
         "order":10,
         "title": {
           "english": "Class Report",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Sınıf Raporu",
+          "arabic": "التقرير الخاص بالفصل"
         },
         "id": "primary-teacher-reportclass-v1_0_0"
       },
@@ -101,8 +101,8 @@
         "order":11,
         "title": {
           "english": "Student Report",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Öğrenci Raporu",
+          "arabic": "تقرير عن الطالب"
         },
         "id": "primary-teacher-reportstudent-v1_0_0"
       },
@@ -110,8 +110,8 @@
         "order":12,
         "title": {
           "english": "Achievements",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Başarılar",
+          "arabic": "التحصيل"
         },
         "id": "primary-teacher-dashboard-v1_0_0"
       },
@@ -119,8 +119,8 @@
         "order":13,
         "title": {
           "english": "Unit Report",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Ünite Raporu",
+          "arabic": "تقرير الوحدة"
         },
         "id": "primary-teacher-reportunit-v1_0_0"
       },
@@ -128,8 +128,8 @@
         "order":14,
         "title": {
           "english": "Lesson Report",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Konu Raporu",
+          "arabic": "تقرير عن الدرس"
         },
         "id": "primary-teacher-reportlesson-v1_0_0"
       },
@@ -137,8 +137,8 @@
         "order":15,
         "title": {
           "english": "Student Activity Report",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Öğrenci Aktivite Raporu",
+          "arabic": "تقرير نشاط الطالب"
         },
         "id": "primary-teacher-reportstudentactivity-v1_0_0"
       },
@@ -146,8 +146,8 @@
         "order":16,
         "title": {
           "english": "Enter Online Practice",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Online Uygulamaya Gir",
+          "arabic": "إدخال الممارسة على الإنترنت"
         },
         "id": "primary-teacher-enteronlinepractice-v1_0_0"
       },
@@ -155,8 +155,8 @@
         "order":17,
         "title": {
           "english": "Activities",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Aktivitler",
+          "arabic": "أنشطة"
         },
         "id": "primary-teacher-activities-v1_0_0"
       },
@@ -164,8 +164,8 @@
         "order":18,
         "title": {
           "english": "Glossary",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Sözlük",
+          "arabic": "المسرد"
         },
         "id": "primary-teacher-glossary-v1_0_0"
       },
@@ -173,8 +173,8 @@
         "order":19,
         "title": {
           "english": "Resources",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Kaynaklar",
+          "arabic": "الموارد"
         },
         "id": "primary-teacher-resources-v1_0_0"
       },
@@ -182,8 +182,8 @@
         "order":20,
         "title": {
           "english": "Media Centre",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Medya Merkezi",
+          "arabic": "مركز الوسائط"
         },
         "id": "primary-teacher-media-v1_0_0"
       },
@@ -191,8 +191,8 @@
         "order":21,
         "title": {
           "english": "Add a Level",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Seviye Ekle",
+          "arabic": "إضافة مستوى"
         },
         "id": "primary-teacher-addlevel-v1_0_0"
       },
@@ -200,8 +200,8 @@
         "order":22,
         "title": {
           "english": "Email",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Email",
+          "arabic": "البريد الإلكتروني"
         },
         "id": "primary-teacher-email-v1_0_0"
       },
@@ -209,8 +209,8 @@
         "order":23,
         "title": {
           "english": "Forum",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Forum",
+          "arabic": "المنتدى"
         },
         "id": "primary-teacher-forum-v1_0_0"
       },
@@ -218,8 +218,8 @@
         "order":24,
         "title": {
           "english": "Edit Profile",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Profili Düzenle",
+          "arabic": "تحرير الملف الشخصي"
         },
         "id": "primary-teacher-editprofile-v1_0_0"
       }
@@ -229,16 +229,16 @@
     "order": 2,
     "userType": {
         "english": "Student",
-        "turkish": "-",
-        "arabic": "-"
+        "turkish": "Öğrenci",
+        "arabic": "الطالب"
       },
     "docsList":{
       "item01":{
         "order":1,
         "title": {
           "english": "Registration",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Kayıt",
+          "arabic": "التسجيل"
         },
         "id": "primary-student-registration-v1_0_0"
       },
@@ -246,8 +246,8 @@
         "order":2,
         "title": {
           "english": "Home",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Anasayfa",
+          "arabic": "الصفحة الرئيسية"
         },
         "id": "primary-student-home-v1_0_0"
       },
@@ -255,8 +255,8 @@
         "order":3,
         "title": {
           "english": "Add a Level",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Seviye Ekle",
+          "arabic": "إضافة مستوى"
         },
         "id": "primary-student-addlevel-v1_0_0"
       },
@@ -264,8 +264,8 @@
         "order":4,
         "title": {
           "english": "Activities",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Aktiviteler",
+          "arabic": "أنشطة"
         },
         "id": "primary-student-activities-v1_0_0"
       },
@@ -273,8 +273,8 @@
         "order":5,
         "title": {
           "english": "Glossary",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Sözlük",
+          "arabic": "المسرد"
         },
         "id": "primary-student-glossary-v1_0_0"
       },
@@ -282,8 +282,8 @@
         "order":6,
         "title": {
           "english": "Resources",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Kaynaklar",
+          "arabic": "الموارد"
         },
         "id": "primary-student-resources-v1_0_0"
       },
@@ -291,8 +291,8 @@
         "order":7,
         "title": {
           "english": "Achievements",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Başarılar",
+          "arabic": "التحصيل"
         },
         "id": "primary-student-dashboard-v1_0_0"
       },
@@ -300,8 +300,8 @@
         "order":8,
         "title": {
           "english": "Report",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Rapor",
+          "arabic": "التقرير"
         },
         "id": "primary-student-reportprogress-v1_0_0"
       },
@@ -309,8 +309,8 @@
         "order":9,
         "title": {
           "english": "Unit Report",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Ünite Raporu",
+          "arabic": "تقرير الوحدة"
         },
         "id": "primary-student-reportunit-v1_0_0"
       },
@@ -318,8 +318,8 @@
         "order":10,
         "title": {
           "english": "Email",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Email",
+          "arabic": "البريد الإلكتروني"
         },
         "id": "primary-student-email-v1_0_0"
       },
@@ -327,8 +327,8 @@
         "order":11,
         "title": {
           "english": "Forum",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Forum",
+          "arabic": "المنتدى"
         },
         "id": "primary-student-forum-v1_0_0"
       },
@@ -336,8 +336,8 @@
         "order":12,
         "title": {
           "english": "Media Centre",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Medya Merkezi",
+          "arabic": "مركز الوسائط"
         },
         "id": "primary-student-media-v1_0_0"
       },
@@ -345,8 +345,8 @@
         "order":13,
         "title": {
           "english": "Join a Class",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Sınıfa Katıl",
+          "arabic": "الانضمام إلى فصل"
         },
         "id": "primary-student-classjoin-v1_0_0"
       },
@@ -354,8 +354,8 @@
         "order":14,
         "title": {
           "english": "Change Class",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Sınıf Değiştir",
+          "arabic": "تغيير الفصل"
         },
         "id": "primary-student-classchange-v1_0_0"
       },
@@ -363,8 +363,8 @@
         "order":15,
         "title": {
           "english": "Edit Profile",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Profili Düzenle",
+          "arabic": "تحرير الملف الشخصي"
         },
         "id": "primary-student-editprofile-v1_0_0"
       }
@@ -374,16 +374,16 @@
     "order": 3,
     "userType": {
         "english": "Administrator",
-        "turkish": "-",
-        "arabic": "-"
+        "turkish": "Yönetici",
+        "arabic": "مراقب النظام"
       },
     "docsList":{
       "item01":{
         "order":1,
         "title": {
           "english": "Registration",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Kayıt",
+          "arabic": "التسجيل"
         },
         "id": "primary-admin-registration-v1_0_0"
       },
@@ -391,8 +391,8 @@
         "order":2,
         "title": {
           "english": "Home",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Anasayfa",
+          "arabic": "الصفحة الرئيسية"
         },
         "id": "primary-admin-home-v1_0_0"
       },
@@ -400,8 +400,8 @@
         "order":3,
         "title": {
           "english": "Edit Profile",
-          "turkish": "-",
-          "arabic": "-"
+          "turkish": "Profili Düzenle",
+          "arabic": "تحرير الملف الشخصي"
         },
         "id": "primary-admin-editprofile-v1_0_0"
       }

@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Forum",
-    "turkish": "-",
+    "turkish": "Forum",
     "arabic": "المنتدى"
   },
  "segment": "primary",
@@ -13,7 +13,7 @@
       "imgId": "PSF001.png",
       "pageTitle": {
         "english": "Write a post",
-        "turkish": "-",
+        "turkish": "Gönderi yaz",
         "arabic": "كتابة منشور"
       },
       "paragraphs":{
@@ -23,8 +23,8 @@
           "numberPosLeft": 2,
           "text":{
             "english": "You can create a new post by writing in the Create New Post column. When you click the “Post” button it will appear in the Discussions and Comments list. Your teacher and any student in your Online Practice class can see your post and reply to it.",
-            "turkish": "-",
-            "arabic": "يمكنك عمل منشور جديد عن طريق الكتابة في عمود إنشاء منشور جديد. عند النقر علىزر“Post” (\"نشر\"), سوف تظهر في قائمة المناقشات والتعليقات. يمكن لمعلمك ولأي طالب مشتركفي الممارسة الخاصة بك على الإنترنت أن يرى منشورك ويرد عليه."
+            "turkish": "Yeni Gönderi Oluştur kolonuna yazarak yeni bir gönderi oluşturabilirsiniz. “Post” düğmesine tıkladığınızda Tartışmalar ve Yorumlar listesinde görüntülenir. Çevrim İçi Uygulama dersinizdeki öğretmen ve öğrenciler gönderinizi görebilir ve yanıtlayabilir.",
+            "arabic": "يمكنك عمل منشور جديد عن طريق الكتابة في عمود إنشاء منشور جديد. عند النقر على زر“Post” (\"نشر\"), سوف تظهر في قائمة المناقشات والتعليقات. يمكن لمعلمك ولأي طالب مشترك في الممارسة الخاصة بك على الإنترنت أن يرى منشورك ويرد عليه."
           }
         },
         "paragraph02": {
@@ -33,7 +33,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Write your message in the blank text area under the formatting buttons.",
-            "turkish": "-",
+            "turkish": "Mesajınızı biçimlendirme düğmelerinin altındaki boş metin alanına girin.",
             "arabic": "اكتب رسالتك في المنطقة الفارغة تحت أزرار التنسيق."
           }
         },
@@ -43,7 +43,7 @@
           "numberPosLeft": 41,
           "text":{
             "english": "This is where you can view and reply to all of the current posts.",
-            "turkish": "-",
+            "turkish": "Güncel gönderilerin tümünü burada görüntüleyebilir ve yanıtlayabilirsiniz.",
             "arabic": "هذا هو المكان الذي يمكنك من خلاله عرض والرد على جميع المنشورات الحالية."
           }
         },
@@ -53,7 +53,7 @@
           "numberPosLeft": 15,
           "text":{
             "english": "Click “Post” to add the post to the column on the right.",
-            "turkish": "-",
+            "turkish": "Gönderiyi sağdaki kolona eklemek için “Post” seçeneğine tıklayın.",
             "arabic": "انقر على “Post” (\"نشر\") لإضافة المنشور إلى العمود الواقع على اليمين."
           }
         },
@@ -63,8 +63,8 @@
           "numberPosLeft": 39,
           "text":{
             "english": "Click “Show” to view other students’ replies.",
-            "turkish": "-",
-            "arabic": "انقر على “Show”(\"إظهار\") لعرض ردود الطلابالآخرين."
+            "turkish": "Diğer öğrencilerin yanıtlarını görüntülemek için “Show” seçeneğine tıklayın.",
+            "arabic": "اانقر على “Show”(\"إظهار\") لعرض ردود الطلاب الآخرين."
           }
         },
         "paragraph06": {
@@ -73,7 +73,7 @@
           "numberPosLeft": 39,
           "text":{
             "english": "Click “Hide” to hide the replies.",
-            "turkish": "-",
+            "turkish": "Yanıtları gizlemek için “Hide” seçeneğine tıklayın.",
             "arabic": "انقر على “Hide” (\"إخفاء\") لإخفاء الردود."
           }
         },
@@ -83,7 +83,7 @@
           "numberPosLeft": 61,
           "text":{
             "english": "Click “Reply” to reply to a post.",
-            "turkish": "-",
+            "turkish": "Bir gönderiyi yanıtlamak için “Reply” seçeneğine a tıklayın.",
             "arabic": "انقر على “Reply” (\"رد\") للرد على المنشور."
           }
         }
@@ -94,7 +94,7 @@
       "imgId": "PSF002.png",
       "pageTitle": {
         "english": "Reply to a post",
-        "turkish": "-",
+        "turkish": "Bir gönderiyi yanıtla",
         "arabic": "الرد على منشور"
       },
       "paragraphs":{
@@ -104,7 +104,7 @@
           "numberPosLeft": 61,
           "text":{
             "english": "If you click “Reply”, a text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
-            "turkish": "-",
+            "turkish": "“Reply” seçeneğine tıklarsanız, yanıtladığınız gönderinin altında bir metin kutusu açılacaktır. Yanıtınızı doğrudan tartışma içerisine girebilirsiniz.",
             "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي ترد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
           }
         },
@@ -114,7 +114,7 @@
           "numberPosLeft": 52,
           "text":{
             "english": "Click “Post” to post your reply to the discussion.",
-            "turkish": "-",
+            "turkish": "Tartışmaya yanıtınızı göndermek için “Post” seçeneğine tıklayın.",
             "arabic": "انقر على “Post”(\"نشر\") لنشر ردك على المناقشة."
           }
         },
@@ -124,7 +124,7 @@
           "numberPosLeft": 64,
           "text":{
             "english": "Click “Cancel” if you do not want to post your reply.",
-            "turkish": "-",
+            "turkish": "Yanıtınızı paylaşmak istemiyorsanız “Cancel” seçeneğine tıklayın.",
             "arabic": "انقر على “Cancel” (\"إلغاء\") إذا كنت لا تريد نشر ردك."
           }
         }

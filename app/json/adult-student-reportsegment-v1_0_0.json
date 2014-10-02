@@ -1,0 +1,93 @@
+{
+ "title": {
+    "english": "Student Segment Report",
+    "turkish": "-",
+    "arabic": "-"
+  },
+ "segment": "adult",
+ "userType": ["student"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASRU001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 15,
+          "numberPosLeft": 9,
+          "text":{
+            "english": "Use this menu to display reports for all segments or display reports for specific segments.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 36,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the scores for each activity in a unit. The score is shown out of the total number of possible points in an activity.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 42,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the number of attempts at each activity in a unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 47,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the time taken for all attempts at each activity in a unit.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 36,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "The total score for a unit is shown here.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 42,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "The total number of activity attempts for a unit is shown here.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 47,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "The total time taken on all activities in a unit is shown here.",
+            "turkish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

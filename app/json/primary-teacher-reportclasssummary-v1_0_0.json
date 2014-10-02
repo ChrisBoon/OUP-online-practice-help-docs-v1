@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Class Summary Report",
-    "turkish": "-",
+    "turkish": "Ders Özeti Raporu",
     "arabic": "تقرير موجز الفصل"
   },
  "segment": "primary",
@@ -23,7 +23,7 @@
           "numberPosLeft": 73,
           "text":{
             "english": "Use the menu to go to the Class Report for a specific class (you can view the work of specific students in a class).",
-            "turkish": "-",
+            "turkish": "Belli bir dersin Ders Raporuna gitmek için bu menüyü kullanın (bir dersteki belli öğrencilerin çalışmasını görüntüleyebilirsiniz).",
             "arabic": "استخدم القائمة للذهاب إلى تقرير الفصل الخاص بفصل معين (يمكنك استعراض أعمال طلاب محددين في فصل ما)."
           }
         },
@@ -33,7 +33,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "You can also click on a class title to view a class report.",
-            "turkish": "-",
+            "turkish": "Bir ders raporunu görüntülemek için ders başlığına da tıklayabilirsiniz.",
             "arabic": "يمكنك أيضًا النقر علىعنوانفصل ما لعرض التقرير الخاص به."
           }
         },
@@ -43,7 +43,7 @@
           "numberPosLeft": 38,
           "text":{
             "english": "Click here to view a Unit Report. You can see students’ scores for all lessons in the unit.",
-            "turkish": "-",
+            "turkish": "Bir Ünite Raporunu görüntülemek için buraya tıklayın. Ünitedeki tüm konular için öğrencilerin puanlarını görebilirsiniz.",
             "arabic": "انقر هنا لعرض تقرير وحدة ما. يمكنك أن ترى درجات الطلاب لجميع الدروس في الوحدة."
           }
         },
@@ -53,7 +53,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average number of activities completed in each unit for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the unit, and 9 is the total number of activities in the unit.",
-            "turkish": "-",
+            "turkish": "Bu satır, bu dersteki her bir ünitede tamamlanan ortalama aktivite sayısını gösterir. Örneğin; sayı 8/9 ise, 8 ünitede tamamlanan ortalama aktivite sayısı, 9 ise ünitedeki toplam aktivite sayısıdır.",
             "arabic": "يبين هذا الصف متوسط عدد الأنشطة المُنجَزة في كل وحدة لهذا الفصل. على سبيل المثال: إذا كان العدد هو8/9، فإن 8 هو متوسط عدد الأنشطة المُنجَزة في الوحدة، و9 هو إجمالي الأنشطة في الوحدة."
           }
         },
@@ -63,7 +63,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average score in each unit for this class.",
-            "turkish": "-",
+            "turkish": "Bu satır, bu sınıf için her bir ünitedeki ortalama puanı gösterir.",
             "arabic": "يبين هذا الصف متوسط الدرجةفي كل وحدة لهذا الفصل."
           }
         },
@@ -73,7 +73,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average amount of time students in this class worked on each unit.",
-            "turkish": "-",
+            "turkish": "Bu satır, bu dersteki öğrencilerin her bir ünitede çalıştığı ortalama süreyi gösterir.",
             "arabic": "يُظهِر هذا الصف متوسط مقدار الوقت الذي قضاه الطالب في هذا الفصل بالعمل في كل وحدة."
           }
         },
@@ -83,7 +83,7 @@
           "numberPosLeft": 23,
           "text":{
             "english": "This is the total of the average number of activities completed in the entire level for this class. For example, if the number is 80/90, 80 is the total of the average number of activities completed across units, and 90 is the total number of activities in the level.",
-            "turkish": "-",
+            "turkish": "Bu ders için bütün seviye boyunca tamamlanan ortalama aktivite sayısının toplamıdır. Örneğin; bu sayı 80/90 ise, 80 ünitelerde tamamlanan ortalama aktivite sayısı toplamı, 90 ise seviyedeki toplam aktivite sayısıdır.",
             "arabic": "هذا هو إجمالي متوسط عدد الأنشطة المُنجَزة في مستوى كامل لهذا الفصل. على سبيل المثال: إذا كان الرقم 80/90، فإن 80 هو إجمالي متوسط عدد الأنشطة المُنجَزة في الوحدة، و90 هو إجمالي الأنشطة في المستوى."
           }
         },
@@ -93,7 +93,7 @@
           "numberPosLeft": 23,
           "text":{
             "english": "This is the average score across units in the level.",
-            "turkish": "-",
+            "turkish": "Bu, seviyedeki üniteler boyunca alınan ortalama puandır.",
             "arabic": "هذا هو متوسط الدرجة عبر الوحدات في المستوى."
           }
         },
@@ -103,7 +103,7 @@
           "numberPosLeft": 23,
           "text":{
             "english": "This is the total of the average amount of time in each unit that students spent on activities across the level.",
-            "turkish": "-",
+            "turkish": "Bu, öğrencilerin seviye boyunca her ünite için aktiviteler üzerinde harcadığı ortalama süre toplamıdır.",
             "arabic": "هذا هو إجمالي متوسط الوقت في كل وحدة والذي يقضيه الطلاب في الأنشطة خلال المستوى."
           }
         },
@@ -113,8 +113,8 @@
           "numberPosLeft": 78,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
-            "turkish": "-",
-            "arabic": "انقر هنا للعودة إلى الشاشة السابقة."
+            "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
+            "arabic": "اانقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
         "paragraph11": {
@@ -123,8 +123,8 @@
           "numberPosLeft": 88,
           "text":{
             "english": "Click here to print this report.",
-            "turkish": "-",
-            "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™.  "
+            "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
+            "arabic": "اانقر هنا لطباعة هذا التقرير."
           }
         }
       }

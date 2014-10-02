@@ -2,7 +2,7 @@
  "title": {
     "english": "Edit Class Name",
     "turkish": "Ders Adını Düzenle",
-    "arabic": "تحريراسم الفصل"
+    "arabic": "تحرير اسم الفصل"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -23,7 +23,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Enter the new name for your class. Then click “Save”. If you do not want to change the name of your class, click “Cancel”.",
-            "turkish": "Dersiniz yeni adını girin. Ardından “Kaydet”e tıklayın. Dersinizin adını değiştirmek istemiyorsanız, “İptal”e tıklayın.",
+            "turkish": "Dersinize yeni adını girin. Ardından “Save”e tıklayın. Dersinizin adını değiştirmek istemiyorsanız, “Cancel” seçeneğine tıklayın.",
             "arabic": "أدخل الاسم الجديد لفصلك. ثم انقر على “Save”(\"حفظ\"). إذا كنت لا ترغب في تغيير اسم فصلك، فانقر على “Cancel”(\"إلغاء\")."
           }
         },

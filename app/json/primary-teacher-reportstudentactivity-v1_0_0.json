@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Student Activity Report",
-    "turkish": "-",
+    "turkish": "Öğrenci Aktivite Raporu",
     "arabic": "تقرير نشاط الطالب"
   },
  "segment": "primary",
@@ -23,7 +23,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
-            "turkish": "-",
+            "turkish": "Ders Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (متوسط الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -33,7 +33,7 @@
           "numberPosLeft": 24,
           "text":{
             "english": "Click here to view the Class Report for the class shown on the right.",
-            "turkish": "-",
+            "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görüntülemek için buraya tıklayın.",
             "arabic": "انقر هنا لعرض تقرير الفصل الخاص بالفصل المعروض على اليمين."
           }
         },
@@ -43,7 +43,7 @@
           "numberPosLeft": 36,
           "text":{
             "english": "Click here to view the Unit Report for this student.",
-            "turkish": "-",
+            "turkish": "Bu öğrenciye ait Ünite Raporunu görüntülemek için buraya tıklayın.",
             "arabic": "انقر هنا لعرض تقرير الوحدة لهذا الطالب."
           }
         },
@@ -53,7 +53,7 @@
           "numberPosLeft": 48,
           "text":{
             "english": "Click here to view the Lesson Report for this student.",
-            "turkish": "-",
+            "turkish": "Bu öğrenciye ait Ders Raporunu görüntülemek için buraya tıklayın.",
             "arabic": "انقر هنا لعرض تقرير الدرس لهذا الطالب."
           }
         },
@@ -63,7 +63,7 @@
           "numberPosLeft": 68,
           "text":{
             "english": "Use this menu to view the work of a student in another class. Select “All Classes” to go to the Class Summary Report.",
-            "turkish": "-",
+            "turkish": "Başka sınıftaki bir öğrencinin çalışmasını görüntülemek için bu menüyü kullanın. Ders Özeti Raporuna gitmek için “All Classes” seçeneğini seçin.",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب ما في فصل أخرى. حدد “All Classes”  (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
         },
@@ -73,7 +73,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Use this menu to view the work of a different student for this activity.",
-            "turkish": "-",
+            "turkish": "Bu aktivite için farklı bir öğrencinin çalışmasını görüntülemek için bu menüyü kullanın.",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب مختلف لهذا النشاط."
           }
         },
@@ -83,7 +83,7 @@
           "numberPosLeft": 8,
           "text":{
             "english": "Use this menu to view a different unit.",
-            "turkish": "-",
+            "turkish": "Farklı bir üniteyi görüntülemek için bu menüyü kullanın.",
             "arabic": "استخدم هذه القائمة لعرض وحدة مختلفة."
           }
         },
@@ -93,7 +93,7 @@
           "numberPosLeft": 40,
           "text":{
             "english": "Use this menu to view a different lesson.",
-            "turkish": "-",
+            "turkish": "Farklı bir dersi görüntülemek için bu menüyü kullanın.",
             "arabic": "استخدم هذه القائمة لعرض درس مختلف."
           }
         },
@@ -103,7 +103,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "This score shows the most recent attempt on this activity by the student selected. Please note that for speaking activities that include a voice-record feature, the student’s recordings are not saved.",
-            "turkish": "-",
+            "turkish": "Bu puan seçilen öğrencinin bu aktivite konusundaki en son girişimini gösterir. Lütfen ses kaydı özelliği içeren konuşma aktivitelerinde öğrencinin kayıtlarının kaydedilmediğini unutmayın.",
             "arabic": "تُظهِر هذه الدرجة أحدث محاولة في هذا النشاط من قِبل الطالب المحدد. يُرجَى ملاحظة أنه لأنشطة التحدث التي تتضمن ميزة تسجيل الصوت، لا يتم حفظ تسجيلات الطالب."
           }
         },
@@ -113,7 +113,7 @@
           "numberPosLeft": 27,
           "text":{
             "english": "This shows the number of times a student has attempted this activity.",
-            "turkish": "-",
+            "turkish": "Bu, bir öğrencinin bu aktiviteye kaç kere katıldığını gösterir.",
             "arabic": "يُظهِر هذا عدد المرات التي حاول فيها طالب ما في هذا النشاط."
           }
         }

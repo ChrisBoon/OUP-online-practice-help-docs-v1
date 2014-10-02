@@ -1,5 +1,9 @@
 # OUP ELT Online Practice Help Docs
 
+##Schedule and Tracking
+https://docs.google.com/spreadsheets/d/1nNnZsPZgN-4j9wdO_v61gm-AcBk4ONfIZwbz505d74Q
+The Google Sheet above contains a full reference of all Help Documents and languages they are in, a list of Languages each course has or will have, and the latest scheduled work for each Segment.
+
 ## Overview
 
 This project is a web-app containing Help Docs for new Online Pracice courses.

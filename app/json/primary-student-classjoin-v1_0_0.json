@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Join a Class",
-    "turkish": "-",
+    "turkish": "Derse katıl ",
     "arabic": "الانضمام إلى فصل"
   },
  "segment": "primary",
@@ -23,8 +23,8 @@
           "numberPosLeft": 9,
           "text":{
             "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
-            "turkish": "-",
-            "arabic": "أدخل رمز مُعرِّف الفصل الخاص بك هنا ثم انقر على “Save”(\"حفظ\"). يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكنللمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه."
+            "turkish": "Ders ID kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın. Ders ID kodu öğretmeniniz tarafından size verilen bir koddur. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar.",
+            "arabic": "أأدخل رمز مُعرِّف الفصل الخاص بك هنا ثم انقر على “Save”(\"حفظ\"). يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه."
           }
         },
         "paragraph02": {
@@ -33,7 +33,7 @@
           "numberPosLeft": 26,
           "text":{
             "english": "Click here to submit your class ID code and return to your Home page.",
-            "turkish": "-",
+            "turkish": "Ders ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وعُد لصفحتك الرئيسية."
           }
         },
@@ -43,8 +43,8 @@
           "numberPosLeft": 38,
           "text":{
             "english": "Click here to go back to the previous page without joining a class.",
-            "turkish": "-",
-            "arabic": "انقر هنا للرجوع إلى الصفحة السابقة بدون الإنضمام إلى أحدالفصول."
+            "turkish": "Derse katılmadan bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "arabic": "انقر هنا للرجوع إلى الصفحة السابقة بدون الانضمام إلى أحد الفصول."
           }
         }
       }

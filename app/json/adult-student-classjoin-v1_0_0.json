@@ -1,0 +1,53 @@
+{
+ "title": {
+    "english": "Join a Class",
+    "turkish": "Derse katıl ",
+    "arabic": "الانضمام إلى فصل"
+  },
+ "segment": "adult",
+ "userType": ["student"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASCJ001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 22,
+          "numberPosLeft": 9,
+          "text":{
+            "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
+            "turkish": "Ders ID kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın. Ders ID kodu öğretmeniniz tarafından size verilen bir koddur. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar.",
+            "arabic": "أأدخل رمز مُعرِّف الفصل الخاص بك هنا ثم انقر على “Save”(\"حفظ\"). يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 29,
+          "numberPosLeft": 26,
+          "text":{
+            "english": "Click here to submit your class ID code and return to your Home page.",
+            "turkish": "Ders ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
+            "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وعُد لصفحتك الرئيسية."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 29,
+          "numberPosLeft": 38,
+          "text":{
+            "english": "Click here to go back to the previous page without joining a class.",
+            "turkish": "Derse katılmadan bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "arabic": "انقر هنا للرجوع إلى الصفحة السابقة بدون الانضمام إلى أحد الفصول."
+          }
+        }
+      }
+    }
+  }
+}

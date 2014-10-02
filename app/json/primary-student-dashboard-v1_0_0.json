@@ -1,8 +1,8 @@
 {
  "title": {
     "english": "Achievements",
-    "turkish": "-",
-    "arabic": "-"
+    "turkish": "Başarılar",
+    "arabic": "التحصيل"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -23,8 +23,8 @@
           "numberPosLeft": 40,
           "text":{
             "english": "Click here to see your achievements in the Trophy Room and Skills Dashboard.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Başarılarınızı Zafer Odası ve Beceriler Panosunda görmek için buraya tıklayın.",
+            "arabic": "انقر هنا لرؤية التحصيل الخاص بك في غرفة الميدالياتولوحة المهارات."
           }
         },
         "paragraph02": {
@@ -33,8 +33,8 @@
           "numberPosLeft": 68,
           "text":{
             "english": "Click here to see your Reports.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Raporlarınızı görmek için buraya tıklayın.",
+            "arabic": "انقر هنا لرؤية تقاريرك."
           }
         },
         "paragraph03": {
@@ -43,8 +43,8 @@
           "numberPosLeft": 30,
           "text":{
             "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect! You can attempt an Online Practice activity three times. The highest score of the three attempts is recorded as your final score.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Çevrim İçi Uygulama seviyenizin her bir ünitesinde aktivitelerinizi tamamladıkça yıldız toplayabilirsiniz. Ne kadar çok puan toplarsanız, o kadar fazla yıldızınız olur! Bir Çevrim İçi Uygulama aktivitesini üç kez deneyebilirsiniz. Üç deneme sonunda elde ettiğiniz en yüksek puan final puanınız olanak kaydedilir.",
+            "arabic": "بمجرد إكمالك الأنشطة الخاصة بكل وحدة من مستواك في الممارسة الخاص بك على الإنترنت، يمكنك جمع النجوم. كلما زادت الدرجات التي تحرزها، زادت النجوم التي تجمعها! يمكنك المحاولة في نشاط الممارسة على الإنترنت ثلاث مرات. يتم تسجيل أعلى درجة في المحاولات الثلاث كنتيجة نهائية خاصة بك."
           }
         },
         "paragraph04": {
@@ -53,8 +53,8 @@
           "numberPosLeft": 34,
           "text":{
             "english": "If you score 30% of the total possible points in a unit you will be awarded a bronze star.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Bir ünitede toplam olası puanların %30’unu alırsanız bir bronz yıldızla ödüllendirilirsiniz.",
+            "arabic": "إذا أحرزت 30% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةبرونزية."
           }
         },
         "paragraph05": {
@@ -63,8 +63,8 @@
           "numberPosLeft": 42,
           "text":{
             "english": "If you score 70% of the total possible points in a unit you will be awarded a silver star.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Bir ünitede toplam olası puanların %70’ini alırsanız bir gümüş yıldızla ödüllendirilirsiniz.",
+            "arabic": "إذاأحرزت70% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةفضية."
           }
         },
         "paragraph06": {
@@ -73,8 +73,8 @@
           "numberPosLeft": 49,
           "text":{
             "english": "If you score 90% of the total possible points in a unit you will be awarded a gold star.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Bir ünitede toplam olası puanların %90’ını alırsanız bir altın yıldızla ödüllendirilirsiniz.",
+            "arabic": "إذاأحرزت90% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةذهبية."
           }
         },
         "paragraph07": {
@@ -83,8 +83,8 @@
           "numberPosLeft": 56,
           "text":{
             "english": "If you score 100% of the total possible points in a unit you will be awarded a bonus trophy.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Bir ünitede toplam olası puanların %100’ünü alırsanız bir bonusla ödüllendirilirsiniz.",
+            "arabic": "إذاأحرزت100% من مجموع النقاط الممكنة في وحدة ما, فسوف يتم منحك ميداليةمكافأة."
           }
         },
         "paragraph08": {
@@ -93,8 +93,8 @@
           "numberPosLeft": 2,
           "text":{
             "english": "This is your Skills Dashboard. Each activity in an Online Practice level belongs to a learning area, for example Reading, Writing, Listening, etc. The Skills Dashboard shows your activity results for a level across the different skill areas.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Bu sizin Beceriler Panonuzdur. Bir Çevrim İçi Uygulama seviyesindeki her bir aktivite Okuma, Yazma, Dinleme vb. bir öğrenme alanına aittir. Beceriler Panosu farklı beceri alanlarında bir seviye için aktivite sonuçlarını gösterir.",
+            "arabic": "هذه هي لوحة المهارات الخاصة بك. ينتمي كل نشاط في مستوى الممارسة على الإنترنت إلى مجال تعليمي معين, مثل: القراءة, والكتابة, والاستماع, وغير ذلك. تُظهِر لوحة المهارات نتائج نشاطك بمستوى معين عبر مجالات المهارات المختلفة."
           }
         },
         "paragraph09": {
@@ -103,8 +103,8 @@
           "numberPosLeft": 3,
           "text":{
             "english": "Results for activities within the different skill areas are displayed as a percentage based on the average score of all completed activities in a skill area within a level.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Farklı beceri alanlarındaki aktivite sonuçları bir seviye içerisindeki beceri alanında tamamlanan tüm aktivitelerin ortalama puanına göre bir yüzde değer olarak görüntülenir.",
+            "arabic": "يتم عرض نتائج الأنشطة التي تنتمي لمجالات مختلفة من المهارات كنسبة مئوية على أساس متوسط درجات كل الأنشطة المُنجَزة في مجال من المهارات خلال مستوى ما."
           }
         },
         "paragraph10": {
@@ -113,8 +113,8 @@
           "numberPosLeft": 83,
           "text":{
             "english": "Results for skill areas which contain open-ended activities where no score is given are not scored.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Hiç puan verilmeyen açık uçlu aktiviteler içeren beceri alanlarının sonuçları “Not scored” şeklinde görüntülenir.",
+            "arabic": "يتم إظهار نتائج مجالات المهارات التي تحتوي على أنشطة غير محددة النهاية والتي لا يتم فيها منح أية درجة على أنها\"ليست ذات درجة\"."
           }
         },
         "paragraph11": {
@@ -123,8 +123,8 @@
           "numberPosLeft": 2,
           "text":{
             "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
-            "turkish": "-",
-            "arabic": "-"
+            "turkish": "Tamamlanan aktivitelerin sayısı beceri alanındaki toplam aktivite sayısıyla birlikte gösterilir.",
+            "arabic": "ويظهر عدد الأنشطة المُنجَزة هنا جنبًا إلى جنب مع عدد الأنشطة في هذا المجال من المهارة."
           }
         }
 
