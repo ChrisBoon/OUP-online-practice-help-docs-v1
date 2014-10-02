@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 2,
-          "numberPosLeft": 1,
+          "numberPosTop": 0,
+          "numberPosLeft": 0,
           "text":{
             "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 2,
-          "numberPosLeft": 45,
+          "numberPosTop": 0,
+          "numberPosLeft": 28,
           "text":{
             "english": "Use this menu to choose an activity within a unit.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 2,
-          "numberPosLeft": 67,
+          "numberPosTop": 0,
+          "numberPosLeft": 76,
           "text":{
             "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
             "turkish": "Aktiviteler arasında sırayla gezinmek için “Previous” ve “Next” düğmelerini kullanın.",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 84,
-          "numberPosLeft": 10,
+          "numberPosTop": 82,
+          "numberPosLeft": 0,
           "text":{
             "english": "Click here to see a grammar chart pop-up related to the current activity.",
             "turkish": "-",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 84,
-          "numberPosLeft": 27,
+          "numberPosTop": 82,
+          "numberPosLeft": 0,
           "text":{
             "english": "Click here to check your answers when you have answered all questions in an activity.",
             "turkish": "-",
@@ -79,8 +79,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 84,
-          "numberPosLeft": 45,
+          "numberPosTop": 82,
+          "numberPosLeft": 49,
           "text":{
             "english": "You can try an activity again if you answer some questions incorrectly. You can try an activity as many times as you like.",
             "turkish": "-",
@@ -89,8 +89,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 84,
-          "numberPosLeft": 51,
+          "numberPosTop": 82,
+          "numberPosLeft": 59,
           "text":{
             "english": "If you answer some questions incorrectly you can see the correct answers.",
             "turkish": "-",
@@ -99,8 +99,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 84,
-          "numberPosLeft": 66,
+          "numberPosTop": 82,
+          "numberPosLeft": 72,
           "text":{
             "english": "Click here to see a Feedback pop-up with guidance on completing an activity.",
             "turkish": "-",
@@ -109,8 +109,8 @@
         },
         "paragraph10": {
           "number": 10,
-          "numberPosTop": 84,
-          "numberPosLeft": 76,
+          "numberPosTop": 82,
+          "numberPosLeft": 84,
           "text":{
             "english": "Your current activity score is shown here.",
             "turkish": "-",
@@ -119,8 +119,8 @@
         },
         "paragraph11": {
           "number": 11,
-          "numberPosTop": 84,
-          "numberPosLeft": 87,
+          "numberPosTop": 92,
+          "numberPosLeft": 0,
           "text":{
             "english": "You can find supporting resources here that will help you with your Online Practice work, if available.",
             "turkish": "-",
@@ -128,8 +128,8 @@
           }
         },
         "paragraph12": {
-          "number": 12,
-          "numberPosTop": 92,
+          "number": 92,
+          "numberPosTop": 18,
           "numberPosLeft": 4,
           "text":{
             "english": "You can view the Picture Glossary here, if available. The Picture Glossary will help you with the course vocabulary.",
@@ -140,7 +140,7 @@
         "paragraph13": {
           "number": 13,
           "numberPosTop": 92,
-          "numberPosLeft": 19,
+          "numberPosLeft": 34,
           "text":{
             "english": "Access your Achievements and Reports here.",
             "turkish": "Başarılarınız ve Raporlarınıza buradan erişebilirsiniz.",

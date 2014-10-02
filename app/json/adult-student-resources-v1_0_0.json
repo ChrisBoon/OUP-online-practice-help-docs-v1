@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 43,
-          "numberPosLeft": 23,
+          "numberPosTop": 49,
+          "numberPosLeft": 32,
           "text":{
             "english": "Click on a title to open a Resource. PDF files and documents will open in a new tab or download to your computer or device depending on your browser settings.",
             "turkish": "Bir Kaynağı açmak için başlığına tıklayın. PDF dosyaları ve belgeler yeni bir sekmede açılır ve tarayıcı ayarlarınıza bağlı olarak bilgisayarınıza ya da cihazınıza indirilir.",

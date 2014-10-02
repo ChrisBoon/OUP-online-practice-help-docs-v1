@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 4,
-          "numberPosLeft": 68,
+          "numberPosTop": 0,
+          "numberPosLeft": 80,
           "text":{
             "english": "Click here to see your Reports.",
             "turkish": "Raporlarınızı görmek için buraya tıklayın.",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 20,
-          "numberPosLeft": 30,
+          "numberPosTop": 12,
+          "numberPosLeft": 1,
           "text":{
             "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect! You can attempt an Online Practice activity as many times as you want. The highest score of the three attempts is recorded as your final score.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 16,
-          "numberPosLeft": 34,
+          "numberPosTop": 70,
+          "numberPosLeft": 2,
           "text":{
             "english": "If you score 30% of the total possible points in a unit you will be awarded a bronze star.",
             "turkish": "Bir ünitede toplam olası puanların %30’unu alırsanız bir bronz yıldızla ödüllendirilirsiniz.",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 16,
-          "numberPosLeft": 42,
+          "numberPosTop": 52,
+          "numberPosLeft": 3,
           "text":{
             "english": "If you score 70% of the total possible points in a unit you will be awarded a silver star.",
             "turkish": "Bir ünitede toplam olası puanların %70’ini alırsanız bir gümüş yıldızla ödüllendirilirsiniz.",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 16,
-          "numberPosLeft": 49,
+          "numberPosTop": 35,
+          "numberPosLeft": 3,
           "text":{
             "english": "If you score 90% of the total possible points in a unit you will be awarded a gold star.",
             "turkish": "Bir ünitede toplam olası puanların %90’ını alırsanız bir altın yıldızla ödüllendirilirsiniz.",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 16,
-          "numberPosLeft": 56,
+          "numberPosTop": 17,
+          "numberPosLeft": 3,
           "text":{
             "english": "If you score 100% of the total possible points in a unit you will be awarded a bonus trophy.",
             "turkish": "Bir ünitede toplam olası puanların %100’ünü alırsanız bir bonusla ödüllendirilirsiniz.",
@@ -79,8 +79,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 80,
-          "numberPosLeft": 2,
+          "numberPosTop": 14,
+          "numberPosLeft": 63,
           "text":{
             "english": "This is your Dashboard. The Online Practice is divided into several areas, for example, Test, Vocabulary, and Practice. The Dashboard shows your activity results for a level across the different areas.",
             "turkish": "-",
@@ -89,8 +89,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 87,
-          "numberPosLeft": 3,
+          "numberPosTop": 41,
+          "numberPosLeft": 64,
           "text":{
             "english": "Results for activities within different areas are displayed as a percentage based on the average score of all completed activities in an area within a level.",
             "turkish": "Farklı beceri alanlarındaki aktivite sonuçları bir seviye içerisindeki beceri alanında tamamlanan tüm aktivitelerin ortalama puanına göre bir yüzde değer olarak görüntülenir.",
@@ -99,8 +99,8 @@
         },
         "paragraph9": {
           "number": 9,
-          "numberPosTop": 92,
-          "numberPosLeft": 2,
+          "numberPosTop": 54,
+          "numberPosLeft": 92,
           "text":{
             "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
             "turkish": "Tamamlanan aktivitelerin sayısı beceri alanındaki toplam aktivite sayısıyla birlikte gösterilir.",
