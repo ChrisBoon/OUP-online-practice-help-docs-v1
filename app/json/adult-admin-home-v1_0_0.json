@@ -50,8 +50,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 3,
-          "numberPosTop": 30,
-          "numberPosLeft": 1,
+          "numberPosTop": 23,
+          "numberPosLeft": 12,
           "text":{
             "english": "Administrators can view activities for all levels of a course. Select a level to view on this page.",
             "turkish": "Yöneticiler bir kursun tüm seviyeleri için aktiviteleri görüntüleyebilir. Bu sayfada görüntülemek istediğiniz seviyeyi seçin.",

@@ -19,7 +19,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 27,
+          "numberPosTop": 21,
           "numberPosLeft": 9,
           "text":{
             "english": "Enter your new class ID code here and then click “Save”.",
@@ -29,7 +29,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 35,
+          "numberPosTop": 32,
           "numberPosLeft": 25,
           "text":{
             "english": "Click here to submit your new class ID code and return to your Home page.",
@@ -39,7 +39,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 35,
+          "numberPosTop": 32,
           "numberPosLeft": 37,
           "text":{
             "english": "Click here to go back to the previous page without changing your class.",

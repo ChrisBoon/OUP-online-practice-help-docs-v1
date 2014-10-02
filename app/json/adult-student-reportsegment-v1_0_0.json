@@ -19,8 +19,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 15,
-          "numberPosLeft": 9,
+          "numberPosTop": 10,
+          "numberPosLeft": 7,
           "text":{
             "english": "Use this menu to display reports for all segments or display reports for specific segments.",
             "turkish": "-",
@@ -29,8 +29,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 36,
-          "numberPosLeft": 1,
+          "numberPosTop": 30,
+          "numberPosLeft": 0,
           "text":{
             "english": "This row shows the scores for each activity in a unit. The score is shown out of the total number of possible points in an activity.",
             "turkish": "-",
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 42,
-          "numberPosLeft": 1,
+          "numberPosTop": 36,
+          "numberPosLeft": 0,
           "text":{
             "english": "This row shows the number of attempts at each activity in a unit.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 47,
-          "numberPosLeft": 1,
+          "numberPosTop": 43,
+          "numberPosLeft": 0,
           "text":{
             "english": "This row shows the time taken for all attempts at each activity in a unit.",
             "turkish": "-",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 36,
-          "numberPosLeft": 35,
+          "numberPosTop": 31,
+          "numberPosLeft": 36,
           "text":{
             "english": "The total score for a unit is shown here.",
             "turkish": "-",
@@ -69,8 +69,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 42,
-          "numberPosLeft": 35,
+          "numberPosTop": 37,
+          "numberPosLeft": 12,
           "text":{
             "english": "The total number of activity attempts for a unit is shown here.",
             "turkish": "-",
@@ -79,8 +79,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 47,
-          "numberPosLeft": 35,
+          "numberPosTop": 42,
+          "numberPosLeft": 11,
           "text":{
             "english": "The total time taken on all activities in a unit is shown here.",
             "turkish": "-",
