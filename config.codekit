@@ -11,9 +11,18 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/css\/homepage.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/css\/homepage.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/discover.html": {
 		"fileType": 8192,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/discover.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -22,7 +31,7 @@
 		},
 	"\/app\/elements.html": {
 		"fileType": 8192,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/elements.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -40,7 +49,7 @@
 		},
 	"\/app\/family_and_friends.html": {
 		"fileType": 8192,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/family_and_friends.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -56,7 +65,7 @@
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-eos-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/app\/icons\/help-doc-icon-exp-2x.png": {
 		"fileType": 32768,
@@ -227,7 +236,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 64726,
+		"initialSize": 64473,
 		"inputAbbreviatedPath": "\/app\/img\/ASA001.png",
 		"outputAbbreviatedPath": "\/app\/img\/ASA001.png",
 		"outputPathIsOutsideProject": 0,
@@ -304,7 +313,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 31932,
 		"inputAbbreviatedPath": "\/app\/img\/ASE001.png",
 		"outputAbbreviatedPath": "\/app\/img\/ASE001.png",
 		"outputPathIsOutsideProject": 0,
@@ -315,7 +324,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 33451,
 		"inputAbbreviatedPath": "\/app\/img\/ASE002.png",
 		"outputAbbreviatedPath": "\/app\/img\/ASE002.png",
 		"outputPathIsOutsideProject": 0,
@@ -388,13 +397,57 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/ASH001.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148169,
+		"inputAbbreviatedPath": "\/app\/img\/ASH001.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/ASH001.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASH002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83338,
+		"inputAbbreviatedPath": "\/app\/img\/ASH002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASH002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/ASM001.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 18700,
 		"inputAbbreviatedPath": "\/app\/img\/ASM001.png",
 		"outputAbbreviatedPath": "\/app\/img\/ASM001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASM002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18407,
+		"inputAbbreviatedPath": "\/app\/img\/ASM002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASM002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASM003.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79558,
+		"inputAbbreviatedPath": "\/app\/img\/ASM003.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/ASM003.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1500,23 +1553,23 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/discover.kit",
-		"outputAbbreviatedPath": "\/app\/discover.html",
+		"outputAbbreviatedPath": "\/app\/kit\/discover.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1
+		"outputPathIsSetByUser": 0
 		},
 	"\/app\/kit\/elements.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/elements.kit",
-		"outputAbbreviatedPath": "\/app\/elements.html",
+		"outputAbbreviatedPath": "\/app\/kit\/elements.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1
+		"outputPathIsSetByUser": 0
 		},
 	"\/app\/kit\/example.kit": {
 		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/example.kit",
 		"outputAbbreviatedPath": "\/app\/kit\/example.html",
 		"outputPathIsOutsideProject": 0,
@@ -1536,9 +1589,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/family_and_friends.kit",
-		"outputAbbreviatedPath": "\/app\/family_and_friends.html",
+		"outputAbbreviatedPath": "\/app\/kit\/family_and_friends.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1
+		"outputPathIsSetByUser": 0
 		},
 	"\/app\/kit\/index.kit": {
 		"fileType": 2048,
@@ -1681,6 +1734,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/sass\/custom-pages\/_welcome.scss",
 		"outputAbbreviatedPath": "\/app\/sass\/css\/_welcome.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/app\/sass\/homepage.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/sass\/homepage.scss",
+		"outputAbbreviatedPath": "\/app\/css\/homepage.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1869,8 +1938,8 @@
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/README.md",
 		"outputAbbreviatedPath": "\/README.html",
 		"outputPathIsOutsideProject": 0,
