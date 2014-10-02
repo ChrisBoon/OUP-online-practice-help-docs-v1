@@ -71,6 +71,7 @@ ng-click="firstTimeSet()"
       <span ng-if="language.language == 'english'">Welcome</span>
       <span ng-if="language.language == 'turkish'">Hoşgeldiniz</span>
       <span ng-if="language.language == 'arabic'" class="rtl">مرحبًا بكم</span>
+      <span ng-if="language.language == 'spanish'">Bienvenido</span>
     </a>
 
       <accordion close-others="oneAtATime">
@@ -84,15 +85,6 @@ ng-click="firstTimeSet()"
             {{user.userType.english}}
             <span 
             class="accordion-toggle__arrow" 
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
-            >
-            </span>
-          </accordion-heading>
-
-          <accordion-heading ng-if="language.language == 'french'">
-            {{user.userType.french}}
-            <span 
-            class="accordion-toggle__arrow"
             ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
             >
             </span>
@@ -116,6 +108,15 @@ ng-click="firstTimeSet()"
             </span>
           </accordion-heading>
 
+          <accordion-heading ng-if="language.language == 'spanish'">
+            {{user.userType.spanish}}
+            <span 
+            class="accordion-toggle__arrow"
+            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
+            >
+            </span>
+          </accordion-heading>
+
           <ul class="help-menu__user__list">
             <li
             ng-repeat="listitem in user.docsList"
@@ -130,14 +131,6 @@ ng-click="firstTimeSet()"
               class="help-menu__option"
               >
                 {{listitem.title.english}}
-              </a>
-              <a 
-              ng-if="language.language == 'french'"
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option"
-              >
-                {{listitem.title.french}}
               </a>
               <a 
               ng-if="language.language == 'turkish'"
@@ -155,6 +148,14 @@ ng-click="firstTimeSet()"
               >
                 {{listitem.title.arabic}}
               </a>
+              <a 
+              ng-if="language.language == 'spanish'"
+              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
+              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
+              class="help-menu__option"
+              >
+                {{listitem.title.spanish}}
+              </a>
             </li>
           </ul>
         </accordion-group>
@@ -167,6 +168,7 @@ ng-click="firstTimeSet()"
       <span ng-if="language.language == 'english'">FAQ</span>
       <span ng-if="language.language == 'turkish'">SSS</span>
       <span ng-if="language.language == 'arabic'" class="rtl"> الأسئلة المتكررة</span>
+      <span ng-if="language.language == 'spanish'">PREGUNTAS FRECUENTES</span>
     </a>      
     </div>
   </div>

@@ -22,7 +22,7 @@
 		},
 	"\/app\/discover.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/discover.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -31,7 +31,7 @@
 		},
 	"\/app\/elements.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/elements.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -49,7 +49,7 @@
 		},
 	"\/app\/family_and_friends.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/family_and_friends.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -1544,7 +1544,7 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/_appIndex.kit",
-		"outputAbbreviatedPath": "\/app\/kit\/_appIndex.html",
+		"outputAbbreviatedPath": "\/app\/_appIndex.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1553,7 +1553,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/discover.kit",
-		"outputAbbreviatedPath": "\/app\/kit\/discover.html",
+		"outputAbbreviatedPath": "\/app\/discover.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1562,7 +1562,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/elements.kit",
-		"outputAbbreviatedPath": "\/app\/kit\/elements.html",
+		"outputAbbreviatedPath": "\/app\/elements.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1571,7 +1571,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/example.kit",
-		"outputAbbreviatedPath": "\/app\/kit\/example.html",
+		"outputAbbreviatedPath": "\/app\/example.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1589,7 +1589,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/family_and_friends.kit",
-		"outputAbbreviatedPath": "\/app\/kit\/family_and_friends.html",
+		"outputAbbreviatedPath": "\/app\/family_and_friends.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -2496,10 +2496,10 @@
 		},
 	"kitAutoOutputPathEnabled": 1,
 	"kitAutoOutputPathFilenamePattern": "*.html",
-	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathRelativePath": "..\/",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
-	"kitAutoOutputPathStyle": 0,
+	"kitAutoOutputPathStyle": 2,
 	"lessAllowInsecureImports": 0,
 	"lessAutoOutputPathEnabled": 1,
 	"lessAutoOutputPathFilenamePattern": "*.css",

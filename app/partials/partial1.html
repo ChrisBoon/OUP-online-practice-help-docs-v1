@@ -4,10 +4,6 @@
       class="help-doc__title">
     {{helpdoc.title.english}}
   </h1>
-  <h1 ng-if="language.language == 'french'"
-      class="help-doc__title">
-    {{helpdoc.title.french}}
-  </h1>
   <h1 ng-if="language.language == 'turkish'" 
       class="help-doc__title">
     {{helpdoc.title.turkish}}
@@ -15,6 +11,10 @@
   <h1 ng-if="language.language == 'arabic'"
       class="help-doc__title rtl">
     {{helpdoc.title.arabic}}
+  </h1>
+  <h1 ng-if="language.language == 'spanish'"
+      class="help-doc__title">
+    {{helpdoc.title.spanish}}
   </h1>
 
   <div ng-repeat="page in helpdoc.pages"
@@ -27,16 +27,16 @@
       {{page.pageTitle.english}}
     </h2>
     <h2 class="help-doc__page__title"
-        ng-if="language.language == 'french'">
-      {{page.pageTitle.french}}
-    </h2>
-    <h2 class="help-doc__page__title"
         ng-if="language.language == 'turkish'">
       {{page.pageTitle.turkish}}
     </h2>
     <h2 class="help-doc__page__title rtl"
         ng-if="language.language == 'arabic'">
       {{page.pageTitle.arabic}}
+    </h2>
+    <h2 class="help-doc__page__title"
+        ng-if="language.language == 'spanish'">
+      {{page.pageTitle.spanish}}
     </h2>
     
 
@@ -72,10 +72,6 @@
              class="help-doc__page__text help-doc__page__paragraph--numbered__text">
             {{para.text.english}}
           </p>
-          <p ng-if="language.language == 'french'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.french}}
-          </p>
           <p ng-if="language.language == 'turkish'"
              class="help-doc__page__text help-doc__page__paragraph--numbered__text">
             {{para.text.turkish}}
@@ -83,6 +79,10 @@
           <p ng-if="language.language == 'arabic'"
              class="help-doc__page__text help-doc__page__paragraph--numbered__text rtl">
             {{para.text.arabic}}
+          </p>
+          <p ng-if="language.language == 'spanish'"
+             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
+            {{para.text.spanish}}
           </p>
           
         </div>
@@ -113,6 +113,11 @@
         <div ng-if="language.language == 'arabic'" class="rtl">
           <p>{{page.content.thing01.text.arabic}}</p>
           <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.arabic}}</a>
+        </div>
+
+        <div ng-if="language.language == 'spanish'">
+          <p>{{page.content.thing01.text.spanish}}</p>
+          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.spanish}}</a>
         </div>
 
       </div>
