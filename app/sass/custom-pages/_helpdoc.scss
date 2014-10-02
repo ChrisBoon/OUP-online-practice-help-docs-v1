@@ -47,6 +47,9 @@
           float: right;
           width: 50%;
           max-width: 700px;
+          .adult &{
+            padding: .5em;
+          }
           @include breakpoint(medium){
             width: 100%;
             max-width: 100%;
@@ -80,6 +83,9 @@
         &__img{
           display: block;
           width: 100%;
+          .adult &{
+            border: 1px solid #aaa;
+          }
         }
       }
     }
