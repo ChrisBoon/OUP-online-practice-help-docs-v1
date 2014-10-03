@@ -70,7 +70,7 @@
         "paragraph06": {
           "number": 6,
           "numberPosTop": 82,
-          "numberPosLeft": 0,
+          "numberPosLeft": 39,
           "text":{
             "english": "Click here to check your answers when you have answered all questions in an activity.",
             "turkish": "-",
@@ -128,9 +128,9 @@
           }
         },
         "paragraph12": {
-          "number": 92,
-          "numberPosTop": 18,
-          "numberPosLeft": 4,
+          "number": 12,
+          "numberPosTop": 92,
+          "numberPosLeft": 18,
           "text":{
             "english": "You can view the Picture Glossary here, if available. The Picture Glossary will help you with the course vocabulary.",
             "turkish": "-",
