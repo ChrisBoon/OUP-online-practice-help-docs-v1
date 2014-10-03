@@ -30,7 +30,7 @@
         "paragraph02": {
           "number": 2,
           "numberPosTop": 12,
-          "numberPosLeft": 12,
+          "numberPosLeft": 18,
           "text":{
             "english": "Type a word in the text box to search for a word. The Glossary automatically searches for the word.",
             "turkish": "Bir kelimeyi aramak için metin kutusuna girin. Sözlük otomatik olarak kelimeyi aratır.",

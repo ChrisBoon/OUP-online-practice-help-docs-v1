@@ -22,7 +22,7 @@
           "numberPosTop": 3,
           "numberPosLeft": 2,
           "text":{
-            "english": "YThis is where you can view and reply to all of the current posts.",
+            "english": "This is where you can view and reply to all of the current posts.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -39,8 +39,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 3,
-          "numberPosLeft": 41,
+          "numberPosTop": 36,
+          "numberPosLeft": 1,
           "text":{
             "english": "Click “Hide” to hide the replies.",
             "turkish": "-",
@@ -49,8 +49,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 82,
-          "numberPosLeft": 15,
+          "numberPosTop": 36,
+          "numberPosLeft": 23,
           "text":{
             "english": "Click “Reply” to reply to a post. A text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
             "turkish": "-",
@@ -59,8 +59,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 21,
-          "numberPosLeft": 39,
+          "numberPosTop": 69,
+          "numberPosLeft": 6,
           "text":{
             "english": "Click “Post” to post your reply to the discussion.",
             "turkish": "-",
@@ -69,25 +69,15 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 38,
-          "numberPosLeft": 39,
+          "numberPosTop": 69,
+          "numberPosLeft": 17,
           "text":{
             "english": "Click “Cancel” if you do not want to post your reply.",
             "turkish": "-",
             "arabic": "-"
-          }
-        },
-        "paragraph07": {
-          "number": 7,
-          "numberPosTop": 38,
-          "numberPosLeft": 61,
-          "text":{
-            "english": "Click “Reply” to reply to a post.",
-            "turkish": "Bir gönderiyi yanıtlamak için “Reply” seçeneğine a tıklayın.",
-            "arabic": "انقر على “Reply” (\"رد\") للرد على المنشور."
-          }
+          }  
         }
-      }
+      }  
     },
     "page02": {
       "pageType": "screenshot",
@@ -100,8 +90,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 20,
-          "numberPosLeft": 61,
+          "numberPosTop": 90,
+          "numberPosLeft": 32,
           "text":{
             "english": "You can create a new post by clicking the “Create New Post” button. A new window will open. Your teacher and any student in your Online Practice class can see your post and reply to it.",
             "turkish": "“Reply” seçeneğine tıklarsanız, yanıtladığınız gönderinin altında bir metin kutusu açılacaktır. Yanıtınızı doğrudan tartışma içerisine girebilirsiniz.",
@@ -121,8 +111,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 2,
-          "numberPosTop": 52,
-          "numberPosLeft": 52,
+          "numberPosTop": 13,
+          "numberPosLeft": 26,
           "text":{
             "english": "Type here to give your post a title.",
             "turkish": "-",
@@ -141,8 +131,8 @@
         },
           "paragraph03": {
           "number": 4,
-          "numberPosTop": 52,
-          "numberPosLeft": 52,
+          "numberPosTop": 83,
+          "numberPosLeft": 3,
           "text":{
             "english": "Click “Post” after you’ve finished typing your message.",
             "turkish": "-",

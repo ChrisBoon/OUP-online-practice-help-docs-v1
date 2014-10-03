@@ -42,35 +42,35 @@
           "numberPosTop": 70,
           "numberPosLeft": 2,
           "text":{
-            "english": "If you score 30% of the total possible points in a unit you will be awarded a bronze star.",
-            "turkish": "Bir ünitede toplam olası puanların %30’unu alırsanız bir bronz yıldızla ödüllendirilirsiniz.",
-            "arabic": "إذا أحرزت 30% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةبرونزية."
+            "english": "If you score 30% of the total possible points in a unit you will be awarded a star.",
+            "turkish": "_",
+            "arabic": "_"
           }
         },
         "paragraph04": {
           "number": 4,
           "numberPosTop": 52,
-          "numberPosLeft": 3,
+          "numberPosLeft": 9,
           "text":{
-            "english": "If you score 70% of the total possible points in a unit you will be awarded a silver star.",
-            "turkish": "Bir ünitede toplam olası puanların %70’ini alırsanız bir gümüş yıldızla ödüllendirilirsiniz.",
-            "arabic": "إذاأحرزت70% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةفضية."
+            "english": "If you score 70% of the total possible points in a unit you will be awarded two stars.",
+            "turkish": "_",
+            "arabic": "_"
           }
         },
         "paragraph05": {
           "number": 5,
           "numberPosTop": 35,
-          "numberPosLeft": 3,
+          "numberPosLeft": 16,
           "text":{
-            "english": "If you score 90% of the total possible points in a unit you will be awarded a gold star.",
-            "turkish": "Bir ünitede toplam olası puanların %90’ını alırsanız bir altın yıldızla ödüllendirilirsiniz.",
-            "arabic": "إذاأحرزت90% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةذهبية."
+            "english": "If you score 90% of the total possible points in a unit you will be awarded three stars.",
+            "turkish": "_",
+            "arabic": "_"
           }
         },
         "paragraph06": {
           "number": 6,
           "numberPosTop": 17,
-          "numberPosLeft": 3,
+          "numberPosLeft": 21,
           "text":{
             "english": "If you score 100% of the total possible points in a unit you will be awarded a bonus trophy.",
             "turkish": "Bir ünitede toplam olası puanların %100’ünü alırsanız bir bonusla ödüllendirilirsiniz.",
