@@ -2,6 +2,7 @@
  "title": {
     "english": "Home",
     "turkish": "Anasayfa",
+    "spanish": "Inicio",
     "arabic": "الصفحة الرئيسية"
   },
  "segment": "primary",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "Choose your level",
         "turkish": "Seviyenizi seçin",
+        "spanish": "Elija su nivel",
         "arabic": "حدد مستواك"
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "When you enter Online Practice or click on the Home icon at the top of the screen you will see the levels of your course here.",
             "turkish": "Çevrim İçi Uygulama’ya girdiğinizde ya da ekranın üstünde yer alan Anasayfa simgesine tıkladuığınızda kursunuzun seviyelerini burada göreceksiniz.",
+            "spanish": "Verá los niveles de su curso al ingresar en la Práctica Online o al hacer clic en el icono de Home [Inicio], en la parte superior de la pantalla.",
             "arabic": "عندما تدخل الممارسة عبر الإنترنت أو تنقر على أيقونة الصفحة الرئيسية في أعلى الشاشة,سوف ترى مستويات الدورة الخاصة بك هنا."
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "Click on “Add a level” to add another level if you have an access code.",
             "turkish": "Bir erişim kodunuz varsa ek seviye eklemek için “Add a level” seçeneğine tıklayın.",
+            "spanish": "Haga clic en \"Añadir un nivel\" para agregar otro nivel si tiene un código de acceso.",
             "arabic": "انقر على “Add a level”(\"أضف مستوى\") لإضافة مستوى آخر إذا كان لديك رمز دخول."
           }
         },
@@ -44,6 +48,7 @@
           "text":{
             "english": "Choose the level you want to enter.",
             "turkish": "Girmek istediğiniz seviyeyi seçin.",
+            "spanish": "Elija el nivel al que desea ingresar.",
             "arabic": "اختر المستوى الذي ترغب في إدخاله."
           }
         }
@@ -55,6 +60,7 @@
       "pageTitle": {
         "english": "Choose an Online Practice area",
         "turkish": "Bir Çevrim İçi Uygulama alanı seçin",
+        "spanish": "Elija un área de Práctica Online",
         "arabic": "اختر منطقة الممارسة عبر شبكة الإنترنت"
       },
       "paragraphs":{
@@ -65,6 +71,7 @@
           "text":{
             "english": "Click here to change to a different level.",
             "turkish": "Farklı bir seviyeye geçmekiçin buraya tıklayın.",
+            "spanish": "Presione aquí para cambiar a un nivel diferente.",
             "arabic": "انقر هنا للتغيير إلى مستوى مختلف."
           }
         },
@@ -75,6 +82,7 @@
           "text":{
             "english": "Click here to enter the Online Practice Activity area.",
             "turkish": "Çevrim İçi Uygulama Aktivitesi alanına girmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ingresar al área de Actividades de la Práctica Online.",
             "arabic": "انقر هنا لدخول منطقة ممارسة النشاط عبر شبكة الإنترنت."
           }
         },
@@ -85,6 +93,7 @@
           "text":{
             "english": "Click here to see your Report, Trophy Room and Skills Dashboard. These show your achievements and progress for all of the activities in this level.",
             "turkish": "Rapor, Zafer Odası ve Beceriler Panosunu görmek için buraya tıklayın. Bunlar bu seviyedeki tüm aktiviteler için başarılarınızı ve ilerleyişinizi gösterir.",
+            "spanish": "Haga clic aquí para ver sus Report [Informe], Trophy Room [Sala de Trofeos] y Skills Dashboard [Tablero de Habilidades]. Estos muestran sus logros y progreso para todas las actividades en este nivel.",
             "arabic": "انقر هنا لرؤية التقرير الخاص بك في غرفة الميداليات ولوحة المهارات. تُظهِر هذه الغرفة واللوحة التحصيل والتقدم الخاصينِبك في جميع الأنشطة في هذا المستوى."
           }
         },
@@ -95,6 +104,7 @@
           "text":{
             "english": "Click here to use the Email area. You can message your teacher and other students in your Online Practice class. The Email icon appears here when you have joined a class.",
             "turkish": "E-posta alanını kullanmak için buraya tıklayın. Çevrim İçi Uygulama sınıfınızdaki öğretmen ve diğer öğrencilere mesaj gönderebilirsiniz. Bir sınıfa katıldığınızda burada bir E-posta simgesi görünür.",
+            "spanish": "Haga clic aquí para utilizar el área de Correo electrónico. Puede enviar mensajes a su profesor y a los demás estudiantes en su clase de Práctica Online. El icono de Email [Correo electrónico] aparecerá aquí cuando se haya inscrito a una clase.",
             "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني. يمكنك مراسلة معلمك والطلاب الآخرين المُدرَجين في فصل الممارسة عبر شبكة الإنترنت الخاص بك. تظهر أيقونة البريد الإلكتروني هنا بعد أن تنضم لأحد الفصول."
           }
         },
@@ -105,6 +115,7 @@
           "text":{
             "english": "Click here to use the Forum. You can join in discussions with your teacher and other students in your Online Practice class. The Forum icon appears here when you have joined a class.",
             "turkish": "Forumu kullanmak için buraya tıklayın. Çevrim İçi Uygulama sınıfınızdaki öğretmen ve diğer öğrencilerle tartışmalara katılabilirsiniz. Bir sınıfa katıldığınızda burada bir Forum simgesi görünür.",
+            "spanish": "Haga clic aquí para utilizar el Foro. Usted puede participar en discusiones con su profesor y los demás estudiantes en su clase de Práctica Online. El icono del Forum [Foro] aparecerá aquí cuando se haya inscrito a una clase.",
             "arabic": "اانقر هنا لاستخدام المنتدى. يمكنك الانضمام إلى مناقشة مع معلمك والطلاب الآخرين في فصل الممارسة عبر شبكة الإنترنت الخاص بك. تظهر أيقونة المنتدى هنا بعد أن تنضم لأحد الفصول."
           }
         },
@@ -115,6 +126,7 @@
           "text":{
             "english": "Click here to access the Media Centre to listen to class audio and watch videos, if available.",
             "turkish": "Varsa sınıfın sesini dinlemek ve videoları izlemek üzere Medya Merkezine erişmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para acceder al Centro de Medios para escuchar el audio de la clase y ver videos, de estar disponibles.",
             "arabic": "انقر هنا للوصول إلى مركز الوسائط للاستماع إلى صوت الفصل ومشاهدة مقاطع الفيديو، إذا كان ذلك متاحًا."
           }
         },
@@ -125,6 +137,7 @@
           "text":{
             "english": "Click here to access the Resources area where you can find extra resources that will support you with your Online Practice.",
             "turkish": "Çevrim İçi Uygulamanızda sizi destekleyecek olan ekstra kaynakları bulabileceğiniz Kaynaklar alanına erişmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para acceder al área de Recursos, donde podrá encontrar recursos adicionales que le servirán de apoyo para su Práctica Online.",
             "arabic": "انقر هنا للدخول إلى منطقة الموارد حيث يمكنك أن تجد الموارد الإضافية التي سوف تدعمك في الممارسة عبر شبكة الإنترنت."
           }
         },
@@ -135,6 +148,7 @@
           "text":{
             "english": "Click here to join an Online Practice class or change class. You will need a class code from your teacher to do this.",
             "turkish": "Çevrim İçi Uygulama sınıfına katılmak veya sınıf değiştirmek için buraya tıklayın. Bunu yapabilmeniz için öğretmeninizden bir sınıf kodu almanız gerekecektir.",
+            "spanish": "Haga clic aquí para inscribirse a una clase de Práctica Online o cambiar de clase. Necesitará que su profesor le otorgue un código de clase para hacer esto.",
             "arabic": "اانقر هنا للانضمام إلى فصل الممارسة عبر شبكة الإنترنت، أو تغيير الفصل. سوف تحتاج إلى رمز خاص بالفصل من معلمك للقيام بذلك."
           }
         }

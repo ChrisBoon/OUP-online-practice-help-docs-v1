@@ -2,6 +2,7 @@
  "title": {
     "english": "Media Centre",
     "turkish": "Medya Merkezi",
+    "spanish": "Centro de Medios",
     "arabic": "مركز الوسائط"
   },
  "segment": "primary",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "Audio",
         "turkish": "Ses",
+        "spanish": "Audio",
         "arabic": "الصوت"
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "The Media Centre provides class audio and video files for you and your students to use, if available.",
             "turkish": "Medya Merkezi, varsa dersle ilgili ses ve video dosyalarını kullanımınıza sunar.",
+            "spanish": "El Centro de Medios proporciona archivos de audio y video de las clases para su uso, de estar disponibles.",
             "arabic": "يقدم لك مركز الوسائط ملفات صوتية وملفات فيديو خاصة بالفصل لاستخدامها، إذا كانت متوفرة."
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
             "turkish": "Bir ses dosyası başlığına tıklayın. Bir ses oynatıcı görünür ve sesi oynatır. Parçayı oynatmak ve durdurmak için ok tuşunu kullanın. Parçanın içinde gezinmek ve ses seviyesini değiştirmek için kontrolleri kullanın.",
+            "spanish": "Haga clic en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
             "arabic": "اانقر فوق عنوان أحد الملفاتالصوتية. سوف يظهر مشغل الصوت ويقوم بتشغيل مقطع الفيديو. استخدم زر السهم لتشغيل وإيقاف المسار. استخدم مفاتيح التحكم للتحرك من خلال المسار وتغيير مستوى جهارة الصوت."
           }
         }
@@ -45,6 +49,7 @@
       "pageTitle": {
         "english": "Video",
         "turkish": "Video",
+        "spanish": "Vídeo",
         "arabic": "الفيديو"
       },
       "paragraphs":{
@@ -55,6 +60,7 @@
           "text":{
             "english": "Click on a video title to play a video file. It will play in a new tab in your browser.",
             "turkish": "Bir video dosyasını oynatmak için video başlığına tıklayın. Tarayıcınızda yeni bir sekmede oynatılacaktır.",
+            "spanish": "Haga clic en un título de vídeo para reproducir un archivo de vídeo. Se podrá ver en una nueva pestaña en su navegador.",
             "arabic": "انقر فوق عنوان مقطع الفيديو لتشغيل ملف الفيديو. سوف يقوم بتشغيل علامة تبويب جديدة في المتصفح الخاص بك."
           }
         }
@@ -66,6 +72,7 @@
       "pageTitle": {
         "english": "Video",
         "turkish": "Video",
+        "spanish": "Vídeo",
         "arabic": "الفيديو"
       },
       "paragraphs":{
@@ -76,6 +83,7 @@
           "text":{
             "english": "Use the controls to play and pause the video, change the volume and enter full-screen view.",
             "turkish": "Video’yu oynatmak ve durdurmak, ses seviyesini değiştirmek ve tam ekran görünümüne geçmek için kontrolleri kullanın.",
+            "spanish": "Use los controles para reproducir y pausar el video, cambiar el volumen y activar la vista de pantalla completa.",
             "arabic": "استخدم مفاتيح التحكم لتشغيل وإيقاف مقطع الفيديو وتغيير مستوى جهارة الصوت وإدخال المنظر بملء الشاشة."
           }
         }

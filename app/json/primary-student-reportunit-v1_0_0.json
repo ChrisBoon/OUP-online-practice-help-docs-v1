@@ -2,6 +2,7 @@
  "title": {
     "english": "Student Unit Report",
     "turkish": "Öğrenci Ünite Raporu",
+    "spanish": "Informe de Unidades del Estudiante",
     "arabic": "تقرير وحدة الطالب"
   },
  "segment": "primary",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
+        "spanish": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "Use this menu to display reports for all units or display reports for separate units.",
             "turkish": "Tüm üniteler için raporları görüntülemek veya ayrı üniteler için raporları görüntülemek için bu menüyü kullanın.",
+            "spanish": "Utilice este menú para visualizar informes para todas las unidades, o informes para unidades por separado.",
             "arabic": "استخدم هذه القائمة لعرض تقارير لجميع الوحدات أو لعرض تقارير لوحدات منفصلة."
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "This row shows the scores for each activity in a lesson. The score is shown out of the total number of possible points in an activity.",
             "turkish": "Bu satır bir dersteki her bir aktivitenin puanlarını gösterir. Puan katıldığınız aktivitelerin mümkün olan toplam puan sayısı üzerinden gösterilir.",
+            "spanish": "Esta fila muestra las puntuaciones de cada actividad en una lección. La puntuación se muestra en base al número total de puntos posibles para una actividad.",
             "arabic": "يبين هذا الصف درجات كل نشاط في درس ما. يتم عرض درجة الرقم الإجمالي للنقاط الممكنة في نشاط ما."
           }
         },
@@ -44,6 +48,7 @@
           "text":{
             "english": "This row shows the number of attempts at each activity in a lesson.",
             "turkish": "Bu satır bir dersteki her bir aktiviteye toplam katılma sayınızı gösterir.",
+            "spanish": "Esta fila muestra el número de intentos para cada actividad en una lección.",
             "arabic": "يُظهِر هذا الصف عدد المحاولات الخاصة بكل نشاط في درس ما."
           }
         },
@@ -54,6 +59,7 @@
           "text":{
             "english": "This row shows the time taken for all attempts at each activity in a lesson.",
             "turkish": "Bu satır bir dersteki her bir aktivite için harcadığınız süreyi gösterir.",
+            "spanish": "Esta fila muestra el tiempo empleado para todos los intentos de cada actividad en una lección.",
             "arabic": "يُظهِر هذا الصف الوقت المُستغرَق في كل المحاولات الخاصة بكل نشاط في درس ما."
           }
         },
@@ -64,6 +70,7 @@
           "text":{
             "english": "The total score for a lesson is shown here.",
             "turkish": "Bir dersten aldığınız toplam puan burada gösterilir.",
+            "spanish": "Aquí se muestra la puntuación total para una lección.",
             "arabic": "يتم عرض الدرجة الإجمالية للدرس هنا."
           }
         },
@@ -74,6 +81,7 @@
           "text":{
             "english": "The total number of activity attempts for a lesson is shown here.",
             "turkish": "Bir derste katıldığınız toplam aktivite sayısı burada gösterilir.",
+            "spanish": "Aquí se muestra el número total de intentos para las actividades de una lección.",
             "arabic": "يتم عرض العدد الإجمالي لمحاولات النشاط الخاصة بدرس ما هنا."
           }
         },
@@ -84,6 +92,7 @@
           "text":{
             "english": "The total time taken on all activities in a lesson is shown here.",
             "turkish": "Bir dersteki tüm aktivitelerde harcadığınız toplam süre burada gösterilir.",
+            "spanish": "Aquí se muestra el tiempo total empleado para todas las actividades en una lección.",
             "arabic": "يتم عرض إجمالي الوقت المُستغرَق في كل الأنشطة الخاصة بدرس ماهنا."
           }
         }

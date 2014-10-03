@@ -2,6 +2,7 @@
  "title": {
     "english": "Try again! There isn’t a page at the address you chose.",
     "turkish": "Tekrar deneyin! Seçtiğiniz adreste bir sayfa yok.",
+    "spanish": "¡Vuelva a intentarlo! No existe una página en la dirección seleccionada.",
     "arabic": "حاول مرة أخرى! لا توجد صفحة في العنوان الذي اخترته."
   },
   "segment": "all",
@@ -16,6 +17,7 @@
           "text":{
             "english": "Use the slide-out menu to find the page you were looking for, or go to:",
             "turkish": "Aradığınız sayfayı bulmak için kaydırma menüsünü kullanın, ya da şuraya gidin:",
+            "spanish": "Utilice el menú deslizable para encontrar la página que buscaba, o vaya a:",
             "arabic": "استعمل قائمة الشرائح الخارجية للعثور على الصفحة التي تبحث عنها، أو انتقل إلى:"
           }
         },
@@ -23,6 +25,7 @@
           "text":{
             "english": "Online Practice Help",
             "turkish": "Çevrim İçi Uygulama Yardım.",
+            "spanish": "Ayuda de la Práctica Online.",
             "arabic": "المساعدة الخاصة بالممارسة عبر شبكة الإنترنت."
           }
         }

@@ -2,6 +2,7 @@
  "title": {
     "english": "Resources",
     "turkish": "Kaynaklar",
+    "spanish": "Recursos",
     "arabic": "الموارد"
   },
  "segment": "primary",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
+        "spanish": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "This is the Resources area. Where available, this area will provide supporting material for you when using Online Practice.",
             "turkish": "Burası Kaynaklar alanıdır. Varsa, Çevrim İçi Uygulamayı kullanırken destekleyici materyalleri burada bulabilirsiniz.",
+            "spanish": "Esta es el área de Recursos. De estar disponible, esta área proporcionará material de apoyo para cuando utilice la Práctica Online.",
             "arabic": "هذه هي منطقة الموارد وعندما تكون متاحة، فإن هذه المنطقة ستقدم موادًا داعمةً لك عند استخدام الممارسة عبر شبكة الإنترنت."
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "Click on a title to open a Resource. PDF files and documents will open in a new tab or download to your computer or device depending on your browser settings.",
             "turkish": "Bir Kaynağı açmak için başlığına tıklayın. PDF dosyaları ve belgeler yeni bir sekmede açılır ve tarayıcı ayarlarınıza bağlı olarak bilgisayarınıza ya da cihazınıza indirilir.",
+            "spanish": "Haga clic en un título para abrir un Recurso. Los archivos PDF y los documentos se abrirán en una nueva pestaña o se descargarán a su ordenador o dispositivo en función de la configuración de su navegador.",
             "arabic": "اانقر فوق عنوان ما لفتح أحد الموارد. وسوف يتم فتح ملفات PDF والوثائق في علامة تبويب جديدة أو تنزيلها على الحاسب أو الجهاز الخاص بك حسب إعدادات المتصفح الخاص بك."
           }
         },
@@ -44,6 +48,7 @@
           "text":{
             "english": "Click on an audio track title to play the file in the browser. Use the controls to play, pause and adjust the volume.",
             "turkish": "Tarayıcınızdaki dosyayı oynatmak için ses parçası başlığına tıklayın. Oynatmak, durdurmak ve sesi ayarlamak için kontrolleri kullanın.",
+            "spanish": "Haga clic en el título de un archivo de audio para reproducirlo en el navegador. Utilice los controles para reproducir, pausar y ajustar el volumen.",
             "arabic": "اانقر على أحد عناوين المسار الصوتي لتشغيل الملف داخل المتصفح. استخدم مفاتيح التحكم لتشغيل مستوى جهارة الصوت وإيقافه وضبطه."
           }
         }
