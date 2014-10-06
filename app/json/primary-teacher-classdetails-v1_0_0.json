@@ -2,6 +2,7 @@
  "title": {
     "english": "Class Details",
     "turkish": "Ders Ayrıntıları",
+    "spanish": "Detalles de la Clase",
     "arabic": "تفاصيل الفصل"
   },
  "segment": "primary",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
+        "spanish": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "Click here to change the name of this class.",
             "turkish": "Bu sınıfın adını değiştirmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para cambiar el nombre de esta clase.",
             "arabic": "انقر هنا لتغيير اسم هذا الفصل."
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "Click here to join an institution.",
             "turkish": "Bir kuruma katılmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para inscribirse en una institución.",
             "arabic": "انقر هنا للانضمام إلى مؤسسة ما."
           }
         },
@@ -44,6 +48,7 @@
           "text":{
             "english": "Check this box to delete this student from this class. Then click “Save Changes”.",
             "turkish": "Bu öğrenciyi bu sınıftan silmek için buraya tıklayın. Ardından “Save Changes” seçeneğine tıklayın.",
+            "spanish": "Marque esta casilla para eliminar al estudiante de esta clase. Luego haga clic en \"Save Changes\".",
             "arabic": "ضع علامة فيهذا المربع لحذف هذا الطالب من هذا الفصل. ثم انقر على “Save Changes”(\"حفظ التغييرات\")."
           }
         },
@@ -54,6 +59,7 @@
           "text":{
             "english": "Click here to go back to the previous screen. If you did not click “Save Changes” your changes will not be saved.",
             "turkish": "Bir önceki ekrana geri dönmek için buraya tıklayın. “Save Changes” seçeneğine tıklamazsanız, değişiklikleriniz kaydedilmez.",
+            "spanish": "Haga clic aquí para regresar a la pantalla anterior. Si no hizo clic en \"Save Changes\" no se guardarán los cambios.",
             "arabic": "انقر هنا للعودة إلى الشاشة السابقة. في حالة عدم النقر على “Save Changes”(\"حفظ التغييرات\"),فلن يتم حفظ التغييرات التي أجريتها."
           }
         },
@@ -64,6 +70,7 @@
           "text":{
             "english": "Click here to save the changes you made to this class.",
             "turkish": "Bu derste yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
             "arabic": "اانقر هنا لحفظ التغييرات التي أجريتهاعلى هذا الفصل."
           }
         }

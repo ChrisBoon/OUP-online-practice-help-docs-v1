@@ -2,6 +2,7 @@
  "title": {
     "english": "Add a Level",
     "turkish": "Seviye Ekle ",
+    "spanish": "Añadir un Nivel",
     "arabic": "إضافة مستوى"
   },
  "segment": "primary",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "Enter your access code",
         "turkish": "Erişim kodunuzu girin",
+        "spanish": "Ingrese su código de acceso",
         "arabic": "أدخل رمز الدخول الخاص بك."
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "Enter your Online Practice access code here. The access code is on your Teacher’s Access Code Card. You must have an access code to add a new level to your account.",
             "turkish": "Çevrim İçi Uygulama erişim kodunuzu buraya girin. Erişim kodu Öğretmen Erişim Kodu Kartınızın üzerindedir. Hesabınıza yeni bir seviye eklemek için bir erişim kodu gerekir.",
+            "spanish": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Profesor. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
             "arabic": "أأدخل رمز دخول الممارسة على الانترنت الخاص بك هنا. رمز الدخول موجود على بطاقة رمز دخول المعلم الخاصة بك. يجب أن يكون لديك رمز دخول لإضافة مستوى جديد إلى حسابك."
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "Click here to go to the Oxford University Press website for information on how to buy an access code.",
             "turkish": "Erişim kodunu nasıl alacağınıza dair bilgi edinmek üzere Oxford University Press internet sitesine gitmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ir al sitio web de Oxford University Press para obtener información acerca de cómo comprar un código de acceso.",
             "arabic": "انقر هنا للذهاب إلى موقع وكالة جامعة أكسفورد للحصول على معلومات حول كيفية شراء رمز دخول."
           }
         },
@@ -44,6 +48,7 @@
           "text":{
             "english": "Click here to submit your access code.",
             "turkish": "Erişim kodunuzu göndermek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para enviar su código de acceso.",
             "arabic": "انقر هنا لإرسال رمز الدخول الخاص بك."
           }
         },
@@ -54,6 +59,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para volver a la página anterior.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -64,6 +70,7 @@
           "text":{
             "english": "Click here to go to the next page after entering your access code.",
             "turkish": "Erişim kodunuzu girdikten sonra bir sonraki sayfaya geçmek için buraya tıklayın.",
+            "spanish": "Haz clic aquí para ir a la página siguiente una vez ingresado su código de acceso.",
             "arabic": "انقر هنا للذهاب إلى الصفحة التالية بعد إدخال رمز الدخول الخاص بك."
           }
         }
@@ -75,6 +82,7 @@
       "pageTitle": {
         "english": "Select a level",
         "turkish": "Bir seviye seçin",
+        "spanish": "Seleccione un nivel",
         "arabic": "حدد مستو"
       },
       "paragraphs":{
@@ -85,6 +93,7 @@
           "text":{
             "english": "Select a level. It is very important to select the level that you are using. Check to make sure it is the same level as your book.",
             "turkish": "Bir seviye seçin. Kullandığınız seviyenin seçilmesi son derece önemlidir. Kitabınızla aynı seviye olduğundan emin olmak için kontrol edin.",
+            "spanish": "Seleccione un nivel. Es muy importante seleccionar el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "arabic": "حدد مستوى. من الأهمية بمكان أن تحدد المستوى الذي تستخدمه. افحص للتأكد من أنه نفس مستوى كتابك."
           }
         },
@@ -95,6 +104,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para volver a la página anterior.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
@@ -106,6 +116,7 @@
       "pageTitle": {
         "english": "Join an institution",
         "turkish": "Bir kuruma katılın",
+        "spanish": "Inscribirse a una institución",
         "arabic": "الانضمام إلى مؤسسة"
       },
       "paragraphs":{
@@ -116,6 +127,7 @@
           "text":{
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
             "turkish": "Bir kurum ID kodunuz varsa, buraya girin. Bu, yöneticinizin size verebileceği bir koddur. Bu kod ders kayıtlarınızı okul ya da kuruma iletmenizi sağlar. Bir kurum ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Daha sonra Ders Ayrıntıları sayfasından “Join an Institution” seçeneğine a tıklayarak bir kurum ID kodu girebilirsiniz.",
+            "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga clic en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo clic en “Join an Institution” desde su página de Detalles de la Clase.",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فقم بإدخاله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك. "
           }
         },
@@ -126,6 +138,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para volver a la página anterior.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -136,6 +149,7 @@
           "text":{
             "english": "Click here if you do not have an institution ID code.",
             "turkish": "Bir kurum ID kodunuz yoksa buraya tıklayın.",
+            "spanish": "Haga clic aquí para saltarse esta página sin ingresar un nombre de clase.",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         },
@@ -146,6 +160,7 @@
           "text":{
             "english": "Click here to submit your institution ID code and go to your Home page.",
             "turkish": "Kurum ID kodunuzu göndermek ve Anasayfanıza gitmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاص بك وانتقل إلى الصفحة الرئيسية الخاصة بك."
           }
         }
@@ -157,6 +172,7 @@
       "pageTitle": {
         "english": "Create a class",
         "turkish": "Ders Oluştur",
+        "spanish": "Guarde el código de su clase",
         "arabic": "إنشاءفصل"
       },
       "paragraphs":{
@@ -167,6 +183,7 @@
           "text":{
             "english": "Enter a name for your first class. To create additional classes later, click “Manage Classes” from your Home page when you finish registering.",
             "turkish": "İlk dersiniz için bir ad girin. Daha sonra ek dersler oluşturmak için, kaydı tamamladıktan sonra Anasayfanızdan “Manage Classes” seçeneğine tıklayın.",
+            "spanish": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "arabic": "أأدخل اسم لأول فصل خاص بك. لإنشاء فصول إضافية لاحقًا؛ انقر على “Manage Classes”(\"إدارة الفصول\") من صفحتك الرئيسية عندما تنتهي من التسجيل."
           }
         },
@@ -177,6 +194,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para volver a la página anterior.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -187,6 +205,7 @@
           "text":{
             "english": "Click here to skip this page without entering a class name.",
             "turkish": "Bir ders adı girmeden bu sayfayı atlamak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para saltarse esta página sin ingresar un nombre de clase.",
             "arabic": "انقر هنا لتخطي هذه الصفحة بدون إدخال اسم فصل."
           }
         },
@@ -197,6 +216,7 @@
           "text":{
             "english": "Click here submit your class name and go to the next page.",
             "turkish": "Ders adınızı göndermek ve bir sonraki sayfaya gitmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "arabic": "انقر هنا لإرسال اسم الفصل الخاص بك وانتقل للصفحة التالية."
           }
         }
@@ -208,6 +228,7 @@
       "pageTitle": {
         "english": "Save your class code",
         "turkish": "Ders kodunuzu kaydedin",
+        "spanish": "Guarde el código de su clase",
         "arabic": "قم بحفظ رمز الفصل الخاص بك."
       },
       "paragraphs":{
@@ -218,6 +239,7 @@
           "text":{
             "english": "This is the class ID code for the class you named in the previous screen. Give this code to your students so they can join your class and you can see their work.",
             "turkish": "Bu bir önceki ekranda adını girdiğiniz dersin ID kodudur. Derse katılabilmeleri ve çalışmalarınızı görebilmeleri için bu kodu öğrencilerinize verin.",
+            "spanish": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "arabic": "انقر على رمز مُعرِّف الفصل الخاص بالفصل الذي قمت بتسميته في الشاشة السابقة. قم بإعطاء هذا الرمز لطلابك كي يتمكنوا من الانضمام إلى فصلك ويمكنهم رؤية العمل الخاص بهم."
           }
         },
@@ -228,6 +250,7 @@
           "text":{
             "english": "Click here to print this page for your records or to copy and share with your students.",
             "turkish": "Kayıtlarınız için bu sayfayı yazdırmak veya öğrencilerinize kopyalamak ve paylaşmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para imprimir esta página para sus registros o para copiar y compartir con sus estudiantes.",
             "arabic": "انقر هنا لطباعة هذه الصفحة الخاصة بسجلاتك أو نسخها ومشاركتها مع طلابك."
           }
         },
@@ -238,6 +261,7 @@
           "text":{
             "english": "Click here to return to your Home page.",
             "turkish": "Anasayfanıza dönmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para volver a la página de Inicio.",
             "arabic": "انقر هنا للعودة إلى الصفحة الرئيسية الخاصة بك."
           }
         }

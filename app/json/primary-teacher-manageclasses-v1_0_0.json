@@ -2,6 +2,7 @@
  "title": {
     "english": "Manage Classes",
     "turkish": "Dersleri Yönet",
+    "spanish": "Administrar Clases",
     "arabic": "إدارة الفصول"
   },
  "segment": "primary",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
+        "spanish": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "This screen shows all of the classes that you have created.",
             "turkish": "Bu ekran oluşturduğunuz tüm dersleri gösterir.",
+            "spanish": "Esta pantalla muestra todas las clases que ha creado.",
             "arabic": "تُظهِر هذه الشاشة جميع الفصول التي قمت بإنشائها."
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "Click here to view the details for a class. You can view your students, view your class ID code, change the name of this class, delete students’ accounts, or join an institution.",
             "turkish": "Dersin ayrıntılarını görüntülemek için buraya tıklayın. Öğrencilerinizi ve sınıf ID kodunuzu görüntüleyebilir, bir dersin adını değiştirebilir, öğrencilerin hesaplarını silebilir ya da bir kuruma katılabilirsiniz.",
+            "spanish": "Haga clic aquí para ver los detalles de una clase. Puede ver sus estudiantes, su código de ID de clase, cambiar el nombre de esta clase, eliminar las cuentas de los estudiantes, o inscribirse en una institución.",
             "arabic": "انقر هنا لعرض التفاصيل عن فصل ما. يمكنك عرض طلابك أو عرض رمز مُعرِّف الفصل الخاص بك أو تغيير اسم هذا الفصل أو حذف حسابات الطلاب أو الانضمام لإحدى المؤسسات."
           }
         },
@@ -44,6 +48,7 @@
           "text":{
             "english": "Click here to hide units or lessons for your class.",
             "turkish": "Dersinizin ünite veya konularını gizlemek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ocultar unidades o lecciones para su clase.",
             "arabic": "انقر هنا لإخفاء الوحدات أو الدروس الخاصة بالفصل الخاص بك."
           }
         },
@@ -54,6 +59,7 @@
           "text":{
             "english": "Click here to view your class and student reports.",
             "turkish": "Ders ve öğrenci raporlarınızı görüntülemek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ver los informes de clase y de los estudiantes.",
             "arabic": "انقر هنا لعرض التقارير الخاصة بفصلك وطلابك."
           }
         },
@@ -64,6 +70,7 @@
           "text":{
             "english": "Click here to delete a class.",
             "turkish": "Bir dersi silmek için buraya tıklayın.",
+            "spanish": "Haz clic aquí para eliminar una clase.",
             "arabic": "انقر هنا لحذف أحد الفصول."
           }
         },
@@ -74,6 +81,7 @@
           "text":{
             "english": "Click here to create a new class. (To add a new level, go to your Home page and click “Add a Level”.)",
             "turkish": "Yeni bir ders oluşturmak için buraya tıklayın. (Yeni bir seviye eklemek için, Anasayfaya gidin ve “Add a Level” seçeneğine tıklayın.)",
+            "spanish": "Haga clic aquí para crear una nueva clase. (Para añadir un nuevo nivel, vaya a su página de Inicio y haga clic en \"Add a Level\".)",
             "arabic": "انقر هنا لإنشاء فصل جديد. (لإضافة مستوى جديد؛ انتقل إلى الصفحة الرئيسية وانقر“Add a Level”( \"إضافة مستوى\").)"
           }
         }

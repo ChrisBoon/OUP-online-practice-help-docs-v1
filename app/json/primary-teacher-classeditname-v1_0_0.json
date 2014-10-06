@@ -2,6 +2,7 @@
  "title": {
     "english": "Edit Class Name",
     "turkish": "Ders Adını Düzenle",
+    "spanish": "Editar Nombre de la Clase",
     "arabic": "تحرير اسم الفصل"
   },
  "segment": "primary",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
+        "spanish": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "Enter the new name for your class. Then click “Save”. If you do not want to change the name of your class, click “Cancel”.",
             "turkish": "Dersinize yeni adını girin. Ardından “Save”e tıklayın. Dersinizin adını değiştirmek istemiyorsanız, “Cancel” seçeneğine tıklayın.",
+            "spanish": "Ingrese el nuevo nombre para la clase. Luego haga clic en \"Save\". Si no desea cambiar el nombre de su clase, haga clic en \"Cancel\".",
             "arabic": "أدخل الاسم الجديد لفصلك. ثم انقر على “Save”(\"حفظ\"). إذا كنت لا ترغب في تغيير اسم فصلك، فانقر على “Cancel”(\"إلغاء\")."
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "Click here to save your class name and return to the Class Details page.",
             "turkish": "Ders adınızı kaydetmek ve Ders Ayrıntıları sayfasına geri dönmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para guardar el nombre de su clase y regresar a la página de Detalles de la Clase.",
             "arabic": "انقر هنا لحفظ اسم فصلك والعودة إلى صفحة التفاصيل الخاصة بالفصل."
           }
         },
@@ -44,6 +48,7 @@
           "text":{
             "english": "Click here to go back to the Class Details page without saving any changes.",
             "turkish": "Değişiklikleri kaydetmeden Ders Ayrıntıları sayfasına geri dönmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para volver a la página de Detalles de la Clase sin guardar los cambios.",
             "arabic": "انقر هنا للعودة إلى صفحة تفاصيل الفصل دون حفظ أي تغييرات."
           }
         }

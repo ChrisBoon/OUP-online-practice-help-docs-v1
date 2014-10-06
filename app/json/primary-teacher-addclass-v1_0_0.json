@@ -2,6 +2,7 @@
  "title": {
     "english": "Add a New Class",
     "turkish": "Yeni Ders Ekle",
+    "spanish": "Añadir una Nueva Clase",
     "arabic": "إضافة فصل جديد"
   },
  "segment": "primary",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "Choose a level",
         "turkish": "Seviye seç",
+        "spanish": "Elija un nivel",
         "arabic": "حدد مستوى"
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "Choose a level for your new class.",
             "turkish": "Yeni dersiniz için bir seviye seçin.",
+            "spanish": "Seleccione un nivel para su nueva clase.",
             "arabic": "حدد مستوى لفصلك الجديد."
           }
         }
@@ -35,6 +38,7 @@
       "pageTitle": {
         "english": "Enter your institution code",
         "turkish": "Kurum adınızı girin",
+        "spanish": "Introduzca su código de institución",
         "arabic": "أدخل رمز المؤسسة الخاص"
       },
       "paragraphs":{
@@ -45,6 +49,7 @@
           "text":{
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
             "turkish": "Bir kurum ID kodunuz varsa, buraya girin. Bu yöneticinizden size verebileceği bir koddur. Bu kod ders kayıtlarınızı okul ya da kuruma iletmenizi sağlar. Bir kurum ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Daha sonra Ders Ayrıntıları sayfasından “Join an Institution”a tıklayarak bir kurum ID kodu girebilirsiniz.",
+            "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga clic en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo clic en “Join an Institution” desde su página de Detalles de la Clase.",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فقم بإدخاله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك."
           }
         },
@@ -55,6 +60,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para volver a la página anterior.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -65,6 +71,7 @@
           "text":{
             "english": "Click here if you do not have an institution ID code.",
             "turkish": "Bir kurum ID kodunuz yoksa buraya tıklayın.",
+            "spanish": "Haga clic aquí si no tiene un código de ID de institución.",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         },
@@ -75,6 +82,7 @@
           "text":{
             "english": "Click here to submit your institution ID code and go to the next page.",
             "turkish": "Kurum ID kodunuzu göndermek ve sonraki sayfaya gitmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para enviar su código de ID de institución y avanzar a la página siguiente.",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاص بك وانتقل إلى الصفحة التالية."
           }
         }
@@ -86,6 +94,7 @@
       "pageTitle": {
         "english": "Create a class name",
         "turkish": "Bir ders adı oluştur",
+        "spanish": "Crear un nombre de clase",
         "arabic": "إنشاء اسم للفصل"
       },
       "paragraphs":{
@@ -96,6 +105,7 @@
           "text":{
             "english": "Enter a name for your class here.",
             "turkish": "Ders adınızı buraya girin.",
+            "spanish": "Ingrese un nombre para su clase aquí.",
             "arabic": "أدخل اسمًا لفصلك هنا."
           }
         }
@@ -107,6 +117,7 @@
       "pageTitle": {
         "english": "Save your class ID code",
         "turkish": "Ders ID kodunuzu kaydedin",
+        "spanish": "Guarde su código de ID de clase",
         "arabic": "احفظ رمز مُعرِّف الفصل الخاص بك."
       },
       "paragraphs":{
@@ -117,6 +128,7 @@
           "text":{
             "english": "This is the ID code for your new class. Save the code and distribute it to your students. They will be able to join your class with the new code and you will be able to see their reports.",
             "turkish": "Bu yeni dersinize ait ID kodudur. Kodu kaydedin ve öğrencilerinize dağıtın. Bu yeni kodla birlikte dersinize katılabilirler, siz de raporlarını görüntüleyebilirsiniz.",
+            "spanish": "Este es el código de identificación para su nueva clase. Guarde el código y compártalo con sus estudiantes. Ellos podrán inscribirse a su clase con el nuevo código y usted podrá ver sus informes.",
             "arabic": "هذا هو رمز مُعرِّف الفصل الجديد الخاص بك. احفظ الرمز ووزعه على طلابك. سوف يكون بإمكانهم الانضمام إلى فصلك من خلال الرمز الجديد، وسوف تكون قادرًا على رؤية تقاريرهم."
           }
         }
