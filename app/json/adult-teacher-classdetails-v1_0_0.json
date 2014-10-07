@@ -1,0 +1,69 @@
+{
+ "title": {
+    "english": "Class Details",
+    "turkish": "Ders Ayrıntıları",
+    "spanish": "Detalles de la Clase",
+    "arabic": "تفاصيل الفصل"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATCD001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 15,
+          "numberPosLeft": 26,
+          "text":{
+            "english": "Click here to change the name of this class.",
+            "turkish": "Bu sınıfın adını değiştirmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para cambiar el nombre de esta clase.",
+            "arabic": "انقر هنا لتغيير اسم هذا الفصل."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 15,
+          "numberPosLeft": 38,
+          "text":{
+            "english": "Check this box to delete this student from this class. Then click “Save Changes”.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 52,
+          "numberPosLeft": 7,
+          "text":{
+            "english": "Click here to go back to the previous screen. If you did not click “Save Changes” your changes will not be saved.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 83,
+          "numberPosLeft": 13,
+          "text":{
+            "english": "Click here to save the changes you made to this class.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+ "title": {
+    "english": "Hide Units and Lessons",
+    "turkish": "Üniteleri ve Konuları Gizle",
+    "spanish": "Ocultar Unidades y Lecciones",
+    "arabic": "إخفاء الوحدات والدروس"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATCA001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 2.5,
+          "numberPosLeft": 29,
+          "text":{
+            "english": "You can hide content from your students by checking the boxes on this page.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 2.5,
+          "numberPosLeft": 62,
+          "text":{
+            "english": "Choose a class using the menu.",
+            "turkish": "Menüyü kullanarak bir ders seçin.",
+            "spanish": "Elija una clase utilizando el menú.",
+            "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 31,
+          "numberPosLeft": 4,
+          "text":{
+            "english": "Check a box here to hide a whole segment.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 21,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "Check a box here to hide selected units within a segment.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 94,
+          "numberPosLeft": 24,
+          "text":{
+            "english": "Click here to save the changes you made to this class.",
+            "turkish": "Bu derste yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
+            "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
+          }
+        }
+      }
+    }
+  }
+}

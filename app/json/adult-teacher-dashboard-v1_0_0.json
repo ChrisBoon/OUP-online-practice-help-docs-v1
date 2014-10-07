@@ -1,0 +1,124 @@
+{
+ "title": {
+    "english": "Achievements",
+    "turkish": "Başarılar",
+    "spanish": "Logros",
+    "arabic": "التحصيل"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATD001.png",
+      "pageTitle": {
+        "english": "Trophy Room",
+        "turkish": "Zafer Odası",
+        "spanish": "Sala de Trofeos",
+        "arabic": "غرفة الميداليات"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 17,
+          "numberPosLeft": 49,
+          "text":{
+            "english": "This is the Trophy Room. You can see each of your students’ Trophy Room areas by clicking on “Achievements” in the Student Report area.",
+            "turkish": "Burası Zafer Odasıdır. Öğrenci Rapor alanında “Achievements”üzerine tıklayarak her öğrencinin Zafer Odası alanını görebilirsiniz.",
+            "spanish": "Esta es la Sala de Trofeos. Puede ver las áreas de la Sala de Trofeos de cada uno de sus estudiantes haciendo clic en \"Achievements\", en el área de Informes de Estudiantes.",
+            "arabic": "هذه هي غرفة الميداليات. يمكنك أن ترى كل مناطق غرفة الميداليات الخاصة بطلابك بالضغط على “Achievements” (\"التحصيل\") في منطقة تقرير الطالب."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 27,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "Stars are awarded in the Trophy Room for the number of points a student has scored across the activities in a level.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 37,
+          "numberPosLeft": 31,
+          "text":{
+            "english": "If a student has scored 30% of the total possible points in a unit, they are awarded a star.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 23,
+          "numberPosLeft": 34,
+          "text":{
+            "english": "If a student has scored 70% of the total possible points in a unit, they are awarded two stars.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 23,
+          "numberPosLeft": 42,
+          "text":{
+            "english": "If a student has scored 90% of the total possible points in a unit, they are awarded three stars.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 23,
+          "numberPosLeft": 49,
+          "text":{
+            "english": "If a student has scored 100% of the total possible points in a unit, they are awarded a trophy.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 23,
+          "numberPosLeft": 56,
+          "text":{
+            "english": "This is the student Dashboard. The Online Practice is divided into several areas, for example, Test, Vocabulary, and Practice. The Dashboard shows student activity results for a level across the different areas.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 79,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "Results for activities within different areas are displayed as a percentage based on the average score of all completed activities in an area within a level.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 87,
+          "numberPosLeft": 3,
+          "text":{
+            "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        }
+      }
+    }
+  }
+}

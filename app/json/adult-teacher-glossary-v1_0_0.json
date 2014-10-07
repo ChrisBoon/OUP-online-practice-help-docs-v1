@@ -1,0 +1,58 @@
+{
+ "title": {
+    "english": "Glossary",
+    "turkish": "Sözlük",
+    "spanish": "Glosario",
+    "arabic": "المسرد"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATG001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 2,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "The Glossary contains all core vocabulary in a level. Click on a letter to go to the words beginning with that letter in the Glossary.",
+            "turkish": "Sözlük, bir seviyedeki temel kelimelerin tümünü içerir. Sözlükte o harfle başlayan kelimelere gitmek için bir harfe tıklayın.",
+            "spanish": "El Glosario contiene todo el vocabulario básico de un nivel. Haga clic en una letra para acceder a las palabras del Glosario que comienzan con esa letra.",
+            "arabic": "يحتوي المسرد على جميع المفردات الأساسية في مستوى ما. انقر فوق حرف ما للانتقال إلى الكلمات التي تبدأ بهذا الحرف في المسرد."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 13,
+          "numberPosLeft": 12,
+          "text":{
+            "english": "Type a word in the text box to search for a word. The Glossary automatically searches for the word.",
+            "turkish": "Bir kelimeyi aramak için metin kutusuna girin. Sözlük otomatik olarak kelimeyi aratır.",
+            "spanish": "Escriba una palabra en el cuadro de texto para buscarla. El Glosario busca la palabra de forma automática.",
+            "arabic": "قم بكتابة كلمة في المربع الحواري للبحث عنها. سيبحث المسرد بشكل تلقائي عن الكلمة."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 36,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "Scroll through the menu and choose a word to see the definition and examples.",
+            "turkish": "_",
+            "spanish": "_",
+            "arabic": "_"
+          }
+        }
+      }
+    }
+  }
+}
