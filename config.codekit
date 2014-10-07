@@ -38,6 +38,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/example.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/example.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/explorers.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -60,7 +69,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 9205,
+		"initialSize": 112839,
 		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-eos-2x.png",
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-eos-2x.png",
 		"outputPathIsOutsideProject": 0,

@@ -58,9 +58,9 @@
           "numberPosLeft": 34,
           "text":{
             "english": "If a student has scored 30% of the total possible points in a unit they are awarded a bronze star.",
-            "turkish": "• Öğrenci bir ünitede mümkün olan toplam puanların %30’unu alırsa bronz bir yıldızla ödüllendirilir.",
-            "spanish": "• Si un estudiante obtiene el 30% del total de puntos posibles en una unidad, se le otorga una estrella de bronce.",
-            "arabic": "•  إذا أحرز الطالب 30% من مجموع النقاط الممكنة في وحدة ما, يتم منحه نجمة برونزية."
+            "turkish": "Öğrenci bir ünitede mümkün olan toplam puanların %30’unu alırsa bronz bir yıldızla ödüllendirilir.",
+            "spanish": "Si un estudiante obtiene el 30% del total de puntos posibles en una unidad, se le otorga una estrella de bronce.",
+            "arabic": "إذا أحرز الطالب 30% من مجموع النقاط الممكنة في وحدة ما, يتم منحه نجمة برونزية."
           }
         },
         "paragraph05": {
@@ -69,9 +69,9 @@
           "numberPosLeft": 42,
           "text":{
             "english": "If a student has scored 70% of the total possible points in a unit they are awarded a silver star.",
-            "turkish": "• Öğrenci bir ünitede mümkün olan toplam puanların %70’ini alırsa gümüş bir yıldızla ödüllendirilir.",
-            "spanish": "• Si un estudiante obtiene el 70% del total de puntos posibles en una unidad, se le otorga una estrella de plata.",
-            "arabic": "•  ذا أحرز الطالب 70% من مجموع النقاط الممكنة في وحدة ما، يتم منحه نجمة فضية."
+            "turkish": "Öğrenci bir ünitede mümkün olan toplam puanların %70’ini alırsa gümüş bir yıldızla ödüllendirilir.",
+            "spanish": "Si un estudiante obtiene el 70% del total de puntos posibles en una unidad, se le otorga una estrella de plata.",
+            "arabic": "ذا أحرز الطالب 70% من مجموع النقاط الممكنة في وحدة ما، يتم منحه نجمة فضية."
           }
         },
         "paragraph06": {
@@ -80,9 +80,9 @@
           "numberPosLeft": 49,
           "text":{
             "english": "If a student has scored 90% of the total possible points in a unit they are awarded a gold star.",
-            "turkish": "• Öğrenci bir ünitede mümkün olan toplam puanların %90’ını alırsa altın bir yıldızla ödüllendirilir.",
-            "spanish": "• Si un estudiante obtiene el 90% del total de puntos posibles en una unidad, se le otorga una estrella de oro.",
-            "arabic": "•  ذا أحرز الطالب 90% من مجموع النقاط الممكنة في وحدة ما، يتم منحه نجمة ذهبية."
+            "turkish": "Öğrenci bir ünitede mümkün olan toplam puanların %90’ını alırsa altın bir yıldızla ödüllendirilir.",
+            "spanish": "Si un estudiante obtiene el 90% del total de puntos posibles en una unidad, se le otorga una estrella de oro.",
+            "arabic": "ذا أحرز الطالب 90% من مجموع النقاط الممكنة في وحدة ما، يتم منحه نجمة ذهبية."
           }
         },
         "paragraph07": {
@@ -91,9 +91,9 @@
           "numberPosLeft": 56,
           "text":{
             "english": "If a student has scored 100% of the total possible points in a unit they are awarded a trophy.",
-            "turkish": "• Öğrenci bir ünitede mümkün olan toplam puanların %100’ünü alırsa kupayla ödüllendirilir.",
-            "spanish": "• Si un estudiante obtiene el 100% del total de puntos posibles en una unidad, se le otorga un trofeo.",
-            "arabic": "•  إذا أحرزا لطالب 100% من مجموع النقاط الممكنة في وحدة ما، يتم منحه ميدالية."
+            "turkish": "Öğrenci bir ünitede mümkün olan toplam puanların %100’ünü alırsa kupayla ödüllendirilir.",
+            "spanish": "Si un estudiante obtiene el 100% del total de puntos posibles en una unidad, se le otorga un trofeo.",
+            "arabic": "إذا أحرزا لطالب 100% من مجموع النقاط الممكنة في وحدة ما، يتم منحه ميدالية."
           }
         },
         "paragraph08": {

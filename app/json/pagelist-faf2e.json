@@ -4,6 +4,7 @@
     "userType": {
         "english": "Teacher",
         "turkish": "Öğretmen",
+        "spanish": "Profesor",
         "arabic": "المعلم"
       },
     "docsList":{
@@ -12,6 +13,7 @@
         "title": {
           "english": "Registration",
           "turkish": "Kayıt",
+          "spanish": "Registro",
           "arabic": "التسجيل"
         },
         "id": "primary-teacher-registration-v1_0_0"
@@ -21,6 +23,7 @@
         "title": {
           "english": "Home",
           "turkish": "Anasayfa",
+          "spanish": "Inicio",
           "arabic": "الصفحة الرئيسية"
         },
         "id": "primary-teacher-home-v1_0_0"
@@ -30,6 +33,7 @@
         "title": {
           "english": "Manage Classes",
           "turkish": "Sınıfları Yönet",
+          "spanish": "Administrar Clases",
           "arabic": "إدارة الفصول"
         },
         "id": "primary-teacher-manageclasses-v1_0_0"
@@ -39,6 +43,7 @@
         "title": {
           "english": "Class Details",
           "turkish": "Sınıf Ayrıntıları",
+          "spanish": "Detalles de la Clase",
           "arabic": "تفاصيل الفصل"
         },
         "id": "primary-teacher-classdetails-v1_0_0"
@@ -48,6 +53,7 @@
         "title": {
           "english": "Edit Class Name",
           "turkish": "Sınıf Adını Düzenle",
+          "spanish": "Editar Nombre de la Clase",
           "arabic": "تحرير اسم الفصل"
         },
         "id": "primary-teacher-classeditname-v1_0_0"
@@ -57,6 +63,7 @@
         "title": {
           "english": "Join an Institution",
           "turkish": "Bir Kuruma Kaydol",
+          "spanish": "Unirse a una Institución",
           "arabic": "الانضمام إلى مؤسسة"
         },
         "id": "primary-teacher-joininstitution-v1_0_0"
@@ -66,6 +73,7 @@
         "title": {
           "english": "Hide Units and Lessons",
           "turkish": "Üniteleri ve Konuları Gizle",
+          "spanish": "Ocultar Unidades y Lecciones",
           "arabic": "إخفاء الوحدات والدروس"
         },
         "id": "primary-teacher-contentassign-v1_0_0"
@@ -75,6 +83,7 @@
         "title": {
           "english": "Add a New Class",
           "turkish": "Yeni Sınıf Ekle",
+          "spanish": "Añadir una Nueva Clase",
           "arabic": "إضافة فصل جديد"
         },
         "id": "primary-teacher-addclass-v1_0_0"
@@ -84,6 +93,7 @@
         "title": {
           "english": "Class Summary Report",
           "turkish": "Sınıf Özeti Raporu",
+          "spanish": "Informe de Resumen de la Clase",
           "arabic": "تقرير موجز الفصل"
         },
         "id": "primary-teacher-reportclasssummary-v1_0_0"
@@ -93,6 +103,7 @@
         "title": {
           "english": "Class Report",
           "turkish": "Sınıf Raporu",
+          "spanish": "Informe de la Clase",
           "arabic": "التقرير الخاص بالفصل"
         },
         "id": "primary-teacher-reportclass-v1_0_0"
@@ -102,6 +113,7 @@
         "title": {
           "english": "Student Report",
           "turkish": "Öğrenci Raporu",
+          "spanish": "Informe del Estudiante",
           "arabic": "تقرير عن الطالب"
         },
         "id": "primary-teacher-reportstudent-v1_0_0"
@@ -111,6 +123,7 @@
         "title": {
           "english": "Achievements",
           "turkish": "Başarılar",
+          "spanish": "Logros",
           "arabic": "التحصيل"
         },
         "id": "primary-teacher-dashboard-v1_0_0"
@@ -120,6 +133,7 @@
         "title": {
           "english": "Unit Report",
           "turkish": "Ünite Raporu",
+          "spanish": "Informe de la Unidad",
           "arabic": "تقرير الوحدة"
         },
         "id": "primary-teacher-reportunit-v1_0_0"
@@ -129,6 +143,7 @@
         "title": {
           "english": "Lesson Report",
           "turkish": "Konu Raporu",
+          "spanish": "Informe de la Lección",
           "arabic": "تقرير عن الدرس"
         },
         "id": "primary-teacher-reportlesson-v1_0_0"
@@ -138,6 +153,7 @@
         "title": {
           "english": "Student Activity Report",
           "turkish": "Öğrenci Aktivite Raporu",
+          "spanish": "Informe de Actividad Estudiantil",
           "arabic": "تقرير نشاط الطالب"
         },
         "id": "primary-teacher-reportstudentactivity-v1_0_0"
@@ -147,6 +163,7 @@
         "title": {
           "english": "Enter Online Practice",
           "turkish": "Online Uygulamaya Gir",
+          "spanish": "Ingresar a Práctica Online",
           "arabic": "إدخال الممارسة على الإنترنت"
         },
         "id": "primary-teacher-enteronlinepractice-v1_0_0"
@@ -156,6 +173,7 @@
         "title": {
           "english": "Activities",
           "turkish": "Aktivitler",
+          "spanish": "Actividades",
           "arabic": "أنشطة"
         },
         "id": "primary-teacher-activities-v1_0_0"
@@ -165,6 +183,7 @@
         "title": {
           "english": "Glossary",
           "turkish": "Sözlük",
+          "spanish": "Glosario",
           "arabic": "المسرد"
         },
         "id": "primary-teacher-glossary-v1_0_0"
@@ -174,6 +193,7 @@
         "title": {
           "english": "Resources",
           "turkish": "Kaynaklar",
+          "spanish": "Recursos",
           "arabic": "الموارد"
         },
         "id": "primary-teacher-resources-v1_0_0"
@@ -183,6 +203,7 @@
         "title": {
           "english": "Media Centre",
           "turkish": "Medya Merkezi",
+          "spanish": "Centro de Medios",
           "arabic": "مركز الوسائط"
         },
         "id": "primary-teacher-media-v1_0_0"
@@ -192,6 +213,7 @@
         "title": {
           "english": "Add a Level",
           "turkish": "Seviye Ekle",
+          "spanish": "Añadir un Nivel",
           "arabic": "إضافة مستوى"
         },
         "id": "primary-teacher-addlevel-v1_0_0"
@@ -201,6 +223,7 @@
         "title": {
           "english": "Email",
           "turkish": "Email",
+          "spanish": "Correo electrónico",
           "arabic": "البريد الإلكتروني"
         },
         "id": "primary-teacher-email-v1_0_0"
@@ -210,6 +233,7 @@
         "title": {
           "english": "Forum",
           "turkish": "Forum",
+          "spanish": "Foro",
           "arabic": "المنتدى"
         },
         "id": "primary-teacher-forum-v1_0_0"
@@ -219,6 +243,7 @@
         "title": {
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
+          "spanish": "Editar Perfil",
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "primary-teacher-editprofile-v1_0_0"
@@ -230,6 +255,7 @@
     "userType": {
         "english": "Student",
         "turkish": "Öğrenci",
+        "spanish": "Estudiante",
         "arabic": "الطالب"
       },
     "docsList":{
@@ -238,6 +264,7 @@
         "title": {
           "english": "Registration",
           "turkish": "Kayıt",
+          "spanish": "Registro",
           "arabic": "التسجيل"
         },
         "id": "primary-student-registration-v1_0_0"
@@ -247,6 +274,7 @@
         "title": {
           "english": "Home",
           "turkish": "Anasayfa",
+          "spanish": "Inicio",
           "arabic": "الصفحة الرئيسية"
         },
         "id": "primary-student-home-v1_0_0"
@@ -256,6 +284,7 @@
         "title": {
           "english": "Add a Level",
           "turkish": "Seviye Ekle",
+          "spanish": "Añadir un Nivel",
           "arabic": "إضافة مستوى"
         },
         "id": "primary-student-addlevel-v1_0_0"
@@ -265,6 +294,7 @@
         "title": {
           "english": "Activities",
           "turkish": "Aktiviteler",
+          "spanish": "Actividades",
           "arabic": "أنشطة"
         },
         "id": "primary-student-activities-v1_0_0"
@@ -274,6 +304,7 @@
         "title": {
           "english": "Glossary",
           "turkish": "Sözlük",
+          "spanish": "Glosario",
           "arabic": "المسرد"
         },
         "id": "primary-student-glossary-v1_0_0"
@@ -283,6 +314,7 @@
         "title": {
           "english": "Resources",
           "turkish": "Kaynaklar",
+          "spanish": "Recursos",
           "arabic": "الموارد"
         },
         "id": "primary-student-resources-v1_0_0"
@@ -292,6 +324,7 @@
         "title": {
           "english": "Achievements",
           "turkish": "Başarılar",
+          "spanish": "Logros",
           "arabic": "التحصيل"
         },
         "id": "primary-student-dashboard-v1_0_0"
@@ -301,6 +334,7 @@
         "title": {
           "english": "Report",
           "turkish": "Rapor",
+          "spanish": "Informe",
           "arabic": "التقرير"
         },
         "id": "primary-student-reportprogress-v1_0_0"
@@ -310,6 +344,7 @@
         "title": {
           "english": "Unit Report",
           "turkish": "Ünite Raporu",
+          "spanish": "Informe de la Unidad",
           "arabic": "تقرير الوحدة"
         },
         "id": "primary-student-reportunit-v1_0_0"
@@ -319,6 +354,7 @@
         "title": {
           "english": "Email",
           "turkish": "Email",
+          "spanish": "Correo electrónico",
           "arabic": "البريد الإلكتروني"
         },
         "id": "primary-student-email-v1_0_0"
@@ -328,6 +364,7 @@
         "title": {
           "english": "Forum",
           "turkish": "Forum",
+          "spanish": "Foro",
           "arabic": "المنتدى"
         },
         "id": "primary-student-forum-v1_0_0"
@@ -337,6 +374,7 @@
         "title": {
           "english": "Media Centre",
           "turkish": "Medya Merkezi",
+          "spanish": "Centro de Medios",
           "arabic": "مركز الوسائط"
         },
         "id": "primary-student-media-v1_0_0"
@@ -346,6 +384,7 @@
         "title": {
           "english": "Join a Class",
           "turkish": "Sınıfa Katıl",
+          "spanish": "Inscribirse a una Clase",
           "arabic": "الانضمام إلى فصل"
         },
         "id": "primary-student-classjoin-v1_0_0"
@@ -355,6 +394,7 @@
         "title": {
           "english": "Change Class",
           "turkish": "Sınıf Değiştir",
+          "spanish": "Cambio de Clase",
           "arabic": "تغيير الفصل"
         },
         "id": "primary-student-classchange-v1_0_0"
@@ -364,6 +404,7 @@
         "title": {
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
+          "spanish": "Editar Perfil",
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "primary-student-editprofile-v1_0_0"
@@ -375,6 +416,7 @@
     "userType": {
         "english": "Administrator",
         "turkish": "Yönetici",
+        "spanish": "Administrador",
         "arabic": "مراقب النظام"
       },
     "docsList":{
@@ -383,6 +425,7 @@
         "title": {
           "english": "Registration",
           "turkish": "Kayıt",
+          "spanish": "Registro",
           "arabic": "التسجيل"
         },
         "id": "primary-admin-registration-v1_0_0"
@@ -392,6 +435,7 @@
         "title": {
           "english": "Home",
           "turkish": "Anasayfa",
+          "spanish": "Inicio",
           "arabic": "الصفحة الرئيسية"
         },
         "id": "primary-admin-home-v1_0_0"
@@ -401,6 +445,7 @@
         "title": {
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
+          "spanish": "Editar Perfil",
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "primary-admin-editprofile-v1_0_0"
