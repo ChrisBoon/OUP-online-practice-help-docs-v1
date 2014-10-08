@@ -13,7 +13,7 @@
       "pageType": "screenshot",
       "imgId": "ASAL001.png",
       "pageTitle": {
-        "english": "Enter you access code",
+        "english": "Enter your access code",
         "turkish": "Erişim kodunuzu girin",
         "spanish": "Ingrese su código de acceso",
         "arabic": "أأدخل رمز الدخول الخاص بك"
@@ -78,7 +78,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "PSAL002.png",
+      "imgId": "ASAL002.png",
       "pageTitle": {
         "english": "Choose a level",
         "turkish": "Seviye seç",
@@ -112,7 +112,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "PSAL003.png",
+      "imgId": "ASAL003.png",
       "pageTitle": {
         "english": "Join a class",
         "turkish": "Derse katıl",

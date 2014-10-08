@@ -10,7 +10,7 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PSE001.png",
+      "imgId": "ASE001.png",
       "pageTitle": {
         "english": "Your messages",
         "turkish": "Mesajlarınız",
@@ -91,7 +91,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "PSE002.png",
+      "imgId": "ASE002.png",
       "pageTitle": {
         "english": "Write a message",
         "turkish": "Mesaj yaz",
@@ -122,7 +122,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "PSE003.png",
+      "imgId": "ASE003.png",
       "pageTitle": {
         "english": "Send your message",
         "turkish": "Mesajınızı gönderin",

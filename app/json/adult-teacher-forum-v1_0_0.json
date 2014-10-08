@@ -34,7 +34,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "PTF002.png",
+      "imgId": "ATF002.png",
       "pageTitle": {
         "english": "Write a post",
         "turkish": "Gönderi yaz",
@@ -123,7 +123,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "PTF003.png",
+      "imgId": "ATF003.png",
       "pageTitle": {
         "english": "Reply to or delete posts",
         "turkish": "Gönderileri yanıtla ya da sil",

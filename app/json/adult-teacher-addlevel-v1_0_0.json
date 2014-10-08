@@ -78,7 +78,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "PTAL002.png",
+      "imgId": "ATAL002.png",
       "pageTitle": {
         "english": "Select a level",
         "turkish": "Bir seviye seçin",
@@ -112,7 +112,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "PTAL003.png",
+      "imgId": "ATAL003.png",
       "pageTitle": {
         "english": "Join an institution",
         "turkish": "Bir kuruma katılın",
@@ -168,7 +168,7 @@
     },
     "page04": {
       "pageType": "screenshot",
-      "imgId": "PTAL004.png",
+      "imgId": "ATAL004.png",
       "pageTitle": {
         "english": "Create a class",
         "turkish": "Ders Oluştur",
@@ -224,7 +224,7 @@
     },
     "page05": {
       "pageType": "screenshot",
-      "imgId": "PTAL005.png",
+      "imgId": "ATAL005.png",
       "pageTitle": {
         "english": "Save your class code",
         "turkish": "Ders kodunuzu kaydedin",

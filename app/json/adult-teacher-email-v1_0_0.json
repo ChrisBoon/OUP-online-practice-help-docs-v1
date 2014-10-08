@@ -11,7 +11,7 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTE001.png",
+      "imgId": "ATE001.png",
       "pageTitle": {
         "english": "Choose a class",
         "turkish": "Ders seç",
@@ -34,7 +34,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "PTE002.png",
+      "imgId": "ATE002.png",
       "pageTitle": {
         "english": "Your messages",
         "turkish": "Mesajlarınız",
@@ -123,7 +123,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "PTE003.png",
+      "imgId": "ATE003.png",
       "pageTitle": {
         "english": "Write a message",
         "turkish": "Mesaj yaz",
@@ -157,7 +157,7 @@
     },
     "page04": {
       "pageType": "screenshot",
-      "imgId": "PTE004.png",
+      "imgId": "ATE004.png",
       "pageTitle": {
         "english": "Send your message",
         "turkish": "Mesajınızı gönderin",

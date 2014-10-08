@@ -90,7 +90,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "PTAC003.png",
+      "imgId": "ATAC003.png",
       "pageTitle": {
         "english": "Create a class name",
         "turkish": "Bir ders adı oluştur",
@@ -113,7 +113,7 @@
     },
     "page04": {
       "pageType": "screenshot",
-      "imgId": "PTAC004.png",
+      "imgId": "ATAC004.png",
       "pageTitle": {
         "english": "Save your class ID code",
         "turkish": "Ders ID kodunuzu kaydedin",
