@@ -21,8 +21,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 20,
-          "numberPosLeft": 10,
+          "numberPosTop": 17,
+          "numberPosLeft": 8,
           "text":{
             "english": "Enter your Online Practice access code here. The access code is on your Student’s Access Code Card. You must have an access code to add a new level to your account.",
             "turkish": "Çevrim İçi Uygulama erişim kodunuzu buraya girin. Erişim kodu Öğrenci Erişim Kodu Kartınızın üzerindedir. Hesabınıza yeni bir seviye eklemek için bir erişim kodu gerekir.",
@@ -78,7 +78,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "ASAL002.png",
+      "imgId": "ASAL002.jpg",
       "pageTitle": {
         "english": "Choose a level",
         "turkish": "Seviye seç",
