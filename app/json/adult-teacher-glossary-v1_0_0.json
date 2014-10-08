@@ -32,8 +32,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 13,
-          "numberPosLeft": 12,
+          "numberPosTop": 11.5,
+          "numberPosLeft": 11,
           "text":{
             "english": "Type a word in the text box to search for a word. The Glossary automatically searches for the word.",
             "turkish": "Bir kelimeyi aramak için metin kutusuna girin. Sözlük otomatik olarak kelimeyi aratır.",
@@ -43,7 +43,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 36,
+          "numberPosTop": 37,
           "numberPosLeft": 1,
           "text":{
             "english": "Scroll through the menu and choose a word to see the definition and examples.",

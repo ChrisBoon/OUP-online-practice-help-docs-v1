@@ -21,7 +21,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 24,
+          "numberPosTop": 17,
           "numberPosLeft": 3,
           "text":{
             "english": "Click here to manage your Online Practice classes. You can view the details of your classes, delete students’ accounts, add new classes, delete classes, or join an institution.",
@@ -32,7 +32,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 36,
+          "numberPosTop": 33,
           "numberPosLeft": 3,
           "text":{
             "english": "Click here to view scores and reports on your students’ progress.",
@@ -54,8 +54,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 24,
-          "numberPosLeft": 50,
+          "numberPosTop": 17,
+          "numberPosLeft": 51,
           "text":{
             "english": "Click here to add another level of your Online Practice course.",
             "turkish": "Çevrim İçi Uygulama kursunuza başka bir seviye eklemek için buraya tıklayın.",
@@ -65,8 +65,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 36,
-          "numberPosLeft": 50,
+          "numberPosTop": 31,
+          "numberPosLeft": 51,
           "text":{
             "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
             "turkish": "E-posta alanını kullanmak ve öğrencilerinize mesaj göndermek için buraya tıklayın. Yeni mesajınız olduğunda, mesajların sayısı burada görüntülenir.",
@@ -77,7 +77,7 @@
         "paragraph06": {
           "number": 6,
           "numberPosTop": 48,
-          "numberPosLeft": 50,
+          "numberPosLeft": 51,
           "text":{
             "english": "Click here to view the Discussion Board.",
             "turkish": "_",

@@ -22,7 +22,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 15,
-          "numberPosLeft": 26,
+          "numberPosLeft": 32,
           "text":{
             "english": "Click here to change the name of this class.",
             "turkish": "Bu sınıfın adını değiştirmek için buraya tıklayın.",
@@ -32,8 +32,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 15,
-          "numberPosLeft": 38,
+          "numberPosTop": 54,
+          "numberPosLeft": 7,
           "text":{
             "english": "Check this box to delete this student from this class. Then click “Save Changes”.",
             "turkish": "_",
@@ -43,8 +43,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 52,
-          "numberPosLeft": 7,
+          "numberPosTop": 83,
+          "numberPosLeft": 13,
           "text":{
             "english": "Click here to go back to the previous screen. If you did not click “Save Changes” your changes will not be saved.",
             "turkish": "_",
@@ -55,7 +55,7 @@
         "paragraph04": {
           "number": 4,
           "numberPosTop": 83,
-          "numberPosLeft": 13,
+          "numberPosLeft": 76,
           "text":{
             "english": "Click here to save the changes you made to this class.",
             "turkish": "_",

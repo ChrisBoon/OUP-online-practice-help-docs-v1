@@ -7,7 +7,7 @@
   },
  "segment": "adult",
  "userType": ["teacher"],
- "pageCount": 3,
+ "pageCount": 4,
  "pages": {
     "page01": {
       "pageType": "screenshot",
@@ -21,8 +21,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 2,
-          "numberPosLeft": 70,
+          "numberPosTop": 8,
+          "numberPosLeft": 69,
           "text":{
             "english": "Choose a class from the menu.",
             "turkish": "Menüden bir ders seçin.",
@@ -44,16 +44,27 @@
       "paragraphs":{
         "paragraph01": {
           "number": 2,
-          "numberPosTop": 2,
-          "numberPosLeft": 1,
+          "numberPosTop": 92,
+          "numberPosLeft": 33,
           "text":{
             "english": "You can create a new post by clicking the “Create New Post” button. A text box will open. Any student in your Online Practice class can see your post and reply to it. Students can also write posts and begin discussions.",
             "turkish": "_",
             "spanish": "_",
             "arabic": "_"
           }
-        },
-        "paragraph02": {
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "ATF003.png",
+      "pageTitle": {
+        "english": "Write a post",
+        "turkish": "Gönderi yaz",
+        "spanish": "Escribir un mensaje",
+        "arabic": "اكتب منشورًا"
+      },
+        "paragraph01": {
           "number": 3,
           "numberPosTop": 20,
           "numberPosLeft": 1,
@@ -64,7 +75,7 @@
             "arabic": "_"
           }
         },
-        "paragraph03": {
+        "paragraph02": {
           "number": 4,
           "numberPosTop": 2,
           "numberPosLeft": 41,
@@ -75,7 +86,7 @@
             "arabic": "_"
           }
         },
-        "paragraph04": {
+        "paragraph03": {
           "number": 5,
           "numberPosTop": 85,
           "numberPosLeft": 1,
@@ -85,8 +96,20 @@
             "spanish": "_",
             "arabic": "ا_"
           }
-        },
-        "paragraph05": {
+        }
+      }
+    },    
+    "page04": {
+      "pageType": "screenshot",
+      "imgId": "ATF004.png",
+      "pageTitle": {
+        "english": "Reply to or delete posts",
+        "turkish": "Gönderileri yanıtla ya da sil",
+        "spanish": "Responder o borrar mensajes",
+        "arabic": "رُد على المنشورات أو احذفها"
+      },
+      "paragraphs":{
+          "paragraph01": {
           "number": 6,
           "numberPosTop": 20,
           "numberPosLeft": 39,
@@ -97,7 +120,7 @@
             "arabic": "انقر على “Show” (\"عرض\") لاستعراض ردود طلابك على منشور ما. "
           }
         },
-        "paragraph06": {
+        "paragraph02": {
           "number": 7,
           "numberPosTop": 39,
           "numberPosLeft": 39,
@@ -108,7 +131,7 @@
             "arabic": "انقر على “Hide” (\"إخفاء\") لإخفاء الردود."
           }
         },
-        "paragraph07": {
+        "paragraph03": {
           "number": 8,
           "numberPosTop": 42,
           "numberPosLeft": 56,
@@ -118,20 +141,8 @@
             "spanish": "Haga clic en \"Reply\" para responder a un mensaje.",
             "arabic": "انقر على “Reply” (\"رد\") للرد على منشور ما."
           }
-        }
-      }
-    },
-    "page03": {
-      "pageType": "screenshot",
-      "imgId": "ATF003.png",
-      "pageTitle": {
-        "english": "Reply to or delete posts",
-        "turkish": "Gönderileri yanıtla ya da sil",
-        "spanish": "Responder o borrar mensajes",
-        "arabic": "رُد على المنشورات أو احذفها"
-      },
-      "paragraphs":{
-        "paragraph01": {
+        },
+        "paragraph04": {
           "number": 9,
           "numberPosTop": 44,
           "numberPosLeft": 42,
@@ -142,7 +153,7 @@
             "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي تقوم بالرد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
           }
         },
-        "paragraph02": {
+        "paragraph05": {
           "number": 10,
           "numberPosTop": 63,
           "numberPosLeft": 42,
@@ -153,7 +164,7 @@
             "arabic": "انقر على “Post”  (\"نشر\") لنشر ردك على المناقشة."
           }
         },
-        "paragraph03": {
+        "paragraph06": {
           "number": 11,
           "numberPosTop": 63,
           "numberPosLeft": 55,
@@ -164,7 +175,7 @@
             "arabic": "انقر على “Cancel” (\"إلغاء\") إذا كنت لا تريد نشر ردك."
           }
         },
-        "paragraph04": {
+        "paragraph07": {
           "number": 12,
           "numberPosTop": 29,
           "numberPosLeft": 79,
@@ -175,7 +186,7 @@
             "arabic": "انقر على “Delete Conversation” (\"حذف المحادثة\") لحذف كامل المناقشة التي تتضمن المنشور الأصلي، فضلاً عن ردود كل الطلاب. لن يكون بمقدور الطلاب حذف المناقشات."
           }
         },
-        "paragraph05": {
+        "paragraph08": {
           "number": 13,
           "numberPosTop": 79,
           "numberPosLeft": 42,

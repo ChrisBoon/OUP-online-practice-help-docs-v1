@@ -21,7 +21,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 24,
+          "numberPosTop": 40,
           "numberPosLeft": 2,
           "text":{
             "english": "Choose a level for your new class.",
@@ -90,7 +90,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "ATAC003.png",
+      "imgId": "ATAC003.jpg",
       "pageTitle": {
         "english": "Create a class name",
         "turkish": "Bir ders adı oluştur",

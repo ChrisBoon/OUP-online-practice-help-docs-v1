@@ -21,8 +21,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 2.5,
-          "numberPosLeft": 29,
+          "numberPosTop": 2,
+          "numberPosLeft": 11,
           "text":{
             "english": "You can hide content from your students by checking the boxes on this page.",
             "turkish": "_",
@@ -32,8 +32,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 2.5,
-          "numberPosLeft": 62,
+          "numberPosTop": 2,
+          "numberPosLeft": 59,
           "text":{
             "english": "Choose a class using the menu.",
             "turkish": "Menüyü kullanarak bir ders seçin.",
@@ -43,8 +43,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 31,
-          "numberPosLeft": 4,
+          "numberPosTop": 81,
+          "numberPosLeft": 11,
           "text":{
             "english": "Check a box here to hide a whole segment.",
             "turkish": "_",
@@ -54,8 +54,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 21,
-          "numberPosLeft": 25,
+          "numberPosTop": 30,
+          "numberPosLeft": 30,
           "text":{
             "english": "Check a box here to hide selected units within a segment.",
             "turkish": "_",
@@ -65,7 +65,7 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 94,
+          "numberPosTop": 92,
           "numberPosLeft": 24,
           "text":{
             "english": "Click here to save the changes you made to this class.",

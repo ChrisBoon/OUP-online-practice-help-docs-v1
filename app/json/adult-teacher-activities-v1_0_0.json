@@ -21,7 +21,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 2,
+          "numberPosTop": 5,
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
@@ -32,8 +32,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 2,
-          "numberPosLeft": 45,
+          "numberPosTop": 5,
+          "numberPosLeft": 29,
           "text":{
             "english": "Use this menu to choose an activity within a unit.",
             "turkish": "_",
@@ -43,8 +43,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 2,
-          "numberPosLeft": 67,
+          "numberPosTop": 5,
+          "numberPosLeft": 78,
           "text":{
             "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
             "turkish": "Aktiviteler arasında sırayla gezinmek için “Previous” ve “Next” düğmelerini kullanın.",
@@ -65,8 +65,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 84,
-          "numberPosLeft": 10,
+          "numberPosTop": 83,
+          "numberPosLeft": 9,
           "text":{
             "english": "Click here to see a grammar chart pop-up related to the current activity.",
             "turkish": "_",
@@ -76,8 +76,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 84,
-          "numberPosLeft": 27,
+          "numberPosTop": 86,
+          "numberPosLeft": 38,
           "text":{
             "english": "Students can click here to check their answers when they have answered all questions in an activity.",
             "turkish": "_",
@@ -87,8 +87,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 84,
-          "numberPosLeft": 45,
+          "numberPosTop": 86,
+          "numberPosLeft": 50,
           "text":{
             "english": "Students can try an activity again if they answer some questions incorrectly. They can try an activity as many times as they like.",
             "turkish": "_",
@@ -99,7 +99,7 @@
         "paragraph08": {
           "number": 8,
           "numberPosTop": 84,
-          "numberPosLeft": 51,
+          "numberPosLeft": 61,
           "text":{
             "english": "If students answer some questions incorrectly they can see the correct answers.",
             "turkish": "_",
@@ -110,7 +110,7 @@
         "paragraph09": {
           "number": 9,
           "numberPosTop": 84,
-          "numberPosLeft": 66,
+          "numberPosLeft": 74,
           "text":{
             "english": "Students can click here to see a Feedback pop-up with guidance on completing an activity.",
             "turkish": "_",
@@ -121,7 +121,7 @@
         "paragraph10": {
           "number": 10,
           "numberPosTop": 84,
-          "numberPosLeft": 76,
+          "numberPosLeft": 87,
           "text":{
             "english": "A student’s current activity score is shown here.",
             "turkish": "_",
@@ -131,8 +131,8 @@
         },
         "paragraph11": {
           "number": 11,
-          "numberPosTop": 84,
-          "numberPosLeft": 87,
+          "numberPosTop": 90,
+          "numberPosLeft": 3,
           "text":{
             "english": "Students can find supporting resources here that will help them with their Online Practice work, if available.",
             "turkish": "_",
@@ -142,8 +142,8 @@
         },
         "paragraph12": {
           "number": 12,
-          "numberPosTop": 92,
-          "numberPosLeft": 4,
+          "numberPosTop": 90,
+          "numberPosLeft": 19,
           "text":{
             "english": "Students can view the Glossary here, if available. The Glossary will help them with the course vocabulary.",
             "turkish": "_",
@@ -153,8 +153,8 @@
         },
         "paragraph13": {
           "number": 13,
-          "numberPosTop": 92,
-          "numberPosLeft": 19,
+          "numberPosTop": 90,
+          "numberPosLeft": 35,
           "text":{
             "english": "Students can access their Achievements and Reports here.",
             "turkish": "_",

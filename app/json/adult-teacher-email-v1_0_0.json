@@ -22,7 +22,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 2,
-          "numberPosLeft": 71,
+          "numberPosLeft": 70,
           "text":{
             "english": "Select a class from the menu.",
             "turkish": "Menüden bir ders seçin.",
@@ -192,7 +192,7 @@
           "numberPosTop": 90,
           "numberPosLeft": 68,
           "text":{
-            "english": "If you decide not to send the message, click the “Cancel” button. This will return you to the inbox.",
+            "english": "You can save messages before you send them and return to them later in the Drafts area by clicking the “Save” button.",
             "turkish": "Mesajlarınızı göndermeden önce kaydedebilir ve “Save” düğmesine tıklayarak Taslaklar alanında daha sonra geri dönebilirsiniz.",
             "spanish": "Puede guardar los mensajes antes de enviarlos y volver a ellos más tarde en el área Borradores haciendo clic en el botón \"Save\".",
             "arabic": "إذا قررت عدم إرسال الرسالة، فانقر علىزر“Cancel” (\"إلغاء\").  فسوف يعيدك إلى صندوق البريد الوارد."
@@ -203,7 +203,7 @@
           "numberPosTop": 90,
           "numberPosLeft": 83,
           "text":{
-            "english": "You can save messages before you send them and return to them later in the Drafts area by clicking the “Save” button.",
+            "english": "If you decide not to send the message, click the “Cancel” button.  This will return you to the inbox.",
             "turkish": "Mesajı göndermemeye karar verirseniz, “Cancel” düğmesine tıklayın.  Bu sizi gelen kutusuna geri götürecektir.",
             "spanish": "Si decide no enviar el mensaje, haga clic en el botón \"Cancel\".  Esto lo regresará a la bandeja de entrada.",
             "arabic": "يمكنك حفظ الرسائل قبل إرسالها والعودة إليها في وقت لاحق في منطقة المسودات عن طريق النقر على زر“Save”(\"حفظ\")."

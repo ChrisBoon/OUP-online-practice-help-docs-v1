@@ -78,7 +78,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "ATAL002.png",
+      "imgId": "ATAL002.jpg",
       "pageTitle": {
         "english": "Select a level",
         "turkish": "Bir seviye seçin",
@@ -122,7 +122,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 27,
+          "numberPosTop": 24,
           "numberPosLeft": 9,
           "text":{
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
@@ -133,7 +133,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 77,
+          "numberPosTop": 86,
           "numberPosLeft": 12,
           "text":{
             "english": "Click here to go back to the previous page.",
@@ -144,7 +144,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 77,
+          "numberPosTop": 86,
           "numberPosLeft": 74,
           "text":{
             "english": "Click here if you do not have an institution ID code.",
@@ -155,7 +155,7 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 77,
+          "numberPosTop": 86,
           "numberPosLeft": 85,
           "text":{
             "english": "Click here to submit your institution ID code and go to your Home page.",
@@ -189,7 +189,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 78,
+          "numberPosTop": 86,
           "numberPosLeft": 12,
           "text":{
             "english": "Click here to go back to the previous page.",
@@ -200,7 +200,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 78,
+          "numberPosTop": 86,
           "numberPosLeft": 74,
           "text":{
             "english": "Click here to skip this page without entering a class name.",
@@ -211,7 +211,7 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 78,
+          "numberPosTop": 86,
           "numberPosLeft": 85,
           "text":{
             "english": "Click here submit your class name and go to the next page.",

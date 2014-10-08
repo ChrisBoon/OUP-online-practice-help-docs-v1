@@ -22,7 +22,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 47,
-          "numberPosLeft": 10,
+          "numberPosLeft": 8,
           "text":{
             "english": "Enter the new name for your class. Then click “Save”. If you do not want to change the name of your class, click “Cancel”.",
             "turkish": "Dersinize yeni adını girin. Ardından “Save”e tıklayın. Dersinizin adını değiştirmek istemiyorsanız, “Cancel” seçeneğine tıklayın.",
@@ -33,7 +33,7 @@
         "paragraph02": {
           "number": 2,
           "numberPosTop": 57,
-          "numberPosLeft": 12,
+          "numberPosLeft": 11,
           "text":{
             "english": "Click here to save your class name and return to the Class Details page.",
             "turkish": "Ders adınızı kaydetmek ve Ders Ayrıntıları sayfasına geri dönmek için buraya tıklayın.",
