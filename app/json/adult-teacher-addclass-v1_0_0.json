@@ -100,8 +100,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 6,
-          "numberPosTop": 16,
-          "numberPosLeft": 9,
+          "numberPosTop": 22,
+          "numberPosLeft": 10,
           "text":{
             "english": "Enter a name for your class here.",
             "turkish": "Ders adınızı buraya girin.",
@@ -123,7 +123,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 7,
-          "numberPosTop": 12,
+          "numberPosTop": 13,
           "numberPosLeft": 9,
           "text":{
             "english": "This is the ID code for your new class. Save the code and distribute it to your students. They will be able to join your class with the new code and you will be able to see their reports.",

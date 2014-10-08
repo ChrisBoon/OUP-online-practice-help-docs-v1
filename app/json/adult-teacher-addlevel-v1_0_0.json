@@ -89,7 +89,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 24,
-          "numberPosLeft": 3,
+          "numberPosLeft": 1,
           "text":{
             "english": "Select a level. It is very important to select the level that you are using. Check to make sure it is the same level as your book.",
             "turkish": "Bir seviye seçin. Kullandığınız seviyenin seçilmesi son derece önemlidir. Kitabınızla aynı seviye olduğundan emin olmak için kontrol edin.",
@@ -178,8 +178,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 32,
-          "numberPosLeft": 10,
+          "numberPosTop": 34,
+          "numberPosLeft": 9,
           "text":{
             "english": "Enter a name for your first class. To create additional classes later, click “Manage Classes” from your Home page when you finish registering.",
             "turkish": "İlk dersiniz için bir ad girin. Daha sonra ek dersler oluşturmak için, kaydı tamamladıktan sonra Anasayfanızdan “Manage Classes” seçeneğine tıklayın.",
@@ -189,7 +189,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 86,
+          "numberPosTop": 88,
           "numberPosLeft": 12,
           "text":{
             "english": "Click here to go back to the previous page.",
@@ -200,7 +200,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 86,
+          "numberPosTop": 88,
           "numberPosLeft": 74,
           "text":{
             "english": "Click here to skip this page without entering a class name.",
@@ -211,7 +211,7 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 86,
+          "numberPosTop": 88,
           "numberPosLeft": 85,
           "text":{
             "english": "Click here submit your class name and go to the next page.",
