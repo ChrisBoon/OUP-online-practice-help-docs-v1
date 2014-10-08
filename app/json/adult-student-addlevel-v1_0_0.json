@@ -54,8 +54,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 84,
-          "numberPosLeft": 3,
+          "numberPosTop": 87,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
@@ -65,7 +65,7 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 84,
+          "numberPosTop": 87,
           "numberPosLeft": 83,
           "text":{
             "english": "Click here to go to the next page after entering your access code.",
@@ -88,7 +88,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 15,
+          "numberPosTop": 10,
           "numberPosLeft": 3,
           "text":{
             "english": "Choose a level. It is very important to choose the level that you are using. Check to make sure it is the same level as your book.",
@@ -99,7 +99,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 79,
+          "numberPosTop": 87,
           "numberPosLeft": 3,
           "text":{
             "english": "Click here to go back to the previous page.",
@@ -133,7 +133,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 80,
+          "numberPosTop": 86,
           "numberPosLeft": 3,
           "text":{
             "english": "Click here to go back to the previous page.",
@@ -144,7 +144,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 80,
+          "numberPosTop": 86,
           "numberPosLeft": 72,
           "text":{
             "english": "Click here if you do not have a class ID code.",
@@ -155,7 +155,7 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 80,
+          "numberPosTop": 86,
           "numberPosLeft": 84,
           "text":{
             "english": "Click here to submit your class ID code and go to your Home page.",
