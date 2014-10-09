@@ -11,7 +11,7 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTR001.png",
+      "imgId": "ATR001.png",
       "pageTitle": {
         "english": "",
         "turkish": "",
@@ -34,7 +34,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "PTR002.png",
+      "imgId": "ATR002.png",
       "pageTitle": {
         "english": "Agree to the Terms of Use",
         "turkish": "Kullanım Koşullarını kabul edin.",
@@ -79,7 +79,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "PTR003.png",
+      "imgId": "ATR003.png",
       "pageTitle": {
         "english": "Enter your access code",
         "turkish": "Erişim kodunuzu girin",
@@ -113,7 +113,7 @@
     },
     "page04": {
       "pageType": "screenshot",
-      "imgId": "PTR004.png",
+      "imgId": "ATR004.png",
       "pageTitle": {
         "english": "Enter your details",
         "turkish": "Ayrıntılarınızı girin",
@@ -213,7 +213,7 @@
     },
     "page05": {
       "pageType": "screenshot",
-      "imgId": "ATR001.jpg",
+      "imgId": "ATR005.jpg",
       "pageTitle": {
         "english": "Choose a level",
         "turkish": "Seviye seç",
@@ -247,7 +247,7 @@
     },
     "page06": {
       "pageType": "screenshot",
-      "imgId": "PTR006.png",
+      "imgId": "ATR006.png",
       "pageTitle": {
         "english": "Enter your institution ID code",
         "turkish": "Kurum ID kodunuzu girin",
@@ -303,7 +303,7 @@
     },
     "page07": {
       "pageType": "screenshot",
-      "imgId": "PTR007.png",
+      "imgId": "ATR007.png",
       "pageTitle": {
         "english": "Create a class",
         "turkish": "Ders Oluştur",
@@ -359,7 +359,7 @@
     },
     "page08": {
       "pageType": "screenshot",
-      "imgId": "PTR008.png",
+      "imgId": "ATR008.png",
       "pageTitle": {
         "english": "Save your class code",
         "turkish": "Ders kodunuzu kaydedin",
@@ -404,7 +404,7 @@
     },
     "page09": {
       "pageType": "screenshot",
-      "imgId": "PTR009.png",
+      "imgId": "ATR009.png",
       "pageTitle": {
         "english": "Save your registration information",
         "turkish": "Kayıt bilgilerinizi kaydedin",

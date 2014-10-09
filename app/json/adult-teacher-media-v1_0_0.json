@@ -43,8 +43,8 @@
         },
           "paragraph03": {
           "number": 3,
-          "numberPosTop": 56,
-          "numberPosLeft": 26,
+          "numberPosTop": 33,
+          "numberPosLeft": 79,
           "text":{
             "english": "Click on the download icon to download the entire audio track to your device.",
             "turkish": "-",
@@ -89,8 +89,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 5,
-          "numberPosTop": 84,
-          "numberPosLeft": 5,
+          "numberPosTop": 87,
+          "numberPosLeft": 6,
           "text":{
             "english": "Use the controls to play and pause the video, change the volume and enter full-screen view.",
             "turkish": "Video’yu oynatmak ve durdurmak, ses seviyesini değiştirmek ve tam ekran görünümüne geçmek için kontrolleri kullanın.",
