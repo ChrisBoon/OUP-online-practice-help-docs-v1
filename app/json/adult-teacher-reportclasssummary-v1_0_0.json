@@ -1,0 +1,146 @@
+{
+ "title": {
+    "english": "Class Summary Report",
+    "turkish": "Ders Özeti Raporu",
+    "spanish": "Informe de Resumen de Clase",
+    "arabic": "تقرير موجز الفصل"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATRCS001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 3,
+          "numberPosLeft": 73,
+          "text":{
+            "english": "Use the menu to go to the Class Report for a specific class (you can view the work of specific students in a class).",
+            "turkish": "Belli bir dersin Ders Raporuna gitmek için bu menüyü kullanın (bir dersteki belli öğrencilerin çalışmasını görüntüleyebilirsiniz).",
+            "spanish": "Utilice el menú para ir al Informe de la Clase para una clase específica (puede ver el trabajo de los estudiantes específicos de una clase).",
+            "arabic": "استخدم القائمة للذهاب إلى تقرير الفصل الخاص بفصل معين (يمكنك استعراض أعمال طلاب محددين في فصل ما)."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 26,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "You can also click on a class title to view a class report.",
+            "turkish": "Bir ders raporunu görüntülemek için ders başlığına da tıklayabilirsiniz.",
+            "spanish": "También puede hacer clic en el título de la clase para ver un informe de la clase.",
+            "arabic": "يمكنك أيضًا النقر علىعنوانفصل ما لعرض التقرير الخاص به."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 26,
+          "numberPosLeft": 38,
+          "text":{
+            "english": "Click here to view a Segment Report. You can see students’ scores for all units in the segment.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 30,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the average number of activities completed in each segment for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the segment, and 9 is the total number of activities in the segment.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 34,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the average score in each segment for this class. ",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 38,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the average amount of time students in this class worked on each segment.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 30,
+          "numberPosLeft": 23,
+          "text":{
+            "english": "This is the total of the average number of activities completed in the entire level for this class. For example, if the number is 27/156, 27 is the total of the average number of activities completed across segments, and 156 is the total number of activities in the level.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 34,
+          "numberPosLeft": 23,
+          "text":{
+            "english": "This is the average score across segments in the level.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 38,
+          "numberPosLeft": 23,
+          "text":{
+            "english": "This is the total of the average amount of time in each segment that students spent on activities across the level.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+          "paragraph09": {
+          "number": 10,
+          "numberPosTop": 38,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click here to export this report to Microsoft Excel™.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph11": {
+          "number": 11,
+          "numberPosTop": 10,
+          "numberPosLeft": 88,
+          "text":{
+            "english": "Click here to print this report.",
+            "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para imprimir este informe.",
+            "arabic": "اانقر هنا لطباعة هذا التقرير."
+          }
+        }
+      }
+    }
+  }
+}

@@ -64,7 +64,8 @@
         "spanish": "Escribir un mensaje",
         "arabic": "اكتب منشورًا"
       },
-        "paragraph01": {
+      "paragraphs":{
+          "paragraph01": {
           "number": 3,
           "numberPosTop": 20,
           "numberPosLeft": 1,

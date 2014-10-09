@@ -1,0 +1,179 @@
+{
+ "title": {
+    "english": "Segment Report",
+    "turkish": "-",
+    "spanish": "-",
+    "arabic": "-"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATRU001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 1,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
+            "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
+            "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 1,
+          "numberPosLeft": 23,
+          "text":{
+            "english": "Click here to view the Class Report.",
+            "turkish": "Sınıf Raporunu görüntülemek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ver el Informe de la Clase.",
+            "arabic": "انقر هنا لعرض التقرير عن الفصل."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 4,
+          "numberPosLeft": 72,
+          "text":{
+            "english": "Use this menu to view a Segment Report for a different class.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 11.5,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "Use this menu to view a Segment Report for a different student.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 17,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "Use this menu to view the Segment Report for a different segment.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 27,
+          "numberPosLeft": 42,
+          "text":{
+            "english": "Click here to view this student’s work for this activity.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 32,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The √ symbol means that the activity does not have a score.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 38,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the total number of times this student attempted each activity in this unit. The √ symbol means that attempts are not recorded for the activity.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 42,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the total amount of time this student spent on each activity in this unit.",
+            "turkish": "Bu satır öğrencinin her bir aktivitede harcadığı toplam süreyi gösterir.",
+            "spanish": "Esta fila muestra la cantidad total de tiempo que el estudiante ha dedicado a cada actividad en esta unidad.",
+            "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي قضاها هذا الطالب في القيام بجميع الأنشطة في هذه الوحدة."
+          }
+        },
+        "paragraph10": {
+          "number": 10,
+          "numberPosTop": 32,
+          "numberPosLeft": 24,
+          "text":{
+            "english": "This is the student’s total score in a unit.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph11": {
+          "number": 11,
+          "numberPosTop": 38,
+          "numberPosLeft": 24,
+          "text":{
+            "english": "This is the student’s total number of activity attempts in a unit.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph12": {
+          "number": 12,
+          "numberPosTop": 42,
+          "numberPosLeft": 24,
+          "text":{
+            "english": "This is the total amount of time taken on activities in a unit.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph13": {
+          "number": 13,
+          "numberPosTop": 17,
+          "numberPosLeft": 79,
+          "text":{
+            "english": "Click here to export this report to Microsoft Excel™.",
+            "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
+            "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
+          }
+        },
+        "paragraph14": {
+          "number": 14,
+          "numberPosTop": 17,
+          "numberPosLeft": 88,
+          "text":{
+            "english": "Click here to print this report.",
+            "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para imprimir este informe.",
+            "arabic": "انقر هنا لطباعة هذا التقرير."
+          }
+        }
+      }
+    }
+  }
+}
