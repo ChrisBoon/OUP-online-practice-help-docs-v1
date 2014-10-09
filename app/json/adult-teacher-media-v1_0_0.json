@@ -11,7 +11,7 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "ASM001.png",
+      "imgId": "ATM001.png",
       "pageTitle": {
         "english": "Audio",
         "turkish": "Ses",
@@ -42,7 +42,7 @@
           }
         },
           "paragraph03": {
-          "number": 2,
+          "number": 3,
           "numberPosTop": 56,
           "numberPosLeft": 26,
           "text":{
@@ -56,7 +56,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "PTM002.png",
+      "imgId": "ATM002.png",
       "pageTitle": {
         "english": "Video",
         "turkish": "Video",
@@ -79,7 +79,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "PTM003.jpg",
+      "imgId": "ATM003.jpg",
       "pageTitle": {
         "english": "Video",
         "turkish": "-",
