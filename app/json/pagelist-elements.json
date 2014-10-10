@@ -64,9 +64,9 @@
       "item07":{
         "order":7,
         "title": {
-          "english": "Hide Units and Lessons",
-          "turkish": "Üniteleri ve Konuları Gizle",
-          "arabic": "إخفاء الوحدات والدروس"
+          "english": "Hide/Assign Content",
+          "turkish": "-",
+          "arabic": "-"
         },
         "id": "adult-teacher-contentassign-v1_0_0"
       },
@@ -119,8 +119,8 @@
         "order":13,
         "title": {
           "english": "Segment Report",
-          "turkish": "Ünite Raporu",
-          "arabic": "تقرير الوحدة"
+          "turkish": "-",
+          "arabic": "-"
         },
         "id": "adult-teacher-reportunit-v1_0_0"
       },
@@ -128,8 +128,8 @@
         "order":14,
         "title": {
           "english": "Unit Report",
-          "turkish": "Konu Raporu",
-          "arabic": "تقرير عن الدرس"
+          "turkish": "Ünite Raporu",
+          "arabic": "تقرير الوحدة"
         },
         "id": "adult-teacher-reportlesson-v1_0_0"
       },
@@ -208,9 +208,9 @@
       "item23":{
         "order":23,
         "title": {
-          "english": "Forum",
-          "turkish": "Forum",
-          "arabic": "المنتدى"
+          "english": "Discussion Board",
+          "turkish": "-",
+          "arabic": "-"
         },
         "id": "adult-teacher-forum-v1_0_0"
       },
