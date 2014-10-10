@@ -77,7 +77,7 @@
         "paragraph06": {
           "number": 6,
           "numberPosTop": 86,
-          "numberPosLeft": 38,
+          "numberPosLeft": 40,
           "text":{
             "english": "Students can click here to check their answers when they have answered all questions in an activity.",
             "turkish": "_",
@@ -98,7 +98,7 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 84,
+          "numberPosTop": 86,
           "numberPosLeft": 61,
           "text":{
             "english": "If students answer some questions incorrectly they can see the correct answers.",
@@ -109,7 +109,7 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 84,
+          "numberPosTop": 86,
           "numberPosLeft": 74,
           "text":{
             "english": "Students can click here to see a Feedback pop-up with guidance on completing an activity.",
@@ -120,8 +120,8 @@
         },
         "paragraph10": {
           "number": 10,
-          "numberPosTop": 84,
-          "numberPosLeft": 87,
+          "numberPosTop": 86,
+          "numberPosLeft": 90,
           "text":{
             "english": "A student’s current activity score is shown here.",
             "turkish": "_",

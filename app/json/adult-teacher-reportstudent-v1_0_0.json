@@ -21,8 +21,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 1.5,
-          "numberPosLeft": 10,
+          "numberPosTop": 1,
+          "numberPosLeft": 4,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
@@ -32,8 +32,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 1.5,
-          "numberPosLeft": 23,
+          "numberPosTop": 1,
+          "numberPosLeft": 18.5,
           "text":{
             "english": "Click here to view the Class Report for the class shown in the menu on the right.",
             "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görüntülemek için buraya tıklayın.",
@@ -43,8 +43,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 3,
-          "numberPosLeft": 73,
+          "numberPosTop": 2,
+          "numberPosLeft": 68,
           "text":{
             "english": "Use this menu to view the Class Report for a different class. Select “All Classes” to go to the Class Summary Report.",
             "turkish": "Farklı bir derse ait bir Ders Raporu görüntülemek için bu menüyü kullanın. Ders Özeti Raporuna gitmek için “All Classes” seçeneğini seçin.",
@@ -54,8 +54,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 11,
-          "numberPosLeft": 1,
+          "numberPosTop": 10,
+          "numberPosLeft": 4,
           "text":{
             "english": "Use this menu to view the Student Report for a different student in this class.",
             "turkish": "Bu sınıftaki farklı bir öğrenciye ait Öğrenci Raporunu görüntülemek için bu menüyü kullanın.",
@@ -65,8 +65,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 11,
-          "numberPosLeft": 25,
+          "numberPosTop": 10,
+          "numberPosLeft": 67,
           "text":{
             "english": "Click here to see the student’s Achievements.",
             "turkish": "Öğrencinin Başarılarını görmek için buraya tıklayın.",
@@ -77,7 +77,7 @@
         "paragraph06": {
           "number": 6,
           "numberPosTop": 17,
-          "numberPosLeft": 1,
+          "numberPosLeft": 3,
           "text":{
             "english": "Use this menu to see a student’s results for a specific segment or all segments.",
             "turkish": "-",
@@ -87,8 +87,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 27,
-          "numberPosLeft": 1,
+          "numberPosTop": 29,
+          "numberPosLeft": 3,
           "text":{
             "english": "You can also click on a segment title to view a student’s Segment Report.",
             "turkish": "-",
@@ -98,8 +98,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 27,
-          "numberPosLeft": 29.5,
+          "numberPosTop": 28.5,
+          "numberPosLeft": 24.5,
           "text":{
             "english": "Click on a unit to view the student’s work in that unit within a specific segment.",
             "turkish": "-",
@@ -109,8 +109,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 32,
-          "numberPosLeft": 1,
+          "numberPosTop": 34,
+          "numberPosLeft": 3,
           "text":{
             "english": "This row shows a student’s total score for all activities in a unit.",
             "turkish": "-",
@@ -120,8 +120,8 @@
         },
         "paragraph10": {
           "number": 10,
-          "numberPosTop": 37,
-          "numberPosLeft": 1,
+          "numberPosTop": 39,
+          "numberPosLeft": 3,
           "text":{
             "english": "This row shows the number of times a student attempted all activities in a unit.",
             "turkish": "-",
@@ -131,8 +131,8 @@
         },
         "paragraph11": {
           "number": 11,
-          "numberPosTop": 41,
-          "numberPosLeft": 1,
+          "numberPosTop": 44,
+          "numberPosLeft": 3,
           "text":{
             "english": "This row shows the total amount of time the student spent on each unit.",
             "turkish": "-",
@@ -142,8 +142,8 @@
         },
         "paragraph12": {
           "number": 12,
-          "numberPosTop": 32,
-          "numberPosLeft": 17,
+          "numberPosTop": 33,
+          "numberPosLeft": 15,
           "text":{
             "english": "This is the student’s total score across all activities in a segment.",
             "turkish": "-",
@@ -153,7 +153,7 @@
         },
         "paragraph13": {
           "number": 13,
-          "numberPosTop": 37,
+          "numberPosTop": 38,
           "numberPosLeft": 17,
           "text":{
             "english": "This is the total number of times the student has attempted all activities in a segment.",
@@ -164,8 +164,8 @@
         },
         "paragraph14": {
           "number": 14,
-          "numberPosTop": 41,
-          "numberPosLeft": 17,
+          "numberPosTop": 43,
+          "numberPosLeft": 16,
           "text":{
             "english": "This is the total time taken on all activities in a segment.",
             "turkish": "-",
@@ -175,8 +175,8 @@
         },
         "paragraph15": {
           "number": 15,
-          "numberPosTop": 17,
-          "numberPosLeft": 78,
+          "numberPosTop": 16,
+          "numberPosLeft": 76,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
@@ -186,8 +186,8 @@
         },
         "paragraph16": {
           "number": 16,
-          "numberPosTop": 17,
-          "numberPosLeft": 87,
+          "numberPosTop": 16,
+          "numberPosLeft": 85,
           "text":{
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",

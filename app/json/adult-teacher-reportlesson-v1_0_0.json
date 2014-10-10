@@ -99,7 +99,7 @@
         "paragraph08": {
           "number": 8,
           "numberPosTop": 69,
-          "numberPosLeft": 1,
+          "numberPosLeft": 5,
           "text":{
             "english": "This row shows the number of attempts for each activity in this unit. The √ symbol means that attempts are not recorded for the activity.",
             "turkish": "-",
@@ -110,7 +110,7 @@
         "paragraph09": {
           "number": 9,
           "numberPosTop": 75,
-          "numberPosLeft": 1,
+          "numberPosLeft": 5,
           "text":{
             "english": "This row shows the total amount of time spent on all attempts at each activity.",
             "turkish": "Bu satır her bir ünitedeki aktivitelerin tümü için harcanan toplam süreyi gösterir.",
@@ -165,7 +165,7 @@
         "paragraph14": {
           "number": 14,
           "numberPosTop": 18,
-          "numberPosLeft": 75,
+          "numberPosLeft": 85,
           "text":{
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",

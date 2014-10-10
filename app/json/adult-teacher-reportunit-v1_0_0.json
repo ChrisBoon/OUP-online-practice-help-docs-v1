@@ -22,7 +22,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 1,
-          "numberPosLeft": 10,
+          "numberPosLeft": 5,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
@@ -33,7 +33,7 @@
         "paragraph02": {
           "number": 2,
           "numberPosTop": 1,
-          "numberPosLeft": 23,
+          "numberPosLeft": 18.5,
           "text":{
             "english": "Click here to view the Class Report.",
             "turkish": "Sınıf Raporunu görüntülemek için buraya tıklayın.",
@@ -43,8 +43,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 4,
-          "numberPosLeft": 72,
+          "numberPosTop": 3,
+          "numberPosLeft": 69,
           "text":{
             "english": "Use this menu to view a Segment Report for a different class.",
             "turkish": "-",
@@ -54,8 +54,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 11.5,
-          "numberPosLeft": 1,
+          "numberPosTop": 12,
+          "numberPosLeft": 4,
           "text":{
             "english": "Use this menu to view a Segment Report for a different student.",
             "turkish": "-",
@@ -65,8 +65,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 17,
-          "numberPosLeft": 1,
+          "numberPosTop": 20,
+          "numberPosLeft": 4,
           "text":{
             "english": "Use this menu to view the Segment Report for a different segment.",
             "turkish": "-",
@@ -76,8 +76,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 27,
-          "numberPosLeft": 42,
+          "numberPosTop": 34,
+          "numberPosLeft": 37,
           "text":{
             "english": "Click here to view this student’s work for this activity.",
             "turkish": "-",
@@ -87,8 +87,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 32,
-          "numberPosLeft": 1,
+          "numberPosTop": 40,
+          "numberPosLeft": 4,
           "text":{
             "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The √ symbol means that the activity does not have a score.",
             "turkish": "-",
@@ -98,8 +98,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 38,
-          "numberPosLeft": 1,
+          "numberPosTop": 46,
+          "numberPosLeft": 4,
           "text":{
             "english": "This row shows the total number of times this student attempted each activity in this unit. The √ symbol means that attempts are not recorded for the activity.",
             "turkish": "-",
@@ -109,8 +109,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 42,
-          "numberPosLeft": 1,
+          "numberPosTop": 52,
+          "numberPosLeft": 4,
           "text":{
             "english": "This row shows the total amount of time this student spent on each activity in this unit.",
             "turkish": "Bu satır öğrencinin her bir aktivitede harcadığı toplam süreyi gösterir.",
@@ -120,8 +120,8 @@
         },
         "paragraph10": {
           "number": 10,
-          "numberPosTop": 32,
-          "numberPosLeft": 24,
+          "numberPosTop": 40,
+          "numberPosLeft": 15,
           "text":{
             "english": "This is the student’s total score in a unit.",
             "turkish": "-",
@@ -131,8 +131,8 @@
         },
         "paragraph11": {
           "number": 11,
-          "numberPosTop": 38,
-          "numberPosLeft": 24,
+          "numberPosTop": 46,
+          "numberPosLeft": 22.5,
           "text":{
             "english": "This is the student’s total number of activity attempts in a unit.",
             "turkish": "-",
@@ -142,8 +142,8 @@
         },
         "paragraph12": {
           "number": 12,
-          "numberPosTop": 42,
-          "numberPosLeft": 24,
+          "numberPosTop": 52,
+          "numberPosLeft": 22.5,
           "text":{
             "english": "This is the total amount of time taken on activities in a unit.",
             "turkish": "-",
@@ -153,8 +153,8 @@
         },
         "paragraph13": {
           "number": 13,
-          "numberPosTop": 17,
-          "numberPosLeft": 79,
+          "numberPosTop": 18,
+          "numberPosLeft": 76,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
@@ -164,8 +164,8 @@
         },
         "paragraph14": {
           "number": 14,
-          "numberPosTop": 17,
-          "numberPosLeft": 88,
+          "numberPosTop": 18,
+          "numberPosLeft": 86,
           "text":{
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",

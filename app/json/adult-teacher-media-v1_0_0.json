@@ -32,8 +32,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 56,
-          "numberPosLeft": 26,
+          "numberPosTop": 51,
+          "numberPosLeft": 39,
           "text":{
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
             "turkish": "Bir ses dosyası başlığına tıklayın. Bir ses oynatıcı görünür ve sesi oynatır. Parçayı oynatmak ve durdurmak için ok tuşunu kullanın. Parçanın içinde gezinmek ve ses seviyesini değiştirmek için kontrolleri kullanın.",
@@ -43,8 +43,8 @@
         },
           "paragraph03": {
           "number": 3,
-          "numberPosTop": 33,
-          "numberPosLeft": 79,
+          "numberPosTop": 34,
+          "numberPosLeft": 80,
           "text":{
             "english": "Click on the download icon to download the entire audio track to your device.",
             "turkish": "-",

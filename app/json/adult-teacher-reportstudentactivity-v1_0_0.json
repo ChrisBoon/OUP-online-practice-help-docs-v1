@@ -22,7 +22,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 1,
-          "numberPosLeft": 10,
+          "numberPosLeft": 5,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Ders Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
@@ -33,7 +33,7 @@
         "paragraph02": {
           "number": 2,
           "numberPosTop": 1,
-          "numberPosLeft": 24,
+          "numberPosLeft": 18,
           "text":{
             "english": "Click here to view the Class Report for the class shown on the right.",
             "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görüntülemek için buraya tıklayın.",
@@ -44,7 +44,7 @@
         "paragraph03": {
           "number": 3,
           "numberPosTop": 1,
-          "numberPosLeft": 36,
+          "numberPosLeft": 30,
           "text":{
             "english": "Click here to view the Student Report for this student.",
             "turkish": "-",
@@ -55,7 +55,7 @@
         "paragraph04": {
           "number": 4,
           "numberPosTop": 1,
-          "numberPosLeft": 48,
+          "numberPosLeft": 43,
           "text":{
             "english": "Click here to view the Segment Report for this student.",
             "turkish": "-",
@@ -65,7 +65,7 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 9,
+          "numberPosTop": 4,
           "numberPosLeft": 68,
           "text":{
             "english": "Use this menu to view the work of a student in another class. Select “All Classes” to go to the Class Summary Report.",
@@ -76,8 +76,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 16,
-          "numberPosLeft": 2,
+          "numberPosTop": 13,
+          "numberPosLeft": 4,
           "text":{
             "english": "Use this menu to view the work of a different student for this activity.",
             "turkish": "Bu aktivite için farklı bir öğrencinin çalışmasını görüntülemek için bu menüyü kullanın.",
@@ -87,8 +87,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 20,
-          "numberPosLeft": 8,
+          "numberPosTop": 87,
+          "numberPosLeft": 85,
           "text":{
             "english": "This shows the student’s score on this activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity.",
             "turkish": "-",

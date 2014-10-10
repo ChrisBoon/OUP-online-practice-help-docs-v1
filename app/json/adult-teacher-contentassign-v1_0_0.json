@@ -21,7 +21,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 2,
+          "numberPosTop": 1,
           "numberPosLeft": 11,
           "text":{
             "english": "You can hide content from your students by checking the boxes on this page.",
@@ -32,7 +32,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 2,
+          "numberPosTop": 1,
           "numberPosLeft": 59,
           "text":{
             "english": "Choose a class using the menu.",

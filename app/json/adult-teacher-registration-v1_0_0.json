@@ -224,7 +224,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 23,
-          "numberPosLeft": 5,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click on your level to select it. It is very important to select the level that you will be using. Check the title to make sure it is your level. If you are using more than one level, you can add another level later by choosing “Add a level” from your Home screen. You will need a new access code to add a level.",
             "turkish": "Seçmek istediğiniz seviyeye tıklayın. Kullanacağınız seviyenin seçilmesi son derece önemlidir. Sizin seviyenizde olduğundan emin olmak için başlığı kontrol edin. Birden fazla seviye kullanıyorsanız, Anasayfa ekranından “Add a level” seçeneğini seçerek başka bir seviye ekleyebilirsiniz. Bir seviye eklemek için yeni bir erişim koduna ihtiyacınız olacak.",
@@ -369,7 +369,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 14,
+          "numberPosTop": 11,
           "numberPosLeft": 10,
           "text":{
             "english": "This is the class ID code for the class you named in the previous screen. Give this code to your students so they can join your class and you can see their work.",
@@ -436,7 +436,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 88,
+          "numberPosTop": 89,
           "numberPosLeft": 83,
           "text":{
             "english": "Click here to complete your registration and log in to your Online Practice.",
