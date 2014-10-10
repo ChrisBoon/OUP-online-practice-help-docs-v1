@@ -118,7 +118,7 @@
       "item13":{
         "order":13,
         "title": {
-          "english": "Unit Report",
+          "english": "Segment Report",
           "turkish": "Ünite Raporu",
           "arabic": "تقرير الوحدة"
         },
@@ -127,7 +127,7 @@
       "item14":{
         "order":14,
         "title": {
-          "english": "Lesson Report",
+          "english": "Unit Report",
           "turkish": "Konu Raporu",
           "arabic": "تقرير عن الدرس"
         },
@@ -181,7 +181,7 @@
       "item20":{
         "order":20,
         "title": {
-          "english": "Media Centre",
+          "english": "Media Center",
           "turkish": "Medya Merkezi",
           "arabic": "مركز الوسائط"
         },
