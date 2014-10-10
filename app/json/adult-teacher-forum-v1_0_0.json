@@ -67,8 +67,8 @@
       "paragraphs":{
           "paragraph01": {
           "number": 3,
-          "numberPosTop": 20,
-          "numberPosLeft": 1,
+          "numberPosTop": 23,
+          "numberPosLeft": 2,
           "text":{
             "english": "Give your new post a title.",
             "turkish": "_",
@@ -78,8 +78,8 @@
         },
         "paragraph02": {
           "number": 4,
-          "numberPosTop": 2,
-          "numberPosLeft": 41,
+          "numberPosTop": 36,
+          "numberPosLeft": 13,
           "text":{
             "english": "Write your message in the blank text area under the formatting buttons.",
             "turkish": "_",
@@ -112,8 +112,8 @@
       "paragraphs":{
           "paragraph01": {
           "number": 6,
-          "numberPosTop": 20,
-          "numberPosLeft": 39,
+          "numberPosTop": 31,
+          "numberPosLeft": 1,
           "text":{
             "english": "Click “Show” to view your students' replies to a post.",
             "turkish": "Öğrencilerinizin gönderiye yanıtlarını görüntülemek için “Show” seçeneğine tıklayın.",
@@ -123,8 +123,8 @@
         },
         "paragraph02": {
           "number": 7,
-          "numberPosTop": 39,
-          "numberPosLeft": 39,
+          "numberPosTop": 43,
+          "numberPosLeft": 1,
           "text":{
             "english": "Click “Hide” to hide the replies.",
             "turkish": "Yanıtları gizlemek için “Hide” seçeneğine tıklayın.",
@@ -134,8 +134,8 @@
         },
         "paragraph03": {
           "number": 8,
-          "numberPosTop": 42,
-          "numberPosLeft": 56,
+          "numberPosTop": 46,
+          "numberPosLeft": 19,
           "text":{
             "english": "Click “Reply” to reply to a post.",
             "turkish": "Bir gönderiyi yanıtlamak için “Reply” seçeneğine tıklayın.",
@@ -145,8 +145,8 @@
         },
         "paragraph04": {
           "number": 9,
-          "numberPosTop": 44,
-          "numberPosLeft": 42,
+          "numberPosTop": 57,
+          "numberPosLeft": 11,
           "text":{
             "english": "If you click “Reply”, a text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
             "turkish": "“Reply” seçeneğine tıklarsanız, yanıtladığınız gönderinin altında bir metin kutusu açılacaktır. Yanıtınızı doğrudan tartışma içerisine girebilirsiniz.",
@@ -156,8 +156,8 @@
         },
         "paragraph05": {
           "number": 10,
-          "numberPosTop": 63,
-          "numberPosLeft": 42,
+          "numberPosTop": 72,
+          "numberPosLeft": 4,
           "text":{
             "english": "Click “Post” to post your reply to the discussion.",
             "turkish": "Tartışmaya yanıtınızı göndermek için “Post” seçeneğine tıklayın.",
@@ -167,8 +167,8 @@
         },
         "paragraph06": {
           "number": 11,
-          "numberPosTop": 63,
-          "numberPosLeft": 55,
+          "numberPosTop": 72,
+          "numberPosLeft": 28,
           "text":{
             "english": "Click “Cancel” if you do not want to post your reply.",
             "turkish": "Yanıtınızı paylaşmak istemiyorsanız “Cancel” seçeneğine tıklayın.",
@@ -178,8 +178,8 @@
         },
         "paragraph07": {
           "number": 12,
-          "numberPosTop": 29,
-          "numberPosLeft": 79,
+          "numberPosTop": 46,
+          "numberPosLeft": 34,
           "text":{
             "english": "Click “Delete Conversation” to delete an entire discussion which includes the original post, as well as all students' replies. Students are not able to delete discussions.",
             "turkish": "Gönderinin kendisini ve tüm öğrenci yanıtları da dahil tartışmanın tamamını silmek için “Delete Conversation” seçeneğine tıklayın. Öğrenciler tartışmaları silemez.",
@@ -189,8 +189,8 @@
         },
         "paragraph08": {
           "number": 13,
-          "numberPosTop": 79,
-          "numberPosLeft": 42,
+          "numberPosTop": 86,
+          "numberPosLeft": 17,
           "text":{
             "english": "Click “Delete Reply” to delete any reply within a discussion. Students are not able to delete replies.",
             "turkish": "Bir tartışma içindeki yanıtları silmek için “Delete Reply” seçeneğine tıklayın. Öğrenciler yanıtları silemez.",

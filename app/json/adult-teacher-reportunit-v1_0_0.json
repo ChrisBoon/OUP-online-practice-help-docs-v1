@@ -121,7 +121,7 @@
         "paragraph10": {
           "number": 10,
           "numberPosTop": 40,
-          "numberPosLeft": 15,
+          "numberPosLeft": 22.5,
           "text":{
             "english": "This is the student’s total score in a unit.",
             "turkish": "-",
