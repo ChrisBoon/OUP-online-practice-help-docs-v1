@@ -1,9 +1,9 @@
 {
  "title": {
-    "english": "Hide Units and Lessons",
-    "turkish": "Üniteleri ve Konuları Gizle",
-    "spanish": "Ocultar Unidades y Lecciones",
-    "arabic": "إخفاء الوحدات والدروس"
+    "english": "Hide/Assign Content",
+    "turkish": "-",
+    "spanish": "-",
+    "arabic": "-"
   },
  "segment": "adult",
  "userType": ["teacher"],

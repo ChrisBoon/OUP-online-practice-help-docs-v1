@@ -432,31 +432,9 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 18700,
+		"initialSize": 41615,
 		"inputAbbreviatedPath": "\/app\/img\/ASM001.png",
 		"outputAbbreviatedPath": "\/app\/img\/ASM001.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/app\/img\/ASM002.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 18407,
-		"inputAbbreviatedPath": "\/app\/img\/ASM002.png",
-		"outputAbbreviatedPath": "\/app\/img\/ASM002.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/app\/img\/ASM003.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 79558,
-		"inputAbbreviatedPath": "\/app\/img\/ASM003.jpg",
-		"outputAbbreviatedPath": "\/app\/img\/ASM003.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -883,31 +861,9 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 40690,
+		"initialSize": 41615,
 		"inputAbbreviatedPath": "\/app\/img\/ATM001.png",
 		"outputAbbreviatedPath": "\/app\/img\/ATM001.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/app\/img\/ATM002.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 18407,
-		"inputAbbreviatedPath": "\/app\/img\/ATM002.png",
-		"outputAbbreviatedPath": "\/app\/img\/ATM002.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/app\/img\/ATM003.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 79558,
-		"inputAbbreviatedPath": "\/app\/img\/ATM003.jpg",
-		"outputAbbreviatedPath": "\/app\/img\/ATM003.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -919,6 +875,39 @@
 		"initialSize": 63401,
 		"inputAbbreviatedPath": "\/app\/img\/ATMC001.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/ATMC001.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATR001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8565,
+		"inputAbbreviatedPath": "\/app\/img\/ATR001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATR001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATR002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36511,
+		"inputAbbreviatedPath": "\/app\/img\/ATR002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATR002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATR003.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7115,
+		"inputAbbreviatedPath": "\/app\/img\/ATR003.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATR003.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1011,6 +1000,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/ATRES001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24354,
+		"inputAbbreviatedPath": "\/app\/img\/ATRES001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATRES001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/ATRL001.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1018,6 +1018,39 @@
 		"initialSize": 47106,
 		"inputAbbreviatedPath": "\/app\/img\/ATRL001.png",
 		"outputAbbreviatedPath": "\/app\/img\/ATRL001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATRS001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49181,
+		"inputAbbreviatedPath": "\/app\/img\/ATRS001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATRS001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATRSA001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44514,
+		"inputAbbreviatedPath": "\/app\/img\/ATRSA001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATRSA001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATRU001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49826,
+		"inputAbbreviatedPath": "\/app\/img\/ATRU001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATRU001.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

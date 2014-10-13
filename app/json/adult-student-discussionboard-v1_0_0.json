@@ -93,9 +93,9 @@
           "numberPosTop": 90,
           "numberPosLeft": 32,
           "text":{
-            "english": "You can create a new post by clicking the “Create New Post” button. A new window will open. Your teacher and any student in your Online Practice class can see your post and reply to it.",
-            "turkish": "“Reply” seçeneğine tıklarsanız, yanıtladığınız gönderinin altında bir metin kutusu açılacaktır. Yanıtınızı doğrudan tartışma içerisine girebilirsiniz.",
-            "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي ترد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
+            "english": "You can create a new post by clicking the “Create New Thread” button. A new window will open. Your teacher and any student in your Online Practice class can see your post and reply to it.",
+            "turkish": "-",
+            "arabic": "-"
           }
         }
       }

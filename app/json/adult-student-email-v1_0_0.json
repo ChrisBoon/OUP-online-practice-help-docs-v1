@@ -32,7 +32,7 @@
           "numberPosTop": 2,
           "numberPosLeft": 33,
           "text":{
-            "english": "A number is displayed to the right of the inbox header. It shows the number of unread messages are in your inbox.",
+            "english": "A number is displayed to the right of the inbox header. It shows the number of unread messages in your inbox.",
             "turkish": "Gelen kutusu başlığının sağ tarafında bir sayı görüntülenir.  Bu sayı gelen kutunuzda kaç tane okunmamış mesaj olduğunu gösterir.",
             "arabic": "يتم عرض رقم علىيمين رأسية البريد الوارد.  ويُظهِر هذا الرقم عدد الرسائل غير المقروءة في صندوق البريد الوارد الخاص بك."
           }
@@ -154,9 +154,9 @@
           "numberPosTop": 86,
           "numberPosLeft": 68,
           "text":{
-            "english": "If you decide not to send the message, click the “Cancel” button. This will return you to the inbox.",
-            "turkish": "Mesajı göndermemeye karar verirseniz, “Cancel” düğmesine tıklayın.  Bu sizi gelen kutusuna geri götürecektir.",
-            "arabic": "إذا قررت عدم إرسال الرسالة، فانقر علىزر “Cancel” (\"إلغاء\").  فسوف يعيدك إلى صندوق البريد الوارد."
+            "english": "You can save messages before you send them and return to them later in the Drafts area by clicking the “Save” button.",
+            "turkish": "Mesajlarınızı göndermeden önce kaydedebilir ve “Save” düğmesine tıklayarak Taslaklar alanında daha sonra geri dönebilirsiniz.",
+            "arabic": "يمكنك حفظ الرسائل قبل إرسالها والعودة إليها في وقت لاحق في منطقة المسودات عن طريق النقر على زر“Save” (\"حفظ\")."
           }
         },
         "paragraph04": {
@@ -164,9 +164,9 @@
           "numberPosTop": 86,
           "numberPosLeft": 83,
           "text":{
-            "english": "You can save messages before you send them and return to them later in the Drafts area by clicking the “Save” button.",
-            "turkish": "Mesajlarınızı göndermeden önce kaydedebilir ve “Save” düğmesine tıklayarak Taslaklar alanında daha sonra geri dönebilirsiniz.",
-            "arabic": "يمكنك حفظ الرسائل قبل إرسالها والعودة إليها في وقت لاحق في منطقة المسودات عن طريق النقر على زر“Save” (\"حفظ\")."
+            "english": "If you decide not to send the message, click the “Cancel” button. This will return you to the inbox.",
+            "turkish": "Mesajı göndermemeye karar verirseniz, “Cancel” düğmesine tıklayın.  Bu sizi gelen kutusuna geri götürecektir.",
+            "arabic": "إذا قررت عدم إرسال الرسالة، فانقر علىزر “Cancel” (\"إلغاء\").  فسوف يعيدك إلى صندوق البريد الوارد."
           }
         }
       }

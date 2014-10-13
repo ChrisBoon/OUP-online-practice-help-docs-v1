@@ -7,7 +7,7 @@
   },
  "segment": "adult",
  "userType": ["teacher"],
- "pageCount": 3,
+ "pageCount": 1,
  "pages": {
     "page01": {
       "pageType": "screenshot",
@@ -50,52 +50,6 @@
             "turkish": "-",
             "spanish": "-",
             "arabic": "-"
-          }
-        }
-      }
-    },
-    "page02": {
-      "pageType": "screenshot",
-      "imgId": "ATM002.png",
-      "pageTitle": {
-        "english": "Video",
-        "turkish": "Video",
-        "spanish": "Vídeo",
-        "arabic": "الفيديو"
-      },
-      "paragraphs":{
-        "paragraph01": {
-          "number": 4,
-          "numberPosTop": 69,
-          "numberPosLeft": 26,
-          "text":{
-            "english": "Click on a video title to play a video file. It will play in a new tab in your browser.",
-            "turkish": "Bir video dosyasını oynatmak için bir video başlığına tıklayın. Tarayıcınızda yeni bir sekmede oynatılacaktır.",
-            "spanish": "Haga clic en un título de vídeo para reproducir un archivo de vídeo. Se podrá ver en una nueva pestaña en su navegador.",
-            "arabic": "انقر فوق عنوان مقطع الفيديو لتشغيل ملف الفيديو. سوف يقوم بتشغيل علامة تبويب جديدة في المتصفح الخاص بك."
-          }
-        }
-      }
-    },
-    "page03": {
-      "pageType": "screenshot",
-      "imgId": "ATM003.jpg",
-      "pageTitle": {
-        "english": "Video",
-        "turkish": "-",
-        "spanish": "Video",
-        "arabic": "الفيديو"
-      },
-      "paragraphs":{
-        "paragraph01": {
-          "number": 5,
-          "numberPosTop": 87,
-          "numberPosLeft": 6,
-          "text":{
-            "english": "Use the controls to play and pause the video, change the volume and enter full-screen view.",
-            "turkish": "Video’yu oynatmak ve durdurmak, ses seviyesini değiştirmek ve tam ekran görünümüne geçmek için kontrolleri kullanın.",
-            "spanish": "Use los controles para reproducir y pausar el video, cambiar el volumen y activar la vista de pantalla completa.",
-            "arabic": "استخدم مفاتيح التحكم لتشغيل وإيقاف مقطع الفيديو وتغيير مستوى جهارة الصوت وإدخال المنظر بملء الشاشة."
           }
         }
       }

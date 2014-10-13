@@ -122,7 +122,7 @@
           "turkish": "-",
           "arabic": "-"
         },
-        "id": "adult-teacher-reportunit-v1_0_0"
+        "id": "adult-teacher-reportsegment-v1_0_0"
       },
       "item14":{
         "order":14,
@@ -131,7 +131,7 @@
           "turkish": "Ünite Raporu",
           "arabic": "تقرير الوحدة"
         },
-        "id": "adult-teacher-reportlesson-v1_0_0"
+        "id": "adult-teacher-reportunit-v1_0_0"
       },
       "item15":{
         "order":15,
@@ -212,7 +212,7 @@
           "turkish": "-",
           "arabic": "-"
         },
-        "id": "adult-teacher-forum-v1_0_0"
+        "id": "adult-teacher-discussionboard-v1_0_0"
       },
       "item24":{
         "order":24,

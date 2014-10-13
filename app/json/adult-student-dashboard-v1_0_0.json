@@ -32,7 +32,7 @@
           "numberPosTop": 12,
           "numberPosLeft": 1,
           "text":{
-            "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect! You can attempt an Online Practice activity as many times as you want. The highest score of the three attempts is recorded as your final score.",
+            "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect!",
             "turkish": "-",
             "arabic": "-"
           }
@@ -82,7 +82,7 @@
           "numberPosTop": 14,
           "numberPosLeft": 63,
           "text":{
-            "english": "This is your Dashboard. The Online Practice is divided into several areas, for example, Test, Vocabulary, and Practice. The Dashboard shows your activity results for a level across the different areas.",
+            "english": "This is your Dashboard. The Online Practice is divided into several areas, for example, Tests, Vocabulary, and Practice. The Dashboard shows your activity results for a level across the different areas.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -102,9 +102,9 @@
           "numberPosTop": 54,
           "numberPosLeft": 92,
           "text":{
-            "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
-            "turkish": "Tamamlanan aktivitelerin sayısı beceri alanındaki toplam aktivite sayısıyla birlikte gösterilir.",
-            "arabic": "ويظهر عدد الأنشطة المُنجَزة هنا جنبًا إلى جنب مع عدد الأنشطة في هذا المجال من المهارة."
+            "english": "The number of completed activities is shown here along with the total number of activities in an area.",
+            "turkish": "-",
+            "arabic": "-"
           }
         }
       }

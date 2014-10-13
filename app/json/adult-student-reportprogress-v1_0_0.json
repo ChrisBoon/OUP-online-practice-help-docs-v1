@@ -32,7 +32,7 @@
           "numberPosTop": 11,
           "numberPosLeft": 7,
           "text":{
-            "english": "Use this menu to display reports for all segments or for specific segment.",
+            "english": "Use this menu to display reports for all segments or for a specific segment.",
             "turkish": "-",
             "arabic": "-"
           }
@@ -42,7 +42,7 @@
           "numberPosTop": 32,
           "numberPosLeft": 0,
           "text":{
-            "english": "This row shows the total score of all activities attempted in unit. The score is shown out of the total number of possible points in the attempted activities.",
+            "english": "This row shows the total score of all activities attempted in each unit. The score is shown out of the total number of possible points in the attempted activities.",
             "turkish": "-",
             "arabic": "-"
           }
