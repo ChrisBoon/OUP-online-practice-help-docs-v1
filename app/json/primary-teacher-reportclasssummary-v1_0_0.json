@@ -118,8 +118,19 @@
             "arabic": "هذا هو إجمالي متوسط الوقت في كل وحدة والذي يقضيه الطلاب في الأنشطة خلال المستوى."
           }
         },
-        "paragraph11": {
+        "paragraph09": {
           "number": 10,
+          "numberPosTop": 10,
+          "numberPosLeft": 79,
+          "text":{
+            "english": "Click here to export this report to Microsoft Excel™.",
+            "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
+            "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
+          }
+        },
+        "paragraph11": {
+          "number": 11,
           "numberPosTop": 10,
           "numberPosLeft": 88,
           "text":{
