@@ -43,7 +43,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 91,
+          "numberPosTop": 76,
           "numberPosLeft": 3,
           "text":{
             "english": "If a student has scored 30% of the total possible points in a unit, they are awarded a star.",
@@ -54,7 +54,7 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 76,
+          "numberPosTop": 61,
           "numberPosLeft": 3,
           "text":{
             "english": "If a student has scored 70% of the total possible points in a unit, they are awarded two stars.",
