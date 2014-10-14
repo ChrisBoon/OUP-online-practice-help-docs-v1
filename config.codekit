@@ -868,6 +868,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/ATMA001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33325,
+		"inputAbbreviatedPath": "\/app\/img\/ATMA001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATMA001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/ATMC001.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1517,13 +1528,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/app\/img\/PTAL002.png": {
+	"\/app\/img\/ptal002.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 0,
-		"inputAbbreviatedPath": "\/app\/img\/PTAL002.png",
-		"outputAbbreviatedPath": "\/app\/img\/PTAL002.png",
+		"inputAbbreviatedPath": "\/app\/img\/ptal002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ptal002.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2095,6 +2106,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/app\/partials\/faq-adult.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/partials\/faq-adult.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/partials\/faq-primary.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2109,6 +2129,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/partials\/partial1.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/partials\/welcome-adult.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/partials\/welcome-adult.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

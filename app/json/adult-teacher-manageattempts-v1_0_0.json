@@ -1,0 +1,80 @@
+{
+ "title": {
+    "english": "Manage Attempts",
+    "turkish": "-",
+    "spanish": "-",
+    "arabic": "-"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATMA001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 3,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "This page allows you to change the information you see in your reports.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 3,
+          "numberPosLeft": 62,
+          "text":{
+            "english": "Click here to manage attempts for a different class.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 25,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "Click here to show the first attempt on each activity. Students can continue to practice, but you will only see their first score in your reports.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 36,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "Click here to show the last attempt on each activity. Students can continue to practice, but you will only see their last score in your reports. (This is the default setting.)",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 58,
+          "numberPosLeft": 24,
+          "text":{
+            "english": "Click here to save your changes.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}
