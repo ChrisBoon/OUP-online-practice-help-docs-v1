@@ -3,6 +3,7 @@
     "english": "Join an Institution",
     "turkish": "Bir kuruma katılın",
     "spanish": "Inscribirse a una Institución",
+    "portuguese": "Associe-se a uma Instituição",
     "arabic": "الانضمام إلى مؤسسة"
   },
  "segment": "primary",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "portuguese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. The administrator will be able to see reports for the Online Practice classes of all teachers who have joined the Online Practice institution. If you do not have an institution ID code, click “Cancel”.",
             "turkish": "Bir kurum ID kodunuz varsa, buraya girin. Bu yöneticinizin size verebileceği bir koddur. Bu kod ders kayıtlarınızı okul ya da kuruma iletmenizi sağlar. Yönetici, Çevrim İçi Uygulama kurumuna katılan tüm öğretmenlerin Çevrim İçi Uygulama derslerine ait raporlarını görüntüleyebilir. Bir kurum ID kodunuz yoksa, “Cancel” seçeneğine tıklayın.",
             "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. El administrador podrá ver los informes para las clases de Práctica Online de todos los profesores que se hayan inscrito a la institución de Práctica Online. Si no tiene un código de ID de institución, haga clic en \"Cancel\".",
+            "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de aula com sua escola ou instituição. O administrador será capaz de visualizar os relatórios das aulas de todos os professores que participam do Online Practice. Caso você não tenha um código de identificação da instituição, clique em “Cancel”.",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فأدخله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. وسيتمكن المدير من رؤية التقارير الخاصة بفصول الممارسةعبر شبكة الإنترنت والخاصة بكافة المعلمين الذين انضموا إلى مؤسسة الممارسة عبر شبكة الإنترنت. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Cancel”(\"إلغاء\")."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Click here to submit your institution ID code and return to the Class Details page.",
             "turkish": "Kurum ID kodunuzu göndermek ve Sınıf Ayrıntıları sayfasına dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su código de ID de institución y volver a la página de Detalles de la Clase.",
+            "portuguese": "Clique aqui para enviar seu código de identificação da instituição e para voltar para a página dados da aula.",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاص بك والعودة إلى صفحة التفاصيل الخاصة بالفصل."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Click here if you do not have an institution ID code.",
             "turkish": "Bir kurum ID kodunuz yoksa buraya tıklayın.",
             "spanish": "Haga clic aquí si usted no tiene un código de ID de institución.",
+            "portuguese": "Clique aqui caso você não tenha um código de identificação da instituição.",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         }

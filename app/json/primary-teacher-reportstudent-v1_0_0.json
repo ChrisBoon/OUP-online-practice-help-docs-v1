@@ -3,6 +3,7 @@
     "english": "Student Report",
     "turkish": "Öğrenci Raporu",
     "spanish": "Informe del Estudiante",
+    "portuguese": "Relatório do aluno",
     "arabic": "تقرير عن الطالب"
   },
  "segment": "primary",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "portuguese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe del Resumen de la Clase (puntuación media en todas sus clases).",
+            "portuguese": "Clique aqui para visualizar o relatório resumido da aula (pontuações médias de todas as suas aulas).",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Click here to view the Class Report for the class shown in the menu on the right.",
             "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase que se muestra en el menú de la derecha.",
+            "portuguese": "Clique aqui para visualizar o relatório da aula exibida no menu à direita.",
             "arabic": "انقر هنا لعرض تقرير الفصل الخاص بالفصل المعروض في القائمة على اليمين."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Use this menu to view the Class Report for a different class. Select “All Classes” to go to the Class Summary Report.",
             "turkish": "Farklı bir derse ait bir Ders Raporu görüntülemek için bu menüyü kullanın. Ders Özeti Raporuna gitmek için “All Classes” seçeneğini seçin.",
             "spanish": "Utilice este menú para ver el Informe de Clase para una clase diferente. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
+            "portuguese": "Utilize este menu para visualizar o relatório de uma aula diferente. Selecione “All Classes” para ir para o relatório resumido da aula.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الفصل لفصل مختلف. حدد “All Classes” (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
         },
@@ -60,6 +65,7 @@
             "english": "Use this menu to view the Student Report for a different student in this class.",
             "turkish": "Bu sınıftaki farklı bir öğrenciye ait Öğrenci Raporunu görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el Informe del Estudiante para otro estudiante de esta clase.",
+            "portuguese": "Utilize este menu para visualizar o relatório de um aluno diferente nesta aula.",
             "arabic": "استخدم هذه القائمة لعرض تقرير الطالب لطالب مختلف في هذا الفصل."
           }
         },
@@ -71,6 +77,7 @@
             "english": "Click here to see the student’s Achievements.",
             "turkish": "Öğrencinin Başarılarını görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver los Logros del estudiante.",
+            "portuguese": "Clique aqui para visualizar as realizações do aluno.",
             "arabic": "انقر هنا لرؤية تحصيل الطلاب."
           }
         },
@@ -82,6 +89,7 @@
             "english": "Use this menu to see a student’s results for a specific unit or all units.",
             "turkish": "Bir öğrencinin belli bir ünite ya da tüm üniteler için sonuçlarını görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver los resultados de un estudiante para una unidad específica o todas las unidades.",
+            "portuguese": "Utilize este menu para visualizar os resultados de um aluno em uma unidade específica ou em todas as unidades.",
             "arabic": "استخدم هذه القائمة للاطلاع على نتائجالطلاب في وحدة معينة أو في جميع الوحدات."
           }
         },
@@ -93,6 +101,7 @@
             "english": "You can also click on a unit title to view a student’s Unit Report.",
             "turkish": "Öğrencinin Ünite Raporunu görüntülemek için ünite başlığına da tıklayabilirsiniz.",
             "spanish": "También puede hacer clic en el título de una unidad para ver el Informe de Unidad de un estudiante.",
+            "portuguese": "Você também pode clicar no título de uma unidade para visualizar o relatório da unidade de um aluno.",
             "arabic": "يمكنك أيضًا أن تنقر فوق عنوان وحدة ما لعرض تقرير الوحدة الخاص بأحد الطلاب."
           }
         },
@@ -104,6 +113,7 @@
             "english": "Click on a lesson title to view the student’s work in this lesson.",
             "turkish": "Öğrencinin bu dersteki çalışmasını görüntülemek için bir konu başlığına tıklayın.",
             "spanish": "Haga clic en el título de la lección para ver el trabajo del estudiante en esta lección.",
+            "portuguese": "Clique no título de uma lição para visualizar o trabalho de um aluno.",
             "arabic": "انقر فوق عنوان درس ما لعرض العمل الخاص بالطالب في هذا الدرس."
           }
         },
@@ -115,6 +125,7 @@
             "english": "This row shows a student’s total score for all activities in a lesson.",
             "turkish": "Bu satır öğrencinin tüm aktivitelerdeki toplam puanını gösterir.",
             "spanish": "Esta fila muestra la puntuación total de un estudiante para todas las actividades en una lección.",
+            "portuguese": "Esta linha exibe a pontuação total de um aluno para em todas as atividades de uma lição.",
             "arabic": "يعرض هذا الصف الدرجة الإجمالية للطالب الخاصة بجميع الأنشطة في أحد الدروس."
           }
         },
@@ -126,6 +137,7 @@
             "english": "This row shows the number of times a student attempted all activities in a lesson.",
             "turkish": "Bu satır öğrencinin bir konu içindeki tüm aktiviteleri deneme sayısını gösterir.",
             "spanish": "Esta fila muestra la cantidad de veces que un estudiante ha intentado completar todas las actividades en una lección.",
+            "portuguese": "Esta linha exibe o número de vezes que um aluno tentou realizar todas as atividades em uma lição.",
             "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي حاول فيها أحد الطلاب القيام بجميع الأنشطة في أحد الدروس."
           }
         },
@@ -137,6 +149,7 @@
             "english": "This row shows the total amount of time the student spent on each lesson.",
             "turkish": "Bu satır öğrencinin her bir konuda harcadığı toplam süreyi gösterir.",
             "spanish": "Esta línea muestra la cantidad total de tiempo que el estudiante ha dedicado a cada lección.",
+            "portuguese": "Esta linha exibe a quantidade total de tempo que o aluno gastou em cada lição.",
             "arabic": "يظهر هذا الصف مقدار الوقت الإجمالي الذي قضاه الطالب في كل درس."
           }
         },
@@ -148,6 +161,7 @@
             "english": "This is the student’s total score across all activities in a unit.",
             "turkish": "Bu, öğrencinin tüm aktivitelerde elde ettiği toplam puandır.",
             "spanish": "Esta es la calificación total del estudiante en todas las actividades de una unidad.",
+            "portuguese": "Esta é a pontuação total do aluno em todas as atividades de uma unidade.",
             "arabic": "هذه هي الدرجة الإجمالية للطالب من خلال كل الأنشطة في وحدة ما."
           }
         },
@@ -159,6 +173,7 @@
             "english": "This is the total number of times the student has attempted all activities in a unit.",
             "turkish": "Bu, öğrencinin bu üniteki tüm aktiviteleri toplam deneme sayısıdır.",
             "spanish": "Este es el número total de veces que el estudiante ha intentado completar las actividades en una unidad.",
+            "portuguese": "Este é o número total de vezes que o aluno tentou realizar todas as atividades em uma unidade.",
             "arabic": "هذا هو العدد الإجمالي للأوقات التي حاول فيها الطالب القيام بجميع الأنشطة في وحدة ما."
           }
         },
@@ -170,6 +185,7 @@
             "english": "This is the total time taken on all activities in a unit.",
             "turkish": "Bu, bir ünitedeki tüm aktivitelerde harcadığınız toplam süredir.",
             "spanish": "Este es el tiempo total dedicado a todas las actividades en una unidad.",
+            "portuguese": "Este é o tempo total gasto em todas as atividades de uma unidade.",
             "arabic": "هذا هو إجمالي الوقت المُستغرَق في جميع أنشطة وحدة ما."
           }
         },
@@ -181,6 +197,7 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
+            "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™.",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -192,6 +209,7 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
+            "portuguese": "Clique aqui para imprimir este relatório.",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }
