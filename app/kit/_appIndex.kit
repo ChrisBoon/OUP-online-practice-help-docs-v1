@@ -73,6 +73,7 @@ ng-click="firstTimeSet()"
       <span ng-if="language.language == 'turkish'">Hoşgeldiniz</span>
       <span ng-if="language.language == 'arabic'" class="rtl">مرحبًا بكم</span>
       <span ng-if="language.language == 'spanish'">Bienvenido</span>
+      <span ng-if="language.language == 'portuguese'">Bem-vindo</span>
     </a>
 
       <accordion close-others="oneAtATime">
@@ -111,6 +112,15 @@ ng-click="firstTimeSet()"
 
           <accordion-heading ng-if="language.language == 'spanish'">
             {{user.userType.spanish}}
+            <span 
+            class="accordion-toggle__arrow"
+            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
+            >
+            </span>
+          </accordion-heading>
+
+          <accordion-heading ng-if="language.language == 'portuguese'">
+            {{user.userType.portuguese}}
             <span 
             class="accordion-toggle__arrow"
             ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
@@ -157,6 +167,14 @@ ng-click="firstTimeSet()"
               >
                 {{listitem.title.spanish}}
               </a>
+              <a 
+              ng-if="language.language == 'portuguese'"
+              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
+              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
+              class="help-menu__option"
+              >
+                {{listitem.title.portuguese}}
+              </a>
             </li>
           </ul>
         </accordion-group>
@@ -170,6 +188,7 @@ ng-click="firstTimeSet()"
       <span ng-if="language.language == 'turkish'">SSS</span>
       <span ng-if="language.language == 'arabic'" class="rtl"> الأسئلة المتكررة</span>
       <span ng-if="language.language == 'spanish'">Preguntas Frecuentes</span>
+      <span ng-if="language.language == 'portuguese'">FAQ</span>
     </a>      
     </div>
   </div>

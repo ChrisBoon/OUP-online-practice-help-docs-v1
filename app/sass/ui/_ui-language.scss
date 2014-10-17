@@ -2,7 +2,7 @@
   position: relative;
   float: right;
   height: $headerHeight;
-  width: 120px;
+  width: 140px;
 }
 
 .language-choice-toggle{
@@ -10,8 +10,8 @@
   text-transform: capitalize;
   text-align: center;
   height: $headerHeight;
-  line-height: $headerHeight - 1px;
-  padding: 0;
+  line-height: $headerHeight - 11px;
+  padding: 5px 10px;
   cursor: pointer;
   transition: background 0.2s;
   @extend %user-select-none;
@@ -78,6 +78,26 @@
 .language-chosen__container--Arabic{
   &:before{
     content: "العربية";
+  }
+  .language-chosen--english{
+    display: none;
+  }
+}
+.language-chosen__container--spanish,
+.language-chosen__container--Spanish{
+  display: inline-block;
+  line-height: 1.2;
+  &:before{
+    content: "Español (América Latina)";
+  }
+  .language-chosen--english{
+    display: none;
+  }
+}
+.language-chosen__container--portuguese,
+.language-chosen__container--Portuguese{
+  &:before{
+    content: "Portuguese";
   }
   .language-chosen--english{
     display: none;

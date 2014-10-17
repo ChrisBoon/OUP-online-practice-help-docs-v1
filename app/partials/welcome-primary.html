@@ -177,3 +177,48 @@ ng-if="language.language == 'spanish'"
   </div><!--/welcome-page__container-->
 
 </div><!--/welcome-page SPANISH-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'portuguese'"
+>
+
+  <h1 class="welcome-page__heading">Bem-vindo à seção de ajuda do {{courseName}} no Online Practice.</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">Utilização a seção de ajuda do Online Practice</h2>
+      <p>Utilize o menu deslizante localizado ao lado esquerdo para encontrar ajuda e orientação sobre como utilizar as diferentes áreas do seu curso Online Practice para alunos, professores e administradores.</p>
+      <p>Clique em qualquer parte de texto em cada seção de ajuda para visualizar os números relacionados destacados nas capturas de tela.</p>
+      <p ng-if="appLanguages.length > 1">Utilize o menu à direita para utilizar a seção de ajuda do Online Practice em um idioma diferente.</p>
+    </div>
+
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">Navegadores recomendados e dispositivos compatíveis</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Windows®:</h3>
+        <p>Internet Explorer 9+, Firefox 28+, Chrome 31+</p>
+        <p>O plug-in Flash Player 11 + é necessário para as atividades de gravação</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Mac® OS X:</h3>
+        <p>Firefox 25+, Safari 7.0.2+, Chrome 33+</p>
+        <p>O plug-in Flash Player 11 + é necessário para as atividades de gravação</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Android®:</h3>
+        <p>O SO deve ser o 4.0 ou superior e o navegador compatível é Google® Chrome</p>
+        <p>Testado e compatível com os seguintes dispositivos: Samsung® Galaxy Tab v2 e v3, Samsung® Galaxy Note 10.1 7” e 10”, Google® Nexus 7, Google® Nexus 10</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">iOS®:</h3>
+        <p>O SO deve ser o iOS®6 ou superior e o navegador compatível é o Safari</p>
+        <p>Testado e compatível com os seguintes dispositivos: iPad® 2 ou posterior, iPad ® Mini, iPad ® Air</p>
+      </div>
+      <p class="small-text">* As atividades de gravação no Windows® e Mac® OSX necessitam do plug-in Flash Player 11+. Visite o website abaixo para fazer o download da versão mais recente do Flash Player:  <a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a></p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page PORTUGUESE-->
