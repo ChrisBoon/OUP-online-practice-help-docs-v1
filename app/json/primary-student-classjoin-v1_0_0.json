@@ -23,7 +23,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 22,
+          "numberPosTop": 32,
           "numberPosLeft": 9,
           "text":{
             "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
@@ -35,7 +35,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 29,
+          "numberPosTop": 41,
           "numberPosLeft": 26,
           "text":{
             "english": "Click here to submit your class ID code and return to your Home page.",
@@ -47,7 +47,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 29,
+          "numberPosTop": 41,
           "numberPosLeft": 38,
           "text":{
             "english": "Click here to go back to the previous page without joining a class.",
