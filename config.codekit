@@ -118,7 +118,7 @@
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/app\/icons\/help-doc-icon-t2t-2x.png": {
 		"fileType": 32768,
@@ -1528,13 +1528,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/app\/img\/ptal002.png": {
+	"\/app\/img\/PTAL002.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 0,
-		"inputAbbreviatedPath": "\/app\/img\/ptal002.png",
-		"outputAbbreviatedPath": "\/app\/img\/ptal002.png",
+		"inputAbbreviatedPath": "\/app\/img\/PTAL002.png",
+		"outputAbbreviatedPath": "\/app\/img\/PTAL002.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2106,6 +2106,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/app\/kit\/q2e.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/kit\/q2e.kit",
+		"outputAbbreviatedPath": "\/app\/q2e.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/partials\/faq-adult.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2147,6 +2156,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/partials\/welcome-primary.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/q2e.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/q2e.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

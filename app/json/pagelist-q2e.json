@@ -1,0 +1,419 @@
+{
+  "01_teacher": {
+    "order": 1,
+    "userType": {
+        "english": "Teacher",
+        "turkish": "Öğretmen",
+        "arabic": "المعلم"
+      },
+    "docsList":{
+      "item01":{
+        "order":1,
+        "title": {
+          "english": "Registration",
+          "turkish": "Kayıt",
+          "arabic": "التسجيل"
+        },
+        "id": "adult-teacher-registration-v1_0_0"
+      },
+      "item02":{
+        "order":2,
+        "title": {
+          "english": "Home",
+          "turkish": "Anasayfa",
+          "arabic": "الصفحة الرئيسية"
+        },
+        "id": "adult-teacher-home-v1_0_0"
+      },
+      "item03":{
+        "order":3,
+        "title": {
+          "english": "Manage Classes",
+          "turkish": "Sınıfları Yönet",
+          "arabic": "إدارة الفصول"
+        },
+        "id": "adult-teacher-manageclasses-v1_0_0"
+      },
+      "item04":{
+        "order":4,
+        "title": {
+          "english": "Manage Attempts",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-manageattempts-v1_0_0"
+      },
+      "item05":{
+        "order":5,
+        "title": {
+          "english": "Class Details",
+          "turkish": "Sınıf Ayrıntıları",
+          "arabic": "تفاصيل الفصل"
+        },
+        "id": "adult-teacher-classdetails-v1_0_0"
+      },
+      "item06":{
+        "order":6,
+        "title": {
+          "english": "Edit Class Name",
+          "turkish": "Sınıf Adını Düzenle",
+          "arabic": "تحرير اسم الفصل"
+        },
+        "id": "adult-teacher-classeditname-v1_0_0"
+      },
+      "item07":{
+        "order":7,
+        "title": {
+          "english": "Join an Institution",
+          "turkish": "Bir Kuruma Kaydol",
+          "arabic": "الانضمام إلى مؤسسة"
+        },
+        "id": "adult-teacher-joininstitution-v1_0_0"
+      },
+      "item08":{
+        "order":8,
+        "title": {
+          "english": "Hide/Assign Content",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-contentassign-v1_0_0"
+      },
+      "item09":{
+        "order":9,
+        "title": {
+          "english": "Add a New Class",
+          "turkish": "Yeni Sınıf Ekle",
+          "arabic": "إضافة فصل جديد"
+        },
+        "id": "adult-teacher-addclass-v1_0_0"
+      },
+      "item10":{
+        "order":10,
+        "title": {
+          "english": "Class Summary Report",
+          "turkish": "Sınıf Özeti Raporu",
+          "arabic": "تقرير موجز الفصل"
+        },
+        "id": "adult-teacher-reportclasssummary-v1_0_0"
+      },
+      "item11":{
+        "order":11,
+        "title": {
+          "english": "Class Report",
+          "turkish": "Sınıf Raporu",
+          "arabic": "التقرير الخاص بالفصل"
+        },
+        "id": "adult-teacher-reportclass-v1_0_0"
+      },
+      "item12":{
+        "order":12,
+        "title": {
+          "english": "Student Report",
+          "turkish": "Öğrenci Raporu",
+          "arabic": "تقرير عن الطالب"
+        },
+        "id": "adult-teacher-reportstudent-v1_0_0"
+      },
+      "item13":{
+        "order":13,
+        "title": {
+          "english": "Achievements",
+          "turkish": "Başarılar",
+          "arabic": "التحصيل"
+        },
+        "id": "adult-teacher-dashboard-v1_0_0"
+      },
+      "item14":{
+        "order":14,
+        "title": {
+          "english": "Segment Report",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-reportsegment-v1_0_0"
+      },
+      "item15":{
+        "order":15,
+        "title": {
+          "english": "Unit Report",
+          "turkish": "Ünite Raporu",
+          "arabic": "تقرير الوحدة"
+        },
+        "id": "adult-teacher-reportunit-v1_0_0"
+      },
+      "item16":{
+        "order":16,
+        "title": {
+          "english": "Student Activity Report",
+          "turkish": "Öğrenci Aktivite Raporu",
+          "arabic": "تقرير نشاط الطالب"
+        },
+        "id": "adult-teacher-reportstudentactivity-v1_0_0"
+      },
+      "item17":{
+        "order":17,
+        "title": {
+          "english": "Activities and Resources",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-enteronlinepractice-v1_0_0"
+      },
+      "item18":{
+        "order":18,
+        "title": {
+          "english": "Activities",
+          "turkish": "Aktivitler",
+          "arabic": "أنشطة"
+        },
+        "id": "adult-teacher-activities-v1_0_0"
+      },
+      "item19":{
+        "order":19,
+        "title": {
+          "english": "Glossary",
+          "turkish": "Sözlük",
+          "arabic": "المسرد"
+        },
+        "id": "adult-teacher-glossary-v1_0_0"
+      },
+      "item20":{
+        "order":20,
+        "title": {
+          "english": "Resources",
+          "turkish": "Kaynaklar",
+          "arabic": "الموارد"
+        },
+        "id": "adult-teacher-resources-v1_0_0"
+      },
+      "item21":{
+        "order":21,
+        "title": {
+          "english": "Media Center",
+          "turkish": "Medya Merkezi",
+          "arabic": "مركز الوسائط"
+        },
+        "id": "adult-teacher-media-v1_0_0"
+      },
+      "item22":{
+        "order":22,
+        "title": {
+          "english": "Add a Level",
+          "turkish": "Seviye Ekle",
+          "arabic": "إضافة مستوى"
+        },
+        "id": "adult-teacher-addlevel-v1_0_0"
+      },
+      "item23":{
+        "order":23,
+        "title": {
+          "english": "Email",
+          "turkish": "Email",
+          "arabic": "البريد الإلكتروني"
+        },
+        "id": "adult-teacher-email-v1_0_0"
+      },
+      "item24":{
+        "order":24,
+        "title": {
+          "english": "Discussion Board",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-discussionboard-v1_0_0"
+      },
+      "item25":{
+        "order":25,
+        "title": {
+          "english": "Edit Profile",
+          "turkish": "Profili Düzenle",
+          "arabic": "تحرير الملف الشخصي"
+        },
+        "id": "adult-teacher-editprofile-v1_0_0"
+      }
+    }
+  },
+  "02_student": {
+    "order": 2,
+    "userType": {
+        "english": "Student",
+        "turkish": "Öğrenci",
+        "arabic": "الطالب"
+      },
+    "docsList":{
+      "item01":{
+        "order":1,
+        "title": {
+          "english": "Registration",
+          "turkish": "Kayıt",
+          "arabic": "التسجيل"
+        },
+        "id": "adult-student-registration-v1_0_0"
+      },
+      "item02":{
+        "order":2,
+        "title": {
+          "english": "Home",
+          "turkish": "Anasayfa",
+          "arabic": "الصفحة الرئيسية"
+        },
+        "id": "adult-student-home-v1_0_0"
+      },
+      "item03":{
+        "order":3,
+        "title": {
+          "english": "Add a Level",
+          "turkish": "Seviye Ekle",
+          "arabic": "إضافة مستوى"
+        },
+        "id": "adult-student-addlevel-v1_0_0"
+      },
+      "item04":{
+        "order":4,
+        "title": {
+          "english": "Activities",
+          "turkish": "Aktiviteler",
+          "arabic": "أنشطة"
+        },
+        "id": "adult-student-activities-v1_0_0"
+      },
+      "item05":{
+        "order":5,
+        "title": {
+          "english": "Glossary",
+          "turkish": "Sözlük",
+          "arabic": "المسرد"
+        },
+        "id": "adult-student-glossary-v1_0_0"
+      },
+      "item06":{
+        "order":6,
+        "title": {
+          "english": "Resources",
+          "turkish": "Kaynaklar",
+          "arabic": "الموارد"
+        },
+        "id": "adult-student-resources-v1_0_0"
+      },
+      "item07":{
+        "order":7,
+        "title": {
+          "english": "Achievements",
+          "turkish": "Başarılar",
+          "arabic": "التحصيل"
+        },
+        "id": "adult-student-dashboard-v1_0_0"
+      },
+      "item08":{
+        "order":8,
+        "title": {
+          "english": "Report",
+          "turkish": "Rapor",
+          "arabic": "التقرير"
+        },
+        "id": "adult-student-reportprogress-v1_0_0"
+      },
+      "item09":{
+        "order":9,
+        "title": {
+          "english": "Segment Report",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-student-reportsegment-v1_0_0"
+      },
+      "item10":{
+        "order":10,
+        "title": {
+          "english": "Email",
+          "turkish": "Email",
+          "arabic": "البريد الإلكتروني"
+        },
+        "id": "adult-student-email-v1_0_0"
+      },
+      "item11":{
+        "order":11,
+        "title": {
+          "english": "Discussion Board",
+          "turkish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-student-discussionboard-v1_0_0"
+      },
+      "item12":{
+        "order":12,
+        "title": {
+          "english": "Media Center",
+          "turkish": "Medya Merkezi",
+          "arabic": "مركز الوسائط"
+        },
+        "id": "adult-student-media-v1_0_0"
+      },
+      "item13":{
+        "order":13,
+        "title": {
+          "english": "Join a Class",
+          "turkish": "Sınıfa Katıl",
+          "arabic": "الانضمام إلى فصل"
+        },
+        "id": "adult-student-classjoin-v1_0_0"
+      },
+      "item14":{
+        "order":14,
+        "title": {
+          "english": "Change Class",
+          "turkish": "Sınıf Değiştir",
+          "arabic": "تغيير الفصل"
+        },
+        "id": "adult-student-classchange-v1_0_0"
+      },
+      "item15":{
+        "order":15,
+        "title": {
+          "english": "Edit Profile",
+          "turkish": "Profili Düzenle",
+          "arabic": "تحرير الملف الشخصي"
+        },
+        "id": "adult-student-editprofile-v1_0_0"
+      }
+    }
+  },
+  "03_admin": {
+    "order": 3,
+    "userType": {
+        "english": "Administrator",
+        "turkish": "Yönetici",
+        "arabic": "مراقب النظام"
+      },
+    "docsList":{
+      "item01":{
+        "order":1,
+        "title": {
+          "english": "Registration",
+          "turkish": "Kayıt",
+          "arabic": "التسجيل"
+        },
+        "id": "adult-admin-registration-v1_0_0"
+      },
+      "item02":{
+        "order":2,
+        "title": {
+          "english": "Home",
+          "turkish": "Anasayfa",
+          "arabic": "الصفحة الرئيسية"
+        },
+        "id": "adult-admin-home-v1_0_0"
+      },
+      "item03":{
+        "order":3,
+        "title": {
+          "english": "Edit Profile",
+          "turkish": "Profili Düzenle",
+          "arabic": "تحرير الملف الشخصي"
+        },
+        "id": "adult-admin-editprofile-v1_0_0"
+      }
+    }
+  }
+}
