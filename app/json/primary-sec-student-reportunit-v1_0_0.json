@@ -1,0 +1,111 @@
+{
+ "title": {
+    "english": "Student Unit Report",
+    "turkish": "Öğrenci Ünite Raporu",
+    "spanish": "Informe de Unidades del Estudiante",
+    "portuguese": "Relatório de unidade do aluno",
+    "arabic": "تقرير وحدة الطالب"
+  },
+ "segment": "primary",
+ "userType": ["student"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "P-SEC-SRU001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "portuguese": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 15,
+          "numberPosLeft": 9,
+          "text":{
+            "english": "Use this menu to display reports for all units or display reports for separate units.",
+            "turkish": "Tüm üniteler için raporları görüntülemek veya ayrı üniteler için raporları görüntülemek için bu menüyü kullanın.",
+            "spanish": "Utilice este menú para visualizar informes para todas las unidades, o informes para unidades por separado.",
+            "portuguese": "Utilize este menu para exibir relatórios sobre todas as unidades ou para exibir relatórios sobre cada unidade separadamente.",
+            "arabic": "استخدم هذه القائمة لعرض تقارير لجميع الوحدات أو لعرض تقارير لوحدات منفصلة."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 36,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the scores for each activity in a lesson. The score is shown out of the total number of possible points in an activity.",
+            "turkish": "Bu satır bir dersteki her bir aktivitenin puanlarını gösterir. Puan katıldığınız aktivitelerin mümkün olan toplam puan sayısı üzerinden gösterilir.",
+            "spanish": "Esta fila muestra las puntuaciones de cada actividad en una lección. La puntuación se muestra en base al número total de puntos posibles para una actividad.",
+            "portuguese": "Esta linha exibe as pontuações de cada atividade em uma lição. A pontuação é exibida em relação ao número total de pontos possíveis em uma atividade.",
+            "arabic": "يبين هذا الصف درجات كل نشاط في درس ما. يتم عرض درجة الرقم الإجمالي للنقاط الممكنة في نشاط ما."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 42,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the number of attempts at each activity in a lesson.",
+            "turkish": "Bu satır bir dersteki her bir aktiviteye toplam katılma sayınızı gösterir.",
+            "spanish": "Esta fila muestra el número de intentos para cada actividad en una lección.",
+            "portuguese": "Esta linha exibe o número de tentativas em cada atividade em uma lição.",
+            "arabic": "يُظهِر هذا الصف عدد المحاولات الخاصة بكل نشاط في درس ما."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 47,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "This row shows the time taken for all attempts at each activity in a lesson.",
+            "turkish": "Bu satır bir dersteki her bir aktivite için harcadığınız süreyi gösterir.",
+            "spanish": "Esta fila muestra el tiempo empleado para todos los intentos de cada actividad en una lección.",
+            "portuguese": "Esta linha exibe o tempo gasto com todas as tentativas em cada atividade em uma lição.",
+            "arabic": "يُظهِر هذا الصف الوقت المُستغرَق في كل المحاولات الخاصة بكل نشاط في درس ما."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 36,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "The total score for a lesson is shown here.",
+            "turkish": "Bir dersten aldığınız toplam puan burada gösterilir.",
+            "spanish": "Aquí se muestra la puntuación total para una lección.",
+            "portuguese": "A pontuação total em uma lição é exibida aqui.",
+            "arabic": "يتم عرض الدرجة الإجمالية للدرس هنا."
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 42,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "The total number of activity attempts for a lesson is shown here.",
+            "turkish": "Bir derste katıldığınız toplam aktivite sayısı burada gösterilir.",
+            "spanish": "Aquí se muestra el número total de intentos para las actividades de una lección.",
+            "portuguese": "O número total de tentativas de cada atividade em uma lição é exibido aqui.",
+            "arabic": "يتم عرض العدد الإجمالي لمحاولات النشاط الخاصة بدرس ما هنا."
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 47,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "The total time taken on all activities in a lesson is shown here.",
+            "turkish": "Bir dersteki tüm aktivitelerde harcadığınız toplam süre burada gösterilir.",
+            "spanish": "Aquí se muestra el tiempo total empleado para todas las actividades en una lección.",
+            "portuguese": "O tempo total gasto em todas as atividades em uma lição é exibido aqui.",
+            "arabic": "يتم عرض إجمالي الوقت المُستغرَق في كل الأنشطة الخاصة بدرس ماهنا."
+          }
+        }
+      }
+    }
+  }
+}

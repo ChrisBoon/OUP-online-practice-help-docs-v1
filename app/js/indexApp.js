@@ -26,8 +26,12 @@ angular.module('helpIndex.controllers', [])
        "imgAsset": "help-doc-icon-faf2e-2x.png"
       },
       {"name": "Teen2Teen Plus",
-       "link": "teen2teen.html",
-       "imgAsset": "help-doc-icon-t2t-2x.png"
+       "link": "teen2teen_plus.html",
+       "imgAsset": "help-doc-icon-t2t-2x.jpg"
+      },
+      {"name": "Engage",
+       "link": "engage.html",
+       "imgAsset": "help-doc-icon-eng-2x.jpg"
       },
       {"name": "Elements of Success",
        "link": "elements.html",
