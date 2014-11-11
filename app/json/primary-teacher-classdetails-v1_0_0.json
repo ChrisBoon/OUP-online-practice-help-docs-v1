@@ -3,7 +3,7 @@
     "english": "Class Details",
     "turkish": "Ders Ayrıntıları",
     "spanish": "Detalles de la Clase",
-    "portuguese": "Dados da aula",
+    "portuguese": "Dados da turma",
     "arabic": "تفاصيل الفصل"
   },
  "segment": "primary",
@@ -29,7 +29,7 @@
             "english": "Click here to change the name of this class.",
             "turkish": "Bu sınıfın adını değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar el nombre de esta clase.",
-            "portuguese": "Clique aqui para mudar o nome desta aula.",
+            "portuguese": "Clique aqui para mudar o nome desta turma",
             "arabic": "انقر هنا لتغيير اسم هذا الفصل."
           }
         },
@@ -53,7 +53,7 @@
             "english": "Check this box to delete this student from this class. Then click “Save Changes”.",
             "turkish": "Bu öğrenciyi bu sınıftan silmek için buraya tıklayın. Ardından “Save Changes” seçeneğine tıklayın.",
             "spanish": "Marque esta casilla para eliminar al estudiante de esta clase. Luego haga clic en \"Save Changes\".",
-            "portuguese": "Marque esta caixa de seleção para excluir este aluno desta aula. Em seguida, clique em “Save Changes”.",
+            "portuguese": "Marque esta caixa de seleção para excluir este aluno desta turma. Em seguida, clique em \"Save Changes\".",
             "arabic": "ضع علامة فيهذا المربع لحذف هذا الطالب من هذا الفصل. ثم انقر على “Save Changes”(\"حفظ التغييرات\")."
           }
         },
@@ -77,7 +77,7 @@
             "english": "Click here to save the changes you made to this class.",
             "turkish": "Bu derste yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
-            "portuguese": "Clique aqui para salvar as alterações feitas a esta aula.",
+            "portuguese": "Clique aqui para salvar as alterações feitas a esta turma.",
             "arabic": "اانقر هنا لحفظ التغييرات التي أجريتهاعلى هذا الفصل."
           }
         }

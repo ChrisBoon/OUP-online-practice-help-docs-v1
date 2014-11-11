@@ -29,7 +29,7 @@
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe del Resumen de la Clase (puntuación media en todas sus clases).",
-            "portuguese": "Clique aqui para visualizar o relatório resumido da aula (pontuações médias de todas as suas aulas).",
+            "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas)",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -41,7 +41,7 @@
             "english": "Click here to view the Class Report for the class shown in the menu on the right.",
             "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase que se muestra en el menú de la derecha.",
-            "portuguese": "Clique aqui para visualizar o relatório da aula exibida no menu à direita.",
+            "portuguese": "Clique aqui para visualizar o relatório da turma exibida no menu à direita.",
             "arabic": "انقر هنا لعرض تقرير الفصل الخاص بالفصل المعروض في القائمة على اليمين."
           }
         },
@@ -53,7 +53,7 @@
             "english": "Use this menu to view the Class Report for a different class. Select “All Classes” to go to the Class Summary Report.",
             "turkish": "Farklı bir derse ait bir Ders Raporu görüntülemek için bu menüyü kullanın. Ders Özeti Raporuna gitmek için “All Classes” seçeneğini seçin.",
             "spanish": "Utilice este menú para ver el Informe de Clase para una clase diferente. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
-            "portuguese": "Utilize este menu para visualizar o relatório de uma aula diferente. Selecione “All Classes” para ir para o relatório resumido da aula.",
+            "portuguese": "Utilize este menu para visualizar o relatório de uma turma diferente. Selecione \"All Classes\" para ir para o relatório resumido da turma.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الفصل لفصل مختلف. حدد “All Classes” (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
         },
@@ -65,7 +65,7 @@
             "english": "Use this menu to view the Student Report for a different student in this class.",
             "turkish": "Bu sınıftaki farklı bir öğrenciye ait Öğrenci Raporunu görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el Informe del Estudiante para otro estudiante de esta clase.",
-            "portuguese": "Utilize este menu para visualizar o relatório de um aluno diferente nesta aula.",
+            "portuguese": "Utilize este menu para visualizar o relatório de um aluno diferente nesta turma.",
             "arabic": "استخدم هذه القائمة لعرض تقرير الطالب لطالب مختلف في هذا الفصل."
           }
         },

@@ -17,7 +17,7 @@
         "english": "Choose a class",
         "turkish": "Ders seç",
         "spanish": "Elija una clase",
-        "portuguese": "Escolha uma aula",
+        "portuguese": "Escolha uma turma",
         "arabic": "حدد فصل"
       },
       "paragraphs":{
@@ -29,7 +29,7 @@
             "english": "Choose a class from the menu.",
             "turkish": "Menüden bir ders seçin.",
             "spanish": "Elija una clase del menú.",
-            "portuguese": "Selecione uma aula a partir do menu.",
+            "portuguese": "Selecione uma turma a partir do menu.",
             "arabic": "حدد فصلا من القائمة."
           }
         }
@@ -54,7 +54,7 @@
             "english": "You can create a new post by writing in the Create New Post column. When you click the “Post” button it will appear in the Discussions and Comments list. Any student in your Online Practice class can see your post and reply to it. Students can also write posts and begin discussions.",
             "turkish": "Yeni Gönderi Oluştur kolonuna yazarak yeni bir gönderi oluşturabilirsiniz. “Post” düğmesine tıkladığınızda Tartışmalar ve Yorumlar listesinde görüntülenir. Çevrim İçi Uygulama dersinizdeki tüm öğrenciler gönderinizi görebilir ve yanıtlayabilir. Öğrenciler de gönderi yazabilir ve tartışma başlatabilir.",
             "spanish": "Puede crear un nuevo mensaje escribiendo en la columna de Create New Post [Crear Nuevo Mensaje]. Al hacer clic en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Cualquier estudiante en su clase de Práctica Online podrá ver su mensaje y responder. Los estudiantes también pueden escribir mensajes y comenzar las discusiones.",
-            "portuguese": "Você pode criar uma nova postagem escrevendo na coluna “Create New Post”. Quando você clicar no botão “Post” ela aparecerá na lista “Discussions and Comments”. Qualquer aluno em sua aula do Online Practice poderá visualizar sua postagem e responder a ela. Os alunos também podem escrever postagem e iniciar discussões.",
+            "portuguese": "Você pode criar uma nova postagem escrevendo na coluna “Create New Post”. Quando você clicar no botão \"Post\" ela aparecerá na lista “Discussions and Comments”. Qualquer aluno em sua turma do Online Practice poderá visualizar sua postagem e responder a ela. Os alunos também podem escrever postagem e iniciar discussões.",
             "arabic": "يمكنك عمل منشور جديد عن طريق الكتابة في عمود إنشاء منشور جديد. عند النقر على زر“Post” (\"نشر\"), سوف تظهر في قائمة المناقشات والتعليقات. يمكن لأي طالب في فصل الممارسة على الإنترنتا لخاصة بك أن يرى منشورك ويرد عليه. يمكن للطلاب أيضًا كتابة منشورات وبدء مناقشات."
           }
         },

@@ -249,7 +249,7 @@
             "english": "Click on your level to select it. It is very important to select the level that you will be using. Check the title to make sure it is your level. If you are using more than one level, you can add another level later by choosing “Add a level” from your Home screen. You will need a new access code to add a level.",
             "turkish": "Seçmek istediğiniz seviyeye tıklayın. Kullanacağınız seviyenin seçilmesi son derece önemlidir. Sizin seviyenizde olduğundan emin olmak için başlığı kontrol edin. Birden fazla seviye kullanıyorsanız, Anasayfa ekranından “Add a level” seçeneğini seçerek başka bir seviye ekleyebilirsiniz. Bir seviye eklemek için yeni bir erişim koduna ihtiyacınız olacak.",
             "spanish": "Haga clic para seleccionar su nivel. Es muy importante seleccionar el nivel que va a utilizar. Revise el título para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede agregar otro nivel luego seleccionando \"Add a Level\" en su pantalla de Inicio. Necesitará un nuevo código de acceso para agregar un nivel.",
-            "portuguese": "Clique em seu nível para selecioná-lo. É muito importante escolher o nível que você utilizará. Verifique o título para assegurar-se de que o nível selecionado seja o nível correto. Caso você esteja utilizando mais de um nível, é possível adicionar outro nível posteriormente clicando em “Add a level” na sua página inicial. Você precisará de um novo código de acesso para adicionar um nível.",
+            "portuguese": "Para selecionar o nível desejado, clique na imagem correspondente. É muito importante selecionar o nível correto. Verifique o título para escolher o nível que realmente será utilizado. Caso você vá utilizar mais de um nível, será possível adicionar outros níveis posteriormente, clicando em “Add a level” na sua página inicial. Você precisará de um novo código de acesso para adicionar um novo nível.",
             "arabic": "انقر فوق المستوى الخاص بك لتحديده من الأهمية بمكان أن تحدد المستوى الذي سوف تستخدمه. تحقق من العنوان لتتأكد أنه المستوى الخاص بك. إذا كنت تستخدم أكثر من مستوى، يمكنك إضافة مستوى آخر في وقت لاحق عن طريق اختيار“Add a level” (\"أضف مستوى\") من صفحتك الرئيسية. سوف تحتاج إلى رمز وصول جديد لإضافة مستوى."
           }
         },
@@ -286,7 +286,7 @@
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
             "turkish": "Bir kurum ID kodunuz varsa, buraya girin. Bu yöneticinizden size verebileceği bir koddur. Bu kod ders kayıtlarınızı okul ya da kuruma iletmenizi sağlar. Bir kurum ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Daha sonra Ders Ayrıntıları sayfasından “Join an Institution” seçeneğine tıklayarak bir kurum ID kodu girebilirsiniz.",
             "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga clic en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo clic en “Join an Institution” desde su página de Detalles de la Clase.",
-            "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de aula com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você pode inserir um código de identificação da instituição posteriormente clicando em “Join an Institution” na sua página dados da aula.",
+            "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de aula com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você poderá inserir um código de identificação da instituição posteriormente clicando em “Join an institution” na sua página “Class Details”.",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فأدخله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك."
           }
         },
@@ -335,7 +335,7 @@
         "english": "Create a class",
         "turkish": "Ders Oluştur",
         "spanish": "Crear una clase",
-        "portuguese": "Crie uma aula",
+        "portuguese": "Crie uma turma",
         "arabic": "إنشاء فصل"
       },
       "paragraphs":{
@@ -347,7 +347,7 @@
             "english": "Enter a name for your first class. To create additional classes later, click “Manage Classes” from your Home page when you finish registering.",
             "turkish": "İlk dersiniz için bir ad girin. Daha sonra ek dersler oluşturmak için, kaydı tamamladıktan sonra Anasayfanızdan “Manage Classes”e tıklayın.",
             "spanish": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga clic en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
-            "portuguese": "Digite um nome para a sua primeira aula. Para criar aulas adicionais posteriormente, clique em “Manage Classes” a partir de sua página inicial quando você finalizar o registro.",
+            "portuguese": "Digite um nome para a sua primeira turma. Para criar turmass adicionais posteriormente, clique em \"Manage Classes\" a partir de sua página inicial quando você finalizar o registro.",
             "arabic": "أدخل اسم لأول فصل خاص بك. لإنشاء فصول إضافية لاحقًا؛ انقر على “Manage Classes”(\"إدارة الفصول\") من صفحتك الرئيسية عندما تنتهي من التسجيل."
           }
         },
@@ -371,7 +371,7 @@
             "english": "Click here to skip this page without entering a class name.",
             "turkish": "Bir ders adı girmeden bu sayfayı atlamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para saltarse esta página sin ingresar un nombre de clase.",
-            "portuguese": "Clique aqui para pular esta página sem digitar um nome de aula.",
+            "portuguese": "Clique aqui para pular esta página sem digitar um nome de turma.",
             "arabic": "انقر هنا لتخطي هذه الصفحة بدون إدخال اسم فصل."
           }
         },
@@ -383,7 +383,7 @@
             "english": "Click here to submit your class name and go to the next page.",
             "turkish": "Ders adınızı göndermek ve bir sonraki sayfaya gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
-            "portuguese": "Clique aqui para enviar o nome da sua aula e para ir para a próxima página.",
+            "portuguese": "Clique aqui para enviar o nome da sua turma e para ir para a próxima página.",
             "arabic": "انقر هنا لإرسال اسم الفصل الخاص بك وانتقل للصفحة التالية."
           }
         }
@@ -396,7 +396,7 @@
         "english": "Save your class code",
         "turkish": "Ders kodunuzu kaydedin",
         "spanish": "Guarde el código de su clase",
-        "portuguese": "Insira seu código de aula",
+        "portuguese": "Insira seu código de turma",
         "arabic": "قم بحفظ رمز الفصل الخاص بك."
       },
       "paragraphs":{
@@ -408,7 +408,7 @@
             "english": "This is the class ID code for the class you named in the previous screen. Give this code to your students so they can join your class and you can see their work.",
             "turkish": "Bu bir önceki ekranda ad verdiğiniz dersin ID kodudur. Derse katılabilmeleri ve çalışmalarınızı görebilmeleri için bu kodu öğrencilerinize verin.",
             "spanish": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
-            "portuguese": "Este é o código de identificação de aula para a aula nomeada na tela anterior. Forneça esse código para os seus alunos para que eles possam participar da sua aula e para que você possa visualizar os seus trabalhos.",
+            "portuguese": "Este é o código de identificação de aula para a aula nomeada na tela anterior. Forneça esse código para os seus alunos para que eles possam participar da sua turma e para que você possa visualizar os seus trabalhos.",
             "arabic": "انقر على رمز مُعرِّف الفصل الخاص بالفصل الذي قمت بتسميته في الشاشة السابقة. قم بإعطاء هذا الرمز لطلابك كي يتمكنوا من الانضمام إلى فصلك ويمكنهم رؤية العمل الخاص بهم."
           }
         },

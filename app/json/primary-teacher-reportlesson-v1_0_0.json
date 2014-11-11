@@ -29,7 +29,7 @@
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
-            "portuguese": "Clique aqui para visualizar o relatório resumido da aula (pontuações médias de todas as suas aulas).",
+            "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas).",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -41,7 +41,7 @@
             "english": "Click here to view the Class Report.",
             "turkish": "Sınıf Raporunu görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase.",
-            "portuguese": "Clique aqui para visualizar o relatório da aula.",
+            "portuguese": "Clique aqui para visualizar o relatório da turma.",
             "arabic": "انقر هنا لعرض التقرير عن الفصل."
           }
         },
@@ -53,7 +53,7 @@
             "english": "Use this menu to view a Unit Report for a different class.",
             "turkish": "Farklı bir sınıfa ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un Informe de Unidad para una clase diferente.",
-            "portuguese": "Utilize este menu para visualizar um relatório de uma aula diferente.",
+            "portuguese": "Utilize este menu para visualizar um relatório de uma turma diferente.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لفصل مختلف."
           }
         },

@@ -3,7 +3,7 @@
     "english": "Manage Classes",
     "turkish": "Dersleri Yönet",
     "spanish": "Administrar Clases",
-    "portuguese": "Gerenciar aulas",
+    "portuguese": "Gerenciar turmas",
     "arabic": "إدارة الفصول"
   },
  "segment": "primary",
@@ -29,7 +29,7 @@
             "english": "This screen shows all of the classes that you have created.",
             "turkish": "Bu ekran oluşturduğunuz tüm dersleri gösterir.",
             "spanish": "Esta pantalla muestra todas las clases que ha creado.",
-            "portuguese": "Esta tela exibe todas as aulas que você criou.",
+            "portuguese": "Esta tela exibe todas as turmas que você criou.",
             "arabic": "تُظهِر هذه الشاشة جميع الفصول التي قمت بإنشائها."
           }
         },
@@ -41,7 +41,7 @@
             "english": "Click here to view the details for a class. You can view your students, view your class ID code, change the name of this class, delete students’ accounts, or join an institution.",
             "turkish": "Dersin ayrıntılarını görüntülemek için buraya tıklayın. Öğrencilerinizi ve sınıf ID kodunuzu görüntüleyebilir, bir dersin adını değiştirebilir, öğrencilerin hesaplarını silebilir ya da bir kuruma katılabilirsiniz.",
             "spanish": "Haga clic aquí para ver los detalles de una clase. Puede ver sus estudiantes, su código de ID de clase, cambiar el nombre de esta clase, eliminar las cuentas de los estudiantes, o inscribirse en una institución.",
-            "portuguese": "Clique aqui para visualizar os dados de uma aula. Você pode visualizar os seus alunos, o seu código de identificação de aula, alterar o nome dessa aula, excluir contas dos alunos ou associar-se a uma instituição.",
+            "portuguese": "Clique aqui para visualizar os dados de uma turma. Você pode visualizar os seus alunos, o seu código de identificação de turma, alterar o nome dessa aula, excluir contas dos alunos ou associar-se a uma instituição.",
             "arabic": "انقر هنا لعرض التفاصيل عن فصل ما. يمكنك عرض طلابك أو عرض رمز مُعرِّف الفصل الخاص بك أو تغيير اسم هذا الفصل أو حذف حسابات الطلاب أو الانضمام لإحدى المؤسسات."
           }
         },
@@ -53,7 +53,7 @@
             "english": "Click here to hide units or lessons for your class.",
             "turkish": "Dersinizin ünite veya konularını gizlemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ocultar unidades o lecciones para su clase.",
-            "portuguese": "Clique aqui para ocultar as unidades ou lições de sua aula.",
+            "portuguese": "Clique aqui para ocultar as unidades ou lições de sua turma.",
             "arabic": "انقر هنا لإخفاء الوحدات أو الدروس الخاصة بالفصل الخاص بك."
           }
         },
@@ -65,7 +65,7 @@
             "english": "Click here to view your class and student reports.",
             "turkish": "Ders ve öğrenci raporlarınızı görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver los informes de clase y de los estudiantes.",
-            "portuguese": "Clique aqui para visualizar os relatórios de sua aula e alunos.",
+            "portuguese": "Clique aqui para visualizar os relatórios de sua turma e alunos.",
             "arabic": "انقر هنا لعرض التقارير الخاصة بفصلك وطلابك."
           }
         },
@@ -77,7 +77,7 @@
             "english": "Click here to delete a class.",
             "turkish": "Bir dersi silmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para eliminar una clase.",
-            "portuguese": "Clique aqui para excluir uma aula.",
+            "portuguese": "Clique aqui para excluir uma turma.",
             "arabic": "انقر هنا لحذف أحد الفصول."
           }
         },
@@ -89,7 +89,7 @@
             "english": "Click here to create a new class. (To add a new level, go to your Home page and click “Add a Level”.)",
             "turkish": "Yeni bir ders oluşturmak için buraya tıklayın. (Yeni bir seviye eklemek için, Anasayfaya gidin ve “Add a Level” seçeneğine tıklayın.)",
             "spanish": "Haga clic aquí para crear una nueva clase. (Para añadir un nuevo nivel, vaya a su página de Inicio y haga clic en \"Add a Level\".)",
-            "portuguese": "Clique aqui para criar uma nova aula. (Para adicionar um novo nível, vá para sua página inicial e clique em “Add a Level”.)",
+            "portuguese": "Clique aqui para criar uma nova turma. (Para adicionar um novo nível, vá para sua página inicial e clique em \"Add a Level\".)",
             "arabic": "انقر هنا لإنشاء فصل جديد. (لإضافة مستوى جديد؛ انتقل إلى الصفحة الرئيسية وانقر“Add a Level”( \"إضافة مستوى\").)"
           }
         }

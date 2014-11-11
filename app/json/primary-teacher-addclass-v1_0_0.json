@@ -3,7 +3,7 @@
     "english": "Add a New Class",
     "turkish": "Yeni Ders Ekle",
     "spanish": "Añadir una Nueva Clase",
-    "portuguese": "Adicione uma nova aula",
+    "portuguese": "Adicione uma nova turma",
     "arabic": "إضافة فصل جديد"
   },
  "segment": "primary",
@@ -29,7 +29,7 @@
             "english": "Choose a level for your new class.",
             "turkish": "Yeni dersiniz için bir seviye seçin.",
             "spanish": "Seleccione un nivel para su nueva clase.",
-            "portuguese": "Escolha um nível para sua nova aula.",
+            "portuguese": "Escolha um nível para sua nova turma.",
             "arabic": "حدد مستوى لفصلك الجديد."
           }
         }

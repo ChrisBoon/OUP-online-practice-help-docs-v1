@@ -37,7 +37,7 @@
           "english": "Manage Classes",
           "turkish": "Sınıfları Yönet",
           "spanish": "Administrar Clases",
-          "portuguese": "Gerenciar aulas",
+          "portuguese": "Gerenciar turmas",
           "arabic": "إدارة الفصول"
         },
         "id": "primary-teacher-manageclasses-v1_0_0"
@@ -48,7 +48,7 @@
           "english": "Class Details",
           "turkish": "Sınıf Ayrıntıları",
           "spanish": "Detalles de la Clase",
-          "portuguese": "Dados da aula",
+          "portuguese": "Dados da turma",
           "arabic": "تفاصيل الفصل"
         },
         "id": "primary-teacher-classdetails-v1_0_0"
@@ -59,7 +59,7 @@
           "english": "Edit Class Name",
           "turkish": "Sınıf Adını Düzenle",
           "spanish": "Editar Nombre de la Clase",
-          "portuguese": "Editar o nome da aula",
+          "portuguese": "Editar o nome da turma",
           "arabic": "تحرير اسم الفصل"
         },
         "id": "primary-teacher-classeditname-v1_0_0"
@@ -92,7 +92,7 @@
           "english": "Add a New Class",
           "turkish": "Yeni Sınıf Ekle",
           "spanish": "Añadir una Nueva Clase",
-          "portuguese": "Adicione uma nova aula",
+          "portuguese": "Adicione uma nova turma",
           "arabic": "إضافة فصل جديد"
         },
         "id": "primary-teacher-addclass-v1_0_0"
@@ -103,7 +103,7 @@
           "english": "Class Summary Report",
           "turkish": "Sınıf Özeti Raporu",
           "spanish": "Informe de Resumen de la Clase",
-          "portuguese": "Relatório resumido da aula",
+          "portuguese": "Relatório resumido da turma",
           "arabic": "تقرير موجز الفصل"
         },
         "id": "primary-teacher-reportclasssummary-v1_0_0"
@@ -114,7 +114,7 @@
           "english": "Class Report",
           "turkish": "Sınıf Raporu",
           "spanish": "Informe de la Clase",
-          "portuguese": "Relatório de aula",
+          "portuguese": "Relatório de turma",
           "arabic": "التقرير الخاص بالفصل"
         },
         "id": "primary-teacher-reportclass-v1_0_0"
@@ -423,7 +423,7 @@
           "english": "Join a Class",
           "turkish": "Sınıfa Katıl",
           "spanish": "Inscribirse a una Clase",
-          "portuguese": "Participe de uma aula",
+          "portuguese": "Participe de uma turma",
           "arabic": "الانضمام إلى فصل"
         },
         "id": "primary-student-classjoin-v1_0_0"
@@ -434,7 +434,7 @@
           "english": "Change Class",
           "turkish": "Sınıf Değiştir",
           "spanish": "Cambio de Clase",
-          "portuguese": "Alterar aula",
+          "portuguese": "Alterar turma",
           "arabic": "تغيير الفصل"
         },
         "id": "primary-student-classchange-v1_0_0"

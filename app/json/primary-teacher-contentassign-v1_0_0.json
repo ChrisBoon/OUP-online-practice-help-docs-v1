@@ -41,7 +41,7 @@
             "english": "Choose a class using the menu.",
             "turkish": "Menüyü kullanarak bir ders seçin.",
             "spanish": "Elija una clase utilizando el menú.",
-            "portuguese": "Selecione uma aula a partir do menu.",
+            "portuguese": "Selecione uma turma a partir do menu.",
             "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
           }
         },
@@ -77,7 +77,7 @@
             "english": "Click here to save the changes you made to this class.",
             "turkish": "Bu derste yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
-            "portuguese": "Clique aqui para salvar as alterações feitas a esta aula.",
+            "portuguese": "Clique aqui para salvar as alterações feitas a esta turma.",
             "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
           }
         }

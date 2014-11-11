@@ -29,7 +29,7 @@
             "english": "Select a class from the menu.",
             "turkish": "Menüden bir ders seçin.",
             "spanish": "Seleccione una clase del menú.",
-            "portuguese": "Selecione uma aula a partir do menu.",
+            "portuguese": "Selecione uma turma a partir do menu.",
             "arabic": "حدد فصلًامن القائمة."
           }
         }
@@ -151,7 +151,7 @@
             "english": "The Reply and Create New Message windows contain To and CC buttons. Choose a student you want to write to by clicking the “To” button and choosing a name. Add other students you wish to send your message to by clicking the “CC” button. You can message any student in your Online Practice class. You cannot send a message to an email address outside your Online Practice class.",
             "turkish": "Yanıtla ve Yeni Mesaj Oluştur penceresinde Kime ve Bilgi düğmeleri bulunur. “To” düğmesine tıklayarak ve bir ad seçerek yazmak istediğiniz öğrenciyi seçin. “CC” düğmesine tıklayarak mesajınızı göndermek istediğiniz diğer öğrencileri ekleyin. Çevrim İçi Uygulama sınıfınızdaki tüm öğrencilere mesaj gönderebilirsiniz. Çevrim İçi Uygulama sınıfınızın dışındaki bir e-posta adresine mesaj gönderemezsiniz.",
             "spanish": "Las ventanas de Reply [Responder] y Create New Message [Crear mensaje nuevo] contienen botones To [Para] y CC [Con copia a]. Elija un estudiante a quien desee escribirle haciendo clic en el botón \"To\" y eligiendo un nombre. Añada otros estudiantes a quienes desee enviarles el mensaje haciendo clic en el botón \"CC\". Puede enviar mensajes a cualquier estudiante en su clase de Práctica Online. No puede enviar un mensaje a una dirección de correo electrónico fuera de su clase de Práctica Online.",
-            "portuguese": "A janela “Reply/Create New Message” contém os botões “To” e “CC”. Escolha um aluno a quem você pretende escrever clicando no botão “To” e escolhendo um nome. Adicione outros alunos para os quais você deseja enviar a sua mensagem clicando no botão “CC”. Você pode enviar mensagens para quaisquer alunos que estejam participando de sua aula no Online Practice. Você não pode enviar uma mensagem para um endereço de e-mail fora de sua aula no Online Practice.",
+            "portuguese": "A janela “Reply/Create New Message” contém os botões “To” e “CC”. Escolha um aluno a quem você pretende escrever clicando no botão \"To\" e escolhendo um nome. Adicione outros alunos para os quais você deseja enviar a sua mensagem clicando no botão \"CC\". Você pode enviar mensagens para quaisquer alunos que estejam participando de sua turma no Online Practice. Você não pode enviar uma mensagem para um endereço de e-mail fora de sua turma no Online Practice.",
             "arabic": "تحتوي نافذتي الرد وإنشاء رسالة جديدة على زري To وCC. حدد الطالب الذي ترغب في كتابة رسالة له عن طريق النقر على زِر “TO” واختيار اسم. أضف الطلاب الآخرين الذين ترغب في إرسال رسالتك إليهم من خلال النقر على زر \"CC\". يمكنك مراسلة أي طالب في الفصلالمنضم للممارسة على الإنترنت. لا يمكنك إرسال رسالة إلى عنوان بريد إلكتروني خارج فصل الممارسة على الإنترنتالخاصبك."
           }
         },
@@ -163,7 +163,7 @@
             "english": "Click on “Select all” to email all students in your class together, then click “OK”. If you choose not to select anyone, click “Cancel”.",
             "turkish": "Sınıfınızdaki öğrencilerin tümüne birden e-posta göndermek için “Select all” seçeneğine ardından “OK” tuşuna tıklayın. Kimseyi seçmeyeceksiniz, “Cancel” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Select all\" para enviar un correo electrónico a todos los estudiantes en su clase, y luego haga clic en \"OK\". Si decide no seleccionar a nadie, haga clic en \"Cancel\".",
-            "portuguese": "Clique em “Select all” para enviar um e-mail para todos os alunos da sua aula de uma única vez e, em seguida, clique em “OK”. Se você optar por não selecionar algum deles, clique em “Cancel”.",
+            "portuguese": "Clique em \"Select all\" para enviar um e-mail para todos os alunos da sua turma de uma única vez e, em seguida, clique em \"OK\". Se você optar por não selecionar algum deles, clique em \"Cancel\".",
             "arabic": "انقر على “Select all” (\"تحديد الجميع\") لإرسال رسالة إلكترونية إلى جميع الطلاب في فصلك في نفس الوقت، ثم انقر على “OK”(\"موافق\"). إذا اخترت عدم تحديد أي شخص، انقر على “Cancel”(\"إلغاء\")."
           }
         }
