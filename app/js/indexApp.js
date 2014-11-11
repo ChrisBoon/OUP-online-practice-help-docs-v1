@@ -25,11 +25,15 @@ angular.module('helpIndex.controllers', [])
        "link": "family_and_friends.html",
        "imgAsset": "help-doc-icon-faf2e-2x.png"
       },
+      {"name": "Super Stars",
+       "link": "superstars.html",
+       "imgAsset": "help-doc-icon-ss-2x.png"
+      },
       {"name": "Teen2Teen Plus",
        "link": "teen2teen_plus.html",
        "imgAsset": "help-doc-icon-t2t-2x.jpg"
       },
-      {"name": "Engage",
+      {"name": "Engage Special Edition",
        "link": "engage.html",
        "imgAsset": "help-doc-icon-eng-2x.jpg"
       },
@@ -40,54 +44,24 @@ angular.module('helpIndex.controllers', [])
       {"name": "Q: Skills for Success",
        "link": "q2e.html",
        "imgAsset": "help-doc-icon-q2e-2x.png"
+      },
+      {"name": "Generic Primary: all languages",
+       "link": "master-primary.html",
+       "imgAsset": "help-doc-icon-primary-2x.png"
+      },
+      {"name": "Generic Adult: all languages",
+       "link": "master-adult.html",
+       "imgAsset": "help-doc-icon-adult-2x.png"
+      },
+      {"name": "Teen2Teen: all languages WIP",
+       "link": "teen2teen_plus-WIP.html",
+       "imgAsset": "help-doc-icon-t2tWIP-2x.jpg"
+      },
+      {"name": "Engage: all languages WIP",
+       "link": "engage-WIP.html",
+       "imgAsset": "help-doc-icon-engWIP-2x.jpg"
       }
+
     ];
-
-
-
-    $scope.allCourses = {
-      "segment": [
-        {
-          "title": "Primary",
-          "courses": [
-            {"name": "Explorers",
-             "link": "explorers.html",
-             "imgAsset": "help-doc-icon-exp-2x.png"
-            },
-            {"name": "Oxford Discover",
-             "link": "discover.html",
-             "imgAsset": "help-doc-icon-od-2x.png"
-            },
-            {"name": "Family and Friends 2nd Edition",
-             "link": "family_and_friends.html",
-             "imgAsset": "help-doc-icon-faf2e-2x.png"
-            }
-          ]
-        },
-        {
-          "title": "Secondary",
-          "courses": [
-            {"name": "Teen2Teen Plus",
-             "link": "teen2teen.html",
-             "imgAsset": "help-doc-icon-t2t-2x.png"
-            }
-          ]
-        },
-        {
-          "title": "Adult",
-          "courses": [
-            {"name": "Elements of Success",
-             "link": "elements.html",
-             "imgAsset": "help-doc-icon-eos-2x.png"
-            },
-            {"name": "Q: Skills for Success",
-             "link": "q2e.html",
-             "imgAsset": "help-doc-icon-q2e-2x.png"
-            }
-          ]
-        }
-      ]
-
-    };
   }
 ]);
