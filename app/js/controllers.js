@@ -40,7 +40,7 @@ angular.module('myApp.controllers', [])
     }
 
     //get json for toc of course to create menu
-    $http.get('json/pagelist-' + opHelpGlobals.config.currentCourse + '.json').success(function(data) {
+    $http.get('json/pagelist-' + opHelpGlobals.config.pagelist + '.json').success(function(data) {
       $scope.helpmenu = data;
     });
 
