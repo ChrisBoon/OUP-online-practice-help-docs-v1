@@ -12,7 +12,7 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "PTM001.png",
+      "imgId": "P-SEC-TM001.png",
       "pageTitle": {
         "english": "Audio",
         "turkish": "Ses",
