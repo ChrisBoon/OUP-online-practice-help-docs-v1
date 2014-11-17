@@ -2,7 +2,7 @@
  "title": {
     "english": "Administrator Home",
     "turkish": "Yönetici Anasayfası",
-    "spanish": "_",
+    "spanish": "Inicio para Administrador",
     "arabic": "لصفحة الرئيسية الخاصة بمراقب النظام"
   },
  "segment": "adult",
@@ -15,7 +15,7 @@
       "pageTitle": {
         "english": "View Reports",
         "turkish": "Raporları Görüntüle",
-        "spanish": "_",
+        "spanish": "Ver Informes",
         "arabic": "عرض التقارير"
       },
       "paragraphs":{
@@ -26,7 +26,7 @@
           "text":{
             "english": "View student reports from teachers who have joined your institution’s Online Practice.",
             "turkish": "Kurumunuzun Çevrim İçi Uygulamasına katılan öğretmenlerin öğrenci raporlarını görüntüleyin.",
-            "spanish": "_",
+            "spanish": "Ver reportes de alumnos de los profesores inscritos en la Práctica Online de su institución.",
             "arabic": "عرض تقارير الطلاب من المعلمين الذين انضموا للممارسة عبر الإنترنت الخاصة بالمؤسسة."
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "View the Online Practice activities for all levels of your course.",
             "turkish": "Kursunuzun tüm seviyeleri için Çevrim İçi Uygulama aktivitelerini görüntüleyin.",
-            "spanish": "_",
+            "spanish": "Ver las actividades de Práctica Online para todos los niveles de su curso.",
             "arabic": "أنشطة الممارسة عبر شبكة الإنترنت لجميع مستويات المقرر الخاص بك."
           }
         }
@@ -49,7 +49,7 @@
       "pageTitle": {
         "english": "View activities",
         "turkish": "Aktiviteleri görüntüleyin",
-        "spanish": "_",
+        "spanish": "Ver actividades",
         "arabic": "عرض الأنشطة"
       },
       "paragraphs":{
@@ -60,7 +60,7 @@
           "text":{
             "english": "Administrators can view activities for all levels of a course. Select a level to view on this page.",
             "turkish": "Yöneticiler bir kursun tüm seviyeleri için aktiviteleri görüntüleyebilir. Bu sayfada görüntülemek istediğiniz seviyeyi seçin.",
-            "spanish": "_",
+            "spanish": "Los administradores pueden ver las actividades para todos los niveles de un curso. Seleccione un nivel para ver en esta página.",
             "arabic": "يمكن للمديرين عرض الأنشطة لجميع المستويات الخاصة بإحدى الدورات. حدد مستوى لعرضه على هذه الصفحة."
           }
         }

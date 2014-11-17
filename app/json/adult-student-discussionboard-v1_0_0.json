@@ -2,6 +2,7 @@
  "title": {
     "english": "Discussion Board",
     "turkish": "-",
+    "spanish": "_",
     "arabic": "-"
   },
  "segment": "adult",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "Reply to a post",
         "turkish": "Bir gönderiyi yanıtla",
+        "spanish": "_",
         "arabic": "الرد على منشور"
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "This is where you can view and reply to all of the current posts.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "Click “Show” to view other students' replies.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -44,6 +48,7 @@
           "text":{
             "english": "Click “Hide” to hide the replies.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -54,6 +59,7 @@
           "text":{
             "english": "Click “Reply” to reply to a post. A text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -64,6 +70,7 @@
           "text":{
             "english": "Click “Post” to post your reply to the discussion.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -74,6 +81,7 @@
           "text":{
             "english": "Click “Cancel” if you do not want to post your reply.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }  
         }
@@ -85,6 +93,7 @@
       "pageTitle": {
         "english": "Write a post",
         "turkish": "Gönderi yaz",
+        "spanish": "Escribir un mensaje",
         "arabic": "كتابة منشور"
       },
       "paragraphs":{
@@ -95,6 +104,7 @@
           "text":{
             "english": "You can create a new post by clicking the “Create New Thread” button. A new window will open. Your teacher and any student in your Online Practice class can see your post and reply to it.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         }
@@ -106,6 +116,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
+        "spanish": "_",
         "arabic": ""
       },
       "paragraphs":{
@@ -116,6 +127,7 @@
           "text":{
             "english": "Type here to give your post a title.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -126,6 +138,7 @@
           "text":{
             "english": "Type your message in the blank text area under the formatting buttons.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -136,6 +149,7 @@
           "text":{
             "english": "Click “Post” after you’ve finished typing your message.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         }

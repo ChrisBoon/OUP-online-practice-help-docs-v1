@@ -2,6 +2,7 @@
  "title": {
     "english": "Edit Profile",
     "turkish": "Profili Düzenle",
+    "spanish": "Editar Perfil",
     "arabic": "تحريرالملف الشخصي"
   },
  "segment": "adult",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
+        "spanish": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "Click here to change your first name.",
             "turkish": "Adınızı değiştirmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para cambiar su nombre.",
             "arabic": "انقر هنا لتغيير اسمك الأول."
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "Click here to change your last name (family name).",
             "turkish": "Soyadınızı (aile adı) değiştirmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para cambiar su apellido.",
             "arabic": "انقر هنا لتغيير اسمك الأخير (اسم العائلة)."
           }
         },
@@ -44,6 +48,7 @@
           "text":{
             "english": "Click here to change your email address.",
             "turkish": "E-posta adresinizi değiştirmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para cambiar su dirección de correo electrónico.",
             "arabic": "انقر هنا لتغيير عنوان بريدك الإلكتروني."
           }
         },
@@ -54,6 +59,7 @@
           "text":{
             "english": "Click here to confirm your new email address.",
             "turkish": "Yeni e-posta adresinizi onaylamak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para confirmar su nueva dirección de correo electrónico.",
             "arabic": "انقر هنا لتأكيد عنوان بريدك الإلكتروني الجديد."
           }
         },
@@ -64,6 +70,7 @@
           "text":{
             "english": "Click here to change your password.",
             "turkish": "Parolanızı değiştirmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para cambiar su contraseña.",
             "arabic": "انقر هنا لتغيير كلمة المرور الخاصة بك."
           }
         },
@@ -74,6 +81,7 @@
           "text":{
             "english": "Click here to confirm your new password.",
             "turkish": "Yeni parolanızı onaylamak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para confirmar su nueva contraseña.",
             "arabic": "انقر هنا لتأكيد كلمة المرور الجديدة الخاصة بك."
           }
         },
@@ -84,6 +92,7 @@
           "text":{
             "english": "Click here to save your changes.",
             "turkish": "Değişikliklerinizi kaydetmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para guardar los cambios.",
             "arabic": "اانقر هنا لحفظ كلمة المرور الخاصة بك."
           }
         },
@@ -94,6 +103,7 @@
           "text":{
             "english": "Click here to cancel without saving any changes.",
             "turkish": "Değişiklikleri kaydetmeden iptal etmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para cancelar sin guardar los cambios.",
             "arabic": "انقر هنا للإلغاء بدون حفظ أي تغييرات."
           }
         }

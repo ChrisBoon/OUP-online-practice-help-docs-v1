@@ -2,6 +2,7 @@
  "title": {
     "english": "Achievements",
     "turkish": "Başarılar",
+    "spanish": "Logros",
     "arabic": "التحصيل"
   },
  "segment": "primary",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
+        "spanish": "_",
         "arabic": ""
       },
       "paragraphs":{
@@ -24,6 +26,7 @@
           "text":{
             "english": "Click here to see your Reports.",
             "turkish": "Raporlarınızı görmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ver sus Informes.",
             "arabic": "انقر هنا لرؤية تقاريرك."
           }
         },
@@ -34,6 +37,7 @@
           "text":{
             "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect!",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -44,6 +48,7 @@
           "text":{
             "english": "If you score 30% of the total possible points in a unit you will be awarded a star.",
             "turkish": "_",
+            "spanish": "_",
             "arabic": "_"
           }
         },
@@ -54,6 +59,7 @@
           "text":{
             "english": "If you score 70% of the total possible points in a unit you will be awarded two stars.",
             "turkish": "_",
+            "spanish": "_",
             "arabic": "_"
           }
         },
@@ -64,6 +70,7 @@
           "text":{
             "english": "If you score 90% of the total possible points in a unit you will be awarded three stars.",
             "turkish": "_",
+            "spanish": "_",
             "arabic": "_"
           }
         },
@@ -74,6 +81,7 @@
           "text":{
             "english": "If you score 100% of the total possible points in a unit you will be awarded a bonus trophy.",
             "turkish": "Bir ünitede toplam olası puanların %100’ünü alırsanız bir bonusla ödüllendirilirsiniz.",
+            "spanish": "Si obtiene el 100% del total de puntos posibles en una unidad, se le otorgará un trofeo extra.",
             "arabic": "إذاأحرزت100% من مجموع النقاط الممكنة في وحدة ما, فسوف يتم منحك ميداليةمكافأة."
           }
         },
@@ -84,6 +92,7 @@
           "text":{
             "english": "This is your Dashboard. The Online Practice is divided into several areas, for example, Tests, Vocabulary, and Practice. The Dashboard shows your activity results for a level across the different areas.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -94,6 +103,7 @@
           "text":{
             "english": "Results for activities within different areas are displayed as a percentage based on the average score of all completed activities in an area within a level.",
             "turkish": "Farklı beceri alanlarındaki aktivite sonuçları bir seviye içerisindeki beceri alanında tamamlanan tüm aktivitelerin ortalama puanına göre bir yüzde değer olarak görüntülenir.",
+            "spanish": "Los resultados para actividades dentro de las diferentes áreas de habilidades se muestran como un porcentaje en base a la puntuación media de todas las actividades realizadas en un área de habilidades dentro de un nivel.",
             "arabic": "يتم عرض نتائج الأنشطة التي تنتمي لمجالات مختلفة من المهارات كنسبة مئوية على أساس متوسط درجات كل الأنشطة المُنجَزة في مجال من المهارات خلال مستوى ما."
           }
         },
@@ -104,6 +114,7 @@
           "text":{
             "english": "The number of completed activities is shown here along with the total number of activities in an area.",
             "turkish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         }
