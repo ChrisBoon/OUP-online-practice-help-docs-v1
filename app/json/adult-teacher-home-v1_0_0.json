@@ -47,8 +47,8 @@
           "numberPosLeft": 7,
           "text":{
             "english": "Click here to enter the Online Practice activity area and to access different resources.",
-            "turkish": "_",
-            "spanish": "_",
+            "turkish": "-",
+            "spanish": "-",
             "arabic": "ا_"
           }
         },
@@ -80,8 +80,8 @@
           "numberPosLeft": 53,
           "text":{
             "english": "Click here to view the Discussion Board.",
-            "turkish": "_",
-            "spanish": "_",
+            "turkish": "-",
+            "spanish": "-",
             "arabic": "ا_"
           }
         }

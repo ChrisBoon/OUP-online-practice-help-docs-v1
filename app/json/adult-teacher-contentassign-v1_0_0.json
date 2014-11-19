@@ -25,9 +25,9 @@
           "numberPosLeft": 11,
           "text":{
             "english": "You can hide content from your students by checking the boxes on this page.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph02": {
@@ -47,9 +47,9 @@
           "numberPosLeft": 11,
           "text":{
             "english": "Check a box here to hide a whole segment.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph04": {
@@ -58,9 +58,9 @@
           "numberPosLeft": 30,
           "text":{
             "english": "Check a box here to hide selected units within a segment.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph05": {

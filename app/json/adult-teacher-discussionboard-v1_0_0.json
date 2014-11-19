@@ -1,9 +1,9 @@
 {
  "title": {
     "english": "Discussion Board",
-    "turkish": "_",
-    "spanish": "_",
-    "arabic": "_"
+    "turkish": "-",
+    "spanish": "-",
+    "arabic": "-"
   },
  "segment": "adult",
  "userType": ["teacher"],
@@ -48,9 +48,9 @@
           "numberPosLeft": 33,
           "text":{
             "english": "You can create a new post by clicking the “Create New Thread” button. A text box will open. Any student in your Online Practice class can see your post and reply to it. Students can also write posts and begin discussions.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         }
       }
@@ -71,9 +71,9 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Give your new post a title.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph02": {
@@ -82,9 +82,9 @@
           "numberPosLeft": 13,
           "text":{
             "english": "Write your message in the blank text area under the formatting buttons.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph03": {
@@ -93,8 +93,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Click “Post” when you’re ready to post a new message.",
-            "turkish": "_",
-            "spanish": "_",
+            "turkish": "-",
+            "spanish": "-",
             "arabic": "ا_"
           }
         }

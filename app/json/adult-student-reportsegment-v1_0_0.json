@@ -2,7 +2,7 @@
  "title": {
     "english": "Student Segment Report",
     "turkish": "-",
-    "spanish": "_",
+    "spanish": "-",
     "arabic": "-"
   },
  "segment": "adult",
@@ -26,7 +26,7 @@
           "text":{
             "english": "Use this menu to display reports for all segments or display reports for specific segments.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "This row shows the scores for each activity in a unit. The score is shown out of the total number of possible points in an activity.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "This row shows the number of attempts at each activity in a unit.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "This row shows the time taken for all attempts at each activity in a unit.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "The total score for a unit is shown here.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -81,7 +81,7 @@
           "text":{
             "english": "The total number of activity attempts for a unit is shown here.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -92,7 +92,7 @@
           "text":{
             "english": "The total time taken on all activities in a unit is shown here.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         }

@@ -36,9 +36,9 @@
           "numberPosLeft": 7,
           "text":{
             "english": "Check this box to delete this student from this class. Then click “Save Changes”.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph03": {
@@ -47,9 +47,9 @@
           "numberPosLeft": 13,
           "text":{
             "english": "Click here to go back to the previous screen. If you did not click “Save Changes” your changes will not be saved.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph04": {
@@ -58,9 +58,9 @@
           "numberPosLeft": 76,
           "text":{
             "english": "Click here to save the changes you made to this class.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         }
       }

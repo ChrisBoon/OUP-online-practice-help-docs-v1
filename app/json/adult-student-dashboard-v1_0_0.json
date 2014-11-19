@@ -15,7 +15,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
-        "spanish": "_",
+        "spanish": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -37,7 +37,7 @@
           "text":{
             "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect!",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -47,9 +47,9 @@
           "numberPosLeft": 2,
           "text":{
             "english": "If you score 30% of the total possible points in a unit you will be awarded a star.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph04": {
@@ -58,9 +58,9 @@
           "numberPosLeft": 9,
           "text":{
             "english": "If you score 70% of the total possible points in a unit you will be awarded two stars.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph05": {
@@ -69,9 +69,9 @@
           "numberPosLeft": 16,
           "text":{
             "english": "If you score 90% of the total possible points in a unit you will be awarded three stars.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph06": {
@@ -92,7 +92,7 @@
           "text":{
             "english": "This is your Dashboard. The Online Practice is divided into several areas, for example, Tests, Vocabulary, and Practice. The Dashboard shows your activity results for a level across the different areas.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -114,7 +114,7 @@
           "text":{
             "english": "The number of completed activities is shown here along with the total number of activities in an area.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         }

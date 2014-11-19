@@ -36,9 +36,9 @@
           "numberPosLeft": 3,
           "text":{
             "english": "Stars are awarded in the Trophy Room for the number of points a student has scored across the activities in a level.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph03": {
@@ -47,9 +47,9 @@
           "numberPosLeft": 3,
           "text":{
             "english": "If a student has scored 30% of the total possible points in a unit, they are awarded a star.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph04": {
@@ -58,9 +58,9 @@
           "numberPosLeft": 3,
           "text":{
             "english": "If a student has scored 70% of the total possible points in a unit, they are awarded two stars.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph05": {
@@ -69,9 +69,9 @@
           "numberPosLeft": 3,
           "text":{
             "english": "If a student has scored 90% of the total possible points in a unit, they are awarded three stars.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph06": {
@@ -80,9 +80,9 @@
           "numberPosLeft": 3,
           "text":{
             "english": "If a student has scored 100% of the total possible points in a unit, they are awarded a trophy.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph07": {
@@ -91,9 +91,9 @@
           "numberPosLeft": 72,
           "text":{
             "english": "This is the student Dashboard. The Online Practice is divided into several areas, for example, Test, Vocabulary, and Practice. The Dashboard shows student activity results for a level across the different areas.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph08": {
@@ -102,9 +102,9 @@
           "numberPosLeft": 75.5,
           "text":{
             "english": "Results for activities within different areas are displayed as a percentage based on the average score of all completed activities in an area within a level.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph09": {
@@ -113,9 +113,9 @@
           "numberPosLeft": 88,
           "text":{
             "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
-            "turkish": "_",
-            "spanish": "_",
-            "arabic": "_"
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         }
       }

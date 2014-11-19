@@ -26,7 +26,7 @@
           "text":{
             "english": "This page shows your activity scores for all segments in your level of Online Practice.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "Use this menu to display reports for all segments or for a specific segment.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "This row shows the total score of all activities attempted in each unit. The score is shown out of the total number of possible points in the attempted activities.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "This row shows the total number of activity attempts in each unit.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "This row shows the time spent on activities in each unit.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -81,7 +81,7 @@
           "text":{
             "english": "The total score in a specific segment is shown here.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -92,7 +92,7 @@
           "text":{
             "english": "The total number of activity attempts in a specific segment is shown here.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
@@ -103,7 +103,7 @@
           "text":{
             "english": "The total time taken on all activity attempts in a specific segment is shown here.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "-",
             "arabic": "-"
           }
         },
