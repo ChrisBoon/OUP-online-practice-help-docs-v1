@@ -16,6 +16,7 @@
         "english": "Choose a class",
         "turkish": "Ders seç",
         "spanish": "Elija una clase",
+        "spanish-la": "",
         "arabic": "حدد فصل"
       },
       "paragraphs":{
@@ -27,6 +28,7 @@
             "english": "Choose a class from the menu.",
             "turkish": "Menüden bir ders seçin.",
             "spanish": "Elija una clase del menú.",
+            "spanish-la": "",
             "arabic": "حدد فصلا من القائمة."
           }
         }
@@ -39,6 +41,7 @@
         "english": "Write a post",
         "turkish": "Gönderi yaz",
         "spanish": "Escribir un mensaje",
+        "spanish-la": "",
         "arabic": "اكتب منشورًا"
       },
       "paragraphs":{
@@ -50,6 +53,7 @@
             "english": "You can create a new post by clicking the “Create New Thread” button. A text box will open. Any student in your Online Practice class can see your post and reply to it. Students can also write posts and begin discussions.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         }
@@ -62,6 +66,7 @@
         "english": "Write a post",
         "turkish": "Gönderi yaz",
         "spanish": "Escribir un mensaje",
+        "spanish-la": "",
         "arabic": "اكتب منشورًا"
       },
       "paragraphs":{
@@ -73,6 +78,7 @@
             "english": "Give your new post a title.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -84,6 +90,7 @@
             "english": "Write your message in the blank text area under the formatting buttons.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -95,6 +102,7 @@
             "english": "Click “Post” when you’re ready to post a new message.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "ا_"
           }
         }
@@ -107,6 +115,7 @@
         "english": "Reply to or delete posts",
         "turkish": "Gönderileri yanıtla ya da sil",
         "spanish": "Responder o borrar mensajes",
+        "spanish-la": "",
         "arabic": "رُد على المنشورات أو احذفها"
       },
       "paragraphs":{
@@ -118,6 +127,7 @@
             "english": "Click “Show” to view your students' replies to a post.",
             "turkish": "Öğrencilerinizin gönderiye yanıtlarını görüntülemek için “Show” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Show\" para ver las respuestas de los alumnos a un mensaje.",
+            "spanish-la": "",
             "arabic": "انقر على “Show” (\"عرض\") لاستعراض ردود طلابك على منشور ما. "
           }
         },
@@ -129,6 +139,7 @@
             "english": "Click “Hide” to hide the replies.",
             "turkish": "Yanıtları gizlemek için “Hide” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Hide\" para ocultar las respuestas.",
+            "spanish-la": "",
             "arabic": "انقر على “Hide” (\"إخفاء\") لإخفاء الردود."
           }
         },
@@ -140,6 +151,7 @@
             "english": "Click “Reply” to reply to a post.",
             "turkish": "Bir gönderiyi yanıtlamak için “Reply” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Reply\" para responder a un mensaje.",
+            "spanish-la": "",
             "arabic": "انقر على “Reply” (\"رد\") للرد على منشور ما."
           }
         },
@@ -151,6 +163,7 @@
             "english": "If you click “Reply”, a text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
             "turkish": "“Reply” seçeneğine tıklarsanız, yanıtladığınız gönderinin altında bir metin kutusu açılacaktır. Yanıtınızı doğrudan tartışma içerisine girebilirsiniz.",
             "spanish": "Si hace clic en \"Reply\", se abrirá un cuadro de texto bajo el mensaje al que está respondiendo. Puede ingresar su respuesta directamente en la discusión.",
+            "spanish-la": "",
             "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي تقوم بالرد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
           }
         },
@@ -162,6 +175,7 @@
             "english": "Click “Post” to post your reply to the discussion.",
             "turkish": "Tartışmaya yanıtınızı göndermek için “Post” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Post\" para publicar su respuesta a la discusión.",
+            "spanish-la": "",
             "arabic": "انقر على “Post”  (\"نشر\") لنشر ردك على المناقشة."
           }
         },
@@ -173,6 +187,7 @@
             "english": "Click “Cancel” if you do not want to post your reply.",
             "turkish": "Yanıtınızı paylaşmak istemiyorsanız “Cancel” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Cancel\" si no desea publicar su respuesta.",
+            "spanish-la": "",
             "arabic": "انقر على “Cancel” (\"إلغاء\") إذا كنت لا تريد نشر ردك."
           }
         },
@@ -184,6 +199,7 @@
             "english": "Click “Delete Conversation” to delete an entire discussion which includes the original post, as well as all students' replies. Students are not able to delete discussions.",
             "turkish": "Gönderinin kendisini ve tüm öğrenci yanıtları da dahil tartışmanın tamamını silmek için “Delete Conversation” seçeneğine tıklayın. Öğrenciler tartışmaları silemez.",
             "spanish": "Haga clic en \"Delete Conversation\" para borrar toda una discusión, incluyendo el mensaje original, así como las respuestas de todos los estudiantes. Los estudiantes no pueden eliminar discusiones.",
+            "spanish-la": "",
             "arabic": "انقر على “Delete Conversation” (\"حذف المحادثة\") لحذف كامل المناقشة التي تتضمن المنشور الأصلي، فضلاً عن ردود كل الطلاب. لن يكون بمقدور الطلاب حذف المناقشات."
           }
         },
@@ -195,6 +211,7 @@
             "english": "Click “Delete Reply” to delete any reply within a discussion. Students are not able to delete replies.",
             "turkish": "Bir tartışma içindeki yanıtları silmek için “Delete Reply” seçeneğine tıklayın. Öğrenciler yanıtları silemez.",
             "spanish": "Haga clic en \"Delete Reply\" para borrar cualquier respuesta en una discusión. Los estudiantes no pueden eliminar las respuestas.",
+            "spanish-la": "",
             "arabic": "انقر على “Delete Reply”(\"حذف الرد\") لحذف أي رد ضمن المناقشة. لن يكون بمقدور الطلاب حذف الردود."
           }
         }

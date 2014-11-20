@@ -3,6 +3,7 @@
     "english": "Media Center",
     "turkish": "Medya Merkezi",
     "spanish": "Centro de Medios",
+    "spanish-la": "",
     "portuguese": "Centro de mídia",
     "arabic": "مركز الوسائط"
   },
@@ -18,6 +19,7 @@
         "turkish": "Ses",
         "spanish": "Audio",
         "portuguese": "Áudio",
+        "spanish-la": "",
         "arabic": "الصوت"
       },
       "paragraphs":{
@@ -30,6 +32,7 @@
             "turkish": "-",
             "spanish": "-",
             "portuguese": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -42,6 +45,7 @@
             "turkish": "Bir ses dosyası başlığına tıklayın. Bir ses oynatıcı görünür ve sesi oynatır. Parçayı oynatmak ve durdurmak için ok tuşunu kullanın. Parçanın içinde gezinmek ve ses seviyesini değiştirmek için kontrolleri kullanın.",
             "spanish": "Haga clic en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
             "portuguese": "Clique no título de um arquivo de áudio. Um player de áudio aparecerá e reproduzirá o arquivo. Use o botão de seta para iniciar e pausar a reprodução da faixa. Use os controles para percorrer a faixa de áudio e alterar o volume.",
+            "spanish-la": "",
             "arabic": "اانقر فوق عنوان أحد الملفاتالصوتية. سوف يظهر مشغل الصوت ويقوم بتشغيل مقطع الفيديو. استخدم زر السهم لتشغيل وإيقاف المسار. استخدم مفاتيح التحكم للتحرك من خلال المسار وتغيير مستوى جهارة الصوت."
           }
         }

@@ -3,6 +3,7 @@
     "english": "Home",
     "turkish": "Anasayfa",
     "spanish": "Inicio",
+    "spanish-la": "",
     "portuguese": "Início",
     "arabic": "الصفحة الرئيسية"
   },
@@ -18,6 +19,7 @@
         "turkish": "Seviyenizi seçin",
         "spanish": "Elija su nivel",
         "portuguese": "Escolha o seu nível",
+        "spanish-la": "",
         "arabic": "حدد مستواك"
       },
       "paragraphs":{
@@ -30,6 +32,7 @@
             "turkish": "Çevrim İçi Uygulama’ya girdiğinizde ya da ekranın üstünde yer alan Anasayfa simgesine tıkladuığınızda kursunuzun seviyelerini burada göreceksiniz.",
             "spanish": "Verá los niveles de su curso al ingresar en la Práctica Online o al hacer clic en el icono de Home [Inicio], en la parte superior de la pantalla.",
             "portuguese": "Quando você acessar o Online Practice ou clicar no ícone “Home” na parte superior da tela, você visualizará os níveis de seu curso.",
+            "spanish-la": "",
             "arabic": "عندما تدخل الممارسة عبر الإنترنت أو تنقر على أيقونة الصفحة الرئيسية في أعلى الشاشة,سوف ترى مستويات الدورة الخاصة بك هنا."
           }
         },
@@ -42,6 +45,7 @@
             "turkish": "Bir erişim kodunuz varsa ek seviye eklemek için “Add a level” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Añadir un nivel\" para agregar otro nivel si tiene un código de acceso.",
             "portuguese": "Clique em “Add a level” para adicionar outro nível, caso você tenha um código de acesso.",
+            "spanish-la": "",
             "arabic": "انقر على “Add a level”(\"أضف مستوى\") لإضافة مستوى آخر إذا كان لديك رمز دخول."
           }
         },
@@ -54,6 +58,7 @@
             "turkish": "Girmek istediğiniz seviyeyi seçin.",
             "spanish": "Elija el nivel al que desea ingresar.",
             "portuguese": "Escolha o nível que você deseja inserir.",
+            "spanish-la": "",
             "arabic": "اختر المستوى الذي ترغب في إدخاله."
           }
         }
@@ -67,6 +72,7 @@
         "turkish": "Bir Çevrim İçi Uygulama alanı seçin",
         "spanish": "Elija un área de Práctica Online",
         "portuguese": "Escolha uma seção do Online Practice",
+        "spanish-la": "",
         "arabic": "اختر منطقة الممارسة عبر شبكة الإنترنت"
       },
       "paragraphs":{
@@ -79,6 +85,7 @@
             "turkish": "Farklı bir seviyeye geçmekiçin buraya tıklayın.",
             "spanish": "Presione aquí para cambiar a un nivel diferente.",
             "portuguese": "Clique aqui para alterar para um nível diferente.",
+            "spanish-la": "",
             "arabic": "انقر هنا للتغيير إلى مستوى مختلف."
           }
         },
@@ -91,6 +98,7 @@
             "turkish": "Çevrim İçi Uygulama Aktivitesi alanına girmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ingresar al área de Actividades de la Práctica Online.",
             "portuguese": "Clique aqui para entrar na área “Activity” do Online Practice.",
+            "spanish-la": "",
             "arabic": "انقر هنا لدخول منطقة ممارسة النشاط عبر شبكة الإنترنت."
           }
         },
@@ -103,6 +111,7 @@
             "turkish": "-",
             "spanish": "-",
             "portuguese": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -115,6 +124,7 @@
             "turkish": "E-posta alanını kullanmak için buraya tıklayın. Çevrim İçi Uygulama sınıfınızdaki öğretmen ve diğer öğrencilere mesaj gönderebilirsiniz. Bir sınıfa katıldığınızda burada bir E-posta simgesi görünür.",
             "spanish": "Haga clic aquí para utilizar el área de Correo electrónico. Puede enviar mensajes a su profesor y a los demás estudiantes en su clase de Práctica Online. El icono de Email [Correo electrónico] aparecerá aquí cuando se haya inscrito a una clase.",
             "portuguese": "Clique aqui para usar a área de e-mail. Você pode enviar mensagens para o seu professor e para os outros alunos com os quais você compartilha sua aula no Online Practice. O ícone “E-mail” aparecerá aqui quando você estiver participando de uma aula.",
+            "spanish-la": "",
             "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني. يمكنك مراسلة معلمك والطلاب الآخرين المُدرَجين في فصل الممارسة عبر شبكة الإنترنت الخاص بك. تظهر أيقونة البريد الإلكتروني هنا بعد أن تنضم لأحد الفصول."
           }
         },
@@ -127,6 +137,7 @@
             "turkish": "Forumu kullanmak için buraya tıklayın. Çevrim İçi Uygulama sınıfınızdaki öğretmen ve diğer öğrencilerle tartışmalara katılabilirsiniz. Bir sınıfa katıldığınızda burada bir Forum simgesi görünür.",
             "spanish": "Haga clic aquí para utilizar el Foro. Usted puede participar en discusiones con su profesor y los demás estudiantes en su clase de Práctica Online. El icono del Forum [Foro] aparecerá aquí cuando se haya inscrito a una clase.",
             "portuguese": "Clique aqui para usar o fórum. Você pode participar de discussões com o seu professor e com os outros alunos presentes em sua aula no Online Practice. O ícone do “Forum” aparecerá aqui quando você estiver participando de uma aula.",
+            "spanish-la": "",
             "arabic": "اانقر هنا لاستخدام المنتدى. يمكنك الانضمام إلى مناقشة مع معلمك والطلاب الآخرين في فصل الممارسة عبر شبكة الإنترنت الخاص بك. تظهر أيقونة المنتدى هنا بعد أن تنضم لأحد الفصول."
           }
         },
@@ -139,6 +150,7 @@
             "turkish": "Çevrim İçi Uygulama sınıfına katılmak veya sınıf değiştirmek için buraya tıklayın. Bunu yapabilmeniz için öğretmeninizden bir sınıf kodu almanız gerekecektir.",
             "spanish": "Haga clic aquí para inscribirse a una clase de Práctica Online o cambiar de clase. Necesitará que su profesor le otorgue un código de clase para hacer esto.",
             "portuguese": "Clique aqui para participar de uma aula do Online Practice ou para alterar a aula. Você precisará de um código de aula fornecido pelo seu professor para fazer isso.",
+            "spanish-la": "",
             "arabic": "اانقر هنا للانضمام إلى فصل الممارسة عبر شبكة الإنترنت، أو تغيير الفصل. سوف تحتاج إلى رمز خاص بالفصل من معلمك للقيام بذلك."
           }
         }

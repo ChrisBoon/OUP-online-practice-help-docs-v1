@@ -3,6 +3,7 @@
     "english": "Activities",
     "turkish": "Aktiviteler",
     "spanish": "Actividades",
+    "spanish-la": "",
     "portuguese": "Atividades",
     "arabic": "أنشطة"
   },
@@ -18,6 +19,7 @@
         "turkish": "",
         "spanish": "",
         "portuguese": "",
+        "spanish-la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -30,6 +32,7 @@
             "turkish": "Bir ünite ya da ders seçmek için bu menüyü kullanın. Bir ünite ya da ders seçtiğinizde, ders içindeki ilk aktiviteye yönlendirilirsiniz.",
             "spanish": "Utilice este menú para seleccionar una unidad y lección. Cuando elija una unidad y lección, será dirigido a la primera actividad dentro de la lección.",
             "portugese": "Utilize este menu para escolher a unidade e uma lição. Quando você escolher uma unidade e uma lição, você será levado para a primeira atividade dentro da lição.",
+            "spanish-la": "",
             "arabic": "استخدم هذه القائمة لاختيار وحدة ودرس. عند اختيار وحدة ودرس سيتم نقلك إلى النشاط الأول ضمن الدرس."
           }
         },
@@ -42,6 +45,7 @@
             "turkish": "Ders içinden bir aktivite seçmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para elegir una actividad dentro de una lección.",
             "portugese": "Clique no menu ao lado para escolher uma atividade dentro de uma lição.",
+            "spanish-la": "",
             "arabic": "استخدم هذه القائمة لاختيار النشاط من خلال الدرس."
           }
         },
@@ -54,6 +58,7 @@
             "turkish": "Aktiviteler arasında sırayla gezinmek için “Previous” ve “Next” düğmelerini kullanın.",
             "spanish": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
             "portugese": "Utilize os botões “Previous“ e “Next“ para navegar por meio das atividades em sequência.",
+            "spanish-la": "",
             "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل. "
           }
         },
@@ -66,6 +71,7 @@
             "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda görüntülenir.",
             "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
             "portugese": "As atividades do Online Practice são exibidas nesta área.",
+            "spanish-la": "",
             "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
           }
         },
@@ -78,6 +84,7 @@
             "turkish": "Mevcut aktivite puanınız burada görüntülenir.",
             "spanish": "Su puntuación actual para la actividad se muestra aquí.",
             "portugese": "A sua pontuação atual na atividade é exibida aqui.",
+            "spanish-la": "",
             "arabic": "يتم إظهار درجة النشاط الحالي الخاص بك هنا."
           }
         },
@@ -90,6 +97,7 @@
             "turkish": "Bir aktiviteyi üç kez deneyebilirsiniz. Denemeleriniz sonucunda elde ettiğiniz en yüksek puan raporunuza kaydedilir.",
             "spanish": "Tiene tres intentos para completar una actividad. En su informe se registrará la puntuación más alta de sus intentos.",
             "portugese": "Você pode tentar realizar cada atividade três vezes. A pontuação mais alta dentre as obtidas durante as suas tentativas é registrada em seu relatório.",
+            "spanish-la": "",
             "arabic": "يمكنك أن تجرب النشاط ثلاث مرات. يتم تسجيل الدرجة الأعلى لمحاولاتك في التقرير الخاص بك."
           }
         },
@@ -102,6 +110,7 @@
             "turkish": "Bir aktiviteyi tamamlama rehberi ile birlikte Hızlı İpucu iletisini görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver un Consejo Rápido con información sobre cómo completar una actividad.",
             "portugese": "Clique aqui para visualizar um pop-up com uma dica rápida contendo orientações sobre a realização de uma atividade.",
+            "spanish-la": "",
             "arabic": "انقر هنا لرؤية نصيحة سريعة منبثقة مع توجيهات بشأن استكمال النشاط."
           }
         },
@@ -114,6 +123,7 @@
             "turkish": "Aktivitede bir ek varsa, simge burada görünecektir. İndirmek veya eki görüntülemek için buraya tıklayın.",
             "spanish": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga clic aquí para descargar o visualizar el archivo adjunto.",
             "portugese": "Se uma atividade possuir um anexo, um ícone aparecerá aqui. Clique para realizar o download ou para exibir o anexo.",
+            "spanish-la": "",
             "arabic": "في حالة احتواء النشاط على مرفق، فستظهر أيقونة هنا. انقر لتحميل أو عرض المرفق."
           }
         },
@@ -126,6 +136,7 @@
             "turkish": "Aktivitedeki tüm soruları cevapladığınızda cevaplarınızı kontrol edebilirsiniz.",
             "spanish": "Puede revisar sus respuestas una vez que haya respondido a todas las preguntas en una actividad.",
             "portugese": "Você pode conferir suas respostas após responder a todas as perguntas em uma atividade.",
+            "spanish-la": "",
             "arabic": "يمكنك التحقق من إجاباتك عندما تكون قد أجبت عن جميع الأسئلة في نشاط ما."
           }
         },
@@ -138,6 +149,7 @@
             "turkish": "Sorulardan bazılarını hatalı cevaplarsanız aktiviteyi yeniden deneyebilirsiniz. Bir aktiviteyi üç kez deneyebilirsiniz.",
             "spanish": "Puede volver a intentar una actividad si responde algunas preguntas de manera incorrecta. Tiene tres intentos para cada actividad.",
             "portugese": "É possível tentar realizar uma atividade novamente caso você responda algumas perguntas incorretamente. Você pode tentar realizar cada atividade três vezes.",
+            "spanish-la": "",
             "arabic": "يمكنك تجربة أحد الأنشطة مرة أخرى إذا كانت إجاباتك عن بعض الأسئلة غير صحيحة. يمكنك أن تجرب النشاط ثلاث مرات."
           }
         },
@@ -150,6 +162,7 @@
             "turkish": "Sorulardan bazılarını yanlış cevaplarsanız doğru cevapları görebilirsiniz.",
             "spanish": "En caso de responder algunas preguntas de forma incorrecta, podrá ver las respuestas correctas.",
             "portugese": "Se você responder algumas perguntas de forma incorretamente, você poderá visualizar as respostas corretas.",
+            "spanish-la": "",
             "arabic": "إذا أجبت عن بعض الأسئلة بطريقة غير صحيحة يمكنك رؤية الإجابات الصحيحة."
           }
         },
@@ -162,6 +175,7 @@
             "turkish": "Varsa, Resimli Sözlüğü burada görüntüleyebilirsiniz. Resimli Sözlük derste kullanılan sözcüklerde size yardımcı olur.",
             "spanish": "Aquí podrá ver el Glosario ilustrado, de estar disponible. El Glosario ilustrado le ayudará con el vocabulario del curso.",
             "portugese": "Você poderá visualizar o glossário de imagens aqui, caso disponível. O glossário de imagens irá ajudá-lo com o vocabulário do curso.",
+            "spanish-la": "",
             "arabic": "يمكنك عرض مسرد الصور هنا، إذا كان متاحًا. سوف يساعدك مسرد الصور في المفردات الخاصة بالمقرر."
           }
         },
@@ -174,6 +188,7 @@
             "turkish": "-",
             "spanish": "-",
             "portugese": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         }

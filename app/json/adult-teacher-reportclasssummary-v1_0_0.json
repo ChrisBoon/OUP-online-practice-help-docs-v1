@@ -16,6 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "spanish-la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +28,7 @@
             "english": "Use the menu to go to the Class Report for a specific class (you can view the work of specific students in a class).",
             "turkish": "Belli bir dersin Ders Raporuna gitmek için bu menüyü kullanın (bir dersteki belli öğrencilerin çalışmasını görüntüleyebilirsiniz).",
             "spanish": "Utilice el menú para ir al Informe de la Clase para una clase específica (puede ver el trabajo de los estudiantes específicos de una clase).",
+            "spanish-la": "",
             "arabic": "استخدم القائمة للذهاب إلى تقرير الفصل الخاص بفصل معين (يمكنك استعراض أعمال طلاب محددين في فصل ما)."
           }
         },
@@ -38,6 +40,7 @@
             "english": "You can also click on a class title to view a class report.",
             "turkish": "Bir ders raporunu görüntülemek için ders başlığına da tıklayabilirsiniz.",
             "spanish": "También puede hacer clic en el título de la clase para ver un informe de la clase.",
+            "spanish-la": "",
             "arabic": "يمكنك أيضًا النقر علىعنوانفصل ما لعرض التقرير الخاص به."
           }
         },
@@ -49,6 +52,7 @@
             "english": "Click here to view a Segment Report. You can see students’ scores for all units in the segment.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -60,6 +64,7 @@
             "english": "This row shows the average number of activities completed in each segment for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the segment, and 9 is the total number of activities in the segment.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -71,6 +76,7 @@
             "english": "This row shows the average score in each segment for this class. ",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -82,6 +88,7 @@
             "english": "This row shows the average amount of time students in this class worked on each segment.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -93,6 +100,7 @@
             "english": "This is the total of the average number of activities completed in the entire level for this class. For example, if the number is 27/156, 27 is the total of the average number of activities completed across segments, and 156 is the total number of activities in the level.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -104,6 +112,7 @@
             "english": "This is the average score across segments in the level.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -115,6 +124,7 @@
             "english": "This is the total of the average amount of time in each segment that students spent on activities across the level.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -126,6 +136,7 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -137,6 +148,7 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
+            "spanish-la": "",
             "arabic": "اانقر هنا لطباعة هذا التقرير."
           }
         }

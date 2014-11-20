@@ -16,6 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "spanish-la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +28,7 @@
             "english": "Enter the new name for your class. Then click “Save”. If you do not want to change the name of your class, click “Cancel”.",
             "turkish": "Dersinize yeni adını girin. Ardından “Save”e tıklayın. Dersinizin adını değiştirmek istemiyorsanız, “Cancel” seçeneğine tıklayın.",
             "spanish": "Ingrese el nuevo nombre para la clase. Luego haga clic en \"Save\". Si no desea cambiar el nombre de su clase, haga clic en \"Cancel\".",
+            "spanish-la": "",
             "arabic": "أدخل الاسم الجديد لفصلك. ثم انقر على “Save”(\"حفظ\"). إذا كنت لا ترغب في تغيير اسم فصلك، فانقر على “Cancel”(\"إلغاء\")."
           }
         },
@@ -38,6 +40,7 @@
             "english": "Click here to save your class name and return to the Class Details page.",
             "turkish": "Ders adınızı kaydetmek ve Ders Ayrıntıları sayfasına geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar el nombre de su clase y regresar a la página de Detalles de la Clase.",
+            "spanish-la": "",
             "arabic": "انقر هنا لحفظ اسم فصلك والعودة إلى صفحة التفاصيل الخاصة بالفصل."
           }
         },
@@ -49,6 +52,7 @@
             "english": "Click here to go back to the Class Details page without saving any changes.",
             "turkish": "Değişiklikleri kaydetmeden Ders Ayrıntıları sayfasına geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página de Detalles de la Clase sin guardar los cambios.",
+            "spanish-la": "",
             "arabic": "انقر هنا للعودة إلى صفحة تفاصيل الفصل دون حفظ أي تغييرات."
           }
         }

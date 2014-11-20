@@ -16,6 +16,7 @@
         "english": "Trophy Room",
         "turkish": "Zafer Odası",
         "spanish": "Sala de Trofeos",
+        "spanish-la": "",
         "arabic": "غرفة الميداليات"
       },
       "paragraphs":{
@@ -27,6 +28,7 @@
             "english": "This is the Trophy Room. You can see each of your students’ Trophy Room areas by clicking on “Achievements” in the Student Report area.",
             "turkish": "Burası Zafer Odasıdır. Öğrenci Rapor alanında “Achievements”üzerine tıklayarak her öğrencinin Zafer Odası alanını görebilirsiniz.",
             "spanish": "Esta es la Sala de Trofeos. Puede ver las áreas de la Sala de Trofeos de cada uno de sus estudiantes haciendo clic en \"Achievements\", en el área de Informes de Estudiantes.",
+            "spanish-la": "",
             "arabic": "هذه هي غرفة الميداليات. يمكنك أن ترى كل مناطق غرفة الميداليات الخاصة بطلابك بالضغط على “Achievements” (\"التحصيل\") في منطقة تقرير الطالب."
           }
         },
@@ -38,6 +40,7 @@
             "english": "Stars are awarded in the Trophy Room for the number of points a student has scored across the activities in a level.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -49,6 +52,7 @@
             "english": "If a student has scored 30% of the total possible points in a unit, they are awarded a star.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -60,6 +64,7 @@
             "english": "If a student has scored 70% of the total possible points in a unit, they are awarded two stars.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -71,6 +76,7 @@
             "english": "If a student has scored 90% of the total possible points in a unit, they are awarded three stars.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -82,6 +88,7 @@
             "english": "If a student has scored 100% of the total possible points in a unit, they are awarded a trophy.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -93,6 +100,7 @@
             "english": "This is the student Dashboard. The Online Practice is divided into several areas, for example, Test, Vocabulary, and Practice. The Dashboard shows student activity results for a level across the different areas.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -104,6 +112,7 @@
             "english": "Results for activities within different areas are displayed as a percentage based on the average score of all completed activities in an area within a level.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -115,6 +124,7 @@
             "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         }

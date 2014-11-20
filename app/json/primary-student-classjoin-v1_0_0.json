@@ -3,6 +3,7 @@
     "english": "Join a Class",
     "turkish": "Derse katıl ",
     "spanish": "Inscribirse a una clase",
+    "spanish-la": "",
     "portuguese": "Participe de uma turma",
     "arabic": "الانضمام إلى فصل"
   },
@@ -18,6 +19,7 @@
         "turkish": "",
         "spanish": "",
         "portuguese": "",
+        "spanish-la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -30,6 +32,7 @@
             "turkish": "Ders ID kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın. Ders ID kodu öğretmeniniz tarafından size verilen bir koddur. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar.",
             "spanish": "Ingrese su código de ID de clase aquí y haga clic en \"Save\". Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo.",
             "portuguese": "Insira o novo código de identificação de turma aqui e, em seguida, clique em \"Save\". Um código de identificação de turma pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua aula para que o seu professor possa visualizá-lo.",
+            "spanish-la": "",
             "arabic": "أأدخل رمز مُعرِّف الفصل الخاص بك هنا ثم انقر على “Save”(\"حفظ\"). يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه."
           }
         },
@@ -42,6 +45,7 @@
             "turkish": "Ders ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el código de ID de clase y regresar a su página de Inicio.",
             "portuguese": "Clique aqui para enviar o seu novo código de identificação de turma e voltar para a sua página inicial.",
+            "spanish-la": "",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وعُد لصفحتك الرئيسية."
           }
         },
@@ -54,6 +58,7 @@
             "turkish": "Derse katılmadan bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior sin inscribirse a una clase.",
             "portuguese": "Clique aqui para voltar para a página anterior sem participar de uma turma.",
+            "spanish-la": "",
             "arabic": "انقر هنا للرجوع إلى الصفحة السابقة بدون الانضمام إلى أحد الفصول."
           }
         }

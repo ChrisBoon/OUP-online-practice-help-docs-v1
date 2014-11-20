@@ -16,6 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "spanish-la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +28,7 @@
             "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -38,6 +40,7 @@
             "english": "Use this menu to choose an activity within a unit.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -49,6 +52,7 @@
             "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
             "turkish": "Aktiviteler arasında sırayla gezinmek için “Previous” ve “Next” düğmelerini kullanın.",
             "spanish": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
+            "spanish-la": "",
             "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل."
           }
         },
@@ -60,6 +64,7 @@
             "english": "The Online Practice activities are displayed in this area.",
             "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda görüntülenir.",
             "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
+            "spanish-la": "",
             "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
           }
         },
@@ -71,6 +76,7 @@
             "english": "Click here to see a grammar chart pop-up related to the current activity.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -82,6 +88,7 @@
             "english": "Students can click here to check their answers when they have answered all questions in an activity.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -93,6 +100,7 @@
             "english": "Students can try an activity again if they answer some questions incorrectly. They can try an activity as many times as they like.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -104,6 +112,7 @@
             "english": "If students answer some questions incorrectly they can see the correct answers.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -115,6 +124,7 @@
             "english": "Students can click here to see a Feedback pop-up with guidance on completing an activity.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -126,6 +136,7 @@
             "english": "A student’s current activity score is shown here.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -137,6 +148,7 @@
             "english": "Students can find supporting resources here that will help them with their Online Practice work, if available.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -148,6 +160,7 @@
             "english": "Students can view the Glossary here, if available. The Glossary will help them with the course vocabulary.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -159,6 +172,7 @@
             "english": "Students can access their Achievements and Reports here.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         }

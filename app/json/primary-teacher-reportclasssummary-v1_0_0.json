@@ -3,6 +3,7 @@
     "english": "Class Summary Report",
     "turkish": "Ders Özeti Raporu",
     "spanish": "Informe de Resumen de Clase",
+    "spanish-la": "Informe de Resumen de Clase",
     "portuguese": "Relatório resumido da turma",
     "arabic": "تقرير موجز الفصل"
   },
@@ -17,6 +18,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "spanish-la": "",
         "portuguese": "",
         "arabic": ""
       },
@@ -29,6 +31,7 @@
             "english": "Use the menu to go to the Class Report for a specific class (you can view the work of specific students in a class).",
             "turkish": "Belli bir dersin Ders Raporuna gitmek için bu menüyü kullanın (bir dersteki belli öğrencilerin çalışmasını görüntüleyebilirsiniz).",
             "spanish": "Utilice el menú para ir al Informe de la Clase para una clase específica (puede ver el trabajo de los estudiantes específicos de una clase).",
+            "spanish-la": "Utilice el menú para ir al Informe de la Clase de una clase específica (puede ver el trabajo de los estudiantes específicos de una clase).",
             "portuguese": "Use o menu para ir de um relatório de turma para uma aula específica (que você pode visualizar o trabalho de alunos específicos em uma turma).",
             "arabic": "استخدم القائمة للذهاب إلى تقرير الفصل الخاص بفصل معين (يمكنك استعراض أعمال طلاب محددين في فصل ما)."
           }
@@ -41,6 +44,7 @@
             "english": "You can also click on a class title to view a class report.",
             "turkish": "Bir ders raporunu görüntülemek için ders başlığına da tıklayabilirsiniz.",
             "spanish": "También puede hacer clic en el título de la clase para ver un informe de la clase.",
+            "spanish-la": "También puede hacer click en el título de la clase para ver un informe de la clase.",
             "portuguese": "Você também pode clicar no título de uma turma para visualizar o seu relatório.",
             "arabic": "يمكنك أيضًا النقر علىعنوانفصل ما لعرض التقرير الخاص به."
           }
@@ -53,6 +57,7 @@
             "english": "Click here to view a Unit Report. You can see students’ scores for all lessons in the unit.",
             "turkish": "Bir Ünite Raporunu görüntülemek için buraya tıklayın. Ünitedeki tüm konular için öğrencilerin puanlarını görebilirsiniz.",
             "spanish": "Haga clic aquí para ver un Informe de la Unidad. Puede ver las puntuaciones de los estudiantes para todas las lecciones de la unidad.",
+            "spanish-la": "Haga click aquí para ver un Informe de la Unidad. Puede ver las puntuaciones de los estudiantes para todas las lecciones de la unidad.",
             "portuguese": "Clique aqui para visualizar um relatório de unidade. Você pode visualizar as notas dos alunos em todas as lições da unidade.",
             "arabic": "انقر هنا لعرض تقرير وحدة ما. يمكنك أن ترى درجات الطلاب لجميع الدروس في الوحدة."
           }
@@ -65,6 +70,7 @@
             "english": "This row shows the average number of activities completed in each unit for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the unit, and 9 is the total number of activities in the unit.",
             "turkish": "Bu satır, bu dersteki her bir ünitede tamamlanan ortalama aktivite sayısını gösterir. Örneğin; sayı 8/9 ise, 8 ünitede tamamlanan ortalama aktivite sayısı, 9 ise ünitedeki toplam aktivite sayısıdır.",
             "spanish": "Esta fila muestra el número medio de las actividades realizadas para cada unidad de esta clase. Por ejemplo, si el número es 8/9, 8 es el número promedio de actividades realizadas en la unidad, y 9 es el número total de actividades en la unidad.",
+            "spanish-la": "Esta fila muestra el número medio de las actividades realizadas para cada unidad de esta clase. Por ejemplo, si el número es 8/9, 8 es el número promedio de actividades realizadas en la unidad, y 9 es el número total de actividades en la unidad.",
             "portuguese": "Esta linha exibe o número médio de atividades concluídas em cada unidade a esta turma. Por exemplo, se o número for 8/9, 8 é o número médio de atividades completadas na unidade, e 9 é o número total de atividades na unidade.",
             "arabic": "يبين هذا الصف متوسط عدد الأنشطة المُنجَزة في كل وحدة لهذا الفصل. على سبيل المثال: إذا كان العدد هو8/9، فإن 8 هو متوسط عدد الأنشطة المُنجَزة في الوحدة، و9 هو إجمالي الأنشطة في الوحدة."
           }
@@ -77,6 +83,7 @@
             "english": "This row shows the average score in each unit for this class.",
             "turkish": "Bu satır, bu sınıf için her bir ünitedeki ortalama puanı gösterir.",
             "spanish": "Esta fila muestra la puntuación media para cada unidad de esta clase.",
+            "spanish-la": "Esta fila muestra la puntuación media para cada unidad de esta clase.",
             "portuguese": "Esta linha exibe a pontuação média em cada unidade para esta turma.",
             "arabic": "يبين هذا الصف متوسط الدرجةفي كل وحدة لهذا الفصل."
           }
@@ -89,6 +96,7 @@
             "english": "This row shows the average amount of time students in this class worked on each unit.",
             "turkish": "Bu satır, bu dersteki öğrencilerin her bir ünitede çalıştığı ortalama süreyi gösterir.",
             "spanish": "Esta fila muestra la cantidad promedio de tiempo que los estudiantes de esta clase han trabajado en cada unidad.",
+            "spanish-la": "Esta fila muestra la cantidad promedio de tiempo que los estudiantes de esta clase han trabajado en cada unidad.",
             "portuguese": "Esta linha exibe a quantidade média de tempo que os alunos desta turma gastaram em cada unidade.",
             "arabic": "يُظهِر هذا الصف متوسط مقدار الوقت الذي قضاه الطالب في هذا الفصل بالعمل في كل وحدة."
           }
@@ -101,6 +109,7 @@
             "english": "This is the total of the average number of activities completed in the entire level for this class. For example, if the number is 80/90, 80 is the total of the average number of activities completed across units, and 90 is the total number of activities in the level.",
             "turkish": "Bu ders için bütün seviye boyunca tamamlanan ortalama aktivite sayısının toplamıdır. Örneğin; bu sayı 80/90 ise, 80 ünitelerde tamamlanan ortalama aktivite sayısı toplamı, 90 ise seviyedeki toplam aktivite sayısıdır.",
             "spanish": "Este es el total del número promedio de actividades realizadas en todo el nivel para esta clase. Por ejemplo, si el número es 80/90, 80 es el total del número promedio de actividades realizadas en las distintas unidades, y 90 es el número total de actividades en el nivel.",
+            "spanish-la": "Este es el total del número promedio de actividades realizadas en todo el nivel para esta clase. Por ejemplo, si el número es 80/90, 80 es el total del número promedio de actividades realizadas en las distintas unidades, y 90 es el número total de actividades en el nivel.",
             "portuguese": "Este é o total do número médio de atividades concluídas durante todo o nível desta turma. Por exemplo, se o número é 80/90, 80 é a soma do número médio de atividades entre as unidades concluídas, e 90 é o número total de atividades presentes no nível.",
             "arabic": "هذا هو إجمالي متوسط عدد الأنشطة المُنجَزة في مستوى كامل لهذا الفصل. على سبيل المثال: إذا كان الرقم 80/90، فإن 80 هو إجمالي متوسط عدد الأنشطة المُنجَزة في الوحدة، و90 هو إجمالي الأنشطة في المستوى."
           }
@@ -113,6 +122,7 @@
             "english": "This is the average score across units in the level.",
             "turkish": "Bu, seviyedeki üniteler boyunca alınan ortalama puandır.",
             "spanish": "Esta es la puntuación media de todas las unidades en el nivel.",
+            "spanish-la": "Esta es la puntuación media de todas las unidades en el nivel.",
             "portuguese": "Esta é a pontuação média dentre as unidades no nível.",
             "arabic": "هذا هو متوسط الدرجة عبر الوحدات في المستوى."
           }
@@ -125,6 +135,7 @@
             "english": "This is the total of the average amount of time in each unit that students spent on activities across the level.",
             "turkish": "Bu, öğrencilerin seviye boyunca her ünite için aktiviteler üzerinde harcadığı ortalama süre toplamıdır.",
             "spanish": "Este es el total de la cantidad promedio de tiempo que los estudiantes dedicaron a las actividades en cada unidad para todo el nivel.",
+            "spanish-la": "Este es el total de la cantidad promedio de tiempo que los estudiantes dedicaron a las actividades en cada unidad para todo el nivel.",
             "portuguese": "Este é o total da quantidade média de tempo gasto pelos alunos nas atividades em cada unidade durante todo o nível.",
             "arabic": "هذا هو إجمالي متوسط الوقت في كل وحدة والذي يقضيه الطلاب في الأنشطة خلال المستوى."
           }
@@ -137,6 +148,7 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
+            "spanish-la": "Haga click aquí para exportar este informe en formato Microsoft Excel™. ",
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™.",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
@@ -149,6 +161,7 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
+            "spanish-la": "Haga click aquí para imprimir este informe.",
             "portuguese": "Clique aqui para imprimir este relatório.",
             "arabic": "اانقر هنا لطباعة هذا التقرير."
           }

@@ -3,6 +3,7 @@
     "english": "Resources",
     "turkish": "Kaynaklar",
     "spanish": "Recursos",
+    "spanish-la": "Recursos",
     "portuguese": "Recursos",
     "arabic": "الموارد"
   },
@@ -17,6 +18,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "spanish-la": "",
         "portuguese": "",
         "arabic": ""
       },
@@ -29,6 +31,7 @@
             "english": "This is the Teacher Resources area. Where available, this area will provide supporting material for you and your students when using Online Practice. Resources displayed for teachers may be different from students’ resources.",
             "turkish": "Burası Öğretmen Kaynakları alanıdır. Varsa, Çevrim İçi Uygulamayı kullanırken kendiniz ve öğrencileriniz için destekleyici materyalleri burada bulabilirsiniz. Öğretmenler için görüntülenen kaynaklar öğrencilerinkinden farklı olabilir.",
             "spanish": "Esta es el área de Recursos para Profesores. Cuando esté disponible, esta área proporcionará material de apoyo para usted y sus estudiantes al utilizar Práctica Online. Los recursos que se muestran para los profesores pueden ser diferentes de los que se muestran a los estudiantes.",
+            "spanish-la": "Esta es el área de Recursos para Profesores. Cuando esté disponible, esta área proporcionará material de apoyo para usted y sus estudiantes al utilizar Práctica Online. Los recursos que se muestran para los profesores pueden ser diferentes de los que se muestran a los estudiantes.",
             "portuguese": "Esta é a área de recursos do professor. Quando disponível, esta área fornecerá o material de apoio necessário para que você e seus alunos utilizem o Online Practice. Os recursos disponíveis para os professores podem ser diferentes dos disponibilizados para os alunos.",
             "arabic": "هذه هي منطقة موارد المعلم وعندما تكون متاحة، تقدم هذه المنطقة موادًا داعمةً لك ولطلابك عند استخدام الممارسة عبر شبكة الإنترنت. وقد تكون الموارد المعروضة الخاصة بالمعلمين مختلفة عن تلك الخاصة بالطلاب."
           }
@@ -41,6 +44,7 @@
             "english": "Click on a title or icon to open a resource. PDF files and documents will open in a new tab or download to your computer or device depending on your browser settings.",
             "turkish": "Bir Kaynağı açmak için başlığına ya da simgesine tıklayın. PDF dosyaları ve belgeler yeni bir sekmede açılır ve tarayıcı ayarlarınıza bağlı olarak bilgisayarınıza ya da cihazınıza indirilir.",
             "spanish": "Haga clic en el título o icono para abrir un recurso. Los archivos PDF y los documentos se abrirán en una nueva pestaña o se descargarán a su ordenador o dispositivo en función de la configuración de su navegador.",
+            "spanish-la": "Haga click en el título o icono para abrir un recurso. Los archivos PDF y los documentos se abrirán en una nueva pestaña o se descargarán a su ordenador o dispositivo en función de la configuración de su navegador.",
             "portuguese": "Clique em um título ou ícone para abrir um recurso. Arquivos PDF e documentos serão abertos em uma nova aba ou serão baixados em o seu computador ou dispositivo, dependendo das configurações do seu navegador.",
             "arabic": "اانقر على عنوان أو أيقونة ما لفتح أحد الموارد. وسوف يتم فتح ملفات PDF والوثائق في علامة تبويب جديدة أو تنزيلها على الحاسب أو الجهاز الخاص بك حسب إعدادات المتصفح الخاص بك."
           }
@@ -53,6 +57,7 @@
             "english": "Click on an audio track title to play the file in your browser. Use the controls to play, pause and adjust the volume.",
             "turkish": "Tarayıcınızdaki dosyayı oynatmak için ses parçası başlığına tıklayın. Oynatmak, durdurmak ve sesi ayarlamak için kontrolleri kullanın.",
             "spanish": "Haga clic en el título de una pista de audio para reproducir el archivo en su navegador. Utilice los controles para reproducir, pausar y ajustar el volumen.",
+            "spanish-la": "Haga click en el título de una pista de audio para reproducir el archivo en su navegador. Utilice los controles para reproducir, pausar y ajustar el volumen.",
             "portuguese": "Clique no título de uma faixa de áudio para reproduzir o arquivo no navegador. Use os controles para reproduzir, pausar e ajustar o volume.",
             "arabic": "اانقر على عنوان المسار الصوتي لتشغيل الملف داخل المتصفح الخاص بك. استخدم مفاتيح التحكم لتشغيل مستوى جهارة الصوت وإيقافه وضبطه."
           }

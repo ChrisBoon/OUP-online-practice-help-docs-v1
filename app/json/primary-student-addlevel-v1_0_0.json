@@ -3,6 +3,7 @@
     "english": "Add a Level",
     "turkish": "Seviye Ekle",
     "spanish": "Añadir un Nivel",
+    "spanish-la": "",
     "portuguese": "Adicione um nível",
     "arabic": "إضافة مستوى"
   },
@@ -18,6 +19,7 @@
         "turkish": "Erişim kodunuzu girin",
         "spanish": "Ingrese su código de acceso",
         "portuguese": "Insira seu código de acesso",
+        "spanish-la": "",
         "arabic": "أأدخل رمز الدخول الخاص بك"
       },
       "paragraphs":{
@@ -30,6 +32,7 @@
             "turkish": "Çevrim İçi Uygulama erişim kodunuzu buraya girin. Erişim kodu Öğrenci Erişim Kodu Kartınızın üzerindedir. Hesabınıza yeni bir seviye eklemek için bir erişim kodu gerekir.",
             "spanish": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Estudiante. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
             "portuguese": "Insira o seu código de acesso do Online Practice aqui. O código de acesso está no seu cartão do código de acesso do aluno. Você deve ter um código de acesso para adicionar um novo nível em sua conta.",
+            "spanish-la": "",
             "arabic": "أدخل رمز دخول الممارسة على الانترنت الخاص بك هنا. يوجد رمز الدخول على بطاقة رمز الدخول الخاصة بالطالب. يجب أن يكون لديك رمز دخول لإضافة مستوى جديد إلى حسابك."
           }
         },
@@ -42,6 +45,7 @@
             "turkish": "Erişim kodunu nasıl alacağınızla ilgili bilgi almak üzere Oxford University Press internet sitesine gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ir al sitio web de Oxford University Press para obtener información acerca de cómo comprar un código de acceso.",
             "portuguese": "Clique aqui para ir ao site da Oxford University Press para obter informações sobre como comprar um código de acesso.",
+            "spanish-la": "",
             "arabic": "انقر هنا للذهاب إلى موقع وكالة جامعة أكسفورد للحصول على معلومات حول كيفية شراء رمز دخول."
           }
         },
@@ -54,6 +58,7 @@
             "turkish": "Erişim kodunuzu göndermek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su código de acceso.",
             "portuguese": "Clique aqui para enviar seu código de acesso.",
+            "spanish-la": "",
             "arabic": "انقر هنا لإرسال رمز الدخول الخاص بك."
           }
         },
@@ -66,6 +71,7 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "spanish-la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -78,6 +84,7 @@
             "turkish": "Erişim kodunuzu girdikten sonra bir sonraki sayfaya geçmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ir a la página siguiente una vez ingresado su código de acceso.",
             "portuguese": "Clique aqui para ir para a próxima página depois de inserir o seu código de acesso.",
+            "spanish-la": "",
             "arabic": "انقر هنا للذهاب إلى الصفحة التالية بعد إدخال رمز الدخول الخاص بك."
           }
         }
@@ -91,6 +98,7 @@
         "turkish": "Seviye seç",
         "spanish": "Elija un nivel",
         "portuguese": "Escolha um nível",
+        "spanish-la": "",
         "arabic": "حدد مستوى"
       },
       "paragraphs":{
@@ -103,6 +111,7 @@
             "turkish": "Bir seviye seçin. Kullandığınız seviyenin seçilmesi son derece önemlidir. Kitabınızla aynı seviye olduğundan emin olmak için kontrol edin.",
             "spanish": "Elija un nivel. Es muy importante elegir el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "portuguese": "Escolha um nível. É muito importante escolher o nível que você está utilizando. Certifique-se de que o nível selecionado é o mesmo nível do seu livro.",
+            "spanish-la": "",
             "arabic": "اختر مستوى. من الأهمية بمكان أن تختار المستوى الذي تستخدمه. افحص للتأكد من أنه نفس مستوى كتابك."
           }
         },
@@ -115,6 +124,7 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "spanish-la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
@@ -128,6 +138,7 @@
         "turkish": "Derse katıl",
         "spanish": "Inscribirse a una clase",
         "portuguese": "Participe de uma aula",
+        "spanish-la": "",
         "arabic": "الانضمام إلى فصل"
       },
       "paragraphs":{
@@ -140,6 +151,7 @@
             "turkish": "Bir ders ID kodunuz varsa, buraya girin. Ders ID kodu öğretmeniniz tarafından size verilen bir koddur. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar. Bir ders ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Bu kodu daha sonra girmek için, Anasayfanızdan “Join a Class” seçeneğini seçin.",
             "spanish": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga clic en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
             "portuguese": "Caso você possua um código de identificação de aula, insira-o aqui. Um código de identificação de aula pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua aula para que o seu professor possa o visualizar. Caso você não tenha um código de identificação de aula, clique em “Skip“. Para introduzir esse código mais tarde, escolha a opção “Join a Class“ na sua página inicial.",
+            "spanish-la": "",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بأحد الفصول، فقم بإدخاله هنا. يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه. إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول، فانقر على “Skip”(\"تخطي\"). لإدخال هذا الرمز في وقت لاحق؛ اختر “Join a Class” (\"الانضمام إلى أحد الفصول\") من الصفحة الرئيسية."
           }
         },
@@ -152,6 +164,7 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "spanish-la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -164,6 +177,7 @@
             "turkish": "Bir ders ID kodunuz yoksa buraya tıklayın.",
             "spanish": "Haga clic aquí si no tiene un código de ID de clase.",
             "portuguese": "Clique aqui caso você não tinha um código de identificação de aula.",
+            "spanish-la": "",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول."
           }
         },
@@ -176,6 +190,7 @@
             "turkish": "Ders ID kodunuzu göndermek ve Anasayfanıza gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el código de ID de clase y ser dirigido a su página de Inicio.",
             "portuguese": "Clique aqui para enviar seu código de identificação de aula e para ir para sua página inicial.",
+            "spanish-la": "",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وانتقل للصفحة الرئيسية الخاصة بك."
           }
         }

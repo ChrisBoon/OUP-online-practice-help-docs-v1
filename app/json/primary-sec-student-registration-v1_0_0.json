@@ -3,6 +3,7 @@
     "english": "Student Registration",
     "turkish": "Öğrenci Kaydı",
     "spanish": "Registro de Estudiante",
+    "spanish-la": "",
     "portuguese": "Registro do aluno",
     "arabic": "تسجيل الطلاب"
   },
@@ -18,6 +19,7 @@
         "turkish": "",
         "spanish": "",
         "portuguese": "",
+        "spanish-la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -30,6 +32,7 @@
             "turkish": "İlk kez kullanıyorsanız “Register” seçeneğine tıklayın.",
             "spanish": "Si utiliza el sitio por primera vez, haga clic en \"Register\".",
             "portuguese": "Se você é um novo usuário, clique em “Register”.",
+            "spanish-la": "",
             "arabic": "إذا كنت مستخدمًا لأول مرة,فانقر على“Register”(\"تسجيل\")."
           }
         }
@@ -43,6 +46,7 @@
         "turkish": "Kullanım Koşullarını kabul edin.",
         "spanish": "Aceptar las Condiciones de Uso",
         "portuguese": "Aceitação dos termos de uso",
+        "spanish-la": "",
         "arabic": "وافق على شروط الاستخدام"
       },
       "paragraphs":{
@@ -55,6 +59,7 @@
             "turkish": "Bu sayfa Kullanım Koşullarını açıklamaktadır. Çevrim İçi Uygulamaya kaydolmak için koşulları kabul etmeniz gerekir.",
             "spanish": "Esta página explica las Condiciones de Uso. Usted debe aceptarlas para poder registrarse en la Práctica Online.",
             "portuguese": "Esta página explica os termos de uso. Você deve concordar com os termos, a fim de se registrar ao Online Practice.",
+            "spanish-la": "",
             "arabic": "تشرح هذه الصفحة شروط الاستخدام. يجب عليك الموافقة على الشروط لكي تقوم بالتسجيل الخاص بالممارسة عبر شبكة الإنترنت."
           }
         },
@@ -67,6 +72,7 @@
             "turkish": "Kullanım Koşullarını kabul ettiğinizi göstermek için kutucuğu işaretleyin.",
             "spanish": "Marque la casilla para indicar que está de acuerdo con las Condiciones de Uso.",
             "portuguese": "Marque a caixa de seleção para demonstrar que você concorda com os termos de uso.",
+            "spanish-la": "",
             "arabic": "ضع علامة في المربع لإظهار موافقتك على شروط الاستخدام."
           }
         },
@@ -79,6 +85,7 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "spanish-la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
@@ -92,6 +99,7 @@
         "turkish": "Erişim kodunuzu girin",
         "spanish": "Ingrese su código de acceso",
         "portuguese": "Insira seu código de acesso",
+        "spanish-la": "",
         "arabic": "أدخل رمز الدخول الخاص بك"
       },
       "paragraphs":{
@@ -104,6 +112,7 @@
             "turkish": "-",
             "spanish": "-",
             "portuguese": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -116,6 +125,7 @@
             "turkish": "“Enter” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Enter\".",
             "portuguese": "Clique em “Enter”.",
+            "spanish-la": "",
             "arabic": "انقر “Enter”(\"إدخال\")"
           }
         }
@@ -129,6 +139,7 @@
         "turkish": "Ayrıntılarınızı girin",
         "spanish": "Ingrese sus datos",
         "portuguese": "Insira seus dados",
+        "spanish-la": "",
         "arabic": "أدخل التفاصيل الخاصة بك"
       },
       "paragraphs":{
@@ -141,6 +152,7 @@
             "spanish": "Ingrese su nombre (nombre de pila).",
             "turkish": "Adınızı girin.",
             "portuguese": "Digite seu nome.",
+            "spanish-la": "",
             "arabic": "أدخل اسمك الأول (الاسم المُعطَى)."
           }
         },
@@ -153,6 +165,7 @@
             "turkish": "Soyadınızı (aile adı) girin.",
             "spanish": "Ingrese su apellido.",
             "portuguese": "Digite seu sobrenome.",
+            "spanish-la": "",
             "arabic": "أدخل اسمك الأخير (اسم العائلة)."
           }
         },
@@ -165,6 +178,7 @@
             "turkish": "E-posta adresinizi girin.",
             "spanish": "Ingrese su dirección de correo electrónico.",
             "portuguese": "Digite o seu endereço de e-mail.",
+            "spanish-la": "",
             "arabic": "أدخل عنوان بريدك الإلكتروني."
           }
         },
@@ -177,6 +191,7 @@
             "turkish": "E-posta adresinizi tekrar girin.",
             "spanish": "Vuelva a escribir su dirección de correo electrónico.",
             "portuguese": "Digite seu endereço de e-mail novamente.",
+            "spanish-la": "",
             "arabic": "اطبع عنوان بريدك الإلكتروني مرةً أخرى."
           }
         },
@@ -189,6 +204,7 @@
             "turkish": "Bir parola seçin.",
             "spanish": "Elija una contraseña.",
             "portuguese": "Escolha uma senha.",
+            "spanish-la": "",
             "arabic": "حدد كلمة مرور."
           }
         },
@@ -201,6 +217,7 @@
             "turkish": "Parolanızı tekrar yazın.",
             "spanish": "Vuelva a escribir su contraseña.",
             "portuguese": "Insira sua senha novamente.",
+            "spanish-la": "",
             "arabic": "قم بطباعة كلمة المرور مرة أخرى."
           }
         },
@@ -213,6 +230,7 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "spanish-la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -225,6 +243,7 @@
             "turkish": "Bilgilerinizi göndermek ve bir sonraki sayfaya geçmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su información e ir a la página siguiente.",
             "portuguese": "Clique aqui para enviar suas informações e ir para a próxima página.",
+            "spanish-la": "",
             "arabic": "انقر هنا لإرسال المعلومات الخاصة بك وانتقل للصفحة التالية."
           }
         }
@@ -238,6 +257,7 @@
         "turkish": "Seviye seç",
         "spanish": "Elija un nivel",
         "portuguese": "Escolha um nível",
+        "spanish-la": "",
         "arabic": "حدد مستوى"
       },
       "paragraphs":{
@@ -250,6 +270,7 @@
             "turkish": "Seviyenizi girmek için kitap kapağınıza tıklayın. Kullandığınız seviyenin seçilmesi son derece önemlidir. Sizin seviyenizde olduğundan emin olmak için başlığı ve kapağı kontrol edin. Birden fazla seviye kullanıyorsanız, Anasayfanızdan “Add a level”i seçerek başka bir seviye ekleyebilirsiniz (seviye eklemek için yeni bir erişim kodu gerekecek).",
             "spanish": "Haga clic en la portada de su libro para seleccionar su nivel. Es muy importante seleccionar el nivel que está utilizando. Compruebe el título y la cubierta para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede añadir otro nivel más adelante seleccionando \"Add a level\" en su página de Inicio (necesitará un nuevo código de acceso para agregar un nivel).",
             "portuguese": "Clique na capa do seu livro para selecionar o seu nível. É muito importante escolher o nível que você está utilizando. Verifique o título e a capa para assegurar-se de que o nível selecionado seja o nível correto. Caso você esteja utilizando mais de um nível, é possível adicionar outro nível posteriormente clicando em “Add a level” na sua página inicial (você vai precisar de um novo código de acesso para adicionar um novo nível).",
+            "spanish-la": "",
             "arabic": "اانقر فوق غلاف الكتاب الخاص بك لتحديد مستواك. من الأهمية بمكان أن تحدد المستوى الذي تستخدمه. تحقق من العنوان والغلاف لتتأكد أنه المستوى الخاص بك. إذا كنت تستخدم أكثر من مستوى، يمكنك إضافة مستوى آخر في وقت لاحق عن طريق اختيار“Add a level” (\"أضف مستوى\") من صفحتك الرئيسية (سوف تحتاج إلى رمز دخول جديد لإضافة مستوى)."
           }
         },
@@ -262,6 +283,7 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "spanish-la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
@@ -275,6 +297,7 @@
         "turkish": "Ders kodunuzu girin",
         "spanish": "Ingrese el código de su clase",
         "portuguese": "Insira seu código de aula",
+        "spanish-la": "",
         "arabic": "أدخل رمز الفصل الخاص بك."
       },
       "paragraphs":{
@@ -287,6 +310,7 @@
             "turkish": "Bir ders ID kodunuz varsa, buraya girin. Ders ID kodu öğretmeniniz tarafından size verilen bir koddur. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar. Bir ders ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Bu kodu daha sonra girmek için, Anasayfanızdan “Join a Class” seçeneğini seçin.",
             "spanish": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga clic en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
             "portuguese": "Caso você possua um código de identificação de aula, insira-o aqui. Um código de identificação de aula pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua aula para que o seu professor possa o visualizar. Caso você não tenha um código de identificação de aula, clique em “Skip”. Para introduzir esse código mais tarde, escolha a opção “Join a Class” na sua página inicial.",
+            "spanish-la": "",
             "arabic": "إإذا كان لديك رمز مُعرِّف خاص بأحد الفصول، فقم بإدخاله هنا. يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه. إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول، فانقر على “Skip”(\"تخطي\"). لإدخال هذا الرمز في وقت لاحق؛ اختر “Join a Class” (\"الانضمام إلى أحد الفصول\") من الصفحة الرئيسية."
           }
         },
@@ -299,6 +323,7 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "spanish-la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -311,6 +336,7 @@
             "turkish": "Bir ders ID kodunuz yoksa buraya tıklayın.",
             "spanish": "Haga clic aquí si no tiene un código de ID de clase.",
             "portuguese": "Clique aqui caso você não tenha um código de identificação de aula.",
+            "spanish-la": "",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول."
           }
         },
@@ -323,6 +349,7 @@
             "turkish": "Ders ID kodunuzu göndermek ve bir sonraki sayfaya gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el código de ID de su clase e ir a la página siguiente.",
             "portuguese": "Clique aqui para enviar seu código de identificação de aula e para ir para a próxima página.",
+            "spanish-la": "",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وانتقل للصفحة التالية."
           }
         }
@@ -336,6 +363,7 @@
         "turkish": "Kayıt bilgilerinizi kaydedin",
         "spanish": "Guarde su información de registro",
         "portuguese": "Salve suas informações de registro",
+        "spanish-la": "",
         "arabic": "قم حفظ معلومات التسجيل الخاصة بك."
       },
       "paragraphs":{
@@ -348,6 +376,7 @@
             "turkish": "Bu sayfa kayıt bilgilerinizi gösterir. Referans için bu sayfayı yazdırmak isteyebilirsiniz. Bu bilgileri değiştirmek için, oturum açtıktan sonra Profili Düzenle’yi seçin (ekranın sağ üst köşesinde olacak).",
             "spanish": "Esta página muestra su información de registro. Es posible que desee imprimir esta página como referencia. Para cambiar esta información, seleccione Editar Perfil una vez que inicie sesión (se encontrará en la parte superior derecha de la pantalla).",
             "portuguese": "Esta página exibe as suas informações de registro. É possível imprimir esta página para fins de referência. Para alterar estas informações, selecione a opção “Edit Profile” após iniciar a sessão (essa opção estará disponível no canto superior direito da tela).",
+            "spanish-la": "",
             "arabic": "تُظهِر هذه الصفحة معلومات التسجيل الخاصة بك. وقد ترغب في طباعة هذه الصفحة كمرجع. لتغيير هذه المعلومات؛ حدد Edit Profile(\"تحرير الملف الشخصي\") بعد تسجيل الدخول (سيوجد في أعلى يمين الشاشة)."
           }
         },
@@ -360,6 +389,7 @@
             "turkish": "Kayıt bilgilerinizi yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir su información de registro.",
             "portuguese": "Clique aqui para imprimir suas informações de registro.",
+            "spanish-la": "",
             "arabic": "انقر هنا لطباعة معلومات التسجيل الخاصة بك."
           }
         },
@@ -372,6 +402,7 @@
             "turkish": "Kaydı tamamlamak ve Çevrim İçi Uygulama oturumunuzu açmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para completar el registro e iniciar sesión en su Práctica Online.",
             "portuguese": "Clique aqui para completar o registo e conectar-se ao Online Practice.",
+            "spanish-la": "",
             "arabic": "انقر هنا لإكمال التسجيل وتسجيل الدخول في الممارسة الخاصة بك عبر شبكة الإنترنت."
           }
         }

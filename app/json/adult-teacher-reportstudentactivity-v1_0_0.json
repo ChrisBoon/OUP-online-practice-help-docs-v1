@@ -16,6 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "spanish-la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +28,7 @@
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Ders Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
+            "spanish-la": "",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (متوسط الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -38,6 +40,7 @@
             "english": "Click here to view the Class Report for the class shown on the right.",
             "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase para la clase que se muestra a la derecha.",
+            "spanish-la": "",
             "arabic": "انقر هنا لعرض تقرير الفصل الخاص بالفصل المعروض على اليمين."
           }
         },
@@ -49,6 +52,7 @@
             "english": "Click here to view the Student Report for this student.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -60,6 +64,7 @@
             "english": "Click here to view the Segment Report for this student.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         },
@@ -71,6 +76,7 @@
             "english": "Use this menu to view the work of a student in another class. Select “All Classes” to go to the Class Summary Report.",
             "turkish": "Başka sınıftaki bir öğrencinin çalışmasını görüntülemek için bu menüyü kullanın. Ders Özeti Raporuna gitmek için “All Classes” seçeneğini seçin.",
             "spanish": "Utilice este menú para ver el trabajo de un estudiante en otra clase. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
+            "spanish-la": "",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب ما في فصل أخرى. حدد “All Classes”  (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
         },
@@ -82,6 +88,7 @@
             "english": "Use this menu to view the work of a different student for this activity.",
             "turkish": "Bu aktivite için farklı bir öğrencinin çalışmasını görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el trabajo de un estudiante diferente para esta actividad.",
+            "spanish-la": "",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب مختلف لهذا النشاط."
           }
         },
@@ -93,6 +100,7 @@
             "english": "This shows the student’s score on this activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "",
             "arabic": "-"
           }
         }
