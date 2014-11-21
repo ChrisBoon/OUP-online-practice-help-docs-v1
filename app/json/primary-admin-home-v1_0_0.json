@@ -3,7 +3,7 @@
     "english": "Administrator Home",
     "turkish": "Yönetici Anasayfası",
     "spanish": "Inicio para Administrador ",
-    "spanish-la": "",
+    "spanish-la": "Inicio para Administrador ",
     "portuguese": "Página inicial do administrador",
     "arabic": "لصفحة الرئيسية الخاصة بمراقب النظام"
   },
@@ -18,8 +18,8 @@
         "english": "View Reports",
         "turkish": "Raporları Görüntüle",
         "spanish": "Ver Informes",
+        "spanish-la": "Ver Informes",
         "portuguese": "Visualização relatórios",
-        "spanish-la": "",
         "arabic": "عرض التقارير"
       },
       "paragraphs":{
@@ -31,8 +31,8 @@
             "english": "View student reports from teachers who have joined your institution’s Online Practice.",
             "turkish": "Kurumunuzun Çevrim İçi Uygulamasına katılan öğretmenlerin öğrenci raporlarını görüntüleyin.",
             "spanish": "Ver reportes de alumnos de los profesores inscritos en la Práctica Online de su institución.",
+            "spanish-la": "Ver reportes de alumnos de los profesores inscritos en la Práctica Online de su institución.",
             "portuguese": "Visualize os relatórios dos alunos gerados pelos professores que aderiram ao Online Practice da sua instituição.",
-            "spanish-la": "",
             "arabic": "عرض تقارير الطلاب من المعلمين الذين انضموا للممارسة عبر الإنترنت الخاصة بالمؤسسة."
           }
         },
@@ -44,8 +44,8 @@
             "english": "View the Online Practice activities for all levels of your course.",
             "turkish": "Kursunuzun tüm seviyeleri için Çevrim İçi Uygulama aktivitelerini görüntüleyin.",
             "spanish": "Ver las actividades de Práctica Online para todos los niveles de su curso.",
+            "spanish-la": "Ver las actividades de Práctica Online para todos los niveles de su curso.",
             "portuguese": "Visualize as atividades do Online Practice para todos os níveis do seu curso.",
-            "spanish-la": "",
             "arabic": "أنشطة الممارسة عبر شبكة الإنترنت لجميع مستويات المقرر الخاص بك."
           }
         }
@@ -58,8 +58,8 @@
         "english": "View activities",
         "turkish": "Aktiviteleri görüntüleyin",
         "spanish": "Ver actividades",
+        "spanish-la": "Ver actividades",
         "portuguese": "Visualizar atividades",
-        "spanish-la": "",
         "arabic": "عرض الأنشطة"
       },
       "paragraphs":{
@@ -71,8 +71,8 @@
             "english": "Administrators can view activities for all levels of a course. Select a level to view on this page.",
             "turkish": "Yöneticiler bir kursun tüm seviyeleri için aktiviteleri görüntüleyebilir. Bu sayfada görüntülemek istediğiniz seviyeyi seçin.",
             "spanish": "Los administradores pueden ver las actividades para todos los niveles de un curso. Seleccione un nivel para ver en esta página.",
+            "spanish-la": "Los administradores pueden ver las actividades para todos los niveles de un curso. Seleccione un nivel para ver en esta página.",
             "portuguese": "Os administradores podem visualizar as atividades para todos os níveis de um curso. Selecione um nível para ser visualizado nesta página.",
-            "spanish-la": "",
             "arabic": "يمكن للمديرين عرض الأنشطة لجميع المستويات الخاصة بإحدى الدورات. حدد مستوى لعرضه على هذه الصفحة."
           }
         }
