@@ -3,7 +3,7 @@
     "english": "Forum",
     "turkish": "Forum",
     "spanish": "Foro",
-    "spanish-la": "",
+    "spanish-la": "Foro",
     "portuguese": "Fórum",
     "arabic": "المنتدى"
   },
@@ -18,8 +18,8 @@
         "english": "Write a post",
         "turkish": "Gönderi yaz",
         "spanish": "Escribir un mensaje",
+        "spanish-la": "Escribir un mensaje",
         "portuguese": "Escreva uma postagem",
-        "spanish-la": "",
         "arabic": "كتابة منشور"
       },
       "paragraphs":{
@@ -31,8 +31,8 @@
             "english": "You can create a new post by writing in the Create New Post column. When you click the “Post” button it will appear in the Discussions and Comments list. Your teacher and any student in your Online Practice class can see your post and reply to it.",
             "turkish": "Yeni Gönderi Oluştur kolonuna yazarak yeni bir gönderi oluşturabilirsiniz. “Post” düğmesine tıkladığınızda Tartışmalar ve Yorumlar listesinde görüntülenir. Çevrim İçi Uygulama dersinizdeki öğretmen ve öğrenciler gönderinizi görebilir ve yanıtlayabilir.",
             "spanish": "Puede crear un nuevo mensaje escribiendo en la columna Crear Nuevo Mensaje. Al hacer clic en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Tanto su profesor como cualquier otro estudiante en su clase de Práctica Online podrá ver su mensaje y responderlo.",
+            "spanish-la": "Puede crear un nuevo mensaje escribiendo en la columna Crear Nuevo Mensaje. Al hacer click en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Tanto su profesor como cualquier otro estudiante en su clase de Práctica Online podrá ver su mensaje y responderlo.",
             "portuguese": "Você pode criar uma nova postagem escrevendo na coluna “Create New Post”. Quando você clicar no botão \"Post\" ela aparecerá na lista “Discussions and Comments”. Seu professor e qualquer aluno em sua turma do Online Practice poderão visualizar sua postagem e responder a ela.",
-            "spanish-la": "",
             "arabic": "يمكنك عمل منشور جديد عن طريق الكتابة في عمود إنشاء منشور جديد. عند النقر على زر“Post” (\"نشر\"), سوف تظهر في قائمة المناقشات والتعليقات. يمكن لمعلمك ولأي طالب مشترك في الممارسة الخاصة بك على الإنترنت أن يرى منشورك ويرد عليه."
           }
         },
@@ -44,8 +44,8 @@
             "english": "Write your message in the blank text area under the formatting buttons.",
             "turkish": "Mesajınızı biçimlendirme düğmelerinin altındaki boş metin alanına girin.",
             "spanish": "Escriba el mensaje en el campo en blanco debajo de los botones de formato.",
+            "spanish-la": "Escriba el mensaje en el campo en blanco debajo de los botones de formato.",
             "portuguese": "Escreva sua mensagem na área de texto em branco sob os botões de formatação.",
-            "spanish-la": "",
             "arabic": "اكتب رسالتك في المنطقة الفارغة تحت أزرار التنسيق."
           }
         },
@@ -57,8 +57,8 @@
             "english": "This is where you can view and reply to all of the current posts.",
             "turkish": "Güncel gönderilerin tümünü burada görüntüleyebilir ve yanıtlayabilirsiniz.",
             "spanish": "Aquí podrá ver y responder todos los mensajes actuales.",
+            "spanish-la": "Aquí podrá ver y responder todos los mensajes actuales.",
             "portuguese": "Este é o lugar onde você pode visualizar e responder a todas as postagens atuais.",
-            "spanish-la": "",
             "arabic": "هذا هو المكان الذي يمكنك من خلاله عرض والرد على جميع المنشورات الحالية."
           }
         },
@@ -70,8 +70,8 @@
             "english": "Click “Post” to add the post to the column on the right.",
             "turkish": "Gönderiyi sağdaki kolona eklemek için “Post” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Post\" para agregar el mensaje a la columna de la derecha.",
+            "spanish-la": "Haga click en \"Post\" para agregar el mensaje a la columna de la derecha.",
             "portuguese": "Clique em “Post” para adicionar a postagem na coluna à direita.",
-            "spanish-la": "",
             "arabic": "انقر على “Post” (\"نشر\") لإضافة المنشور إلى العمود الواقع على اليمين."
           }
         },
@@ -83,8 +83,8 @@
             "english": "Click “Show” to view other students’ replies.",
             "turkish": "Diğer öğrencilerin yanıtlarını görüntülemek için “Show” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Show\" para ver las respuestas de los demás estudiantes.",
+            "spanish-la": "Haga click en \"Show\" para ver las respuestas de los demás estudiantes.",
             "portuguese": "Clique em “Show” para visualizar as respostas dos outros alunos.",
-            "spanish-la": "",
             "arabic": "اانقر على “Show”(\"إظهار\") لعرض ردود الطلاب الآخرين."
           }
         },
@@ -96,8 +96,8 @@
             "english": "Click “Hide” to hide the replies.",
             "turkish": "Yanıtları gizlemek için “Hide” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Hide\" para ocultar las respuestas.",
+            "spanish-la": "Haga click en \"Hide\" para ocultar las respuestas.",
             "portuguese": "Clique em “Hide” para esconder as respostas.",
-            "spanish-la": "",
             "arabic": "انقر على “Hide” (\"إخفاء\") لإخفاء الردود."
           }
         },
@@ -109,8 +109,8 @@
             "english": "Click “Reply” to reply to a post.",
             "turkish": "Bir gönderiyi yanıtlamak için “Reply” seçeneğine a tıklayın.",
             "spanish": "Haga clic en \"Reply\" para responder a un mensaje.",
+            "spanish-la": "Haga click en \"Reply\" para responder a un mensaje.",
             "portuguese": "Clique em “Reply” para responder a uma postagem.",
-            "spanish-la": "",
             "arabic": "انقر على “Reply” (\"رد\") للرد على المنشور."
           }
         }
@@ -123,8 +123,8 @@
         "english": "Reply to a post",
         "turkish": "Bir gönderiyi yanıtla",
         "spanish": "Responder a un mensaje",
+        "spanish-la": "Responder a un mensaje",
         "portuguese": "Responder a uma postagem",
-        "spanish-la": "",
         "arabic": "الرد على منشور"
       },
       "paragraphs":{
@@ -136,8 +136,8 @@
             "english": "If you click “Reply”, a text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
             "turkish": "“Reply” seçeneğine tıklarsanız, yanıtladığınız gönderinin altında bir metin kutusu açılacaktır. Yanıtınızı doğrudan tartışma içerisine girebilirsiniz.",
             "spanish": "Si hace clic en \"Reply\", se abrirá un cuadro de texto bajo el mensaje al que está respondiendo. Puede ingresar su respuesta directamente en la discusión.",
+            "spanish-la": "Si hace click en \"Reply\", se abrirá un cuadro de texto bajo el mensaje al que está respondiendo. Puede ingresar su respuesta directamente en la discusión.",
             "portuguese": "Se você clicar em “Reply”, uma caixa de texto será aberta sob a postagem para a qual você está fornecendo uma resposta. Você pode digitar a sua resposta diretamente na discussão.",
-            "spanish-la": "",
             "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي ترد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
           }
         },
@@ -149,8 +149,8 @@
             "english": "Click “Post” to post your reply to the discussion.",
             "turkish": "Tartışmaya yanıtınızı göndermek için “Post” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Post\" para publicar su respuesta a la discusión.",
+            "spanish-la": "Haga click en \"Post\" para publicar su respuesta a la discusión.",
             "portuguese": "Clique em “Post” para publicar a sua resposta na área de discussão.",
-            "spanish-la": "",
             "arabic": "انقر على “Post”(\"نشر\") لنشر ردك على المناقشة."
           }
         },
@@ -162,8 +162,8 @@
             "english": "Click “Cancel” if you do not want to post your reply.",
             "turkish": "Yanıtınızı paylaşmak istemiyorsanız “Cancel” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Cancel\" si no desea publicar su respuesta.",
+            "spanish-la": "Haga click en \"Cancel\" si no desea publicar su respuesta.",
             "portuguese": "Clique em “Cancel” se você não desejar publicar sua resposta.",
-            "spanish-la": "",
             "arabic": "انقر على “Cancel” (\"إلغاء\") إذا كنت لا تريد نشر ردك."
           }
         }

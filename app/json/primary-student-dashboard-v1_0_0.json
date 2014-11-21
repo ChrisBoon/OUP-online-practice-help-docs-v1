@@ -3,7 +3,7 @@
     "english": "Achievements",
     "turkish": "Başarılar",
     "spanish:": "Logros",
-    "spanish-la": "",
+    "spanish-la": "Logros",
     "portuguese": "Realizações",
     "arabic": "التحصيل"
   },
@@ -18,8 +18,8 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "portuguese": "",
         "spanish-la": "",
+        "portuguese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -31,8 +31,8 @@
             "english": "Click here to see your achievements in the Trophy Room and Skills Dashboard.",
             "turkish": "Başarılarınızı Zafer Odası ve Beceriler Panosunda görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver sus logros en la Sala de Trofeos y el Tablero de Habilidades.",
+            "spanish-la": "Haga click aquí para ver sus logros en la Sala de Trofeos y el Tablero de Habilidades.",
             "portuguese": "Clique aqui para visualizar suas realizações na sala de troféus e no painel de habilidades.",
-            "spanish-la": "",
             "arabic": "انقر هنا لرؤية التحصيل الخاص بك في غرفة الميدالياتولوحة المهارات."
           }
         },
@@ -44,8 +44,8 @@
             "english": "Click here to see your Reports.",
             "turkish": "Raporlarınızı görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver sus Informes.",
+            "spanish-la": "Haga click aquí para ver sus Informes.",
             "portuguese": "Clique aqui para visualizar os seus relatórios.",
-            "spanish-la": "",
             "arabic": "انقر هنا لرؤية تقاريرك."
           }
         },
@@ -57,8 +57,8 @@
             "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect! You can attempt an Online Practice activity three times. The highest score of the three attempts is recorded as your final score.",
             "turkish": "Çevrim İçi Uygulama seviyenizin her bir ünitesinde aktivitelerinizi tamamladıkça yıldız toplayabilirsiniz. Ne kadar çok puan toplarsanız, o kadar fazla yıldızınız olur! Bir Çevrim İçi Uygulama aktivitesini üç kez deneyebilirsiniz. Üç deneme sonunda elde ettiğiniz en yüksek puan final puanınız olanak kaydedilir.",
             "spanish": "A medida que complete las actividades en cada unidad de su nivel de Práctica Online puede recolectar estrellas. Mientras más puntos logre, ¡más estrellas acumulará! Tiene tres intentos para realizar una actividad de la Práctica Online. Se registrará la puntuación más alta de los tres intentos como su puntuación final.",
+            "spanish-la": "A medida que complete las actividades en cada unidad de su nivel de Práctica Online puede recolectar estrellas. Mientras más puntos logre, ¡más estrellas acumulará! Tiene tres intentos para realizar una actividad de la Práctica Online. Se registrará la puntuación más alta de los tres intentos como su puntuación final.",
             "portuguese": "Conforme as atividades em cada unidade do seu nível do Online Practice forem concluídas, você poderá coletar estrelas. Quanto mais pontos você obtiver, mais estrelas você poderá coletar! Você pode tentar realizar cada atividade do Online Practice três vezes. A pontuação mais alta dentre as três tentativas realizadas será registrada como a sua pontuação final.",
-            "spanish-la": "",
             "arabic": "بمجرد إكمالك الأنشطة الخاصة بكل وحدة من مستواك في الممارسة الخاص بك على الإنترنت، يمكنك جمع النجوم. كلما زادت الدرجات التي تحرزها، زادت النجوم التي تجمعها! يمكنك المحاولة في نشاط الممارسة على الإنترنت ثلاث مرات. يتم تسجيل أعلى درجة في المحاولات الثلاث كنتيجة نهائية خاصة بك."
           }
         },
@@ -70,8 +70,8 @@
             "english": "If you score 30% of the total possible points in a unit you will be awarded a bronze star.",
             "turkish": "Bir ünitede toplam olası puanların %30’unu alırsanız bir bronz yıldızla ödüllendirilirsiniz.",
             "spanish": "Si obtiene el 30% del total de puntos posibles en una unidad, se le otorgará una estrella de bronce.",
+            "spanish-la": "Si obtiene el 30% del total de puntos posibles en una unidad, se le otorgará una estrella de bronce.",
             "portuguese": "Se você marcar 30% do total de pontos possíveis em uma unidade, você será premiado com uma estrela de bronze.",
-            "spanish-la": "",
             "arabic": "إذا أحرزت 30% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةبرونزية."
           }
         },
@@ -83,8 +83,8 @@
             "english": "If you score 70% of the total possible points in a unit you will be awarded a silver star.",
             "turkish": "Bir ünitede toplam olası puanların %70’ini alırsanız bir gümüş yıldızla ödüllendirilirsiniz.",
             "spanish": "Si obtiene el 70% del total de puntos posibles en una unidad, se le otorgará una estrella de plata.",
+            "spanish-la": "Si obtiene el 70% del total de puntos posibles en una unidad, se le otorgará una estrella de plata.",
             "portuguese": "Se você marcar 70% do total de pontos possíveis em uma unidade, você será premiado com uma estrela de prata.",
-            "spanish-la": "",
             "arabic": "إذاأحرزت70% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةفضية."
           }
         },
@@ -96,8 +96,8 @@
             "english": "If you score 90% of the total possible points in a unit you will be awarded a gold star.",
             "turkish": "Bir ünitede toplam olası puanların %90’ını alırsanız bir altın yıldızla ödüllendirilirsiniz.",
             "spanish": "Si obtiene el 90% del total de puntos posibles en una unidad, se le otorgará una estrella de oro.",
+            "spanish-la": "Si obtiene el 90% del total de puntos posibles en una unidad, se le otorgará una estrella de oro.",
             "portuguese": "Se você marcar 90% do total de pontos possíveis em uma unidade, você será premiado com uma estrela de ouro.",
-            "spanish-la": "",
             "arabic": "إذاأحرزت90% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةذهبية."
           }
         },
@@ -109,8 +109,8 @@
             "english": "If you score 100% of the total possible points in a unit you will be awarded a bonus trophy.",
             "turkish": "Bir ünitede toplam olası puanların %100’ünü alırsanız bir bonusla ödüllendirilirsiniz.",
             "spanish": "Si obtiene el 100% del total de puntos posibles en una unidad, se le otorgará un trofeo extra.",
+            "spanish-la": "Si obtiene el 100% del total de puntos posibles en una unidad, se le otorgará un trofeo extra.",
             "portuguese": "Se você marcar 100% do total de pontos possíveis em uma unidade, você será premiado com um troféu bônus.",
-            "spanish-la": "",
             "arabic": "إذاأحرزت100% من مجموع النقاط الممكنة في وحدة ما, فسوف يتم منحك ميداليةمكافأة."
           }
         },
@@ -122,8 +122,8 @@
             "english": "This is your Skills Dashboard. Each activity in an Online Practice level belongs to a learning area, for example Reading, Writing, Listening, etc. The Skills Dashboard shows your activity results for a level across the different skill areas.",
             "turkish": "Bu sizin Beceriler Panonuzdur. Bir Çevrim İçi Uygulama seviyesindeki her bir aktivite Okuma, Yazma, Dinleme vb. bir öğrenme alanına aittir. Beceriler Panosu farklı beceri alanlarında bir seviye için aktivite sonuçlarını gösterir.",
             "spanish": "Este es su Tablero de Habilidades. Cada actividad en un nivel de Práctica Online pertenece a una habilidad de lenguaje, por ejemplo lectura, escritura, comprensión auditiva, etc. El Tablero de Habilidades muestra los resultados de su actividad para un nivel a través de las diferentes áreas de habilidades.",
+            "spanish-la": "Este es su Tablero de Habilidades. Cada actividad en un nivel de Práctica Online pertenece a una habilidad de lenguaje, por ejemplo lectura, escritura, comprensión auditiva, etc. El Tablero de Habilidades muestra los resultados de su actividad para un nivel a través de las diferentes áreas de habilidades.",
             "portuguese": "Este é o seu painel de habilidades, cada atividade em um nível do Online Practice pertence a uma área de aprendizagem, como, por exemplo, leitura, escrita, compreensão, entre outras. O painel de habilidades exibe os resultados de suas atividades de um determinado nível dentre as diversas áreas de competências.",
-            "spanish-la": "",
             "arabic": "هذه هي لوحة المهارات الخاصة بك. ينتمي كل نشاط في مستوى الممارسة على الإنترنت إلى مجال تعليمي معين, مثل: القراءة, والكتابة, والاستماع, وغير ذلك. تُظهِر لوحة المهارات نتائج نشاطك بمستوى معين عبر مجالات المهارات المختلفة."
           }
         },
@@ -135,8 +135,8 @@
             "english": "Results for activities within the different skill areas are displayed as a percentage based on the average score of all completed activities in a skill area within a level.",
             "turkish": "Farklı beceri alanlarındaki aktivite sonuçları bir seviye içerisindeki beceri alanında tamamlanan tüm aktivitelerin ortalama puanına göre bir yüzde değer olarak görüntülenir.",
             "spanish": "Los resultados para actividades dentro de las diferentes áreas de habilidades se muestran como un porcentaje en base a la puntuación media de todas las actividades realizadas en un área de habilidades dentro de un nivel.",
+            "spanish-la": "Los resultados para actividades dentro de las diferentes áreas de habilidades se muestran como un porcentaje en base a la puntuación media de todas las actividades realizadas en un área de habilidades dentro de un nivel.",
             "portuguese": "Os resultados das atividades dentro das diferentes áreas de competências são exibidos como um percentual com base na pontuação média de todas as atividades concluídas dentro de uma área de competências correspondente a um determinado nível.",
-            "spanish-la": "",
             "arabic": "يتم عرض نتائج الأنشطة التي تنتمي لمجالات مختلفة من المهارات كنسبة مئوية على أساس متوسط درجات كل الأنشطة المُنجَزة في مجال من المهارات خلال مستوى ما."
           }
         },
@@ -148,8 +148,8 @@
             "english": "Results for skill areas which contain open-ended activities where no score is given are not scored.",
             "turkish": "Hiç puan verilmeyen açık uçlu aktiviteler içeren beceri alanlarının sonuçları “Not scored” şeklinde görüntülenir.",
             "spanish": "Los resultados para áreas de habilidades que contienen actividades abiertas no calificables no se computan.",
+            "spanish-la": "Los resultados para áreas de habilidades que contienen actividades abiertas no calificables no se computan.",
             "portuguese": "Os resultados para áreas de competência que contêm atividades abertas que não possuem pontuação não são contabilizados.",
-            "spanish-la": "",
             "arabic": "يتم إظهار نتائج مجالات المهارات التي تحتوي على أنشطة غير محددة النهاية والتي لا يتم فيها منح أية درجة على أنها\"ليست ذات درجة\"."
           }
         },
@@ -161,12 +161,11 @@
             "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
             "turkish": "Tamamlanan aktivitelerin sayısı beceri alanındaki toplam aktivite sayısıyla birlikte gösterilir.",
             "spanish": "Aquí se muestra el número de actividades realizadas, junto con el número total de actividades en un área de habilidad.",
+            "spanish-la": "Aquí se muestra el número de actividades realizadas, junto con el número total de actividades en un área de habilidad.",
             "portuguese": "O número de atividades concluídas é exibido aqui, juntamente com o número total de atividades existente uma área de competência.",
-            "spanish-la": "",
             "arabic": "ويظهر عدد الأنشطة المُنجَزة هنا جنبًا إلى جنب مع عدد الأنشطة في هذا المجال من المهارة."
           }
         }
-
       }
     }
   }

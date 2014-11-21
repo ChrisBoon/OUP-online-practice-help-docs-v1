@@ -3,7 +3,7 @@
     "english": "Home",
     "turkish": "Anasayfa",
     "spanish": "Inicio",
-    "spanish-la": "",
+    "spanish-la": "Inicio",
     "portuguese": "Início",
     "arabic": "الصفحة الرئيسية"
   },
@@ -18,8 +18,8 @@
         "english": "Choose your level",
         "turkish": "Seviyenizi seçin",
         "spanish": "Elija su nivel",
+        "spanish-la": "Elija su nivel",
         "portuguese": "Escolha o seu nível",
-        "spanish-la": "",
         "arabic": "حدد مستواك"
       },
       "paragraphs":{
@@ -31,8 +31,8 @@
             "english": "When you enter Online Practice or click on the Home icon at the top of the screen you will see the levels of your course here.",
             "turkish": "Çevrim İçi Uygulama’ya girdiğinizde ya da ekranın üstünde yer alan Anasayfa simgesine tıkladuığınızda kursunuzun seviyelerini burada göreceksiniz.",
             "spanish": "Verá los niveles de su curso al ingresar en la Práctica Online o al hacer clic en el icono de Home [Inicio], en la parte superior de la pantalla.",
+            "spanish-la": "Verá los niveles de su curso al ingresar en la Práctica Online o al hacer click en el icono de Home [Inicio], en la parte superior de la pantalla.",
             "portuguese": "Quando você acessar o Online Practice ou clicar no ícone “Home” na parte superior da tela, você visualizará os níveis de seu curso.",
-            "spanish-la": "",
             "arabic": "عندما تدخل الممارسة عبر الإنترنت أو تنقر على أيقونة الصفحة الرئيسية في أعلى الشاشة,سوف ترى مستويات الدورة الخاصة بك هنا."
           }
         },
@@ -44,8 +44,8 @@
             "english": "Click on “Add a level” to add another level if you have an access code.",
             "turkish": "Bir erişim kodunuz varsa ek seviye eklemek için “Add a level” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Añadir un nivel\" para agregar otro nivel si tiene un código de acceso.",
+            "spanish-la": "Haga click en \"Añadir un nivel\" para agregar otro nivel si tiene un código de acceso.",
             "portuguese": "Clique em “Add a level” para adicionar outro nível, caso você tenha um código de acesso.",
-            "spanish-la": "",
             "arabic": "انقر على “Add a level”(\"أضف مستوى\") لإضافة مستوى آخر إذا كان لديك رمز دخول."
           }
         },
@@ -57,8 +57,8 @@
             "english": "Choose the level you want to enter.",
             "turkish": "Girmek istediğiniz seviyeyi seçin.",
             "spanish": "Elija el nivel al que desea ingresar.",
+            "spanish-la": "Elija el nivel al que desea ingresar.",
             "portuguese": "Escolha o nível que você deseja inserir.",
-            "spanish-la": "",
             "arabic": "اختر المستوى الذي ترغب في إدخاله."
           }
         }
@@ -71,8 +71,8 @@
         "english": "Choose an Online Practice area",
         "turkish": "Bir Çevrim İçi Uygulama alanı seçin",
         "spanish": "Elija un área de Práctica Online",
+        "spanish-la": "Elija un área de Práctica Online",
         "portuguese": "Escolha uma seção do Online Practice",
-        "spanish-la": "",
         "arabic": "اختر منطقة الممارسة عبر شبكة الإنترنت"
       },
       "paragraphs":{
@@ -84,8 +84,8 @@
             "english": "Click here to change to a different level.",
             "turkish": "Farklı bir seviyeye geçmekiçin buraya tıklayın.",
             "spanish": "Presione aquí para cambiar a un nivel diferente.",
+            "spanish-la": "Presione aquí para cambiar a un nivel diferente.",
             "portuguese": "Clique aqui para alterar para um nível diferente.",
-            "spanish-la": "",
             "arabic": "انقر هنا للتغيير إلى مستوى مختلف."
           }
         },
@@ -97,8 +97,8 @@
             "english": "Click here to enter the Online Practice Activity area.",
             "turkish": "Çevrim İçi Uygulama Aktivitesi alanına girmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ingresar al área de Actividades de la Práctica Online.",
+            "spanish-la": "Haga click aquí para ingresar al área de Actividades de la Práctica Online.",
             "portuguese": "Clique aqui para entrar na área “Activity” do Online Practice.",
-            "spanish-la": "",
             "arabic": "انقر هنا لدخول منطقة ممارسة النشاط عبر شبكة الإنترنت."
           }
         },
@@ -110,8 +110,8 @@
             "english": "Click here to see your Report, Trophy Room and Skills Dashboard. These show your achievements and progress for all of the activities in this level.",
             "turkish": "Rapor, Zafer Odası ve Beceriler Panosunu görmek için buraya tıklayın. Bunlar bu seviyedeki tüm aktiviteler için başarılarınızı ve ilerleyişinizi gösterir.",
             "spanish": "Haga clic aquí para ver sus Report [Informe], Trophy Room [Sala de Trofeos] y Skills Dashboard [Tablero de Habilidades]. Estos muestran sus logros y progreso para todas las actividades en este nivel.",
+            "spanish-la": "Haga click aquí para ver sus Report [Informe], Trophy Room [Sala de Trofeos] y Skills Dashboard [Tablero de Habilidades]. Estos muestran sus logros y progreso para todas las actividades en este nivel.",
             "portuguese": "Clique aqui para visualizar o seu painel de habilidades, relatório e sala de troféus. Eles exibem suas realizações e seu progresso relacionado a todas as atividades deste nível.",
-            "spanish-la": "",
             "arabic": "انقر هنا لرؤية التقرير الخاص بك في غرفة الميداليات ولوحة المهارات. تُظهِر هذه الغرفة واللوحة التحصيل والتقدم الخاصينِبك في جميع الأنشطة في هذا المستوى."
           }
         },
@@ -123,8 +123,8 @@
             "english": "Click here to use the Email area. You can message your teacher and other students in your Online Practice class. The Email icon appears here when you have joined a class.",
             "turkish": "E-posta alanını kullanmak için buraya tıklayın. Çevrim İçi Uygulama sınıfınızdaki öğretmen ve diğer öğrencilere mesaj gönderebilirsiniz. Bir sınıfa katıldığınızda burada bir E-posta simgesi görünür.",
             "spanish": "Haga clic aquí para utilizar el área de Correo electrónico. Puede enviar mensajes a su profesor y a los demás estudiantes en su clase de Práctica Online. El icono de Email [Correo electrónico] aparecerá aquí cuando se haya inscrito a una clase.",
+            "spanish-la": "Haga click aquí para utilizar el área de Correo electrónico. Puede enviar mensajes a su profesor y a los demás estudiantes en su clase de Práctica Online. El icono de Email [Correo electrónico] aparecerá aquí cuando se haya inscrito a una clase.",
             "portuguese": "Clique aqui para usar a área de e-mail. Você pode enviar mensagens para o seu professor e para os outros alunos com os quais você compartilha sua aula no Online Practice. O ícone “E-mail” aparecerá aqui quando você estiver participando de uma aula.",
-            "spanish-la": "",
             "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني. يمكنك مراسلة معلمك والطلاب الآخرين المُدرَجين في فصل الممارسة عبر شبكة الإنترنت الخاص بك. تظهر أيقونة البريد الإلكتروني هنا بعد أن تنضم لأحد الفصول."
           }
         },
@@ -136,8 +136,8 @@
             "english": "Click here to use the Forum. You can join in discussions with your teacher and other students in your Online Practice class. The Forum icon appears here when you have joined a class.",
             "turkish": "Forumu kullanmak için buraya tıklayın. Çevrim İçi Uygulama sınıfınızdaki öğretmen ve diğer öğrencilerle tartışmalara katılabilirsiniz. Bir sınıfa katıldığınızda burada bir Forum simgesi görünür.",
             "spanish": "Haga clic aquí para utilizar el Foro. Usted puede participar en discusiones con su profesor y los demás estudiantes en su clase de Práctica Online. El icono del Forum [Foro] aparecerá aquí cuando se haya inscrito a una clase.",
+            "spanish-la": "Haga click aquí para utilizar el Foro. Usted puede participar en discusiones con su profesor y los demás estudiantes en su clase de Práctica Online. El icono del Forum [Foro] aparecerá aquí cuando se haya inscrito a una clase.",
             "portuguese": "Clique aqui para usar o fórum. Você pode participar de discussões com o seu professor e com os outros alunos presentes em sua aula no Online Practice. O ícone do “Forum” aparecerá aqui quando você estiver participando de uma aula.",
-            "spanish-la": "",
             "arabic": "اانقر هنا لاستخدام المنتدى. يمكنك الانضمام إلى مناقشة مع معلمك والطلاب الآخرين في فصل الممارسة عبر شبكة الإنترنت الخاص بك. تظهر أيقونة المنتدى هنا بعد أن تنضم لأحد الفصول."
           }
         },
@@ -149,8 +149,8 @@
             "english": "Click here to access the Media Centre to listen to class audio and watch videos, if available.",
             "turkish": "Varsa sınıfın sesini dinlemek ve videoları izlemek üzere Medya Merkezine erişmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para acceder al Centro de Medios para escuchar el audio de la clase y ver videos, de estar disponibles.",
+            "spanish-la": "Haga click aquí para acceder al Centro de Medios para escuchar el audio de la clase y ver videos, de estar disponibles.",
             "portuguese": "Clique aqui para acessar o centro de mídia para escutar o áudio da aula e assistir vídeos, caso disponíveis.",
-            "spanish-la": "",
             "arabic": "انقر هنا للوصول إلى مركز الوسائط للاستماع إلى صوت الفصل ومشاهدة مقاطع الفيديو، إذا كان ذلك متاحًا."
           }
         },
@@ -162,8 +162,8 @@
             "english": "Click here to access the Resources area where you can find extra resources that will support you with your Online Practice.",
             "turkish": "Çevrim İçi Uygulamanızda sizi destekleyecek olan ekstra kaynakları bulabileceğiniz Kaynaklar alanına erişmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para acceder al área de Recursos, donde podrá encontrar recursos adicionales que le servirán de apoyo para su Práctica Online.",
+            "spanish-la": "Haga click aquí para acceder al área de Recursos, donde podrá encontrar recursos adicionales que le servirán de apoyo para su Práctica Online.",
             "portuguese": "Clique aqui para acessar a área “Resources”, onde você poderá encontrar recursos extras que darão suporte a você com relação ao seu Online Practice.",
-            "spanish-la": "",
             "arabic": "انقر هنا للدخول إلى منطقة الموارد حيث يمكنك أن تجد الموارد الإضافية التي سوف تدعمك في الممارسة عبر شبكة الإنترنت."
           }
         },
@@ -175,8 +175,8 @@
             "english": "Click here to join an Online Practice class or change class. You will need a class code from your teacher to do this.",
             "turkish": "Çevrim İçi Uygulama sınıfına katılmak veya sınıf değiştirmek için buraya tıklayın. Bunu yapabilmeniz için öğretmeninizden bir sınıf kodu almanız gerekecektir.",
             "spanish": "Haga clic aquí para inscribirse a una clase de Práctica Online o cambiar de clase. Necesitará que su profesor le otorgue un código de clase para hacer esto.",
+            "spanish-la": "Haga click aquí para inscribirse a una clase de Práctica Online o cambiar de clase. Necesitará que su profesor le otorgue un código de clase para hacer esto.",
             "portuguese": "Clique aqui para participar de uma aula do Online Practice ou para alterar a aula. Você precisará de um código de aula fornecido pelo seu professor para fazer isso.",
-            "spanish-la": "",
             "arabic": "اانقر هنا للانضمام إلى فصل الممارسة عبر شبكة الإنترنت، أو تغيير الفصل. سوف تحتاج إلى رمز خاص بالفصل من معلمك للقيام بذلك."
           }
         }

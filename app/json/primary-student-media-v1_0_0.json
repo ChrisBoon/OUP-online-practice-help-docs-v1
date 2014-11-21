@@ -3,7 +3,7 @@
     "english": "Media Centre",
     "turkish": "Medya Merkezi",
     "spanish": "Centro de Medios",
-    "spanish-la": "",
+    "spanish-la": "Centro de Medios",
     "portuguese": "Centro de mídia",
     "arabic": "مركز الوسائط"
   },
@@ -18,8 +18,8 @@
         "english": "Audio",
         "turkish": "Ses",
         "spanish": "Audio",
+        "spanish-la": "Audio",
         "portuguese": "Áudio",
-        "spanish-la": "",
         "arabic": "الصوت"
       },
       "paragraphs":{
@@ -30,9 +30,9 @@
           "text":{
             "english": "The Media Centre provides class audio and video files for you and your students to use, if available.",
             "turkish": "Medya Merkezi, varsa dersle ilgili ses ve video dosyalarını kullanımınıza sunar.",
-            "spanish": "El Centro de Medios proporciona archivos de audio y video de las clases para su uso, de estar disponibles.",
+            "spanish": "El Centro de Medios proporciona archivos de audio y vídeo de las clases para su uso, de estar disponibles.",
+            "spanish-la": "El Centro de Medios proporciona archivos de audio y video de las clases para su uso, de estar disponibles.",
             "portuguese": "O centro de mídia fornece a você e seus alunos os arquivos de áudio e vídeo que estejam disponíveis.",
-            "spanish-la": "",
             "arabic": "يقدم لك مركز الوسائط ملفات صوتية وملفات فيديو خاصة بالفصل لاستخدامها، إذا كانت متوفرة."
           }
         },
@@ -58,8 +58,8 @@
         "english": "Video",
         "turkish": "Video",
         "spanish": "Vídeo",
+        "spanish-la": "Video",
         "portuguese": "Vídeo",
-        "spanish-la": "",
         "arabic": "الفيديو"
       },
       "paragraphs":{
@@ -71,8 +71,8 @@
             "english": "Click on a video title to play a video file. It will play in a new tab in your browser.",
             "turkish": "Bir video dosyasını oynatmak için video başlığına tıklayın. Tarayıcınızda yeni bir sekmede oynatılacaktır.",
             "spanish": "Haga clic en un título de vídeo para reproducir un archivo de vídeo. Se podrá ver en una nueva pestaña en su navegador.",
+            "spanish-la": "Haga click en un título de vídeo para reproducir un archivo de video. Se podrá ver en una nueva pestaña en su navegador.",
             "portuguese": "Clique em um título de vídeo para reproduzir um arquivo de vídeo. Ele será reproduzido em uma nova aba em seu navegador.",
-            "spanish-la": "",
             "arabic": "انقر فوق عنوان مقطع الفيديو لتشغيل ملف الفيديو. سوف يقوم بتشغيل علامة تبويب جديدة في المتصفح الخاص بك."
           }
         }
@@ -85,8 +85,8 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "portuguese": "",
         "spanish-la": "",
+        "portuguese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -97,9 +97,9 @@
           "text":{
             "english": "Use the controls to play and pause the video, change the volume and enter full-screen view.",
             "turkish": "Video’yu oynatmak ve durdurmak, ses seviyesini değiştirmek ve tam ekran görünümüne geçmek için kontrolleri kullanın.",
-            "spanish": "Use los controles para reproducir y pausar el video, cambiar el volumen y activar la vista de pantalla completa.",
+            "spanish": "Use los controles para reproducir y pausar el vídeo, cambiar el volumen y activar la vista de pantalla completa.",
+            "spanish-la": "Use los controles para reproducir y pausar el video, cambiar el volumen y activar la vista de pantalla completa.",
             "portuguese": "Use os controles para iniciar e pausar a reprodução do vídeo, alterar o volume e entrar no modo de visualização em tela cheia.",
-            "spanish-la": "",
             "arabic": "استخدم مفاتيح التحكم لتشغيل وإيقاف مقطع الفيديو وتغيير مستوى جهارة الصوت وإدخال المنظر بملء الشاشة."
           }
         }

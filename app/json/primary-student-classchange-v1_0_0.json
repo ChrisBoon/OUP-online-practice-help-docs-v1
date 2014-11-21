@@ -3,7 +3,7 @@
     "english": "Change Class",
     "turkish": "Ders Değiştir",
     "spanish": "Cambio de Clase",
-    "spanish-la": "",
+    "spanish-la": "Cambio de Clase",
     "portuguese": "Alterar turma",
     "arabic": "تغيير الفصل"
   },
@@ -18,8 +18,8 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "portuguese": "",
         "spanish-la": "",
+        "portuguese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -31,8 +31,8 @@
             "english": "Enter your new class ID code here and then click “Save”.",
             "turkish": "Yeni ders ID kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın.",
             "spanish": "Ingrese su nuevo código de ID de clase aquí y haga clic en \"Save\".",
+            "spanish-la": "Ingrese su nuevo código de ID de clase aquí y haga click en \"Save\".",
             "portuguese": "Insira o novo código de identificação de turma aqui e, em seguida, clique em \"Save\".",
-            "spanish-la": "",
             "arabic": "أدخل رمز مُعرِّف الفصل الجديد الخاص بك هنا ثم انقر على “Save”(\"حفظ\")."
           }
         },
@@ -44,8 +44,8 @@
             "english": "Click here to submit your new class ID code and return to your Home page.",
             "turkish": "Yeni ders ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su nuevo código de ID de clase y regresar a su página de Inicio.",
+            "spanish-la": "Haga click aquí para enviar su nuevo código de ID de clase y regresar a su página de Inicio.",
             "portuguese": "Clique aqui para enviar o seu novo código de identificação de turma e voltar para a sua página inicial.",
-            "spanish-la": "",
             "arabic": "اانقر هنا لإرسال رمز مُعرِّف الفصل الجديد الخاص بك وعُد إلى صفحتك الرئيسية."
           }
         },
@@ -57,8 +57,8 @@
             "english": "Click here to go back to the previous page without changing your class.",
             "turkish": "Dersi değiştirmeden bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior sin cambiar su clase.",
+            "spanish-la": "Haga click aquí para volver a la página anterior sin cambiar su clase.",
             "portuguese": "Clique aqui para voltar à página anterior sem alterar sua turma.",
-            "spanish-la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة بدون تغيير الفصل الخاص بك."
           }
         }
