@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Join a Class",
-    "turkish": "Derse katıl ",
+    "turkish": "Bir sınıfa katılma",
     "spanish": "Inscribirse a una clase",
     "spanish-la": "Inscribirse a una clase",
     "portuguese": "Participe de uma turma",
@@ -29,7 +29,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
-            "turkish": "Ders ID kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın. Ders ID kodu öğretmeniniz tarafından size verilen bir koddur. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar.",
+            "turkish": "Sınıf kimlik (ID) kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın. Sınıf ID kodu öğretmeniniz tarafından size verilen bir koddur ve C-... ile başlar. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar.",
             "spanish": "Ingrese su código de ID de clase aquí y haga clic en \"Save\". Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo.",
             "spanish-la": "Ingrese su código de ID de clase aquí y haga click en \"Save\". Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo.",
             "portuguese": "Insira o novo código de identificação de turma aqui e, em seguida, clique em \"Save\". Um código de identificação de turma pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua aula para que o seu professor possa visualizá-lo.",
@@ -42,7 +42,7 @@
           "numberPosLeft": 26,
           "text":{
             "english": "Click here to submit your class ID code and return to your Home page.",
-            "turkish": "Ders ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
+            "turkish": "Sınıf ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el código de ID de clase y regresar a su página de Inicio.",
             "spanish-la": "Haga click aquí para enviar el código de ID de clase y regresar a su página de Inicio.",
             "portuguese": "Clique aqui para enviar o seu novo código de identificação de turma e voltar para a sua página inicial.",
@@ -55,7 +55,7 @@
           "numberPosLeft": 38,
           "text":{
             "english": "Click here to go back to the previous page without joining a class.",
-            "turkish": "Derse katılmadan bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "turkish": "Sınıfa katılmadan bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior sin inscribirse a una clase.",
             "spanish-la": "Haga click aquí para volver a la página anterior sin inscribirse a una clase.",
             "portuguese": "Clique aqui para voltar para a página anterior sem participar de uma turma.",

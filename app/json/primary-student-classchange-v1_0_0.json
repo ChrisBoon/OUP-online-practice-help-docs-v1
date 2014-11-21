@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Change Class",
-    "turkish": "Ders Değiştir",
+    "turkish": "Sınıf Değiştir",
     "spanish": "Cambio de Clase",
     "spanish-la": "Cambio de Clase",
     "portuguese": "Alterar turma",
@@ -29,7 +29,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "Enter your new class ID code here and then click “Save”.",
-            "turkish": "Yeni ders ID kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın.",
+            "turkish": "Yeni sınıf ID kodunuzu buraya girin ve ardından “Save” düğmesine tıklayın.",
             "spanish": "Ingrese su nuevo código de ID de clase aquí y haga clic en \"Save\".",
             "spanish-la": "Ingrese su nuevo código de ID de clase aquí y haga click en \"Save\".",
             "portuguese": "Insira o novo código de identificação de turma aqui e, em seguida, clique em \"Save\".",
@@ -42,7 +42,7 @@
           "numberPosLeft": 25,
           "text":{
             "english": "Click here to submit your new class ID code and return to your Home page.",
-            "turkish": "Yeni ders ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
+            "turkish": "Yeni sınıf ID kodunuzu girmek ve Anasayfanıza dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su nuevo código de ID de clase y regresar a su página de Inicio.",
             "spanish-la": "Haga click aquí para enviar su nuevo código de ID de clase y regresar a su página de Inicio.",
             "portuguese": "Clique aqui para enviar o seu novo código de identificação de turma e voltar para a sua página inicial.",
@@ -55,7 +55,7 @@
           "numberPosLeft": 37,
           "text":{
             "english": "Click here to go back to the previous page without changing your class.",
-            "turkish": "Dersi değiştirmeden bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "turkish": "Sınıfınızı değiştirmeden bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior sin cambiar su clase.",
             "spanish-la": "Haga click aquí para volver a la página anterior sin cambiar su clase.",
             "portuguese": "Clique aqui para voltar à página anterior sem alterar sua turma.",

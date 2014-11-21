@@ -120,7 +120,7 @@
           "numberPosLeft": 19,
           "text":{
             "english": "Click here to save your changes.",
-            "turkish": "Değişikliklerinizi kaydetmek için buraya tıklayın.",
+            "turkish": "Değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios.",
             "spanish-la": "Haga click aquí para guardar los cambios.",
             "portuguese": "Clique aqui para salvar as alterações.",
@@ -133,7 +133,7 @@
           "numberPosLeft": 34,
           "text":{
             "english": "Click here to cancel without saving any changes.",
-            "turkish": "Değişiklikleri kaydetmeden iptal etmek için buraya tıklayın.",
+            "turkish": "Değişiklikleri kaydetmeden çıkmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para cancelar sin guardar los cambios.",
             "spanish-la": "Haga click aquí para cancelar sin guardar los cambios.",
             "portuguese": "Clique aqui para cancelar sem salvar as alterações.",

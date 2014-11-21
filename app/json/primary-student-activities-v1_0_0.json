@@ -68,7 +68,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "The Online Practice activities are displayed in this area.",
-            "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda görüntülenir.",
+            "turkish": "Online Uygulama aktiviteleri bu alanda görüntülenir.",
             "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
             "spanish-la": "Las actividades de la Práctica Online se muestran en esta área.",
             "portugese": "As atividades do Online Practice são exibidas nesta área.",
@@ -107,7 +107,7 @@
           "numberPosLeft": 45,
           "text":{
             "english": "Click here to see a Quick Tip pop-up with guidance on completing an activity.",
-            "turkish": "Bir aktiviteyi tamamlama rehberi ile birlikte Hızlı İpucu iletisini görmek için buraya tıklayın.",
+            "turkish": "Bir aktiviteyi tamamlama kılavuzu ile birlikte Hızlı İpucu iletisini görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver un Consejo Rápido con información sobre cómo completar una actividad.",
             "spanish-la": "Haga click aquí para ver un Consejo Rápido con información sobre cómo completar una actividad.",
             "portugese": "Clique aqui para visualizar um pop-up com uma dica rápida contendo orientações sobre a realização de uma atividade.",
@@ -120,7 +120,7 @@
           "numberPosLeft": 51,
           "text":{
             "english": "If an activity has an attachment, an icon will appear here. Click to download or display the attachment.",
-            "turkish": "Aktivitede bir ek varsa, simge burada görünecektir. İndirmek veya eki görüntülemek için buraya tıklayın.",
+            "turkish": "Aktivitede bir ek varsa, burada bir simge görünecektir. İndirmek veya eki görüntülemek için buraya tıklayın.",
             "spanish": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga clic aquí para descargar o visualizar el archivo adjunto.",
             "spanish-la": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga click aquí para descargar o visualizar el archivo adjunto.",
             "portugese": "Se uma atividade possuir um anexo, um ícone aparecerá aqui. Clique para realizar o download ou para exibir o anexo.",
@@ -172,7 +172,7 @@
           "numberPosLeft": 4,
           "text":{
             "english": "You can find supporting resources here which will help you with your Online Practice work, if available.",
-            "turkish": "Çevrim İçi Uygulama çalışmanıza yardımcı olacak destekleyici kaynakları, varsa, burada bulabilirsiniz.",
+            "turkish": "Online Uygulama çalışmanıza yardımcı olacak destekleyici kaynaklar varsa, bunları burada bulabilirsiniz.",
             "spanish": "Aquí podrá encontrar recursos de apoyo que le ayudarán con su trabajo de Práctica Online, de estar disponibles.",
             "spanish-la": "Aquí podrá encontrar recursos de apoyo que le ayudarán con su trabajo de Práctica Online, de estar disponibles.",
             "portugese": "Aqui você poderá encontrar recursos de apoio que o ajudarão na realização de seus trabalhos no Online Practice, caso disponíveis.",

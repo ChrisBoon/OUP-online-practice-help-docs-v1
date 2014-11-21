@@ -29,7 +29,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Enter your Online Practice access code here. The access code is on your Teacher’s Access Code Card. You must have an access code to add a new level to your account.",
-            "turkish": "Çevrim İçi Uygulama erişim kodunuzu buraya girin. Erişim kodu Öğretmen Erişim Kodu Kartınızın üzerindedir. Hesabınıza yeni bir seviye eklemek için bir erişim kodu gerekir.",
+            "turkish": "Online Uygulama erişim kodunuzu buraya girin. Erişim kodu Öğretmen Erişim Kodu Kartınızın üzerindedir. Hesabınıza yeni bir seviye eklemek için bir erişim kodu gereklidir.",
             "spanish": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Profesor. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
             "spanish-la": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Profesor. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
             "portuguese": "Insira o seu código de acesso do Online Practice aqui. O código de acesso está localizado no seu cartão do código de acesso do professor. Você deve ter um código de acesso para adicionar um novo nível em sua conta.",
@@ -55,7 +55,7 @@
           "numberPosLeft": 42,
           "text":{
             "english": "Click here to submit your access code.",
-            "turkish": "Erişim kodunuzu göndermek için buraya tıklayın.",
+            "turkish": "Erişim kodunuzu girmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su código de acceso.",
             "spanish-la": "Haga click aquí para enviar su código de acceso.",
             "portuguese": "Clique aqui para enviar seu código de acesso.",
@@ -108,7 +108,7 @@
           "numberPosLeft": 3,
           "text":{
             "english": "Select a level. It is very important to select the level that you are using. Check to make sure it is the same level as your book.",
-            "turkish": "Bir seviye seçin. Kullandığınız seviyenin seçilmesi son derece önemlidir. Kitabınızla aynı seviye olduğundan emin olmak için kontrol edin.",
+            "turkish": "Bir seviye seçin. Kullandığınız seviyenin seçilmesi son derece önemlidir. Kitabınızla aynı seviye olduğundan emin olmak için kitabınızın seviyesini kontrol edin.",
             "spanish": "Seleccione un nivel. Es muy importante seleccionar el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "spanish-la": "Seleccione un nivel. Es muy importante seleccionar el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "portuguese": "Selecione um nível. É muito importante escolher o nível que você está utilizando. Certifique-se de que o nível selecionado é o mesmo nível do seu livro.",
@@ -148,7 +148,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
-            "turkish": "Bir kurum ID kodunuz varsa, buraya girin. Bu, yöneticinizin size verebileceği bir koddur. Bu kod ders kayıtlarınızı okul ya da kuruma iletmenizi sağlar. Bir kurum ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Daha sonra Ders Ayrıntıları sayfasından “Join an Institution” seçeneğine a tıklayarak bir kurum ID kodu girebilirsiniz.",
+            "turkish": "Bir kurum kimlik (ID) kodunuz varsa, buraya girin. Bu, yöneticinizin size verebileceği bir koddur ve E-... ile başlar. Bu kod ders kayıtlarınızı okul ya da kuruma iletmenizi sağlar. Bir kurum ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Daha sonra Sınıf Bilgileri sayfasından “Join an Institution” seçeneğine tıklayarak bir kurum ID kodu girebilirsiniz.",
             "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga clic en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo clic en “Join an Institution” desde su página de Detalles de la Clase.",
             "spanish-la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga click en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo click en “Join an Institution” desde su página de Detalles de la Clase.",
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de aula com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você pode inserir um código de identificação da instituição posteriormente clicando em “Join an Institution” na sua página dados da aula.",
@@ -201,7 +201,7 @@
       "imgId": "PTAL004.png",
       "pageTitle": {
         "english": "Create a class",
-        "turkish": "Ders Oluştur",
+        "turkish": "Sınıf Oluşturun",
         "spanish": "Guarde el código de su clase",
         "spanish-la": "Guarde el código de su clase",
         "portuguese": "Crie uma aula",
@@ -214,7 +214,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Enter a name for your first class. To create additional classes later, click “Manage Classes” from your Home page when you finish registering.",
-            "turkish": "İlk dersiniz için bir ad girin. Daha sonra ek dersler oluşturmak için, kaydı tamamladıktan sonra Anasayfanızdan “Manage Classes” seçeneğine tıklayın.",
+            "turkish": "İlk sınıfınız için bir ad girin. Daha sonra başka sınıflar oluşturmak için, kaydı tamamladıktan sonra Anasayfanızdan “Manage Classes” seçeneğine tıklayın.",
             "spanish": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "spanish-la": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "portuguese": "Digite um nome para a sua primeira aula. Para criar aulas adicionais posteriormente, clique em “Manage Classes” a partir de sua página inicial quando você finalizar o registro.",
@@ -240,7 +240,7 @@
           "numberPosLeft": 74,
           "text":{
             "english": "Click here to skip this page without entering a class name.",
-            "turkish": "Bir ders adı girmeden bu sayfayı atlamak için buraya tıklayın.",
+            "turkish": "Bir sınıf adı girmeden bu sayfayı atlamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para saltarse esta página sin ingresar un nombre de clase.",
             "spanish-la": "Haga click aquí para saltarse esta página sin ingresar un nombre de clase.",
             "portuguese": "Clique aqui para pular esta página sem digitar um nome de aula.",
@@ -253,7 +253,7 @@
           "numberPosLeft": 85,
           "text":{
             "english": "Click here submit your class name and go to the next page.",
-            "turkish": "Ders adınızı göndermek ve bir sonraki sayfaya gitmek için buraya tıklayın.",
+            "turkish": "Sınıf adınızı girmek ve bir sonraki sayfaya gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "spanish-la": "Haga click aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "portuguese": "Clique aqui para enviar o nome da sua aula e para ir para a próxima página.",
@@ -267,7 +267,7 @@
       "imgId": "PTAL005.png",
       "pageTitle": {
         "english": "Save your class code",
-        "turkish": "Ders kodunuzu kaydedin",
+        "turkish": "Sınıf kodunuzu kaydedin",
         "spanish": "Guarde el código de su clase",
         "spanish-la": "Guarde el código de su clase",
         "portuguese": "Insira seu código de aula",
@@ -280,7 +280,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "This is the class ID code for the class you named in the previous screen. Give this code to your students so they can join your class and you can see their work.",
-            "turkish": "Bu bir önceki ekranda adını girdiğiniz dersin ID kodudur. Derse katılabilmeleri ve çalışmalarınızı görebilmeleri için bu kodu öğrencilerinize verin.",
+            "turkish": "Bu bir önceki ekranda adını girdiğiniz dersin ID kodudur. Derse katılabilmeleri ve çalışmalarınızı görebilmeleri için C-... ile başlayan bu kodu öğrencilerinize verin.",
             "spanish": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "spanish-la": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "portuguese": "Este é o código de identificação de aula para a aula nomeada na tela anterior. Forneça esse código para os seus alunos para que eles possam participar da sua aula e para que você possa visualizar os seus trabalhos.",
@@ -293,7 +293,7 @@
           "numberPosLeft": 12,
           "text":{
             "english": "Click here to print this page for your records or to copy and share with your students.",
-            "turkish": "Kayıtlarınız için bu sayfayı yazdırmak veya öğrencilerinize kopyalamak ve paylaşmak için buraya tıklayın.",
+            "turkish": "Referans için bu sayfayı yazdırmak veya öğrencilerinize paylaşmak üzere kopyalamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir esta página para sus registros o para copiar y compartir con sus estudiantes.",
             "spanish-la": "Haga click aquí para imprimir esta página para sus registros o para copiar y compartir con sus estudiantes.",
             "portuguese": "Clique aqui para imprimir esta página para fins de registro ou para copiá-la e compartilhá-la com os seus alunos.",

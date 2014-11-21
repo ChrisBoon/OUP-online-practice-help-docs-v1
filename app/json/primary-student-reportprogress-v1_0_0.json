@@ -29,7 +29,7 @@
           "numberPosLeft": 68,
           "text":{
             "english": "This page shows your activity scores for all units in your level of Online Practice.",
-            "turkish": "Bu sayfada Çevrim İçi Uygulama seviyenizdeki tüm üniteler için  aktivite puanlarınızı görüntülenir.",
+            "turkish": "Bu sayfada Online Uygulama seviyenizdeki tüm üniteler için aktivite puanlarınız görüntülenir.",
             "spanish": "Esta página muestra las puntuaciones de sus actividades para todas las unidades en su nivel de Práctica Online.",
             "spanish-la": "Esta página muestra las puntuaciones de sus actividades para todas las unidades en su nivel de Práctica Online.",
             "portuguese": "Esta página exibe as pontuações das atividades de todas as unidades dentro do seu nível no Online Practice.",
@@ -42,7 +42,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "Use this menu to display reports for all units or display reports for separate units.",
-            "turkish": "Tüm üniteler için raporları görüntülemek veya ayrı üniteler için raporları görüntülemek için bu menüyü kullanın.",
+            "turkish": "Tüm üniteler için raporları görüntülemek veya ayrı ayrı üniteler için raporları görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para visualizar informes para todas las unidades o informes para unidades separadas.",
             "spanish-la": "Utilice este menú para visualizar informes para todas las unidades o informes para unidades separadas.",
             "portuguese": "Utilize este menu para exibir relatórios sobre todas as unidades ou para exibir relatórios sobre cada unidades separadamente.",
@@ -133,7 +133,7 @@
           "numberPosLeft": 80,
           "text":{
             "english": "Click here to see your activity scores displayed as a percentage of the total number of points available.",
-            "turkish": "Mevcut puanların toplam sayısının bir yüzdesi olarak görüntülenen aktivite puanlarınızı görmek için buraya tıklayın.",
+            "turkish": "Mevcut puanların toplam sayısının bir yüzdesi şeklinde görüntülenen aktivite puanlarınızı görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver la puntuación de la actividad como un porcentaje del número total de puntos disponibles.",
             "spanish-la": "Haga click aquí para ver la puntuación de la actividad como un porcentaje del número total de puntos disponibles.",
             "portuguese": "Clique aqui para visualizar as pontuações de suas atividades exibidas como uma percentagem do número total de pontos disponíveis.",

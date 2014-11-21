@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Add a New Class",
-    "turkish": "Yeni Ders Ekle",
+    "turkish": "Yeni Sınıf Ekle",
     "spanish": "Añadir una Nueva Clase",
     "spanish-la": "Añadir una Nueva Clase",
     "portuguese": "Adicione uma nova turma",
@@ -29,7 +29,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Choose a level for your new class.",
-            "turkish": "Yeni dersiniz için bir seviye seçin.",
+            "turkish": "Yeni sınıfınız için bir seviye seçin.",
             "spanish": "Seleccione un nivel para su nueva clase.",
             "spanish-la": "Seleccione un nivel para su nueva clase.",
             "portuguese": "Escolha um nível para sua nova turma.",
@@ -43,7 +43,7 @@
       "imgId": "PTAC002.png",
       "pageTitle": {
         "english": "Enter your institution code",
-        "turkish": "Kurum adınızı girin",
+        "turkish": "Kurum kodunuzu girin",
         "spanish": "Introduzca su código de institución",
         "spanish-la": "Introduzca su código de institución",
         "portuguese": "Insira o nome da sua instituição",
@@ -56,7 +56,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
-            "turkish": "Bir kurum ID kodunuz varsa, buraya girin. Bu yöneticinizden size verebileceği bir koddur. Bu kod ders kayıtlarınızı okul ya da kuruma iletmenizi sağlar. Bir kurum ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Daha sonra Ders Ayrıntıları sayfasından “Join an Institution”a tıklayarak bir kurum ID kodu girebilirsiniz.",
+            "turkish": "Bir kurum ID (kimlik) kodunuz varsa, buraya girin. Kurum ID’nizi yöneticinizden alabilirsiniz. Bu kod ders raporlarınızı çalıştığınız okul ya da kuruma iletmenizi sağlar. Bir kurum ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Daha sonra Sınıf Bilgileri sayfasından “Join an Institution”a tıklayarak bir kurum ID kodu girebilirsiniz.",
             "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga clic en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo clic en “Join an Institution” desde su página de Detalles de la Clase.",
             "spanish-la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga click en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo click en “Join an Institution” desde su página de Detalles de la Clase.",
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de aula com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você pode inserir um código de identificação da instituição posteriormente clicando em “Join an Institution” na sua página dados da aula.",
@@ -95,7 +95,7 @@
           "numberPosLeft": 85,
           "text":{
             "english": "Click here to submit your institution ID code and go to the next page.",
-            "turkish": "Kurum ID kodunuzu göndermek ve sonraki sayfaya gitmek için buraya tıklayın.",
+            "turkish": "Kurum ID kodunuzu onaylamak ve sonraki sayfaya gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su código de ID de institución y avanzar a la página siguiente.",
             "spanish-la": "Haga click aquí para enviar su código de ID de institución y avanzar a la página siguiente.",
             "portuguese": "Clique aqui para enviar seu código de identificação da instituição e para ir para a próxima página.",
@@ -109,7 +109,7 @@
       "imgId": "PTAC003.png",
       "pageTitle": {
         "english": "Create a class name",
-        "turkish": "Bir ders adı oluştur",
+        "turkish": "Sınıf adı girin",
         "spanish": "Crear un nombre de clase",
         "spanish-la": "Crear un nombre de clase",
         "portuguese": "Criar um nome de aula",
@@ -122,7 +122,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "Enter a name for your class here.",
-            "turkish": "Ders adınızı buraya girin.",
+            "turkish": "Sınıfınıza vereceğiniz adı buraya yazın.",
             "spanish": "Ingrese un nombre para su clase aquí.",
             "spanish-la": "Ingrese un nombre para su clase aquí.",
             "portuguese": "Digite um nome para a sua aula aqui.",
@@ -136,7 +136,7 @@
       "imgId": "PTAC004.png",
       "pageTitle": {
         "english": "Save your class ID code",
-        "turkish": "Ders ID kodunuzu kaydedin",
+        "turkish": "Sınıf ID kodunuzu kaydedin",
         "spanish": "Guarde su código de ID de clase",
         "spanish-la": "Guarde su código de ID de clase",
         "portuguese": "Salve seu código de identificação de aula",
@@ -149,7 +149,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "This is the ID code for your new class. Save the code and distribute it to your students. They will be able to join your class with the new code and you will be able to see their reports.",
-            "turkish": "Bu yeni dersinize ait ID kodudur. Kodu kaydedin ve öğrencilerinize dağıtın. Bu yeni kodla birlikte dersinize katılabilirler, siz de raporlarını görüntüleyebilirsiniz.",
+            "turkish": "Bu yeni sınıfınıza ait kimlik (ID) kodudur. Kodu not edin ve öğrencilerinize dağıtın. Bu yeni kodla birlikte dersinize katılabilirler, siz de onların raporlarını görebilirsiniz.",
             "spanish": "Este es el código de identificación para su nueva clase. Guarde el código y compártalo con sus estudiantes. Ellos podrán inscribirse a su clase con el nuevo código y usted podrá ver sus informes.",
             "spanish-la": "Este es el código de identificación para su nueva clase. Guarde el código y compártalo con sus estudiantes. Ellos podrán inscribirse a su clase con el nuevo código y usted podrá ver sus informes.",
             "portuguese": "Este é o código de identificação para a sua nova aula. Salve o código e distribua-o aos seus alunos. Eles poderão participar da sua aula com o novo código e você será capaz de visualizar os seus relatórios.",

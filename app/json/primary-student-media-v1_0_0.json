@@ -42,7 +42,7 @@
           "numberPosLeft": 26,
           "text":{
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
-            "turkish": "Bir ses dosyası başlığına tıklayın. Bir ses oynatıcı görünür ve sesi oynatır. Parçayı oynatmak ve durdurmak için ok tuşunu kullanın. Parçanın içinde gezinmek ve ses seviyesini değiştirmek için kontrolleri kullanın.",
+            "turkish": "Bir ses dosyası başlığına tıklayın. Bir ses çalar görünür ve sesi dinletir. Parçayı oynatmak ve durdurmak için çalma düğmesini kullanın. Parçanın içinde gezinmek ve ses seviyesini değiştirmek için diğer kontrol düğmelerini kullanın.",
             "spanish": "Haga clic en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
             "portuguese": "Clique no título de um arquivo de áudio. Um player de áudio aparecerá e reproduzirá o arquivo. Use o botão de seta para iniciar e pausar a reprodução da faixa. Use os controles para percorrer a faixa de áudio e alterar o volume.",
             "spanish-la": "",
@@ -69,7 +69,7 @@
           "numberPosLeft": 26,
           "text":{
             "english": "Click on a video title to play a video file. It will play in a new tab in your browser.",
-            "turkish": "Bir video dosyasını oynatmak için video başlığına tıklayın. Tarayıcınızda yeni bir sekmede oynatılacaktır.",
+            "turkish": "Bir video dosyasını oynatmak için video başlığına tıklayın. Video, tarayıcınızda yeni bir sekmede açılacak ve o sekmede oynatılacaktır.",
             "spanish": "Haga clic en un título de vídeo para reproducir un archivo de vídeo. Se podrá ver en una nueva pestaña en su navegador.",
             "spanish-la": "Haga click en un título de vídeo para reproducir un archivo de video. Se podrá ver en una nueva pestaña en su navegador.",
             "portuguese": "Clique em um título de vídeo para reproduzir um arquivo de vídeo. Ele será reproduzido em uma nova aba em seu navegador.",
@@ -96,7 +96,7 @@
           "numberPosLeft": 5,
           "text":{
             "english": "Use the controls to play and pause the video, change the volume and enter full-screen view.",
-            "turkish": "Video’yu oynatmak ve durdurmak, ses seviyesini değiştirmek ve tam ekran görünümüne geçmek için kontrolleri kullanın.",
+            "turkish": "Video’yu oynatmak ve durdurmak, ses seviyesini değiştirmek ve tam ekran görünümüne geçmek için kontrol düğmelerini kullanın.",
             "spanish": "Use los controles para reproducir y pausar el vídeo, cambiar el volumen y activar la vista de pantalla completa.",
             "spanish-la": "Use los controles para reproducir y pausar el video, cambiar el volumen y activar la vista de pantalla completa.",
             "portuguese": "Use os controles para iniciar e pausar a reprodução do vídeo, alterar o volume e entrar no modo de visualização em tela cheia.",

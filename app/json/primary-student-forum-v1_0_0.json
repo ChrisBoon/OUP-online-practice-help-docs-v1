@@ -16,7 +16,7 @@
       "imgId": "PSF001.png",
       "pageTitle": {
         "english": "Write a post",
-        "turkish": "Gönderi yaz",
+        "turkish": "Gönderi yazın",
         "spanish": "Escribir un mensaje",
         "spanish-la": "Escribir un mensaje",
         "portuguese": "Escreva uma postagem",
@@ -29,7 +29,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "You can create a new post by writing in the Create New Post column. When you click the “Post” button it will appear in the Discussions and Comments list. Your teacher and any student in your Online Practice class can see your post and reply to it.",
-            "turkish": "Yeni Gönderi Oluştur kolonuna yazarak yeni bir gönderi oluşturabilirsiniz. “Post” düğmesine tıkladığınızda Tartışmalar ve Yorumlar listesinde görüntülenir. Çevrim İçi Uygulama dersinizdeki öğretmen ve öğrenciler gönderinizi görebilir ve yanıtlayabilir.",
+            "turkish": "Yeni Gönderi Oluştur sütununa yazarak yeni bir gönderi oluşturabilirsiniz. “Post” düğmesine tıkladığınızda gönderiniz Tartışmalar ve Yorumlar listesinde görüntülenir. Online Uygulama sınıfınızdaki öğretmen ve öğrenciler gönderinizi görebilir ve yanıtlayabilir.",
             "spanish": "Puede crear un nuevo mensaje escribiendo en la columna Crear Nuevo Mensaje. Al hacer clic en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Tanto su profesor como cualquier otro estudiante en su clase de Práctica Online podrá ver su mensaje y responderlo.",
             "spanish-la": "Puede crear un nuevo mensaje escribiendo en la columna Crear Nuevo Mensaje. Al hacer click en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Tanto su profesor como cualquier otro estudiante en su clase de Práctica Online podrá ver su mensaje y responderlo.",
             "portuguese": "Você pode criar uma nova postagem escrevendo na coluna “Create New Post”. Quando você clicar no botão \"Post\" ela aparecerá na lista “Discussions and Comments”. Seu professor e qualquer aluno em sua turma do Online Practice poderão visualizar sua postagem e responder a ela.",
@@ -55,7 +55,7 @@
           "numberPosLeft": 41,
           "text":{
             "english": "This is where you can view and reply to all of the current posts.",
-            "turkish": "Güncel gönderilerin tümünü burada görüntüleyebilir ve yanıtlayabilirsiniz.",
+            "turkish": "Güncel gönderilerin tümünü burada görebilir ve yanıtlayabilirsiniz.",
             "spanish": "Aquí podrá ver y responder todos los mensajes actuales.",
             "spanish-la": "Aquí podrá ver y responder todos los mensajes actuales.",
             "portuguese": "Este é o lugar onde você pode visualizar e responder a todas as postagens atuais.",
@@ -68,7 +68,7 @@
           "numberPosLeft": 15,
           "text":{
             "english": "Click “Post” to add the post to the column on the right.",
-            "turkish": "Gönderiyi sağdaki kolona eklemek için “Post” seçeneğine tıklayın.",
+            "turkish": "Gönderiyi sağdaki sütuna eklemek için “Post” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Post\" para agregar el mensaje a la columna de la derecha.",
             "spanish-la": "Haga click en \"Post\" para agregar el mensaje a la columna de la derecha.",
             "portuguese": "Clique em “Post” para adicionar a postagem na coluna à direita.",
@@ -81,7 +81,7 @@
           "numberPosLeft": 39,
           "text":{
             "english": "Click “Show” to view other students’ replies.",
-            "turkish": "Diğer öğrencilerin yanıtlarını görüntülemek için “Show” seçeneğine tıklayın.",
+            "turkish": "Diğer öğrencilerin yanıtlarını görmek için “Show” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Show\" para ver las respuestas de los demás estudiantes.",
             "spanish-la": "Haga click en \"Show\" para ver las respuestas de los demás estudiantes.",
             "portuguese": "Clique em “Show” para visualizar as respostas dos outros alunos.",
@@ -107,7 +107,7 @@
           "numberPosLeft": 61,
           "text":{
             "english": "Click “Reply” to reply to a post.",
-            "turkish": "Bir gönderiyi yanıtlamak için “Reply” seçeneğine a tıklayın.",
+            "turkish": "Bir gönderiyi yanıtlamak için “Reply” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Reply\" para responder a un mensaje.",
             "spanish-la": "Haga click en \"Reply\" para responder a un mensaje.",
             "portuguese": "Clique em “Reply” para responder a uma postagem.",
@@ -121,7 +121,7 @@
       "imgId": "PSF002.png",
       "pageTitle": {
         "english": "Reply to a post",
-        "turkish": "Bir gönderiyi yanıtla",
+        "turkish": "Bir gönderiyi yanıtlayın",
         "spanish": "Responder a un mensaje",
         "spanish-la": "Responder a un mensaje",
         "portuguese": "Responder a uma postagem",

@@ -29,7 +29,7 @@
           "numberPosLeft": 60,
           "text":{
             "english": "If you are a first-time user click “Register.”",
-            "turkish": "İlk kez kullanıyorsanız “Register” seçeneğine tıklayın.",
+            "turkish": "İlk kez kullanıyorsanız “Register” düğmesine tıklayın.",
             "spanish": "Si utiliza la página por primera vez, haga clic en \"Register\".",
             "spanish-la": "Si utiliza la página por primera vez, haga click en \"Register\".",
             "portuguese": "Se você é um novo usuário, clique em “Register“.",
@@ -56,7 +56,7 @@
           "numberPosLeft": 22,
           "text":{
             "english": "This page explains the Terms of Use. You must agree to the terms in order to register for Online Practice.",
-            "turkish": "Bu sayfa Kullanım Koşullarını açıklamaktadır. Çevrim İçi Uygulamaya kaydolmak için koşulları kabul etmeniz gerekir.",
+            "turkish": "Bu sayfa Kullanım Koşullarını açıklamaktadır. Online Uygulamaya kaydolmak için koşulları kabul etmeniz gerekir.",
             "spanish": "Esta página explica las Condiciones de Uso. Usted debe aceptarlas para poder registrarse en la Práctica Online.",
             "spanish-la": "Esta página explica las Condiciones de Uso. Usted debe aceptarlas para poder registrarse en la Práctica Online.",
             "portuguese": "Esta página explica os termos de uso. Você deve concordar com os termos, a fim de se registrar ao Online Practice.",
@@ -69,7 +69,7 @@
           "numberPosLeft": 65,
           "text":{
             "english": "Check the box to show that you agree to the Terms of Use.",
-            "turkish": "Kullanım Koşullarını kabul ettiğinizi göstermek için kutucuğu işaretleyin.",
+            "turkish": "Kullanım Koşullarını kabul ettiğinizi beyan etmek için kutucuğu işaretleyin.",
             "spanish": "Marque la casilla para indicar que está de acuerdo con las Condiciones de Uso.",
             "spanish-la": "Marque la casilla para indicar que está de acuerdo con las Condiciones de Uso.",
             "portuguese": "Marque a caixa de seleção para demonstrar que você concorda com os termos de uso.",
@@ -135,7 +135,7 @@
           "numberPosLeft": 53,
           "text":{
             "english": "Click “Enter”.",
-            "turkish": "“Enter” seçeneğine tıklayın.",
+            "turkish": "“Enter” düğmesine tıklayın.",
             "spanish": "Haga clic en \"Enter\".",
             "spanish-la": "Haga click en \"Enter\".",
             "portuguese": "Clique em “Enter“.",
@@ -149,7 +149,7 @@
       "imgId": "PAR004.png",
       "pageTitle": {
         "english": "Enter your details",
-        "turkish": "Ayrıntılarınızı girin",
+        "turkish": "Kişisel bilgilerinizi girin",
         "spanish": "Ingrese sus datos",
         "spanish-la": "Ingrese sus datos",
         "portuguese": "Insira seus dados",
@@ -320,7 +320,7 @@
       "imgId": "PAR006.png",
       "pageTitle": {
         "english": "Save your institution ID code",
-        "turkish": "Kurum ID kodunuzu kaydedin",
+        "turkish": "Kurum kimlik (ID) kodunuzu kaydedin",
         "spanish": "Guarde el código de ID de su institución",
         "spanish-la": "Guarde el código de ID de su institución",
         "portuguese": "Salve o seu código de identificação da instituição",
@@ -333,7 +333,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "This is the ID code for your institution. Give this code to your teachers so they can link their class records to your institution. If teachers do not link to your institution with this code, you will not be able to see their classes in your reports.",
-            "turkish": "Bu kurumunuza ait ID kodudur. Sınıf kayıtlarını kurumunuza iletebilmeleri için bu kodu öğretmenlerinize verin. Öğretmenler kurumunuza bu kodla bağlanmazsa, raporlarınızda onların sınıflarını göremezsiniz.",
+            "turkish": "Bu kurumunuza ait kimlik (ID) kodudur. Sınıf kayıtlarını kurumunuza iletebilmeleri için bu kodu öğretmenlerinize verin. Öğretmenler kurumunuza bu kodla bağlanmazsa, raporlarınızda onların sınıflarını göremezsiniz.",
             "spanish": "Este es el código de identificación para su institución. Comparta este código con sus profesores para que puedan vincular sus registros de clase a su institución. Si los profesores no se vinculan a la institución con este código, usted no podrá ver sus clases en sus reportes.",
             "spanish-la": "Este es el código de identificación para su institución. Comparta este código con sus profesores para que puedan vincular sus registros de clase a su institución. Si los profesores no se vinculan a la institución con este código, usted no podrá ver sus clases en sus reportes.",
             "portuguese": "Este é o código de identificação para a sua instituição. Forneça este código ao seus professores para que eles possam vincular os seus registros de aula a sua instituição. Se os professores não vincularem a sua instituição a este código, você não será capaz de visualizar as suas aulas em seus relatórios.",
@@ -346,7 +346,7 @@
           "numberPosLeft": 12,
           "text":{
             "english": "Click here to print this page and save it for your records.",
-            "turkish": "Bu sayfayı yazdırmak ve kayıtlarınız için kaydetmek üzere buraya tıklayın.",
+            "turkish": "Bu sayfayı yazdırmak ve ilerisi için kaydetmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir esta página y guardarla en sus archivos.",
             "spanish-la": "Haga click aquí para imprimir esta página y guardarla en sus archivos.",
             "portuguese": "Clique aqui para imprimir esta página e salvá-la em seus registros.",
@@ -386,7 +386,7 @@
           "numberPosLeft": 8,
           "text":{
             "english": "This page shows your registration information. You may want to print this page for your records. If you want to change this information, select Edit Profile after you log in (it will be in the top right of the screen).",
-            "turkish": "Bu sayfa kayıt bilgilerinizi gösterir. Kayıtlarınız için bu sayfayı yazdırmak isteyebilirsiniz. Bu bilgileri değiştirmek isterseniz, oturum açtıktan sonra Profili Düzenle’yi seçin (ekranın sağ üst köşesinde olacak).",
+            "turkish": "Bu sayfa kayıt bilgilerinizi gösterir. İlerisi için bu sayfayı yazdırmak isteyebilirsiniz. Bu bilgileri değiştirmek isterseniz, oturum açtıktan sonra Profili Düzenle’yi seçin (ekranın sağ üst köşesinde yer alacaktır).",
             "spanish": "Esta página muestra su información de registro. Es posible que desee imprimir esta página para sus registros. Si desea cambiar esta información, seleccione Edit Profile [Editar Perfil] después de iniciar sesión (se encontrará en la parte superior derecha de la pantalla).",
             "spanish-la": "Esta página muestra su información de registro. Es posible que desee imprimir esta página para sus registros. Si desea cambiar esta información, seleccione Edit Profile [Editar Perfil] después de iniciar sesión (se encontrará en la parte superior derecha de la pantalla).",
             "portuguese": "Esta página exibe as suas informações de registro. É possível imprimir esta página para fins de registro. Se você quiser alterar estas informações, selecione a opção “Edit Profile” após iniciar a sessão (essa opção estará disponível no canto superior direito da tela).",
@@ -425,7 +425,7 @@
           "numberPosLeft": 84,
           "text":{
             "english": "Click here to complete the registration and log in to your Online Practice.",
-            "turkish": "Kaydı tamamlamak ve Çevrim İçi Uygulama oturumunuzu açmak için buraya tıklayın.",
+            "turkish": "Kaydı tamamlamak ve Online Uygulama oturumunuzu açmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para completar el registro e iniciar sesión en su Práctica Online.",
             "spanish-la": "Haga click aquí para completar el registro e iniciar sesión en su Práctica Online.",
             "portuguese": "Clique aqui para completar o registo e se conectar ao Online Practice.",

@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Class Details",
-    "turkish": "Ders Ayrıntıları",
+    "turkish": "Sınıf Bilgileri",
     "spanish": "Detalles de la Clase",
     "spanish-la": "Detalles de la Clase",
     "portuguese": "Dados da turma",
@@ -81,7 +81,7 @@
           "numberPosLeft": 76,
           "text":{
             "english": "Click here to save the changes you made to this class.",
-            "turkish": "Bu derste yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
+            "turkish": "Bu sınıfta yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
             "spanish-la": "Haga click aquí para guardar los cambios realizados para esta clase.",
             "portuguese": "Clique aqui para salvar as alterações feitas a esta turma.",

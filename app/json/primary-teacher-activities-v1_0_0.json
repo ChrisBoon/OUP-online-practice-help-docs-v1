@@ -68,7 +68,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "The Online Practice activities are displayed in this area.",
-            "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda görüntülenir.",
+            "turkish": "Online Uygulama aktiviteleri bu alanda görüntülenir.",
             "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
             "spanish-la": "Las actividades de la Práctica Online se muestran en esta área.",
             "portuguese": "As atividades do Online Practice são exibidas nesta área.",
@@ -107,7 +107,7 @@
           "numberPosLeft": 45,
           "text":{
             "english": "Click here to see a Quick Tip pop-up with guidance on completing an activity.",
-            "turkish": "Bir aktiviteyi tamamlama rehberi ile birlikte Hızlı İpucu iletisini görmek için buraya tıklayın.",
+            "turkish": "Bir aktiviteyi tamamlama kılavuzu ile birlikte Hızlı İpucu iletisini görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver un Consejo Rápido con información sobre cómo rellenar una actividad.",
             "spanish-la": "Haga click aquí para ver un Consejo Rápido con información sobre cómo rellenar una actividad.",
             "portuguese": "Clique aqui para visualizar um pop-up com uma dica rápida contendo orientações sobre a realização de uma atividade.",
@@ -120,7 +120,7 @@
           "numberPosLeft": 51,
           "text":{
             "english": "If an activity has an attachment an icon will appear here. Click to download or display the attachment.",
-            "turkish": "Aktivitede bir ek varsa, simge burada görünecektir. İndirmek veya eki görüntülemek için buraya tıklayın.",
+            "turkish": "Aktivitede bir ek varsa, burada bir simge görünecektir. İndirmek veya eki görüntülemek için buraya tıklayın.",
             "spanish": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga clic aquí para descargar o visualizar el archivo adjunto.",
             "spanish-la": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga click aquí para descargar o visualizar el archivo adjunto.",
             "portuguese": "Se uma atividade possuir um anexo, um ícone aparecerá aqui. Clique para realizar o download ou para exibir o anexo.",
@@ -146,7 +146,7 @@
           "numberPosLeft": 76,
           "text":{
             "english": "A student can try again if they answered some questions incorrectly. They can try an activity three times.",
-            "turkish": "Öğrenci bazı soruları yanlış cevapladıysa tekrar deneyebilir. Bir aktiviteyi üç kez deneme hakkına sahipler.",
+            "turkish": "Öğrenci bazı soruları yanlış cevapladıysa tekrar deneyebilir. Öğrencilerin bir aktiviteyi üç kez deneme hakkı vardır.",
             "spanish": "El estudiante puede intentarlo de nuevo si ha contestado algunas preguntas de forma incorrecta. Tiene tres intentos por cada actividad.",
             "spanish-la": "El estudiante puede intentarlo de nuevo si ha contestado algunas preguntas de forma incorrecta. Tiene tres intentos por cada actividad.",
             "portuguese": "Um aluno pode tentar realizar uma atividade novamente caso tenha respondido a algumas perguntas de forma incorreta. Você pode tentar realizar cada atividade três vezes.",
@@ -172,7 +172,7 @@
           "numberPosLeft": 4,
           "text":{
             "english": "Teachers can find supporting Resources here, if available.",
-            "turkish": "Öğretmenler, varsa destekleyici Kaynakları burada bulabilir.",
+            "turkish": "Öğretmenler, varsa destekleyici kaynakları burada bulabilir.",
             "spanish": "Los profesores pueden encontrar recursos de apoyo aquí, en caso de estar disponibles.",
             "spanish-la": "Los profesores pueden encontrar recursos de apoyo aquí, en caso de estar disponibles.",
             "portuguese": "Os professores podem encontrar os recursos de suporte aqui, caso disponíveis.",
@@ -185,7 +185,7 @@
           "numberPosLeft": 19,
           "text":{
             "english": "A Picture Glossary can be accessed here, if available. The Picture Glossary contains core level vocabulary.",
-            "turkish": "Varsa, Resimli Sözlüğe buradan ulaşılabilir. Resimli Sözlük seviyedeki temel kelimeleri içerir.",
+            "turkish": "Varsa, Resimli Sözlüğe buradan ulaşılabilir. Resimli Sözlük o seviyedeki temel kelimeleri içerir.",
             "spanish": "Aquí se puede acceder al Glosario ilustrado, en caso de estar disponible. El Glosario ilustrado contiene vocabulario de nivel básico.",
             "spanish-la": "Aquí se puede acceder al Glosario ilustrado, en caso de estar disponible. El Glosario ilustrado contiene vocabulario de nivel básico.",
             "portuguese": "Um glossário de imagens pode ser acessado aqui, caso disponível. O glossário de imagens contém um vocabulário com todas as palavras principais.",
@@ -198,7 +198,7 @@
           "numberPosLeft": 32,
           "text":{
             "english": "Students can access their Achievements area and Reports here. Teachers must access students’ Reports from the Home page.",
-            "turkish": "Öğrenciler, Başarılar alanı ve Raporlara buradan erişebilir. Öğretmenler, öğrenci Raporlarına Anasayfadan erişmelidir.",
+            "turkish": "Öğrenciler, Başarılar alanı ve Raporlara buradan erişebilir. Öğretmenler, öğrenci raporlarına Anasayfadan erişmelidir.",
             "spanish": "Los estudiantes pueden acceder a su área de Logros e Informes aquí. Los profesores deben acceder a los Informes de los estudiantes desde de la página de Inicio.",
             "spanish-la": "Los estudiantes pueden acceder a su área de Logros e Informes aquí. Los profesores deben acceder a los Informes de los estudiantes desde de la página de Inicio.",
             "portuguese": "Os alunos podem acessar suas áreas de realizações e seus relatórios aqui. Os professores devem acessar os relatórios dos alunos a partir da página inicial.",
