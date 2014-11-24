@@ -12,8 +12,7 @@
         "title": {
           "english": "Registration",
           "spanish_la": "Registro",
-          "portuguese": "Cadastro",
-          "spanish_la": ""
+          "portuguese": "Cadastro"
         },
         "id": "primary-sec-teacher-registration-v1_0_0"
       },
@@ -22,8 +21,7 @@
         "title": {
           "english": "Home",
           "spanish_la": "Inicio",
-          "portuguese": "Início",
-          "spanish_la": ""
+          "portuguese": "Início"
         },
         "id": "primary-teacher-home-v1_0_0"
       },
@@ -32,8 +30,7 @@
         "title": {
           "english": "Manage Classes",
           "spanish_la": "Administrar Clases",
-          "portuguese": "Gerenciar turmas",
-          "spanish_la": ""
+          "portuguese": "Gerenciar turmas"
         },
         "id": "primary-teacher-manageclasses-v1_0_0"
       },
@@ -42,8 +39,7 @@
         "title": {
           "english": "Class Details",
           "spanish_la": "Detalles de la Clase",
-          "portuguese": "Dados da turma",
-          "spanish_la": ""
+          "portuguese": "Dados da turma"
         },
         "id": "primary-teacher-classdetails-v1_0_0"
       },
@@ -52,8 +48,7 @@
         "title": {
           "english": "Edit Class Name",
           "spanish_la": "Editar Nombre de la Clase",
-          "portuguese": "Editar o nome da turma",
-          "spanish_la": ""
+          "portuguese": "Editar o nome da turma"
         },
         "id": "primary-teacher-classeditname-v1_0_0"
       },
@@ -62,8 +57,7 @@
         "title": {
           "english": "Join an Institution",
           "spanish_la": "Unirse a una Institución",
-          "portuguese": "Associe-se a uma instituição",
-          "spanish_la": ""
+          "portuguese": "Associe-se a uma instituição"
         },
         "id": "primary-teacher-joininstitution-v1_0_0"
       },
@@ -72,8 +66,7 @@
         "title": {
           "english": "Hide Units and Lessons",
           "spanish_la": "Ocultar Unidades y Lecciones",
-          "portuguese": "Ocultar unidades e lições",
-          "spanish_la": ""
+          "portuguese": "Ocultar unidades e lições"
         },
         "id": "primary-teacher-contentassign-v1_0_0"
       },
@@ -82,8 +75,7 @@
         "title": {
           "english": "Add a New Class",
           "spanish_la": "Añadir una Nueva Clase",
-          "portuguese": "Adicione uma nova turma",
-          "spanish_la": ""
+          "portuguese": "Adicione uma nova turma"
         },
         "id": "primary-teacher-addclass-v1_0_0"
       },
@@ -92,8 +84,7 @@
         "title": {
           "english": "Class Summary Report",
           "spanish_la": "Informe de Resumen de la Clase",
-          "portuguese": "Relatório resumido da turma",
-          "spanish_la": ""
+          "portuguese": "Relatório resumido da turma"
         },
         "id": "primary-teacher-reportclasssummary-v1_0_0"
       },
@@ -102,8 +93,7 @@
         "title": {
           "english": "Class Report",
           "spanish_la": "Informe de la Clase",
-          "portuguese": "Relatório de turma",
-          "spanish_la": ""
+          "portuguese": "Relatório de turma"
         },
         "id": "primary-teacher-reportclass-v1_0_0"
       },
@@ -112,8 +102,7 @@
         "title": {
           "english": "Student Report",
           "spanish_la": "Informe del Estudiante",
-          "portuguese": "Relatório do aluno",
-          "spanish_la": ""
+          "portuguese": "Relatório do aluno"
         },
         "id": "primary-sec-teacher-reportstudent-v1_0_0"
       },
@@ -122,8 +111,7 @@
         "title": {
           "english": "Unit Report",
           "spanish_la": "Informe de la Unidad",
-          "portuguese": "Relatório de unidade",
-          "spanish_la": ""
+          "portuguese": "Relatório de unidade"
         },
         "id": "primary-teacher-reportunit-v1_0_0"
       },
@@ -132,8 +120,7 @@
         "title": {
           "english": "Lesson Report",
           "spanish_la": "Informe de la Lección",
-          "portuguese": "Relatório da lição",
-          "spanish_la": ""
+          "portuguese": "Relatório da lição"
         },
         "id": "primary-teacher-reportlesson-v1_0_0"
       },
@@ -142,8 +129,7 @@
         "title": {
           "english": "Student Activity Report",
           "spanish_la": "Informe de Actividad Estudiantil",
-          "portuguese": "Relatório da atividade do aluno",
-          "spanish_la": ""
+          "portuguese": "Relatório da atividade do aluno"
         },
         "id": "primary-teacher-reportstudentactivity-v1_0_0"
       },
@@ -152,8 +138,7 @@
         "title": {
           "english": "Enter Online Practice",
           "spanish_la": "Ingresar a Práctica Online",
-          "portuguese": "Acessar o Online Practice",
-          "spanish_la": ""
+          "portuguese": "Acessar o Online Practice"
         },
         "id": "primary-t2t-teacher-enteronlinepractice-v1_0_0"
       },
@@ -162,8 +147,7 @@
         "title": {
           "english": "Activities",
           "spanish_la": "Actividades",
-          "portuguese": "Atividades",
-          "spanish_la": ""
+          "portuguese": "Atividades"
         },
         "id": "primary-sec-teacher-activities-v1_0_0"
       },
@@ -172,8 +156,7 @@
         "title": {
           "english": "Glossary",
           "spanish_la": "Glosario",
-          "portuguese": "Glossário",
-          "spanish_la": ""
+          "portuguese": "Glossário"
         },
         "id": "primary-teacher-glossary-v1_0_0"
       },
@@ -182,8 +165,7 @@
         "title": {
           "english": "Add a Level",
           "spanish_la": "Añadir un Nivel",
-          "portuguese": "Adicionar um nível",
-          "spanish_la": ""
+          "portuguese": "Adicionar um nível"
         },
         "id": "primary-teacher-addlevel-v1_0_0"
       },
@@ -192,8 +174,7 @@
         "title": {
           "english": "Email",
           "spanish_la": "Correo electrónico",
-          "portuguese": "E-mail",
-          "spanish_la": ""
+          "portuguese": "E-mail"
         },
         "id": "primary-teacher-email-v1_0_0"
       },
@@ -202,8 +183,7 @@
         "title": {
           "english": "Forum",
           "spanish_la": "Foro",
-          "portuguese": "Fórum",
-          "spanish_la": ""
+          "portuguese": "Fórum"
         },
         "id": "primary-teacher-forum-v1_0_0"
       },
@@ -212,8 +192,7 @@
         "title": {
           "english": "Edit Profile",
           "spanish_la": "Editar Perfil",
-          "portuguese": "Editar perfil",
-          "spanish_la": ""
+          "portuguese": "Editar perfil"
         },
         "id": "primary-teacher-editprofile-v1_0_0"
       }
@@ -224,8 +203,7 @@
     "userType": {
         "english": "Student",
         "spanish_la": "Estudiante",
-        "portuguese": "Aluno",
-        "spanish_la": ""
+        "portuguese": "Aluno"
       },
     "docsList":{
       "item01":{
@@ -233,8 +211,7 @@
         "title": {
           "english": "Registration",
           "spanish_la": "Registro",
-          "portuguese": "Cadastro",
-          "spanish_la": ""
+          "portuguese": "Cadastro"
         },
         "id": "primary-sec-student-registration-v1_0_0"
       },
@@ -243,8 +220,7 @@
         "title": {
           "english": "Home",
           "spanish_la": "Inicio",
-          "portuguese": "Início",
-          "spanish_la": ""
+          "portuguese": "Início"
         },
         "id": "primary-t2t-student-home-v1_0_0"
       },
@@ -253,8 +229,7 @@
         "title": {
           "english": "Add a Level",
           "spanish_la": "Añadir un Nivel",
-          "portuguese": "Adicionar um nível",
-          "spanish_la": ""
+          "portuguese": "Adicionar um nível"
         },
         "id": "primary-sec-student-addlevel-v1_0_0"
       },
@@ -263,8 +238,7 @@
         "title": {
           "english": "Activities",
           "spanish_la": "Actividades",
-          "portuguese": "Atividades",
-          "spanish_la": ""
+          "portuguese": "Atividades"
         },
         "id": "primary-sec-student-activities-v1_0_0"
       },
@@ -273,8 +247,7 @@
         "title": {
           "english": "Glossary",
           "spanish_la": "Glosario",
-          "portuguese": "Glossário",
-          "spanish_la": ""
+          "portuguese": "Glossário"
         },
         "id": "primary-student-glossary-v1_0_0"
       },
@@ -283,8 +256,7 @@
         "title": {
           "english": "Report",
           "spanish_la": "Informe",
-          "portuguese": "Relatório",
-          "spanish_la": ""
+          "portuguese": "Relatório"
         },
         "id": "primary-sec-student-reportprogress-v1_0_0"
       },
@@ -293,8 +265,7 @@
         "title": {
           "english": "Unit Report",
           "spanish_la": "Informe de la Unidad",
-          "portuguese": "Relatório de unidade",
-          "spanish_la": ""
+          "portuguese": "Relatório de unidade"
         },
         "id": "primary-sec-student-reportunit-v1_0_0"
       },
@@ -303,8 +274,7 @@
         "title": {
           "english": "Email",
           "spanish_la": "Correo electrónico",
-          "portuguese": "E-mail",
-          "spanish_la": ""
+          "portuguese": "E-mail"
         },
         "id": "primary-student-email-v1_0_0"
       },
@@ -313,8 +283,7 @@
         "title": {
           "english": "Forum",
           "spanish_la": "Foro",
-          "portuguese": "Fórum",
-          "spanish_la": ""
+          "portuguese": "Fórum"
         },
         "id": "primary-student-forum-v1_0_0"
       },
@@ -323,8 +292,7 @@
         "title": {
           "english": "Join a Class",
           "spanish_la": "Inscribirse a una Clase",
-          "portuguese": "Participe de uma turma",
-          "spanish_la": ""
+          "portuguese": "Participe de uma turma"
         },
         "id": "primary-student-classjoin-v1_0_0"
       },
@@ -333,8 +301,7 @@
         "title": {
           "english": "Change Class",
           "spanish_la": "Cambio de Clase",
-          "portuguese": "Alterar turma",
-          "spanish_la": ""
+          "portuguese": "Alterar turma"
         },
         "id": "primary-student-classchange-v1_0_0"
       },
@@ -343,8 +310,7 @@
         "title": {
           "english": "Edit Profile",
           "spanish_la": "Editar Perfil",
-          "portuguese": "Editar perfil",
-          "spanish_la": ""
+          "portuguese": "Editar perfil"
         },
         "id": "primary-student-editprofile-v1_0_0"
       }
@@ -355,8 +321,7 @@
     "userType": {
         "english": "Administrator",
         "spanish_la": "Administrador",
-        "portuguese": "Administrador",
-        "spanish_la": ""
+        "portuguese": "Administrador"
       },
     "docsList":{
       "item01":{
@@ -364,8 +329,7 @@
         "title": {
           "english": "Registration",
           "spanish_la": "Registro",
-          "portuguese": "Cadastro",
-          "spanish_la": ""
+          "portuguese": "Cadastro"
         },
         "id": "primary-admin-registration-v1_0_0"
       },
@@ -374,8 +338,7 @@
         "title": {
           "english": "Home",
           "spanish_la": "Inicio",
-          "portuguese": "Início",
-          "spanish_la": ""
+          "portuguese": "Início"
         },
         "id": "primary-admin-home-v1_0_0"
       },
@@ -384,8 +347,7 @@
         "title": {
           "english": "Edit Profile",
           "spanish_la": "Editar Perfil",
-          "portuguese": "Editar perfil",
-          "spanish_la": ""
+          "portuguese": "Editar perfil"
         },
         "id": "primary-admin-editprofile-v1_0_0"
       }
