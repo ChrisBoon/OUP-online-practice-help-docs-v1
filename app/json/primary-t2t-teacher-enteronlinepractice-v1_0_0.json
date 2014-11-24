@@ -1,11 +1,9 @@
 {
  "title": {
     "english": "Enter Online Practice",
-    "turkish": "Çevrim İçi Uygulamaya girin.",
     "spanish": "Ingresar a Práctica Online",
     "spanish-la": "Ingresar a Práctica Online",
-    "portuguese": "Acessar o Online Practice",
-    "arabic": "أإدخال الممارسة على الإنترنت"
+    "portuguese": "Acessar o Online Practice"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -16,11 +14,9 @@
       "imgId": "PTEOP001.png",
       "pageTitle": {
         "english": "",
-        "turkish": "",
         "spanish": "",
         "spanish-la": "",
-        "portuguese": "",
-        "arabic": ""
+        "portuguese": ""
       },
       "paragraphs":{
         "paragraph01": {
@@ -29,11 +25,9 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Click an icon to choose your Online Practice level. If you add further levels you will be able to access them here.",
-            "turkish": "Çevrim İçi Uygulama seviyenizi seçmek için bir simgeye tıklayın. Ek seviye eklerseniz buradan erişebilirsiniz.",
             "spanish": "Haga clic en un icono para elegir su nivel de Práctica Online. Si añade más niveles podrá acceder a ellos desde aquí.",
             "spanish-la": "Haga click en un icono para elegir su nivel de Práctica Online. Si añade más niveles podrá acceder a ellos desde aquí.",
-            "portuguese": "Clique em um ícone para escolher o seu nível no Online Practice. Caso mais níveis sejam adicionados, você poderá acessá-los aqui.",
-            "arabic": "انقر علىالأيقونة لتحديد مستوى الممارسة الخاص بك على الإنترنت. إذا قمت بإضافة المزيد من المستويات، فسوف يكون بإمكانك الدخول إليها هنا."
+            "portuguese": "Clique em um ícone para escolher o seu nível no Online Practice. Caso mais níveis sejam adicionados, você poderá acessá-los aqui."
           }
         }
       }
@@ -43,11 +37,9 @@
       "imgId": "P-T2T-TEOP002.png",
       "pageTitle": {
         "english": "",
-        "turkish": "",
         "spanish": "",
         "spanish-la": "",
-        "portuguese": "",
-        "arabic": ""
+        "portuguese": ""
       },
       "paragraphs":{
         "paragraph01": {
@@ -56,11 +48,9 @@
           "numberPosLeft": 3,
           "text":{
             "english": "When you have chosen a level you can enter the Activities area.",
-            "turkish": "-",
             "spanish": "-",
             "spanish-la": "-",
-            "portuguese": "-",
-            "arabic": "-"
+            "portuguese": "-"
           }
         }
       }

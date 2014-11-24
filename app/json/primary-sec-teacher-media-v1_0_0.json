@@ -1,11 +1,9 @@
 {
  "title": {
     "english": "Media Center",
-    "turkish": "Medya Merkezi",
     "spanish": "Centro de Medios",
     "spanish-la": "Centro de Medios",
-    "portuguese": "Centro de mídia",
-    "arabic": "مركز الوسائط"
+    "portuguese": "Centro de mídia"
   },
  "segment": "primary",
  "userType": ["teacher"],
@@ -16,11 +14,9 @@
       "imgId": "P-SEC-TM001.png",
       "pageTitle": {
         "english": "Audio",
-        "turkish": "Ses",
         "spanish": "Audio",
         "spanish-la": "Audio",
-        "portuguese": "Áudio",
-        "arabic": "الصوت"
+        "portuguese": "Áudio"
       },
       "paragraphs":{
         "paragraph01": {
@@ -29,11 +25,9 @@
           "numberPosLeft": 27,
           "text":{
             "english": "The Media Center provides class audio and video files for you and your students to use, if available.",
-            "turkish": "Medya Merkezi varsa dersle ilgili ses ve video dosyalarını sizin ve öğrencilerinizin kullanımına sunar.",
             "spanish": "El Centro de Medios proporciona archivos de vídeo y audio de la clase para que los utilicen tanto usted como sus estudiantes, de estar disponibles.",
             "spanish-la": "El Centro de Medios proporciona archivos de video y audio de la clase para que los utilicen tanto usted como sus estudiantes, de estar disponibles.",
-            "portuguese": "O centro de mídia fornece a você e seus alunos os arquivos de áudio e vídeo que estejam disponíveis.",
-            "arabic": "يقدم مركز الوسائط للصف ملفات صوتية وملفات فيديو لك ولطلابك لاستخدامها، إذا كانت متوفرة."
+            "portuguese": "O centro de mídia fornece a você e seus alunos os arquivos de áudio e vídeo que estejam disponíveis."
           }
         },
         "paragraph02": {
@@ -42,11 +36,9 @@
           "numberPosLeft": 26,
           "text":{
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
-            "turkish": "Bir ses dosyası başlığına tıklayın. Bir ses oynatıcı görünür ve sesi oynatır. Parçayı oynatmak ve durdurmak için ok tuşunu kullanın. Parçanın içinde gezinmek ve ses seviyesini değiştirmek için kontrolleri kullanın.",
             "spanish": "Haga clic en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
             "spanish-la": "Haga click en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
-            "portuguese": "Clique no título de um arquivo de áudio. Um player de áudio aparecerá e reproduzirá o arquivo. Use o botão de seta para iniciar e pausar a reprodução da faixa. Use os controles para percorrer a faixa de áudio e alterar o volume.",
-            "arabic": "انقر فوق عنوان أحد الملفات الصوتية. سوف يظهر مشغل الصوت ويقوم بتشغيل مقطع الفيديو. استخدم زر السهم لتشغيل وإيقاف المسار. استخدم مفاتيح التحكم للتحرك من خلال المسار وتغيير مستوى جهارة الصوت."
+            "portuguese": "Clique no título de um arquivo de áudio. Um player de áudio aparecerá e reproduzirá o arquivo. Use o botão de seta para iniciar e pausar a reprodução da faixa. Use os controles para percorrer a faixa de áudio e alterar o volume."
           }
         }
       }
