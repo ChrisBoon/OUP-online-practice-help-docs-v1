@@ -114,3 +114,12 @@
     display: none;
   }
 }
+
+.adult{
+  .language-chosen__container--spanish,
+  .language-chosen__container--Spanish{
+    &:before{
+      content: "Español";
+    }
+  }
+}
