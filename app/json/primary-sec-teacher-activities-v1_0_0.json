@@ -3,7 +3,7 @@
     "english": "Activities",
     "turkish": "Aktiviteler",
     "spanish": "Actividades",
-    "spanish-la": "",
+    "spanish-la": "Actividades",
     "portuguese": "Atividades",
     "arabic": "أنشطة"
   },
@@ -18,8 +18,8 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "portuguese": "",
         "spanish-la": "",
+        "portuguese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -31,8 +31,8 @@
             "english": "Use this menu to choose a unit and lesson. When you choose a unit and lesson you will be taken to the first activity within the lesson.",
             "turkish": "Bir ünite ya da ders seçmek için bu menüyü kullanın. Bir ünite ya da ders seçtiğinizde, ders içindeki ilk aktiviteye yönlendirilirsiniz.",
             "spanish": "Utilice este menú para seleccionar una unidad y lección. Cuando elija una unidad y lección, será dirigido a la primera actividad dentro de la lección.",
+            "spanish-la": "Utilice este menú para seleccionar una unidad y lección. Cuando elija una unidad y lección, será dirigido a la primera actividad dentro de la lección.",
             "portuguese": "Utilize este menu para escolher a unidade e uma lição. Quando você escolher uma unidade e uma lição, você será levado para a primeira atividade dentro da lição.",
-            "spanish-la": "",
             "arabic": "استخدم هذه القائمة لاختيار وحدة ودرس. عند اختيار وحدة ودرس سيتم نقلك إلى النشاط الأول ضمن الدرس."
           }
         },
@@ -44,8 +44,8 @@
             "english": "Use this menu to choose an activity within a lesson.",
             "turkish": "Ders içinden bir aktivite seçmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para elegir una actividad dentro de una lección.",
+            "spanish-la": "Utilice este menú para elegir una actividad dentro de una lección.",
             "portuguese": "Clique no menu ao lado para escolher uma atividade dentro de uma lição.",
-            "spanish-la": "",
             "arabic": "استخدم هذه القائمة لاختيار النشاط من خلال الدرس."
           }
         },
@@ -57,8 +57,8 @@
             "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
             "turkish": "Aktiviteler arasında sırayla gezinmek için “Previous” ve “Next” düğmelerini kullanın.",
             "spanish": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
+            "spanish-la": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
             "portuguese": "Utilize os botões “Previous” e Next” para navegar por meio das atividades em sequência.",
-            "spanish-la": "",
             "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل."
           }
         },
@@ -70,8 +70,8 @@
             "english": "The Online Practice activities are displayed in this area.",
             "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda görüntülenir.",
             "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
+            "spanish-la": "Las actividades de la Práctica Online se muestran en esta área.",
             "portuguese": "As atividades do Online Practice são exibidas nesta área.",
-            "spanish-la": "",
             "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
           }
         },
@@ -83,8 +83,8 @@
             "english": "A student’s current activity score is shown here.",
             "turkish": "Öğrencinin mevcut aktivite puanı burada görüntülenir.",
             "spanish": "Aquí se muestra la puntuación actual del estudiante para la actividad.",
+            "spanish-la": "Aquí se muestra la puntuación actual del estudiante para la actividad.",
             "portuguese": "A sua pontuação atual de um aluno em uma atividade é exibida aqui.",
-            "spanish-la": "",
             "arabic": "تظهر درجة النشاط الحالي للطالب هنا."
           }
         },
@@ -96,8 +96,8 @@
             "english": "A student can attempt an activity three times. The highest score of their attempts is recorded in the student’s report.",
             "turkish": "Öğrenci bir aktiviteyi üç kez deneyebilir. Denemelerin sonunda elde edilen en yüksek puan öğrencinin raporuna kaydedilir.",
             "spanish": "El estudiante tiene tres intentos para realizar una actividad. La puntuación más alta de los tres intentos se registra en el informe del estudiante.",
+            "spanish-la": "El estudiante tiene tres intentos para realizar una actividad. La puntuación más alta de los tres intentos se registra en el informe del estudiante.",
             "portuguese": "Um aluno pode tentar realizar cada atividade três vezes. A pontuação mais alta dentre as três tentativas realizadas será registrada no relatório do aluno.",
-            "spanish-la": "",
             "arabic": "يمكن للطالب أن يحاول في نشاط ما ثلاث مرات. يتم تسجيل أعلى درجة لمحاولاتهم في تقرير الطالب."
           }
         },
@@ -109,8 +109,8 @@
             "english": "Click here to see a Quick Tip pop-up with guidance on completing an activity.",
             "turkish": "Bir aktiviteyi tamamlama rehberi ile birlikte Hızlı İpucu iletisini görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver un Consejo Rápido con información sobre cómo rellenar una actividad.",
+            "spanish-la": "Haga click aquí para ver un Consejo Rápido con información sobre cómo rellenar una actividad.",
             "portuguese": "Clique aqui para visualizar um pop-up com uma dica rápida contendo orientações sobre a realização de uma atividade.",
-            "spanish-la": "",
             "arabic": "انقر هنا لرؤية نصيحة سريعة منبثقة مع توجيهات بشأن استكمال النشاط."
           }
         },
@@ -122,8 +122,8 @@
             "english": "If an activity has an attachment an icon will appear here. Click to download or display the attachment.",
             "turkish": "Aktivitede bir ek varsa, simge burada görünecektir. İndirmek veya eki görüntülemek için buraya tıklayın.",
             "spanish": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga clic aquí para descargar o visualizar el archivo adjunto.",
+            "spanish-la": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga click aquí para descargar o visualizar el archivo adjunto.",
             "portuguese": "Se uma atividade possuir um anexo, um ícone aparecerá aqui. Clique para realizar o download ou para exibir o anexo.",
-            "spanish-la": "",
             "arabic": "في حالة احتواء النشاط على مرفق، فستظهر أيقونة هنا. انقر لتحميل أو عرض المرفق."
           }
         },
@@ -135,8 +135,8 @@
             "english": "A student can check their answers when they have answered all questions in an activity.",
             "turkish": "Öğrenci aktivitedeki tüm soruları cevapladıktan sonra cevaplarını kontrol edebilir.",
             "spanish": "El estudiante puede revisar sus respuestas cuando se hayan contestado todas las preguntas en una actividad.",
+            "spanish-la": "El estudiante puede revisar sus respuestas cuando se hayan contestado todas las preguntas en una actividad.",
             "portuguese": "Um aluno pode conferir suas respostas após responder a todas as perguntas em uma atividade.",
-            "spanish-la": "",
             "arabic": "يمكن للطالب مراجعة إجاباتهم عندما يجيبون على جميع الأسئلة في نشاط ما."
           }
         },
@@ -148,8 +148,8 @@
             "english": "A student can try again if they answered some questions incorrectly. They can try an activity three times.",
             "turkish": "Öğrenci bazı soruları yanlış cevapladıysa tekrar deneyebilir. Bir aktiviteyi üç kez deneme hakkına sahipler.",
             "spanish": "El estudiante puede intentarlo de nuevo si ha contestado algunas preguntas de forma incorrecta. Tiene tres intentos por cada actividad.",
+            "spanish-la": "El estudiante puede intentarlo de nuevo si ha contestado algunas preguntas de forma incorrecta. Tiene tres intentos por cada actividad.",
             "portuguese": "Um aluno pode tentar realizar uma atividade novamente caso tenha respondido a algumas perguntas de forma incorreta. Você pode tentar realizar cada atividade três vezes.",
-            "spanish-la": "",
             "arabic": "يمكن للطالب المحاول مرة أخرى في حالة الإجابة على بعض الأسئلة بشكل غير صحيح. يمكنهم أن يحاول في نشاط ما ثلاث مرات."
           }
         },
@@ -161,8 +161,8 @@
             "english": "If a student answers some questions incorrectly they can see the correct answers.",
             "turkish": "Öğrenci sorulardan bazılarını yanlış cevaplarsa doğru cevapları görebilir.",
             "spanish": "Si el estudiante responde a algunas preguntas de forma incorrecta podrá ver las respuestas correctas.",
+            "spanish-la": "Si el estudiante responde a algunas preguntas de forma incorrecta podrá ver las respuestas correctas.",
             "portuguese": "Se um aluno responder algumas perguntas incorretamente, ele poderá visualizar as respostas corretas.",
-            "spanish-la": "",
             "arabic": "إذا أجاب الطالب على بعض الأسئلة بشكل غير صحيح فبإمكانه رؤية الإجابات الصحيحة."
           }
         },
@@ -174,8 +174,8 @@
             "english": "A Picture Glossary can be accessed here, if available. The Picture Glossary contains core level vocabulary.",
             "turkish": "Varsa, Resimli Sözlüğe buradan ulaşılabilir. Resimli Sözlük seviyedeki temel kelimeleri içerir.",
             "spanish": "Aquí se puede acceder al Glosario ilustrado, en caso de estar disponible. El Glosario ilustrado contiene vocabulario de nivel básico.",
+            "spanish-la": "Aquí se puede acceder al Glosario ilustrado, en caso de estar disponible. El Glosario ilustrado contiene vocabulario de nivel básico.",
             "portuguese": "Um glossário de imagens pode ser acessado aqui, caso disponível. O glossário de imagens contém um vocabulário com todas as palavras principais.",
-            "spanish-la": "",
             "arabic": "يمكن الدخول إلى مسرد الصور من هنا، إن وجد. يحتوي مسرد الصور على المفردات الأساسية الخاصة بمستوى ما."
           }
         },
@@ -187,8 +187,8 @@
             "english": "Students can access their Reports here. Teachers must access students’ Reports from the Home page.",
             "turkish": "-",
             "spanish": "-",
+            "spanish-la": "-",
             "portuguese": "-",
-            "spanish-la": "",
             "arabic": "-"
           }
         }
