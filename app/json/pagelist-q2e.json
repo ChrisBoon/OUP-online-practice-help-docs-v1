@@ -14,7 +14,7 @@
           "english": "Registration",
           "turkish": "Kayıt",
           "spanish-la": "",
-          "arabic" "التسجيل"
+          "arabic": "التسجيل"
         },
         "id": "adult-teacher-registration-v1_0_0"
       },
@@ -24,7 +24,7 @@
           "english": "Home",
           "turkish": "Anasayfa",
           "spanish-la": "",
-          "arabic" "الصفحة الرئيسية"
+          "arabic": "الصفحة الرئيسية"
         },
         "id": "adult-teacher-home-v1_0_0"
       },
@@ -34,7 +34,7 @@
           "english": "Manage Classes",
           "turkish": "Sınıfları Yönet",
           "spanish-la": "",
-          "arabic" "إدارة الفصول"
+          "arabic": "إدارة الفصول"
         },
         "id": "adult-teacher-manageclasses-v1_0_0"
       },
@@ -44,7 +44,7 @@
           "english": "Manage Attempts",
           "turkish": "-",
           "spanish-la": "",
-          "arabic" "-"
+          "arabic": "-"
         },
         "id": "adult-teacher-manageattempts-v1_0_0"
       },
@@ -54,7 +54,7 @@
           "english": "Class Details",
           "turkish": "Sınıf Ayrıntıları",
           "spanish-la": "",
-          "arabic" "تفاصيل الفصل"
+          "arabic": "تفاصيل الفصل"
         },
         "id": "adult-teacher-classdetails-v1_0_0"
       },
@@ -64,7 +64,7 @@
           "english": "Edit Class Name",
           "turkish": "Sınıf Adını Düzenle",
           "spanish-la": "",
-          "arabic" "تحرير اسم الفصل"
+          "arabic": "تحرير اسم الفصل"
         },
         "id": "adult-teacher-classeditname-v1_0_0"
       },
@@ -74,7 +74,7 @@
           "english": "Join an Institution",
           "turkish": "Bir Kuruma Kaydol",
           "spanish-la": "",
-          "arabic" "الانضمام إلى مؤسسة"
+          "arabic": "الانضمام إلى مؤسسة"
         },
         "id": "adult-teacher-joininstitution-v1_0_0"
       },
@@ -84,7 +84,7 @@
           "english": "Hide/Assign Content",
           "turkish": "-",
           "spanish-la": "",
-          "arabic" "-"
+          "arabic": "-"
         },
         "id": "adult-teacher-contentassign-v1_0_0"
       },
@@ -94,7 +94,7 @@
           "english": "Add a New Class",
           "turkish": "Yeni Sınıf Ekle",
           "spanish-la": "",
-          "arabic" "إضافة فصل جديد"
+          "arabic": "إضافة فصل جديد"
         },
         "id": "adult-teacher-addclass-v1_0_0"
       },
@@ -104,7 +104,7 @@
           "english": "Class Summary Report",
           "turkish": "Sınıf Özeti Raporu",
           "spanish-la": "",
-          "arabic" "تقرير موجز الفصل"
+          "arabic": "تقرير موجز الفصل"
         },
         "id": "adult-teacher-reportclasssummary-v1_0_0"
       },
@@ -114,7 +114,7 @@
           "english": "Class Report",
           "turkish": "Sınıf Raporu",
           "spanish-la": "",
-          "arabic" "التقرير الخاص بالفصل"
+          "arabic": "التقرير الخاص بالفصل"
         },
         "id": "adult-teacher-reportclass-v1_0_0"
       },
@@ -124,7 +124,7 @@
           "english": "Student Report",
           "turkish": "Öğrenci Raporu",
           "spanish-la": "",
-          "arabic" "تقرير عن الطالب"
+          "arabic": "تقرير عن الطالب"
         },
         "id": "adult-teacher-reportstudent-v1_0_0"
       },
@@ -134,7 +134,7 @@
           "english": "Achievements",
           "turkish": "Başarılar",
           "spanish-la": "",
-          "arabic" "التحصيل"
+          "arabic": "التحصيل"
         },
         "id": "adult-teacher-dashboard-v1_0_0"
       },
@@ -144,7 +144,7 @@
           "english": "Segment Report",
           "turkish": "-",
           "spanish-la": "",
-          "arabic" "-"
+          "arabic": "-"
         },
         "id": "adult-teacher-reportsegment-v1_0_0"
       },
@@ -154,7 +154,7 @@
           "english": "Unit Report",
           "turkish": "Ünite Raporu",
           "spanish-la": "",
-          "arabic" "تقرير الوحدة"
+          "arabic": "تقرير الوحدة"
         },
         "id": "adult-teacher-reportunit-v1_0_0"
       },
@@ -164,7 +164,7 @@
           "english": "Student Activity Report",
           "turkish": "Öğrenci Aktivite Raporu",
           "spanish-la": "",
-          "arabic" "تقرير نشاط الطالب"
+          "arabic": "تقرير نشاط الطالب"
         },
         "id": "adult-teacher-reportstudentactivity-v1_0_0"
       },
@@ -174,7 +174,7 @@
           "english": "Activities and Resources",
           "turkish": "-",
           "spanish-la": "",
-          "arabic" "-"
+          "arabic": "-"
         },
         "id": "adult-teacher-enteronlinepractice-v1_0_0"
       },
@@ -184,7 +184,7 @@
           "english": "Activities",
           "turkish": "Aktivitler",
           "spanish-la": "",
-          "arabic" "أنشطة"
+          "arabic": "أنشطة"
         },
         "id": "adult-teacher-activities-v1_0_0"
       },
@@ -194,7 +194,7 @@
           "english": "Glossary",
           "turkish": "Sözlük",
           "spanish-la": "",
-          "arabic" "المسرد"
+          "arabic": "المسرد"
         },
         "id": "adult-teacher-glossary-v1_0_0"
       },
@@ -204,7 +204,7 @@
           "english": "Resources",
           "turkish": "Kaynaklar",
           "spanish-la": "",
-          "arabic" "الموارد"
+          "arabic": "الموارد"
         },
         "id": "adult-teacher-resources-v1_0_0"
       },
@@ -214,7 +214,7 @@
           "english": "Media Center",
           "turkish": "Medya Merkezi",
           "spanish-la": "",
-          "arabic" "مركز الوسائط"
+          "arabic": "مركز الوسائط"
         },
         "id": "adult-teacher-media-v1_0_0"
       },
@@ -224,7 +224,7 @@
           "english": "Add a Level",
           "turkish": "Seviye Ekle",
           "spanish-la": "",
-          "arabic" "إضافة مستوى"
+          "arabic": "إضافة مستوى"
         },
         "id": "adult-teacher-addlevel-v1_0_0"
       },
@@ -234,7 +234,7 @@
           "english": "Email",
           "turkish": "Email",
           "spanish-la": "",
-          "arabic" "البريد الإلكتروني"
+          "arabic": "البريد الإلكتروني"
         },
         "id": "adult-teacher-email-v1_0_0"
       },
@@ -244,7 +244,7 @@
           "english": "Discussion Board",
           "turkish": "-",
           "spanish-la": "",
-          "arabic" "-"
+          "arabic": "-"
         },
         "id": "adult-teacher-discussionboard-v1_0_0"
       },
@@ -254,7 +254,7 @@
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
           "spanish-la": "",
-          "arabic" "تحرير الملف الشخصي"
+          "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-teacher-editprofile-v1_0_0"
       }
@@ -275,7 +275,7 @@
           "english": "Registration",
           "turkish": "Kayıt",
           "spanish-la": "",
-          "arabic" "التسجيل"
+          "arabic": "التسجيل"
         },
         "id": "adult-student-registration-v1_0_0"
       },
@@ -285,7 +285,7 @@
           "english": "Home",
           "turkish": "Anasayfa",
           "spanish-la": "",
-          "arabic" "الصفحة الرئيسية"
+          "arabic": "الصفحة الرئيسية"
         },
         "id": "adult-student-home-v1_0_0"
       },
@@ -295,7 +295,7 @@
           "english": "Add a Level",
           "turkish": "Seviye Ekle",
           "spanish-la": "",
-          "arabic" "إضافة مستوى"
+          "arabic": "إضافة مستوى"
         },
         "id": "adult-student-addlevel-v1_0_0"
       },
@@ -305,7 +305,7 @@
           "english": "Activities",
           "turkish": "Aktiviteler",
           "spanish-la": "",
-          "arabic" "أنشطة"
+          "arabic": "أنشطة"
         },
         "id": "adult-student-activities-v1_0_0"
       },
@@ -315,7 +315,7 @@
           "english": "Glossary",
           "turkish": "Sözlük",
           "spanish-la": "",
-          "arabic" "المسرد"
+          "arabic": "المسرد"
         },
         "id": "adult-student-glossary-v1_0_0"
       },
@@ -325,7 +325,7 @@
           "english": "Resources",
           "turkish": "Kaynaklar",
           "spanish-la": "",
-          "arabic" "الموارد"
+          "arabic": "الموارد"
         },
         "id": "adult-student-resources-v1_0_0"
       },
@@ -335,7 +335,7 @@
           "english": "Achievements",
           "turkish": "Başarılar",
           "spanish-la": "",
-          "arabic" "التحصيل"
+          "arabic": "التحصيل"
         },
         "id": "adult-student-dashboard-v1_0_0"
       },
@@ -345,7 +345,7 @@
           "english": "Report",
           "turkish": "Rapor",
           "spanish-la": "",
-          "arabic" "التقرير"
+          "arabic": "التقرير"
         },
         "id": "adult-student-reportprogress-v1_0_0"
       },
@@ -355,7 +355,7 @@
           "english": "Segment Report",
           "turkish": "-",
           "spanish-la": "",
-          "arabic" "-"
+          "arabic": "-"
         },
         "id": "adult-student-reportsegment-v1_0_0"
       },
@@ -365,7 +365,7 @@
           "english": "Email",
           "turkish": "Email",
           "spanish-la": "",
-          "arabic" "البريد الإلكتروني"
+          "arabic": "البريد الإلكتروني"
         },
         "id": "adult-student-email-v1_0_0"
       },
@@ -375,7 +375,7 @@
           "english": "Discussion Board",
           "turkish": "-",
           "spanish-la": "",
-          "arabic" "-"
+          "arabic": "-"
         },
         "id": "adult-student-discussionboard-v1_0_0"
       },
@@ -385,7 +385,7 @@
           "english": "Media Center",
           "turkish": "Medya Merkezi",
           "spanish-la": "",
-          "arabic" "مركز الوسائط"
+          "arabic": "مركز الوسائط"
         },
         "id": "adult-student-media-v1_0_0"
       },
@@ -395,7 +395,7 @@
           "english": "Join a Class",
           "turkish": "Sınıfa Katıl",
           "spanish-la": "",
-          "arabic" "الانضمام إلى فصل"
+          "arabic": "الانضمام إلى فصل"
         },
         "id": "adult-student-classjoin-v1_0_0"
       },
@@ -405,7 +405,7 @@
           "english": "Change Class",
           "turkish": "Sınıf Değiştir",
           "spanish-la": "",
-          "arabic" "تغيير الفصل"
+          "arabic": "تغيير الفصل"
         },
         "id": "adult-student-classchange-v1_0_0"
       },
@@ -415,7 +415,7 @@
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
           "spanish-la": "",
-          "arabic" "تحرير الملف الشخصي"
+          "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-student-editprofile-v1_0_0"
       }
@@ -436,7 +436,7 @@
           "english": "Registration",
           "turkish": "Kayıt",
           "spanish-la": "",
-          "arabic" "التسجيل"
+          "arabic": "التسجيل"
         },
         "id": "adult-admin-registration-v1_0_0"
       },
@@ -446,7 +446,7 @@
           "english": "Home",
           "turkish": "Anasayfa",
           "spanish-la": "",
-          "arabic" "الصفحة الرئيسية"
+          "arabic": "الصفحة الرئيسية"
         },
         "id": "adult-admin-home-v1_0_0"
       },
@@ -456,7 +456,7 @@
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
           "spanish-la": "",
-          "arabic" "تحرير الملف الشخصي"
+          "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-admin-editprofile-v1_0_0"
       }
