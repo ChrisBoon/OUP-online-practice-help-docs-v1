@@ -29,7 +29,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
-            "turkish": "Ders Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
+            "turkish": "Sınıf Özet Raporunu (tüm sınıflarınızın ortalama puanları) görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "spanish_la": "Haga click aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas).",
@@ -42,7 +42,7 @@
           "numberPosLeft": 24,
           "text":{
             "english": "Click here to view the Class Report for the class shown on the right.",
-            "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görüntülemek için buraya tıklayın.",
+            "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase para la clase que se muestra a la derecha.",
             "spanish_la": "Haga click aquí para ver el Informe de la Clase de la clase que se muestra a la derecha.",
             "portuguese": "Clique aqui para visualizar o relatório da turma exibida à direita.",
@@ -55,7 +55,7 @@
           "numberPosLeft": 36,
           "text":{
             "english": "Click here to view the Unit Report for this student.",
-            "turkish": "Bu öğrenciye ait Ünite Raporunu görüntülemek için buraya tıklayın.",
+            "turkish": "Bu öğrenciye ait Ünite Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Unidad para este estudiante.",
             "spanish_la": "Haga click aquí para ver el Informe de Unidad de este estudiante.",
             "portuguese": "Clique aqui para visualizar o relatório da unidade deste aluno.",
@@ -68,7 +68,7 @@
           "numberPosLeft": 48,
           "text":{
             "english": "Click here to view the Lesson Report for this student.",
-            "turkish": "Bu öğrenciye ait Ders Raporunu görüntülemek için buraya tıklayın.",
+            "turkish": "Bu öğrenciye ait Ders Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Lección para este estudiante.",
             "spanish_la": "Haga click aquí para ver el Informe de Lección de este estudiante.",
             "portuguese": "Clique aqui para visualizar o relatório de lição deste aluno.",
@@ -81,7 +81,7 @@
           "numberPosLeft": 68,
           "text":{
             "english": "Use this menu to view the work of a student in another class. Select “All Classes” to go to the Class Summary Report.",
-            "turkish": "Başka sınıftaki bir öğrencinin çalışmasını görüntülemek için bu menüyü kullanın. Ders Özeti Raporuna gitmek için “All Classes” seçeneğini seçin.",
+            "turkish": "Başka sınıftaki bir öğrencinin çalışmasını görmek için bu menüyü kullanın. Sınıf Özet Raporuna gitmek için “All Classes” seçeneğini seçin.",
             "spanish": "Utilice este menú para ver el trabajo de un estudiante en otra clase. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "spanish_la": "Utilice este menú para ver el trabajo de un estudiante en otra clase. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "portuguese": "Utilize este menu para visualizar o trabalho de um aluno em outra aula. Selecione \"All Classes\" para ir para o relatório resumido da turma.",
@@ -94,7 +94,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Use this menu to view the work of a different student for this activity.",
-            "turkish": "Bu aktivite için farklı bir öğrencinin çalışmasını görüntülemek için bu menüyü kullanın.",
+            "turkish": "Bu aktivite için farklı bir öğrencinin çalışmasını görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el trabajo de un estudiante diferente para esta actividad.",
             "spanish_la": "Utilice este menú para ver el trabajo de un estudiante diferente para esta actividad.",
             "portuguese": "Utilize este menu para visualizar o trabalho de um aluno diferente nesta atividade.",
@@ -107,7 +107,7 @@
           "numberPosLeft": 8,
           "text":{
             "english": "Use this menu to view a different unit.",
-            "turkish": "Farklı bir üniteyi görüntülemek için bu menüyü kullanın.",
+            "turkish": "Farklı bir üniteyi görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver una unidad diferente.",
             "spanish_la": "Utilice este menú para ver una unidad diferente.",
             "portuguese": "Utilize este menu para visualizar uma unidade diferente.",
@@ -120,7 +120,7 @@
           "numberPosLeft": 40,
           "text":{
             "english": "Use this menu to view a different lesson.",
-            "turkish": "Farklı bir dersi görüntülemek için bu menüyü kullanın.",
+            "turkish": "Farklı bir dersi görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver una lección diferente.",
             "spanish_la": "Utilice este menú para ver una lección diferente.",
             "portuguese": "Utilize este menu para visualizar uma lição diferente.",
@@ -133,7 +133,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "This score shows the most recent attempt on this activity by the student selected. Please note that for speaking activities that include a voice-record feature, the student’s recordings are not saved.",
-            "turkish": "Bu puan seçilen öğrencinin bu aktivite konusundaki en son girişimini gösterir. Lütfen ses kaydı özelliği içeren konuşma aktivitelerinde öğrencinin kayıtlarının kaydedilmediğini unutmayın.",
+            "turkish": "Bu puan seçilen öğrencinin bu aktivite konusundaki en son denemesini gösterir. Lütfen ses kaydı özelliği içeren konuşma aktivitelerinde öğrencinin kayıtlarının kaydedilmediğini unutmayın.",
             "spanish": "Esta calificación muestra el intento más reciente que el estudiante seleccionado ha realizado para esta actividad. Tenga en cuenta que no se guardan las grabaciones de los estudiantes para las actividades que incluyen una función de grabado de voz.",
             "spanish_la": "Esta calificación muestra el intento más reciente que el estudiante seleccionado ha realizado para esta actividad. Tenga en cuenta que no se guardan las grabaciones de los estudiantes para las actividades que incluyen una función de grabado de voz.",
             "portuguese": "Esta pontuação exibe a tentativa mais recente de realização desta atividade pelo aluno selecionado. Observe que as gravações dos alunos não são armazenadas nas atividades de fala que incluem um recurso de gravação de voz.",
@@ -146,7 +146,7 @@
           "numberPosLeft": 27,
           "text":{
             "english": "This shows the number of times a student has attempted this activity.",
-            "turkish": "Bu, bir öğrencinin bu aktiviteye kaç kere katıldığını gösterir.",
+            "turkish": "Bu, bir öğrencinin bu aktiviteyi kaç kere denediğini gösterir.",
             "spanish": "Aquí se muestra el número de veces que un estudiante ha intentado completar esta actividad.",
             "spanish_la": "Aquí se muestra el número de veces que un estudiante ha intentado completar esta actividad.",
             "portuguese": "Exibe o número de vezes que um aluno tentou realizar esta atividade.",

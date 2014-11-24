@@ -16,7 +16,7 @@
       "imgId": "PTF001.png",
       "pageTitle": {
         "english": "Choose a class",
-        "turkish": "Ders seç",
+        "turkish": "Sınıf seçin",
         "spanish": "Elija una clase",
         "spanish_la": "Elija una clase",
         "portuguese": "Escolha uma turma",
@@ -29,7 +29,7 @@
           "numberPosLeft": 70,
           "text":{
             "english": "Choose a class from the menu.",
-            "turkish": "Menüden bir ders seçin.",
+            "turkish": "Menüden bir sınıf seçin.",
             "spanish": "Elija una clase del menú.",
             "spanish_la": "Elija una clase del menú.",
             "portuguese": "Selecione uma turma a partir do menu.",
@@ -56,7 +56,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "You can create a new post by writing in the Create New Post column. When you click the “Post” button it will appear in the Discussions and Comments list. Any student in your Online Practice class can see your post and reply to it. Students can also write posts and begin discussions.",
-            "turkish": "Yeni Gönderi Oluştur kolonuna yazarak yeni bir gönderi oluşturabilirsiniz. “Post” düğmesine tıkladığınızda Tartışmalar ve Yorumlar listesinde görüntülenir. Çevrim İçi Uygulama dersinizdeki tüm öğrenciler gönderinizi görebilir ve yanıtlayabilir. Öğrenciler de gönderi yazabilir ve tartışma başlatabilir.",
+            "turkish": "Yeni Gönderi Oluştur sütununa yazarak yeni bir gönderi oluşturabilirsiniz. “Post” düğmesine tıkladığınızda gönderiniz Tartışmalar ve Yorumlar listesinde görüntülenir. Online Uygulama sınıfınızdaki tüm öğrenciler gönderinizi görebilir ve yanıtlayabilir. Öğrenciler de gönderi yazabilir ve tartışma başlatabilir.",
             "spanish": "Puede crear un nuevo mensaje escribiendo en la columna de Create New Post [Crear Nuevo Mensaje]. Al hacer clic en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Cualquier estudiante en su clase de Práctica Online podrá ver su mensaje y responder. Los estudiantes también pueden escribir mensajes y comenzar las discusiones.",
             "spanish_la": "Puede crear un nuevo mensaje escribiendo en la columna de Create New Post [Crear Nuevo Mensaje]. Al hacer click en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Cualquier estudiante en su clase de Práctica Online podrá ver su mensaje y responder. Los estudiantes también pueden escribir mensajes y comenzar las discusiones.",
             "portuguese": "Você pode criar uma nova postagem escrevendo na coluna “Create New Post”. Quando você clicar no botão \"Post\" ela aparecerá na lista “Discussions and Comments”. Qualquer aluno em sua turma do Online Practice poderá visualizar sua postagem e responder a ela. Os alunos também podem escrever postagem e iniciar discussões.",
@@ -82,7 +82,7 @@
           "numberPosLeft": 41,
           "text":{
             "english": "This is where you can view and reply to all of the current posts.",
-            "turkish": "Güncel gönderilerin tümünü burada görüntüleyebilir ve yanıtlayabilirsiniz.",
+            "turkish": "Güncel gönderilerin tümünü burada görebilir ve yanıtlayabilirsiniz.",
             "spanish": "Aquí podrá ver y responder todos los mensajes actuales.",
             "spanish_la": "Aquí podrá ver y responder todos los mensajes actuales.",
             "portuguese": "Este é o lugar onde você pode visualizar e responder a todas as postagens atuais.",
@@ -95,7 +95,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Click “Post” to add a post to the column on the right.",
-            "turkish": "Gönderiyi sağdaki kolona eklemek için “Post” seçeneğine tıklayın.",
+            "turkish": "Gönderiyi sağdaki sütuna eklemek için “Post” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Post\" para añadir un mensaje a la columna de la derecha.",
             "spanish_la": "Haga click en \"Post\" para añadir un mensaje a la columna de la derecha.",
             "portuguese": "Clique em “Post” para adicionar a postagem na coluna à direita.",
@@ -108,7 +108,7 @@
           "numberPosLeft": 39,
           "text":{
             "english": "Click “Show” to view your students' replies to a post.",
-            "turkish": "Öğrencilerinizin gönderiye yanıtlarını görüntülemek için “Show” seçeneğine tıklayın.",
+            "turkish": "Öğrencilerinizin gönderiye yanıtlarını görmek için “Show” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Show\" para ver las respuestas de los alumnos a un mensaje.",
             "spanish_la": "Haga click en \"Show\" para ver las respuestas de los alumnos a un mensaje.",
             "portuguese": "Clique em “Show” para visualizar as respostas dos seus alunos a uma postagem.",
@@ -148,7 +148,7 @@
       "imgId": "PTF003.png",
       "pageTitle": {
         "english": "Reply to or delete posts",
-        "turkish": "Gönderileri yanıtla ya da sil",
+        "turkish": "Gönderileri yanıtlayın ya da silin",
         "spanish": "Responder o borrar mensajes",
         "spanish_la": "Responder o borrar mensajes",
         "portuguese": "Responder ou remover postagens",

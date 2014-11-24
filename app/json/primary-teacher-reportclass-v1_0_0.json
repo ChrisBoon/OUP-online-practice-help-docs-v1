@@ -29,7 +29,7 @@
           "numberPosLeft": 31,
           "text":{
             "english": "This screen shows reports for all students in a class.",
-            "turkish": "Bu ekran bir dersteki tüm öğrencilerin raporlarını gösterir.",
+            "turkish": "Bu ekran bir sınıftaki tüm öğrencilerin raporlarını gösterir.",
             "spanish": "Esta pantalla muestra los informes para todos los estudiantes en una clase.",
             "spanish_la": "Esta pantalla muestra los informes para todos los estudiantes en una clase.",
             "portuguese": "Esta tela exibe os relatórios sobre todos os alunos que participam de uma determinada turma.",
@@ -42,7 +42,7 @@
           "numberPosLeft": 72,
           "text":{
             "english": "Use this menu to see a report for a different class.",
-            "turkish": "Farklı derse ait bir rapor görüntülemek için bu menüyü kullanın.",
+            "turkish": "Farklı sınıfa ait bir rapor görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un informe para una clase diferente.",
             "spanish_la": "Utilice este menú para ver un informe de una clase diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de uma turma diferente.",
@@ -68,7 +68,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "You can also click on a student’s name to see their results across lessons and units.",
-            "turkish": "Ayrıca bir öğrencinin adına tıklayarak tüm konu ve ünitelerdeki sonuçlarını görüntüleyebilirsiniz.",
+            "turkish": "Ayrıca bir öğrencinin adına tıklayarak tüm derslerdeki ve ünitelerdeki sonuçlarını görüntüleyebilirsiniz.",
             "spanish": "También puede hacer clic en el nombre del estudiante para ver sus resultados en las diferentes lecciones y unidades.",
             "spanish_la": "También puede hacer click en el nombre del estudiante para ver sus resultados en las diferentes lecciones y unidades.",
             "portuguese": "Você também pode clicar no nome do aluno para visualizar os resultados obtidos nas lições e unidades.",
@@ -107,7 +107,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average number of completed activities in each unit for the class.",
-            "turkish": "Bu satır dersteki her bir ünitede tamamlanan ortalama aktivite sayısını gösterir.",
+            "turkish": "Bu satır sınıftaki her bir ünitede tamamlanan ortalama aktivite sayısını gösterir.",
             "spanish": "Esta fila muestra el número promedio de actividades realizadas en cada unidad de la clase.",
             "spanish_la": "Esta fila muestra el número promedio de actividades realizadas en cada unidad de la clase.",
             "portuguese": "Esta linha exibe o número médio de atividades concluídas em cada unidade para a turma.",
@@ -120,7 +120,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average total score for activities in a unit for the class.",
-            "turkish": "Bu satır dersteki her bir ünitedeki aktivitelerin ortalama toplam puanını gösterir.",
+            "turkish": "Bu satır sınıftaki her bir ünitedeki aktivitelerin ortalama toplam puanını gösterir.",
             "spanish": "Esta línea muestra la puntuación total media para las actividades de una unidad de la clase.",
             "spanish_la": "Esta línea muestra la puntuación total media para las actividades de una unidad de la clase.",
             "portuguese": "Esta linha exibe a pontuação média total das atividades em cada unidade para a turma.",
@@ -133,7 +133,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average time spent on activities in a unit for the class.",
-            "turkish": "Bu satır dersin bir ünitesinde aktiviteler için harcanan ortalama süreyi gösterir.",
+            "turkish": "Bu satır sınıfın ünitedeki aktiviteler için harcadığı ortalama süreyi gösterir.",
             "spanish": "Esta fila muestra el tiempo medio empleado en las actividades de una unidad de la clase.",
             "spanish_la": "Esta fila muestra el tiempo medio empleado en las actividades de una unidad de la clase.",
             "portuguese": "Esta linha exibe o tempo médio gasto nas atividades em cada unidade para a turma.",

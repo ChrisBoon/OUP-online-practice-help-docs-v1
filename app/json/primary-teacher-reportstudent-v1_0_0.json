@@ -29,7 +29,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
-            "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
+            "turkish": "Sınıf Özet Raporunu (tüm sınıflarınızın ortalama puanları) görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe del Resumen de la Clase (puntuación media en todas sus clases).",
             "spanish_la": "Haga click aquí para ver el Informe del Resumen de la Clase (puntuación media en todas sus clases).",
             "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas).",
@@ -42,7 +42,7 @@
           "numberPosLeft": 23,
           "text":{
             "english": "Click here to view the Class Report for the class shown in the menu on the right.",
-            "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görüntülemek için buraya tıklayın.",
+            "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase que se muestra en el menú de la derecha.",
             "spanish_la": "Haga click aquí para ver el Informe de la Clase que se muestra en el menú de la derecha.",
             "portuguese": "Clique aqui para visualizar o relatório da turma exibida no menu à direita.",
@@ -55,7 +55,7 @@
           "numberPosLeft": 73,
           "text":{
             "english": "Use this menu to view the Class Report for a different class. Select “All Classes” to go to the Class Summary Report.",
-            "turkish": "Farklı bir derse ait bir Ders Raporu görüntülemek için bu menüyü kullanın. Ders Özeti Raporuna gitmek için “All Classes” seçeneğini seçin.",
+            "turkish": "Farklı bir sınıfa ait bir Sınıf Raporu görmek için bu menüyü kullanın. Sınıf Özet Raporuna gitmek için “All Classes” seçeneğini seçin.",
             "spanish": "Utilice este menú para ver el Informe de Clase para una clase diferente. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "spanish_la": "Utilice este menú para ver el Informe de Clase de una clase diferente. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "portuguese": "Utilize este menu para visualizar o relatório de uma turma diferente. Selecione \"All Classes\" para ir para o relatório resumido da turma.",
@@ -68,7 +68,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to view the Student Report for a different student in this class.",
-            "turkish": "Bu sınıftaki farklı bir öğrenciye ait Öğrenci Raporunu görüntülemek için bu menüyü kullanın.",
+            "turkish": "Bu sınıftaki farklı bir öğrenciye ait Öğrenci Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el Informe del Estudiante para otro estudiante de esta clase.",
             "spanish_la": "Utilice este menú de ver el Informe del Estudiante para otro estudiante de esta clase.",
             "portuguese": "Utilize este menu para visualizar o relatório de um aluno diferente nesta turma.",
@@ -94,7 +94,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to see a student’s results for a specific unit or all units.",
-            "turkish": "Bir öğrencinin belli bir ünite ya da tüm üniteler için sonuçlarını görüntülemek için bu menüyü kullanın.",
+            "turkish": "Bir öğrencinin belli bir ünite ya da tüm üniteler için sonuçlarını görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver los resultados de un estudiante para una unidad específica o todas las unidades.",
             "spanish_la": "Utilice este menú para ver los resultados de un estudiante en una unidad específica o todas las unidades.",
             "portuguese": "Utilize este menu para visualizar os resultados de um aluno em uma unidade específica ou em todas as unidades.",
@@ -107,7 +107,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "You can also click on a unit title to view a student’s Unit Report.",
-            "turkish": "Öğrencinin Ünite Raporunu görüntülemek için ünite başlığına da tıklayabilirsiniz.",
+            "turkish": "Öğrencinin Ünite Raporunu görmek için ünite başlığına da tıklayabilirsiniz.",
             "spanish": "También puede hacer clic en el título de una unidad para ver el Informe de Unidad de un estudiante.",
             "spanish_la": "También puede hacer click en el título de una unidad para ver el Informe de Unidad de un estudiante.",
             "portuguese": "Você também pode clicar no título de uma unidade para visualizar o relatório da unidade de um aluno.",
@@ -120,7 +120,7 @@
           "numberPosLeft": 29.5,
           "text":{
             "english": "Click on a lesson title to view the student’s work in this lesson.",
-            "turkish": "Öğrencinin bu dersteki çalışmasını görüntülemek için bir konu başlığına tıklayın.",
+            "turkish": "Öğrencinin bu dersteki çalışmasını görmek için bir konu başlığına tıklayın.",
             "spanish": "Haga clic en el título de la lección para ver el trabajo del estudiante en esta lección.",
             "spanish_la": "Haga click en el título de la lección para ver el trabajo del estudiante en esta lección.",
             "portuguese": "Clique no título de uma lição para visualizar o trabalho de um aluno.",
@@ -198,7 +198,7 @@
           "numberPosLeft": 17,
           "text":{
             "english": "This is the total time taken on all activities in a unit.",
-            "turkish": "Bu, bir ünitedeki tüm aktivitelerde harcadığınız toplam süredir.",
+            "turkish": "Bu, bir ünitedeki tüm aktivitelerde harcanan toplam süredir.",
             "spanish": "Este es el tiempo total dedicado a todas las actividades en una unidad.",
             "spanish_la": "Este es el tiempo total dedicado a todas las actividades en una unidad.",
             "portuguese": "Este é o tempo total gasto em todas as atividades de uma unidade.",

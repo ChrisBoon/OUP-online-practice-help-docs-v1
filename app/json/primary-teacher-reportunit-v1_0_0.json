@@ -29,7 +29,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
-            "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
+            "turkish": "Sınıf Özet Raporunu (tüm sınıflarınızın ortalama puanları) görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "spanish_la": "Haga click aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas).",
@@ -42,7 +42,7 @@
           "numberPosLeft": 23,
           "text":{
             "english": "Click here to view the Class Report.",
-            "turkish": "Sınıf Raporunu görüntülemek için buraya tıklayın.",
+            "turkish": "Sınıf Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase.",
             "spanish_la": "Haga click aquí para ver el Informe de la Clase.",
             "portuguese": "Clique aqui para visualizar o relatório da turma.",
@@ -55,7 +55,7 @@
           "numberPosLeft": 72,
           "text":{
             "english": "Use this menu to view a Unit Report for a different class.",
-            "turkish": "Farklı bir derse ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
+            "turkish": "Farklı bir sınıfa ait Ünite Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un Informe de Unidad para una clase diferente.",
             "spanish_la": "Utilice este menú para ver un Informe de Unidad de una clase diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de uma turma diferente.",
@@ -68,7 +68,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to view a Unit Report for a different student.",
-            "turkish": "Farklı bir öğrenciye ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
+            "turkish": "Farklı bir öğrenciye ait Ünite Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un Informe de Unidad para un estudiante diferente.",
             "spanish_la": "Utilice este menú para ver un Informe de Unidad de un estudiante diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de unidade de um aluno diferente.",
@@ -81,7 +81,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to view the Unit Report for a different unit.",
-            "turkish": "Farklı bir üniteye ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
+            "turkish": "Farklı bir üniteye ait Ünite Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el Informe de Unidad para una unidad diferente.",
             "spanish_la": "Utilice este menú para ver el Informe de Unidad de una unidad diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de unidade de uma unidade diferente.",
@@ -94,7 +94,7 @@
           "numberPosLeft": 42,
           "text":{
             "english": "Click here to view this student’s work for this lesson.",
-            "turkish": "Bu öğrencinin bu konuyla ilgili çalışmasını görüntülemek için buraya tıklayın.",
+            "turkish": "Bu öğrencinin bu dersle ilgili çalışmasını görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el trabajo de este estudiante para esta lección.",
             "spanish_la": "Haga click aquí para ver el trabajo de este estudiante para esta lección.",
             "portuguese": "Clique aqui para visualizar o trabalho realizado por este aluno nesta lição.",
@@ -120,7 +120,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the total number of times this student attempted each activity in this unit. The . symbol means that attempts are not recorded for the activity.",
-            "turkish": "Bu satır öğrencinin bu ünitedeki her bir aktiviteyi toplam deneme sayısını gösterir. “.” sembolü aktivite için deneme kaydedilmediğini ifade eder.",
+            "turkish": "Bu satır öğrencinin bu ünitedeki her bir aktiviteyi toplam deneme sayısını gösterir. “.” sembolü aktivite için denemelerin kaydedilmediğini ifade eder.",
             "spanish": "Esta fila muestra el número total de veces que este estudiante ha intentado completar cada actividad en esta unidad. El símbolo significa que no se registran los intentos para la actividad.",
             "spanish_la": "Esta fila muestra el número total de veces que este estudiante ha intentado completar cada actividad en esta unidad. El símbolo significa que no se registran los intentos para la actividad.",
             "portuguese": "Esta linha exibe o número de vezes que um aluno tentou realizar cada atividade nesta unidade. O símbolo . significa que as tentativas não são registradas para a atividade.",

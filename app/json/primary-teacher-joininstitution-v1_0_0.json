@@ -29,7 +29,7 @@
           "numberPosLeft": 5,
           "text":{
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. The administrator will be able to see reports for the Online Practice classes of all teachers who have joined the Online Practice institution. If you do not have an institution ID code, click “Cancel”.",
-            "turkish": "Bir kurum ID kodunuz varsa, buraya girin. Bu yöneticinizin size verebileceği bir koddur. Bu kod ders kayıtlarınızı okul ya da kuruma iletmenizi sağlar. Yönetici, Çevrim İçi Uygulama kurumuna katılan tüm öğretmenlerin Çevrim İçi Uygulama derslerine ait raporlarını görüntüleyebilir. Bir kurum ID kodunuz yoksa, “Cancel” seçeneğine tıklayın.",
+            "turkish": "Bir kurum kimlik (ID) kodunuz varsa, buraya girin. Bu yöneticinizin size verebileceği bir koddur. Bu kod ders kayıtlarınızı okul ya da kuruma iletmenizi sağlar. Yönetici, Online Uygulama kurumuna katılan tüm öğretmenlerin Online Uygulama derslerine ait raporlarını görebilir. Bir kurum ID kodunuz yoksa, “Cancel” seçeneğine tıklayın.",
             "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. El administrador podrá ver los informes para las clases de Práctica Online de todos los profesores que se hayan inscrito a la institución de Práctica Online. Si no tiene un código de ID de institución, haga clic en \"Cancel\".",
             "spanish_la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. El administrador podrá ver los informes para las clases de Práctica Online de todos los profesores que se hayan inscrito a la institución de Práctica Online. Si no tiene un código de ID de institución, haga clic en \"Cancel\".",
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de turma com sua escola ou instituição. O administrador será capaz de visualizar os relatórios das turmas de todos os professores que participam do Online Practice. Caso você não tenha um código de identificação da instituição, clique em \"Cancel\".",
@@ -42,7 +42,7 @@
           "numberPosLeft": 20,
           "text":{
             "english": "Click here to submit your institution ID code and return to the Class Details page.",
-            "turkish": "Kurum ID kodunuzu göndermek ve Sınıf Ayrıntıları sayfasına dönmek için buraya tıklayın.",
+            "turkish": "Kurum ID kodunuzu göndermek ve Sınıf Bilgileri sayfasına dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su código de ID de institución y volver a la página de Detalles de la Clase.",
             "spanish_la": "Haga click aquí para enviar su código de ID de institución y volver a la página de Detalles de la Clase.",
             "portuguese": "Clique aqui para enviar seu código de identificação da instituição e para voltar para a página dados da turma.",

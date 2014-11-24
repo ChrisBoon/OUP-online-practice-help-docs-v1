@@ -29,7 +29,7 @@
           "numberPosLeft": 22,
           "text":{
             "english": "This is the Teacher Resources area. Where available, this area will provide supporting material for you and your students when using Online Practice. Resources displayed for teachers may be different from students’ resources.",
-            "turkish": "Burası Öğretmen Kaynakları alanıdır. Varsa, Çevrim İçi Uygulamayı kullanırken kendiniz ve öğrencileriniz için destekleyici materyalleri burada bulabilirsiniz. Öğretmenler için görüntülenen kaynaklar öğrencilerinkinden farklı olabilir.",
+            "turkish": "Burası Öğretmen Kaynakları alanıdır. Varsa, Online Uygulamayı kullanırken kendiniz ve öğrencileriniz için destekleyici materyalleri burada bulabilirsiniz. Öğretmenler için görüntülenen kaynaklar öğrencilerinkinden farklı olabilir.",
             "spanish": "Esta es el área de Recursos para Profesores. Cuando esté disponible, esta área proporcionará material de apoyo para usted y sus estudiantes al utilizar Práctica Online. Los recursos que se muestran para los profesores pueden ser diferentes de los que se muestran a los estudiantes.",
             "spanish_la": "Esta es el área de Recursos para Profesores. Cuando esté disponible, esta área proporcionará material de apoyo para usted y sus estudiantes al utilizar Práctica Online. Los recursos que se muestran para los profesores pueden ser diferentes de los que se muestran a los estudiantes.",
             "portuguese": "Esta é a área de recursos do professor. Quando disponível, esta área fornecerá o material de apoio necessário para que você e seus alunos utilizem o Online Practice. Os recursos disponíveis para os professores podem ser diferentes dos disponibilizados para os alunos.",
@@ -55,7 +55,7 @@
           "numberPosLeft": 23,
           "text":{
             "english": "Click on an audio track title to play the file in your browser. Use the controls to play, pause and adjust the volume.",
-            "turkish": "Tarayıcınızdaki dosyayı oynatmak için ses parçası başlığına tıklayın. Oynatmak, durdurmak ve sesi ayarlamak için kontrolleri kullanın.",
+            "turkish": "Tarayıcınızdaki dosyayı oynatmak için ses parçası başlığına tıklayın. Çalmak, durdurmak ve sesi ayarlamak için kontrol düğmelerini kullanın.",
             "spanish": "Haga clic en el título de una pista de audio para reproducir el archivo en su navegador. Utilice los controles para reproducir, pausar y ajustar el volumen.",
             "spanish_la": "Haga click en el título de una pista de audio para reproducir el archivo en su navegador. Utilice los controles para reproducir, pausar y ajustar el volumen.",
             "portuguese": "Clique no título de uma faixa de áudio para reproduzir o arquivo no navegador. Use os controles para reproduzir, pausar e ajustar o volume.",

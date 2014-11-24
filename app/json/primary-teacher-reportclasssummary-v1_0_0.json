@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Class Summary Report",
-    "turkish": "Ders Özeti Raporu",
+    "turkish": "Sınıf Özeti Raporu",
     "spanish": "Informe de Resumen de Clase",
     "spanish_la": "Informe de Resumen de Clase",
     "portuguese": "Relatório resumido da turma",
@@ -29,7 +29,7 @@
           "numberPosLeft": 73,
           "text":{
             "english": "Use the menu to go to the Class Report for a specific class (you can view the work of specific students in a class).",
-            "turkish": "Belli bir dersin Ders Raporuna gitmek için bu menüyü kullanın (bir dersteki belli öğrencilerin çalışmasını görüntüleyebilirsiniz).",
+            "turkish": "Belli bir dersin Sınıf Raporuna gitmek için bu menüyü kullanın (bir sınıftaki belli öğrencilerin çalışmasını görüntüleyebilirsiniz).",
             "spanish": "Utilice el menú para ir al Informe de la Clase para una clase específica (puede ver el trabajo de los estudiantes específicos de una clase).",
             "spanish_la": "Utilice el menú para ir al Informe de la Clase de una clase específica (puede ver el trabajo de los estudiantes específicos de una clase).",
             "portuguese": "Use o menu para ir de um relatório de turma para uma aula específica (que você pode visualizar o trabalho de alunos específicos em uma turma).",
@@ -42,7 +42,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "You can also click on a class title to view a class report.",
-            "turkish": "Bir ders raporunu görüntülemek için ders başlığına da tıklayabilirsiniz.",
+            "turkish": "Sınıf raporunu görmek için sınıfın adına da tıklayabilirsiniz.",
             "spanish": "También puede hacer clic en el título de la clase para ver un informe de la clase.",
             "spanish_la": "También puede hacer click en el título de la clase para ver un informe de la clase.",
             "portuguese": "Você também pode clicar no título de uma turma para visualizar o seu relatório.",
@@ -55,7 +55,7 @@
           "numberPosLeft": 38,
           "text":{
             "english": "Click here to view a Unit Report. You can see students’ scores for all lessons in the unit.",
-            "turkish": "Bir Ünite Raporunu görüntülemek için buraya tıklayın. Ünitedeki tüm konular için öğrencilerin puanlarını görebilirsiniz.",
+            "turkish": "Ünite Raporunu görmek için buraya tıklayın. Ünitedeki tüm konular için öğrencilerin puanlarını görebilirsiniz.",
             "spanish": "Haga clic aquí para ver un Informe de la Unidad. Puede ver las puntuaciones de los estudiantes para todas las lecciones de la unidad.",
             "spanish_la": "Haga click aquí para ver un Informe de la Unidad. Puede ver las puntuaciones de los estudiantes para todas las lecciones de la unidad.",
             "portuguese": "Clique aqui para visualizar um relatório de unidade. Você pode visualizar as notas dos alunos em todas as lições da unidade.",
@@ -68,7 +68,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average number of activities completed in each unit for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the unit, and 9 is the total number of activities in the unit.",
-            "turkish": "Bu satır, bu dersteki her bir ünitede tamamlanan ortalama aktivite sayısını gösterir. Örneğin; sayı 8/9 ise, 8 ünitede tamamlanan ortalama aktivite sayısı, 9 ise ünitedeki toplam aktivite sayısıdır.",
+            "turkish": "Bu satır, bu sınıf için her bir ünitede tamamlanan ortalama aktivite sayısını gösterir. Örneğin; sayı 8/9 ise, 8 ünitede tamamlanan ortalama aktivite sayısı, 9 ise ünitedeki toplam aktivite sayısıdır.",
             "spanish": "Esta fila muestra el número medio de las actividades realizadas para cada unidad de esta clase. Por ejemplo, si el número es 8/9, 8 es el número promedio de actividades realizadas en la unidad, y 9 es el número total de actividades en la unidad.",
             "spanish_la": "Esta fila muestra el número medio de las actividades realizadas para cada unidad de esta clase. Por ejemplo, si el número es 8/9, 8 es el número promedio de actividades realizadas en la unidad, y 9 es el número total de actividades en la unidad.",
             "portuguese": "Esta linha exibe o número médio de atividades concluídas em cada unidade a esta turma. Por exemplo, se o número for 8/9, 8 é o número médio de atividades completadas na unidade, e 9 é o número total de atividades na unidade.",
@@ -94,7 +94,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average amount of time students in this class worked on each unit.",
-            "turkish": "Bu satır, bu dersteki öğrencilerin her bir ünitede çalıştığı ortalama süreyi gösterir.",
+            "turkish": "Bu satır, bu sınıftaki öğrencilerin her bir ünitede çalıştığı ortalama süreyi gösterir.",
             "spanish": "Esta fila muestra la cantidad promedio de tiempo que los estudiantes de esta clase han trabajado en cada unidad.",
             "spanish_la": "Esta fila muestra la cantidad promedio de tiempo que los estudiantes de esta clase han trabajado en cada unidad.",
             "portuguese": "Esta linha exibe a quantidade média de tempo que os alunos desta turma gastaram em cada unidade.",
@@ -107,7 +107,7 @@
           "numberPosLeft": 23,
           "text":{
             "english": "This is the total of the average number of activities completed in the entire level for this class. For example, if the number is 80/90, 80 is the total of the average number of activities completed across units, and 90 is the total number of activities in the level.",
-            "turkish": "Bu ders için bütün seviye boyunca tamamlanan ortalama aktivite sayısının toplamıdır. Örneğin; bu sayı 80/90 ise, 80 ünitelerde tamamlanan ortalama aktivite sayısı toplamı, 90 ise seviyedeki toplam aktivite sayısıdır.",
+            "turkish": "Bu sınıf için bütün seviye boyunca tamamlanan ortalama aktivite sayısının toplamıdır. Örneğin; bu sayı 80/90 ise, 80 ünitelerde tamamlanan ortalama aktivite sayısı toplamı, 90 ise seviyedeki toplam aktivite sayısıdır.",
             "spanish": "Este es el total del número promedio de actividades realizadas en todo el nivel para esta clase. Por ejemplo, si el número es 80/90, 80 es el total del número promedio de actividades realizadas en las distintas unidades, y 90 es el número total de actividades en el nivel.",
             "spanish_la": "Este es el total del número promedio de actividades realizadas en todo el nivel para esta clase. Por ejemplo, si el número es 80/90, 80 es el total del número promedio de actividades realizadas en las distintas unidades, y 90 es el número total de actividades en el nivel.",
             "portuguese": "Este é o total do número médio de atividades concluídas durante todo o nível desta turma. Por exemplo, se o número é 80/90, 80 é a soma do número médio de atividades entre as unidades concluídas, e 90 é o número total de atividades presentes no nível.",

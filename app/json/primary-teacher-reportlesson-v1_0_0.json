@@ -29,7 +29,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
-            "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
+            "turkish": "Sınıf Özet Raporunu (tüm sınıflarınızın ortalama puanları) görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "spanish_la": "Haga click aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas).",
@@ -55,7 +55,7 @@
           "numberPosLeft": 73,
           "text":{
             "english": "Use this menu to view a Unit Report for a different class.",
-            "turkish": "Farklı bir sınıfa ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
+            "turkish": "Farklı bir sınıfa ait Ünite Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un Informe de Unidad para una clase diferente.",
             "spanish_la": "Utilice este menú para ver un Informe de Unidad de una clase diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de uma turma diferente.",
@@ -68,7 +68,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to view a Unit Report for a different student.",
-            "turkish": "Farklı bir öğrenciye ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
+            "turkish": "Farklı bir öğrenciye ait Ünite Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un Informe de Unidad para un estudiante diferente.",
             "spanish_la": "Utilice este menú para ver un Informe de Unidad de un estudiante diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de unidade de um aluno diferente.",
@@ -107,7 +107,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows this student’s score on each activity in this lesson. It shows the score for the student’s last attempt on the activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The . symbol means that the activity does not have a score.",
-            "turkish": "Bu satır öğrencinin bu konuda yer alan her bir aktivite puanını gösterir. Öğrencinin aktivitedeki en son denemesinde elde ettiği puanı gösterir. Örneğin; puan 8/10 ise, 8 öğrencinin doğru yanıtladığı öğe (soru) sayısı, 10 ise aktivitedeki toplam öğe sayısıdır. “.” sembolü aktivitenin bir puanı olmadığını ifade eder.",
+            "turkish": "Bu satır öğrencinin bu konuda yer alan her bir aktivite puanını gösterir. Öğrencinin aktivitedeki en son denemesinde elde ettiği puan gösterilir. Örneğin; puan 8/10 ise, 8 öğrencinin doğru yanıtladığı öğe (soru) sayısı, 10 ise aktivitedeki toplam öğe sayısıdır. “.” sembolü aktivitenin bir puanı olmadığını ifade eder.",
             "spanish": "Esta fila muestra la calificación de este estudiante para cada actividad en esta lección. Muestra la puntuación para el último intento del estudiante en la actividad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el alumno contestó correctamente, y 10 es el número total de elementos en la actividad. El símbolo significa que la actividad no tiene una puntuación.",
             "spanish_la": "Esta fila muestra la calificación de este estudiante para cada actividad en esta lección. Muestra la puntuación para el último intento del estudiante en la actividad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el alumno contestó correctamente, y 10 es el número total de elementos en la actividad. El símbolo significa que la actividad no tiene una puntuación.",
             "portuguese": "Esta linha exibe a pontuação deste aluno em cada atividade nesta lição. Ela exibe a pontuação recebida durante a última tentativa de realização da atividade pelo aluno. Por exemplo, se o resultado é 8/10, 8 é o número de itens (questões) que o aluno respondeu corretamente, e 10 é o número total de itens na atividade. O símbolo . significa que a atividade não possui uma pontuação.",
@@ -172,7 +172,7 @@
           "numberPosLeft": 25,
           "text":{
             "english": "This is the total amount of time this student spent on this lesson.",
-            "turkish": "Öğrencinin bu konuda harcadığı toplam süredir.",
+            "turkish": "Bu, bu öğrencinin bu derste harcadığı toplam süreyi gösterir.",
             "spanish": "Esta es la cantidad total de tiempo que el estudiante ha empleado para esta lección.",
             "spanish_la": "Esta es la cantidad total de tiempo que el estudiante ha empleado para esta lección.",
             "portuguese": "Esta é a quantidade total de tempo que este aluno gastou nesta lição.",
@@ -185,7 +185,7 @@
           "numberPosLeft": 55,
           "text":{
             "english": "Click on the + symbol to increase this student’s number of attempts. Each increase will give the student three more attempts.",
-            "turkish": "Öğrencinin deneme sayısını arttırmak için + sembolüne tıklayın. Her bir arttırma öğrenciye 3 deneme hakkı verir.",
+            "turkish": "Öğrencinin deneme sayısını artırmak için + sembolüne tıklayın. Her bir artırma öğrenciye 3 deneme hakkı verir.",
             "spanish": "Haga clic en el símbolo + para aumentar la cantidad de intentos para este estudiante. Cada aumento otorgará tres intentos más al estudiante.",
             "spanish_la": "Haga click en el símbolo + para aumentar la cantidad de intentos para este estudiante. Cada aumento otorgará tres intentos más al estudiante.",
             "portuguese": "Clique no símbolo de + para aumentar o número de tentativas deste aluno. Cada aumento realizado concederá ao aluno mais três tentativas.",
