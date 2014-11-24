@@ -3,6 +3,8 @@
     "english": "Try again! There isn’t a page at the address you chose.",
     "turkish": "Tekrar deneyin! Seçtiğiniz adreste bir sayfa yok.",
     "spanish": "¡Vuelva a intentarlo! No existe una página en la dirección seleccionada.",
+    "spanish_la": "¡Vuelva a intentarlo! No existe una página en la dirección seleccionada.",
+    "portuguese": "Tente novamente! Não existe uma página com o endereço que você escolheu.",
     "arabic": "حاول مرة أخرى! لا توجد صفحة في العنوان الذي اخترته."
   },
   "segment": "all",
@@ -18,7 +20,8 @@
             "english": "Use the slide-out menu to find the page you were looking for, or go to:",
             "turkish": "Aradığınız sayfayı bulmak için sürgülü menüyü kullanın, ya da şuraya gidin:",
             "spanish": "Utilice el menú deslizable para encontrar la página que buscaba, o vaya a:",
-            "spanish_la": "",
+            "spanish_la": "Utilice el menú deslizable para encontrar la página que buscaba, o vaya a:",
+            "portuguese": "Utilize o menu deslizante para encontrar a página que você estava procurando, ou acesse o menu de:",
             "arabic": "استعمل قائمة الشرائح الخارجية للعثور على الصفحة التي تبحث عنها، أو انتقل إلى:"
           }
         },
@@ -27,7 +30,8 @@
             "english": "Online Practice Help",
             "turkish": "Online Uygulama Yardım.",
             "spanish": "Ayuda de la Práctica Online.",
-            "spanish_la": "",
+            "spanish_la": "Ayuda de la Práctica Online.",
+            "portuguese": "ajuda do Online Practice.",
             "arabic": "المساعدة الخاصة بالممارسة عبر شبكة الإنترنت."
           }
         }
