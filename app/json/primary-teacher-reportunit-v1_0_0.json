@@ -3,7 +3,7 @@
     "english": "Unit Report",
     "turkish": "Ünite Raporu",
     "spanish": "Informe de Unidad",
-    "spanish-la": "Informe de Unidad",
+    "spanish_la": "Informe de Unidad",
     "portuguese": "Relatório de unidade",
     "arabic": "تقرير الوحدة"
   },
@@ -18,7 +18,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "portuguese": "",
         "arabic": ""
       },
@@ -31,7 +31,7 @@
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
-            "spanish-la": "Haga click aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
+            "spanish_la": "Haga click aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas).",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
@@ -44,7 +44,7 @@
             "english": "Click here to view the Class Report.",
             "turkish": "Sınıf Raporunu görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase.",
-            "spanish-la": "Haga click aquí para ver el Informe de la Clase.",
+            "spanish_la": "Haga click aquí para ver el Informe de la Clase.",
             "portuguese": "Clique aqui para visualizar o relatório da turma.",
             "arabic": "انقر هنا لعرض التقرير عن الفصل."
           }
@@ -57,7 +57,7 @@
             "english": "Use this menu to view a Unit Report for a different class.",
             "turkish": "Farklı bir derse ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un Informe de Unidad para una clase diferente.",
-            "spanish-la": "Utilice este menú para ver un Informe de Unidad de una clase diferente.",
+            "spanish_la": "Utilice este menú para ver un Informe de Unidad de una clase diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de uma turma diferente.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لفصل مختلف."
           }
@@ -70,7 +70,7 @@
             "english": "Use this menu to view a Unit Report for a different student.",
             "turkish": "Farklı bir öğrenciye ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un Informe de Unidad para un estudiante diferente.",
-            "spanish-la": "Utilice este menú para ver un Informe de Unidad de un estudiante diferente.",
+            "spanish_la": "Utilice este menú para ver un Informe de Unidad de un estudiante diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de unidade de um aluno diferente.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لطالب مختلف."
           }
@@ -83,7 +83,7 @@
             "english": "Use this menu to view the Unit Report for a different unit.",
             "turkish": "Farklı bir üniteye ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el Informe de Unidad para una unidad diferente.",
-            "spanish-la": "Utilice este menú para ver el Informe de Unidad de una unidad diferente.",
+            "spanish_la": "Utilice este menú para ver el Informe de Unidad de una unidad diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de unidade de uma unidade diferente.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لوحدة مختلفة."
           }
@@ -96,7 +96,7 @@
             "english": "Click here to view this student’s work for this lesson.",
             "turkish": "Bu öğrencinin bu konuyla ilgili çalışmasını görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el trabajo de este estudiante para esta lección.",
-            "spanish-la": "Haga click aquí para ver el trabajo de este estudiante para esta lección.",
+            "spanish_la": "Haga click aquí para ver el trabajo de este estudiante para esta lección.",
             "portuguese": "Clique aqui para visualizar o trabalho realizado por este aluno nesta lição.",
             "arabic": "انقر هنا لعرض عمل هذا الطالب الخاص بهذا الدرس."
           }
@@ -109,7 +109,7 @@
             "english": "This row shows this student’s score on each activity in this unit. It shows the score for the student’s last attempt on the activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The . symbol means that the activity does not have a score.",
             "turkish": "Bu satır öğrencinin bu ünitede yer alan her bir aktivite puanını gösterir. Öğrencinin aktivitedeki en son denemesinde elde ettiği puanı gösterir. Örneğin; puan 8/10 ise, 8 öğrencinin doğru yanıtladığı öğe (soru) sayısı, 10 ise aktivitedeki toplam öğe sayısıdır. “.” sembolü aktivitenin bir puanı olmadığını ifade eder.",
             "spanish": "Esta fila muestra la puntuación de este estudiante para cada actividad en esta unidad. Muestra la puntuación para el último intento del estudiante en la actividad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el alumno contestó correctamente, y 10 es el número total de elementos en la actividad. El símbolo significa que la actividad no tiene una puntuación.",
-            "spanish-la": "Esta fila muestra la puntuación de este estudiante para cada actividad en esta unidad. Muestra la puntuación para el último intento del estudiante en la actividad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el alumno contestó correctamente, y 10 es el número total de elementos en la actividad. El símbolo significa que la actividad no tiene una puntuación.",
+            "spanish_la": "Esta fila muestra la puntuación de este estudiante para cada actividad en esta unidad. Muestra la puntuación para el último intento del estudiante en la actividad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el alumno contestó correctamente, y 10 es el número total de elementos en la actividad. El símbolo significa que la actividad no tiene una puntuación.",
             "portuguese": "Esta linha exibe a pontuação deste aluno em cada atividade nesta unidade. Ela exibe a pontuação recebida durante a última tentativa de realização da atividade pelo aluno. Por exemplo, se o resultado é 8/10, 8 é o número de itens (questões) o aluno respondeu corretamente, e 10 é o número total de itens na atividade. O símbolo . significa que a atividade não possui uma pontuação.",
             "arabic": "يُظهِر هذا الصف درجة هذا الطالب في كل نشاط في هذه الوحدة. ويوضح الدرجة الخاصة بآخر محاولة للطالب في النشاط. فعلى سبيل المثال، إذا كانت الدرجة هي 8/10، فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عنها الطالب إجابة صحيحة، والرقم 10 هو العدد الإجمالي للبنود في النشاط. يُقصَد بالرمز . أن النشاط ليست عليه أية درجة."
           }
@@ -122,7 +122,7 @@
             "english": "This row shows the total number of times this student attempted each activity in this unit. The . symbol means that attempts are not recorded for the activity.",
             "turkish": "Bu satır öğrencinin bu ünitedeki her bir aktiviteyi toplam deneme sayısını gösterir. “.” sembolü aktivite için deneme kaydedilmediğini ifade eder.",
             "spanish": "Esta fila muestra el número total de veces que este estudiante ha intentado completar cada actividad en esta unidad. El símbolo significa que no se registran los intentos para la actividad.",
-            "spanish-la": "Esta fila muestra el número total de veces que este estudiante ha intentado completar cada actividad en esta unidad. El símbolo significa que no se registran los intentos para la actividad.",
+            "spanish_la": "Esta fila muestra el número total de veces que este estudiante ha intentado completar cada actividad en esta unidad. El símbolo significa que no se registran los intentos para la actividad.",
             "portuguese": "Esta linha exibe o número de vezes que um aluno tentou realizar cada atividade nesta unidade. O símbolo . significa que as tentativas não são registradas para a atividade.",
             "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي حاول فيها هذا الطالب القيام بجميع الأنشطة في هذه الوحدة. يعني الرمز . أنه لم يتم تسجيل المحاولات الخاصة بالنشاط."
           }
@@ -135,7 +135,7 @@
             "english": "This row shows the total amount of time this student spent on each activity in this unit.",
             "turkish": "Bu satır öğrencinin her bir aktivitede harcadığı toplam süreyi gösterir.",
             "spanish": "Esta fila muestra la cantidad total de tiempo que el estudiante ha dedicado a cada actividad en esta unidad.",
-            "spanish-la": "Esta fila muestra la cantidad total de tiempo que el estudiante ha dedicado a cada actividad en esta unidad.",
+            "spanish_la": "Esta fila muestra la cantidad total de tiempo que el estudiante ha dedicado a cada actividad en esta unidad.",
             "portuguese": "Esta linha exibe a quantidade total de tempo que este aluno gastou em cada atividade nesta unidade.",
             "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي قضاها هذا الطالب في القيام بجميع الأنشطة في هذه الوحدة."
           }
@@ -148,7 +148,7 @@
             "english": "This is the student’s total score in a lesson.",
             "turkish": "Öğrencinin bir dersteki toplam puanını gösterir.",
             "spanish": "Esta es la puntuación total del alumno en una lección.",
-            "spanish-la": "Esta es la puntuación total del alumno en una lección.",
+            "spanish_la": "Esta es la puntuación total del alumno en una lección.",
             "portuguese": "Esta é a pontuação total do aluno em uma lição.",
             "arabic": "هذه هي النتيجة الإجمالية للطالب في أحد الدروس."
           }
@@ -161,7 +161,7 @@
             "english": "This is the student’s total number of activity attempts in a lesson.",
             "turkish": "Bu, öğrencinin bir dersteki toplam aktivite deneme sayısıdır.",
             "spanish": "Este es el número total de veces que el estudiante ha intentado completar la actividad en una lección.",
-            "spanish-la": "Este es el número total de veces que el estudiante ha intentado completar la actividad en una lección.",
+            "spanish_la": "Este es el número total de veces que el estudiante ha intentado completar la actividad en una lección.",
             "portuguese": "Este é o número total de tentativas de realização de atividades do aluno em uma lição.",
             "arabic": "هذا هو العدد الإجمالي لمحاولات النشاط الخاصة بالطالب في أحد الدروس."
           }
@@ -174,7 +174,7 @@
             "english": "This is the total amount of time taken on activities in a lesson.",
             "turkish": "Bu, bir konuda yer alan aktivitelerde harcanan toplam süredir.",
             "spanish": "Esta es la cantidad total de tiempo empleado en actividades para una lección.",
-            "spanish-la": "Esta es la cantidad total de tiempo empleado en actividades para una lección.",
+            "spanish_la": "Esta es la cantidad total de tiempo empleado en actividades para una lección.",
             "portuguese": "Este é o tempo total gasto nas atividades de uma lição.",
             "arabic": "هذا هو مقدار الوقت الإجمالي الذي تستغرقه الأنشطة في أحد الدروس."
           }
@@ -187,7 +187,7 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
-            "spanish-la": "Haga click aquí para exportar este informe en formato Microsoft Excel™.",
+            "spanish_la": "Haga click aquí para exportar este informe en formato Microsoft Excel™.",
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™.",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
@@ -200,7 +200,7 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
-            "spanish-la": "Haga click aquí para imprimir este informe.",
+            "spanish_la": "Haga click aquí para imprimir este informe.",
             "portuguese": "Clique aqui para imprimir este relatório.",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }

@@ -16,7 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -28,7 +28,7 @@
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -40,7 +40,7 @@
             "english": "Click here to view the Class Report.",
             "turkish": "Sınıf Raporunu görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لعرض التقرير عن الفصل."
           }
         },
@@ -52,7 +52,7 @@
             "english": "Use this menu to view a Unit Report for a different class.",
             "turkish": "Farklı bir sınıfa ait Ünite Raporunu görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un Informe de Unidad para una clase diferente.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لفصل مختلف."
           }
         },
@@ -64,7 +64,7 @@
             "english": "Use this menu to view a Segment Report for a specific student.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -76,7 +76,7 @@
             "english": "Use this menu to view the Unit Report for a different segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -88,7 +88,7 @@
             "english": "Use this menu to view the Unit Report for a different unit.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -100,7 +100,7 @@
             "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The ✓ symbol means that the activity does not have a score.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -112,7 +112,7 @@
             "english": "This row shows the number of attempts for each activity in this unit. The ✓ symbol means that attempts are not recorded for the activity.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -124,7 +124,7 @@
             "english": "This row shows the total amount of time spent on all attempts at each activity.",
             "turkish": "Bu satır her bir ünitedeki aktivitelerin tümü için harcanan toplam süreyi gösterir.",
             "spanish": "Esta fila muestra la cantidad total de tiempo dedicado a todos los intentos de cada actividad.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "يظهر هذا النشاط مقدار الوقت المُستغرَق في كافة المحاولة لكل نشاط."
           }
         },
@@ -136,7 +136,7 @@
             "english": "This is the student’s total score for this unit.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -148,7 +148,7 @@
             "english": "This is the total number of times this student attempted all activities in this unit.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -160,7 +160,7 @@
             "english": "This is the total amount of time this student spent on this unit.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -172,7 +172,7 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "اانقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -184,7 +184,7 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }

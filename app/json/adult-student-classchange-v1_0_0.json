@@ -15,7 +15,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,7 +27,7 @@
             "english": "Enter your new class ID code here and then click “Save”.",
             "turkish": "Yeni ders ID kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın.",
             "spanish": "Ingrese su nuevo código de ID de clase aquí y haga clic en \"Save\".",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "أدخل رمز مُعرِّف الفصل الجديد الخاص بك هنا ثم انقر على “Save”(\"حفظ\")."
           }
         },
@@ -39,7 +39,7 @@
             "english": "Click here to submit your new class ID code and return to your Home page.",
             "turkish": "Yeni ders ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su nuevo código de ID de clase y regresar a su página de Inicio.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "اانقر هنا لإرسال رمز مُعرِّف الفصل الجديد الخاص بك وعُد إلى صفحتك الرئيسية."
           }
         },
@@ -51,7 +51,7 @@
             "english": "Click here to go back to the previous page without changing your class.",
             "turkish": "Dersi değiştirmeden bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior sin cambiar su clase.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة بدون تغيير الفصل الخاص بك."
           }
         }

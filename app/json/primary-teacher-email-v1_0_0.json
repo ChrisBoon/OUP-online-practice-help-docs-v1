@@ -3,7 +3,7 @@
     "english": "Email",
     "turkish": "E-posta",
     "spanish": "Correo electrónico",
-    "spanish-la": "Correo electrónico",
+    "spanish_la": "Correo electrónico",
     "portuguese": "E-mail",
     "arabic": "البريد الإلكتروني"
   },
@@ -18,7 +18,7 @@
         "english": "Choose a class",
         "turkish": "Ders seç",
         "spanish": "Elija una clase",
-        "spanish-la": "Elija una clase",
+        "spanish_la": "Elija una clase",
         "portuguese": "Escolha uma aula",
         "arabic": "حدد فصل"
       },
@@ -31,7 +31,7 @@
             "english": "Select a class from the menu.",
             "turkish": "Menüden bir ders seçin.",
             "spanish": "Seleccione una clase del menú.",
-            "spanish-la": "Seleccione una clase del menú.",
+            "spanish_la": "Seleccione una clase del menú.",
             "portuguese": "Selecione uma turma a partir do menu.",
             "arabic": "حدد فصلًامن القائمة."
           }
@@ -45,7 +45,7 @@
         "english": "Your messages",
         "turkish": "Mesajlarınız",
         "spanish": "Sus mensajes",
-        "spanish-la": "Sus mensajes",
+        "spanish_la": "Sus mensajes",
         "portuguese": "Suas mensagens",
         "arabic": "رسالتك"
       },
@@ -58,7 +58,7 @@
             "english": "This is your inbox. Your messages will appear in the column here.",
             "turkish": "Burası gelen kutunuzdur. Mesajlarınız bu kolonda görüntülenecektir.",
             "spanish": "Esta es su bandeja de entrada. Sus mensajes aparecerán en esta columna.",
-            "spanish-la": "Esta es su bandeja de entrada. Sus mensajes aparecerán en esta columna.",
+            "spanish_la": "Esta es su bandeja de entrada. Sus mensajes aparecerán en esta columna.",
             "portuguese": "Esta é a sua caixa de entrada. Suas mensagens aparecerão nesta coluna.",
             "arabic": "هذا هو صندوق البريد الوارد الخاص بك. ستظهر رسائلك في العمود هنا."
           }
@@ -71,7 +71,7 @@
             "english": "A number is displayed to the right of the inbox header. This number shows how many unread messages are in your inbox.",
             "turkish": "Gelen kutusu başlığının sağ tarafında bir sayı görüntülenir.  Bu sayı gelen kutunuzda kaç tane okunmamış mesaj olduğunu gösterir.",
             "spanish": "Hay un número a la derecha del encabezado de la bandeja de entrada.  Este número muestra la cantidad de mensajes no leídos en su bandeja de entrada.",
-            "spanish-la": "Hay un número a la derecha del encabezado de la bandeja de entrada.  Este número muestra la cantidad de mensajes no leídos en su bandeja de entrada.",
+            "spanish_la": "Hay un número a la derecha del encabezado de la bandeja de entrada.  Este número muestra la cantidad de mensajes no leídos en su bandeja de entrada.",
             "portuguese": "Um número é exibido à direita do título da caixa de entrada.  Esse número exibe a quantidade de mensagens não lidas que estão em sua caixa de entrada.",
             "arabic": "يتم عرض رقم علىيمين رأسية البريد الوارد.  ويُظهِر هذا الرقم عدد الرسائل غير المقروءة في صندوق البريد الوارد الخاص بك."
           }
@@ -84,7 +84,7 @@
             "english": "Select a message in your inbox. It will display on the right.",
             "turkish": "Gelen kutunuzdan bir mesaj seçin. Sağda görüntülenecektir.",
             "spanish": "Seleccione un mensaje en su bandeja de entrada. Se mostrará a la derecha.",
-            "spanish-la": "Seleccione un mensaje en su bandeja de entrada. Se mostrará a la derecha.",
+            "spanish_la": "Seleccione un mensaje en su bandeja de entrada. Se mostrará a la derecha.",
             "portuguese": "Selecione uma mensagem na sua caixa de entrada. Ela será exibida à direita.",
             "arabic": "حدد رسالة في صندوق البريد الوارد الخاص بك. ستظهر على اليمين."
           }
@@ -97,7 +97,7 @@
             "english": "Click the “Delete” button to remove a message from your inbox.",
             "turkish": "Gelen kutunuzdaki bir mesajı kaldırmak için “Delete” düğmesine tıklayın.",
             "spanish": "Haga clic en el botón \"Delete\" para eliminar un mensaje de su bandeja de entrada.",
-            "spanish-la": "Haga click en el botón \"Delete\" para eliminar un mensaje de su bandeja de entrada.",
+            "spanish_la": "Haga click en el botón \"Delete\" para eliminar un mensaje de su bandeja de entrada.",
             "portuguese": "Clique no botão “Delete” para remover uma mensagem de sua caixa de entrada.",
             "arabic": "انقر علىزِر“Delete” (\"حذف\" لإزالة الرسالة من صندوق البريد الوارد."
           }
@@ -110,7 +110,7 @@
             "english": "Click the “Reply” button to reply to a message.",
             "turkish": "Bir mesaja cevap vermek için “Reply” düğmesine tıklayın.",
             "spanish": "Haga clic en el botón \"Reply\" para responder a un mensaje.",
-            "spanish-la": "Haga click en el botón \"Reply\" para responder a un mensaje.",
+            "spanish_la": "Haga click en el botón \"Reply\" para responder a un mensaje.",
             "portuguese": "Clique no botão “Reply” para responder a uma mensagem.",
             "arabic": "انقر علىزِر“Reply”(\"رد\") للرد على الرسالة."
           }
@@ -123,7 +123,7 @@
             "english": "Click on the Sent header to display your sent messages.",
             "turkish": "Gönderilen mesajlarınızı görüntülemek için Gönderilenler başlığına tıklayın.",
             "spanish": "Haga clic en el encabezado de Sent [Enviados] para mostrar sus mensajes enviados.",
-            "spanish-la": "Haga click en el encabezado de Sent [Enviados] para mostrar sus mensajes enviados.",
+            "spanish_la": "Haga click en el encabezado de Sent [Enviados] para mostrar sus mensajes enviados.",
             "portuguese": "Clique no título “Sent” para exibir as mensagens enviadas.",
             "arabic": "اضغط على رأسية المُرسَل لعرض الرسائل المُرسَلة."
           }
@@ -136,7 +136,7 @@
             "english": "Click the “Create New Message” button if you want to write a new message.",
             "turkish": "Yeni bir mesaj yazmak istiyorsanız “Yeni Mesaj Oluştur” düğmesine tıklayın.",
             "spanish": "Haga clic en el botón \"Create New Message\" si desea escribir un mensaje nuevo.",
-            "spanish-la": "Haga click en el botón \"Create New Message\" si desea escribir un mensaje nuevo.",
+            "spanish_la": "Haga click en el botón \"Create New Message\" si desea escribir un mensaje nuevo.",
             "portuguese": "Clique no botão “Create New Message” caso você queira escrever uma nova mensagem.",
             "arabic": "انقر علىزِر“Create New Message” (\"إنشاء رسالة جديدة\") إذا كنت تريد كتابة رسالة جديدة."
           }
@@ -150,7 +150,7 @@
         "english": "Write a message",
         "turkish": "Mesaj yaz",
         "spanish": "Escribir un mensaje",
-        "spanish-la": "Escribir un mensaje",
+        "spanish_la": "Escribir un mensaje",
         "portuguese": "Escreva uma mensagem",
         "arabic": "كتابة رسالة جديدة"
       },
@@ -163,7 +163,7 @@
             "english": "The Reply and Create New Message windows contain To and CC buttons. Choose a student you want to write to by clicking the “To” button and choosing a name. Add other students you wish to send your message to by clicking the “CC” button. You can message any student in your Online Practice class. You cannot send a message to an email address outside your Online Practice class.",
             "turkish": "Yanıtla ve Yeni Mesaj Oluştur penceresinde Kime ve Bilgi düğmeleri bulunur. “To” düğmesine tıklayarak ve bir ad seçerek yazmak istediğiniz öğrenciyi seçin. “CC” düğmesine tıklayarak mesajınızı göndermek istediğiniz diğer öğrencileri ekleyin. Çevrim İçi Uygulama sınıfınızdaki tüm öğrencilere mesaj gönderebilirsiniz. Çevrim İçi Uygulama sınıfınızın dışındaki bir e-posta adresine mesaj gönderemezsiniz.",
             "spanish": "Las ventanas de Reply [Responder] y Create New Message [Crear mensaje nuevo] contienen botones To [Para] y CC [Con copia a]. Elija un estudiante a quien desee escribirle haciendo clic en el botón \"To\" y eligiendo un nombre. Añada otros estudiantes a quienes desee enviarles el mensaje haciendo clic en el botón \"CC\". Puede enviar mensajes a cualquier estudiante en su clase de Práctica Online. No puede enviar un mensaje a una dirección de correo electrónico fuera de su clase de Práctica Online.",
-            "spanish-la": "Las ventanas de Reply [Responder] y Create New Message [Crear mensaje nuevo] contienen botones To [Para] y CC [Con copia a]. Elija un estudiante a quien desee escribirle haciendo click en el botón \"To\" y eligiendo un nombre. Añada otros estudiantes a quienes desee enviarles el mensaje haciendo click en el botón \"CC\". Puede enviar mensajes a cualquier estudiante en su clase de Práctica Online. No puede enviar un mensaje a una dirección de correo electrónico fuera de su clase de Práctica Online.",
+            "spanish_la": "Las ventanas de Reply [Responder] y Create New Message [Crear mensaje nuevo] contienen botones To [Para] y CC [Con copia a]. Elija un estudiante a quien desee escribirle haciendo click en el botón \"To\" y eligiendo un nombre. Añada otros estudiantes a quienes desee enviarles el mensaje haciendo click en el botón \"CC\". Puede enviar mensajes a cualquier estudiante en su clase de Práctica Online. No puede enviar un mensaje a una dirección de correo electrónico fuera de su clase de Práctica Online.",
             "portuguese": "A janela “Reply/Create New Message” contém os botões “To” e “CC”. Escolha um aluno a quem você pretende escrever clicando no botão \"To\" e escolhendo um nome. Adicione outros alunos para os quais você deseja enviar a sua mensagem clicando no botão \"CC\". Você pode enviar mensagens para quaisquer alunos que estejam participando de sua turma no Online Practice. Você não pode enviar uma mensagem para um endereço de e-mail fora de sua turma no Online Practice.",
             "arabic": "تحتوي نافذتي الرد وإنشاء رسالة جديدة على زري To وCC. حدد الطالب الذي ترغب في كتابة رسالة له عن طريق النقر على زِر “TO” واختيار اسم. أضف الطلاب الآخرين الذين ترغب في إرسال رسالتك إليهم من خلال النقر على زر \"CC\". يمكنك مراسلة أي طالب في الفصلالمنضم للممارسة على الإنترنت. لا يمكنك إرسال رسالة إلى عنوان بريد إلكتروني خارج فصل الممارسة على الإنترنتالخاصبك."
           }
@@ -176,7 +176,7 @@
             "english": "Click on “Select all” to email all students in your class together, then click “OK”. If you choose not to select anyone, click “Cancel”.",
             "turkish": "Sınıfınızdaki öğrencilerin tümüne birden e-posta göndermek için “Select all” seçeneğine ardından “OK” tuşuna tıklayın. Kimseyi seçmeyeceksiniz, “Cancel” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Select all\" para enviar un correo electrónico a todos los estudiantes en su clase, y luego haga clic en \"OK\". Si decide no seleccionar a nadie, haga clic en \"Cancel\".",
-            "spanish-la": "Haga click en \"Select all\" para enviar un correo electrónico a todos los estudiantes en su clase, y luego haga click en \"OK\". Si decide no seleccionar a nadie, haga click en \"Cancel\".",
+            "spanish_la": "Haga click en \"Select all\" para enviar un correo electrónico a todos los estudiantes en su clase, y luego haga click en \"OK\". Si decide no seleccionar a nadie, haga click en \"Cancel\".",
             "portuguese": "Clique em \"Select all\" para enviar um e-mail para todos os alunos da sua turma de uma única vez e, em seguida, clique em \"OK\". Se você optar por não selecionar algum deles, clique em \"Cancel\".",
             "arabic": "انقر على “Select all” (\"تحديد الجميع\") لإرسال رسالة إلكترونية إلى جميع الطلاب في فصلك في نفس الوقت، ثم انقر على “OK”(\"موافق\"). إذا اخترت عدم تحديد أي شخص، انقر على “Cancel”(\"إلغاء\")."
           }
@@ -190,7 +190,7 @@
         "english": "Send your message",
         "turkish": "Mesajınızı gönderin",
         "spanish": "Envíe su mensaje",
-        "spanish-la": "Envíe su mensaje",
+        "spanish_la": "Envíe su mensaje",
         "portuguese": "Envie suas mensagens",
         "arabic": "أرسل رسالتك"
       },
@@ -203,7 +203,7 @@
             "english": "Click on the paperclip icon to attach a file to your message. You can attach two files with a total size of 2MB.",
             "turkish": "Mesajınıza bir dosya eklemek için ataş simgesini seçin. Toplam 2MB boyutunda iki dosya ekleyebilirsiniz.",
             "spanish": "Haga clic en el icono del clip para adjuntar un archivo a su mensaje. Puede adjuntar dos archivos con un tamaño total de 2MB.",
-            "spanish-la": "Haga click en el icono del clip para adjuntar un archivo a su mensaje. Puede adjuntar dos archivos con un tamaño total de 2MB.",
+            "spanish_la": "Haga click en el icono del clip para adjuntar un archivo a su mensaje. Puede adjuntar dos archivos con un tamaño total de 2MB.",
             "portuguese": "Clique no ícone de clipe de papel para anexar um arquivo a sua mensagem. Você pode anexar dois arquivos com um tamanho total de 2MB.",
             "arabic": "اضغط على أيقونة مشبك الورق لإرفاق ملف برسالتك. يمكنك إرفاق ملفين بإجمالي حجم 2ميجابايت."
           }
@@ -216,7 +216,7 @@
             "english": "Use the “Send” button to send the message when you are ready.",
             "turkish": "Hazır olduğunuzda mesajınızı göndermek için “Send” düğmesini kullanın.",
             "spanish": "Utilice el botón \"Send\" para enviar el mensaje cuando esté listo.",
-            "spanish-la": "Utilice el botón \"Send\" para enviar el mensaje cuando esté listo.",
+            "spanish_la": "Utilice el botón \"Send\" para enviar el mensaje cuando esté listo.",
             "portuguese": "Use o botão “Send” para enviar a mensagem quando estiver pronto.",
             "arabic": "استخدم زِر“Send”(\"إرسال\") لإرسال الرسالة عندما تكون جاهزًا."
           }
@@ -229,7 +229,7 @@
             "english": "You can save messages before you send them and return to them later in the Drafts area by clicking the “Save” button.",
             "turkish": "Mesajlarınızı göndermeden önce kaydedebilir ve “Save” düğmesine tıklayarak Taslaklar alanında daha sonra geri dönebilirsiniz.",
             "spanish": "Puede guardar los mensajes antes de enviarlos y volver a ellos más tarde en el área Borradores haciendo clic en el botón \"Save\".",
-            "spanish-la": "Puede guardar los mensajes antes de enviarlos y volver a ellos más tarde en el área Borradores haciendo click en el botón \"Save\".",
+            "spanish_la": "Puede guardar los mensajes antes de enviarlos y volver a ellos más tarde en el área Borradores haciendo click en el botón \"Save\".",
             "portuguese": "Você pode salvar mensagens antes de enviá-las e voltar a elas posteriormente na área “Draft”, clicando no botão “Save”.",
             "arabic": "يمكنك حفظ الرسائل قبل إرسالها والعودة إليها في وقت لاحق في منطقة المسودات عن طريق النقر على زر“Save”(\"حفظ\")."
           }
@@ -242,7 +242,7 @@
             "english": "If you decide not to send the message, click the “Cancel” button. This will return you to the inbox.",
             "turkish": "Mesajı göndermemeye karar verirseniz, “Cancel” düğmesine tıklayın.  Bu sizi gelen kutusuna geri götürecektir.", 
             "spanish": "Si decide no enviar el mensaje, haga clic en el botón \"Cancel\".  Esto lo regresará a la bandeja de entrada.",
-            "spanish-la": "Si decide no enviar el mensaje, haga click en el botón \"Cancel\".  Esto lo regresará a la bandeja de entrada.",
+            "spanish_la": "Si decide no enviar el mensaje, haga click en el botón \"Cancel\".  Esto lo regresará a la bandeja de entrada.",
             "portuguese": "Se você decidir não enviar a mensagem, clique no botão “Cancel”.  Isso fará com que você volte para a caixa de entrada.",
             "arabic": "إذا قررت عدم إرسال الرسالة، فانقر علىزر“Cancel” (\"إلغاء\").  فسوف يعيدك إلى صندوق البريد الوارد."
           }

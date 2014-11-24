@@ -3,7 +3,7 @@
     "english": "Hide Units and Lessons",
     "turkish": "Üniteleri ve Dersleri Gizleyin",
     "spanish": "Ocultar Unidades y Lecciones",
-    "spanish-la": "Ocultar Unidades y Lecciones",
+    "spanish_la": "Ocultar Unidades y Lecciones",
     "portuguese": "Ocultar unidades e lições",
     "arabic": "إخفاء الوحدات والدروس"
   },
@@ -18,7 +18,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "portuguese": "",
         "arabic": ""
       },
@@ -31,7 +31,7 @@
             "english": "You can hide units and lessons from your students by checking the boxes on this page. Your students will only see the activities in the units or lessons when you uncheck the boxes.",
             "turkish": "Bu sayfadaki kutucukları işaretleyerek ünite ve dersleri öğrencilerinizden gizleyebilirsiniz. Öğrencileriniz ünite veya derslerdeki aktiviteleri sadece siz kutucukların işaretini kaldırdığınızda görebilirler.",
             "spanish": "Puede ocultar unidades y lecciones a sus estudiantes, marcando las casillas en esta página. Sus estudiantes sólo podrán ver las actividades en las unidades o lecciones cuando desmarque las casillas.",
-            "spanish-la": "Puede ocultar unidades y lecciones a sus estudiantes, marcando las casillas en esta página. Sus estudiantes sólo podrán ver las actividades en las unidades o lecciones cuando desmarque las casillas.",
+            "spanish_la": "Puede ocultar unidades y lecciones a sus estudiantes, marcando las casillas en esta página. Sus estudiantes sólo podrán ver las actividades en las unidades o lecciones cuando desmarque las casillas.",
             "portuguese": "Você pode ocultar as unidades e as lições de seus alunos marcando as caixas de seleção nesta página. Seus alunos só visualizarão as atividades das unidades ou lições quando você desmarcar as caixas de seleção.",
             "arabic": "يمكنك إخفاء الوحدات والدروس عن طلابك عن طريق وضع علامة في المربعات الموجودة في هذه الصفحة. سيتمكن طلابك من رؤية الأنشطة الموجودة في الوحدات أو الدروس فقط عندما لا تضع علامة في المربعات."
           }
@@ -44,7 +44,7 @@
             "english": "Choose a class using the menu.",
             "turkish": "Menüyü kullanarak bir ders seçin.",
             "spanish": "Elija una clase utilizando el menú.",
-            "spanish-la": "Elija una clase utilizando el menú.",
+            "spanish_la": "Elija una clase utilizando el menú.",
             "portuguese": "Selecione uma turma a partir do menu.",
             "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
           }
@@ -57,7 +57,7 @@
             "english": "Check a box here to hide a whole unit.",
             "turkish": "Ünitenin tamamını gizlemek için buradaki bir kutucuğu işaretleyin.",
             "spanish": "Marque una casilla aquí para ocultar toda una unidad.",
-            "spanish-la": "Marque una casilla aquí para ocultar toda una unidad.",
+            "spanish_la": "Marque una casilla aquí para ocultar toda una unidad.",
             "portuguese": "Marque uma caixa de seleção para ocultar uma unidade inteira.",
             "arabic": "ضع علامة في مربع ما هنا لإخفاء الوحدة كاملةً."
           }
@@ -70,7 +70,7 @@
             "english": "Check a box here to hide selected lessons within a unit.",
             "turkish": "Ünite içindeki seçtiğiniz dersleri gizlemek için buradaki bir kutucuğu işaretleyin.",
             "spanish": "Marque una casilla aquí para ocultar lecciones seleccionadas dentro de una unidad.",
-            "spanish-la": "Marque una casilla aquí para ocultar lecciones seleccionadas dentro de una unidad.",
+            "spanish_la": "Marque una casilla aquí para ocultar lecciones seleccionadas dentro de una unidad.",
             "portuguese": "Marque uma caixa de seleção para ocultar lições selecionadas dentro de uma unidade.",
             "arabic": "ضع علامة في مربع ما هنا لإخفاء الدروس التي تم تحديدها داخل الوحدة."
           }
@@ -83,7 +83,7 @@
             "english": "Click here to save the changes you made to this class.",
             "turkish": "Bu sınıfta yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
-            "spanish-la": "Haga click aquí para guardar los cambios realizados para esta clase.",
+            "spanish_la": "Haga click aquí para guardar los cambios realizados para esta clase.",
             "portuguese": "Clique aqui para salvar as alterações feitas a esta turma.",
             "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
           }

@@ -2,7 +2,7 @@
  "title": {
     "english": "Teacher registration",
     "spanish": "Registro de Profesores",
-    "spanish-la": "Registro de Profesores",
+    "spanish_la": "Registro de Profesores",
     "portuguese": "Registro do professor"
   },
  "segment": "primary",
@@ -15,7 +15,7 @@
       "pageTitle": {
         "english": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "portuguese": ""
       },
       "paragraphs":{
@@ -26,7 +26,7 @@
           "text":{
             "english": "If you are a first-time user click “Register”.",
             "spanish": "Si utiliza el sitio por primera vez, haga clic en \"Register\".",
-            "spanish-la": "Si utiliza el sitio por primera vez, haga click en \"Register\".",
+            "spanish_la": "Si utiliza el sitio por primera vez, haga click en \"Register\".",
             "portuguese": "Se você é um novo usuário, clique em “Register”."
           }
         }
@@ -38,7 +38,7 @@
       "pageTitle": {
         "english": "Agree to the Terms of Use",
         "spanish": "Aceptar las Condiciones de Uso",
-        "spanish-la": "Aceptar las Condiciones de Uso",
+        "spanish_la": "Aceptar las Condiciones de Uso",
         "portuguese": "Aceitação dos termos de uso"
       },
       "paragraphs":{
@@ -49,7 +49,7 @@
           "text":{
             "english": "This page explains the Terms of Use. You must agree to the terms in order to register for Online Practice.",
             "spanish": "Esta página explica las Condiciones de Uso. Usted debe aceptarlas para poder registrarse para la Práctica Online.",
-            "spanish-la": "Esta página explica las Condiciones de Uso. Usted debe aceptarlas para poder registrarse para la Práctica Online.",
+            "spanish_la": "Esta página explica las Condiciones de Uso. Usted debe aceptarlas para poder registrarse para la Práctica Online.",
             "portuguese": "Esta página explica os termos de uso. Você deve concordar com os termos, a fim de se registrar ao Online Practice."
           }
         },
@@ -60,7 +60,7 @@
           "text":{
             "english": "Check the box and click “I Agree”.",
             "spanish": "Marque la casilla y haga clic en \"I Agree\".",
-            "spanish-la": "Marque la casilla y haga click en \"I Agree\".",
+            "spanish_la": "Marque la casilla y haga click en \"I Agree\".",
             "portuguese": "Marque a caixa de seleção e clique em “I Agree” (concordo)."
           }
         },
@@ -71,7 +71,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "Haga click aquí para volver a la página anterior.",
+            "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         }
@@ -83,7 +83,7 @@
       "pageTitle": {
         "english": "Enter your access code",
         "spanish": "Ingrese su código de acceso",
-        "spanish-la": "Ingrese su código de acceso",
+        "spanish_la": "Ingrese su código de acceso",
         "portuguese": "Insira seu código de acesso"
       },
       "paragraphs":{
@@ -94,7 +94,7 @@
           "text":{
             "english": "Enter the access code on your Teacher Access Card.",
             "spanish": "-",
-            "spanish-la": "-",
+            "spanish_la": "-",
             "portuguese": "-"
           }
         },
@@ -105,7 +105,7 @@
           "text":{
             "english": "Click “Enter”.",
             "spanish": "Haga clic en \"Enter\".",
-            "spanish-la": "Haga click en \"Enter\".",
+            "spanish_la": "Haga click en \"Enter\".",
             "portuguese": "Clique em “Enter”."
           }
         }
@@ -117,7 +117,7 @@
       "pageTitle": {
         "english": "Enter your details",
         "spanish": "Ingrese sus datos",
-        "spanish-la": "Ingrese sus datos",
+        "spanish_la": "Ingrese sus datos",
         "portuguese": "Insira seus dados"
       },
       "paragraphs":{
@@ -128,7 +128,7 @@
           "text":{
             "english": "Enter your first name (given name).",
             "spanish": "Ingrese su nombre (nombre de pila).",
-            "spanish-la": "Ingrese su nombre (nombre de pila).",
+            "spanish_la": "Ingrese su nombre (nombre de pila).",
             "portuguese": "Digite seu nome."
           }
         },
@@ -139,7 +139,7 @@
           "text":{
             "english": "Enter your last name (family name).",
             "spanish": "Ingrese su apellido.",
-            "spanish-la": "Ingrese su apellido.",
+            "spanish_la": "Ingrese su apellido.",
             "portuguese": "Digite seu sobrenome."
           }
         },
@@ -150,7 +150,7 @@
           "text":{
             "english": "Enter your email address.",
             "spanish": "Ingrese su dirección de correo electrónico.",
-            "spanish-la": "Ingrese su dirección de correo electrónico.",
+            "spanish_la": "Ingrese su dirección de correo electrónico.",
             "portuguese": "Digite o seu endereço de e-mail."
           }
         },
@@ -161,7 +161,7 @@
           "text":{
             "english": "Type your email address again.",
             "spanish": "Vuelva a escribir su dirección de correo electrónico.",
-            "spanish-la": "Vuelva a escribir su dirección de correo electrónico.",
+            "spanish_la": "Vuelva a escribir su dirección de correo electrónico.",
             "portuguese": "Digite seu endereço de e-mail novamente."
           }
         },
@@ -172,7 +172,7 @@
           "text":{
             "english": "Choose a password.",
             "spanish": "Elija una contraseña.",
-            "spanish-la": "Elija una contraseña.",
+            "spanish_la": "Elija una contraseña.",
             "portuguese": "Escolha uma senha."
           }
         },
@@ -183,7 +183,7 @@
           "text":{
             "english": "Type your password again.",
             "spanish": "Vuelva a escribir su contraseña.",
-            "spanish-la": "Vuelva a escribir su contraseña.",
+            "spanish_la": "Vuelva a escribir su contraseña.",
             "portuguese": "Insira sua senha novamente."
           }
         },
@@ -194,7 +194,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "Haga click aquí para volver a la página anterior.",
+            "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         },
@@ -205,7 +205,7 @@
           "text":{
             "english": "Click here to submit your information and go to the next page.",
             "spanish": "Haga clic aquí para enviar su información e ir a la página siguiente.",
-            "spanish-la": "Haga click aquí para enviar su información e ir a la página siguiente.",
+            "spanish_la": "Haga click aquí para enviar su información e ir a la página siguiente.",
             "portuguese": "Clique aqui para enviar suas informações e ir para a próxima página."
           }
         }
@@ -217,7 +217,7 @@
       "pageTitle": {
         "english": "Choose a level",
         "spanish": "Elija un nivel",
-        "spanish-la": "Elija un nivel",
+        "spanish_la": "Elija un nivel",
         "portuguese": "Escolha um nível"
       },
       "paragraphs":{
@@ -228,7 +228,7 @@
           "text":{
             "english": "Click on your level to select it. It is very important to select the level that you will be using. Check the title to make sure it is your level. If you are using more than one level, you can add another level later by choosing “Add a level” from your Home screen. You will need a new access code to add a level.",
             "spanish": "Haga clic para seleccionar su nivel. Es muy importante seleccionar el nivel que va a utilizar. Revise el título para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede agregar otro nivel luego seleccionando \"Add a Level\" en su pantalla de Inicio. Necesitará un nuevo código de acceso para agregar un nivel.",
-            "spanish-la": "Haga click para seleccionar su nivel. Es muy importante seleccionar el nivel que va a utilizar. Revise el título para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede agregar otro nivel luego seleccionando \"Add a Level\" en su pantalla de Inicio. Necesitará un nuevo código de acceso para agregar un nivel.",
+            "spanish_la": "Haga click para seleccionar su nivel. Es muy importante seleccionar el nivel que va a utilizar. Revise el título para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede agregar otro nivel luego seleccionando \"Add a Level\" en su pantalla de Inicio. Necesitará un nuevo código de acceso para agregar un nivel.",
             "portuguese": "Para selecionar o nível desejado, clique na imagem correspondente. É muito importante selecionar o nível correto. Verifique o título para escolher o nível que realmente será utilizado. Caso você vá utilizar mais de um nível, será possível adicionar outros níveis posteriormente, clicando em “Add a level” na sua página inicial. Você precisará de um novo código de acesso para adicionar um novo nível."
           }
         },
@@ -239,7 +239,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "Haga click aquí para volver a la página anterior.",
+            "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         }
@@ -251,7 +251,7 @@
       "pageTitle": {
         "english": "Enter your institution ID code",
         "spanish": "Ingrese el código de ID de su institución",
-        "spanish-la": "Ingrese el código de ID de su institución",
+        "spanish_la": "Ingrese el código de ID de su institución",
         "portuguese": "Insira o código de identificação da sua instituição"
       },
       "paragraphs":{
@@ -262,7 +262,7 @@
           "text":{
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
             "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga clic en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo clic en “Join an Institution” desde su página de Detalles de la Clase.",
-            "spanish-la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga click en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo click en “Join an Institution” desde su página de Detalles de la Clase.",
+            "spanish_la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga click en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo click en “Join an Institution” desde su página de Detalles de la Clase.",
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de aula com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você poderá inserir um código de identificação da instituição posteriormente clicando em “Join an institution” na sua página “Class Details”."
           }
         },
@@ -273,7 +273,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "Haga click aquí para volver a la página anterior.",
+            "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         },
@@ -284,7 +284,7 @@
           "text":{
             "english": "Click here if you do not have an institution ID code.",
             "spanish": "Haga clic aquí si usted no tiene un código de ID de institución.",
-            "spanish-la": "Haga click aquí si usted no tiene un código de ID de institución.",
+            "spanish_la": "Haga click aquí si usted no tiene un código de ID de institución.",
             "portuguese": "Clique aqui caso você não tenha um código de identificação da instituição."
           }
         },
@@ -295,7 +295,7 @@
           "text":{
             "english": "Click here to submit your institution ID code and go to the next page.",
             "spanish": "Haga clic aquí para enviar su código de ID de institución y avanzar a la página siguiente.",
-            "spanish-la": "Haga click aquí para enviar su código de ID de institución y avanzar a la página siguiente.",
+            "spanish_la": "Haga click aquí para enviar su código de ID de institución y avanzar a la página siguiente.",
             "portuguese": "Clique aqui para enviar o nome da sua aula e para ir para a próxima página."
           }
         }
@@ -307,7 +307,7 @@
       "pageTitle": {
         "english": "Create a class",
         "spanish": "Crear una clase",
-        "spanish-la": "Crear una clase",
+        "spanish_la": "Crear una clase",
         "portuguese": "Crie uma turma"
       },
       "paragraphs":{
@@ -318,7 +318,7 @@
           "text":{
             "english": "Enter a name for your first class. To create additional classes later, click “Manage Classes” from your Home page when you finish registering.",
             "spanish": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga clic en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
-            "spanish-la": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga click en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
+            "spanish_la": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga click en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
             "portuguese": "Digite um nome para a sua primeira turma. Para criar turmass adicionais posteriormente, clique em \"Manage Classes\" a partir de sua página inicial quando você finalizar o registro."
           }
         },
@@ -329,7 +329,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "Haga click aquí para volver a la página anterior.",
+            "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         },
@@ -340,7 +340,7 @@
           "text":{
             "english": "Click here to skip this page without entering a class name.",
             "spanish": "Haga clic aquí para saltarse esta página sin ingresar un nombre de clase.",
-            "spanish-la": "Haga click aquí para saltarse esta página sin ingresar un nombre de clase.",
+            "spanish_la": "Haga click aquí para saltarse esta página sin ingresar un nombre de clase.",
             "portuguese": "Clique aqui para pular esta página sem digitar um nome de turma."
           }
         },
@@ -351,7 +351,7 @@
           "text":{
             "english": "Click here to submit your class name and go to the next page.",
             "spanish": "Haga clic aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
-            "spanish-la": "Haga click aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
+            "spanish_la": "Haga click aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "portuguese": "Clique aqui para enviar o nome da sua turma e para ir para a próxima página."
           }
         }
@@ -363,7 +363,7 @@
       "pageTitle": {
         "english": "Save your class code",
         "spanish": "Guarde el código de su clase",
-        "spanish-la": "Guarde el código de su clase",
+        "spanish_la": "Guarde el código de su clase",
         "portuguese": "Insira seu código de turma"
       },
       "paragraphs":{
@@ -374,7 +374,7 @@
           "text":{
             "english": "This is the class ID code for the class you named in the previous screen. Give this code to your students so they can join your class and you can see their work.",
             "spanish": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
-            "spanish-la": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
+            "spanish_la": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "portuguese": "Este é o código de identificação de aula para a aula nomeada na tela anterior. Forneça esse código para os seus alunos para que eles possam participar da sua turma e para que você possa visualizar os seus trabalhos."
           }
         },
@@ -385,7 +385,7 @@
           "text":{
             "english": "Click here to print this page for your records or to copy and share with your students. ",
             "spanish": "Haga clic aquí para imprimir esta página para sus registros o para copiar y compartir con sus estudiantes.",
-            "spanish-la": "Haga click aquí para imprimir esta página para sus registros o para copiar y compartir con sus estudiantes.",
+            "spanish_la": "Haga click aquí para imprimir esta página para sus registros o para copiar y compartir con sus estudiantes.",
             "portuguese": "Clique aqui para imprimir esta página para fins de registro ou para copiá-la e compartilhá-la com os seus alunos."
           }
         },
@@ -396,7 +396,7 @@
           "text":{
             "english": "Click here to go to the next page.",
             "spanish": "Haga clic aquí para ir a la página siguiente.",
-            "spanish-la": "Haga click aquí para ir a la página siguiente.",
+            "spanish_la": "Haga click aquí para ir a la página siguiente.",
             "portuguese": "Clique aqui para ir para a próxima página."
           }
         }
@@ -408,7 +408,7 @@
       "pageTitle": {
         "english": "Save your registration information",
         "spanish": "Guarde su información de registro",
-        "spanish-la": "Guarde su información de registro",
+        "spanish_la": "Guarde su información de registro",
         "portuguese": "Salve suas informações de registro"
       },
       "paragraphs":{
@@ -419,7 +419,7 @@
           "text":{
             "english": "This page shows your registration information. You may want to print this page for your records. To change this information, select “Edit Profile” after you log in (it will be in the top right of the screen).",
             "spanish": "Esta página muestra su información de registro. Es posible que desee imprimir esta página para sus registros. Para cambiar esta información, seleccione \"Edit Profile\" tras iniciar sesión (se encontrará en la parte superior derecha de la pantalla).",
-            "spanish-la": "Esta página muestra su información de registro. Es posible que desee imprimir esta página para sus registros. Para cambiar esta información, seleccione \"Edit Profile\" tras iniciar sesión (se encontrará en la parte superior derecha de la pantalla).",
+            "spanish_la": "Esta página muestra su información de registro. Es posible que desee imprimir esta página para sus registros. Para cambiar esta información, seleccione \"Edit Profile\" tras iniciar sesión (se encontrará en la parte superior derecha de la pantalla).",
             "portuguese": "Esta página exibe as suas informações de registro. É possível imprimir esta página para fins de registro. Para alterar estas informações, selecione a opção “Edit Profile” após iniciar a sessão (essa opção estará disponível no canto superior direito da tela)."
           }
         },
@@ -430,7 +430,7 @@
           "text":{
             "english": "Click here to print your registration information.",
             "spanish": "Haga clic aquí para imprimir su información de registro.",
-            "spanish-la": "Haga click aquí para imprimir su información de registro.",
+            "spanish_la": "Haga click aquí para imprimir su información de registro.",
             "portuguese": "Clique aqui para imprimir suas informações de registro."
           }
         },
@@ -441,7 +441,7 @@
           "text":{
             "english": "Click here to complete your registration and log in to your Online Practice.",
             "spanish": "Haga clic aquí para completar su registro e ingresar a su Práctica Online.",
-            "spanish-la": "Haga click aquí para completar su registro e ingresar a su Práctica Online.",
+            "spanish_la": "Haga click aquí para completar su registro e ingresar a su Práctica Online.",
             "portuguese": "Clique aqui para completar o seu registo e se conectar ao Online Practice."
           }
         }

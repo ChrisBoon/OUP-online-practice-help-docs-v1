@@ -16,7 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -28,7 +28,7 @@
             "english": "The Glossary contains all core vocabulary in a level. Click on a letter to go to the words beginning with that letter in the Glossary.",
             "turkish": "Sözlük, bir seviyedeki temel kelimelerin tümünü içerir. Sözlükte o harfle başlayan kelimelere gitmek için bir harfe tıklayın.",
             "spanish": "El Glosario contiene todo el vocabulario básico de un nivel. Haga clic en una letra para acceder a las palabras del Glosario que comienzan con esa letra.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "يحتوي المسرد على جميع المفردات الأساسية في مستوى ما. انقر فوق حرف ما للانتقال إلى الكلمات التي تبدأ بهذا الحرف في المسرد."
           }
         },
@@ -40,7 +40,7 @@
             "english": "Type a word in the text box to search for a word. The Glossary automatically searches for the word.",
             "turkish": "Bir kelimeyi aramak için metin kutusuna girin. Sözlük otomatik olarak kelimeyi aratır.",
             "spanish": "Escriba una palabra en el cuadro de texto para buscarla. El Glosario busca la palabra de forma automática.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "قم بكتابة كلمة في المربع الحواري للبحث عنها. سيبحث المسرد بشكل تلقائي عن الكلمة."
           }
         },
@@ -52,7 +52,7 @@
             "english": "Scroll through the menu and choose a word to see the definition and examples.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         }

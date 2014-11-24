@@ -2,7 +2,7 @@
  "title": {
     "english": "Enter Online Practice",
     "spanish": "Ingresar a Práctica Online",
-    "spanish-la": "Ingresar a Práctica Online",
+    "spanish_la": "Ingresar a Práctica Online",
     "portuguese": "Acessar o Online Practice"
   },
  "segment": "primary",
@@ -15,7 +15,7 @@
       "pageTitle": {
         "english": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "portuguese": ""
       },
       "paragraphs":{
@@ -26,7 +26,7 @@
           "text":{
             "english": "Click an icon to choose your Online Practice level. If you add further levels you will be able to access them here.",
             "spanish": "Haga clic en un icono para elegir su nivel de Práctica Online. Si añade más niveles podrá acceder a ellos desde aquí.",
-            "spanish-la": "Haga click en un icono para elegir su nivel de Práctica Online. Si añade más niveles podrá acceder a ellos desde aquí.",
+            "spanish_la": "Haga click en un icono para elegir su nivel de Práctica Online. Si añade más niveles podrá acceder a ellos desde aquí.",
             "portuguese": "Clique em um ícone para escolher o seu nível no Online Practice. Caso mais níveis sejam adicionados, você poderá acessá-los aqui."
           }
         }
@@ -38,7 +38,7 @@
       "pageTitle": {
         "english": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "portuguese": ""
       },
       "paragraphs":{
@@ -49,7 +49,7 @@
           "text":{
             "english": "When you have chosen a level you can enter the Activity area, view and download supporting course resources or visit the Media Center to use audio and video files for your level.",
             "spanish": "Una vez elegido un nivel, podrá ingresar al área de actividad, ver y descargar recursos de apoyo del curso o visitar el Centro de Medios para utilizar archivos de audio y vídeo para su nivel.",
-            "spanish-la": "Una vez elegido un nivel, podrá ingresar al área de actividad, ver y descargar recursos de apoyo del curso o visitar el Centro de Medios para utilizar archivos de audio y video para su nivel.",
+            "spanish_la": "Una vez elegido un nivel, podrá ingresar al área de actividad, ver y descargar recursos de apoyo del curso o visitar el Centro de Medios para utilizar archivos de audio y video para su nivel.",
             "portuguese": "Quando você escolher um nível, você poderá entrar na área de atividades, visualizar e baixar os recursos de suporte do curso ou visitar o centro de mídia para utilizar os arquivos de áudio e vídeo disponibilizados para o seu nível."
           }
         }

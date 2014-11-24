@@ -14,7 +14,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -26,7 +26,7 @@
             "english": "Click here to change your first name.",
             "turkish": "Adınızı değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar su nombre.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لتغيير اسمك الأول."
           }
         },
@@ -38,7 +38,7 @@
             "english": "Click here to change your last name (family name).",
             "turkish": "Soyadınızı (aile adı) değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar su apellido.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "اانقر هنا لتغيير اسمك الأخير (اسم العائلة)."
           }
         },
@@ -50,7 +50,7 @@
             "english": "Click here to change your institution name.",
             "turkish": "Kurum adınızı değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar el nombre de su institución.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لتغيير اسم مؤسستك."
           }
         },
@@ -62,7 +62,7 @@
             "english": "Click here to change your email address.",
             "turkish": "E-posta adresinizi değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar su dirección de correo electrónico.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لتغيير عنوان بريدك الإلكتروني."
           }
         },
@@ -74,7 +74,7 @@
             "english": "Click here to confirm your new email address.",
             "turkish": "Yeni e-posta adresinizi onaylamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para confirmar su nueva dirección de correo electrónico.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لتأكيد عنوان بريدك الإلكتروني."
           }
         },
@@ -86,7 +86,7 @@
             "english": "Click here to change your password.",
             "turkish": "Parolanızı değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar su contraseña.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لتغيير كلمة المرور الخاصة بك."
           }
         },
@@ -98,7 +98,7 @@
             "english": "Click here to confirm your new password.",
             "turkish": "Yeni parolanızı onaylamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para confirmar su nueva contraseña.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لتأكيد كلمة المرور الجديدة الخاصة بك."
           }
         },
@@ -110,7 +110,7 @@
             "english": "Click here to save your changes.",
             "turkish": "Değişikliklerinizi kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لحفظ التغييرات التي أجريتها."
           }
         },
@@ -122,7 +122,7 @@
             "english": "Click here to cancel without saving any changes.",
             "turkish": "Değişiklikleri kaydetmeden iptal etmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cancelar sin guardar los cambios.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا للإلغاء بدون حفظ أي تغييرات."
           }
         }

@@ -16,7 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -28,7 +28,7 @@
             "english": "This screen shows reports for all students in a class.",
             "turkish": "Bu ekran bir dersteki tüm öğrencilerin raporlarını gösterir.",
             "spanish": "Esta pantalla muestra los informes para todos los estudiantes en una clase.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "تُظهِر هذه الشاشة تقارير جميع الطلاب في فصل ما."
           }
         },
@@ -40,7 +40,7 @@
             "english": "Use this menu to see a report for a different class.",
             "turkish": "Farklı derse ait bir rapor görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un informe para una clase diferente.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "استخدم هذه القائمة لرؤية تقرير ما لفصل مختلف."
           }
         },
@@ -52,7 +52,7 @@
             "english": "Use this menu to see reports for an individual student or all students.",
             "turkish": "Sadece bir öğrencinin ya da tüm öğrencilerin raporlarını görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver los informes para un estudiante en particular o para todos los estudiantes.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "استخدم هذه القائمة لرؤية تقارير طالب ما على حدة أو تقارير كل الطلاب."
           }
         },
@@ -64,7 +64,7 @@
             "english": "You can also click on a student’s name to see their results across segments.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -76,7 +76,7 @@
             "english": "Use this menu to filter the report to see students’ results in a particular segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -88,7 +88,7 @@
             "english": "You can also click on a segment title to see results in a segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -100,7 +100,7 @@
             "english": "This row shows the average number of completed activities in each segment for the class.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -112,7 +112,7 @@
             "english": "This row shows the average total score for activities in a segment for the class.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -124,7 +124,7 @@
             "english": "This row shows the average time spent on activities in a segment for the class.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -136,7 +136,7 @@
             "english": "This is the total of the average number of activities completed across the segments.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -148,7 +148,7 @@
             "english": "This is the total average score for all students across the segments.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -160,7 +160,7 @@
             "english": "This is the average amount of time all students spent on activities.",
             "turkish": "Bu tüm öğrencilerin akvitelerde harcadığı ortalama süredir.",
             "spanish": "Esta es la cantidad promedio de tiempo que todos los estudiantes han empleado en las actividades.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "هذا هو متوسط مقدار الوقت الذي قضاه كل الطلاب في الأنشطة."
           }
         },
@@ -172,7 +172,7 @@
             "english": "This row shows the number of activities completed by a student in each segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -184,7 +184,7 @@
             "english": "This row shows a student’s total score in each segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -196,7 +196,7 @@
             "english": "This row shows the total amount of time a student spent on activities in each segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -208,7 +208,7 @@
             "english": "This is the total number of activities completed by a student.",
             "turkish": "Bu bir öğrenci tarafından tamamlanan toplam aktivite sayısıdır.",
             "spanish": "Este es el número total de actividades realizadas por el estudiante.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "هذا هو العدد الإجمالي للأنشطة المُنجَزة من قِبل الطالب."
           }
         },
@@ -220,7 +220,7 @@
             "english": "This is the average activity score for a student across the level.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -232,7 +232,7 @@
             "english": "This is the total amount of time this student worked in the entire level.",
             "turkish": "Bu öğrencinin seviyenin tamamında çalıştığı toplam süredir.",
             "spanish": "Esta es la cantidad total de tiempo que este estudiante trabajó en todo el nivel.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "هذا هو إجمالي مقدار الوقت الذي عمله الطالب في كامل المستوى."
           }
         },
@@ -244,7 +244,7 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -256,7 +256,7 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }

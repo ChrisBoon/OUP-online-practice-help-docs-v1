@@ -16,7 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -28,7 +28,7 @@
             "english": "This page allows you to change the information you see in your reports.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -40,7 +40,7 @@
             "english": "Click here to manage attempts for a different class.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -52,7 +52,7 @@
             "english": "Click here to show the first attempt on each activity. Students can continue to practice, but you will only see their first score in your reports.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -64,7 +64,7 @@
             "english": "Click here to show the last attempt on each activity. Students can continue to practice, but you will only see their last score in your reports. (This is the default setting.)",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -76,7 +76,7 @@
             "english": "Click here to save your changes.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         }

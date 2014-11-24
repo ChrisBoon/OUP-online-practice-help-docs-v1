@@ -16,7 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -28,7 +28,7 @@
             "english": "If you are a first-time user click “Register”.",
             "turkish": "İlk kez kullanıyorsanız “Register” seçeneğine tıklayın.",
             "spanish": "Si utiliza el sitio por primera vez, haga clic en \"Register\".",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "إذا كنت مستخدمًا لأول مرة,فانقر على“Register”(\"تسجيل\")."
           }
         }
@@ -41,7 +41,7 @@
         "english": "Agree to the Terms of Use",
         "turkish": "Kullanım Koşullarını kabul edin.",
         "spanish": "Aceptar las Condiciones de Uso",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": "وافق على شروط الاستخدام"
       },
       "paragraphs":{
@@ -53,7 +53,7 @@
             "english": "This page explains the Terms of Use. You must agree to the terms in order to register for Online Practice.",
             "turkish": "Bu sayfa Kullanım Koşullarını açıklamaktadır. Çevrim İçi Uygulamaya kaydolmak için koşulları kabul etmeniz gerekir.",
             "spanish": "Esta página explica las Condiciones de Uso. Usted debe aceptarlas para poder registrarse para la Práctica Online.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "تشرح هذه الصفحة شروط الاستخدام. يجب عليك الموافقة على الشروط لكي تقوم بالتسجيل الخاص بالممارسة عبر شبكة الإنترنت."
           }
         },
@@ -65,7 +65,7 @@
             "english": "Check the box and click “I Agree”.",
             "turkish": "Kutucuğu işaretleyin ve “I Agree” seçeneğine tıklayın.",
             "spanish": "Marque la casilla y haga clic en \"I Agree\".",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "ضع علامة في المربع وانقر“I Agree”(\"أوافق\")."
           }
         },
@@ -77,7 +77,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
@@ -90,7 +90,7 @@
         "english": "Enter your access code",
         "turkish": "Erişim kodunuzu girin",
         "spanish": "Ingrese su código de acceso",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": "أدخل رمز الدخول الخاص بك"
       },
       "paragraphs":{
@@ -102,7 +102,7 @@
             "english": "Enter the access code on your Teacher’s access code card.",
             "turkish": "Öğretmen erişim kodu kartınızın üzerindeki erişim kodunu girin.",
             "spanish": "Ingrese el código de acceso de su tarjeta de código de acceso para Profesores.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "أدخل رمز الدخول على بطاقة رمز دخول المعلم الخاصة بك."
           }
         },
@@ -114,7 +114,7 @@
             "english": "Click “Enter”.",
             "turkish": "“Enter” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Enter\".",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر “Enter”(\"إدخال\")"
           }
         }
@@ -127,7 +127,7 @@
         "english": "Enter your details",
         "turkish": "Ayrıntılarınızı girin",
         "spanish": "Ingrese sus datos",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": "أدخل التفاصيل الخاصة بك"
       },
       "paragraphs":{
@@ -139,7 +139,7 @@
             "english": "Enter your first name (given name).",
             "turkish": "Adınızı girin.",
             "spanish": "Ingrese su nombre (nombre de pila).",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "أدخل اسمك الأول (الاسم المُعطَى)."
           }
         },
@@ -151,7 +151,7 @@
             "english": "Enter your last name (family name).",
             "turkish": "Soyadınızı (aile adı) girin.",
             "spanish": "Ingrese su apellido.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "أدخل اسمك الأخير (اسم العائلة)."
           }
         },
@@ -163,7 +163,7 @@
             "english": "Enter your email address.",
             "turkish": "E-posta adresinizi girin.",
             "spanish": "Ingrese su dirección de correo electrónico.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "أدخل عنوان بريدك الإلكتروني."
           }
         },
@@ -175,7 +175,7 @@
             "english": "Type your email address again.",
             "turkish": "E-posta adresinizi tekrar yazın.",
             "spanish": "Vuelva a escribir su dirección de correo electrónico.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "اطبع عنوان بريدك الإلكتروني مرةً أخرى."
           }
         },
@@ -187,7 +187,7 @@
             "english": "Choose a password.",
             "turkish": "Bir parola seçin.",
             "spanish": "Elija una contraseña.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "حدد كلمة مرور."
           }
         },
@@ -199,7 +199,7 @@
             "english": "Type your password again.",
             "turkish": "Parolanızı tekrar yazın.",
             "spanish": "Vuelva a escribir su contraseña.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "قم بطباعة كلمة المرور مرة أخرى."
           }
         },
@@ -211,7 +211,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -223,7 +223,7 @@
             "english": "Click here to submit your information and go to the next page.",
             "turkish": "Bilgilerinizi göndermek ve bir sonraki sayfaya geçmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su información e ir a la página siguiente.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لإرسال المعلومات الخاصة بك وانتقل للصفحة التالية."
           }
         }
@@ -236,7 +236,7 @@
         "english": "Choose a level",
         "turkish": "Seviye seç",
         "spanish": "Elija un nivel",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": "حدد مستوى"
       },
       "paragraphs":{
@@ -248,7 +248,7 @@
             "english": "Click on your level to select it. It is very important to select the level that you will be using. Check the title to make sure it is your level. If you are using more than one level, you can add another level later by choosing “Add a level” from your Home screen. You will need a new access code to add a level.",
             "turkish": "Seçmek istediğiniz seviyeye tıklayın. Kullanacağınız seviyenin seçilmesi son derece önemlidir. Sizin seviyenizde olduğundan emin olmak için başlığı kontrol edin. Birden fazla seviye kullanıyorsanız, Anasayfa ekranından “Add a level” seçeneğini seçerek başka bir seviye ekleyebilirsiniz. Bir seviye eklemek için yeni bir erişim koduna ihtiyacınız olacak.",
             "spanish": "Haga clic para seleccionar su nivel. Es muy importante seleccionar el nivel que va a utilizar. Revise el título para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede agregar otro nivel luego seleccionando \"Add a Level\" en su pantalla de Inicio. Necesitará un nuevo código de acceso para agregar un nivel.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر فوق المستوى الخاص بك لتحديده من الأهمية بمكان أن تحدد المستوى الذي سوف تستخدمه. تحقق من العنوان لتتأكد أنه المستوى الخاص بك. إذا كنت تستخدم أكثر من مستوى، يمكنك إضافة مستوى آخر في وقت لاحق عن طريق اختيار“Add a level” (\"أضف مستوى\") من صفحتك الرئيسية. سوف تحتاج إلى رمز وصول جديد لإضافة مستوى."
           }
         },
@@ -260,7 +260,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
@@ -273,7 +273,7 @@
         "english": "Enter your institution ID code",
         "turkish": "Kurum ID kodunuzu girin",
         "spanish": "Ingrese el código de ID de su institución",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": "أأدخل رمز مُعرِّف المؤسسة الخاص بك."
       },
       "paragraphs":{
@@ -285,7 +285,7 @@
             "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page.",
             "turkish": "Bir kurum ID kodunuz varsa, buraya girin. Bu yöneticinizden size verebileceği bir koddur. Bu kod ders kayıtlarınızı okul ya da kuruma iletmenizi sağlar. Bir kurum ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Daha sonra Ders Ayrıntıları sayfasından “Join an Institution” seçeneğine tıklayarak bir kurum ID kodu girebilirsiniz.",
             "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga clic en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo clic en “Join an Institution” desde su página de Detalles de la Clase.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فأدخله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك."
           }
         },
@@ -297,7 +297,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -309,7 +309,7 @@
             "english": "Click here if you do not have an institution ID code.",
             "turkish": "Bir kurum ID kodunuz yoksa buraya tıklayın.",
             "spanish": "Haga clic aquí si usted no tiene un código de ID de institución.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         },
@@ -321,7 +321,7 @@
             "english": "Click here to submit your institution ID code and go to the next page.",
             "turkish": "Kurum ID kodunuzu göndermek ve sonraki sayfaya gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su código de ID de institución y avanzar a la página siguiente.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاصة بك وانتقل للصفحة التالية."
           }
         }
@@ -334,7 +334,7 @@
         "english": "Create a class",
         "turkish": "Ders Oluştur",
         "spanish": "Crear una clase",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": "إنشاء فصل"
       },
       "paragraphs":{
@@ -346,7 +346,7 @@
             "english": "Enter a name for your first class. To create additional classes later, click “Manage Classes” from your Home page when you finish registering.",
             "turkish": "İlk dersiniz için bir ad girin. Daha sonra ek dersler oluşturmak için, kaydı tamamladıktan sonra Anasayfanızdan “Manage Classes”e tıklayın.",
             "spanish": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga clic en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "أدخل اسم لأول فصل خاص بك. لإنشاء فصول إضافية لاحقًا؛ انقر على “Manage Classes”(\"إدارة الفصول\") من صفحتك الرئيسية عندما تنتهي من التسجيل."
           }
         },
@@ -358,7 +358,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -370,7 +370,7 @@
             "english": "Click here to skip this page without entering a class name.",
             "turkish": "Bir ders adı girmeden bu sayfayı atlamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para saltarse esta página sin ingresar un nombre de clase.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لتخطي هذه الصفحة بدون إدخال اسم فصل."
           }
         },
@@ -382,7 +382,7 @@
             "english": "Click here to submit your class name and go to the next page.",
             "turkish": "Ders adınızı göndermek ve bir sonraki sayfaya gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لإرسال اسم الفصل الخاص بك وانتقل للصفحة التالية."
           }
         }
@@ -395,7 +395,7 @@
         "english": "Save your class code",
         "turkish": "Ders kodunuzu kaydedin",
         "spanish": "Guarde el código de su clase",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": "قم بحفظ رمز الفصل الخاص بك."
       },
       "paragraphs":{
@@ -407,7 +407,7 @@
             "english": "This is the class ID code for the class you named in the previous screen. Give this code to your students so they can join your class and you can see their work.",
             "turkish": "Bu bir önceki ekranda ad verdiğiniz dersin ID kodudur. Derse katılabilmeleri ve çalışmalarınızı görebilmeleri için bu kodu öğrencilerinize verin.",
             "spanish": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر على رمز مُعرِّف الفصل الخاص بالفصل الذي قمت بتسميته في الشاشة السابقة. قم بإعطاء هذا الرمز لطلابك كي يتمكنوا من الانضمام إلى فصلك ويمكنهم رؤية العمل الخاص بهم."
           }
         },
@@ -419,7 +419,7 @@
             "english": "Click here to print this page for your records or to copy and share with your students. ",
             "turkish": "Kayıtlarınız için bu sayfayı yazdırmak veya öğrencilerinize kopyalamak ve paylaşmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir esta página para sus registros o para copiar y compartir con sus estudiantes.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لطباعة هذه الصفحة الخاصة بسجلاتك أو نسخها ومشاركتها مع طلابك."
           }
         },
@@ -431,7 +431,7 @@
             "english": "Click here to go to the next page.",
             "turkish": "Bir sonraki sayfaya gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ir a la página siguiente.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا للانتقال إلى الصفحة التالية."
           }
         }
@@ -444,7 +444,7 @@
         "english": "Save your registration information",
         "turkish": "Kayıt bilgilerinizi kaydedin",
         "spanish": "Guarde su información de registro",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": "قم حفظ معلومات التسجيل الخاصة بك."
       },
       "paragraphs":{
@@ -456,7 +456,7 @@
             "english": "This page shows your registration information. You may want to print this page for your records. To change this information, select “Edit Profile” after you log in (it will be in the top right of the screen).",
             "turkish": "Bu sayfa kayıt bilgilerinizi gösterir. Kayıtlarınız için bu sayfayı yazdırmak isteyebilirsiniz. Bu bilgileri değiştirmek için, oturum açtıktan sonra “Edit Profile” seçeneğini seçin (ekranın üst sağ köşesinde olacak).",
             "spanish": "Esta página muestra su información de registro. Es posible que desee imprimir esta página para sus registros. Para cambiar esta información, seleccione \"Edit Profile\" tras iniciar sesión (se encontrará en la parte superior derecha de la pantalla).",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "تُظهِر هذه الصفحة معلومات التسجيل الخاصة بك. وقد ترغب في طباعة هذه الصفحة مع السجلات الخاصة بك. لتغيير هذه المعلومات؛ حدد “Edit Profile” (\"تحرير الملف الشخصي\") بعد تسجيل دخولك (سيوجد في أعلى يمين الشاشة)."
           }
         },
@@ -468,7 +468,7 @@
             "english": "Click here to print your registration information.",
             "turkish": "Kayıt bilgilerinizi yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir su información de registro.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لطباعة معلومات التسجيل الخاصة بك."
           }
         },
@@ -480,7 +480,7 @@
             "english": "Click here to complete your registration and log in to your Online Practice.",
             "turkish": "Kaydınızı tamamlamak ve Çevrim İçi Uygulama oturumunuzu açmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para completar su registro e ingresar a su Práctica Online.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لإكمال التسجيل الخاص بك وتسجيل الدخول في الممارسة الخاصة بك عبر شبكة الإنترنت."
           }
         }

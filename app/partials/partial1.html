@@ -12,9 +12,9 @@
       class="help-doc__title">
     {{helpdoc.title.spanish}}
   </h1>
-  <h1 ng-if="language.language == 'spanish-la'"
+  <h1 ng-if="language.language == 'spanish_la'"
       class="help-doc__title">
-    {{helpdoc.title.spanish-la}}
+    {{helpdoc.title.spanish_la}}
   </h1>
   <h1 ng-if="language.language == 'portuguese'"
       class="help-doc__title">
@@ -43,8 +43,8 @@
       {{page.pageTitle.spanish}}
     </h2>
     <h2 class="help-doc__page__title"
-        ng-if="language.language == 'spanish-la'">
-      {{page.pageTitle.spanish-la}}
+        ng-if="language.language == 'spanish_la'">
+      {{page.pageTitle.spanish_la}}
     </h2>
     <h2 class="help-doc__page__title"
         ng-if="language.language == 'portuguese'">
@@ -96,9 +96,9 @@
              class="help-doc__page__text help-doc__page__paragraph--numbered__text">
             {{para.text.spanish}}
           </p>
-          <p ng-if="language.language == 'spanish-la'"
+          <p ng-if="language.language == 'spanish_la'"
              class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.spanish-la}}
+            {{para.text.spanish_la}}
           </p>
           <p ng-if="language.language == 'portuguese'"
              class="help-doc__page__text help-doc__page__paragraph--numbered__text">
@@ -139,9 +139,9 @@
           <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.spanish}}</a>
         </div>
 
-        <div ng-if="language.language == 'spanish-la'">
-          <p>{{page.content.thing01.text.spanish-la}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.spanish-la}}</a>
+        <div ng-if="language.language == 'spanish_la'">
+          <p>{{page.content.thing01.text.spanish_la}}</p>
+          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.spanish_la}}</a>
         </div>
 
         <div ng-if="language.language == 'portuguese'">

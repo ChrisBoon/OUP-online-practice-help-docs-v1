@@ -2,7 +2,7 @@
  "title": {
     "english": "Add a Level",
     "spanish": "Añadir un Nivel",
-    "spanish-la": "Añadir un Nivel",
+    "spanish_la": "Añadir un Nivel",
     "portuguese": "Adicione um nível"
   },
  "segment": "primary",
@@ -15,7 +15,7 @@
       "pageTitle": {
         "english": "Enter your access code",
         "spanish": "Ingrese su código de acceso",
-        "spanish-la": "Ingrese su código de acceso",
+        "spanish_la": "Ingrese su código de acceso",
         "portuguese": "Insira seu código de acesso"
       },
       "paragraphs":{
@@ -26,7 +26,7 @@
           "text":{
             "english": "Enter your Online Practice access code here. The access code is on your Student Access Card. You must have an access code to add a new level to your account.",
             "spanish": "-",
-            "spanish-la": "-",
+            "spanish_la": "-",
             "portuguese": "-"
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "Click here to go to the Oxford University Press website for information on how to buy an access code.",
             "spanish": "Haga clic aquí para ir al sitio web de Oxford University Press para obtener información acerca de cómo comprar un código de acceso.",
-            "spanish-la": "Haga click aquí para ir al sitio web de Oxford University Press para obtener información acerca de cómo comprar un código de acceso.",
+            "spanish_la": "Haga click aquí para ir al sitio web de Oxford University Press para obtener información acerca de cómo comprar un código de acceso.",
             "portuguese": "Clique aqui para ir ao site da Oxford University Press para obter informações sobre como comprar um código de acesso."
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "Click here to submit your access code.",
             "spanish": "Haga clic aquí para enviar su código de acceso.",
-            "spanish-la": "Haga click aquí para enviar su código de acceso.",
+            "spanish_la": "Haga click aquí para enviar su código de acceso.",
             "portuguese": "Clique aqui para enviar seu código de acesso."
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "Haga click aquí para volver a la página anterior.",
+            "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "Click here to go to the next page after entering your access code.",
             "spanish": "Haga clic aquí para ir a la página siguiente una vez ingresado su código de acceso.",
-            "spanish-la": "Haga click aquí para ir a la página siguiente una vez ingresado su código de acceso.",
+            "spanish_la": "Haga click aquí para ir a la página siguiente una vez ingresado su código de acceso.",
             "portuguese": "Clique aqui para ir para a próxima página depois de inserir o seu código de acesso."
           }
         }
@@ -82,7 +82,7 @@
       "pageTitle": {
         "english": "Choose a level",
         "spanish": "Elija un nivel",
-        "spanish-la": "Elija un nivel",
+        "spanish_la": "Elija un nivel",
         "portuguese": "Escolha um nível"
       },
       "paragraphs":{
@@ -93,7 +93,7 @@
           "text":{
             "english": "Choose a level. It is very important to choose the level that you are using. Check to make sure it is the same level as your book.",
             "spanish": "Elija un nivel. Es muy importante elegir el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
-            "spanish-la": "Elija un nivel. Es muy importante elegir el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
+            "spanish_la": "Elija un nivel. Es muy importante elegir el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "portuguese": "Escolha um nível. É muito importante escolher o nível que você está utilizando. Certifique-se de que o nível selecionado é o mesmo nível do seu livro."
           }
         },
@@ -104,7 +104,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "Haga click aquí para volver a la página anterior.",
+            "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         }
@@ -116,7 +116,7 @@
       "pageTitle": {
         "english": "Join a class",
         "spanish": "Inscribirse a una clase",
-        "spanish-la": "Inscribirse a una clase",
+        "spanish_la": "Inscribirse a una clase",
         "portuguese": "Participe de uma aula"
       },
       "paragraphs":{
@@ -127,7 +127,7 @@
           "text":{
             "english": "If you have a class ID code, enter it here. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it. If you do not have a class ID code, click “Skip”. To enter this code later, choose “Join a Class” from your Home page.",
             "spanish": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga clic en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
-            "spanish-la": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga click en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
+            "spanish_la": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga click en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
             "portuguese": "Caso você possua um código de identificação de aula, insira-o aqui. Um código de identificação de aula pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua aula para que o seu professor possa o visualizar. Caso você não tenha um código de identificação de aula, clique em “Skip“. Para introduzir esse código mais tarde, escolha a opção “Join a Class“ na sua página inicial."
           }
         },
@@ -138,7 +138,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "spanish-la": "Haga click aquí para volver a la página anterior.",
+            "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         },
@@ -149,7 +149,7 @@
           "text":{
             "english": "Click here if you do not have a class ID code.",
             "spanish": "Haga clic aquí si no tiene un código de ID de clase.",
-            "spanish-la": "Haga click aquí si no tiene un código de ID de clase.",
+            "spanish_la": "Haga click aquí si no tiene un código de ID de clase.",
             "portuguese": "Clique aqui caso você não tinha um código de identificação de aula."
           }
         },
@@ -160,7 +160,7 @@
           "text":{
             "english": "Click here to submit your class ID code and go to your Home page.",
             "spanish": "Haga clic aquí para enviar el código de ID de clase y ser dirigido a su página de Inicio.",
-            "spanish-la": "Haga click aquí para enviar el código de ID de clase y ser dirigido a su página de Inicio.",
+            "spanish_la": "Haga click aquí para enviar el código de ID de clase y ser dirigido a su página de Inicio.",
             "portuguese": "Clique aqui para enviar seu código de identificação de aula e para ir para sua página inicial."
           }
         }

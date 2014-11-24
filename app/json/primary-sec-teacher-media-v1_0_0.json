@@ -2,7 +2,7 @@
  "title": {
     "english": "Media Center",
     "spanish": "Centro de Medios",
-    "spanish-la": "Centro de Medios",
+    "spanish_la": "Centro de Medios",
     "portuguese": "Centro de mídia"
   },
  "segment": "primary",
@@ -15,7 +15,7 @@
       "pageTitle": {
         "english": "Audio",
         "spanish": "Audio",
-        "spanish-la": "Audio",
+        "spanish_la": "Audio",
         "portuguese": "Áudio"
       },
       "paragraphs":{
@@ -26,7 +26,7 @@
           "text":{
             "english": "The Media Center provides class audio and video files for you and your students to use, if available.",
             "spanish": "El Centro de Medios proporciona archivos de vídeo y audio de la clase para que los utilicen tanto usted como sus estudiantes, de estar disponibles.",
-            "spanish-la": "El Centro de Medios proporciona archivos de video y audio de la clase para que los utilicen tanto usted como sus estudiantes, de estar disponibles.",
+            "spanish_la": "El Centro de Medios proporciona archivos de video y audio de la clase para que los utilicen tanto usted como sus estudiantes, de estar disponibles.",
             "portuguese": "O centro de mídia fornece a você e seus alunos os arquivos de áudio e vídeo que estejam disponíveis."
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
             "spanish": "Haga clic en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
-            "spanish-la": "Haga click en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
+            "spanish_la": "Haga click en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
             "portuguese": "Clique no título de um arquivo de áudio. Um player de áudio aparecerá e reproduzirá o arquivo. Use o botão de seta para iniciar e pausar a reprodução da faixa. Use os controles para percorrer a faixa de áudio e alterar o volume."
           }
         }

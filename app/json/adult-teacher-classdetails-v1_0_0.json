@@ -16,7 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -28,7 +28,7 @@
             "english": "Click here to change the name of this class.",
             "turkish": "Bu sınıfın adını değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar el nombre de esta clase.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لتغيير اسم هذا الفصل."
           }
         },
@@ -40,7 +40,7 @@
             "english": "Check this box to delete this student from this class. Then click “Save Changes”.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -52,7 +52,7 @@
             "english": "Click here to go back to the previous screen. If you did not click “Save Changes” your changes will not be saved.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -64,7 +64,7 @@
             "english": "Click here to save the changes you made to this class.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "-"
           }
         }

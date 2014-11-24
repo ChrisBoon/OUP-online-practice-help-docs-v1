@@ -73,7 +73,7 @@ ng-click="firstTimeSet()"
       <span ng-if="language.language == 'english'">Welcome</span>
       <span ng-if="language.language == 'turkish'">Hoşgeldiniz</span>
       <span ng-if="language.language == 'spanish'">Bienvenido</span>
-      <span ng-if="language.language == 'spanish-la'">Bienvenido</span>
+      <span ng-if="language.language == 'spanish_la'">Bienvenido</span>
       <span ng-if="language.language == 'portuguese'">Bem-vindo</span>
       <span ng-if="language.language == 'arabic'" class="rtl">مرحبًا بكم</span>
     </a>
@@ -112,8 +112,8 @@ ng-click="firstTimeSet()"
             </span>
           </accordion-heading>
 
-          <accordion-heading ng-if="language.language == 'spanish-la'">
-            {{user.userType.spanish-la}}
+          <accordion-heading ng-if="language.language == 'spanish_la'">
+            {{user.userType.spanish_la}}
             <span 
             class="accordion-toggle__arrow"
             ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
@@ -171,12 +171,12 @@ ng-click="firstTimeSet()"
                 {{listitem.title.spanish}}
               </a>
               <a 
-              ng-if="language.language == 'spanish-la'"
+              ng-if="language.language == 'spanish_la'"
               ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
               ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
               class="help-menu__option"
               >
-                {{listitem.title.spanish-la}}
+                {{listitem.title.spanish_la}}
               </a>
               <a 
               ng-if="language.language == 'portuguese'"
@@ -206,7 +206,7 @@ ng-click="firstTimeSet()"
       <span ng-if="language.language == 'english'">FAQ</span>
       <span ng-if="language.language == 'turkish'">SSS</span>
       <span ng-if="language.language == 'spanish'">Preguntas Frecuentes</span>
-      <span ng-if="language.language == 'spanish-la'">Preguntas Frecuentes</span>
+      <span ng-if="language.language == 'spanish_la'">Preguntas Frecuentes</span>
       <span ng-if="language.language == 'portuguese'">FAQ</span>
       <span ng-if="language.language == 'arabic'" class="rtl"> الأسئلة المتكررة</span>
     </a>      

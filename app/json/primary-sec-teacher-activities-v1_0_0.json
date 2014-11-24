@@ -2,7 +2,7 @@
  "title": {
     "english": "Activities",
     "spanish": "Actividades",
-    "spanish-la": "Actividades",
+    "spanish_la": "Actividades",
     "portuguese": "Atividades"
   },
  "segment": "primary",
@@ -15,7 +15,7 @@
       "pageTitle": {
         "english": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "portuguese": ""
       },
       "paragraphs":{
@@ -26,7 +26,7 @@
           "text":{
             "english": "Use this menu to choose a unit and lesson. When you choose a unit and lesson you will be taken to the first activity within the lesson.",
             "spanish": "Utilice este menú para seleccionar una unidad y lección. Cuando elija una unidad y lección, será dirigido a la primera actividad dentro de la lección.",
-            "spanish-la": "Utilice este menú para seleccionar una unidad y lección. Cuando elija una unidad y lección, será dirigido a la primera actividad dentro de la lección.",
+            "spanish_la": "Utilice este menú para seleccionar una unidad y lección. Cuando elija una unidad y lección, será dirigido a la primera actividad dentro de la lección.",
             "portuguese": "Utilize este menu para escolher a unidade e uma lição. Quando você escolher uma unidade e uma lição, você será levado para a primeira atividade dentro da lição."
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "Use this menu to choose an activity within a lesson.",
             "spanish": "Utilice este menú para elegir una actividad dentro de una lección.",
-            "spanish-la": "Utilice este menú para elegir una actividad dentro de una lección.",
+            "spanish_la": "Utilice este menú para elegir una actividad dentro de una lección.",
             "portuguese": "Clique no menu ao lado para escolher uma atividade dentro de uma lição."
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
             "spanish": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
-            "spanish-la": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
+            "spanish_la": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
             "portuguese": "Utilize os botões “Previous” e Next” para navegar por meio das atividades em sequência."
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "The Online Practice activities are displayed in this area.",
             "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
-            "spanish-la": "Las actividades de la Práctica Online se muestran en esta área.",
+            "spanish_la": "Las actividades de la Práctica Online se muestran en esta área.",
             "portuguese": "As atividades do Online Practice são exibidas nesta área."
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "A student’s current activity score is shown here.",
             "spanish": "Aquí se muestra la puntuación actual del estudiante para la actividad.",
-            "spanish-la": "Aquí se muestra la puntuación actual del estudiante para la actividad.",
+            "spanish_la": "Aquí se muestra la puntuación actual del estudiante para la actividad.",
             "portuguese": "A sua pontuação atual de um aluno em uma atividade é exibida aqui."
           }
         },
@@ -81,7 +81,7 @@
           "text":{
             "english": "A student can attempt an activity three times. The highest score of their attempts is recorded in the student’s report.",
             "spanish": "El estudiante tiene tres intentos para realizar una actividad. La puntuación más alta de los tres intentos se registra en el informe del estudiante.",
-            "spanish-la": "El estudiante tiene tres intentos para realizar una actividad. La puntuación más alta de los tres intentos se registra en el informe del estudiante.",
+            "spanish_la": "El estudiante tiene tres intentos para realizar una actividad. La puntuación más alta de los tres intentos se registra en el informe del estudiante.",
             "portuguese": "Um aluno pode tentar realizar cada atividade três vezes. A pontuação mais alta dentre as três tentativas realizadas será registrada no relatório do aluno."
           }
         },
@@ -92,7 +92,7 @@
           "text":{
             "english": "Click here to see a Quick Tip pop-up with guidance on completing an activity.",
             "spanish": "Haga clic aquí para ver un Consejo Rápido con información sobre cómo rellenar una actividad.",
-            "spanish-la": "Haga click aquí para ver un Consejo Rápido con información sobre cómo rellenar una actividad.",
+            "spanish_la": "Haga click aquí para ver un Consejo Rápido con información sobre cómo rellenar una actividad.",
             "portuguese": "Clique aqui para visualizar um pop-up com uma dica rápida contendo orientações sobre a realização de uma atividade."
           }
         },
@@ -103,7 +103,7 @@
           "text":{
             "english": "If an activity has an attachment an icon will appear here. Click to download or display the attachment.",
             "spanish": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga clic aquí para descargar o visualizar el archivo adjunto.",
-            "spanish-la": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga click aquí para descargar o visualizar el archivo adjunto.",
+            "spanish_la": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga click aquí para descargar o visualizar el archivo adjunto.",
             "portuguese": "Se uma atividade possuir um anexo, um ícone aparecerá aqui. Clique para realizar o download ou para exibir o anexo."
           }
         },
@@ -114,7 +114,7 @@
           "text":{
             "english": "A student can check their answers when they have answered all questions in an activity.",
             "spanish": "El estudiante puede revisar sus respuestas cuando se hayan contestado todas las preguntas en una actividad.",
-            "spanish-la": "El estudiante puede revisar sus respuestas cuando se hayan contestado todas las preguntas en una actividad.",
+            "spanish_la": "El estudiante puede revisar sus respuestas cuando se hayan contestado todas las preguntas en una actividad.",
             "portuguese": "Um aluno pode conferir suas respostas após responder a todas as perguntas em uma atividade."
           }
         },
@@ -125,7 +125,7 @@
           "text":{
             "english": "A student can try again if they answered some questions incorrectly. They can try an activity three times.",
             "spanish": "El estudiante puede intentarlo de nuevo si ha contestado algunas preguntas de forma incorrecta. Tiene tres intentos por cada actividad.",
-            "spanish-la": "El estudiante puede intentarlo de nuevo si ha contestado algunas preguntas de forma incorrecta. Tiene tres intentos por cada actividad.",
+            "spanish_la": "El estudiante puede intentarlo de nuevo si ha contestado algunas preguntas de forma incorrecta. Tiene tres intentos por cada actividad.",
             "portuguese": "Um aluno pode tentar realizar uma atividade novamente caso tenha respondido a algumas perguntas de forma incorreta. Você pode tentar realizar cada atividade três vezes."
           }
         },
@@ -136,7 +136,7 @@
           "text":{
             "english": "If a student answers some questions incorrectly they can see the correct answers.",
             "spanish": "Si el estudiante responde a algunas preguntas de forma incorrecta podrá ver las respuestas correctas.",
-            "spanish-la": "Si el estudiante responde a algunas preguntas de forma incorrecta podrá ver las respuestas correctas.",
+            "spanish_la": "Si el estudiante responde a algunas preguntas de forma incorrecta podrá ver las respuestas correctas.",
             "portuguese": "Se um aluno responder algumas perguntas incorretamente, ele poderá visualizar as respostas corretas."
           }
         },
@@ -147,7 +147,7 @@
           "text":{
             "english": "A Picture Glossary can be accessed here, if available. The Picture Glossary contains core level vocabulary.",
             "spanish": "Aquí se puede acceder al Glosario ilustrado, en caso de estar disponible. El Glosario ilustrado contiene vocabulario de nivel básico.",
-            "spanish-la": "Aquí se puede acceder al Glosario ilustrado, en caso de estar disponible. El Glosario ilustrado contiene vocabulario de nivel básico.",
+            "spanish_la": "Aquí se puede acceder al Glosario ilustrado, en caso de estar disponible. El Glosario ilustrado contiene vocabulario de nivel básico.",
             "portuguese": "Um glossário de imagens pode ser acessado aqui, caso disponível. O glossário de imagens contém um vocabulário com todas as palavras principais."
           }
         },
@@ -158,7 +158,7 @@
           "text":{
             "english": "Students can access their Reports here. Teachers must access students’ Reports from the Home page.",
             "spanish": "-",
-            "spanish-la": "-",
+            "spanish_la": "-",
             "portuguese": "-"
           }
         }

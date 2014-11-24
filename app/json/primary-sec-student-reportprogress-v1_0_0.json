@@ -2,7 +2,7 @@
  "title": {
     "english": "Report",
     "spanish": "Informe",
-    "spanish-la": "Informe",
+    "spanish_la": "Informe",
     "portuguese": "Relatório"
   },
  "segment": "primary",
@@ -15,7 +15,7 @@
       "pageTitle": {
         "english": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "portuguese": ""
       },
       "paragraphs":{
@@ -26,7 +26,7 @@
           "text":{
             "english": "This page shows your activity scores for all units in your level of Online Practice.",
             "spanish": "Esta página muestra las puntuaciones de sus actividades para todas las unidades en su nivel de Práctica Online.",
-            "spanish-la": "Esta página muestra las puntuaciones de sus actividades para todas las unidades en su nivel de Práctica Online.",
+            "spanish_la": "Esta página muestra las puntuaciones de sus actividades para todas las unidades en su nivel de Práctica Online.",
             "portuguese": "Esta página exibe as pontuações das atividades de todas as unidades dentro do seu nível no Online Practice."
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "Use this menu to display reports for all units or display reports for separate units.",
             "spanish": "Utilice este menú para visualizar informes para todas las unidades o informes para unidades separadas.",
-            "spanish-la": "Utilice este menú para visualizar informes para todas las unidades o informes para unidades separadas.",
+            "spanish_la": "Utilice este menú para visualizar informes para todas las unidades o informes para unidades separadas.",
             "portuguese": "Utilize este menu para exibir relatórios sobre todas as unidades ou para exibir relatórios sobre cada unidades separadamente."
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "This row shows the total score of all activities attempted in each lesson of a unit. The score is shown out of the total number of possible points in the attempted activities.",
             "spanish": "Esta línea muestra la puntuación total de todas las actividades en cada lección de una unidad. La puntuación se muestra en base al número total de puntos posibles a obtener en las actividades.",
-            "spanish-la": "Esta línea muestra la puntuación total de todas las actividades en cada lección de una unidad. La puntuación se muestra en base al número total de puntos posibles a obtener en las actividades.",
+            "spanish_la": "Esta línea muestra la puntuación total de todas las actividades en cada lección de una unidad. La puntuación se muestra en base al número total de puntos posibles a obtener en las actividades.",
             "portuguese": "Esta linha exibe a pontuação total de todas as tentativas de realização das atividades, em cada lição de uma unidade. A pontuação é exibida em relação ao número total de pontos possíveis nas tentativas."
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "This row shows the total number of activity attempts in each lesson of a unit.",
             "spanish": "Esta fila muestra el número total de intentos para cada actividad en cada lección de una unidad.",
-            "spanish-la": "Esta fila muestra el número total de intentos para cada actividad en cada lección de una unidad.",
+            "spanish_la": "Esta fila muestra el número total de intentos para cada actividad en cada lección de una unidad.",
             "portuguese": "Esta linha exibe o número total de tentativas de realizazação das atividades, em cada lição de uma unidade."
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "This row shows the time spent on activities in each lesson of a unit.",
             "spanish": "Esta fila muestra el tiempo empleado en actividades por cada lección de una unidad.",
-            "spanish-la": "Esta fila muestra el tiempo empleado en actividades por cada lección de una unidad.",
+            "spanish_la": "Esta fila muestra el tiempo empleado en actividades por cada lección de una unidad.",
             "portuguese": "Esta linha exibe o tempo gasto em atividades em cada lição de uma unidade."
           }
         },
@@ -81,7 +81,7 @@
           "text":{
             "english": "The total score in a unit is shown here.",
             "spanish": "La puntuación total para una unidad se muestra aquí.",
-            "spanish-la": "La puntuación total para una unidad se muestra aquí.",
+            "spanish_la": "La puntuación total para una unidad se muestra aquí.",
             "portuguese": "A pontuação total em uma unidade é exibida aqui."
           }
         },
@@ -92,7 +92,7 @@
           "text":{
             "english": "The total number of activity attempts in a unit is shown here.",
             "spanish": "Aquí se muestra el número total de intentos para una actividad en una unidad.",
-            "spanish-la": "Aquí se muestra el número total de intentos para una actividad en una unidad.",
+            "spanish_la": "Aquí se muestra el número total de intentos para una actividad en una unidad.",
             "portuguese": "O número total de tentativas de cada atividade em uma unidade é exibido aqui."
           }
         },
@@ -103,7 +103,7 @@
           "text":{
             "english": "The total time taken on all activity attempts in a unit is shown here.",
             "spanish": "Aquí se muestra el tiempo total empleado en todos los intentos para las actividades en una unidad.",
-            "spanish-la": "Aquí se muestra el tiempo total empleado en todos los intentos para las actividades en una unidad.",
+            "spanish_la": "Aquí se muestra el tiempo total empleado en todos los intentos para las actividades en una unidad.",
             "portuguese": "O tempo total gasto em todas as tentativas de cada atividade em uma unidade é exibido aqui."
           }
         },
@@ -114,7 +114,7 @@
           "text":{
             "english": "Click here to see your activity scores displayed as a percentage of the total number of points available.",
             "spanish": "Haga clic aquí para ver la puntuación de la actividad como un porcentaje del número total de puntos disponibles.",
-            "spanish-la": "Haga click aquí para ver la puntuación de la actividad como un porcentaje del número total de puntos disponibles.",
+            "spanish_la": "Haga click aquí para ver la puntuación de la actividad como un porcentaje del número total de puntos disponibles.",
             "portuguese": "Clique aqui para visualizar as pontuações de suas atividades exibidas como uma percentagem do número total de pontos disponíveis."
           }
         }

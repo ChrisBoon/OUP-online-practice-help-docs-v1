@@ -16,7 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -28,7 +28,7 @@
             "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
             "turkish": "Ders ID kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın. Ders ID kodu öğretmeniniz tarafından size verilen bir koddur. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar.",
             "spanish": "Ingrese su código de ID de clase aquí y haga clic en \"Save\". Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "أأدخل رمز مُعرِّف الفصل الخاص بك هنا ثم انقر على “Save”(\"حفظ\"). يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه."
           }
         },
@@ -40,7 +40,7 @@
             "english": "Click here to submit your class ID code and return to your Home page.",
             "turkish": "Ders ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el código de ID de clase y regresar a su página de Inicio.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وعُد لصفحتك الرئيسية."
           }
         },
@@ -52,7 +52,7 @@
             "english": "Click here to go back to the previous page without joining a class.",
             "turkish": "Derse katılmadan bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior sin inscribirse a una clase.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا للرجوع إلى الصفحة السابقة بدون الانضمام إلى أحد الفصول."
           }
         }

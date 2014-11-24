@@ -16,7 +16,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish-la": "",
+        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -28,7 +28,7 @@
             "english": "Click here to manage your Online Practice classes. You can view the details of your classes, delete students’ accounts, add new classes, delete classes, or join an institution.",
             "turkish": "Çevrim İçi Uygulama derslerinizi yönetmek için buraya tıklayın. Dersinizin ayrıntılarını görüntüleyebilir, öğrencilerinizin hesaplarını silebilir, yeni dersler ekleyebilir ya da bir kuruma katılabilirsiniz.",
             "spanish": "Haga clic aquí para administrar sus clases de Práctica Online. Puede ver los detalles de sus clases, eliminar las cuentas de los estudiantes, añadir nuevas clases, eliminar clases, o inscribirse en una institución.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لإدارة فصول الممارسة الخاصة بك عبر شبكة الإنترنت. يمكنك عرض التفاصيل المتعلقة بالفصول الخاصة بك أو حذف حسابات الطلاب أو إضافة فصول جديدة أو حذف الفصول أو الانضمام لإحدى المؤسسات."
           }
         },
@@ -40,7 +40,7 @@
             "english": "Click here to view scores and reports on your students’ progress.",
             "turkish": "Öğrencilerinin ilerleyişi ile ilgili puanları ve raporları görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver las puntuaciones y los informes sobre el progreso de sus estudiantes.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لعرض الدرجات والتقارير حول تقدم الطلاب التابعين لك."
           }
         },
@@ -52,7 +52,7 @@
             "english": "Click here to enter the Online Practice activity area and to access different resources.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "ا_"
           }
         },
@@ -64,7 +64,7 @@
             "english": "Click here to add another level of your Online Practice course.",
             "turkish": "Çevrim İçi Uygulama kursunuza başka bir seviye eklemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para agregar otro nivel a su curso de Práctica Online.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لإضافة مستوى آخر لمقرر الممارسة الخاصة بك عبر شبكة الإنترنت."
           }
         },
@@ -76,7 +76,7 @@
             "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
             "turkish": "E-posta alanını kullanmak ve öğrencilerinize mesaj göndermek için buraya tıklayın. Yeni mesajınız olduğunda, mesajların sayısı burada görüntülenir.",
             "spanish": "Haga clic aquí para utilizar el área de correo electrónico y enviar mensajes a sus estudiantes. Si tiene mensajes nuevos, el número de mensajes aparecerá aquí.",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني وإرسال الرسائل إلى طلابك. إذا كانت لديك رسائل جديدة، فإن عدد الرسائل سيظهر هنا."
           }
         },
@@ -88,7 +88,7 @@
             "english": "Click here to view the Discussion Board.",
             "turkish": "-",
             "spanish": "-",
-            "spanish-la": "",
+            "spanish_la": "",
             "arabic": "ا_"
           }
         }
