@@ -266,7 +266,7 @@
         "order":22,
         "title": {
           "english": "Email",
-          "turkish": "Email",
+          "turkish": "E-posta",
           "spanish": "Correo electrónico",
           "spanish_la": "Correo electrónico",
           "portuguese": "E-mail",
@@ -423,7 +423,7 @@
         "order":10,
         "title": {
           "english": "Email",
-          "turkish": "Email",
+          "turkish": "E-posta",
           "spanish": "Correo electrónico",
           "spanish_la": "Correo electrónico",
           "portuguese": "E-mail",
