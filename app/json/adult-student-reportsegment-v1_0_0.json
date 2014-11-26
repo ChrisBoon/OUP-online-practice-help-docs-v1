@@ -16,7 +16,6 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -28,7 +27,6 @@
             "english": "Use this menu to display reports for all segments or display reports for specific segments.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -40,7 +38,6 @@
             "english": "This row shows the scores for each activity in a unit. The score is shown out of the total number of possible points in an activity.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -52,7 +49,6 @@
             "english": "This row shows the number of attempts at each activity in a unit.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -64,7 +60,6 @@
             "english": "This row shows the time taken for all attempts at each activity in a unit.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -76,7 +71,6 @@
             "english": "The total score for a unit is shown here.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -88,7 +82,6 @@
             "english": "The total number of activity attempts for a unit is shown here.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -100,7 +93,6 @@
             "english": "The total time taken on all activities in a unit is shown here.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         }

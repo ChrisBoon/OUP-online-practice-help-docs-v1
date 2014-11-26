@@ -16,7 +16,6 @@
         "english": "Audio",
         "turkish": "Ses",
         "spanish": "Audio",
-        "spanish_la": "",
         "arabic": "الصوت"
       },
       "paragraphs":{
@@ -28,7 +27,6 @@
             "english": "The Media Center provides class audio and video files for you to use, if available.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -38,9 +36,8 @@
           "numberPosLeft": 39,
           "text":{
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
-            "turkish": "Bir ses dosyası başlığına tıklayın. Bir ses oynatıcı görünür ve sesi oynatır. Parçayı oynatmak ve durdurmak için ok tuşunu kullanın. Parçanın içinde gezinmek ve ses seviyesini değiştirmek için kontrolleri kullanın.",
+            "turkish": "Bir ses dosyası başlığına tıklayın. Bir ses çalar görünür ve sesi dinletir. Parçayı oynatmak ve durdurmak için çalma düğmesini kullanın. Parçanın içinde gezinmek ve ses seviyesini değiştirmek için diğer kontrol düğmelerini kullanın.",
             "spanish": "Haga clic en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
-            "spanish_la": "",
             "arabic": "اانقر فوق عنوان أحد الملفاتالصوتية. سوف يظهر مشغل الصوت ويقوم بتشغيل مقطع الفيديو. استخدم زر السهم لتشغيل وإيقاف المسار. استخدم مفاتيح التحكم للتحرك من خلال المسار وتغيير مستوى جهارة الصوت."
           }
         },
@@ -52,7 +49,6 @@
             "english": "Click on the download icon to download the entire audio track to your device.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         }
