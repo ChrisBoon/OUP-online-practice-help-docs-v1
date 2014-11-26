@@ -50,7 +50,7 @@
         "order":4,
         "title": {
           "english": "Class Details",
-          "turkish": "Sınıf Ayrıntıları",
+          "turkish": "Sınıf Bilgileri ",
           "spanish": "Detalles de la Clase",
           "spanish_la": "Detalles de la Clase",
           "portuguese": "Dados da turma",
@@ -62,7 +62,7 @@
         "order":5,
         "title": {
           "english": "Edit Class Name",
-          "turkish": "Sınıf Adını Düzenle",
+          "turkish": "Sınıf Adını Değiştir",
           "spanish": "Editar Nombre de la Clase",
           "spanish_la": "Editar Nombre de la Clase",
           "portuguese": "Editar o nome da turma",
@@ -74,7 +74,7 @@
         "order":6,
         "title": {
           "english": "Join an Institution",
-          "turkish": "Bir Kuruma Kaydol",
+          "turkish": "Bir Kuruma Katıl",
           "spanish": "Unirse a una Institución",
           "spanish_la": "Unirse a una Institución",
           "portuguese": "Associe-se a uma instituição",
@@ -86,7 +86,7 @@
         "order":7,
         "title": {
           "english": "Hide Units and Lessons",
-          "turkish": "Üniteleri ve Konuları Gizle",
+          "turkish": "Üniteleri ve Dersleri Gizle",
           "spanish": "Ocultar Unidades y Lecciones",
           "spanish_la": "Ocultar Unidades y Lecciones",
           "portuguese": "Ocultar unidades e lições",
@@ -110,7 +110,7 @@
         "order":9,
         "title": {
           "english": "Class Summary Report",
-          "turkish": "Sınıf Özeti Raporu",
+          "turkish": "Sınıf Özet Raporu",
           "spanish": "Informe de Resumen de la Clase",
           "spanish_la": "Informe de Resumen de la Clase",
           "portuguese": "Relatório resumido da turma",
@@ -170,7 +170,7 @@
         "order":14,
         "title": {
           "english": "Lesson Report",
-          "turkish": "Konu Raporu",
+          "turkish": "Ders Raporu",
           "spanish": "Informe de la Lección",
           "spanish_la": "Informe de la Lección",
           "portuguese": "Relatório da lição",
@@ -206,7 +206,7 @@
         "order":17,
         "title": {
           "english": "Activities",
-          "turkish": "Aktivitler",
+          "turkish": "Aktiviteler",
           "spanish": "Actividades",
           "spanish_la": "Actividades",
           "portuguese": "Atividades",
@@ -459,7 +459,7 @@
         "order":13,
         "title": {
           "english": "Join a Class",
-          "turkish": "Sınıfa Katıl",
+          "turkish": "Bir Sınıfa Katıl",
           "spanish": "Inscribirse a una Clase",
           "spanish_la": "Inscribirse a una Clase",
           "portuguese": "Participe de uma turma",

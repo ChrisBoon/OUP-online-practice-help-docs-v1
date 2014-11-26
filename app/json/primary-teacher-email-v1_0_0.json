@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Email",
-    "turkish": "Bir ders seçin",
+    "turkish": "E-posta",
     "spanish": "Correo electrónico",
     "spanish_la": "Correo electrónico",
     "portuguese": "E-mail",
@@ -16,7 +16,7 @@
       "imgId": "PTE001.png",
       "pageTitle": {
         "english": "Choose a class",
-        "turkish": "Ders seç",
+        "turkish": "Bir ders seçin",
         "spanish": "Elija una clase",
         "spanish_la": "Elija una clase",
         "portuguese": "Escolha uma aula",

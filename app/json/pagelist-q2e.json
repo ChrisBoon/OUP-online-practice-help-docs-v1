@@ -52,7 +52,7 @@
         "order":5,
         "title": {
           "english": "Class Details",
-          "turkish": "Sınıf Ayrıntıları",
+          "turkish": "Sınıf Bilgileri",
           "spanish": "Detalles de la Clase",
           "arabic": "تفاصيل الفصل"
         },
@@ -62,7 +62,7 @@
         "order":6,
         "title": {
           "english": "Edit Class Name",
-          "turkish": "Sınıf Adını Düzenle",
+          "turkish": "Sınıf Adını Değiştir",
           "spanish": "Editar Nombre de la Clase",
           "arabic": "تحرير اسم الفصل"
         },
@@ -72,7 +72,7 @@
         "order":7,
         "title": {
           "english": "Join an Institution",
-          "turkish": "Bir Kuruma Kaydol",
+          "turkish": "Bir Kuruma Katıl",
           "spanish": "Unirse a una Institución",
           "arabic": "الانضمام إلى مؤسسة"
         },
@@ -102,7 +102,7 @@
         "order":10,
         "title": {
           "english": "Class Summary Report",
-          "turkish": "Sınıf Özeti Raporu",
+          "turkish": "Sınıf Özet Raporu",
           "spanish": "Informe de Resumen de la Clase",
           "arabic": "تقرير موجز الفصل"
         },
@@ -182,7 +182,7 @@
         "order":18,
         "title": {
           "english": "Activities",
-          "turkish": "Aktivitler",
+          "turkish": "Aktiviteler",
           "spanish": "Actividades",
           "arabic": "أنشطة"
         },
@@ -232,7 +232,7 @@
         "order":23,
         "title": {
           "english": "Email",
-          "turkish": "Email",
+          "turkish": "E-posta",
           "spanish": "Correo electrónico",
           "arabic": "البريد الإلكتروني"
         },
@@ -363,7 +363,7 @@
         "order":10,
         "title": {
           "english": "Email",
-          "turkish": "Email",
+          "turkish": "E-posta",
           "spanish": "Correo electrónico",
           "arabic": "البريد الإلكتروني"
         },
@@ -393,7 +393,7 @@
         "order":13,
         "title": {
           "english": "Join a Class",
-          "turkish": "Sınıfa Katıl",
+          "turkish": "Bir Sınıfa Katıl",
           "spanish": "Inscribirse a una Clase",
           "arabic": "الانضمام إلى فصل"
         },
