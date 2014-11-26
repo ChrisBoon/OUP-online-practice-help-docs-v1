@@ -16,7 +16,6 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -26,9 +25,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Click an icon to choose your Online Practice level. If you add further levels you will be able to access them here.",
-            "turkish": "Çevrim İçi Uygulama seviyenizi seçmek için bir simgeye tıklayın. Ek seviye eklerseniz buradan erişebilirsiniz.",
+            "turkish": "Online Uygulama seviyenizi seçmek için bir simgeye tıklayın. Ek seviye eklerseniz buradan erişebilirsiniz.",
             "spanish": "Haga clic en un icono para elegir su nivel de Práctica Online. Si añade más niveles podrá acceder a ellos desde aquí.",
-            "spanish_la": "",
             "arabic": "انقر علىالأيقونة لتحديد مستوى الممارسة الخاص بك على الإنترنت. إذا قمت بإضافة المزيد من المستويات، فسوف يكون بإمكانك الدخول إليها هنا."
           }
         }
@@ -41,7 +39,6 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -51,9 +48,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "When you have chosen a level you can enter the Activity area, view and download supporting course resources or visit the Media Center to use audio and video files for your level.",
-            "turkish": "Bir seviye seçtikten sonra Aktivite alanına girebilir, destekleyici kurs kaynaklarını indirebilir veya seviyeniz için ses ve video dosyalarını kullanabileceğiniz Medya Merkezini ziyaret edebilirsiniz.",
+            "turkish": "Bir seviye seçtikten sonra Aktivite alanına girebilir, destekleyici kurs kaynaklarını indirebilir veya seviyenize özgü ses ve video dosyalarını kullanabileceğiniz Medya Merkezini ziyaret edebilirsiniz.",
             "spanish": "Una vez elegido un nivel, podrá ingresar al área de actividad, ver y descargar recursos de apoyo del curso o visitar el Centro de Medios para utilizar archivos de audio y vídeo para su nivel.",
-            "spanish_la": "",
             "arabic": "عند تحديدك مستوى ما، يمكنك دخول منطقة النشاط، واستعراض وتحميل مراجع الدورة الداعمةأو زيارة المركز الإعلامي لاستخدام ملفات الصوت والفيديو الخاصة بمستواك."
           }
         }

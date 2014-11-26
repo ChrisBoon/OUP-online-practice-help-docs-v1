@@ -16,7 +16,6 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -26,9 +25,8 @@
           "numberPosLeft": 24,
           "text":{
             "english": "This is the Teacher Resources area. Where available, this area will provide supporting material for you and your students when using Online Practice. Resources displayed for teachers may be different from students’ resources.",
-            "turkish": "Burası Öğretmen Kaynakları alanıdır. Varsa, Çevrim İçi Uygulamayı kullanırken kendiniz ve öğrencileriniz için destekleyici materyalleri burada bulabilirsiniz. Öğretmenler için görüntülenen kaynaklar öğrencilerinkinden farklı olabilir.",
+            "turkish": "Burası Öğretmen Kaynakları alanıdır. Varsa, Online Uygulamayı kullanırken kendiniz ve öğrencileriniz için destekleyici materyalleri burada bulabilirsiniz. Öğretmenler için görüntülenen kaynaklar öğrencilerinkinden farklı olabilir.",
             "spanish": "Esta es el área de Recursos para Profesores. Cuando esté disponible, esta área proporcionará material de apoyo para usted y sus estudiantes al utilizar Práctica Online. Los recursos que se muestran para los profesores pueden ser diferentes de los que se muestran a los estudiantes.",
-            "spanish_la": "",
             "arabic": "هذه هي منطقة موارد المعلم وعندما تكون متاحة، تقدم هذه المنطقة موادًا داعمةً لك ولطلابك عند استخدام الممارسة عبر شبكة الإنترنت. وقد تكون الموارد المعروضة الخاصة بالمعلمين مختلفة عن تلك الخاصة بالطلاب."
           }
         },
@@ -40,7 +38,6 @@
             "english": "Click on a title or icon to open a resource. PDF files and documents will open in a new tab or download to your computer or device depending on your browser settings.",
             "turkish": "Bir Kaynağı açmak için başlığına ya da simgesine tıklayın. PDF dosyaları ve belgeler yeni bir sekmede açılır ve tarayıcı ayarlarınıza bağlı olarak bilgisayarınıza ya da cihazınıza indirilir.",
             "spanish": "Haga clic en el título o icono para abrir un recurso. Los archivos PDF y los documentos se abrirán en una nueva pestaña o se descargarán a su ordenador o dispositivo en función de la configuración de su navegador.",
-            "spanish_la": "",
             "arabic": "اانقر على عنوان أو أيقونة ما لفتح أحد الموارد. وسوف يتم فتح ملفات PDF والوثائق في علامة تبويب جديدة أو تنزيلها على الحاسب أو الجهاز الخاص بك حسب إعدادات المتصفح الخاص بك."
           }
         }

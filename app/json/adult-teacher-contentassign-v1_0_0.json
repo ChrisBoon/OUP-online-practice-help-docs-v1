@@ -16,7 +16,6 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -28,7 +27,6 @@
             "english": "You can hide content from your students by checking the boxes on this page.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -40,7 +38,6 @@
             "english": "Choose a class using the menu.",
             "turkish": "Menüyü kullanarak bir ders seçin.",
             "spanish": "Elija una clase utilizando el menú.",
-            "spanish_la": "",
             "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
           }
         },
@@ -52,7 +49,6 @@
             "english": "Check a box here to hide a whole segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -64,7 +60,6 @@
             "english": "Check a box here to hide selected units within a segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -74,9 +69,8 @@
           "numberPosLeft": 24,
           "text":{
             "english": "Click here to save the changes you made to this class.",
-            "turkish": "Bu derste yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
+            "turkish": "Bu sınıfta yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
-            "spanish_la": "",
             "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
           }
         }

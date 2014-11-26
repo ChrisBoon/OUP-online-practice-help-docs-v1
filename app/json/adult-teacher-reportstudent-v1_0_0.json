@@ -16,7 +16,6 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "spanish_la": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -26,9 +25,8 @@
           "numberPosLeft": 4,
           "text":{
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
-            "turkish": "Ders Özeti Raporunu (tüm derslerinizin ortalama puanları) görüntülemek için buraya tıklayın.",
+            "turkish": "Sınıf Özet Raporunu (tüm sınıflarınızın ortalama puanları) görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe del Resumen de la Clase (puntuación media en todas sus clases).",
-            "spanish_la": "",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -38,9 +36,8 @@
           "numberPosLeft": 18.5,
           "text":{
             "english": "Click here to view the Class Report for the class shown in the menu on the right.",
-            "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görüntülemek için buraya tıklayın.",
+            "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase que se muestra en el menú de la derecha.",
-            "spanish_la": "",
             "arabic": "انقر هنا لعرض تقرير الفصل الخاص بالفصل المعروض في القائمة على اليمين."
           }
         },
@@ -50,9 +47,8 @@
           "numberPosLeft": 68,
           "text":{
             "english": "Use this menu to view the Class Report for a different class. Select “All Classes” to go to the Class Summary Report.",
-            "turkish": "Farklı bir derse ait bir Ders Raporu görüntülemek için bu menüyü kullanın. Ders Özeti Raporuna gitmek için “All Classes” seçeneğini seçin.",
+            "turkish": "Farklı bir sınıfa ait bir Sınıf Raporu görmek için bu menüyü kullanın. Sınıf Özet Raporuna gitmek için “All Classes” seçeneğini seçin.",
             "spanish": "Utilice este menú para ver el Informe de Clase para una clase diferente. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
-            "spanish_la": "",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الفصل لفصل مختلف. حدد “All Classes” (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
         },
@@ -62,9 +58,8 @@
           "numberPosLeft": 4,
           "text":{
             "english": "Use this menu to view the Student Report for a different student in this class.",
-            "turkish": "Bu sınıftaki farklı bir öğrenciye ait Öğrenci Raporunu görüntülemek için bu menüyü kullanın.",
+            "turkish": "Bu sınıftaki farklı bir öğrenciye ait Öğrenci Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el Informe del Estudiante para otro estudiante de esta clase.",
-            "spanish_la": "",
             "arabic": "استخدم هذه القائمة لعرض تقرير الطالب لطالب مختلف في هذا الفصل."
           }
         },
@@ -76,7 +71,6 @@
             "english": "Click here to see the student’s Achievements.",
             "turkish": "Öğrencinin Başarılarını görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver los Logros del estudiante.",
-            "spanish_la": "",
             "arabic": "انقر هنا لرؤية تحصيل الطلاب."
           }
         },
@@ -88,7 +82,6 @@
             "english": "Use this menu to see a student’s results for a specific segment or all segments.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -100,7 +93,6 @@
             "english": "You can also click on a segment title to view a student’s Segment Report.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -112,7 +104,6 @@
             "english": "Click on a unit to view the student’s work in that unit within a specific segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -124,7 +115,6 @@
             "english": "This row shows a student’s total score for all activities in a unit.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -136,7 +126,6 @@
             "english": "This row shows the number of times a student attempted all activities in a unit.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -148,7 +137,6 @@
             "english": "This row shows the total amount of time the student spent on each unit.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -160,7 +148,6 @@
             "english": "This is the student’s total score across all activities in a segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -172,7 +159,6 @@
             "english": "This is the total number of times the student has attempted all activities in a segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -184,7 +170,6 @@
             "english": "This is the total time taken on all activities in a segment.",
             "turkish": "-",
             "spanish": "-",
-            "spanish_la": "",
             "arabic": "-"
           }
         },
@@ -196,7 +181,6 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
-            "spanish_la": "",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -208,7 +192,6 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
-            "spanish_la": "",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }
