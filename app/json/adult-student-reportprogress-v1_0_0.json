@@ -27,7 +27,7 @@
             "english": "This page shows your activity scores for all segments in your level of Online Practice.",
             "turkish": "Bu sayfa, Çevrim İçi Uygulama seviyenizin tüm bölümlerindeki aktivite puanlarınızı gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "تعرض لك هذه الصفحة درجات نشاطك لجميع الاقسام في مستواك المتعلق بالممارسة عبر الانترنت."
           }
         },
         "paragraph02": {
@@ -38,7 +38,7 @@
             "english": "Use this menu to display reports for all segments or for a specific segment.",
             "turkish": "Tüm bölümlerin ya da belirli bir bölümün raporunu görmek için bu menüyü kullanın.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إستعمل هذه القائمة لكي تعرض تقارير لجميع الاقسام أو لقسم معين."
           }
         },
         "paragraph03": {
@@ -49,7 +49,7 @@
             "english": "This row shows the total score of all activities attempted in each unit. The score is shown out of the total number of possible points in the attempted activities.",
             "turkish": "Bu satır, her bir ünitede denediğiniz tüm aktivitelerden aldığınız toplam puanı gösterir. Puan, denenen aktivitelerden mümkün toplam puan ile birlikte görünür.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يبيّن هذا الصف الدرجة الكلية لجميع الانشطة التي جُربت في كل وحدة. الدرجة معروضة من بين العدد الكلي للنقاط الممكنة في الانشطة المُجربة."
           }
         },
         "paragraph04": {
@@ -60,7 +60,7 @@
             "english": "This row shows the total number of activity attempts in each unit.",
             "turkish": "Bu satır, her bir ünitedeki toplam aktivite denemelerinin sayısını gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يبيّن هذا الصف العدد الكلي لمحاولات النشاط في كل وحدة."
           }
         },
         "paragraph05": {
@@ -71,7 +71,7 @@
             "english": "This row shows the time spent on activities in each unit.",
             "turkish": "Bu satır, her bir ünitenin aktivitelerinde harcanan zamanı gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يبيّن هذا الصف الوقت الذي بُذل في عمل الانشطة في كل وحدة."
           }
         },
         "paragraph06": {
@@ -82,7 +82,7 @@
             "english": "The total score in a specific segment is shown here.",
             "turkish": "Belirli bir bölümün toplam puanı burada gösterilir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "الدرجة الكلية المتعلقة بالقسم الخاص معروضة هنا."
           }
         },
         "paragraph07": {
@@ -93,7 +93,7 @@
             "english": "The total number of activity attempts in a specific segment is shown here.",
             "turkish": "Belirli bir bölümdeki toplam aktivite denemelerinin sayısı burada gösterilir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "العدد الكلي لمحاولات الانشطة المتعلقة بالقسم الخاص معروضة هنا."
           }
         },
         "paragraph08": {
@@ -104,7 +104,7 @@
             "english": "The total time taken on all activity attempts in a specific segment is shown here.",
             "turkish": "Belirli bir bölümdeki aktivite denemeleri için harcanan toplam zaman burada gösterilir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "الوقت الكلي المستغرق في جميع محاولات النشاط المتعلقة بالقسم الخاص معروض هنا."
           }
         },
         "paragraph09": {

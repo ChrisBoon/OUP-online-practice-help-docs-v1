@@ -38,7 +38,7 @@
             "english": "Stars are awarded in the Trophy Room for the number of points a student has scored across the activities in a level.",
             "turkish": "Bir seviyedeki aktivitelerde öğrencinin aldığı puanlar için Zafer Odasında yıldız ödülleri verilir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "تمنح النجوم في غرفة المدالية لعدد من النقاط التي سجلها الطالب عبر نشاطات في مستوى ما."
           }
         },
         "paragraph03": {
@@ -49,7 +49,7 @@
             "english": "If a student has scored 30% of the total possible points in a unit, they are awarded a star.",
             "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %30’unu aldığında bir yıldız kazanır.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إذا سجّل الطالب 30٪  من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط تُمنح نجمة واحدة."
           }
         },
         "paragraph04": {
@@ -60,7 +60,7 @@
             "english": "If a student has scored 70% of the total possible points in a unit, they are awarded two stars.",
             "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %70’ini aldığında iki yıldız kazanır.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إذا سجّل  الطالب 70٪  من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط  تُمنح نجمتين."
           }
         },
         "paragraph05": {
@@ -71,7 +71,7 @@
             "english": "If a student has scored 90% of the total possible points in a unit, they are awarded three stars.",
             "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %90’ını aldığında üç yıldız kazanır.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إذا سجّل الطالب 90٪ من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط  تُمنح ثلاثة نجوم."
           }
         },
         "paragraph06": {
@@ -82,7 +82,7 @@
             "english": "If a student has scored 100% of the total possible points in a unit, they are awarded a trophy.",
             "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %100’ünü aldığında bonus kazanır.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إذا كان الطالب قد سجّل  100٪  من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط  تٌمنح بمدالية تذكار."
           }
         },
         "paragraph07": {
@@ -93,7 +93,7 @@
             "english": "This is the student Dashboard. The Online Practice is divided into several areas, for example, Test, Vocabulary, and Practice. The Dashboard shows student activity results for a level across the different areas.",
             "turkish": "Bu, Öğrenci Gösterge Panosudur. Çevrim İçi Uygulama, örneğin Testler, Kelime Hazinesi ve Uygulama gibi çeşitli alanlara ayrılmıştır. Gösterge Panosu, bir seviyenin çeşitli alanlarındaki aktivitelerin sonuçlarını gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "هذه هي لوحة بيانات الطالب. الممارسة عبر الإنترنت مقسّمة الى عدة مجالات  على سبيل المثال، إختبار ، مفردات والممارسة. تبيّن لوحة البيانات نتائج نشاط الطالب لمرحلة عبر المجالات المختلفة."
           }
         },
         "paragraph08": {
@@ -104,7 +104,7 @@
             "english": "Results for activities within different areas are displayed as a percentage based on the average score of all completed activities in an area within a level.",
             "turkish": "Değişik alanlardaki aktivitelerin sonuçları, bir seviye içindeki bir alanda tamamlanmış tüm aktivitelerin ortalama puanına göre bir yüzde olarak gösterilir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "النتائج المتعلقة بالانشطة ضمن مجالات مختلفة معروضة كنسبة مئوية مبنية على أساس معدل الدرجة لجميع الانشطة المنجزة في مجال ما ضمن مستو ما."
           }
         },
         "paragraph09": {
@@ -115,7 +115,7 @@
             "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
             "turkish": "Tamamlanmış aktivitelerin sayısı burada bir beceri alanındaki toplam aktivite sayısı ile birlikte gösterilir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "عدد الانشطة المنجزة معروض هنا مع العدد الكلي للانشطة في مجال للمهارة."
           }
         }
       }

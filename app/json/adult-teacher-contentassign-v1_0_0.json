@@ -3,7 +3,7 @@
     "english": "Hide/Assign Content",
     "turkish": "İçeriği Gizle/Ata",
     "spanish": "-",
-    "arabic": "-"
+    "arabic": "تحديد المحتوى /إخفاء"
   },
  "segment": "adult",
  "userType": ["teacher"],
@@ -49,7 +49,7 @@
             "english": "Check a box here to hide a whole segment.",
             "turkish": "Bölümün tamamını gizlemek için bu kutuyu işaretleyin.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "ضع علامة في  مربع ما لكي تخفي القسم بأكمله."
           }
         },
         "paragraph04": {
@@ -60,7 +60,7 @@
             "english": "Check a box here to hide selected units within a segment.",
             "turkish": "Bir bölümün içinde seçtiğiniz üniteleri gizlemek için bu kutuyu işaretleyin.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "ضع علامة على مربع ما هنا لكي تخفي الوحدات المختارة ضمن القسم."
           }
         },
         "paragraph05": {

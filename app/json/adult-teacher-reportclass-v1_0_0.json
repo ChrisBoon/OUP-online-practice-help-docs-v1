@@ -60,7 +60,7 @@
             "english": "You can also click on a student’s name to see their results across segments.",
             "turkish": "Bir öğrencinin adını tıklayıp, bölümlerde aldığı sonuçları görebilirsiniz.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك أيضاً النقر على إسم الطالب لكي ترى نتائجهم عبرَ الأقسام."
           }
         },
         "paragraph05": {
@@ -71,7 +71,7 @@
             "english": "Use this menu to filter the report to see students’ results in a particular segment.",
             "turkish": "Bu menüyü kullanarak raporu süzüp öğrencilerin belirli bir bölümde aldığı sonuçları görebilirsiniz.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إستعمل هذه القائمة لتحديد التقرير كي ترى نتائج الطلاب في قسم معيّن."
           }
         },
         "paragraph06": {
@@ -82,7 +82,7 @@
             "english": "You can also click on a segment title to see results in a segment.",
             "turkish": "Ayrıca, bir bölümün başlığına tıklayıp o bölümde alınan sonuçları görebilirsiniz.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك أيضاً النقر على عنوان القسم كي ترى النتائج في ذلك القسم."
           }
         },
         "paragraph07": {
@@ -93,7 +93,7 @@
             "english": "This row shows the average number of completed activities in each segment for the class.",
             "turkish": "Bu satır, sınıf için her bir bölümde tamamlanmış aktivitelerin ortalama sayısını gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يبيّن لك هذا الصف معدل عدد الأنشطة المكتملة للصف في كل قسم."
           }
         },
         "paragraph08": {
@@ -104,7 +104,7 @@
             "english": "This row shows the average total score for activities in a segment for the class.",
             "turkish": "Bu satır, sınıf için her bir bölümdeki aktivitelerin toplam ortalama puanı gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يبيّن هذا الصف معدل الدرجة الكلية لأنشطة في شكل تفصيلي لقسم في الصف."
           }
         },
         "paragraph09": {
@@ -115,7 +115,7 @@
             "english": "This row shows the average time spent on activities in a segment for the class.",
             "turkish": "Bu satır, sınıf için her bir bölümdeki aktivitelerde harcanan ortalama zamanı gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يبيّن هذا العمود معدل الوقت المستغرق للأنشطة في شكل تفصيلي للصف."
           }
         },
         "paragraph10": {
@@ -126,7 +126,7 @@
             "english": "This is the total of the average number of activities completed across the segments.",
             "turkish": "Burada bölümlerde tamamlanmış aktivitelerin ortalama sayısının toplamı gösterilir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو إجمالي معدل عدد الأنشطة المكتملة عبرَ الأقسام."
           }
         },
         "paragraph11": {
@@ -137,7 +137,7 @@
             "english": "This is the total average score for all students across the segments.",
             "turkish": "Burada bölümlerdeki tüm öğrencilerin toplam ortalama puanı gösterilir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو إجمالي معدل الدرجة لجميع الطلاب عبرَ الأقسام."
           }
         },
         "paragraph12": {
@@ -159,7 +159,7 @@
             "english": "This row shows the number of activities completed by a student in each segment.",
             "turkish": "Bu satır, her bir bölümde bir öğrencinin tamamladığı aktivite sayısını gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يبيّن هذا العمود عدد الأنشطة المكتملة من قبل الطالب في كل قسم."
           }
         },
         "paragraph14": {
@@ -170,7 +170,7 @@
             "english": "This row shows a student’s total score in each segment.",
             "turkish": "Bu satır, her bir bölümde bir öğrencinin aldığı toplam puanı gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يبيّن هذا العمود معدل درجة الطالب في كل قسم."
           }
         },
         "paragraph15": {
@@ -181,7 +181,7 @@
             "english": "This row shows the total amount of time a student spent on activities in each segment.",
             "turkish": "Bu satır, her bir bölümde bir öğrencinin aktiviteler için harcadığı zaman toplamını gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يبيّن هذا العمود مقدار الوقت الكلي الذي يستغرقه الطالب على الأنشطة في كل قسم."
           }
         },
         "paragraph16": {
@@ -203,7 +203,7 @@
             "english": "This is the average activity score for a student across the level.",
             "turkish": "Burada bir öğrenci için bu seviyedeki ortalama aktivite puanı gösterilir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "هذا هو معدل درجة نشاط الطالب عَبرَ كل قسم."
           }
         },
         "paragraph18": {

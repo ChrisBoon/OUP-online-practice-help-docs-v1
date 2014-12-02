@@ -69,7 +69,7 @@
             "english": "Click here to see a grammar chart pop-up related to the current activity.",
             "spanish": "_",
             "turkish": "Şimdiki aktiviteyle ilgili açılan bir gramer cetvelini görmek için buraya tıklayın.",
-            "arabic": "-"
+            "arabic": "انقر هنا لمشاهدة المخطط المنبثق لقواعد اللغة الخاص بالنشاط الحالي."
           }
         },
         "paragraph06": {
@@ -80,7 +80,7 @@
             "english": "Click here to check your answers when you have answered all questions in an activity.",
             "turkish": "Bir aktivitenin tüm sorularını cevapladıktan sonra cevaplarınızı kontrol etmek için buraya tıklayın.",
             "spanish": "_",
-            "arabic": "-"
+            "arabic": "انقر هنا لفحص إجاباتك عندما تكون قد أجبت على كل الأسئلة ضمن نشاط معين."
           }
         },
         "paragraph07": {
@@ -91,7 +91,7 @@
             "english": "You can try an activity again if you answer some questions incorrectly. You can try an activity as many times as you like.",
             "turkish": "Bazı soruları yanlış cevaplarsanız aktiviteyi tekrar deneyebilirsiniz. Bir aktiviteyi isterseniz defalarca deneyebilirsiniz.",
             "spanish": "_",
-            "arabic": "-"
+            "arabic": "يمكنك تجربة نشاط ما مرة أخرى إذا أجبت على بعض الأسئلة على نحو مغلوط. ويمكنك تجربة نشاط ما عدد المرات التي ترغب فيها."
           }
         },
         "paragraph08": {
@@ -102,7 +102,7 @@
             "english": "If you answer some questions incorrectly you can see the correct answers.",
             "turkish": "Bazı soruları yanlış cevaplarsanız doğru yanıtları görebilirsiniz.",
             "spanish": "_",
-            "arabic": "-"
+            "arabic": "إذا أجبت على بعض الأسئلة على نحو مغلوط يمكنك مشاهدة الإجابات الصحيحة."
           }
         },
         "paragraph09": {
@@ -113,7 +113,7 @@
             "english": "Click here to see a Feedback pop-up with guidance on completing an activity.",
             "turkish": "Bir aktivitenin tamamlanmasıyla ilgili bilgi için açılan Geri Bildirimi görmek üzere buraya tıklayın.",
             "spanish": "_",
-            "arabic": "-"
+            "arabic": "انقر هنا لمشاهدة ملاحظة منبثقة مع إرشادات لتكملة النشاط."
           }
         },
         "paragraph10": {
@@ -124,7 +124,7 @@
             "english": "Your current activity score is shown here.",
             "turkish": "Şimdiki aktiviteden aldığınız puan burada görünür.",
             "spanish": "_",
-            "arabic": "-"
+            "arabic": "هنا تظهر الدرجة الحالية لنشاطك."
           }
         },
         "paragraph11": {
@@ -135,7 +135,7 @@
             "english": "You can find supporting resources here that will help you with your Online Practice work, if available.",
             "turkish": "Çevrim İçi Uygulamalarda size yardım edecek kaynakları, varsa, burada bulabilirsiniz.",
             "spanish": "_",
-            "arabic": "-"
+            "arabic": "هنا يمكنك العثور على موارد مساندة التي ستساعدك على استخدام الممارسة عبر شبكة الانترنت، إذا كانت متوفرة."
           }
         },
         "paragraph12": {
@@ -146,7 +146,7 @@
             "english": "You can view the Glossary here, if available. The Glossary will help you with the course vocabulary.",
             "turkish": "Varsa, Sözlüğe burada bakabilirsiniz. Sözlük, kursun sözcük hazinesi için size yardımcı olur.",
             "spanish": "_",
-            "arabic": "-"
+            "arabic": "يمكنك مشاهدة المسرد هنا، إذا كان متاحاً. وسوف يساعدك المسرد في استعمال مفردات المقرر."
           }
         },
         "paragraph13": {
@@ -157,7 +157,7 @@
             "english": "Access your Achievements and Reports here.",
             "turkish": "Başarılarınıza ve Raporlarınıza buradan ulaşabilirsiniz.",
             "spanish": "Acceda a sus Logros e Informes aquí.", 
-            "arabic": "أدخل على التحصيل والتقارير الخاصة بك هنا."
+            "arabic": "هنا يمكنك الإحاطة بتحصيلك وتقاريرك."
           }
         }
       }

@@ -3,7 +3,7 @@
     "english": "Discussion Board",
     "turkish": "Tartışma Panosu",
     "spanish": "-",
-    "arabic": "-"
+    "arabic": "المناقشة لوحة"
   },
  "segment": "adult",
  "userType": ["teacher"],
@@ -50,7 +50,7 @@
             "english": "You can create a new post by clicking the “Create New Thread” button. A text box will open. Any student in your Online Practice class can see your post and reply to it. Students can also write posts and begin discussions.",
             "turkish": "Create New Thread” düğmesini tıklayıp yeni bir mesaj oluşturabilirsiniz. Bir metin kutusu açılacaktır. Çevrim İçi Uygulama sınıfınızdaki herhangi bir öğrenci mesajınızı görüp, cevaplayabilir. Öğrenciler de mesaj yazıp, tartışma açabilirler.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "يمكنك إنشــاء نشرة جديدة عن طريق النقر على مفتاح “Create New Thread \"إنشاء مؤشر ترابط جديد\" وسوف يُفتح لك مربعاً حوارياً. يتمكن أي طالب في صفك الذي تستخدم فيه الممارسة عبر الإنترنت أن يرى نشرتك  والرد عليها. يتمكن الطلاب أيضاً كتابة النشرات ثم يباشرون بالمناقشات."
           }
         }
       }
@@ -73,7 +73,7 @@
             "english": "Give your new post a title.",
             "turkish": "Yeni mesajınıza bir başlık ekleyin.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إعطِ عنواناً لنشرتك الجديدة."
           }
         },
         "paragraph02": {
@@ -84,7 +84,7 @@
             "english": "Write your message in the blank text area under the formatting buttons.",
             "turkish": "Mesajınızı, format düğmelerinin altındaki boş alana yazın.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "أكتب رسالتك في المجال الحواري الفارغ تحت أزرار التنسيق."
           }
         },
         "paragraph03": {
@@ -95,7 +95,7 @@
             "english": "Click “Post” when you’re ready to post a new message.",
             "turkish": "Yeni mesajı göndermeye hazırsanız “Post” düğmesini tıklayın.",
             "spanish": "-",
-            "arabic": "ا_"
+            "arabic": "أنقر على “Post”  \"أنشر\" عندما تكون مستعداً لكي ترسل رسالة جديدة."
           }
         }
       }

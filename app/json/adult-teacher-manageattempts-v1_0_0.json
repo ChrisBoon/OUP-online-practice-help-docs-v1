@@ -27,7 +27,7 @@
             "english": "This page allows you to change the information you see in your reports.",
             "turkish": "Bu sayfa, raporlarınızda gördüğünüz bilgileri değiştirmenizi sağlar.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "تتيح لك هذه الصفحة إجراء تغيير في معلومات تراها في تقاريرك."
           }
         },
         "paragraph02": {
@@ -38,7 +38,7 @@
             "english": "Click here to manage attempts for a different class.",
             "turkish": "Başka bir sınıfın denemelerini yönetmek için buraya tıklayın.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "أنقر هنا لإدارة محاولات لصف مختلف."
           }
         },
         "paragraph03": {
@@ -49,7 +49,7 @@
             "english": "Click here to show the first attempt on each activity. Students can continue to practice, but you will only see their first score in your reports.",
             "turkish": "Her bir aktivitenin ilk denemesini görmek için buraya tıklayın. Öğrenciler denemeye devam edebilir, ancak siz raporlarda sadece ilk öğrenci puanlarını göreceksiniz.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي ترى المحاولة الاولى لكل نشاط. يستطيع الطلاب الاستمرار في الممارسة، لكنك سترى فقط درجتهم الاولى في تقاريرك."
           }
         },
         "paragraph04": {
@@ -60,7 +60,7 @@
             "english": "Click here to show the last attempt on each activity. Students can continue to practice, but you will only see their last score in your reports. (This is the default setting.)",
             "turkish": "Her bir aktivitenin son denemesini görmek için buraya tıklayın. Öğrenciler denemeye devam edebilir, ancak siz raporlarda sadece son öğrenci puanlarını göreceksiniz. (Bu otomatik ayardır.)",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي ترى المحاولة الأخيرة لكل نشاط. يستطيع الطلاب الاستمرار في الممارسة، لكنك سترى فقط  درجتهم الاخيرة في تقاريرك. (هذا هو الإعداد الافتراضي.)"
           }
         },
         "paragraph05": {
@@ -71,7 +71,7 @@
             "english": "Click here to save your changes.",
             "turkish": "Yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تحفظ التغييرات التي أجريتها."
           }
         }
       }

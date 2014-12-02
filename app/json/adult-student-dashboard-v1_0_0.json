@@ -38,7 +38,7 @@
             "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect!",
             "turkish": "Çevrim İçi Uygulama seviyenizin her bir ünitesindeki aktiviteleri tamamladığınızda yıldız kazanırsınız. Puanlarınız arttıkça aldığınız yıldızlar da artar!",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "عندما تكمل نشاطات في كل وحدة من مستواك في الممارسة عبر شبكة الإنترنت يمكنك أن تجمع نجوم. وكلما تسجل مزيداً من الدرجات كلما تجمع المزيد من النجوم!"
           }
         },
         "paragraph03": {
@@ -49,7 +49,7 @@
             "english": "If you score 30% of the total possible points in a unit you will be awarded a star.",
             "turkish": "Bir ünite için mümkün toplam puanın %30’unu aldığınızda bir yıldız kazanırsınız.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إذا سجّلت 30٪ من مجموع النقاط الممكنة في وحدة ما فإنك سوف تُمنح نجماً واحداً."
           }
         },
         "paragraph04": {
@@ -60,7 +60,7 @@
             "english": "If you score 70% of the total possible points in a unit you will be awarded two stars.",
             "turkish": "Bir ünite için mümkün toplam puanın %70’ini aldığınızda iki yıldız kazanırsınız.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إذا سجّلت 70٪ من مجموع النقاط الممكنة في وحدة ما فإنك سوف تُمنح نجمتان."
           }
         },
         "paragraph05": {
@@ -71,7 +71,7 @@
             "english": "If you score 90% of the total possible points in a unit you will be awarded three stars.",
             "turkish": "Bir ünite için mümkün toplam puanın %90’ını aldığınızda üç yıldız kazanırsınız.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إذا سجّلت 90٪ من مجموع النقاط الممكنة في وحدة ما فإنك سوف تُمنح ثلاثة نجوم."
           }
         },
         "paragraph06": {
@@ -82,7 +82,7 @@
             "english": "If you score 100% of the total possible points in a unit you will be awarded a bonus trophy.",
             "turkish": "Bir ünitede toplam olası puanların %100’ünü alırsanız kupayla ödüllendirilirsiniz.",
             "spanish": "Si obtiene el 100% del total de puntos posibles en una unidad, se le otorgará un trofeo extra.",
-            "arabic": "إذاأحرزت100% من مجموع النقاط الممكنة في وحدة ما, فسوف يتم منحك ميداليةمكافأة."
+            "arabic": "_"
           }
         },
         "paragraph07": {
@@ -93,7 +93,7 @@
             "english": "This is your Dashboard. The Online Practice is divided into several areas, for example, Tests, Vocabulary, and Practice. The Dashboard shows your activity results for a level across the different areas.",
             "turkish": "Bu, Gösterge Panonuzdur. Çevrim İçi Uygulama, örneğin Testler, Kelime Hazinesi ve Uygulama gibi alanlara ayrılmıştır. Gösterge Panosu, bir seviyenin çeşitli alanlarındaki aktivite sonuçlarınızı gösterir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "هذه هي لوحة بيانتك والتي ترى فيها الممارسة عبر شبكة الإنترنت مقسّم الى عدة مجالات وعلى سبيل المثال ، إختبارات ، مفردات الكلمات والممارسة.تعرض لك لوحة البيانات نتائج النشاط  لمستوى ما عبر مجالات مختلفة."
           }
         },
         "paragraph08": {
@@ -115,7 +115,7 @@
             "english": "The number of completed activities is shown here along with the total number of activities in an area.",
             "turkish": "Burada, bir alanda tamamlanmış olan aktivite sayısı, alandaki toplam aktivite sayısı ile birlikte gösterilir.",
             "spanish": "-",
-            "arabic": "-"
+            "arabic": "إن عدد النشاطات الكاملة معروض هنا  على طول مع العدد الكلي للنشاطات الموجودة في مجالا ما."
           }
         }
       }
