@@ -47,7 +47,7 @@
           "numberPosLeft": 30,
           "text":{
             "english": "Click here to view the Student Report for this student.",
-            "turkish": "-",
+            "turkish": "Bu öğrencinin Öğrenci Raporunu görmek için buraya tıklayın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -58,7 +58,7 @@
           "numberPosLeft": 43,
           "text":{
             "english": "Click here to view the Segment Report for this student.",
-            "turkish": "-",
+            "turkish": "Bu öğrencinin Bölüm Raporunu görmek için buraya tıklayın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -91,7 +91,7 @@
           "numberPosLeft": 85,
           "text":{
             "english": "This shows the student’s score on this activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity.",
-            "turkish": "-",
+            "turkish": "Burada, öğrencinin bu aktivitede aldığı puan gösterilir. Örneğin, puan 8/10 ise, öğrencinin doğru cevapladığı madde (soru) sayısı 8 ve aktivitedeki toplam soru sayısı ise 10 demektir.",
             "spanish": "-",
             "arabic": "-"
           }

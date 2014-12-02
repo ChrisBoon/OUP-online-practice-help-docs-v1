@@ -25,7 +25,7 @@
           "numberPosLeft": 27,
           "text":{
             "english": "The Media Center provides class audio and video files for you to use, if available.",
-            "turkish": "-",
+            "turkish": "Medya Merkezi, kullanmanız için dersin, varsa, ses ve video dosyalarını içerir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -47,7 +47,7 @@
           "numberPosLeft": 80,
           "text":{
             "english": "Click on the download icon to download the entire audio track to your device.",
-            "turkish": "-",
+            "turkish": "Ses dosyasının tamamını cihazınıza yüklemek için indir simgesini tıklayın.",
             "spanish": "-",
             "arabic": "-"
           }

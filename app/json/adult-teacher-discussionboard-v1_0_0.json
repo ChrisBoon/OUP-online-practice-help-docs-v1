@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Discussion Board",
-    "turkish": "-",
+    "turkish": "Tartışma Panosu",
     "spanish": "-",
     "arabic": "-"
   },
@@ -48,7 +48,7 @@
           "numberPosLeft": 33,
           "text":{
             "english": "You can create a new post by clicking the “Create New Thread” button. A text box will open. Any student in your Online Practice class can see your post and reply to it. Students can also write posts and begin discussions.",
-            "turkish": "-",
+            "turkish": "Create New Thread” düğmesini tıklayıp yeni bir mesaj oluşturabilirsiniz. Bir metin kutusu açılacaktır. Çevrim İçi Uygulama sınıfınızdaki herhangi bir öğrenci mesajınızı görüp, cevaplayabilir. Öğrenciler de mesaj yazıp, tartışma açabilirler.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -71,7 +71,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Give your new post a title.",
-            "turkish": "-",
+            "turkish": "Yeni mesajınıza bir başlık ekleyin.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -82,7 +82,7 @@
           "numberPosLeft": 13,
           "text":{
             "english": "Write your message in the blank text area under the formatting buttons.",
-            "turkish": "-",
+            "turkish": "Mesajınızı, format düğmelerinin altındaki boş alana yazın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -93,7 +93,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Click “Post” when you’re ready to post a new message.",
-            "turkish": "-",
+            "turkish": "Yeni mesajı göndermeye hazırsanız “Post” düğmesini tıklayın.",
             "spanish": "-",
             "arabic": "ا_"
           }

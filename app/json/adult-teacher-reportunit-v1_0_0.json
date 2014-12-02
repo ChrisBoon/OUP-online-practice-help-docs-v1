@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Unit Report",
-    "turkish": "-",
+    "turkish": "Ünite Raporu",
     "spanish": "-",
     "arabic": "-"
   },
@@ -58,7 +58,7 @@
           "numberPosLeft": 5,
           "text":{
             "english": "Use this menu to view a Segment Report for a specific student.",
-            "turkish": "-",
+            "turkish": "Belirli bir öğrencinin Bölüm Raporunu görmek için bu menüyü kullanın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -69,7 +69,7 @@
           "numberPosLeft": 4,
           "text":{
             "english": "Use this menu to view the Unit Report for a different segment.",
-            "turkish": "-",
+            "turkish": "Başka bir bölümün Ünite Raporunu görmek için bu menüyü kullanın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -80,7 +80,7 @@
           "numberPosLeft": 34,
           "text":{
             "english": "Use this menu to view the Unit Report for a different unit.",
-            "turkish": "-",
+            "turkish": "Başka bir ünitenin Ünite Raporunu görmek için bu menüyü kullanın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -91,7 +91,7 @@
           "numberPosLeft": 5,
           "text":{
             "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The ✓ symbol means that the activity does not have a score.",
-            "turkish": "-",
+            "turkish": "Bu satır, öğrencinin bu ünitedeki her bir aktiviteden aldığı puanı gösterir. Örneğin, puan 8/10 ise, öğrencinin doğru cevapladığı madde (soru) sayısı 8 ve aktivitenin toplam soru sayısı 10 demektir. √ sembolü aktivitede puan yok anlamına gelir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -102,7 +102,7 @@
           "numberPosLeft": 5,
           "text":{
             "english": "This row shows the number of attempts for each activity in this unit. The ✓ symbol means that attempts are not recorded for the activity.",
-            "turkish": "-",
+            "turkish": "Bu satır, bu ünitedeki her bir aktivite için deneme sayısını gösterir. √ sembolü aktivitedeki denemelerin kaydedilmediği anlamına gelir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -124,7 +124,7 @@
           "numberPosLeft": 21.5,
           "text":{
             "english": "This is the student’s total score for this unit.",
-            "turkish": "-",
+            "turkish": "Bu, öğrencinin bu ünitedeki toplam puanıdır.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -135,7 +135,7 @@
           "numberPosLeft": 21.5,
           "text":{
             "english": "This is the total number of times this student attempted all activities in this unit.",
-            "turkish": "-",
+            "turkish": "Bu, öğrencinin bu ünitedeki aktiviteleri toplam deneme sayısıdır.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -146,7 +146,7 @@
           "numberPosLeft": 21.5,
           "text":{
             "english": "This is the total amount of time this student spent on this unit.",
-            "turkish": "-",
+            "turkish": "Bu, öğrencinin bu ünite üzerinde harcadığı toplam zamandır.",
             "spanish": "-",
             "arabic": "-"
           }

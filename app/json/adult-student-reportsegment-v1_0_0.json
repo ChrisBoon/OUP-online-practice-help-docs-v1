@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Student Segment Report",
-    "turkish": "-",
+    "turkish": "Öğrenci Bölüm Raporu",
     "spanish": "-",
     "arabic": "-"
   },
@@ -25,7 +25,7 @@
           "numberPosLeft": 7,
           "text":{
             "english": "Use this menu to display reports for all segments or display reports for specific segments.",
-            "turkish": "-",
+            "turkish": "Tüm bölümlerin ya da sadece belirli bölümlerin raporlarını görmek için bu menüyü kullanın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -36,7 +36,7 @@
           "numberPosLeft": 0,
           "text":{
             "english": "This row shows the scores for each activity in a unit. The score is shown out of the total number of possible points in an activity.",
-            "turkish": "-",
+            "turkish": "Bu satır, bir ünitenin her bir aktivitesinin puanını gösterir. Puan, aktivite için mümkün toplam puan ile birlikte gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -47,7 +47,7 @@
           "numberPosLeft": 0,
           "text":{
             "english": "This row shows the number of attempts at each activity in a unit.",
-            "turkish": "-",
+            "turkish": "Bu satır, bir ünitenin her bir aktivitesi için toplam deneme sayısını gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -58,7 +58,7 @@
           "numberPosLeft": 0,
           "text":{
             "english": "This row shows the time taken for all attempts at each activity in a unit.",
-            "turkish": "-",
+            "turkish": "Bu satır, bir ünitenin her bir aktivitesi için harcanan zamanı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -69,7 +69,7 @@
           "numberPosLeft": 11,
           "text":{
             "english": "The total score for a unit is shown here.",
-            "turkish": "-",
+            "turkish": "Bir ünitenin toplam puanı burada gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -80,7 +80,7 @@
           "numberPosLeft": 12,
           "text":{
             "english": "The total number of activity attempts for a unit is shown here.",
-            "turkish": "-",
+            "turkish": "Bir ünitedeki aktivite denemelerinin toplam sayısı burada gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -91,7 +91,7 @@
           "numberPosLeft": 11,
           "text":{
             "english": "The total time taken on all activities in a unit is shown here.",
-            "turkish": "-",
+            "turkish": "Bir ünitenin tüm aktivitelerinde harcanan toplam zaman burada gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }

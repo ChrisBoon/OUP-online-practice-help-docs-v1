@@ -80,7 +80,7 @@
           "numberPosLeft": 3,
           "text":{
             "english": "Use this menu to see a student’s results for a specific segment or all segments.",
-            "turkish": "-",
+            "turkish": "Öğrencinin belirli bir bölümde ya da tüm bölümlerde aldığı sonuçları görmek için bu menüyü kullanın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -91,7 +91,7 @@
           "numberPosLeft": 3,
           "text":{
             "english": "You can also click on a segment title to view a student’s Segment Report.",
-            "turkish": "-",
+            "turkish": "Bir öğrencinin Bölüm Raporunu görmek için bir bölüm başlığına da tıklayabilirsiniz.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -102,7 +102,7 @@
           "numberPosLeft": 24.5,
           "text":{
             "english": "Click on a unit to view the student’s work in that unit within a specific segment.",
-            "turkish": "-",
+            "turkish": "Öğrencinin belirli bir bölümdeki bir ünitede çalışmasını görmek için üniteye tıklayabilirsiniz.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -113,7 +113,7 @@
           "numberPosLeft": 3,
           "text":{
             "english": "This row shows a student’s total score for all activities in a unit.",
-            "turkish": "-",
+            "turkish": "Bu satır, öğrencinin bir ünitedeki tüm aktivitelerden aldığı toplam puanı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -124,7 +124,7 @@
           "numberPosLeft": 3,
           "text":{
             "english": "This row shows the number of times a student attempted all activities in a unit.",
-            "turkish": "-",
+            "turkish": "Bu satır, öğrencinin bir ünitedeki tüm aktiviteleri kaç defa denediğini gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -135,7 +135,7 @@
           "numberPosLeft": 3,
           "text":{
             "english": "This row shows the total amount of time the student spent on each unit.",
-            "turkish": "-",
+            "turkish": "Bu satır, öğrencinin bir ünite üzerinde harcadığı toplam zamanı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -146,7 +146,7 @@
           "numberPosLeft": 15,
           "text":{
             "english": "This is the student’s total score across all activities in a segment.",
-            "turkish": "-",
+            "turkish": "Burada öğrencinin bir bölümün tüm aktivitelerinden aldığı toplam puan gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -157,7 +157,7 @@
           "numberPosLeft": 17,
           "text":{
             "english": "This is the total number of times the student has attempted all activities in a segment.",
-            "turkish": "-",
+            "turkish": "Burada öğrencinin bir bölümün tüm aktiviteleri toplam deneme sayısı gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -168,7 +168,7 @@
           "numberPosLeft": 16,
           "text":{
             "english": "This is the total time taken on all activities in a segment.",
-            "turkish": "-",
+            "turkish": "Burada bir bölümün tüm aktivitelerinde harcanan toplam zaman gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }

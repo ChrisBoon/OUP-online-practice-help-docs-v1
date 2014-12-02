@@ -58,7 +58,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "The Online Practice activities are displayed in this area.",
-            "turkish": "Online Uygulama aktiviteleri bu alanda görüntülenir.",
+            "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda gösterilir.",
             "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
             "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
           }
@@ -69,7 +69,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "Click here to see a grammar chart pop-up related to the current activity.",
-            "turkish": "-",
+            "turkish": "Şimdiki aktiviteyle ilgili açılan gramer cetvelini görmek için buraya tıklayın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -80,7 +80,7 @@
           "numberPosLeft": 40,
           "text":{
             "english": "Students can click here to check their answers when they have answered all questions in an activity.",
-            "turkish": "-",
+            "turkish": "Öğrenciler, bir aktivitenin tüm sorularını yanıtladıkları zaman buraya tıklayıp cevaplarını kontrol edebilirler.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -91,7 +91,7 @@
           "numberPosLeft": 50,
           "text":{
             "english": "Students can try an activity again if they answer some questions incorrectly. They can try an activity as many times as they like.",
-            "turkish": "-",
+            "turkish": "Bazı soruları yanlış cevaplayan öğrenciler bir aktiviteyi tekrar deneyebilirler. Bir aktivite istenirse defalarca denenebilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -102,7 +102,7 @@
           "numberPosLeft": 61,
           "text":{
             "english": "If students answer some questions incorrectly they can see the correct answers.",
-            "turkish": "-",
+            "turkish": "Öğrenciler bazı soruları yanlış cevaplarlarsa doğru yanıtları görebilirler.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -113,7 +113,7 @@
           "numberPosLeft": 74,
           "text":{
             "english": "Students can click here to see a Feedback pop-up with guidance on completing an activity.",
-            "turkish": "-",
+            "turkish": "Öğrenciler buraya tıklayıp, bir aktivitenin tamamlanmasıyla ilgili bilgi içeren bir Geri Bildirimi görebilirler.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -124,7 +124,7 @@
           "numberPosLeft": 90,
           "text":{
             "english": "A student’s current activity score is shown here.",
-            "turkish": "-",
+            "turkish": "Bir öğrencinin şimdiki aktivitesinin puanı burada gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -135,7 +135,7 @@
           "numberPosLeft": 3,
           "text":{
             "english": "Students can find supporting resources here that will help them with their Online Practice work, if available.",
-            "turkish": "-",
+            "turkish": "Öğrenciler, Çevrim İçi Uygulamaları yapmalarına yardım edecek kaynakları varsa burada bulabilirler.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -146,7 +146,7 @@
           "numberPosLeft": 19,
           "text":{
             "english": "Students can view the Glossary here, if available. The Glossary will help them with the course vocabulary.",
-            "turkish": "-",
+            "turkish": "Öğrenciler, varsa Sözlüğü burada görebilirler. Sözlük dersin kelime hazinesi için yardımcı olur.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -157,7 +157,7 @@
           "numberPosLeft": 35,
           "text":{
             "english": "Students can access their Achievements and Reports here.",
-            "turkish": "-",
+            "turkish": "Öğrenciler Başarılarına ve Raporlarına buradan ulaşabilirler.",
             "spanish": "-",
             "arabic": "-"
           }

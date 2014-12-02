@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Manage Attempts",
-    "turkish": "-",
+    "turkish": "Denemeleri Yönet",
     "spanish": "-",
     "arabic": "-"
   },
@@ -25,7 +25,7 @@
           "numberPosLeft": 28,
           "text":{
             "english": "This page allows you to change the information you see in your reports.",
-            "turkish": "-",
+            "turkish": "Bu sayfa, raporlarınızda gördüğünüz bilgileri değiştirmenizi sağlar.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -36,7 +36,7 @@
           "numberPosLeft": 62,
           "text":{
             "english": "Click here to manage attempts for a different class.",
-            "turkish": "-",
+            "turkish": "Başka bir sınıfın denemelerini yönetmek için buraya tıklayın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -47,7 +47,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Click here to show the first attempt on each activity. Students can continue to practice, but you will only see their first score in your reports.",
-            "turkish": "-",
+            "turkish": "Her bir aktivitenin ilk denemesini görmek için buraya tıklayın. Öğrenciler denemeye devam edebilir, ancak siz raporlarda sadece ilk öğrenci puanlarını göreceksiniz.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -58,7 +58,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Click here to show the last attempt on each activity. Students can continue to practice, but you will only see their last score in your reports. (This is the default setting.)",
-            "turkish": "-",
+            "turkish": "Her bir aktivitenin son denemesini görmek için buraya tıklayın. Öğrenciler denemeye devam edebilir, ancak siz raporlarda sadece son öğrenci puanlarını göreceksiniz. (Bu otomatik ayardır.)",
             "spanish": "-",
             "arabic": "-"
           }
@@ -69,7 +69,7 @@
           "numberPosLeft": 24,
           "text":{
             "english": "Click here to save your changes.",
-            "turkish": "-",
+            "turkish": "Yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "-",
             "arabic": "-"
           }

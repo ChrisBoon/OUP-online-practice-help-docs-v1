@@ -25,7 +25,7 @@
           "numberPosLeft": 32,
           "text":{
             "english": "When you enter Online Practice or click on the Home icon at the top of the screen you will see the levels of your course here. Choose the level you want to enter.",
-            "turkish": "-",
+            "turkish": "Çevrim İçi Uygulamaya girdiğinizde veya ekranın üst kısmındaki Ana Sayfa simgesini tıkladığınızda dersinizin seviyelerini burada göreceksiniz. Girmek istediğiniz seviyeyi seçin.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -81,7 +81,7 @@
           "numberPosLeft": 31,
           "text":{
             "english": "Click here to see your Report, Trophy Room, and Grades. These show your achievements and progress for all of the activities in this level.",
-            "turkish": "-",
+            "turkish": "Raporunuzu, Zafer Odanızı ve Puanlarınızı görmek için buraya tıklayın. Bunlar bu seviyedeki bütün aktiviteler için başarılarınızı ve ilerlemenizi gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -103,7 +103,7 @@
           "numberPosLeft": 73,
           "text":{
             "english": "Click here to use the Discussion Board. You can join in discussions with your teacher and other students in your Online Practice class. The Discussion Board icon appears here when you have joined a class.",
-            "turkish": "-",
+            "turkish": "Tartışma Panosunu kullanmak için buraya tıklayın. Çevrim İçi Uygulama dersinizin öğretmeni ve diğer öğrencilerle tartışmalara katılabilirsiniz. Bir derse katıldığınızda Tartışma Panosu simgesi burada görünür.",
             "spanish": "-",
             "arabic": "-"
           }

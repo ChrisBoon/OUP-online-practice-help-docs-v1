@@ -2,7 +2,6 @@
  "title": {
     "english": "Activities",
     "turkish": "Aktiviteler",
-    "spanish": "Actividades",
     "arabic": "أنشطة"
   },
  "segment": "adult",
@@ -15,7 +14,6 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
-        "spanish": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -26,7 +24,7 @@
           "text":{
             "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "_",
             "arabic": "ا-"
           }
         },
@@ -37,7 +35,7 @@
           "text":{
             "english": "Use this menu to choose an activity within a unit.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -58,7 +56,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "The Online Practice activities are displayed in this area.",
-            "turkish": "Online Uygulama aktiviteleri bu alanda görüntülenir.",
+            "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda görüntülenir.",
             "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
             "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
           }
@@ -69,8 +67,8 @@
           "numberPosLeft": 0,
           "text":{
             "english": "Click here to see a grammar chart pop-up related to the current activity.",
-            "spanish": "-",
-            "turkish": "-",
+            "spanish": "_",
+            "turkish": "Şimdiki aktiviteyle ilgili açılan bir gramer cetvelini görmek için buraya tıklayın.",
             "arabic": "-"
           }
         },
@@ -80,8 +78,8 @@
           "numberPosLeft": 39,
           "text":{
             "english": "Click here to check your answers when you have answered all questions in an activity.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bir aktivitenin tüm sorularını cevapladıktan sonra cevaplarınızı kontrol etmek için buraya tıklayın.",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -91,8 +89,8 @@
           "numberPosLeft": 49,
           "text":{
             "english": "You can try an activity again if you answer some questions incorrectly. You can try an activity as many times as you like.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bazı soruları yanlış cevaplarsanız aktiviteyi tekrar deneyebilirsiniz. Bir aktiviteyi isterseniz defalarca deneyebilirsiniz.",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -102,8 +100,8 @@
           "numberPosLeft": 59,
           "text":{
             "english": "If you answer some questions incorrectly you can see the correct answers.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bazı soruları yanlış cevaplarsanız doğru yanıtları görebilirsiniz.",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -113,8 +111,8 @@
           "numberPosLeft": 72,
           "text":{
             "english": "Click here to see a Feedback pop-up with guidance on completing an activity.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bir aktivitenin tamamlanmasıyla ilgili bilgi için açılan Geri Bildirimi görmek üzere buraya tıklayın.",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -124,8 +122,8 @@
           "numberPosLeft": 84,
           "text":{
             "english": "Your current activity score is shown here.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Şimdiki aktiviteden aldığınız puan burada görünür.",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -135,8 +133,8 @@
           "numberPosLeft": 0,
           "text":{
             "english": "You can find supporting resources here that will help you with your Online Practice work, if available.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Çevrim İçi Uygulamalarda size yardım edecek kaynakları, varsa, burada bulabilirsiniz.",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -146,8 +144,8 @@
           "numberPosLeft": 18,
           "text":{
             "english": "You can view the Glossary here, if available. The Glossary will help you with the course vocabulary.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Varsa, Sözlüğe burada bakabilirsiniz. Sözlük, kursun sözcük hazinesi için size yardımcı olur.",
+            "spanish": "_",
             "arabic": "-"
           }
         },
@@ -157,7 +155,7 @@
           "numberPosLeft": 34,
           "text":{
             "english": "Access your Achievements and Reports here.",
-            "turkish": "Başarılarınız ve Raporlarınıza buradan erişebilirsiniz.",
+            "turkish": "Başarılarınıza ve Raporlarınıza buradan ulaşabilirsiniz.",
             "spanish": "Acceda a sus Logros e Informes aquí.", 
             "arabic": "أدخل على التحصيل والتقارير الخاصة بك هنا."
           }

@@ -36,7 +36,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect!",
-            "turkish": "-",
+            "turkish": "Çevrim İçi Uygulama seviyenizin her bir ünitesindeki aktiviteleri tamamladığınızda yıldız kazanırsınız. Puanlarınız arttıkça aldığınız yıldızlar da artar!",
             "spanish": "-",
             "arabic": "-"
           }
@@ -47,7 +47,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "If you score 30% of the total possible points in a unit you will be awarded a star.",
-            "turkish": "-",
+            "turkish": "Bir ünite için mümkün toplam puanın %30’unu aldığınızda bir yıldız kazanırsınız.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -58,7 +58,7 @@
           "numberPosLeft": 9,
           "text":{
             "english": "If you score 70% of the total possible points in a unit you will be awarded two stars.",
-            "turkish": "-",
+            "turkish": "Bir ünite için mümkün toplam puanın %70’ini aldığınızda iki yıldız kazanırsınız.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -69,7 +69,7 @@
           "numberPosLeft": 16,
           "text":{
             "english": "If you score 90% of the total possible points in a unit you will be awarded three stars.",
-            "turkish": "-",
+            "turkish": "Bir ünite için mümkün toplam puanın %90’ını aldığınızda üç yıldız kazanırsınız.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -91,7 +91,7 @@
           "numberPosLeft": 63,
           "text":{
             "english": "This is your Dashboard. The Online Practice is divided into several areas, for example, Tests, Vocabulary, and Practice. The Dashboard shows your activity results for a level across the different areas.",
-            "turkish": "-",
+            "turkish": "Bu, Gösterge Panonuzdur. Çevrim İçi Uygulama, örneğin Testler, Kelime Hazinesi ve Uygulama gibi alanlara ayrılmıştır. Gösterge Panosu, bir seviyenin çeşitli alanlarındaki aktivite sonuçlarınızı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -113,7 +113,7 @@
           "numberPosLeft": 92,
           "text":{
             "english": "The number of completed activities is shown here along with the total number of activities in an area.",
-            "turkish": "-",
+            "turkish": "Burada, bir alanda tamamlanmış olan aktivite sayısı, alandaki toplam aktivite sayısı ile birlikte gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }

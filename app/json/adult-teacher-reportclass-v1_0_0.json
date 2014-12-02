@@ -58,7 +58,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "You can also click on a student’s name to see their results across segments.",
-            "turkish": "-",
+            "turkish": "Bir öğrencinin adını tıklayıp, bölümlerde aldığı sonuçları görebilirsiniz.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -69,7 +69,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to filter the report to see students’ results in a particular segment.",
-            "turkish": "-",
+            "turkish": "Bu menüyü kullanarak raporu süzüp öğrencilerin belirli bir bölümde aldığı sonuçları görebilirsiniz.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -80,7 +80,7 @@
           "numberPosLeft": 55,
           "text":{
             "english": "You can also click on a segment title to see results in a segment.",
-            "turkish": "-",
+            "turkish": "Ayrıca, bir bölümün başlığına tıklayıp o bölümde alınan sonuçları görebilirsiniz.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -91,7 +91,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average number of completed activities in each segment for the class.",
-            "turkish": "-",
+            "turkish": "Bu satır, sınıf için her bir bölümde tamamlanmış aktivitelerin ortalama sayısını gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -102,7 +102,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average total score for activities in a segment for the class.",
-            "turkish": "-",
+            "turkish": "Bu satır, sınıf için her bir bölümdeki aktivitelerin toplam ortalama puanı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -113,7 +113,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average time spent on activities in a segment for the class.",
-            "turkish": "-",
+            "turkish": "Bu satır, sınıf için her bir bölümdeki aktivitelerde harcanan ortalama zamanı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -124,7 +124,7 @@
           "numberPosLeft": 32,
           "text":{
             "english": "This is the total of the average number of activities completed across the segments.",
-            "turkish": "-",
+            "turkish": "Burada bölümlerde tamamlanmış aktivitelerin ortalama sayısının toplamı gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -135,7 +135,7 @@
           "numberPosLeft": 33,
           "text":{
             "english": "This is the total average score for all students across the segments.",
-            "turkish": "-",
+            "turkish": "Burada bölümlerdeki tüm öğrencilerin toplam ortalama puanı gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -157,7 +157,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the number of activities completed by a student in each segment.",
-            "turkish": "-",
+            "turkish": "Bu satır, her bir bölümde bir öğrencinin tamamladığı aktivite sayısını gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -168,7 +168,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows a student’s total score in each segment.",
-            "turkish": "-",
+            "turkish": "Bu satır, her bir bölümde bir öğrencinin aldığı toplam puanı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -179,7 +179,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the total amount of time a student spent on activities in each segment.",
-            "turkish": "-",
+            "turkish": "Bu satır, her bir bölümde bir öğrencinin aktiviteler için harcadığı zaman toplamını gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -201,7 +201,7 @@
           "numberPosLeft": 33,
           "text":{
             "english": "This is the average activity score for a student across the level.",
-            "turkish": "-",
+            "turkish": "Burada bir öğrenci için bu seviyedeki ortalama aktivite puanı gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }

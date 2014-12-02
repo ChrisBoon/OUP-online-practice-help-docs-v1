@@ -25,7 +25,7 @@
           "numberPosLeft": 84,
           "text":{
             "english": "This page shows your activity scores for all segments in your level of Online Practice.",
-            "turkish": "-",
+            "turkish": "Bu sayfa, Çevrim İçi Uygulama seviyenizin tüm bölümlerindeki aktivite puanlarınızı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -36,7 +36,7 @@
           "numberPosLeft": 7,
           "text":{
             "english": "Use this menu to display reports for all segments or for a specific segment.",
-            "turkish": "-",
+            "turkish": "Tüm bölümlerin ya da belirli bir bölümün raporunu görmek için bu menüyü kullanın.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -47,7 +47,7 @@
           "numberPosLeft": 0,
           "text":{
             "english": "This row shows the total score of all activities attempted in each unit. The score is shown out of the total number of possible points in the attempted activities.",
-            "turkish": "-",
+            "turkish": "Bu satır, her bir ünitede denediğiniz tüm aktivitelerden aldığınız toplam puanı gösterir. Puan, denenen aktivitelerden mümkün toplam puan ile birlikte görünür.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -58,7 +58,7 @@
           "numberPosLeft": 0,
           "text":{
             "english": "This row shows the total number of activity attempts in each unit.",
-            "turkish": "-",
+            "turkish": "Bu satır, her bir ünitedeki toplam aktivite denemelerinin sayısını gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -69,7 +69,7 @@
           "numberPosLeft": 0,
           "text":{
             "english": "This row shows the time spent on activities in each unit.",
-            "turkish": "-",
+            "turkish": "Bu satır, her bir ünitenin aktivitelerinde harcanan zamanı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -80,7 +80,7 @@
           "numberPosLeft": 10,
           "text":{
             "english": "The total score in a specific segment is shown here.",
-            "turkish": "-",
+            "turkish": "Belirli bir bölümün toplam puanı burada gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -91,7 +91,7 @@
           "numberPosLeft": 12,
           "text":{
             "english": "The total number of activity attempts in a specific segment is shown here.",
-            "turkish": "-",
+            "turkish": "Belirli bir bölümdeki toplam aktivite denemelerinin sayısı burada gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -102,7 +102,7 @@
           "numberPosLeft": 11,
           "text":{
             "english": "The total time taken on all activity attempts in a specific segment is shown here.",
-            "turkish": "-",
+            "turkish": "Belirli bir bölümdeki aktivite denemeleri için harcanan toplam zaman burada gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }

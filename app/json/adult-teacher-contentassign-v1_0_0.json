@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Hide/Assign Content",
-    "turkish": "-",
+    "turkish": "İçeriği Gizle/Ata",
     "spanish": "-",
     "arabic": "-"
   },
@@ -25,7 +25,7 @@
           "numberPosLeft": 11,
           "text":{
             "english": "You can hide content from your students by checking the boxes on this page.",
-            "turkish": "-",
+            "turkish": "Bu sayfadaki kutuları işaretleyerek bazı içeriği öğrencilerden gizleyebilirsiniz.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -47,7 +47,7 @@
           "numberPosLeft": 11,
           "text":{
             "english": "Check a box here to hide a whole segment.",
-            "turkish": "-",
+            "turkish": "Bölümün tamamını gizlemek için bu kutuyu işaretleyin.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -58,7 +58,7 @@
           "numberPosLeft": 30,
           "text":{
             "english": "Check a box here to hide selected units within a segment.",
-            "turkish": "-",
+            "turkish": "Bir bölümün içinde seçtiğiniz üniteleri gizlemek için bu kutuyu işaretleyin.",
             "spanish": "-",
             "arabic": "-"
           }

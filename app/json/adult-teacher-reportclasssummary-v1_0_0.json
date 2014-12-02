@@ -47,7 +47,7 @@
           "numberPosLeft": 48.5,
           "text":{
             "english": "Click here to view a Segment Report. You can see students’ scores for all units in the segment.",
-            "turkish": "-",
+            "turkish": "Bir Bölüm Raporunu görmek için buraya tıklayın. Bölümdeki tüm üniteler için öğrenci puanlarını görebilirsiniz.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -58,7 +58,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average number of activities completed in each segment for this class. For example, if the number is 8/9, 8 is the average number of activities completed in the segment, and 9 is the total number of activities in the segment.",
-            "turkish": "-",
+            "turkish": "Bu satır, bu sınıf için her bir bölümde ortalama tamamlanmış aktivite sayısını gösterir. Örneğin, bu sayı 25/95 ise, bölümde tamamlanan ortalama aktivite sayısı 25 ve bölümdeki toplam aktivite sayısı da 95 demektir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -69,7 +69,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average score in each segment for this class. ",
-            "turkish": "-",
+            "turkish": "Bu satır, bu sınıf için her bir bölümdeki ortalama puanı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -80,7 +80,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "This row shows the average amount of time students in this class worked on each segment.",
-            "turkish": "-",
+            "turkish": "Bu satır, sınıftaki öğrencilerin her bir bölümde harcadığı ortalama zamanı gösterir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -91,7 +91,7 @@
           "numberPosLeft": 36,
           "text":{
             "english": "This is the total of the average number of activities completed in the entire level for this class. For example, if the number is 27/156, 27 is the total of the average number of activities completed across segments, and 156 is the total number of activities in the level.",
-            "turkish": "-",
+            "turkish": "Bu sınıf için bu seviyede tamamlanan ortalama aktivite sayısının toplamı burada gösterilir. Örneğin, bu sayı 27/156 ise, bölümlerde tamamlanan aktivitelerin ortalama sayısının toplamı 27 ve seviyedeki aktivitelerin toplam sayısı ise 156 demektir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -102,7 +102,7 @@
           "numberPosLeft": 36,
           "text":{
             "english": "This is the average score across segments in the level.",
-            "turkish": "-",
+            "turkish": "Bu seviyedeki bölümler için ortalama puan burada gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -113,7 +113,7 @@
           "numberPosLeft": 36,
           "text":{
             "english": "This is the total of the average amount of time in each segment that students spent on activities across the level.",
-            "turkish": "-",
+            "turkish": "Burada bir seviyenin her bir bölümündeki aktivitelerde öğrencilerin harcadığı ortalama zamanın toplamı gösterilir.",
             "spanish": "-",
             "arabic": "-"
           }
@@ -124,7 +124,7 @@
           "numberPosLeft": 79,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
-            "turkish": "-",
+            "turkish": "Bu raporu Microsoft Excel™’e aktarmak için buraya tıklayın.",
             "spanish": "-",
             "arabic": "-"
           }
