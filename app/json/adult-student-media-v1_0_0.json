@@ -26,7 +26,7 @@
           "text":{
             "english": "The Media Center provides class audio and video files for you to use, if available.",
             "turkish": "Medya Merkezi, kullanmanız için dersin, varsa, ses ve video dosyalarını içerir.",
-            "spanish": "-",
+            "spanish": "El Centro de medios le proporciona archivos de audio y video de la clase para su uso, si están disponibles.",
             "arabic": "يقدم لك مركز وسائل الاعلام في الصف أضابير صوتية ومرئية  لكي تستعملها، إذا كانت متوفرة."
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "Click on the download icon to download the entire audio track to your device.",
             "turkish": "Ses dosyasının tamamını cihazınıza yüklemek için indir simgesini tıklayın.",
-            "spanish": "-",
+            "spanish": "Haga clic en el icono de descarga para descargar el toda la pista de audio en su dispositivo.",
             "arabic": "أنقر على أيقومة التحميل لكي يتم تنزيل كامل المسار الصوتي لجهازك."
           }
         }

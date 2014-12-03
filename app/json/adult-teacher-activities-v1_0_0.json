@@ -59,7 +59,7 @@
           "text":{
             "english": "The Online Practice activities are displayed in this area.",
             "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda gösterilir.",
-            "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
+            "spanish": "Las actividades de Práctica Online se muestran en esta área.",
             "arabic": "أنشطة الممارسة عبر الإنترنت معروضة في هذا المجال."
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "Click here to see a grammar chart pop-up related to the current activity.",
             "turkish": "Şimdiki aktiviteyle ilgili açılan gramer cetvelini görmek için buraya tıklayın.",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ver un gráfico emergente de gramática relacionado con la actividad actual.",
             "arabic": "أنقر هنا كي تشاهد انبثاق مخطط القواعد النحوية المتعلقة بالنشاط الحالي."
           }
         },
@@ -81,7 +81,7 @@
           "text":{
             "english": "Students can click here to check their answers when they have answered all questions in an activity.",
             "turkish": "Öğrenciler, bir aktivitenin tüm sorularını yanıtladıkları zaman buraya tıklayıp cevaplarını kontrol edebilirler.",
-            "spanish": "-",
+            "spanish": "Los estudiantes pueden hacer clic aquí para verificar sus respuestas después de haber contestado todas las preguntas en una actividad.",
             "arabic": "يستطيع الطلاب النقر هنا لفحص أجوبتهم متى ما أعطوا الاجابات على جميع الاسئلة في نشاط ما."
           }
         },
@@ -92,7 +92,7 @@
           "text":{
             "english": "Students can try an activity again if they answer some questions incorrectly. They can try an activity as many times as they like.",
             "turkish": "Bazı soruları yanlış cevaplayan öğrenciler bir aktiviteyi tekrar deneyebilirler. Bir aktivite istenirse defalarca denenebilir.",
-            "spanish": "-",
+            "spanish": "Los estudiantes pueden intentar una actividad nuevamente si contestan erróneamente algunas preguntas. Puede intentar una actividad tantas veces como ellos lo deseen.",
             "arabic": "يستطيع الطلاب محاولة نشاط ما مرة أخرى إذا أعطوا أجوبة بنحو مغلوط لبعض الاسئلة. يمكنهم القيام بمحاولة نشاط ما عدة مرات كما يحلوا لهم."
           }
         },
@@ -103,7 +103,7 @@
           "text":{
             "english": "If students answer some questions incorrectly they can see the correct answers.",
             "turkish": "Öğrenciler bazı soruları yanlış cevaplarlarsa doğru yanıtları görebilirler.",
-            "spanish": "-",
+            "spanish": "Si los estudiantes contestan erróneamente algunas preguntas ellos podrán ver las respuestas correctas.",
             "arabic": "إذا أجاب الطلاب على بعض الأسئلة بنحو مغلوط يمكنهم مشاهدة الاجوبة الصحيحة."
           }
         },
@@ -114,7 +114,7 @@
           "text":{
             "english": "Students can click here to see a Feedback pop-up with guidance on completing an activity.",
             "turkish": "Öğrenciler buraya tıklayıp, bir aktivitenin tamamlanmasıyla ilgili bilgi içeren bir Geri Bildirimi görebilirler.",
-            "spanish": "-",
+            "spanish": "Los estudiantes harán clic aquí para ver una ventana emergente de retroalimentación con información sobre cómo realizar una actividad.",
             "arabic": "يستطيع الطلاب النقر هنا لرؤية ملاحظة منبثقة مع توجيهات حول تكملة نشاط ما."
           }
         },
@@ -125,7 +125,7 @@
           "text":{
             "english": "A student’s current activity score is shown here.",
             "turkish": "Bir öğrencinin şimdiki aktivitesinin puanı burada gösterilir.",
-            "spanish": "-",
+            "spanish": "Aquí aparece la puntuación de la actividad actual del estudiante.",
             "arabic": "درجة النشاط الحالي للطالب معروضة هنا."
           }
         },
@@ -136,7 +136,7 @@
           "text":{
             "english": "Students can find supporting resources here that will help them with their Online Practice work, if available.",
             "turkish": "Öğrenciler, Çevrim İçi Uygulamaları yapmalarına yardım edecek kaynakları varsa burada bulabilirler.",
-            "spanish": "-",
+            "spanish": "Los estudiantes pueden encontrar recursos de apoyo aquí que les ayudarán con su trabajo de Práctica Online, si están disponibles.",
             "arabic": "يستطيع الطلاب العثور على موارد مساندة هنا والتي ستساعدهم في عملهم المتعلق باستخدام الممارسة عبر الإنترنت، إذا كانت متوفرة."
           }
         },
@@ -147,7 +147,7 @@
           "text":{
             "english": "Students can view the Glossary here, if available. The Glossary will help them with the course vocabulary.",
             "turkish": "Öğrenciler, varsa Sözlüğü burada görebilirler. Sözlük dersin kelime hazinesi için yardımcı olur.",
-            "spanish": "-",
+            "spanish": "Los estudiantes pueden ver el Glosario aquí, si está disponible. El glosario les ayudará con el vocabulario del curso.",
             "arabic": "يستطيع الطلاب مشاهدة المسرد هنا، إذا كان متاحاً. وسيساعدهم المسرد في فهم مفردات المقرر."
           }
         },
@@ -158,7 +158,7 @@
           "text":{
             "english": "Students can access their Achievements and Reports here.",
             "turkish": "Öğrenciler Başarılarına ve Raporlarına buradan ulaşabilirler.",
-            "spanish": "-",
+            "spanish": "Los estudiantes pueden acceder a sus Logros e Informes aquí.",
             "arabic": "يستطيع الطلاب الاستفادة من منجزاتهم وتقاريرهم هنا."
           }
         }

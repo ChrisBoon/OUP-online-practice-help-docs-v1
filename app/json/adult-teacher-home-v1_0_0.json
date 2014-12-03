@@ -48,7 +48,7 @@
           "text":{
             "english": "Click here to enter the Online Practice activity area and to access different resources.",
             "turkish": "Çevrim İçi Uygulama aktiviteleri alanına girip değişik kaynaklara erişmek için buraya tıklayın.",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ingresar en el área de actividad de Práctica Online y acceder a diferentes recursos.",
             "arabic": "أنقر هنا لكي تشارك في مجال نشاط الممارسة عبر شبكة الإنترنت ومن أجل الوصول الى موارد مختلفة."
           }
         },
@@ -81,7 +81,7 @@
           "text":{
             "english": "Click here to view the Discussion Board.",
             "turkish": "Tartışma Panosunu görmek için buraya tıklayın.",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para visualizar el Panel de discusión.",
             "arabic": "أنقر هنا لكي تشاهد لوحة المناقشة."
           }
         }

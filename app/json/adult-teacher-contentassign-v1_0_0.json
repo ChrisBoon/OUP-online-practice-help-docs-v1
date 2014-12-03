@@ -2,7 +2,7 @@
  "title": {
     "english": "Hide/Assign Content",
     "turkish": "İçeriği Gizle/Ata",
-    "spanish": "-",
+    "spanish": "Ocultar/Asignar contenido",
     "arabic": "تحديد المحتوى /إخفاء"
   },
  "segment": "adult",
@@ -26,7 +26,7 @@
           "text":{
             "english": "You can hide content from your students by checking the boxes on this page.",
             "turkish": "Bu sayfadaki kutuları işaretleyerek bazı içeriği öğrencilerden gizleyebilirsiniz.",
-            "spanish": "-",
+            "spanish": "Se puede ocultar el contenido de sus estudiantes, marcando las casillas de esta página.",
             "arabic": "-"
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "Check a box here to hide a whole segment.",
             "turkish": "Bölümün tamamını gizlemek için bu kutuyu işaretleyin.",
-            "spanish": "-",
+            "spanish": "Marque una casilla aquí para ocultar un segmento completo.",
             "arabic": "ضع علامة في  مربع ما لكي تخفي القسم بأكمله."
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "Check a box here to hide selected units within a segment.",
             "turkish": "Bir bölümün içinde seçtiğiniz üniteleri gizlemek için bu kutuyu işaretleyin.",
-            "spanish": "-",
+            "spanish": "Marque una casilla aquí para ocultar unidades seleccionadas en un segmento.",
             "arabic": "ضع علامة على مربع ما هنا لكي تخفي الوحدات المختارة ضمن القسم."
           }
         },

@@ -37,7 +37,7 @@
           "text":{
             "english": "Stars are awarded in the Trophy Room for the number of points a student has scored across the activities in a level.",
             "turkish": "Bir seviyedeki aktivitelerde öğrencinin aldığı puanlar için Zafer Odasında yıldız ödülleri verilir.",
-            "spanish": "-",
+            "spanish": "Las estrellas se otorgarán en la Sala de Trofeos según el número de puntos que un estudiante haya alcanzado en todas las actividades en un nivel.",
             "arabic": "تمنح النجوم في غرفة المدالية لعدد من النقاط التي سجلها الطالب عبر نشاطات في مستوى ما."
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "If a student has scored 30% of the total possible points in a unit, they are awarded a star.",
             "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %30’unu aldığında bir yıldız kazanır.",
-            "spanish": "-",
+            "spanish": "Si un estudiante alcanza una puntuación del 30% del total de puntos posibles en una unidad, se le otorgará una estrella.",
             "arabic": "إذا سجّل الطالب 30٪  من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط تُمنح نجمة واحدة."
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "If a student has scored 70% of the total possible points in a unit, they are awarded two stars.",
             "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %70’ini aldığında iki yıldız kazanır.",
-            "spanish": "-",
+            "spanish": "Si un estudiante alcanza una puntuación del 70% del total de puntos posibles en una unidad, se le otorgará dos estrellas.",
             "arabic": "إذا سجّل  الطالب 70٪  من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط  تُمنح نجمتين."
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "If a student has scored 90% of the total possible points in a unit, they are awarded three stars.",
             "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %90’ını aldığında üç yıldız kazanır.",
-            "spanish": "-",
+            "spanish": "Si un estudiante alcanza una puntuación del 90% del total de puntos posibles en una unidad, se le otorgará tres estrellas.",
             "arabic": "إذا سجّل الطالب 90٪ من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط  تُمنح ثلاثة نجوم."
           }
         },
@@ -81,7 +81,7 @@
           "text":{
             "english": "If a student has scored 100% of the total possible points in a unit, they are awarded a trophy.",
             "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %100’ünü aldığında bonus kazanır.",
-            "spanish": "-",
+            "spanish": "Si un estudiante alcanza una puntuación del 100% del total de puntos posibles en una unidad, se le otorgará un trofeo.",
             "arabic": "إذا كان الطالب قد سجّل  100٪  من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط  تٌمنح بمدالية تذكار."
           }
         },
@@ -92,7 +92,7 @@
           "text":{
             "english": "This is the student Dashboard. The Online Practice is divided into several areas, for example, Test, Vocabulary, and Practice. The Dashboard shows student activity results for a level across the different areas.",
             "turkish": "Bu, Öğrenci Gösterge Panosudur. Çevrim İçi Uygulama, örneğin Testler, Kelime Hazinesi ve Uygulama gibi çeşitli alanlara ayrılmıştır. Gösterge Panosu, bir seviyenin çeşitli alanlarındaki aktivitelerin sonuçlarını gösterir.",
-            "spanish": "-",
+            "spanish": "Este es el tablero del estudiante. La Práctica Online se divide en varias áreas, por ejemplo: Pruebas, Vocabulario y Práctica. El panel muestra los resultados de la actividad del alumno para un nivel en todas las diferentes áreas.",
             "arabic": "هذه هي لوحة بيانات الطالب. الممارسة عبر الإنترنت مقسّمة الى عدة مجالات  على سبيل المثال، إختبار ، مفردات والممارسة. تبيّن لوحة البيانات نتائج نشاط الطالب لمرحلة عبر المجالات المختلفة."
           }
         },
@@ -103,7 +103,7 @@
           "text":{
             "english": "Results for activities within different areas are displayed as a percentage based on the average score of all completed activities in an area within a level.",
             "turkish": "Değişik alanlardaki aktivitelerin sonuçları, bir seviye içindeki bir alanda tamamlanmış tüm aktivitelerin ortalama puanına göre bir yüzde olarak gösterilir.",
-            "spanish": "-",
+            "spanish": "Los resultados para actividades dentro de las áreas diferentes se muestran como un porcentaje basado calificación promedio de todas las actividades realizadas en un área dentro de un nivel.",
             "arabic": "النتائج المتعلقة بالانشطة ضمن مجالات مختلفة معروضة كنسبة مئوية مبنية على أساس معدل الدرجة لجميع الانشطة المنجزة في مجال ما ضمن مستو ما."
           }
         },
@@ -114,7 +114,7 @@
           "text":{
             "english": "The number of completed activities is shown here along with the total number of activities in a skill area.",
             "turkish": "Tamamlanmış aktivitelerin sayısı burada bir beceri alanındaki toplam aktivite sayısı ile birlikte gösterilir.",
-            "spanish": "-",
+            "spanish": "El número de actividades realizadas se muestra aquí junto con el número total de actividades en un área de aptitud.",
             "arabic": "عدد الانشطة المنجزة معروض هنا مع العدد الكلي للانشطة في مجال للمهارة."
           }
         }

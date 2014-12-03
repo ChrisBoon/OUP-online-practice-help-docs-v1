@@ -2,7 +2,7 @@
  "title": {
     "english": "Manage Attempts",
     "turkish": "Denemeleri Yönet",
-    "spanish": "-",
+    "spanish": "Administrar los intentos",
     "arabic": "-"
   },
  "segment": "adult",
@@ -26,7 +26,7 @@
           "text":{
             "english": "This page allows you to change the information you see in your reports.",
             "turkish": "Bu sayfa, raporlarınızda gördüğünüz bilgileri değiştirmenizi sağlar.",
-            "spanish": "-",
+            "spanish": "Esta página le permite cambiar la información que visualiza en sus informes.",
             "arabic": "تتيح لك هذه الصفحة إجراء تغيير في معلومات تراها في تقاريرك."
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "Click here to manage attempts for a different class.",
             "turkish": "Başka bir sınıfın denemelerini yönetmek için buraya tıklayın.",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para administrar los intentos para una clase diferente.",
             "arabic": "أنقر هنا لإدارة محاولات لصف مختلف."
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "Click here to show the first attempt on each activity. Students can continue to practice, but you will only see their first score in your reports.",
             "turkish": "Her bir aktivitenin ilk denemesini görmek için buraya tıklayın. Öğrenciler denemeye devam edebilir, ancak siz raporlarda sadece ilk öğrenci puanlarını göreceksiniz.",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para mostrar el primer intento en cada actividad. Los estudiantes pueden continuar practicando, pero usted solo verá la primera puntuación en sus informes.",
             "arabic": "أنقر هنا لكي ترى المحاولة الاولى لكل نشاط. يستطيع الطلاب الاستمرار في الممارسة، لكنك سترى فقط درجتهم الاولى في تقاريرك."
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "Click here to show the last attempt on each activity. Students can continue to practice, but you will only see their last score in your reports. (This is the default setting.)",
             "turkish": "Her bir aktivitenin son denemesini görmek için buraya tıklayın. Öğrenciler denemeye devam edebilir, ancak siz raporlarda sadece son öğrenci puanlarını göreceksiniz. (Bu otomatik ayardır.)",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para mostrar el último intento en cada actividad. Los estudiantes pueden continuar practicando, pero usted solo verá la última puntuación en sus informes. (Esta es la configuración predeterminada).",
             "arabic": "أنقر هنا لكي ترى المحاولة الأخيرة لكل نشاط. يستطيع الطلاب الاستمرار في الممارسة، لكنك سترى فقط  درجتهم الاخيرة في تقاريرك. (هذا هو الإعداد الافتراضي.)"
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "Click here to save your changes.",
             "turkish": "Yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para guardar sus cambios.",
             "arabic": "أنقر هنا لكي تحفظ التغييرات التي أجريتها."
           }
         }

@@ -81,8 +81,8 @@
           "text":{
             "english": "Use this menu to see a student’s results for a specific segment or all segments.",
             "turkish": "Öğrencinin belirli bir bölümde ya da tüm bölümlerde aldığı sonuçları görmek için bu menüyü kullanın.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Utilice este menú para ver los resultados de un estudiante en un segmento específico o en todos los segmentos.",
+            "arabic": "إستعمل هذه القائمة لمشاهدة نتائج الطالب لقسم معيّن أو لجميع الأقسام."
           }
         },
         "paragraph07": {
@@ -92,8 +92,8 @@
           "text":{
             "english": "You can also click on a segment title to view a student’s Segment Report.",
             "turkish": "Bir öğrencinin Bölüm Raporunu görmek için bir bölüm başlığına da tıklayabilirsiniz.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "También puede hacer clic en el título de un segmento para ver el Informe de segmento de un estudiante.",
+            "arabic": "يمكنك أيضاً النقر على عنوان القسم لمشاهدة تقرير القسم للطالب."
           }
         },
         "paragraph08": {
@@ -103,8 +103,8 @@
           "text":{
             "english": "Click on a unit to view the student’s work in that unit within a specific segment.",
             "turkish": "Öğrencinin belirli bir bölümdeki bir ünitede çalışmasını görmek için üniteye tıklayabilirsiniz.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Haga clic en una unidad para ver el trabajo del estudiante en esa unidad dentro de un segmento específico.",
+            "arabic": "أنقر على الوحدة لمشاهدة عمل الطالب في تلك الوحدة ضمن قسم معيّن."
           }
         },
         "paragraph09": {
@@ -114,8 +114,8 @@
           "text":{
             "english": "This row shows a student’s total score for all activities in a unit.",
             "turkish": "Bu satır, öğrencinin bir ünitedeki tüm aktivitelerden aldığı toplam puanı gösterir.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Esta fila muestra la calificación total del estudiante para todas las actividades en una unidad.",
+            "arabic": "يعرض هذا الصف درجة الطالب الكلية لجميع النشاطات في الوحدة."
           }
         },
         "paragraph10": {
@@ -125,8 +125,8 @@
           "text":{
             "english": "This row shows the number of times a student attempted all activities in a unit.",
             "turkish": "Bu satır, öğrencinin bir ünitedeki tüm aktiviteleri kaç defa denediğini gösterir.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Esta fila muestra el número total de veces que un estudiante intentó todas las actividades en una unidad.",
+            "arabic": "يعرض هذا الصف عدد المرات التي حاول فيها الطالب جميع الأنشطة في الوحدة."
           }
         },
         "paragraph11": {
@@ -136,8 +136,8 @@
           "text":{
             "english": "This row shows the total amount of time the student spent on each unit.",
             "turkish": "Bu satır, öğrencinin bir ünite üzerinde harcadığı toplam zamanı gösterir.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Esta fila muestra la cantidad total de tiempo que el estudiante empleó en cada unidad.",
+            "arabic": "يعرض هذا الصف مقدار الوقت الكلي الذي قضاه الطالب في كل وحدة."
           }
         },
         "paragraph12": {
@@ -147,8 +147,8 @@
           "text":{
             "english": "This is the student’s total score across all activities in a segment.",
             "turkish": "Burada öğrencinin bir bölümün tüm aktivitelerinden aldığı toplam puan gösterilir.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Esta es la puntuación total del estudiante en todas las actividades del estudiante en un segmento.",
+            "arabic": "هذه هي درجة الطالب الكلية عبرَ جميع النشاطات في القسم."
           }
         },
         "paragraph13": {
@@ -158,8 +158,8 @@
           "text":{
             "english": "This is the total number of times the student has attempted all activities in a segment.",
             "turkish": "Burada öğrencinin bir bölümün tüm aktiviteleri toplam deneme sayısı gösterilir.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Este es el número total de veces que el estudiante ha intentado todas las actividades en un segmento.",
+            "arabic": "هذا هو مجموع عدد المرات التي حاول فيها الطالب جميع النشاطات في القسم."
           }
         },
         "paragraph14": {
@@ -169,8 +169,8 @@
           "text":{
             "english": "This is the total time taken on all activities in a segment.",
             "turkish": "Burada bir bölümün tüm aktivitelerinde harcanan toplam zaman gösterilir.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Este es el total de tiempo empleado en todas las actividades en un segmento.",
+            "arabic": "هذا هو الوقت الكلي  الذي قضاه الطالب في جميع النشاطات في القسم."
           }
         },
         "paragraph15": {

@@ -67,7 +67,7 @@
           "numberPosLeft": 0,
           "text":{
             "english": "Click here to see a grammar chart pop-up related to the current activity.",
-            "spanish": "_",
+            "spanish": "Haga clic aquí para ver un gráfico de gramática emergente relacionado con la actividad actual.",
             "turkish": "Şimdiki aktiviteyle ilgili açılan bir gramer cetvelini görmek için buraya tıklayın.",
             "arabic": "انقر هنا لمشاهدة المخطط المنبثق لقواعد اللغة الخاص بالنشاط الحالي."
           }
@@ -79,7 +79,7 @@
           "text":{
             "english": "Click here to check your answers when you have answered all questions in an activity.",
             "turkish": "Bir aktivitenin tüm sorularını cevapladıktan sonra cevaplarınızı kontrol etmek için buraya tıklayın.",
-            "spanish": "_",
+            "spanish": "Haga clic aquí para verificar sus respuestas cuando usted haya contestado todas las preguntas en una actividad.",
             "arabic": "انقر هنا لفحص إجاباتك عندما تكون قد أجبت على كل الأسئلة ضمن نشاط معين."
           }
         },
@@ -90,7 +90,7 @@
           "text":{
             "english": "You can try an activity again if you answer some questions incorrectly. You can try an activity as many times as you like.",
             "turkish": "Bazı soruları yanlış cevaplarsanız aktiviteyi tekrar deneyebilirsiniz. Bir aktiviteyi isterseniz defalarca deneyebilirsiniz.",
-            "spanish": "_",
+            "spanish": "Puede intentar una actividad nuevamente si contesta erróneamente algunas preguntas. Puede intentar una actividad tantas veces como usted lo desee.",
             "arabic": "يمكنك تجربة نشاط ما مرة أخرى إذا أجبت على بعض الأسئلة على نحو مغلوط. ويمكنك تجربة نشاط ما عدد المرات التي ترغب فيها."
           }
         },
@@ -101,7 +101,7 @@
           "text":{
             "english": "If you answer some questions incorrectly you can see the correct answers.",
             "turkish": "Bazı soruları yanlış cevaplarsanız doğru yanıtları görebilirsiniz.",
-            "spanish": "_",
+            "spanish": "Si contesta erróneamente algunas preguntas puede ver las respuestas correctas.",
             "arabic": "إذا أجبت على بعض الأسئلة على نحو مغلوط يمكنك مشاهدة الإجابات الصحيحة."
           }
         },
@@ -112,7 +112,7 @@
           "text":{
             "english": "Click here to see a Feedback pop-up with guidance on completing an activity.",
             "turkish": "Bir aktivitenin tamamlanmasıyla ilgili bilgi için açılan Geri Bildirimi görmek üzere buraya tıklayın.",
-            "spanish": "_",
+            "spanish": "Haga clic aquí para ver una ventana emergente de retroalimentación con información sobre cómo completar una actividad.",
             "arabic": "انقر هنا لمشاهدة ملاحظة منبثقة مع إرشادات لتكملة النشاط."
           }
         },
@@ -123,7 +123,7 @@
           "text":{
             "english": "Your current activity score is shown here.",
             "turkish": "Şimdiki aktiviteden aldığınız puan burada görünür.",
-            "spanish": "_",
+            "spanish": "Aquí aparece la puntuación de su actividad actual.",
             "arabic": "هنا تظهر الدرجة الحالية لنشاطك."
           }
         },
@@ -134,7 +134,7 @@
           "text":{
             "english": "You can find supporting resources here that will help you with your Online Practice work, if available.",
             "turkish": "Çevrim İçi Uygulamalarda size yardım edecek kaynakları, varsa, burada bulabilirsiniz.",
-            "spanish": "_",
+            "spanish": "Usted puede encontrar recursos de apoyo aquí que le ayudarán con su trabajo de Práctica en línea, si está disponible.",
             "arabic": "هنا يمكنك العثور على موارد مساندة التي ستساعدك على استخدام الممارسة عبر شبكة الانترنت، إذا كانت متوفرة."
           }
         },
@@ -145,7 +145,7 @@
           "text":{
             "english": "You can view the Glossary here, if available. The Glossary will help you with the course vocabulary.",
             "turkish": "Varsa, Sözlüğe burada bakabilirsiniz. Sözlük, kursun sözcük hazinesi için size yardımcı olur.",
-            "spanish": "_",
+            "spanish": "Puede ver el Glosario aquí, si está disponible. El glosario le ayudará con el vocabulario del curso.",
             "arabic": "يمكنك مشاهدة المسرد هنا، إذا كان متاحاً. وسوف يساعدك المسرد في استعمال مفردات المقرر."
           }
         },
@@ -156,7 +156,7 @@
           "text":{
             "english": "Access your Achievements and Reports here.",
             "turkish": "Başarılarınıza ve Raporlarınıza buradan ulaşabilirsiniz.",
-            "spanish": "Acceda a sus Logros e Informes aquí.", 
+            "spanish": "Acceda aquí a sus Logros e Informes.", 
             "arabic": "هنا يمكنك الإحاطة بتحصيلك وتقاريرك."
           }
         }

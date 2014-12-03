@@ -2,7 +2,7 @@
  "title": {
     "english": "Segment Report",
     "turkish": "Bölüm Raporu",
-    "spanish": "-",
+    "spanish": "Informe del segmento",
     "arabic": "تقرير القطاع "
   },
  "segment": "adult",
@@ -48,7 +48,7 @@
           "text":{
             "english": "Use this menu to view a Segment Report for a different class.",
             "turkish": "Başka bir sınıfın Bölüm Raporunu görmek için bu menüyü kullanın.",
-            "spanish": "-",
+            "spanish": "Utilice este menú para ver un Informe del segmento para una clase diferente.",
             "arabic": "إستعمل هذه القائمة لمشاهدة تقرير القسم لفصل دراسي مختلف."
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "Use this menu to view a Segment Report for a different student.",
             "turkish": "Başka bir öğrencinin Bölüm Raporunu görmek için bu menüyü kullanın.",
-            "spanish": "-",
+            "spanish": "Utilice este menú para ver un Informe del segmento para un estudiante diferente.",
             "arabic": "إستعمل هذه القائمة لمشاهدة تقريرالقسم لطالب مختلف."
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "Use this menu to view the Segment Report for a different segment.",
             "turkish": "Başka bir bölümün Bölüm Raporunu görmek için bu menüyü kullanın.",
-            "spanish": "-",
+            "spanish": "Utilice este menú para ver el Informe del segmento para un segmento diferente.",
             "arabic": "إستعمل هذه القائمة لمشاهدة تقرير القسم لقسم آخر."
           }
         },
@@ -81,7 +81,7 @@
           "text":{
             "english": "Click here to view this student’s work for this activity.",
             "turkish": "Bu aktivite için bu öğrencinin çalışmasını görmek için buraya tıklayın.",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ver el trabajo este estudiante para esta actividad.",
             "arabic": "أنقر هنا لمشاهدة عمل الطالب لهذا النشاط."
           }
         },
@@ -92,7 +92,7 @@
           "text":{
             "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The √ symbol means that the activity does not have a score.",
             "turkish": "Bu satır, bu öğrencinin bu ünitedeki her bir aktivitede aldığı puanı gösterir. Örneğin, puan 8/10 ise, öğrencinin doğru yanıtladığı madde (soru) sayısı 8 ve aktivitedeki toplam soru sayısı ise 10 demektir. √ sembolü, bir aktivitede puan yok anlamına gelir.",
-            "spanish": "-",
+            "spanish": "Esta fila muestra la puntuación de este estudiante en cada actividad en esta unidad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el estudiante respondió correctamente, y 10 es el número total de elementos en la actividad. El símbolo √ significa que la actividad no tiene una puntuación.",
             "arabic": "يبيّن هذا الصف درجات الطالب لكل نشاط في هذه الوحدة. على سبيل المثال، إذا كانت الدرجة 8/10 فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عليها الطالب بصورة صحيحة والرقم 10 هو العدد الكلي البنود في النشاط. يشير هذا الرمز √ إلى الفعالية التي ليس لها درجة."
           }
         },
@@ -103,7 +103,7 @@
           "text":{
             "english": "This row shows the total number of times this student attempted each activity in this unit. The √ symbol means that attempts are not recorded for the activity.",
             "turkish": "Bu satır, bu öğrencinin bu ünitedeki her bir aktiviteyi toplam kaç defa denediğini gösterir. √ sembolü,aktivite için denemelerin kaydedilmediği anlamına gelir.",
-            "spanish": "-",
+            "spanish": "Esta fila muestra el número total de veces que este estudiante intentó cada actividad en esta unidad. El símbolo √ que en esta actividad los intentos no quedan registrados.",
             "arabic": "يبيّن هذا الصف المجموع الكلي لعدد المرات التي جرّب فيها هذا الطالب كل نشاط في هذه الوحدة. هذه العلامة √ تعني بأن المحاولات ليست مسجلة للنشاط."
           }
         },
@@ -125,7 +125,7 @@
           "text":{
             "english": "This is the student’s total score in a unit.",
             "turkish": "Burada öğrencinin bir ünitedeki toplam puanı gösterilir.",
-            "spanish": "-",
+            "spanish": "Esta es la puntuación total del estudiante en una unidad.",
             "arabic": "هذا هو المجموع الكلي لدرجات الطالب في الوحدة."
           }
         },
@@ -136,7 +136,7 @@
           "text":{
             "english": "This is the student’s total number of activity attempts in a unit.",
             "turkish": "Burada öğrencinin bir ünitedeki aktiviteleri toplam deneme sayısı gösterilir.",
-            "spanish": "-",
+            "spanish": "Este es el número total de intentos de actividad del estudiante en una unidad.",
             "arabic": "هذه هو مجموع العدد الكلي لمحاولات نشاط الطالب في الوحدة."
           }
         },
@@ -147,7 +147,7 @@
           "text":{
             "english": "This is the total amount of time taken on activities in a unit.",
             "turkish": "Burada bir ünitedeki aktiviteler için harcanan toplam zaman gösterilir.",
-            "spanish": "-",
+            "spanish": "Este es el total de tiempo empleado en actividades en una unidad.",
             "arabic": "هذا هوالمجموع الكلي للوقت الذي استغرقته النشاطات في الوحدة."
           }
         },

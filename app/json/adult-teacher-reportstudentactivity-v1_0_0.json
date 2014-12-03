@@ -48,8 +48,8 @@
           "text":{
             "english": "Click here to view the Student Report for this student.",
             "turkish": "Bu öğrencinin Öğrenci Raporunu görmek için buraya tıklayın.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Haga clic aquí para visualizar el Informe del Estudiante para este estudiante.",
+            "arabic": "أنقر هنا على تقرير طالب لمشاهدة كل ما يتعلق بهذا الطالب."
           }
         },
         "paragraph04": {
@@ -59,8 +59,8 @@
           "text":{
             "english": "Click here to view the Segment Report for this student.",
             "turkish": "Bu öğrencinin Bölüm Raporunu görmek için buraya tıklayın.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Haga clic aquí para visualizar el Informe del Segmento para este estudiante.",
+            "arabic": "أنقر هنا كي تشاهد تقرير القسم لهذا الطالب."
           }
         },
         "paragraph05": {
@@ -92,8 +92,8 @@
           "text":{
             "english": "This shows the student’s score on this activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity.",
             "turkish": "Burada, öğrencinin bu aktivitede aldığı puan gösterilir. Örneğin, puan 8/10 ise, öğrencinin doğru cevapladığı madde (soru) sayısı 8 ve aktivitedeki toplam soru sayısı ise 10 demektir.",
-            "spanish": "-",
-            "arabic": "-"
+            "spanish": "Este muestra la puntuación del estudiante en esta actividad. Por ejemplo, si el puntaje es 8/10, 8 es el número de elementos (preguntas) que el estudiante respondió correctamente, y 10 es el número total de elementos en la actividad.",
+            "arabic": "تعرض هذه البيانات درجات الطالب في هذا النشاط. على سبيل المثال، إذا كانت الدرجة  8/10 ، فإن الرقم 8 يشير الى البنود ( الاسئلة) التي أجاب عليها الطالب بصورة صحيحة، والرقم 10 هو المجموع الكلي للبنود في النشاط."
           }
         }
       }

@@ -37,7 +37,7 @@
           "text":{
             "english": "Check this box to delete this student from this class. Then click “Save Changes”.",
             "turkish": "Bu öğrenciyi bu sınıftan çıkarmak için bu kutuyu işaretleyin. Sonra, “Save Changes’ düğmesini tıklayın.",
-            "spanish": "Marque esta casilla para eliminar al estudiante de esta clase. Luego haga clic en \"Save Changes\".",
+            "spanish": "Marque esta casilla para suprimir al estudiante de esta clase. Entonces haga clic en “Save Changes”.",
             "arabic": "ضع علامة في هذا المربع لكي تحذف هذا الطالب من هذا الصف، ثم انقر على “Save Changes”  \"احفظ التغييرات\"."
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "Click here to go back to the previous screen. If you did not click “Save Changes” your changes will not be saved.",
             "turkish": "Önceki ekrana dönmek için buraya tıklayın. “Save Changes” düğmesini tıklamadıysanız yaptığınız değişiklikler kaydedilmez.",
-            "spanish": "Haga clic aquí para regresar a la pantalla anterior. Si no hizo clic en \"Save Changes\" no se guardarán los cambios.",
+            "spanish": "Haga clic aquí para regresar a la pantalla anterior. Si no hizo clic en “Save Changes” se perderán sus cambios.",
             "arabic": "أنقر هنا لكي ترجع الى الشاشة السابقة . إذا لم تنقر على “Save Changes” \"احفظ التغييرات\". فإن الغييرات التي كتبتها سوف لن تُحفظ."
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "Click here to save the changes you made to this class.",
             "turkish": "Bu sınıfta yaptığınız değişiklikleri kaydetmek üzere buraya tıklayın.",
-            "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
+            "spanish": "Haga clic aquí para guardar los cambios realizados a esta clase.",
             "arabic": "أنقر هنا لكي تحفظ التغييرات التي قمت بها لهذا الصف."
           }
         }
