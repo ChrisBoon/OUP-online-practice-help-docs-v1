@@ -42,9 +42,9 @@
         "order":4,
         "title": {
           "english": "Manage Attempts",
-          "turkish": "-",
-          "spanish": "-",
-          "arabic": "-"
+          "turkish": "Denemeleri Yönet",
+          "spanish": "Administrar los intentos",
+          "arabic": "إدارة المحاولات"
         },
         "id": "adult-teacher-manageattempts-v1_0_0"
       },
@@ -82,9 +82,9 @@
         "order":8,
         "title": {
           "english": "Hide/Assign Content",
-          "turkish": "-",
-          "spanish": "-",
-          "arabic": "-"
+          "turkish": "İçeriği Gizle/Ata",
+          "spanish": "Ocultar/Asignar contenido",
+          "arabic": "تحديد المحتوى /إخفاء"
         },
         "id": "adult-teacher-contentassign-v1_0_0"
       },
@@ -142,9 +142,9 @@
         "order":14,
         "title": {
           "english": "Segment Report",
-          "turkish": "-",
-          "spanish": "-",
-          "arabic": "-"
+          "turkish": "Öğrenci Bölüm Raporu",
+          "spanish": "Informe del segmento de estudiante",
+          "arabic": "تقريرالطالب الجزئي"
         },
         "id": "adult-teacher-reportsegment-v1_0_0"
       },
@@ -172,9 +172,9 @@
         "order":17,
         "title": {
           "english": "Activities and Resources",
-          "turkish": "-",
-          "spanish": "-",
-          "arabic": "-"
+          "turkish": "Aktiviteler ve Kaynaklar ",
+          "spanish": "Actividades y Recursos",
+          "arabic": "أنشطة و الموارد"
         },
         "id": "adult-teacher-enteronlinepractice-v1_0_0"
       },
@@ -242,9 +242,9 @@
         "order":24,
         "title": {
           "english": "Discussion Board",
-          "turkish": "-",
-          "spanish": "-",
-          "arabic": "-"
+          "turkish": "Tartışma Panosu",
+          "spanish": "Panel de discusión",
+          "arabic": "المناقشة لوحة"
         },
         "id": "adult-teacher-discussionboard-v1_0_0"
       },
@@ -353,9 +353,9 @@
         "order":9,
         "title": {
           "english": "Segment Report",
-          "turkish": "-",
-          "spanish": "-",
-          "arabic": "-"
+          "turkish": "Öğrenci Bölüm Raporu",
+          "spanish": "Informe del segmento de estudiante",
+          "arabic": "تقريرالطالب الجزئي"
         },
         "id": "adult-student-reportsegment-v1_0_0"
       },
@@ -373,9 +373,9 @@
         "order":11,
         "title": {
           "english": "Discussion Board",
-          "turkish": "-",
-          "spanish": "-",
-          "arabic": "-"
+          "turkish": "Tartışma Panosu",
+          "spanish": "Panel de discusión",
+          "arabic": "المناقشة لوحة"
         },
         "id": "adult-student-discussionboard-v1_0_0"
       },
