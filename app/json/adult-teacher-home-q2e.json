@@ -1,0 +1,102 @@
+{
+ "title": {
+    "english": "Home",
+    "turkish": "Anasayfa",
+    "spanish": "Inicio",
+    "arabic": "الصفحة الرئيسية "
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATH-q2e-001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 17,
+          "numberPosLeft": 7,
+          "text":{
+            "english": "Click here to manage your Online Practice classes. You can view the details of your classes, delete students’ accounts, add new classes, delete classes, or join an institution.",
+            "turkish": "Online Uygulama derslerinizi yönetmek için buraya tıklayın. Sınıflarınızın bilgilerini görebilir, öğrencilerinizin hesaplarını silebilir, yeni sınıflar ekleyebilir ya da bir kuruma katılabilirsiniz.",
+            "spanish": "Haga clic aquí para administrar sus clases de Práctica Online. Puede ver los detalles de sus clases, eliminar las cuentas de los estudiantes, añadir nuevas clases, eliminar clases, o inscribirse en una institución.",
+            "arabic": "انقر هنا لإدارة فصول الممارسة الخاصة بك عبر شبكة الإنترنت. يمكنك عرض التفاصيل المتعلقة بالفصول الخاصة بك أو حذف حسابات الطلاب أو إضافة فصول جديدة أو حذف الفصول أو الانضمام لإحدى المؤسسات."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 33,
+          "numberPosLeft": 7,
+          "text":{
+            "english": "Click here to view scores and reports on your students’ progress.",
+            "turkish": "Öğrencilerinin ilerleyişi ile ilgili puanları ve raporları görmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ver las puntuaciones y los informes sobre el progreso de sus estudiantes.",
+            "arabic": "انقر هنا لعرض الدرجات والتقارير حول تقدم الطلاب التابعين لك."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 50,
+          "numberPosLeft": 7,
+          "text":{
+            "english": "Click here to enter the Online Practice activity area and to access different resources.",
+            "turkish": "Çevrim İçi Uygulama aktiviteleri alanına girip değişik kaynaklara erişmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ingresar en el área de actividad de Práctica Online y acceder a diferentes recursos.",
+            "arabic": "أنقر هنا لكي تشارك في مجال نشاط الممارسة عبر شبكة الإنترنت ومن أجل الوصول الى موارد مختلفة."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 67,
+          "numberPosLeft": 7,
+          "text":{
+            "english": "Click here to add another level of your Online Practice course.",
+            "turkish": "Online Uygulama kursunuza başka bir seviye eklemek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para agregar otro nivel a su curso de Práctica Online.",
+            "arabic": "انقر هنا لإضافة مستوى آخر لمقرر الممارسة الخاصة بك عبر شبكة الإنترنت."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 17,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
+            "turkish": "E-posta alanını kullanmak ve öğrencilerinize mesaj göndermek için buraya tıklayın. Yeni mesajınız olduğunda, mesajların sayısı burada görüntülenir.",
+            "spanish": "Haga clic aquí para utilizar el área de correo electrónico y enviar mensajes a sus estudiantes. Si tiene mensajes nuevos, el número de mensajes aparecerá aquí.",
+            "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني وإرسال الرسائل إلى طلابك. إذا كانت لديك رسائل جديدة، فإن عدد الرسائل سيظهر هنا."
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 33,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Click here to enter the Writing Tutor activity area.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 50,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Click here to view the Discussion Board.",
+            "turkish": "Tartışma Panosunu görmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para visualizar el Panel de discusión.",
+            "arabic": "أنقر هنا لكي تشاهد لوحة المناقشة."
+          }
+        }
+      }
+    }
+  }
+}

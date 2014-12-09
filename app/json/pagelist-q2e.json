@@ -26,7 +26,7 @@
           "spanish": "Inicio",
           "arabic": "الصفحة الرئيسية"
         },
-        "id": "adult-teacher-home-v1_0_0"
+        "id": "adult-teacher-home-q2e"
       },
       "item03":{
         "order":3,
@@ -36,7 +36,7 @@
           "spanish": "Administrar Clases",
           "arabic": "إدارة الفصول"
         },
-        "id": "adult-teacher-manageclasses-v1_0_0"
+        "id": "adult-teacher-manageclasses-q2e"
       },
       "item04":{
         "order":4,
@@ -46,7 +46,7 @@
           "spanish": "Administrar los intentos",
           "arabic": "إدارة المحاولات"
         },
-        "id": "adult-teacher-manageattempts-v1_0_0"
+        "id": "adult-teacher-manageattempts-q2e"
       },
       "item05":{
         "order":5,
@@ -86,7 +86,7 @@
           "spanish": "Ocultar/Asignar contenido",
           "arabic": "تحديد المحتوى /إخفاء"
         },
-        "id": "adult-teacher-contentassign-v1_0_0"
+        "id": "adult-teacher-contentassign-q2e"
       },
       "item09":{
         "order":9,
@@ -146,7 +146,7 @@
           "spanish": "Informe del segmento de estudiante",
           "arabic": "تقريرالطالب الجزئي"
         },
-        "id": "adult-teacher-reportsegment-v1_0_0"
+        "id": "adult-teacher-reportsegment-q2e"
       },
       "item15":{
         "order":15,
@@ -171,6 +171,36 @@
       "item17":{
         "order":17,
         "title": {
+          "english": "Teacher Graded Activities",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-manualgradedactivity-v1_0_0"
+      },
+      "item18":{
+        "order":18,
+        "title": {
+          "english": "Writing Tutor Reports",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-writingtutorreport-v1_0_0"
+      },
+      "item19":{
+        "order":19,
+        "title": {
+          "english": "Writing Tutor Teacher Feedback",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-writingtutorfeedback-v1_0_0"
+      },
+      "item20":{
+        "order":20,
+        "title": {
           "english": "Activities and Resources",
           "turkish": "Aktiviteler ve Kaynaklar ",
           "spanish": "Actividades y Recursos",
@@ -178,28 +208,28 @@
         },
         "id": "adult-teacher-enteronlinepractice-v1_0_0"
       },
-      "item18":{
-        "order":18,
+      "item21":{
+        "order":21,
         "title": {
           "english": "Activities",
           "turkish": "Aktiviteler",
           "spanish": "Actividades",
           "arabic": "أنشطة"
         },
-        "id": "adult-teacher-activities-v1_0_0"
+        "id": "adult-teacher-activities-q2e"
       },
-      "item19":{
-        "order":19,
+      "item22":{
+        "order":22,
         "title": {
-          "english": "Glossary",
-          "turkish": "Sözlük",
-          "spanish": "Glosario",
-          "arabic": "المسرد"
+          "english": "Writing Tutor",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
         },
-        "id": "adult-teacher-glossary-v1_0_0"
+        "id": "adult-teacher-writingtutor-v1_0_0"
       },
-      "item20":{
-        "order":20,
+      "item23":{
+        "order":23,
         "title": {
           "english": "Resources",
           "turkish": "Kaynaklar",
@@ -208,8 +238,8 @@
         },
         "id": "adult-teacher-resources-v1_0_0"
       },
-      "item21":{
-        "order":21,
+      "item24":{
+        "order":24,
         "title": {
           "english": "Media Center",
           "turkish": "Medya Merkezi",
@@ -218,8 +248,8 @@
         },
         "id": "adult-teacher-media-v1_0_0"
       },
-      "item22":{
-        "order":22,
+      "item25":{
+        "order":25,
         "title": {
           "english": "Add a Level",
           "turkish": "Seviye Ekle",
@@ -228,8 +258,8 @@
         },
         "id": "adult-teacher-addlevel-v1_0_0"
       },
-      "item23":{
-        "order":23,
+      "item26":{
+        "order":26,
         "title": {
           "english": "Email",
           "turkish": "E-posta",
@@ -238,8 +268,8 @@
         },
         "id": "adult-teacher-email-v1_0_0"
       },
-      "item24":{
-        "order":24,
+      "item27":{
+        "order":27,
         "title": {
           "english": "Discussion Board",
           "turkish": "Tartışma Panosu",
@@ -248,8 +278,8 @@
         },
         "id": "adult-teacher-discussionboard-v1_0_0"
       },
-      "item25":{
-        "order":25,
+      "item28":{
+        "order":28,
         "title": {
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
@@ -287,7 +317,7 @@
           "spanish": "Inicio",
           "arabic": "الصفحة الرئيسية"
         },
-        "id": "adult-student-home-v1_0_0"
+        "id": "adult-student-home-q2e"
       },
       "item03":{
         "order":3,
@@ -307,17 +337,17 @@
           "spanish": "Actividades",
           "arabic": "أنشطة"
         },
-        "id": "adult-student-activities-v1_0_0"
+        "id": "adult-student-activities-q2e"
       },
       "item05":{
         "order":5,
         "title": {
-          "english": "Glossary",
-          "turkish": "Sözlük",
-          "spanish": "Glosario",
-          "arabic": "المسرد"
+          "english": "Writing Tutor",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
         },
-        "id": "adult-student-glossary-v1_0_0"
+        "id": "adult-student-writingtutor-v1_0_0"
       },
       "item06":{
         "order":6,
@@ -357,10 +387,30 @@
           "spanish": "Informe del segmento de estudiante",
           "arabic": "تقريرالطالب الجزئي"
         },
-        "id": "adult-student-reportsegment-v1_0_0"
+        "id": "adult-student-reportsegment-q2e"
       },
       "item10":{
         "order":10,
+        "title": {
+          "english": "Writing Tutor Reports",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-student-writingtutorreport-v1_0_0"
+      },
+      "item11":{
+        "order":11,
+        "title": {
+          "english": "Teacher Feedback",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-student-teacherfeedback-v1_0_0"
+      },
+      "item12":{
+        "order":12,
         "title": {
           "english": "Email",
           "turkish": "E-posta",
@@ -369,8 +419,8 @@
         },
         "id": "adult-student-email-v1_0_0"
       },
-      "item11":{
-        "order":11,
+      "item13":{
+        "order":13,
         "title": {
           "english": "Discussion Board",
           "turkish": "Tartışma Panosu",
@@ -379,8 +429,8 @@
         },
         "id": "adult-student-discussionboard-v1_0_0"
       },
-      "item12":{
-        "order":12,
+      "item14":{
+        "order":14,
         "title": {
           "english": "Media Center",
           "turkish": "Medya Merkezi",
@@ -389,8 +439,8 @@
         },
         "id": "adult-student-media-v1_0_0"
       },
-      "item13":{
-        "order":13,
+      "item15":{
+        "order":15,
         "title": {
           "english": "Join a Class",
           "turkish": "Bir Sınıfa Katıl",
@@ -399,8 +449,8 @@
         },
         "id": "adult-student-classjoin-v1_0_0"
       },
-      "item14":{
-        "order":14,
+      "item16":{
+        "order":16,
         "title": {
           "english": "Change Class",
           "turkish": "Sınıf Değiştir",
@@ -409,8 +459,8 @@
         },
         "id": "adult-student-classchange-v1_0_0"
       },
-      "item15":{
-        "order":15,
+      "item17":{
+        "order":17,
         "title": {
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
@@ -448,7 +498,7 @@
           "spanish": "Inicio",
           "arabic": "الصفحة الرئيسية"
         },
-        "id": "adult-admin-home-v1_0_0"
+        "id": "adult-admin-home-q2e"
       },
       "item03":{
         "order":3,

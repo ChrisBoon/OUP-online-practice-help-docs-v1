@@ -1,0 +1,456 @@
+{
+ "title": {
+    "english": "Writing Tutor",
+    "turkish": "-",
+    "spanish": "-",
+    "arabic": "-"
+  },
+ "segment": "adult",
+ "userType": ["student"],
+ "pageCount": 3,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASWT001.png",
+      "pageTitle": {
+        "english": "Choose an Assignment",
+        "turkish": "-",
+        "spanish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Click here to select a different book. Writing Tutor is only available for Reading & Writing levels.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "This column lists the writing assignment names.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click here to View a Model. It demonstrates the structure of the writing and it has a sample writing.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "Click here to Write Your Essay. The writing framework helps you organize your writing assignments.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 25,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 30,
+          "numberPosLeft": 30,
+          "text":{
+            "english": "Click here to view Writing Tutor Reports.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "ASWT002.png",
+      "pageTitle": {
+        "english": "View a Model",
+        "turkish": "-",
+        "spanish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Read the writing assignment prompt here.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Read tips about the assignment writing style here.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "View the Model here to understand how texts are constructed for the writing assignment.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "Click here to hide the left navigation.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 25,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "Use the boxes below to see how a well-structured writing is organized.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 30,
+          "numberPosLeft": 30,
+          "text":{
+            "english": "Click here to read about the assignment writing style.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 35,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "Click here to see how the writing sample was planned.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 40,
+          "numberPosLeft": 40,
+          "text":{
+            "english": "Click here to see the sample writing.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 45,
+          "numberPosLeft": 45,
+          "text":{
+            "english": "Click here to see the entire Model.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph10": {
+          "number": 10,
+          "numberPosTop": 50,
+          "numberPosLeft": 50,
+          "text":{
+            "english": "Click the boxes below to highlight specific structures in the sample essay. Each will highlight in a different color. Click again to hide.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph11": {
+          "number": 11,
+          "numberPosTop": 55,
+          "numberPosLeft": 55,
+          "text":{
+            "english": "Click here to begin writing the assignment.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph12": {
+          "number": 12,
+          "numberPosTop": 60,
+          "numberPosLeft": 60,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "ASWT003.png",
+      "pageTitle": {
+        "english": "Write The Assignment",
+        "turkish": "-",
+        "spanish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Read the writing assignment prompt here.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "Click here to view the Model for this assignment.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Read tips about the assignment writing style here.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 20,
+          "numberPosLeft": 20,
+          "text":{
+            "english": "Click here to hide the left navigation.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 25,
+          "numberPosLeft": 25,
+          "text":{
+            "english": "Click here for tips on how to use the Writing Tutor.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 30,
+          "numberPosLeft": 30,
+          "text":{
+            "english": "Use the writing framework below to plan, structure, and write the assignment.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 35,
+          "numberPosLeft": 35,
+          "text":{
+            "english": "Click here to write the assignment. Click again to hide.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 40,
+          "numberPosLeft": 40,
+          "text":{
+            "english": "Write the title of your assignment here.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 45,
+          "numberPosLeft": 45,
+          "text":{
+            "english": "Write the assignment here.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph10": {
+          "number": 10,
+          "numberPosTop": 50,
+          "numberPosLeft": 50,
+          "text":{
+            "english": "Click here to plan the writing and make notes. Click again to hide.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph11": {
+          "number": 11,
+          "numberPosTop": 55,
+          "numberPosLeft": 55,
+          "text":{
+            "english": "Click here to review the structure of the writing. Click again to hide.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph12": {
+          "number": 12,
+          "numberPosTop": 60,
+          "numberPosLeft": 60,
+          "text":{
+            "english": "Click here to preview the writing. Click again to exit preview.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph13": {
+          "number": 13,
+          "numberPosTop": 65,
+          "numberPosLeft": 65,
+          "text":{
+            "english": "Click here to highlight all Academic Word List words in the writing.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph14": {
+          "number": 14,
+          "numberPosTop": 70,
+          "numberPosLeft": 70,
+          "text":{
+            "english": "Click here to highlight all Oxford 3000 words in the writing.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph15": {
+          "number": 15,
+          "numberPosTop": 75,
+          "numberPosLeft": 75,
+          "text":{
+            "english": "Click here to save your assignment in the Writing Tutor.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph16": {
+          "number": 16,
+          "numberPosTop": 80,
+          "numberPosLeft": 80,
+          "text":{
+            "english": "Click here to save your assignment in the Writing Tutor and to your computer.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph17": {
+          "number": 17,
+          "numberPosTop": 85,
+          "numberPosLeft": 85,
+          "text":{
+            "english": "Click here to print your assignment.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph18": {
+          "number": 18,
+          "numberPosTop": 90,
+          "numberPosLeft": 90,
+          "text":{
+            "english": "Click here to save your assignment in the Writing Tutor and send it to your teacher. No changes can be made to your assignment after you submit it.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph19": {
+          "number": 19,
+          "numberPosTop": 95,
+          "numberPosLeft": 95,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

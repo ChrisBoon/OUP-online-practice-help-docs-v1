@@ -3,7 +3,7 @@
     "english": "Unit Report",
     "turkish": "Ünite Raporu",
     "spanish": "Informe de la unidad",
-    "arabic": "-"
+    "arabic": "تقرير الوحدة"
   },
  "segment": "adult",
  "userType": ["teacher"],
@@ -43,8 +43,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 3,
-          "numberPosLeft": 69,
+          "numberPosTop": 1,
+          "numberPosLeft": 65,
           "text":{
             "english": "Use this menu to view a Unit Report for a different class.",
             "turkish": "Farklı bir sınıfa ait Ünite Raporunu görmek için bu menüyü kullanın.",

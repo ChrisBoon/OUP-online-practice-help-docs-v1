@@ -1,0 +1,149 @@
+{
+ "title": {
+    "english": "Teacher Feedback for Online Practice Activities",
+    "turkish": "-",
+    "spanish": "-",
+    "arabic": "-"
+  },
+ "segment": "adult",
+ "userType": ["student"],
+ "pageCount": 4,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASTF001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Teacher Feedback is available for activities that include audio or writing submission. Writing Tutor Teacher Feedback can be accessed in Writing Tutor Reports.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "When your teacher has submitted feedback, you will receive email notification.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Follow the link to access your feedback.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "ASTF002.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 4,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Navigate through the unit activities to locate the feedback.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "ASTF003.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 5,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Teacher Feedback for a submitted activity appears as a pop up window.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 6,
+          "numberPosTop": 10,
+          "numberPosLeft": 10,
+          "text":{
+            "english": "This is your score. Your teacher decides if your first or most recent attempt reports to the gradebook.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 7,
+          "numberPosTop": 15,
+          "numberPosLeft": 15,
+          "text":{
+            "english": "Click here to close the feedback window.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page04": {
+      "pageType": "screenshot",
+      "imgId": "ASTF004.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 8,
+          "numberPosTop": 5,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "You may complete and submit the activity again. If you submit again, you must wait for new feedback to attempt the activity again.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

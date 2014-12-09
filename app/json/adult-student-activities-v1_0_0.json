@@ -2,6 +2,7 @@
  "title": {
     "english": "Activities",
     "turkish": "Aktiviteler",
+    "spanish": "Actividades",
     "arabic": "أنشطة"
   },
  "segment": "adult",
@@ -14,6 +15,7 @@
       "pageTitle": {
         "english": "",
         "turkish": "",
+        "spanish": "",
         "arabic": ""
       },
       "paragraphs":{

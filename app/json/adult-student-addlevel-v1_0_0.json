@@ -88,8 +88,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 10,
-          "numberPosLeft": 3,
+          "numberPosTop": 17,
+          "numberPosLeft": 2,
           "text":{
             "english": "Choose a level. It is very important to choose the level that you are using. Check to make sure it is the same level as your book.",
             "turkish": "Bir seviye seçin. Kullandığınız seviyenin seçilmesi son derece önemlidir. Kitabınızla aynı seviye olduğundan emin olmak için kitabınızın seviyesini kontrol edin.",
@@ -100,7 +100,7 @@
         "paragraph02": {
           "number": 2,
           "numberPosTop": 87,
-          "numberPosLeft": 3,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",

@@ -1,0 +1,179 @@
+{
+ "title": {
+    "english": "Segment Report",
+    "turkish": "Bölüm Raporu",
+    "spanish": "Informe del segmento",
+    "arabic": "تقرير القطاع "
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATRU001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 1,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
+            "turkish": "Sınıf Özet Raporunu (tüm sınıflarınızın ortalama puanları) görmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
+            "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 1,
+          "numberPosLeft": 18.5,
+          "text":{
+            "english": "Click here to view the Class Report.",
+            "turkish": "Sınıf Raporunu görmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ver el Informe de la Clase.",
+            "arabic": "انقر هنا لعرض التقرير عن الفصل."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 1,
+          "numberPosLeft": 65,
+          "text":{
+            "english": "Use this menu to view a Segment Report for a different class.",
+            "turkish": "Başka bir sınıfın Bölüm Raporunu görmek için bu menüyü kullanın.",
+            "spanish": "Utilice este menú para ver un Informe del segmento para una clase diferente.",
+            "arabic": "إستعمل هذه القائمة لمشاهدة تقرير القسم لفصل دراسي مختلف."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 12,
+          "numberPosLeft": 4,
+          "text":{
+            "english": "Use this menu to view a Segment Report for a different student.",
+            "turkish": "Başka bir öğrencinin Bölüm Raporunu görmek için bu menüyü kullanın.",
+            "spanish": "Utilice este menú para ver un Informe del segmento para un estudiante diferente.",
+            "arabic": "إستعمل هذه القائمة لمشاهدة تقريرالقسم لطالب مختلف."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 20,
+          "numberPosLeft": 4,
+          "text":{
+            "english": "Use this menu to view the Segment Report for a different segment.",
+            "turkish": "Başka bir bölümün Bölüm Raporunu görmek için bu menüyü kullanın.",
+            "spanish": "Utilice este menú para ver el Informe del segmento para un segmento diferente.",
+            "arabic": "إستعمل هذه القائمة لمشاهدة تقرير القسم لقسم آخر."
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 34,
+          "numberPosLeft": 37,
+          "text":{
+            "english": "Click here to view this student’s work for this activity and, where applicable, to submit a score and feedback. Except for Vocabulary Pronunciation activities, any activity that includes audio or writing submission must be teacher graded. These activities will have a tick mark in the Score row after the student has submitted them. Once you have graded them, the numeric score will replace the tick mark.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 40,
+          "numberPosLeft": 4,
+          "text":{
+            "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The √ symbol means that the activity does not have a score.",
+            "turkish": "Bu satır, bu öğrencinin bu ünitedeki her bir aktivitede aldığı puanı gösterir. Örneğin, puan 8/10 ise, öğrencinin doğru yanıtladığı madde (soru) sayısı 8 ve aktivitedeki toplam soru sayısı ise 10 demektir. √ sembolü, bir aktivitede puan yok anlamına gelir.",
+            "spanish": "Esta fila muestra la puntuación de este estudiante en cada actividad en esta unidad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el estudiante respondió correctamente, y 10 es el número total de elementos en la actividad. El símbolo √ significa que la actividad no tiene una puntuación.",
+            "arabic": "يبيّن هذا الصف درجات الطالب لكل نشاط في هذه الوحدة. على سبيل المثال، إذا كانت الدرجة 8/10 فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عليها الطالب بصورة صحيحة والرقم 10 هو العدد الكلي البنود في النشاط. يشير هذا الرمز √ إلى الفعالية التي ليس لها درجة."
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 46,
+          "numberPosLeft": 4,
+          "text":{
+            "english": "This row shows the total number of times this student attempted each activity in this unit. The √ symbol means that attempts are not recorded for the activity.",
+            "turkish": "Bu satır, bu öğrencinin bu ünitedeki her bir aktiviteyi toplam kaç defa denediğini gösterir. √ sembolü,aktivite için denemelerin kaydedilmediği anlamına gelir.",
+            "spanish": "Esta fila muestra el número total de veces que este estudiante intentó cada actividad en esta unidad. El símbolo √ que en esta actividad los intentos no quedan registrados.",
+            "arabic": "يبيّن هذا الصف المجموع الكلي لعدد المرات التي جرّب فيها هذا الطالب كل نشاط في هذه الوحدة. هذه العلامة √ تعني بأن المحاولات ليست مسجلة للنشاط."
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 52,
+          "numberPosLeft": 4,
+          "text":{
+            "english": "This row shows the total amount of time this student spent on each activity in this unit.",
+            "turkish": "Bu satır öğrencinin her bir aktivitede harcadığı toplam süreyi gösterir.",
+            "spanish": "Esta fila muestra la cantidad total de tiempo que el estudiante ha dedicado a cada actividad en esta unidad.",
+            "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي قضاها هذا الطالب في القيام بجميع الأنشطة في هذه الوحدة."
+          }
+        },
+        "paragraph10": {
+          "number": 10,
+          "numberPosTop": 40,
+          "numberPosLeft": 22.5,
+          "text":{
+            "english": "This is the student’s total score in a unit.",
+            "turkish": "Burada öğrencinin bir ünitedeki toplam puanı gösterilir.",
+            "spanish": "Esta es la puntuación total del estudiante en una unidad.",
+            "arabic": "هذا هو المجموع الكلي لدرجات الطالب في الوحدة."
+          }
+        },
+        "paragraph11": {
+          "number": 11,
+          "numberPosTop": 46,
+          "numberPosLeft": 22.5,
+          "text":{
+            "english": "This is the student’s total number of activity attempts in a unit.",
+            "turkish": "Burada öğrencinin bir ünitedeki aktiviteleri toplam deneme sayısı gösterilir.",
+            "spanish": "Este es el número total de intentos de actividad del estudiante en una unidad.",
+            "arabic": "هذه هو مجموع العدد الكلي لمحاولات نشاط الطالب في الوحدة."
+          }
+        },
+        "paragraph12": {
+          "number": 12,
+          "numberPosTop": 52,
+          "numberPosLeft": 22.5,
+          "text":{
+            "english": "This is the total amount of time taken on activities in a unit.",
+            "turkish": "Burada bir ünitedeki aktiviteler için harcanan toplam zaman gösterilir.",
+            "spanish": "Este es el total de tiempo empleado en actividades en una unidad.",
+            "arabic": "هذا هوالمجموع الكلي للوقت الذي استغرقته النشاطات في الوحدة."
+          }
+        },
+        "paragraph13": {
+          "number": 13,
+          "numberPosTop": 18,
+          "numberPosLeft": 76,
+          "text":{
+            "english": "Click here to export this report to Microsoft Excel™.",
+            "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
+            "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
+          }
+        },
+        "paragraph14": {
+          "number": 14,
+          "numberPosTop": 18,
+          "numberPosLeft": 86,
+          "text":{
+            "english": "Click here to print this report.",
+            "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para imprimir este informe.",
+            "arabic": "انقر هنا لطباعة هذا التقرير."
+          }
+        }
+      }
+    }
+  }
+}

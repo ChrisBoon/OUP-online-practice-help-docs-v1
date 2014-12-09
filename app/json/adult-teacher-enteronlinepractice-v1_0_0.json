@@ -1,9 +1,9 @@
 {
  "title": {
-    "english": "Enter Online Practice",
-    "turkish": "Çevrim İçi Uygulamaya Giriş",
-    "spanish": "Ingresar en la Práctica Online",
-    "arabic": "أدخل “Online Practice”  \"الممارسة عبر الإنترنت\""
+    "english": "Activities and Resources",
+    "turkish": "Aktiviteler ve Kaynaklar ",
+    "spanish": "Actividades y Recursos",
+    "arabic": "أنشطة و الموارد"
   },
  "segment": "adult",
  "userType": ["teacher"],
@@ -11,7 +11,7 @@
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "ATEOP001.jpg",
+      "imgId": "ATEOP001.png",
       "pageTitle": {
         "english": "",
         "turkish": "",

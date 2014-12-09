@@ -1,0 +1,136 @@
+{
+ "title": {
+    "english": "Hide/Assign Content",
+    "turkish": "İçeriği Gizle/Ata",
+    "spanish": "Ocultar/Asignar contenido",
+    "arabic": "تحديد المحتوى /إخفاء"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 2,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATCA001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 1,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "You can hide content from your students by checking the boxes on this page.",
+            "turkish": "Bu sayfadaki kutuları işaretleyerek bazı içeriği öğrencilerden gizleyebilirsiniz.",
+            "spanish": "Se puede ocultar el contenido de sus estudiantes, marcando las casillas de esta página.",
+            "arabic": "يمكنك إخفاء المحتوى عن الطلاب بواسطة وضع علامات على المربعات في هذه الصفحة."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 1,
+          "numberPosLeft": 59,
+          "text":{
+            "english": "Choose a class using the menu.",
+            "turkish": "Menüyü kullanarak bir ders seçin.",
+            "spanish": "Elija una clase utilizando el menú.",
+            "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 81,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "Check a box here to hide a whole segment.",
+            "turkish": "Bölümün tamamını gizlemek için bu kutuyu işaretleyin.",
+            "spanish": "Marque una casilla aquí para ocultar un segmento completo.",
+            "arabic": "ضع علامة في  مربع ما لكي تخفي القسم بأكمله."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 30,
+          "numberPosLeft": 30,
+          "text":{
+            "english": "Check a box here to hide selected units within a segment.",
+            "turkish": "Bir bölümün içinde seçtiğiniz üniteleri gizlemek için bu kutuyu işaretleyin.",
+            "spanish": "Marque una casilla aquí para ocultar unidades seleccionadas en un segmento.",
+            "arabic": "ضع علامة على مربع ما هنا لكي تخفي الوحدات المختارة ضمن القسم."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 92,
+          "numberPosLeft": 24,
+          "text":{
+            "english": "Click here to save the changes you made to this class.",
+            "turkish": "Bu sınıfta yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
+            "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "ATCA-q2e-002.png",
+      "pageTitle": {
+        "english": "Hide/Assign Writing",
+        "turkish": "-",
+        "spanish": "-",
+        "arabic": "-"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 1,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "You can hide Writing Assignments from your students by checking the boxes on this page.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 1,
+          "numberPosLeft": 59,
+          "text":{
+            "english": "Choose a class using the menu.",
+            "turkish": "Menüyü kullanarak bir ders seçin.",
+            "spanish": "Elija una clase utilizando el menú.",
+            "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 76,
+          "numberPosLeft": 18,
+          "text":{
+            "english": "Check a box here to hide selected unit Writing Assignment.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 88,
+          "numberPosLeft": 30,
+          "text":{
+            "english": "Click here to save the changes you made to this class.",
+            "turkish": "Bu sınıfta yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
+            "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
+          }
+        }
+      }
+    }
+  }
+}

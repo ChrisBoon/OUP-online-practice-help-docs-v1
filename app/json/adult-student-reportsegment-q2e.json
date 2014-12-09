@@ -1,0 +1,102 @@
+{
+ "title": {
+    "english": "Student Segment Report",
+    "turkish": "Öğrenci Bölüm Raporu",
+    "spanish": "Informe del segmento de estudiante",
+    "arabic": "تقريرالطالب الجزئي"
+  },
+ "segment": "adult",
+ "userType": ["student"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASRU-q2e-001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 10,
+          "numberPosLeft": 7,
+          "text":{
+            "english": "Use this menu to display reports for all segments or display reports for specific segments.",
+            "turkish": "Tüm bölümlerin ya da sadece belirli bölümlerin raporlarını görmek için bu menüyü kullanın.",
+            "spanish": "Use este menú para mostrar informes para todos los segmentos o para un segmento específico.",
+            "arabic": "استعمل هذه القائمة لكي تعرض تقارير جميع الاقسام أو تعرض تقارير متعلقة بأقسام محددة."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 30,
+          "numberPosLeft": 0,
+          "text":{
+            "english": "This row shows the scores for each activity in a unit. The score is shown out of the total number of possible points in an activity. A tick mark indicates a completed but non-scored activity.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 36,
+          "numberPosLeft": 0,
+          "text":{
+            "english": "This row shows the number of attempts at each activity in a unit.",
+            "turkish": "Bu satır, bir ünitenin her bir aktivitesi için toplam deneme sayısını gösterir.",
+            "spanish": "Esta fila muestra el número de intentos en cada actividad en una unidad.",
+            "arabic": "يعرض هذا الصف عدد المحاولات لكل نشاط في وحدة ما."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 43,
+          "numberPosLeft": 0,
+          "text":{
+            "english": "This row shows the time taken for all attempts at each activity in a unit.",
+            "turkish": "Bu satır, bir ünitenin her bir aktivitesi için harcanan zamanı gösterir.",
+            "spanish": "Esta fila muestra el tiempo dedicado a todos los intentos en cada actividad en una unidad.",
+            "arabic": "يعرض هذا الصف الوقت المستغرق لجميع المحاولات لكل نشاط في وحدة ما."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 31,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "The total score for a unit is shown here.",
+            "turkish": "Bir ünitenin toplam puanı burada gösterilir.",
+            "spanish": "Aquí se muestra la puntuación total para una unidad.",
+            "arabic": "لدرجة الكلية للوحدة معروضة هنا."
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 37,
+          "numberPosLeft": 12,
+          "text":{
+            "english": "The total number of activity attempts for a unit is shown here.",
+            "turkish": "Bir ünitedeki aktivite denemelerinin toplam sayısı burada gösterilir.",
+            "spanish": "Aquí se muestra el número total de intentos de actividad para una unidad.",
+            "arabic": "العدد الكلي لمحاولات النشاط للوحدة معروض هنا."
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 42,
+          "numberPosLeft": 11,
+          "text":{
+            "english": "The total time taken on all activities in a unit is shown here.",
+            "turkish": "Bir ünitenin tüm aktivitelerinde harcanan toplam zaman burada gösterilir.",
+            "spanish": "Aquí se muestra el tiempo total empleado en todas las actividades en una unidad.",
+            "arabic": "يعرض هنا الوقت الإجمالي المستغرق لجميع الانشطة في الوحدة معروض هنا."
+          }
+        }
+      }
+    }
+  }
+}

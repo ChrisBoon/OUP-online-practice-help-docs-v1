@@ -96,13 +96,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/app\/icons\/help-doc-icon-engwip-2x.jpg": {
+	"\/app\/icons\/help-doc-icon-engWIP-2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 53086,
-		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-engwip-2x.jpg",
-		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-engwip-2x.jpg",
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-engWIP-2x.jpg",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-engWIP-2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -195,13 +195,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/app\/icons\/help-doc-icon-t2twip-2x.jpg": {
+	"\/app\/icons\/help-doc-icon-t2tWIP-2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 63288,
-		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-t2twip-2x.jpg",
-		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-t2twip-2x.jpg",
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-t2tWIP-2x.jpg",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-t2tWIP-2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -312,6 +312,17 @@
 		"initialSize": 18586,
 		"inputAbbreviatedPath": "\/app\/img\/AAR007.png",
 		"outputAbbreviatedPath": "\/app\/img\/AAR007.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASA-q2e-001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46648,
+		"inputAbbreviatedPath": "\/app\/img\/ASA-q2e-001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASA-q2e-001.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -481,6 +492,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/ASH-q2e-002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68165,
+		"inputAbbreviatedPath": "\/app\/img\/ASH-q2e-002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASH-q2e-002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/ASH001.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -613,6 +635,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/ASRU-q2e-001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55278,
+		"inputAbbreviatedPath": "\/app\/img\/ASRU-q2e-001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASRU-q2e-001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/ASRU001.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -620,6 +653,116 @@
 		"initialSize": 54299,
 		"inputAbbreviatedPath": "\/app\/img\/ASRU001.png",
 		"outputAbbreviatedPath": "\/app\/img\/ASRU001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASTF001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53632,
+		"inputAbbreviatedPath": "\/app\/img\/ASTF001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASTF001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASTF002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74265,
+		"inputAbbreviatedPath": "\/app\/img\/ASTF002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASTF002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASTF003.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79755,
+		"inputAbbreviatedPath": "\/app\/img\/ASTF003.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASTF003.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASTF004.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77394,
+		"inputAbbreviatedPath": "\/app\/img\/ASTF004.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASTF004.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASWT001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64921,
+		"inputAbbreviatedPath": "\/app\/img\/ASWT001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASWT001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASWT002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65043,
+		"inputAbbreviatedPath": "\/app\/img\/ASWT002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASWT002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASWT003.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61514,
+		"inputAbbreviatedPath": "\/app\/img\/ASWT003.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASWT003.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASWTR001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38039,
+		"inputAbbreviatedPath": "\/app\/img\/ASWTR001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASWTR001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASWTR002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69244,
+		"inputAbbreviatedPath": "\/app\/img\/ASWTR002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASWTR002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATA-q2e-001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44441,
+		"inputAbbreviatedPath": "\/app\/img\/ATA-q2e-001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATA-q2e-001.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -734,6 +877,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/ATCA-q2e-002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36251,
+		"inputAbbreviatedPath": "\/app\/img\/ATCA-q2e-002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATCA-q2e-002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/ATCA001.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -822,13 +976,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/app\/img\/ATEOP001.jpg": {
-		"fileType": 16384,
+	"\/app\/img\/ATEOP001.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 64177,
-		"inputAbbreviatedPath": "\/app\/img\/ATEOP001.jpg",
-		"outputAbbreviatedPath": "\/app\/img\/ATEOP001.jpg",
+		"initialSize": 25837,
+		"inputAbbreviatedPath": "\/app\/img\/ATEOP001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATEOP001.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -910,6 +1064,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/ATH-q2e-001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19870,
+		"inputAbbreviatedPath": "\/app\/img\/ATH-q2e-001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATH-q2e-001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/ATH001.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -954,6 +1119,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/ATMC-q2e-001.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85455,
+		"inputAbbreviatedPath": "\/app\/img\/ATMC-q2e-001.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/ATMC-q2e-001.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/ATMC001.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -961,6 +1137,39 @@
 		"initialSize": 63424,
 		"inputAbbreviatedPath": "\/app\/img\/ATMC001.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/ATMC001.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATMGA001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85020,
+		"inputAbbreviatedPath": "\/app\/img\/ATMGA001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATMGA001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATMGA002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88998,
+		"inputAbbreviatedPath": "\/app\/img\/ATMGA002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATMGA002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATMGA003.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56664,
+		"inputAbbreviatedPath": "\/app\/img\/ATMGA003.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATMGA003.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1137,6 +1346,83 @@
 		"initialSize": 49826,
 		"inputAbbreviatedPath": "\/app\/img\/ATRU001.png",
 		"outputAbbreviatedPath": "\/app\/img\/ATRU001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATWT001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55082,
+		"inputAbbreviatedPath": "\/app\/img\/ATWT001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATWT001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATWT002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65049,
+		"inputAbbreviatedPath": "\/app\/img\/ATWT002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATWT002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATWT003.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56833,
+		"inputAbbreviatedPath": "\/app\/img\/ATWT003.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATWT003.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATWTF001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82248,
+		"inputAbbreviatedPath": "\/app\/img\/ATWTF001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATWTF001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATWTF002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75573,
+		"inputAbbreviatedPath": "\/app\/img\/ATWTF002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATWTF002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATWTR001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52880,
+		"inputAbbreviatedPath": "\/app\/img\/ATWTR001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATWTR001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ATWTR002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30413,
+		"inputAbbreviatedPath": "\/app\/img\/ATWTR002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ATWTR002.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1724,13 +2010,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/app\/img\/PTAL002.png": {
+	"\/app\/img\/ptal002.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 0,
-		"inputAbbreviatedPath": "\/app\/img\/PTAL002.png",
-		"outputAbbreviatedPath": "\/app\/img\/PTAL002.png",
+		"inputAbbreviatedPath": "\/app\/img\/ptal002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ptal002.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

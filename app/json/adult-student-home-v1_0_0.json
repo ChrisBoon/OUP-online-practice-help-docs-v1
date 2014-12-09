@@ -21,8 +21,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 4,
-          "numberPosLeft": 32,
+          "numberPosTop": 3,
+          "numberPosLeft": 31,
           "text":{
             "english": "When you enter Online Practice or click on the Home icon at the top of the screen you will see the levels of your course here. Choose the level you want to enter.",
             "turkish": "Çevrim İçi Uygulamaya girdiğinizde veya ekranın üst kısmındaki Ana Sayfa simgesini tıkladığınızda dersinizin seviyelerini burada göreceksiniz. Girmek istediğiniz seviyeyi seçin.",
@@ -32,7 +32,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 91,
+          "numberPosTop": 89,
           "numberPosLeft": 17,
           "text":{
             "english": "Click on “Add a level” to add another level if you have an access code.",

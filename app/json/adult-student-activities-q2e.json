@@ -1,0 +1,135 @@
+{
+ "title": {
+    "english": "Activities",
+    "turkish": "Aktiviteler",
+    "spanish": "Actividades",
+    "arabic": "أنشطة"
+  },
+ "segment": "adult",
+ "userType": ["student"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASA-q2e-001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 0,
+          "numberPosLeft": 0,
+          "text":{
+            "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
+            "turkish": "-",
+            "spanish": "_",
+            "arabic": "ا-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 0,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Use this menu to choose an activity within a unit.",
+            "turkish": "-",
+            "spanish": "_",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 0,
+          "numberPosLeft": 76,
+          "text":{
+            "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
+            "turkish": "Aktiviteler arasında sırayla gezinmek için “Previous” ve “Next” düğmelerini kullanın.",
+            "spanish": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
+            "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل. "
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 14,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "The Online Practice activities are displayed in this area.",
+            "turkish": "Çevrim İçi Uygulama aktiviteleri bu alanda görüntülenir.",
+            "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
+            "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 82,
+          "numberPosLeft": 39,
+          "text":{
+            "english": "Click here to submit your answers when you have answered all questions in an activity. If you are submitting an audio recording or a written assignment, you cannot resubmit until your teacher provides a grade.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 82,
+          "numberPosLeft": 49,
+          "text":{
+            "english": "You can try most activities again if you answer some questions incorrectly. You can try most activities as many times as you like.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 82,
+          "numberPosLeft": 59,
+          "text":{
+            "english": "If you answer some questions incorrectly you can see the correct answers.",
+            "turkish": "Bazı soruları yanlış cevaplarsanız doğru yanıtları görebilirsiniz.",
+            "spanish": "Si contesta erróneamente algunas preguntas puede ver las respuestas correctas.",
+            "arabic": "إذا أجبت على بعض الأسئلة على نحو مغلوط يمكنك مشاهدة الإجابات الصحيحة."
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 82,
+          "numberPosLeft": 84,
+          "text":{
+            "english": "Your current activity score is shown here.",
+            "turkish": "Şimdiki aktiviteden aldığınız puan burada görünür.",
+            "spanish": "Aquí aparece la puntuación de su actividad actual.",
+            "arabic": "هنا تظهر الدرجة الحالية لنشاطك."
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 92,
+          "numberPosLeft": 0,
+          "text":{
+            "english": "You can find supporting resources here that will help you with your Online Practice work, if available.",
+            "turkish": "Çevrim İçi Uygulamalarda size yardım edecek kaynakları, varsa, burada bulabilirsiniz.",
+            "spanish": "Usted puede encontrar recursos de apoyo aquí que le ayudarán con su trabajo de Práctica en línea, si está disponible.",
+            "arabic": "هنا يمكنك العثور على موارد مساندة التي ستساعدك على استخدام الممارسة عبر شبكة الانترنت، إذا كانت متوفرة."
+          }
+        },
+        "paragraph10": {
+          "number": 10,
+          "numberPosTop": 92,
+          "numberPosLeft": 34,
+          "text":{
+            "english": "Access your Achievements and Reports here.",
+            "turkish": "Başarılarınıza ve Raporlarınıza buradan ulaşabilirsiniz.",
+            "spanish": "Acceda aquí a sus Logros e Informes.", 
+            "arabic": "هنا يمكنك الإحاطة بتحصيلك وتقاريرك."
+          }
+        }
+      }
+    }
+  }
+}

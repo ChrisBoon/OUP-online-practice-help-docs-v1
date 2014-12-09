@@ -1,0 +1,115 @@
+{
+ "title": {
+    "english": "Teacher Feedback for Online Practice Activities",
+    "turkish": "-",
+    "spanish": "-",
+    "arabic": "-"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 3,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATMGA001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 0,
+          "numberPosLeft": 57,
+          "text":{
+            "english": "Activities that include audio or writing submission must be teacher graded. You can view a student’s submission, submit a score, and provide teacher feedback from the Activity Report screen.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 26,
+          "numberPosLeft": 0,
+          "text":{
+            "english": "This is the student’s submitted work for review.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 86,
+          "numberPosLeft": 84,
+          "text":{
+            "english": "Click here to score the activity and/or provide feedback. If feedback was previously submitted, click here to view it.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "ATMGA002.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 4,
+          "numberPosTop": 34,
+          "numberPosLeft": 26,
+          "text":{
+            "english": "Enter your feedback and/or score within the Feedback popup box.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 5,
+          "numberPosTop": 64,
+          "numberPosLeft": 67,
+          "text":{
+            "english": "Click here to submit your feedback/score. The latest score will report to the gradebook, unless you have turned on “track first attempt” from the Manage Classes screen, which will keep the first score submitted. Unlimited student submissions and teacher feedback can continue to be provided, but the first score will be locked. Once feedback/score is submitted, you will not be able to edit or resubmit feedback until the student has submitted a new attempt. The Submit button will be deactivated until a new student submission is available.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "ATMGA003.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 6,
+          "numberPosTop": 0,
+          "numberPosLeft": 0,
+          "text":{
+            "english": "The student is alerted of new teacher feedback by email.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}
