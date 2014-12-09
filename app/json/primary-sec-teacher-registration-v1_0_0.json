@@ -93,10 +93,9 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Enter the access code on your Teacher Access Card.",
-            "spanish": "-",
-            "spanish_la": "-",
-            "portuguese": "-"
-          }
+            "spanish": "Ingrese el código de acceso de su tarjeta de código de acceso para Profesores.",
+            "spanish_la": "Ingrese el código de acceso de su tarjeta de código de acceso para Profesores.",
+            "portuguese": "Insira o código de acesso que está localizado no seu cartão do código de acesso do professor."          }
         },
         "paragraph02": {
           "number": 2,

@@ -48,9 +48,9 @@
           "numberPosLeft": 3,
           "text":{
             "english": "When you have chosen a level you can enter the Activities area.",
-            "spanish": "-",
-            "spanish_la": "-",
-            "portuguese": "-"
+            "spanish": "Una vez elegido un nivel, podrá ingresar al área de actividad.",
+            "spanish_la": "Una vez elegido un nivel, podrá ingresar al área de actividad.",
+            "portuguese": "Quando vocȇ escolher um nível, vocȇ poderá entrar na área de atividades."
           }
         }
       }

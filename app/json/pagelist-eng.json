@@ -128,7 +128,7 @@
         "order":14,
         "title": {
           "english": "Student Activity Report",
-          "spanish_la": "Informe de Actividad Estudiantil",
+          "spanish_la": "Informe de Actividades del Estudiante",
           "portuguese": "Relatório da atividade do aluno"
         },
         "id": "primary-teacher-reportstudentactivity-v1_0_0"

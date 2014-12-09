@@ -93,9 +93,9 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Enter the access code on your Student Access Card.",
-            "spanish": "-",
-            "spanish_la": "-",
-            "portuguese": "-"
+            "spanish": "Ingrese el código de acceso que se encuentra en su tarjeta de código de acceso de Estudiante.",
+            "spanish_la": "Ingrese el código de acceso que se encuentra en su tarjeta de código de acceso de Estudiante.",
+            "portuguese": "Insira o código de acesso que está no seu cartão."
           }
         },
         "paragraph02": {

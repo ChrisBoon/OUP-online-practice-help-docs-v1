@@ -92,9 +92,9 @@
           "numberPosLeft": 37,
           "text":{
             "english": "Click here to see your Report. These show your achievements and progress for all of the activities in this level.",
-            "spanish": "-",
-            "spanish_la": "-",
-            "portuguese": "-"
+            "spanish": "Haga clic aquí para ver sus Report (Informe). Esta muestra sus logros y progreso para todas las actividades en este nivel.",
+            "spanish_la": "Haga click aquí para ver sus Report (Informe). Esta muestra sus logros y progreso para todas las actividades en este nivel.",
+            "portuguese": "Clique aqui para visualizer o seu painel de habilidades. Ele exibe suas realizações e seu progresso relacionado a todas as atividades deste nível."
           }
         },
         "paragraph04": {

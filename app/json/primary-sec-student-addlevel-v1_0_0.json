@@ -25,9 +25,9 @@
           "numberPosLeft": 10,
           "text":{
             "english": "Enter your Online Practice access code here. The access code is on your Student Access Card. You must have an access code to add a new level to your account.",
-            "spanish": "-",
-            "spanish_la": "-",
-            "portuguese": "-"
+            "spanish": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Estudiante. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
+            "spanish_la": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Estudiante. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
+            "portuguese": "Insira o seu código de acesso do Online Practice aqui. O código de acesso está no seu cartão do código de acesso do aluno. Você deve ter um código de acesso para adicionar um novo nível em sua conta."
           }
         },
         "paragraph02": {
