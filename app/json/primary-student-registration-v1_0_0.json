@@ -297,7 +297,7 @@
         "turkish": "Sınıf kodunuzu girin",
         "spanish": "Ingrese el código de su clase",
         "spanish_la": "Ingrese el código de su clase",
-        "portuguese": "Insira seu código de aula",
+        "portuguese": "Insira seu código de turma",
         "arabic": "أدخل رمز الفصل الخاص بك."
       },
       "paragraphs":{
@@ -310,7 +310,7 @@
             "turkish": "Bir sınıf kimlik (ID) kodunuz varsa, buraya girin. Sınıf ID kodu öğretmeniniz tarafından size verilen bir koddur ve C-... ile başlar. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar. Bir sınıf ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Bu kodu daha sonra girmek için, Anasayfanızdan “Join a Class” seçeneğini seçin.",
             "spanish": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga clic en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
             "spanish_la": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga click en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
-            "portuguese": "Caso você possua um código de identificação de aula, insira-o aqui. Um código de identificação de aula pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua aula para que o seu professor possa o visualizar. Caso você não tenha um código de identificação de aula, clique em “Skip”. Para introduzir esse código mais tarde, escolha a opção “Join a Class” na sua página inicial.",
+            "portuguese": "Caso você possua um código de identificação de turma, insira-o aqui. Um código de identificação de turma pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua turma para que o seu professor possa o visualizar. Caso você não tenha um código de identificação de turma, clique em “Skip”. Para introduzir esse código mais tarde, escolha a opção “Join a Class” na sua página inicial.",
             "arabic": "إإذا كان لديك رمز مُعرِّف خاص بأحد الفصول، فقم بإدخاله هنا. يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه. إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول، فانقر على “Skip”(\"تخطي\"). لإدخال هذا الرمز في وقت لاحق؛ اختر “Join a Class” (\"الانضمام إلى أحد الفصول\") من الصفحة الرئيسية."
           }
         },
@@ -336,7 +336,7 @@
             "turkish": "Bir sınıf ID kodunuz yoksa buraya tıklayın.",
             "spanish": "Haga clic aquí si no tiene un código de ID de clase.",
             "spanish_la": "Haga click aquí si no tiene un código de ID de clase.",
-            "portuguese": "Clique aqui caso você não tenha um código de identificação de aula.",
+            "portuguese": "Clique aqui caso você não tenha um código de identificação de turma.",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول."
           }
         },
@@ -349,7 +349,7 @@
             "turkish": "Sınıf ID kodunuzu onaylamak ve bir sonraki sayfaya gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el código de ID de su clase e ir a la página siguiente.",
             "spanish_la": "Haga click aquí para enviar el código de ID de su clase e ir a la página siguiente.",
-            "portuguese": "Clique aqui para enviar seu código de identificação de aula e para ir para a próxima página.",
+            "portuguese": "Clique aqui para enviar seu código de identificação de turma e para ir para a próxima página.",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وانتقل للصفحة التالية."
           }
         }

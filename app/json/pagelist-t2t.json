@@ -14,7 +14,7 @@
           "spanish_la": "Registro",
           "portuguese": "Cadastro"
         },
-        "id": "primary-sec-teacher-registration-v1_0_0"
+        "id": "primary-teacher-registration-sec"
       },
       "item02":{
         "order":2,
@@ -104,7 +104,7 @@
           "spanish_la": "Informe del Estudiante",
           "portuguese": "Relatório do aluno"
         },
-        "id": "primary-sec-teacher-reportstudent-v1_0_0"
+        "id": "primary-teacher-reportstudent-sec"
       },
       "item12":{
         "order":12,
@@ -140,7 +140,7 @@
           "spanish_la": "Ingresar a Práctica Online",
           "portuguese": "Acessar o Online Practice"
         },
-        "id": "primary-t2t-teacher-enteronlinepractice-v1_0_0"
+        "id": "primary-teacher-enteronlinepractice-t2t"
       },
       "item16":{
         "order":16,
@@ -149,7 +149,7 @@
           "spanish_la": "Actividades",
           "portuguese": "Atividades"
         },
-        "id": "primary-sec-teacher-activities-v1_0_0"
+        "id": "primary-teacher-activities-sec"
       },
       "item17":{
         "order":17,
@@ -213,7 +213,7 @@
           "spanish_la": "Registro",
           "portuguese": "Cadastro"
         },
-        "id": "primary-sec-student-registration-v1_0_0"
+        "id": "primary-student-registration-sec"
       },
       "item02":{
         "order":2,
@@ -222,7 +222,7 @@
           "spanish_la": "Inicio",
           "portuguese": "Início"
         },
-        "id": "primary-t2t-student-home-v1_0_0"
+        "id": "primary-student-home-t2t"
       },
       "item03":{
         "order":3,
@@ -231,7 +231,7 @@
           "spanish_la": "Añadir un Nivel",
           "portuguese": "Adicionar um nível"
         },
-        "id": "primary-sec-student-addlevel-v1_0_0"
+        "id": "primary-student-addlevel-sec"
       },
       "item04":{
         "order":4,
@@ -240,7 +240,7 @@
           "spanish_la": "Actividades",
           "portuguese": "Atividades"
         },
-        "id": "primary-sec-student-activities-v1_0_0"
+        "id": "primary-student-activities-sec"
       },
       "item05":{
         "order":5,
@@ -258,7 +258,7 @@
           "spanish_la": "Informe",
           "portuguese": "Relatório"
         },
-        "id": "primary-sec-student-reportprogress-v1_0_0"
+        "id": "primary-student-reportprogress-sec"
       },
       "item07":{
         "order":7,
@@ -267,7 +267,7 @@
           "spanish_la": "Informe de la Unidad",
           "portuguese": "Relatório de unidade"
         },
-        "id": "primary-sec-student-reportunit-v1_0_0"
+        "id": "primary-student-reportunit-sec"
       },
       "item08":{
         "order":8,

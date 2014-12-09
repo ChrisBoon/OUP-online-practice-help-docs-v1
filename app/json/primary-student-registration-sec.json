@@ -252,7 +252,7 @@
         "english": "Enter your class code",
         "spanish": "Ingrese el código de su clase",
         "spanish_la": "Ingrese el código de su clase",
-        "portuguese": "Insira seu código de aula"
+        "portuguese": "Insira seu código de turma"
       },
       "paragraphs":{
         "paragraph01": {
@@ -263,7 +263,7 @@
             "english": "If you have a class ID code, enter it here. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it. If you do not have a class ID code, click “Skip”. To enter this code later, choose “Join a Class” from your Home page.",
             "spanish": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga clic en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
             "spanish_la": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga click en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
-            "portuguese": "Caso você possua um código de identificação de aula, insira-o aqui. Um código de identificação de aula pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua aula para que o seu professor possa o visualizar. Caso você não tenha um código de identificação de aula, clique em “Skip”. Para introduzir esse código mais tarde, escolha a opção “Join a Class” na sua página inicial."
+            "portuguese": "Caso você possua um código de identificação de turma, insira-o aqui. Um código de identificação de turma pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua turma para que o seu professor possa o visualizar. Caso você não tenha um código de identificação de turma, clique em “Skip”. Para introduzir esse código mais tarde, escolha a opção “Join a Class” na sua página inicial."
           }
         },
         "paragraph02": {
@@ -285,7 +285,7 @@
             "english": "Click here if you do not have a class ID code.",
             "spanish": "Haga clic aquí si no tiene un código de ID de clase.",
             "spanish_la": "Haga click aquí si no tiene un código de ID de clase.",
-            "portuguese": "Clique aqui caso você não tenha um código de identificação de aula."
+            "portuguese": "Clique aqui caso você não tenha um código de identificação de turma."
           }
         },
         "paragraph04": {
@@ -296,7 +296,7 @@
             "english": "Click here to submit your class ID code and go to the next page.",
             "spanish": "Haga clic aquí para enviar el código de ID de su clase e ir a la página siguiente.",
             "spanish_la": "Haga click aquí para enviar el código de ID de su clase e ir a la página siguiente.",
-            "portuguese": "Clique aqui para enviar seu código de identificação de aula e para ir para a próxima página."
+            "portuguese": "Clique aqui para enviar seu código de identificação de turma e para ir para a próxima página."
           }
         }
       }

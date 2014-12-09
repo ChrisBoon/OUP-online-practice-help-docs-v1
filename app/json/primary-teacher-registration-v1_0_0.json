@@ -376,7 +376,7 @@
             "turkish": "İlk sınıfınız için bir ad girin. Daha sonra yeni sınıflar oluşturmak için, kaydı tamamladıktan sonra Anasayfanızdan “Manage Classes”a tıklayın.",
             "spanish": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga clic en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
             "spanish_la": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga click en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
-            "portuguese": "Digite um nome para a sua primeira turma. Para criar turmass adicionais posteriormente, clique em \"Manage Classes\" a partir de sua página inicial quando você finalizar o registro.",
+            "portuguese": "Digite um nome para a sua primeira turma. Para criar turmas adicionais posteriormente, clique em \"Manage Classes\" a partir de sua página inicial quando você finalizar o registro.",
             "arabic": "أدخل اسم لأول فصل خاص بك. لإنشاء فصول إضافية لاحقًا؛ انقر على “Manage Classes”(\"إدارة الفصول\") من صفحتك الرئيسية عندما تنتهي من التسجيل."
           }
         },
@@ -442,7 +442,7 @@
             "turkish": "Bu bir önceki ekranda ad verdiğiniz sınıfın kimlik (ID) kodudur. Sınıfa katılabilmeleri ve çalışmalarını görebilmeniz için bu kodu öğrencilerinize verin.",
             "spanish": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "spanish_la": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
-            "portuguese": "Este é o código de identificação de aula para a aula nomeada na tela anterior. Forneça esse código para os seus alunos para que eles possam participar da sua turma e para que você possa visualizar os seus trabalhos.",
+            "portuguese": "Este é o código de identificação de turma para a turma nomeada na tela anterior. Forneça esse código para os seus alunos para que eles possam participar da sua turma e para que você possa visualizar os seus trabalhos.",
             "arabic": "انقر على رمز مُعرِّف الفصل الخاص بالفصل الذي قمت بتسميته في الشاشة السابقة. قم بإعطاء هذا الرمز لطلابك كي يتمكنوا من الانضمام إلى فصلك ويمكنهم رؤية العمل الخاص بهم."
           }
         },

@@ -2,9 +2,9 @@
  "title": {
     "english": "Achievements",
     "turkish": "Başarılar",
-    "spanish:": "Logros",
+    "spanish": "Logros",
     "spanish_la": "Logros",
-    "portuguese": "Realizações",
+    "portuguese": "Progresso",
     "arabic": "التحصيل"
   },
  "segment": "primary",
@@ -32,7 +32,7 @@
             "turkish": "Başarılarınızı Ödül Odası ve Beceriler Panosunda görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver sus logros en la Sala de Trofeos y el Tablero de Habilidades.",
             "spanish_la": "Haga click aquí para ver sus logros en la Sala de Trofeos y el Tablero de Habilidades.",
-            "portuguese": "Clique aqui para visualizar suas realizações na sala de troféus e no painel de habilidades.",
+            "portuguese": "Clique aqui para visualizar suas progresso na sala de troféus e no painel de habilidades.",
             "arabic": "انقر هنا لرؤية التحصيل الخاص بك في غرفة الميدالياتولوحة المهارات."
           }
         },

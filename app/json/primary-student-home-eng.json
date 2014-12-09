@@ -1,14 +1,14 @@
 {
- "title": {
+  "title": {
     "english": "Home",
     "spanish": "Inicio",
     "spanish_la": "Inicio",
     "portuguese": "Início"
   },
- "segment": "primary",
- "userType": ["student"],
- "pageCount": 2,
- "pages": {
+  "segment": "primary",
+  "userType": ["student"],
+  "pageCount": 2,
+  "pages": {
     "page01": {
       "pageType": "screenshot",
       "imgId": "P-SEC-SH001.jpg",
@@ -56,12 +56,13 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "P-T2T-SH002.png",
+      "imgId": "P-ENG-SH002.png",
       "pageTitle": {
         "english": "Choose an Online Practice area",
         "spanish": "Elija un área de Práctica Online",
         "spanish_la": "Elija un área de Práctica Online",
         "portuguese": "Escolha uma seção do Online Practice"
+        }
       },
       "paragraphs":{
         "paragraph01": {
@@ -105,7 +106,7 @@
             "english": "Click here to use the Email area. You can message your teacher and other students in your Online Practice class. The Email icon appears here when you have joined a class.",
             "spanish": "Haga clic aquí para utilizar el área de Correo electrónico. Puede enviar mensajes a su profesor y a los demás estudiantes en su clase de Práctica Online. El icono de Email [Correo electrónico] aparecerá aquí cuando se haya inscrito a una clase.",
             "spanish_la": "Haga click aquí para utilizar el área de Correo electrónico. Puede enviar mensajes a su profesor y a los demás estudiantes en su clase de Práctica Online. El icono de Email [Correo electrónico] aparecerá aquí cuando se haya inscrito a una clase.",
-            "portuguese": "Clique aqui para usar a área de e-mail. Você pode enviar mensagens para o seu professor e para os outros alunos com os quais você compartilha sua aula no Online Practice. O ícone “E-mail” aparecerá aqui quando você estiver participando de uma aula."
+            "portuguese": "Clique aqui para usar a área de e-mail. Você pode enviar mensagens para o seu professor e para os outros alunos com os quais você compartilha sua turma no Online Practice. O ícone “E-mail” aparecerá aqui quando você estiver participando de uma turma."
           }
         },
         "paragraph05": {
@@ -116,21 +117,31 @@
             "english": "Click here to use the Forum. You can join in discussions with your teacher and other students in your Online Practice class. The Forum icon appears here when you have joined a class.",
             "spanish": "Haga clic aquí para utilizar el Foro. Usted puede participar en discusiones con su profesor y los demás estudiantes en su clase de Práctica Online. El icono del Forum [Foro] aparecerá aquí cuando se haya inscrito a una clase.",
             "spanish_la": "Haga click aquí para utilizar el Foro. Usted puede participar en discusiones con su profesor y los demás estudiantes en su clase de Práctica Online. El icono del Forum [Foro] aparecerá aquí cuando se haya inscrito a una clase.",
-            "portuguese": "Clique aqui para usar o fórum. Você pode participar de discussões com o seu professor e com os outros alunos presentes em sua aula no Online Practice. O ícone do “Forum” aparecerá aqui quando você estiver participando de uma aula."
+            "portuguese": "Clique aqui para usar o fórum. Você pode participar de discussões com o seu professor e com os outros alunos presentes em sua turma no Online Practice. O ícone do “Forum” aparecerá aqui quando você estiver participando de uma turma."
           }
         },
         "paragraph06": {
           "number": 6,
           "numberPosTop": 74,
-          "numberPosLeft": 48,
+          "numberPosLeft": 37,
+          "text":{
+            "english": "Click here to access the Media Center to listen to class audio and watch videos, if available.",
+            "spanish": "Haga clic aquí para acceder al Centro de Medios para escuchar el audio de la clase y ver videos, de estar disponibles.",
+            "spanish_la": "Haga click aquí para acceder al Centro de Medios para escuchar el audio de la clase y ver videos, de estar disponibles.",
+            "portuguese": "Clique aqui para acessar o centro de mídia para escutar o áudio da aula e assistir vídeos, caso disponíveis."
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 74,
+          "numberPosLeft": 59,
           "text":{
             "english": "Click here to join an Online Practice class or change class. You will need a class code from your teacher to do this.",
             "spanish": "Haga clic aquí para inscribirse a una clase de Práctica Online o cambiar de clase. Necesitará que su profesor le otorgue un código de clase para hacer esto.",
             "spanish_la": "Haga click aquí para inscribirse a una clase de Práctica Online o cambiar de clase. Necesitará que su profesor le otorgue un código de clase para hacer esto.",
-            "portuguese": "Clique aqui para participar de uma aula do Online Practice ou para alterar a aula. Você precisará de um código de aula fornecido pelo seu professor para fazer isso."
+            "portuguese": "Clique aqui para participar de uma turma do Online Practice ou para alterar a turma. Você precisará de um código de turma fornecido pelo seu professor para fazer isso."
           }
         }
       }
     }
   }
-}

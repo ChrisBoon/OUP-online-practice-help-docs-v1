@@ -59,7 +59,7 @@
             "turkish": "Bir kurum ID (kimlik) kodunuz varsa, buraya girin. Kurum ID’nizi yöneticinizden alabilirsiniz. Bu kod ders raporlarınızı çalıştığınız okul ya da kuruma iletmenizi sağlar. Bir kurum ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Daha sonra Sınıf Bilgileri sayfasından “Join an Institution”a tıklayarak bir kurum ID kodu girebilirsiniz.",
             "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga clic en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo clic en “Join an Institution” desde su página de Detalles de la Clase.",
             "spanish_la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga click en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo click en “Join an Institution” desde su página de Detalles de la Clase.",
-            "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de aula com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você pode inserir um código de identificação da instituição posteriormente clicando em “Join an Institution” na sua página dados da aula.",
+            "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de turma com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você pode inserir um código de identificação da instituição posteriormente clicando em “Join an Institution” na sua página dados da turma.",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فقم بإدخاله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك."
           }
         },
@@ -112,7 +112,7 @@
         "turkish": "Sınıf adı girin",
         "spanish": "Crear un nombre de clase",
         "spanish_la": "Crear un nombre de clase",
-        "portuguese": "Criar um nome de aula",
+        "portuguese": "Criar um nome de turma",
         "arabic": "إنشاء اسم للفصل"
       },
       "paragraphs":{
@@ -139,7 +139,7 @@
         "turkish": "Sınıf ID kodunuzu kaydedin",
         "spanish": "Guarde su código de ID de clase",
         "spanish_la": "Guarde su código de ID de clase",
-        "portuguese": "Salve seu código de identificação de aula",
+        "portuguese": "Salve seu código de identificação de turma",
         "arabic": "احفظ رمز مُعرِّف الفصل الخاص بك."
       },
       "paragraphs":{
@@ -152,7 +152,7 @@
             "turkish": "Bu yeni sınıfınıza ait kimlik (ID) kodudur. Kodu not edin ve öğrencilerinize dağıtın. Bu yeni kodla birlikte dersinize katılabilirler, siz de onların raporlarını görebilirsiniz.",
             "spanish": "Este es el código de identificación para su nueva clase. Guarde el código y compártalo con sus estudiantes. Ellos podrán inscribirse a su clase con el nuevo código y usted podrá ver sus informes.",
             "spanish_la": "Este es el código de identificación para su nueva clase. Guarde el código y compártalo con sus estudiantes. Ellos podrán inscribirse a su clase con el nuevo código y usted podrá ver sus informes.",
-            "portuguese": "Este é o código de identificação para a sua nova aula. Salve o código e distribua-o aos seus alunos. Eles poderão participar da sua aula com o novo código e você será capaz de visualizar os seus relatórios.",
+            "portuguese": "Este é o código de identificação para a sua nova turma. Salve o código e distribua-o aos seus alunos. Eles poderão participar da sua turma com o novo código e você será capaz de visualizar os seus relatórios.",
             "arabic": "هذا هو رمز مُعرِّف الفصل الجديد الخاص بك. احفظ الرمز ووزعه على طلابك. سوف يكون بإمكانهم الانضمام إلى فصلك من خلال الرمز الجديد، وسوف تكون قادرًا على رؤية تقاريرهم."
           }
         }
