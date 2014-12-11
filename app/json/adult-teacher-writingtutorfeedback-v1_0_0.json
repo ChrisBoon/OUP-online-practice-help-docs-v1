@@ -21,8 +21,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 1,
+          "numberPosLeft": 0,
           "text":{
             "english": "All Writing Assignments will need to be manually reviewed and graded. The gradebook will only record the original score. Unlimited student submissions and text feedback can continue to be provided, but the first score will be locked.",
             "turkish": "-",
@@ -32,8 +32,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 23,
+          "numberPosLeft": 0,
           "text":{
             "english": "This is the Writing Assignment prompt.",
             "turkish": "-",
@@ -43,8 +43,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 47,
+          "numberPosLeft": 0,
           "text":{
             "english": "This is the student’s submitted writing for review.",
             "turkish": "-",
@@ -54,8 +54,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 60,
+          "numberPosLeft": 54,
           "text":{
             "english": "Click here to provide feedback for the assignment.",
             "turkish": "-",
@@ -65,8 +65,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 83,
+          "numberPosLeft": 53,
           "text":{
             "english": "Click here to score the assignment.",
             "turkish": "-",
@@ -76,8 +76,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 74,
+          "numberPosLeft": 54,
           "text":{
             "english": "If you have previously submitted feedback, you can view it here.",
             "turkish": "-",
@@ -87,8 +87,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 91,
+          "numberPosLeft": 49,
           "text":{
             "english": "Click here to Submit Feedback. The student is alerted of new teacher feedback by email.",
             "turkish": "-",
@@ -98,8 +98,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
+          "numberPosTop": 90,
+          "numberPosLeft": 75,
           "text":{
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "-",
@@ -109,8 +109,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 45,
-          "numberPosLeft": 45,
+          "numberPosTop": 90,
+          "numberPosLeft": 88,
           "text":{
             "english": "Click here to print this report.",
             "turkish": "-",
@@ -132,8 +132,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 8,
+          "numberPosLeft": 2,
           "text":{
             "english": "Each writing Assignment contains a rubric with unit-specific criteria to grade against.",
             "turkish": "-",
@@ -143,8 +143,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 17,
+          "numberPosLeft": 60,
           "text":{
             "english": "Select a score for each criterion.",
             "turkish": "-",
@@ -154,8 +154,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 51,
+          "numberPosLeft": 86,
           "text":{
             "english": "Click here to close the rubric window and record the score.",
             "turkish": "-",

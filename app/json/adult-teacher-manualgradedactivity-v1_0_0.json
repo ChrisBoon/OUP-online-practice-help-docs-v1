@@ -21,8 +21,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 0,
-          "numberPosLeft": 57,
+          "numberPosTop": 26,
+          "numberPosLeft": 0,
           "text":{
             "english": "Activities that include audio or writing submission must be teacher graded. You can view a student’s submission, submit a score, and provide teacher feedback from the Activity Report screen.",
             "turkish": "-",
@@ -33,7 +33,7 @@
         "paragraph02": {
           "number": 2,
           "numberPosTop": 26,
-          "numberPosLeft": 0,
+          "numberPosLeft": 49,
           "text":{
             "english": "This is the student’s submitted work for review.",
             "turkish": "-",

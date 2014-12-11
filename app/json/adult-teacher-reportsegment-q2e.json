@@ -79,7 +79,7 @@
           "numberPosTop": 34,
           "numberPosLeft": 37,
           "text":{
-            "english": "Click here to view this student’s work for this activity and, where applicable, to submit a score and feedback. Except for Vocabulary Pronunciation activities, any activity that includes audio or writing submission must be teacher graded. These activities will have a tick mark in the Score row after the student has submitted them. Once you have graded them, the numeric score will replace the tick mark.",
+            "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity.",
             "turkish": "-",
             "spanish": "-",
             "arabic": "-"
@@ -87,17 +87,6 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 40,
-          "numberPosLeft": 4,
-          "text":{
-            "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The √ symbol means that the activity does not have a score.",
-            "turkish": "Bu satır, bu öğrencinin bu ünitedeki her bir aktivitede aldığı puanı gösterir. Örneğin, puan 8/10 ise, öğrencinin doğru yanıtladığı madde (soru) sayısı 8 ve aktivitedeki toplam soru sayısı ise 10 demektir. √ sembolü, bir aktivitede puan yok anlamına gelir.",
-            "spanish": "Esta fila muestra la puntuación de este estudiante en cada actividad en esta unidad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el estudiante respondió correctamente, y 10 es el número total de elementos en la actividad. El símbolo √ significa que la actividad no tiene una puntuación.",
-            "arabic": "يبيّن هذا الصف درجات الطالب لكل نشاط في هذه الوحدة. على سبيل المثال، إذا كانت الدرجة 8/10 فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عليها الطالب بصورة صحيحة والرقم 10 هو العدد الكلي البنود في النشاط. يشير هذا الرمز √ إلى الفعالية التي ليس لها درجة."
-          }
-        },
-        "paragraph08": {
-          "number": 8,
           "numberPosTop": 46,
           "numberPosLeft": 4,
           "text":{
@@ -107,8 +96,8 @@
             "arabic": "يبيّن هذا الصف المجموع الكلي لعدد المرات التي جرّب فيها هذا الطالب كل نشاط في هذه الوحدة. هذه العلامة √ تعني بأن المحاولات ليست مسجلة للنشاط."
           }
         },
-        "paragraph09": {
-          "number": 9,
+        "paragraph08": {
+          "number": 8,
           "numberPosTop": 52,
           "numberPosLeft": 4,
           "text":{
@@ -118,8 +107,8 @@
             "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي قضاها هذا الطالب في القيام بجميع الأنشطة في هذه الوحدة."
           }
         },
-        "paragraph10": {
-          "number": 10,
+        "paragraph09": {
+          "number": 9,
           "numberPosTop": 40,
           "numberPosLeft": 22.5,
           "text":{
@@ -129,8 +118,8 @@
             "arabic": "هذا هو المجموع الكلي لدرجات الطالب في الوحدة."
           }
         },
-        "paragraph11": {
-          "number": 11,
+        "paragraph10": {
+          "number": 10,
           "numberPosTop": 46,
           "numberPosLeft": 22.5,
           "text":{
@@ -140,8 +129,8 @@
             "arabic": "هذه هو مجموع العدد الكلي لمحاولات نشاط الطالب في الوحدة."
           }
         },
-        "paragraph12": {
-          "number": 12,
+        "paragraph11": {
+          "number": 11,
           "numberPosTop": 52,
           "numberPosLeft": 22.5,
           "text":{
@@ -149,10 +138,32 @@
             "turkish": "Burada bir ünitedeki aktiviteler için harcanan toplam zaman gösterilir.",
             "spanish": "Este es el total de tiempo empleado en actividades en una unidad.",
             "arabic": "هذا هوالمجموع الكلي للوقت الذي استغرقته النشاطات في الوحدة."
-          }
+          } 
         },
-        "paragraph13": {
+          "paragraph12": {
+          "number": 12,
+          "numberPosTop": 52,
+          "numberPosLeft": 22.5,
+          "text":{
+            "english": "The √ symbol means that the activity does not have a score. Some activities are non-scored, like games or activities solely for student practice. Other activities need to be graded by the teacher, like activities with audio or writing submissions. Once a grade is submitted, the numeric score will replace the √ symbol.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          } 
+        },
+          "paragraph13": {
           "number": 13,
+          "numberPosTop": 52,
+          "numberPosLeft": 22.5,
+          "text":{
+            "english": "Click here to view this student’s work for this activity and, where applicable, to submit a score and feedback.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          } 
+        },
+        "paragraph14": {
+          "number": 14,
           "numberPosTop": 18,
           "numberPosLeft": 76,
           "text":{
@@ -162,8 +173,8 @@
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
-        "paragraph14": {
-          "number": 14,
+        "paragraph15": {
+          "number": 15,
           "numberPosTop": 18,
           "numberPosLeft": 86,
           "text":{

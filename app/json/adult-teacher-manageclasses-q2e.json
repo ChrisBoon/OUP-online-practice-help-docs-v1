@@ -46,10 +46,10 @@
           "numberPosTop": 17,
           "numberPosLeft": 62,
           "text":{
-            "english": "Click here to hide units or lessons for your class.",
-            "turkish": "Sınıfınızın ünite veya derslerini gizlemek için buraya tıklayın.",
-            "spanish": "Haga clic aquí para ocultar unidades o lecciones para su clase.",
-            "arabic": "انقر هنا لإخفاء الوحدات أو الدروس الخاصة بالفصل الخاص بك."
+            "english": "Click here to hide or unhide units or tests for your class.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
           }
         },
         "paragraph04": {
@@ -57,7 +57,7 @@
           "numberPosTop": 17,
           "numberPosLeft": 75,
           "text":{
-            "english": "Click here to hide Writing Assignments for your class.",
+            "english": "Click here to hide Writing Assignments, if available, for your class.",
             "turkish": "-",
             "spanish": "-",
             "arabic": "-"

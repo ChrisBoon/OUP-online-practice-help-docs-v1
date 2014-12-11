@@ -63,19 +63,8 @@
             "arabic": "انقر هنا لإضافة مستوى آخر لمقرر الممارسة الخاصة بك عبر شبكة الإنترنت."
           }
         },
-        "paragraph05": {
+          "paragraph05": {
           "number": 5,
-          "numberPosTop": 17,
-          "numberPosLeft": 54,
-          "text":{
-            "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
-            "turkish": "E-posta alanını kullanmak ve öğrencilerinize mesaj göndermek için buraya tıklayın. Yeni mesajınız olduğunda, mesajların sayısı burada görüntülenir.",
-            "spanish": "Haga clic aquí para utilizar el área de correo electrónico y enviar mensajes a sus estudiantes. Si tiene mensajes nuevos, el número de mensajes aparecerá aquí.",
-            "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني وإرسال الرسائل إلى طلابك. إذا كانت لديك رسائل جديدة، فإن عدد الرسائل سيظهر هنا."
-          }
-        },
-        "paragraph06": {
-          "number": 6,
           "numberPosTop": 33,
           "numberPosLeft": 54,
           "text":{
@@ -83,6 +72,17 @@
             "turkish": "-",
             "spanish": "-",
             "arabic": "-"
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 17,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
+            "turkish": "E-posta alanını kullanmak ve öğrencilerinize mesaj göndermek için buraya tıklayın. Yeni mesajınız olduğunda, mesajların sayısı burada görüntülenir.",
+            "spanish": "Haga clic aquí para utilizar el área de correo electrónico y enviar mensajes a sus estudiantes. Si tiene mensajes nuevos, el número de mensajes aparecerá aquí.",
+            "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني وإرسال الرسائل إلى طلابك. إذا كانت لديك رسائل جديدة، فإن عدد الرسائل سيظهر هنا."
           }
         },
         "paragraph07": {

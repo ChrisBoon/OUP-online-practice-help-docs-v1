@@ -21,8 +21,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 1,
+          "numberPosLeft": 0,
           "text":{
             "english": "This page shows you information for all of your classes.",
             "turkish": "-",
@@ -32,8 +32,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosTop": 7,
+          "numberPosLeft": 97,
           "text":{
             "english": "Select a specific class here. Writing Tutor Reports are only available for Reading and Writing levels.",
             "turkish": "-",
@@ -43,8 +43,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 20,
+          "numberPosLeft": 2,
           "text":{
             "english": "This column shows the class name and the assignment names. Click on the class name to see individual student scores.",
             "turkish": "-",
@@ -54,8 +54,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosTop": 13,
+          "numberPosLeft": 46,
           "text":{
             "english": "This column shows how many students in the class have submitted the writing assignment.",
             "turkish": "-",
@@ -65,8 +65,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 13,
+          "numberPosLeft": 62,
           "text":{
             "english": "This column shows the class average time spent completing the assignment.",
             "turkish": "-",
@@ -76,8 +76,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 13,
+          "numberPosLeft": 82,
           "text":{
             "english": "This column shows the class average score for each writing assignment.",
             "turkish": "-",
@@ -87,8 +87,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 94,
+          "numberPosLeft": 1,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
@@ -98,8 +98,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
+          "numberPosTop": 94,
+          "numberPosLeft": 71,
           "text":{
             "english": "Click here to export this report to Microsoft Excel.",
             "turkish": "-",
@@ -109,8 +109,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 45,
-          "numberPosLeft": 45,
+          "numberPosTop": 94,
+          "numberPosLeft": 97,
           "text":{
             "english": "Click here to print this report.",
             "turkish": "-",
@@ -132,8 +132,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 1,
+          "numberPosLeft": 0,
           "text":{
             "english": "This page shows the writing assignment scores for students in the selected class.",
             "turkish": "-",
@@ -144,7 +144,7 @@
         "paragraph02": {
           "number": 2,
           "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "numberPosLeft": 97,
           "text":{
             "english": "Select a different class here.",
             "turkish": "-",
@@ -154,8 +154,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 29,
+          "numberPosLeft": 0,
           "text":{
             "english": "This column shows the students’ names and the assignment names.",
             "turkish": "-",
@@ -166,7 +166,7 @@
         "paragraph04": {
           "number": 4,
           "numberPosTop": 20,
-          "numberPosLeft": 20,
+          "numberPosLeft": 35,
           "text":{
             "english": "This column shows if the student has submitted the Writing Assignment.",
             "turkish": "-",
@@ -176,8 +176,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 25,
-          "numberPosLeft": 25,
+          "numberPosTop": 52,
+          "numberPosLeft": 39,
           "text":{
             "english": "A tick indicates the assignment was submitted.",
             "turkish": "-",
@@ -187,8 +187,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 30,
-          "numberPosLeft": 30,
+          "numberPosTop": 63,
+          "numberPosLeft": 39,
           "text":{
             "english": "A dash indicates the assignment was not submitted.",
             "turkish": "-",
@@ -198,8 +198,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 35,
+          "numberPosTop": 20,
+          "numberPosLeft": 51,
           "text":{
             "english": "This column shows the time the student spent on each writing assignment.",
             "turkish": "-",
@@ -209,8 +209,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 40,
-          "numberPosLeft": 40,
+          "numberPosTop": 20,
+          "numberPosLeft": 68,
           "text":{
             "english": "This column shows the score the student received for each writing assignment.",
             "turkish": "-",
@@ -220,8 +220,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 45,
-          "numberPosLeft": 45,
+          "numberPosTop": 20,
+          "numberPosLeft": 83,
           "text":{
             "english": "This column shows if feedback has been provided.",
             "turkish": "-",
@@ -231,8 +231,8 @@
         },
         "paragraph10": {
           "number": 10,
-          "numberPosTop": 50,
-          "numberPosLeft": 50,
+          "numberPosTop": 42,
+          "numberPosLeft": 85,
           "text":{
             "english": "Click here to view the submitted writing. You can provide feedback and score the writing. You can also view feedback and scores you have already given.",
             "turkish": "-",
@@ -242,8 +242,8 @@
         },
         "paragraph11": {
           "number": 11,
-          "numberPosTop": 55,
-          "numberPosLeft": 55,
+          "numberPosTop": 87,
+          "numberPosLeft": 1,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
@@ -253,8 +253,8 @@
         },
         "paragraph12": {
           "number": 12,
-          "numberPosTop": 60,
-          "numberPosLeft": 60,
+          "numberPosTop": 87,
+          "numberPosLeft": 71,
           "text":{
             "english": "Click here to export this report to Microsoft Excel.",
             "turkish": "-",
@@ -264,8 +264,8 @@
         },
         "paragraph13": {
           "number": 13,
-          "numberPosTop": 65,
-          "numberPosLeft": 65,
+          "numberPosTop": 87,
+          "numberPosLeft": 96,
           "text":{
             "english": "Click here to print this report.",
             "turkish": "-",
