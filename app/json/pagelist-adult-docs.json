@@ -461,5 +461,196 @@
         "id": "adult-admin-editprofile-v1_0_0"
       }
     }
+  },
+  "04_q2e": {
+    "order": 4,
+    "userType": {
+        "english": "iQ Docs",
+        "turkish": "iQ Docs",
+        "spanish": "iQ Docs",
+        "arabic": "iQ Docs"
+      },
+    "docsList":{
+      "item01":{
+        "order":1,
+        "title": {
+          "english": "(Teacher) Home",
+          "turkish": "Anasayfa",
+          "spanish": "Inicio",
+          "arabic": "الصفحة الرئيسية"
+        },
+        "id": "adult-teacher-home-q2e"
+      },
+      "item02":{
+        "order":2,
+        "title": {
+          "english": "(Teacher) Manage Classes",
+          "turkish": "Sınıfları Yönet",
+          "spanish": "Administrar Clases",
+          "arabic": "إدارة الفصول"
+        },
+        "id": "adult-teacher-manageclasses-q2e"
+      },
+      "item03":{
+        "order":3,
+        "title": {
+          "english": "(Teacher) Manage Attempts",
+          "turkish": "Denemeleri Yönet",
+          "spanish": "Administrar los intentos",
+          "arabic": "إدارة المحاولات"
+        },
+        "id": "adult-teacher-manageattempts-q2e"
+      },
+      "item04":{
+        "order":4,
+        "title": {
+          "english": "(Teacher) Hide/Assign Content",
+          "turkish": "İçeriği Gizle/Ata",
+          "spanish": "Ocultar/Asignar contenido",
+          "arabic": "تحديد المحتوى /إخفاء"
+        },
+        "id": "adult-teacher-contentassign-q2e"
+      },
+      "item05":{
+        "order":5,
+        "title": {
+          "english": "(Teacher) Segment Report",
+          "turkish": "Öğrenci Bölüm Raporu",
+          "spanish": "Informe del segmento de estudiante",
+          "arabic": "تقريرالطالب الجزئي"
+        },
+        "id": "adult-teacher-reportsegment-q2e"
+      },
+      "item06":{
+        "order":6,
+        "title": {
+          "english": "(Teacher) Unit Report",
+          "turkish": "Ünite Raporu",
+          "spanish": "Informe de la Unidad",
+          "arabic": "تقرير الوحدة"
+        },
+        "id": "adult-teacher-reportunit-q2e"
+      },
+      "item07":{
+        "order":7,
+        "title": {
+          "english": "(Teacher) Teacher Graded Activities",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-manualgradedactivity-v1_0_0"
+      },
+      "item08":{
+        "order":8,
+        "title": {
+          "english": "(Teacher) Writing Tutor Reports",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-writingtutorreport-v1_0_0"
+      },
+      "item09":{
+        "order":9,
+        "title": {
+          "english": "(Teacher) Writing Tutor Teacher Feedback",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-teacher-writingtutorfeedback-v1_0_0"
+      },
+      "item10":{
+        "order":10,
+        "title": {
+          "english": "(Teacher) Activities",
+          "turkish": "Aktiviteler",
+          "spanish": "Actividades",
+          "arabic": "أنشطة"
+        },
+        "id": "adult-teacher-activities-q2e"
+      },
+      "item11":{
+        "order":11,
+        "title": {
+          "english": "(Teacher) Media Center",
+          "turkish": "Medya Merkezi",
+          "spanish": "Centro de Medios",
+          "arabic": "مركز الوسائط"
+        },
+        "id": "adult-teacher-media-q2e"
+      },
+      "item12":{
+        "order":12,
+        "title": {
+          "english": "(Student) Home",
+          "turkish": "Anasayfa",
+          "spanish": "Inicio",
+          "arabic": "الصفحة الرئيسية"
+        },
+        "id": "adult-student-home-q2e"
+      },
+      "item13":{
+        "order":13,
+        "title": {
+          "english": "(Student) Activities",
+          "turkish": "Aktiviteler",
+          "spanish": "Actividades",
+          "arabic": "أنشطة"
+        },
+        "id": "adult-student-activities-q2e"
+      },
+      "item14":{
+        "order":14,
+        "title": {
+          "english": "(Student) Segment Report",
+          "turkish": "Öğrenci Bölüm Raporu",
+          "spanish": "Informe del segmento de estudiante",
+          "arabic": "تقريرالطالب الجزئي"
+        },
+        "id": "adult-student-reportsegment-q2e"
+      },
+      "item15":{
+        "order":15,
+        "title": {
+          "english": "(Student) Writing Tutor Reports",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-student-writingtutorreport-v1_0_0"
+      },
+      "item16":{
+        "order":16,
+        "title": {
+          "english": "(Student) Teacher Feedback",
+          "turkish": "-",
+          "spanish": "-",
+          "arabic": "-"
+        },
+        "id": "adult-student-teacherfeedback-v1_0_0"
+      },
+      "item17":{
+        "order":17,
+        "title": {
+          "english": "(Student) Media Center",
+          "turkish": "Medya Merkezi",
+          "spanish": "Centro de Medios",
+          "arabic": "مركز الوسائط"
+        },
+        "id": "adult-student-media-q2e"
+      },
+      "item18":{
+        "order":18,
+        "title": {
+          "english": "(Admin) Home",
+          "turkish": "Anasayfa",
+          "spanish": "Inicio",
+          "arabic": "الصفحة الرئيسية"
+        },
+        "id": "adult-admin-home-q2e"
+      }
+    }
   }
 }
