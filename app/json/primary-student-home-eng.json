@@ -1,14 +1,14 @@
 {
-  "title": {
+ "title": {
     "english": "Home",
     "spanish": "Inicio",
     "spanish_la": "Inicio",
     "portuguese": "Início"
   },
-  "segment": "primary",
-  "userType": ["student"],
-  "pageCount": 2,
-  "pages": {
+ "segment": "primary",
+ "userType": ["student"],
+ "pageCount": 2,
+ "pages": {
     "page01": {
       "pageType": "screenshot",
       "imgId": "P-SEC-SH001.jpg",
@@ -62,7 +62,6 @@
         "spanish": "Elija un área de Práctica Online",
         "spanish_la": "Elija un área de Práctica Online",
         "portuguese": "Escolha uma seção do Online Practice"
-        }
       },
       "paragraphs":{
         "paragraph01": {
@@ -145,3 +144,4 @@
       }
     }
   }
+}
