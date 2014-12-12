@@ -21,10 +21,10 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "numberPosTop": 13.5,
+          "numberPosLeft": 1,
           "text":{
-            "english": "Teacher Feedback is available for activities that include audio or writing submission. Writing Tutor Teacher Feedback can be accessed in Writing Tutor Reports.",
+            "english": "When your teacher has submitted feedback for an Online Practice activity, you will receive email notification. ",
             "turkish": "-",
             "spanish": "-",
             "arabic": "-"
@@ -32,19 +32,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
-          "text":{
-            "english": "When your teacher has submitted feedback, you will receive email notification.",
-            "turkish": "-",
-            "spanish": "-",
-            "arabic": "-"
-          }
-        },
-        "paragraph03": {
-          "number": 3,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "numberPosTop": 34,
+          "numberPosLeft": 54,
           "text":{
             "english": "Follow the link to access your feedback.",
             "turkish": "-",
@@ -56,7 +45,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "ASTF002.png",
+      "imgId": "ASTF002.jpg",
       "pageTitle": {
         "english": "",
         "turkish": "",
@@ -65,9 +54,9 @@
       },
       "paragraphs":{
         "paragraph01": {
-          "number": 4,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "number": 3,
+          "numberPosTop": 0,
+          "numberPosLeft": 89,
           "text":{
             "english": "Navigate through the unit activities to locate the feedback.",
             "turkish": "-",
@@ -88,9 +77,9 @@
       },
       "paragraphs":{
         "paragraph01": {
-          "number": 5,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "number": 4,
+          "numberPosTop": 25,
+          "numberPosLeft": 27,
           "text":{
             "english": "Teacher Feedback for a submitted activity appears as a pop up window.",
             "turkish": "-",
@@ -99,9 +88,9 @@
           }
         },
         "paragraph02": {
-          "number": 6,
-          "numberPosTop": 10,
-          "numberPosLeft": 10,
+          "number": 5,
+          "numberPosTop": 64,
+          "numberPosLeft": 40,
           "text":{
             "english": "This is your score. Your teacher decides if your first or most recent attempt reports to the gradebook.",
             "turkish": "-",
@@ -110,9 +99,9 @@
           }
         },
         "paragraph03": {
-          "number": 7,
-          "numberPosTop": 15,
-          "numberPosLeft": 15,
+          "number": 6,
+          "numberPosTop": 28,
+          "numberPosLeft": 70,
           "text":{
             "english": "Click here to close the feedback window.",
             "turkish": "-",
@@ -133,11 +122,22 @@
       },
       "paragraphs":{
         "paragraph01": {
-          "number": 8,
-          "numberPosTop": 5,
-          "numberPosLeft": 5,
+          "number": 7,
+          "numberPosTop": 13,
+          "numberPosLeft": 30.5,
           "text":{
-            "english": "You may complete and submit the activity again. If you submit again, you must wait for new feedback to attempt the activity again.",
+            "english": "You may complete and submit the activity again.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph02": {
+          "number": 8,
+          "numberPosTop": 82,
+          "numberPosLeft": 94,
+          "text":{
+            "english": "If you submit again, you must wait for new feedback to attempt the activity again.",
             "turkish": "-",
             "spanish": "-",
             "arabic": "-"

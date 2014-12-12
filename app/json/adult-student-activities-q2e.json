@@ -65,8 +65,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 82,
-          "numberPosLeft": 39,
+          "numberPosTop": 84,
+          "numberPosLeft": 51,
           "text":{
             "english": "Click here to submit your answers when you have answered all questions in an activity. If you are submitting an audio recording or a written assignment, you cannot resubmit until your teacher provides a grade.",
             "turkish": "-",
@@ -76,8 +76,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 82,
-          "numberPosLeft": 49,
+          "numberPosTop": 84,
+          "numberPosLeft": 61,
           "text":{
             "english": "You can try most activities again if you answer some questions incorrectly. You can try most activities as many times as you like.",
             "turkish": "-",
@@ -87,8 +87,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 82,
-          "numberPosLeft": 59,
+          "numberPosTop": 84,
+          "numberPosLeft": 72,
           "text":{
             "english": "If you answer some questions incorrectly you can see the correct answers.",
             "turkish": "Bazı soruları yanlış cevaplarsanız doğru yanıtları görebilirsiniz.",
@@ -98,8 +98,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 82,
-          "numberPosLeft": 84,
+          "numberPosTop": 84,
+          "numberPosLeft": 90,
           "text":{
             "english": "Your current activity score is shown here.",
             "turkish": "Şimdiki aktiviteden aldığınız puan burada görünür.",

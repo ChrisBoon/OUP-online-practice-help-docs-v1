@@ -90,10 +90,10 @@
           "numberPosTop": 40,
           "numberPosLeft": 4,
           "text":{
-            "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The √ symbol means that the activity does not have a score.",
-            "turkish": "Bu satır, bu öğrencinin bu ünitedeki her bir aktivitede aldığı puanı gösterir. Örneğin, puan 8/10 ise, öğrencinin doğru yanıtladığı madde (soru) sayısı 8 ve aktivitedeki toplam soru sayısı ise 10 demektir. √ sembolü, bir aktivitede puan yok anlamına gelir.",
-            "spanish": "Esta fila muestra la puntuación de este estudiante en cada actividad en esta unidad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el estudiante respondió correctamente, y 10 es el número total de elementos en la actividad. El símbolo √ significa que la actividad no tiene una puntuación.",
-            "arabic": "يبيّن هذا الصف درجات الطالب لكل نشاط في هذه الوحدة. على سبيل المثال، إذا كانت الدرجة 8/10 فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عليها الطالب بصورة صحيحة والرقم 10 هو العدد الكلي البنود في النشاط. يشير هذا الرمز √ إلى الفعالية التي ليس لها درجة."
+            "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The ✓ symbol means that the activity does not have a score.",
+            "turkish": "Bu satır, bu öğrencinin bu ünitedeki her bir aktivitede aldığı puanı gösterir. Örneğin, puan 8/10 ise, öğrencinin doğru yanıtladığı madde (soru) sayısı 8 ve aktivitedeki toplam soru sayısı ise 10 demektir. ✓ sembolü, bir aktivitede puan yok anlamına gelir.",
+            "spanish": "Esta fila muestra la puntuación de este estudiante en cada actividad en esta unidad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el estudiante respondió correctamente, y 10 es el número total de elementos en la actividad. El símbolo ✓ significa que la actividad no tiene una puntuación.",
+            "arabic": "يبيّن هذا الصف درجات الطالب لكل نشاط في هذه الوحدة. على سبيل المثال، إذا كانت الدرجة 8/10 فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عليها الطالب بصورة صحيحة والرقم 10 هو العدد الكلي البنود في النشاط. يشير هذا الرمز ✓ إلى الفعالية التي ليس لها درجة."
           }
         },
         "paragraph08": {
@@ -101,10 +101,10 @@
           "numberPosTop": 46,
           "numberPosLeft": 4,
           "text":{
-            "english": "This row shows the total number of times this student attempted each activity in this unit. The √ symbol means that attempts are not recorded for the activity.",
-            "turkish": "Bu satır, bu öğrencinin bu ünitedeki her bir aktiviteyi toplam kaç defa denediğini gösterir. √ sembolü,aktivite için denemelerin kaydedilmediği anlamına gelir.",
-            "spanish": "Esta fila muestra el número total de veces que este estudiante intentó cada actividad en esta unidad. El símbolo √ que en esta actividad los intentos no quedan registrados.",
-            "arabic": "يبيّن هذا الصف المجموع الكلي لعدد المرات التي جرّب فيها هذا الطالب كل نشاط في هذه الوحدة. هذه العلامة √ تعني بأن المحاولات ليست مسجلة للنشاط."
+            "english": "This row shows the total number of times this student attempted each activity in this unit. The ✓ symbol means that attempts are not recorded for the activity.",
+            "turkish": "Bu satır, bu öğrencinin bu ünitedeki her bir aktiviteyi toplam kaç defa denediğini gösterir. ✓ sembolü,aktivite için denemelerin kaydedilmediği anlamına gelir.",
+            "spanish": "Esta fila muestra el número total de veces que este estudiante intentó cada actividad en esta unidad. El símbolo ✓ que en esta actividad los intentos no quedan registrados.",
+            "arabic": "يبيّن هذا الصف المجموع الكلي لعدد المرات التي جرّب فيها هذا الطالب كل نشاط في هذه الوحدة. هذه العلامة ✓ تعني بأن المحاولات ليست مسجلة للنشاط."
           }
         },
         "paragraph09": {

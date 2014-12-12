@@ -1,0 +1,58 @@
+{
+ "title": {
+    "english": "Media Center",
+    "turkish": "Medya Merkezi",
+    "spanish": "Centro de Medios",
+    "arabic": "مركز الوسائط"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATM001.png",
+      "pageTitle": {
+        "english": "Audio",
+        "turkish": "Ses",
+        "spanish": "Audio",
+        "arabic": "الصوت"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 4,
+          "numberPosLeft": 27,
+          "text":{
+            "english": "The Media Center provides class audio and video files for you and your students to use, if available.",
+            "turkish": "Medya Merkezi varsa dersle ilgili ses ve video dosyalarını sizin ve öğrencilerinizin kullanımına sunar.",
+            "spanish": "El Centro de Medios proporciona archivos de vídeo y audio de la clase para que los utilicen tanto usted como sus estudiantes, de estar disponibles.",
+            "arabic": "يقدم مركز الوسائط للصف ملفات صوتية وملفات فيديو لك ولطلابك لاستخدامها، إذا كانت متوفرة."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 51,
+          "numberPosLeft": 39,
+          "text":{
+            "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
+            "turkish": "Bir ses dosyası başlığına tıklayın. Bir ses çalar görünür ve sesi dinletir. Parçayı oynatmak ve durdurmak için çalma düğmesini kullanın. Parçanın içinde gezinmek ve ses seviyesini değiştirmek için diğer kontrol düğmelerini kullanın.",
+            "spanish": "Haga clic en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
+            "arabic": "انقر فوق عنوان أحد الملفات الصوتية. سوف يظهر مشغل الصوت ويقوم بتشغيل مقطع الفيديو. استخدم زر السهم لتشغيل وإيقاف المسار. استخدم مفاتيح التحكم للتحرك من خلال المسار وتغيير مستوى جهارة الصوت."
+          }
+        },
+          "paragraph03": {
+          "number": 3,
+          "numberPosTop": 34,
+          "numberPosLeft": 80,
+          "text":{
+            "english": "Click on the download icon, if available, to download the entire audio track to your device. Not all audio tracks can be downloaded.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        }
+      }
+    }
+  }
+}

@@ -95,6 +95,17 @@
             "spanish": "Aquí se muestra el tiempo total empleado en todas las actividades en una unidad.",
             "arabic": "يعرض هنا الوقت الإجمالي المستغرق لجميع الانشطة في الوحدة معروض هنا."
           }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 31,
+          "numberPosLeft": 27,
+          "text":{
+            "english": "The ✓ symbol means that the activity does not have a score. Some activities are non-scored, like games or activities solely for student practice. Other activities need to be graded by the teacher, like activities with audio or writing submissions. Once a grade is submitted, the numeric score will replace the ✓ symbol.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
         }
       }
     }

@@ -24,9 +24,9 @@
           "numberPosTop": 20,
           "numberPosLeft": 27.5,
           "text":{
-            "english": "Click here to change your first name.",
+            "english": "Click here to change your first name (given name).",
             "turkish": "Adınızı değiştirmek için buraya tıklayın.",
-            "spanish": "Haga clic aquí para cambiar su nombre.",
+            "spanish": "Haga clic aquí para cambiar su nombre (nombre de pila).",
             "arabic": "انقر هنا لتغيير اسمك الأول."
           }
         },

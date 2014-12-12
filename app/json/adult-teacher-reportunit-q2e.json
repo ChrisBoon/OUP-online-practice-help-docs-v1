@@ -90,10 +90,10 @@
           "numberPosTop": 63,
           "numberPosLeft": 5,
           "text":{
-            "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The ✓ symbol means that the activity does not have a score.",
-            "turkish": "Bu satır, öğrencinin bu ünitedeki her bir aktiviteden aldığı puanı gösterir. Örneğin, puan 8/10 ise, öğrencinin doğru cevapladığı madde (soru) sayısı 8 ve aktivitenin toplam soru sayısı 10 demektir. ✓ sembolü aktivitede puan yok anlamına gelir.",
-            "spanish": "Esta fila muestra la puntuación de este estudiante en cada actividad en esta unidad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el alumno respondió correctamente, y 10 es el número total de elementos en la actividad. El símbolo ✓ significa que la actividad no tiene una puntuación.",
-            "arabic": "يعرض هذا الصف درجة هذا الطالب لكل نشاط في الوحدة. على سبيل المثال، إذا كانت الدرجة 8/10 ، فإن الرقم 8 يشير إلى عدد البنود ( الاسئلة) التي أجاب عليها الطالب بصورة صحيحة والرقم 10 هو العدد الكلي في الفعالية. الرمز ✓ يشير إلى عدم وجود درجة على النشاط."
+            "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity.",
+            "turkish": "Bu satır, öğrencinin bu ünitedeki her bir aktiviteden aldığı puanı gösterir. Örneğin, puan 8/10 ise, öğrencinin doğru cevapladığı madde (soru) sayısı 8 ve aktivitenin toplam soru sayısı 10 demektir.",
+            "spanish": "Esta fila muestra la puntuación de este estudiante en cada actividad en esta unidad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el alumno respondió correctamente, y 10 es el número total de elementos en la actividad.",
+            "arabic": "يعرض هذا الصف درجة هذا الطالب لكل نشاط في الوحدة. على سبيل المثال، إذا كانت الدرجة 8/10 ، فإن الرقم 8 يشير إلى عدد البنود ( الاسئلة) التي أجاب عليها الطالب بصورة صحيحة والرقم 10 هو العدد الكلي في الفعالية."
           }
         },
         "paragraph08": {
@@ -151,8 +151,30 @@
             "arabic": "هذا هو مجموع الوقت الذي أمضاه هذا الطالب على هذه الوحدة."
           }
         },
-        "paragraph13": {
+          "paragraph13": {
           "number": 13,
+          "numberPosTop": 69,
+          "numberPosLeft": 48,
+          "text":{
+            "english": "The ✓ symbol means that the activity does not have a score. Some activities are unscored, like games or activities solely for student practice. Other activities need to be graded by the teacher. Activities with audio or writing submissions must be graded by the teacher. Once a grade is submitted, the numeric score will replace the ✓ symbol.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+          "paragraph14": {
+          "number": 14,
+          "numberPosTop": 57,
+          "numberPosLeft": 57,
+          "text":{
+            "english": "Click here to view this student’s work for this activity and, where applicable, to submit a score and feedback.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph15": {
+          "number": 15,
           "numberPosTop": 18,
           "numberPosLeft": 76,
           "text":{
@@ -162,8 +184,8 @@
             "arabic": "اانقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
-        "paragraph14": {
-          "number": 14,
+        "paragraph16": {
+          "number": 16,
           "numberPosTop": 18,
           "numberPosLeft": 85,
           "text":{

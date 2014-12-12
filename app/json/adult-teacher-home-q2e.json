@@ -32,7 +32,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 33,
+          "numberPosTop": 34,
           "numberPosLeft": 7,
           "text":{
             "english": "Click here to view scores and reports on your students’ progress.",
@@ -65,7 +65,7 @@
         },
           "paragraph05": {
           "number": 5,
-          "numberPosTop": 33,
+          "numberPosTop": 17,
           "numberPosLeft": 54,
           "text":{
             "english": "Click here to enter the Writing Tutor activity area.",
@@ -76,7 +76,7 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 17,
+          "numberPosTop": 34,
           "numberPosLeft": 54,
           "text":{
             "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
