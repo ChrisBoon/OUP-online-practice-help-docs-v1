@@ -89,7 +89,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "ASWT002.png",
+      "imgId": "ASWT002.jpg",
       "pageTitle": {
         "english": "View a Model",
         "turkish": "-",
@@ -100,7 +100,7 @@
         "paragraph01": {
           "number": 1,
           "numberPosTop": 12,
-          "numberPosLeft": 8,
+          "numberPosLeft": 1,
           "text":{
             "english": "Read the writing assignment prompt here.",
             "turkish": "-",
@@ -111,7 +111,7 @@
         "paragraph02": {
           "number": 2,
           "numberPosTop": 7,
-          "numberPosLeft": 86,
+          "numberPosLeft": 93,
           "text":{
             "english": "Click here to begin writing the assignment.",
             "turkish": "-",
@@ -121,8 +121,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 25,
-          "numberPosLeft": 28,
+          "numberPosTop": 27,
+          "numberPosLeft": 26,
           "text":{
             "english": "Read tips about the assignment writing style here.",
             "turkish": "-",
@@ -132,8 +132,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 34,
-          "numberPosLeft": 84,
+          "numberPosTop": 35,
+          "numberPosLeft": 90,
           "text":{
             "english": "View the Model here to understand how texts are constructed for the writing assignment.",
             "turkish": "-",
@@ -143,8 +143,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 24,
-          "numberPosLeft": 23,
+          "numberPosTop": 26,
+          "numberPosLeft": 22,
           "text":{
             "english": "Click here to hide the left navigation.",
             "turkish": "-",
@@ -154,8 +154,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 28,
-          "numberPosLeft": 22,
+          "numberPosTop": 29,
+          "numberPosLeft": 6,
           "text":{
             "english": "Use the boxes below to see how a well-structured writing is organized.",
             "turkish": "-",
@@ -165,8 +165,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 31,
-          "numberPosLeft": 10,
+          "numberPosTop": 32,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to read about the assignment writing style.",
             "turkish": "-",
@@ -177,7 +177,7 @@
         "paragraph08": {
           "number": 8,
           "numberPosTop": 35,
-          "numberPosLeft": 10,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to see how the writing sample was planned.",
             "turkish": "-",
@@ -187,8 +187,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 38,
-          "numberPosLeft": 10,
+          "numberPosTop": 38.5,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to see the sample writing.",
             "turkish": "-",
@@ -199,7 +199,7 @@
         "paragraph10": {
           "number": 10,
           "numberPosTop": 42,
-          "numberPosLeft": 10,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to see the entire Model.",
             "turkish": "-",
@@ -209,8 +209,8 @@
         },
         "paragraph11": {
           "number": 11,
-          "numberPosTop": 50,
-          "numberPosLeft": 10,
+          "numberPosTop": 45,
+          "numberPosLeft": 6,
           "text":{
             "english": "Click the boxes below to highlight specific structures in the sample essay. Each will highlight in a different color. Click again to hide.",
             "turkish": "-",
@@ -220,8 +220,8 @@
         },
         "paragraph12": {
           "number": 12,
-          "numberPosTop": 94,
-          "numberPosLeft": 21,
+          "numberPosTop": 95,
+          "numberPosLeft": 6,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
@@ -233,7 +233,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "ASWT003.png",
+      "imgId": "ASWT003.jpg",
       "pageTitle": {
         "english": "Write The Assignment",
         "turkish": "-",
@@ -243,8 +243,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 13,
-          "numberPosLeft": 8,
+          "numberPosTop": 14,
+          "numberPosLeft": 1,
           "text":{
             "english": "Read the writing assignment prompt here.",
             "turkish": "-",
@@ -254,8 +254,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 7,
-          "numberPosLeft": 73,
+          "numberPosTop": 8,
+          "numberPosLeft": 78,
           "text":{
             "english": "Click here to view the Model for this assignment.",
             "turkish": "-",
@@ -265,8 +265,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 24,
-          "numberPosLeft": 28,
+          "numberPosTop": 29,
+          "numberPosLeft": 25,
           "text":{
             "english": "Read tips about the assignment writing style here.",
             "turkish": "-",
@@ -276,8 +276,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 24,
-          "numberPosLeft": 23,
+          "numberPosTop": 29,
+          "numberPosLeft": 18,
           "text":{
             "english": "Click here to hide the left navigation.",
             "turkish": "-",
@@ -287,8 +287,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 28,
-          "numberPosLeft": 10,
+          "numberPosTop": 35,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here for tips on how to use the Writing Tutor.",
             "turkish": "-",
@@ -298,8 +298,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 33,
-          "numberPosLeft": 83,
+          "numberPosTop": 38,
+          "numberPosLeft": 90,
           "text":{
             "english": "Use the writing framework below to plan, structure, and write the assignment.",
             "turkish": "-",
@@ -309,8 +309,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 35,
-          "numberPosLeft": 10,
+          "numberPosTop": 42,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to write the assignment. Click again to hide.",
             "turkish": "-",
@@ -320,8 +320,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 37,
-          "numberPosLeft": 30,
+          "numberPosTop": 43,
+          "numberPosLeft": 26,
           "text":{
             "english": "Write the title of your assignment here.",
             "turkish": "-",
@@ -331,8 +331,8 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 69,
-          "numberPosLeft": 30,
+          "numberPosTop": 80,
+          "numberPosLeft": 26,
           "text":{
             "english": "Write the assignment here.",
             "turkish": "-",
@@ -342,8 +342,8 @@
         },
         "paragraph10": {
           "number": 10,
-          "numberPosTop": 39,
-          "numberPosLeft": 10,
+          "numberPosTop": 46,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to plan the writing and make notes. Click again to hide.",
             "turkish": "-",
@@ -353,8 +353,8 @@
         },
         "paragraph11": {
           "number": 11,
-          "numberPosTop": 43,
-          "numberPosLeft": 10,
+          "numberPosTop": 49,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to review the structure of the writing. Click again to hide.",
             "turkish": "-",
@@ -364,8 +364,8 @@
         },
         "paragraph12": {
           "number": 12,
-          "numberPosTop": 46,
-          "numberPosLeft": 10,
+          "numberPosTop": 53,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to preview the writing. Click again to exit preview.",
             "turkish": "-",
@@ -375,8 +375,8 @@
         },
         "paragraph13": {
           "number": 13,
-          "numberPosTop": 51,
-          "numberPosLeft": 10,
+          "numberPosTop": 60,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to highlight all Academic Word List words in the writing.",
             "turkish": "-",
@@ -386,8 +386,8 @@
         },
         "paragraph14": {
           "number": 14,
-          "numberPosTop": 56,
-          "numberPosLeft": 10,
+          "numberPosTop": 64,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to highlight all Oxford 3000 words in the writing.",
             "turkish": "-",
@@ -397,8 +397,8 @@
         },
         "paragraph15": {
           "number": 15,
-          "numberPosTop": 59,
-          "numberPosLeft": 10,
+          "numberPosTop": 68,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to save your assignment in the Writing Tutor.",
             "turkish": "-",
@@ -408,8 +408,8 @@
         },
         "paragraph16": {
           "number": 16,
-          "numberPosTop": 63,
-          "numberPosLeft": 10,
+          "numberPosTop": 72,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to save your assignment in the Writing Tutor and to your computer.",
             "turkish": "-",
@@ -419,8 +419,8 @@
         },
         "paragraph17": {
           "number": 17,
-          "numberPosTop": 66,
-          "numberPosLeft": 10,
+          "numberPosTop": 76,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to print your assignment.",
             "turkish": "-",
@@ -430,8 +430,8 @@
         },
         "paragraph18": {
           "number": 18,
-          "numberPosTop": 70,
-          "numberPosLeft": 10,
+          "numberPosTop": 80,
+          "numberPosLeft": 2,
           "text":{
             "english": "Click here to save your assignment in the Writing Tutor and send it to your teacher. No changes can be made to your assignment after you submit it.",
             "turkish": "-",
@@ -441,8 +441,8 @@
         },
         "paragraph19": {
           "number": 19,
-          "numberPosTop": 95,
-          "numberPosLeft": 10,
+          "numberPosTop": 94,
+          "numberPosLeft": 6,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",

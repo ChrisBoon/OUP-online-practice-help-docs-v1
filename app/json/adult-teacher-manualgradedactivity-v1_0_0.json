@@ -24,7 +24,7 @@
           "numberPosTop": 26,
           "numberPosLeft": 0,
           "text":{
-            "english": "Activities that include audio or writing submission must be teacher graded. You can view a student’s submission, submit a score, and provide teacher feedback from the Activity Report screen.",
+            "english": "Activities that include audio or writing submission must be teacher graded.",
             "turkish": "-",
             "spanish": "-",
             "arabic": "-"
@@ -32,6 +32,17 @@
         },
         "paragraph02": {
           "number": 2,
+          "numberPosTop": 3,
+          "numberPosLeft": 65,
+          "text":{
+            "english": "You can view a student’s submission, submit a score, and provide teacher feedback from the Activity Report screen.",
+            "turkish": "-",
+            "spanish": "-",
+            "arabic": "-"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
           "numberPosTop": 26,
           "numberPosLeft": 49,
           "text":{
@@ -41,8 +52,8 @@
             "arabic": "-"
           }
         },
-        "paragraph03": {
-          "number": 3,
+        "paragraph04": {
+          "number": 4,
           "numberPosTop": 86,
           "numberPosLeft": 84,
           "text":{
@@ -65,7 +76,7 @@
       },
       "paragraphs":{
         "paragraph01": {
-          "number": 4,
+          "number": 5,
           "numberPosTop": 34,
           "numberPosLeft": 26,
           "text":{
@@ -76,7 +87,7 @@
           }
         },
         "paragraph02": {
-          "number": 5,
+          "number": 6,
           "numberPosTop": 64,
           "numberPosLeft": 67,
           "text":{
@@ -99,7 +110,7 @@
       },
       "paragraphs":{
         "paragraph01": {
-          "number": 6,
+          "number": 7,
           "numberPosTop": 0,
           "numberPosLeft": 0,
           "text":{

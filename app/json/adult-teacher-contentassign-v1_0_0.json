@@ -43,7 +43,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 81,
+          "numberPosTop": 84,
           "numberPosLeft": 11,
           "text":{
             "english": "Check a box here to hide a whole segment.",
@@ -54,7 +54,7 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 30,
+          "numberPosTop": 35,
           "numberPosLeft": 30,
           "text":{
             "english": "Check a box here to hide selected units within a segment.",
@@ -65,7 +65,7 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 92,
+          "numberPosTop": 90,
           "numberPosLeft": 24,
           "text":{
             "english": "Click here to save the changes you made to this class.",

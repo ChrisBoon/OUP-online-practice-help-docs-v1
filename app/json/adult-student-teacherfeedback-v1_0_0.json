@@ -58,7 +58,7 @@
           "numberPosTop": 0,
           "numberPosLeft": 89,
           "text":{
-            "english": "Navigate through the unit activities to locate the feedback.",
+            "english": "The link will take you to the first activity in the unit. Navigate through the unit activities to locate the feedback.",
             "turkish": "-",
             "spanish": "-",
             "arabic": "-"
@@ -123,8 +123,8 @@
       "paragraphs":{
         "paragraph01": {
           "number": 7,
-          "numberPosTop": 13,
-          "numberPosLeft": 30.5,
+          "numberPosTop": 15,
+          "numberPosLeft": 94,
           "text":{
             "english": "You may complete and submit the activity again.",
             "turkish": "-",

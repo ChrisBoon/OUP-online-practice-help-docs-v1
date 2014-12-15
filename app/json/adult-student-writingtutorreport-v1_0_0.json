@@ -43,8 +43,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 21,
-          "numberPosLeft": 40,
+          "numberPosTop": 17.5,
+          "numberPosLeft": 34,
           "text":{
             "english": "This column shows if your writing assignment has been submitted.",
             "turkish": "-",
@@ -76,8 +76,8 @@
         },
         "paragraph06": {
           "number": 6,
-          "numberPosTop": 21,
-          "numberPosLeft": 56,
+          "numberPosTop": 17.5,
+          "numberPosLeft": 50.5,
           "text":{
             "english": "This column shows the time spent on each writing assignment.",
             "turkish": "-",
@@ -87,8 +87,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 21,
-          "numberPosLeft": 72,
+          "numberPosTop": 17.5,
+          "numberPosLeft": 68,
           "text":{
             "english": "This column shows the score you received for each writing assignment.",
             "turkish": "-",
@@ -98,8 +98,8 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 21,
-          "numberPosLeft": 87,
+          "numberPosTop": 17.5,
+          "numberPosLeft": 82,
           "text":{
             "english": "This column shows if your teacher has given you feedback.",
             "turkish": "-",

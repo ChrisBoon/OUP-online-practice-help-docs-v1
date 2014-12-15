@@ -101,7 +101,7 @@
           "numberPosTop": 31,
           "numberPosLeft": 27,
           "text":{
-            "english": "The ✓ symbol means that the activity does not have a score. Some activities are non-scored, like games or activities solely for student practice. Other activities need to be graded by the teacher, like activities with audio or writing submissions. Once a grade is submitted, the numeric score will replace the ✓ symbol.",
+            "english": "The ✓ symbol means that the activity does not have a score. Some activities are non-scored, like games or activities solely for student practice. Other activities need to be graded by the teacher, like activities with audio or writing submissions. When the teacher grades those activities, the numeric score will replace the ✓ symbol.",
             "turkish": "-",
             "spanish": "-",
             "arabic": "-"
