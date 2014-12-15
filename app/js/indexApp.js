@@ -52,14 +52,6 @@ angular.module('helpIndex.controllers', [])
       {"name": "Generic Adult: all languages",
        "link": "master-adult.html",
        "imgAsset": "help-doc-icon-adult-2x.png"
-      },
-      {"name": "Teen2Teen: all languages WIP",
-       "link": "teen2teen_plus-WIP.html",
-       "imgAsset": "help-doc-icon-t2tWIP-2x.jpg"
-      },
-      {"name": "Engage: all languages WIP",
-       "link": "engage-WIP.html",
-       "imgAsset": "help-doc-icon-engWIP-2x.jpg"
       }
 
     ];
