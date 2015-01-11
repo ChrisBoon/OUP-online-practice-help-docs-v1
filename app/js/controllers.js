@@ -48,8 +48,12 @@ angular.module('myApp.controllers', [])
     //If they have we load the page in that language.
     //If not we set the language to English.
     $scope.getLang = function(){
-
-      if (localStorage.getItem("language-" + opHelpGlobals.config.currentCourse + "") === null) {
+      var str = $location;
+      if(str.$$path === "/_Spanish"){
+        localStorage.setItem("language-" + opHelpGlobals.config.currentCourse + "","spanish");
+      } else if(str.$$path === "/_Turkish"){
+        localStorage.setItem("language-" + opHelpGlobals.config.currentCourse + "","turkish");
+      } else if (localStorage.getItem("language-" + opHelpGlobals.config.currentCourse + "") === null) {
         localStorage.setItem("language-" + opHelpGlobals.config.currentCourse + "","english");
       }
       $scope.language = {"language":localStorage.getItem("language-" + opHelpGlobals.config.currentCourse + "")};
