@@ -47,8 +47,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Click here to show the first attempt on each activity. Students can continue to practice, but you will only see their first score in your reports. This also applies to teacher graded activities.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Her bir aktivitenin ilk denemesini göstermek için buraya tıklayın.  Öğrenciler uygulamaya devam edebilirler, ancak raporlarda sadece ilk öğrenci puanlarını göreceksiniz.  Öğretmen tarafından puanlanan aktiviteler için de aynı kural geçerlidir.",
+            "spanish": "Haga clic aquí para mostrar el primer intento en cada actividad. Los estudiantes pueden continuar practicando, pero usted verá únicamente el primer puntaje de ellos en sus reportes. Esto se aplica también a las actividades calificadas por el maestro.",
             "arabic": "-"
           }
         },

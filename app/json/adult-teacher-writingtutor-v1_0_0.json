@@ -2,7 +2,7 @@
  "title": {
     "english": "Writing Tutor",
     "turkish": "-",
-    "spanish": "-",
+    "spanish": "Tutor de escritura",
     "arabic": "-"
   },
  "segment": "adult",
@@ -15,7 +15,7 @@
       "pageTitle": {
         "english": "Choose an Assignment",
         "turkish": "-",
-        "spanish": "-",
+        "spanish": "Seleccionar una tarea",
         "arabic": "-"
       },
       "paragraphs":{
@@ -26,7 +26,7 @@
           "text":{
             "english": "Click here to select a different book. Writing Tutor is only available for Reading & Writing levels.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para seleccionar un libro diferente. El Tutor de escritura está disponible únicamente para los niveles de Lectura y Escritura. ",
             "arabic": "-"
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "This column lists the writing assignment names.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Esta columna enumera los nombres de tareas de escritura.",
             "arabic": "-"
           }
         },
@@ -48,7 +48,7 @@
           "text":{
             "english": "Click here to View a Model. It demonstrates the structure of the writing and it has a sample writing.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para Ver un modelo. Este demuestra la estructura de la escritura e incluye una muestra de escritura.",
             "arabic": "-"
           }
         },
@@ -59,7 +59,7 @@
           "text":{
             "english": "Click here to view where students write the assignment. The writing framework helps students organize their writing assignments.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ver dónde los estudiantes escriben la tarea. El marco de trabajo para escritura ayuda a los estudiantes a organizar sus tareas de escritura.",
             "arabic": "-"
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para regresar a la página anterior.",
             "arabic": "-"
           }
         }
@@ -82,7 +82,7 @@
       "pageTitle": {
         "english": "View a Model",
         "turkish": "-",
-        "spanish": "-",
+        "spanish": "Ver un modelo",
         "arabic": "-"
       },
       "paragraphs":{
@@ -93,7 +93,7 @@
           "text":{
             "english": "Read the writing assignment prompt here.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Lea aquí el indicador de tarea de escritura.",
             "arabic": "-"
           }
         },
@@ -104,7 +104,7 @@
           "text":{
             "english": "Click here to view where students write the assignment.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ver dónde los estudiantes escriben la tarea.",
             "arabic": "-"
           }
         },
@@ -115,7 +115,7 @@
           "text":{
             "english": "View the Model here to understand how texts are constructed for the writing assignment.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Vea el Modelo aquí para entender cómo se construyen los textos para la tarea de escritura.",
             "arabic": "-"
           }
         },
@@ -126,7 +126,7 @@
           "text":{
             "english": "Click here to hide the left navigation.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ocultar la navegación izquierda.",
             "arabic": "-"
           }
         },
@@ -137,7 +137,7 @@
           "text":{
             "english": "Use the boxes below to see how a well-structured writing is organized.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Use las casillas a continuación para ver cómo está organizada una escritura bien estructurada.",
             "arabic": "-"
           }
         },
@@ -148,7 +148,7 @@
           "text":{
             "english": "Click here to read about the assignment writing style.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para leer acerca del estilo de la tarea de escritura.",
             "arabic": "-"
           }
         },
@@ -159,7 +159,7 @@
           "text":{
             "english": "Click here to see how the writing sample was planned.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ver cómo se planificó la muestra de escritura.",
             "arabic": "-"
           }
         },
@@ -170,7 +170,7 @@
           "text":{
             "english": "Click here to see the sample writing.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ver la escritura de ejemplo.",
             "arabic": "-"
           }
         },
@@ -181,7 +181,7 @@
           "text":{
             "english": "Click here to see the entire Model.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ver el Modelo completo.",
             "arabic": "-"
           }
         },
@@ -192,7 +192,7 @@
           "text":{
             "english": "Click the boxes below to highlight specific structures in the sample essay. Each will highlight in a different color. Click again to hide.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic en las casillas a continuación para resaltar estructuras específicas en el ensayo de ejemplo. Cada una resaltará en un color diferente. Haga clic para ocultar.",
             "arabic": "-"
           }
         },
@@ -203,7 +203,7 @@
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para regresar a la página anterior.",
             "arabic": "-"
           }
         }
@@ -215,7 +215,7 @@
       "pageTitle": {
         "english": "Write the Assignment",
         "turkish": "-",
-        "spanish": "-",
+        "spanish": "Escriba la Tarea",
         "arabic": "-"
       },
       "paragraphs":{
@@ -226,7 +226,7 @@
           "text":{
             "english": "Read the writing assignment prompt here.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Lea aquí el indicador de tareas de escritura.",
             "arabic": "-"
           }
         },
@@ -237,7 +237,7 @@
           "text":{
             "english": "Click here to view the Model for this assignment.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ver el Modelo para esta tarea.",
             "arabic": "-"
           }
         },
@@ -248,7 +248,7 @@
           "text":{
             "english": "Read tips about the assignment writing style here.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Lea consejos útiles acerca del estilo de escritura de la tarea aquí.",
             "arabic": "-"
           }
         },
@@ -259,7 +259,7 @@
           "text":{
             "english": "Click here to hide the left navigation.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para ocultar la navegación izquierda.",
             "arabic": "-"
           }
         },
@@ -270,7 +270,7 @@
           "text":{
             "english": "Click here for tips on how to use the Writing Tutor.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para obtener consejos útiles sobre cómo utilizar el Tutor de escritura.",
             "arabic": "-"
           }
         },
@@ -281,7 +281,7 @@
           "text":{
             "english": "Students use the writing framework below to plan, structure, and write the assignment.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Los estudiantes utilizan el marco de trabajo de escritura a continuación para planificar, estructurar y escribir la tarea.",
             "arabic": "-"
           }
         },
@@ -292,7 +292,7 @@
           "text":{
             "english": "Students click here to write the assignment. Click again to hide.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Los estudiantes hacen clic aquí para escribir la tarea. Vuelva a hacer clic para ocultar.",
             "arabic": "-"
           }
         },
@@ -303,7 +303,7 @@
           "text":{
             "english": "Students write the title of the assignment here.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Los estudiantes escriben el título de la tarea aquí.",
             "arabic": "-"
           }
         },
@@ -314,7 +314,7 @@
           "text":{
             "english": "Students write the assignment here.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Los estudiantes escriben la tarea aquí.",
             "arabic": "-"
           }
         },
@@ -325,7 +325,7 @@
           "text":{
             "english": "Students click here to plan the writing and make notes. Click again to hide.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Los estudiantes hacen clic aquí para planificar la escritura y tomar notas. Vuelva a hacer clic para ocultar.",
             "arabic": "-"
           }
         },
@@ -336,7 +336,7 @@
           "text":{
             "english": "Click here to review the structure of the writing. Click again to hide.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para revisar la estructura de la escritura. Vuelva a hacer clic para ocultar.",
             "arabic": "-"
           }
         },
@@ -347,7 +347,7 @@
           "text":{
             "english": "Students click here to preview the writing. Click again to exit preview.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Los estudiantes hacen clic aquí para visualizar previamente la escritura. Vuelva a hacer clic para salir de la vista previa.",
             "arabic": "-"
           }
         },
@@ -358,7 +358,7 @@
           "text":{
             "english": "Click here to highlight all Academic Word List words in the writing.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para resaltar todas las palabras de la Lista de palabras académicas en la escritura.",
             "arabic": "-"
           }
         },
@@ -369,7 +369,7 @@
           "text":{
             "english": "Click here to highlight all Oxford 3000 words in the writing.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para resaltar todas las 3000 palabras Oxford en la escritura.",
             "arabic": "-"
           }
         }

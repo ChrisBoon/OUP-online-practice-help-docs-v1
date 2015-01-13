@@ -173,7 +173,7 @@
         "title": {
           "english": "Teacher Graded Activities",
           "turkish": "-",
-          "spanish": "-",
+          "spanish": "Actividades calificadas por el maestro",
           "arabic": "-"
         },
         "id": "adult-teacher-manualgradedactivity-v1_0_0"
@@ -183,7 +183,7 @@
         "title": {
           "english": "Writing Tutor Reports",
           "turkish": "-",
-          "spanish": "-",
+          "spanish": "Informes del Tutor de escritura",
           "arabic": "-"
         },
         "id": "adult-teacher-writingtutorreport-v1_0_0"
@@ -193,7 +193,7 @@
         "title": {
           "english": "Writing Tutor Teacher Feedback",
           "turkish": "-",
-          "spanish": "-",
+          "spanish": "Comentarios del maestro sobre el Tutor de escritura",
           "arabic": "-"
         },
         "id": "adult-teacher-writingtutorfeedback-v1_0_0"
@@ -223,7 +223,7 @@
         "title": {
           "english": "Writing Tutor",
           "turkish": "-",
-          "spanish": "-",
+          "spanish": "Tutor de escritura",
           "arabic": "-"
         },
         "id": "adult-teacher-writingtutor-v1_0_0"
@@ -344,7 +344,7 @@
         "title": {
           "english": "Writing Tutor",
           "turkish": "-",
-          "spanish": "-",
+          "spanish": "Tutor de escritura",
           "arabic": "-"
         },
         "id": "adult-student-writingtutor-v1_0_0"
@@ -394,7 +394,7 @@
         "title": {
           "english": "Writing Tutor Reports",
           "turkish": "-",
-          "spanish": "-",
+          "spanish": "Informes del Tutor de escritura",
           "arabic": "-"
         },
         "id": "adult-student-writingtutorreport-v1_0_0"
@@ -404,7 +404,7 @@
         "title": {
           "english": "Teacher Feedback",
           "turkish": "-",
-          "spanish": "-",
+          "spanish": "Comentarios del maestro",
           "arabic": "-"
         },
         "id": "adult-student-teacherfeedback-v1_0_0"

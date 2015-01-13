@@ -47,8 +47,8 @@
           "numberPosLeft": 62,
           "text":{
             "english": "Click here to hide or unhide units or tests for your class.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Sınıfınız için üniteleri veya testleri gizlemek ya da göstermek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ocultar o mostrar las unidades o las pruebas para su clase.",
             "arabic": "-"
           }
         },
@@ -58,8 +58,8 @@
           "numberPosLeft": 75,
           "text":{
             "english": "Click here to hide Writing Assignments, if available, for your class.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Sınıfınız için varsa Yazı Ödevlerini gizlemek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ocultar las Tareas de escritura, si están disponibles, para su clase.",
             "arabic": "-"
           }
         },

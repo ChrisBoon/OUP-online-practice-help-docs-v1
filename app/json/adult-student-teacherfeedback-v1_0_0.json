@@ -2,7 +2,7 @@
  "title": {
     "english": "Teacher Feedback for Online Practice Activities",
     "turkish": "-",
-    "spanish": "-",
+    "spanish": "Comentarios del maestro sobre las actividades de práctica en línea",
     "arabic": "-"
   },
  "segment": "adult",
@@ -26,7 +26,7 @@
           "text":{
             "english": "When your teacher has submitted feedback for an Online Practice activity, you will receive email notification. ",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Cuando su maestro ha presentado sus comentarios para una actividad de práctica en línea, usted recibirá una notificación por correo electrónico.",
             "arabic": "-"
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "Follow the link to access your feedback.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Siga el enlace para acceder a sus comentarios.",
             "arabic": "-"
           }
         }
@@ -60,7 +60,7 @@
           "text":{
             "english": "The link will take you to the first activity in the unit. Navigate through the unit activities to locate the feedback.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "El enlace le llevará a la primera actividad en la unidad. Navegue a través de las actividades de la unidad para localizar los comentarios.",
             "arabic": "-"
           }
         }
@@ -83,7 +83,7 @@
           "text":{
             "english": "Teacher Feedback for a submitted activity appears as a pop up window.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Los comentarios del maestro para una actividad presentada aparecen como una ventana emergente.",
             "arabic": "-"
           }
         },
@@ -94,7 +94,7 @@
           "text":{
             "english": "This is your score. Your teacher decides if your first or most recent attempt reports to the gradebook.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Este es su puntaje. Su maestro decide si su primer intento o su intento más reciente se incorporan al cuaderno de calificaciones.",
             "arabic": "-"
           }
         },
@@ -105,7 +105,7 @@
           "text":{
             "english": "Click here to close the feedback window.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para cerrar la ventana de comentarios.",
             "arabic": "-"
           }
         }
@@ -128,7 +128,7 @@
           "text":{
             "english": "You may complete and submit the activity again.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Usted puede volver a completar y presentar la actividad.",
             "arabic": "-"
           }
         },
@@ -139,7 +139,7 @@
           "text":{
             "english": "If you submit again, you must wait for new feedback to attempt the activity again.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Si la vuelve a presentar, deberá esperar los nuevos comentarios antes de intentar realizar la actividad nuevamente.",
             "arabic": "-"
           }
         }

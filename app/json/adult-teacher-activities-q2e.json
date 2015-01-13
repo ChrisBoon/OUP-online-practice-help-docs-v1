@@ -25,8 +25,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bir ünite seçmek için bu menüyü kullanın. Bir ünite seçtiğinizde o ünite içindeki ilk aktiviteyi göreceksiniz.",
+            "spanish": "Use este menú para elegir una unidad. Al hacerlo, el sistema le llevará a la primera actividad en dicha unidad.",
             "arabic": "-"
           }
         },
@@ -36,8 +36,8 @@
           "numberPosLeft": 29,
           "text":{
             "english": "Use this menu to choose an activity within a unit.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bir ünite içinde bir aktivite seçmek için bu menüyü kullanın.",
+            "spanish": "Use este menú para seleccionar una actividad dentro de una unidad.",
             "arabic": "-"
           }
         },

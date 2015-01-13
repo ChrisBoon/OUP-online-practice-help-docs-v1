@@ -1,8 +1,8 @@
 {
  "title": {
     "english": "Teacher Feedback for Online Practice Activities",
-    "turkish": "-",
-    "spanish": "-",
+    "turkish": "Çevrim İçi Uygulama Aktiviteleri için Öğretmenden Geri Bildirim",
+    "spanish": "Comentarios del maestro para las Actividades de práctica en línea",
     "arabic": "-"
   },
  "segment": "adult",
@@ -25,8 +25,8 @@
           "numberPosLeft": 0,
           "text":{
             "english": "Activities that include audio or writing submission must be teacher graded.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Sesli içeriği ya da yazı ödevleri olan aktiviteler öğretmen tarafından puanlanmalıdır.",
+            "spanish": "Las actividades que incluyen presentaciones de audio o escritas deben ser calificadas por el maestro.",
             "arabic": "-"
           }
         },
@@ -36,8 +36,8 @@
           "numberPosLeft": 65,
           "text":{
             "english": "You can view a student’s submission, submit a score, and provide teacher feedback from the Activity Report screen.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Aktivite Raporu ekranından öğrencinin gönderdiği ödevi görebilir, puanlayabilir ve geri bildirim verebilirsiniz.",
+            "spanish": "Se puede ver la presentación de un estudiante, presentar un puntaje y proporcionar comentarios del maestro desde la pantalla de Informe de actividades.",
             "arabic": "-"
           }
         },
@@ -47,8 +47,8 @@
           "numberPosLeft": 49,
           "text":{
             "english": "This is the student’s submitted work for review.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Öğrencinin incelenmek üzere gönderdiği çalışması.",
+            "spanish": "Este es el trabajo presentado por el estudiante para su revisión.",
             "arabic": "-"
           }
         },
@@ -58,8 +58,8 @@
           "numberPosLeft": 84,
           "text":{
             "english": "Click here to score the activity and/or provide feedback. If feedback was previously submitted, click here to view it.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Aktiviteye puan ve/veya geri bildirim vermek için buraya tıklayın. Önceden geri bildirim sağladıysanız görmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para calificar la actividad y/o proporcionar comentarios. Si ya fueron presentados los comentarios previamente, haga clic aquí para visualizarlos.",
             "arabic": "-"
           }
         }
@@ -81,8 +81,8 @@
           "numberPosLeft": 26,
           "text":{
             "english": "Enter your feedback and/or score within the Feedback popup box.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Açılan Geri Bildirim kutusuna geri bildiriminizi ve/veya puanı girin.",
+            "spanish": "Anote sus comentarios y/o puntaje dentro de la casilla emergente de Comentarios.",
             "arabic": "-"
           }
         },
@@ -92,8 +92,8 @@
           "numberPosLeft": 67,
           "text":{
             "english": "Click here to submit your feedback/score. The latest score will report to the gradebook, unless you have turned on “track first attempt” from the Manage Classes screen, which will keep the first score submitted. Unlimited student submissions and teacher feedback can continue to be provided, but the first score will be locked. Once feedback/score is submitted, you will not be able to edit or resubmit feedback until the student has submitted a new attempt. The Submit button will be deactivated until a new student submission is available.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Geri bildiriminizi/puanı göndermek için buraya tıklayın. “Sınıfları Yönet” ekranında verilen ilk puanı saklayan “birinci denemeyi izle” şıkkını seçmediyseniz en son puan not defterine kaydedilecektir. Bir sınırlama olmaksızın öğrenciler ödev göndermeye ve öğretmen geri bildirim vermeye devam edebilir ama ilk puan kilitlenecektir. Geri bildirimi/puanı verdikten sonra öğrenci yeni bir deneme göndermeden geri bildiriminizi değiştiremez ya da yenisini gönderemezsiniz. Öğrenciden yeni bir deneme gelene kadar Gönder düğmesi çalışmayacaktır.",
+            "spanish": "Haga clic aquí para presentar sus comentarios/puntaje. El puntaje más reciente se reportará al cuaderno de calificaciones, a menos que usted haya activado la opción “dar seguimiento al primer intento” desde la pantalla Administrar clases, la cual conservará el primer puntaje presentado. Se puede seguir suministrando presentaciones ilimitadas del estudiante y los comentarios del maestro, pero el primer puntaje quedará congelado. Una vez presentados los comentarios/puntajes, no podrá modificar ni volver a enviar comentarios hasta que el estudiante haya presentado un nuevo intento. El botón Presentar permanecerá desactivado hasta que esté disponible una nueva presentación del estudiante.",
             "arabic": "-"
           }
         }
@@ -115,8 +115,8 @@
           "numberPosLeft": 0,
           "text":{
             "english": "The student is alerted of new teacher feedback by email.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Öğrenciye öğretmenden geri bildirim geldiği e-posta ile haber verilir.",
+            "spanish": "El estudiante recibe avisos por correo electrónico sobre nuevos comentarios del maestro.",
             "arabic": "-"
           }
         }

@@ -26,7 +26,7 @@
           "text":{
             "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "Use este menú para elegir una unidad. Cuando usted elige una unidad, se le llevará a la primera actividad en dicha unidad.",
             "arabic": "ا-"
           }
         },
@@ -37,7 +37,7 @@
           "text":{
             "english": "Use this menu to choose an activity within a unit.",
             "turkish": "-",
-            "spanish": "_",
+            "spanish": "Use este menú para seleccionar una actividad dentro de una unidad.",
             "arabic": "-"
           }
         },
@@ -70,7 +70,7 @@
           "text":{
             "english": "Click here to submit your answers when you have answered all questions in an activity. If you are submitting an audio recording or a written assignment, you cannot resubmit until your teacher provides a grade.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Haga clic aquí para presentar sus respuestas después de haber respondido todas las preguntas en una actividad. Si va a presentar una grabación de audio o una tarea escrita, no podrá volver a presentarla hasta que su maestro le dé una calificación.",
             "arabic": "-"
           }
         },
@@ -81,7 +81,7 @@
           "text":{
             "english": "You can try most activities again if you answer some questions incorrectly. You can try most activities as many times as you like.",
             "turkish": "-",
-            "spanish": "-",
+            "spanish": "Puede volver a intentar la mayoría de actividades si contestó erróneamente algunas preguntas. Puede intentar la mayoría de actividades tantas veces como guste.",
             "arabic": "-"
           }
         },

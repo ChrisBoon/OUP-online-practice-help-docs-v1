@@ -1,8 +1,8 @@
 {
  "title": {
-    "english": "Hide/Assign Content",
-    "turkish": "İçeriği Gizle/Ata",
-    "spanish": "Ocultar/Asignar contenido",
+    "english": "Hide/Assign Writing",
+    "turkish": "Yazı Ödevlerini Gizle/Ata",
+    "spanish": "Ocultar/asignar escritura",
     "arabic": "تحديد المحتوى /إخفاء"
   },
  "segment": "adult",
@@ -24,9 +24,9 @@
           "numberPosTop": 1,
           "numberPosLeft": 11,
           "text":{
-            "english": "You can hide content from your students by checking the boxes on this page.",
-            "turkish": "Bu sayfadaki kutuları işaretleyerek bazı içeriği öğrencilerden gizleyebilirsiniz.",
-            "spanish": "Se puede ocultar el contenido de sus estudiantes, marcando las casillas de esta página.",
+            "english": "You can hide Writing Assignments from your students by checking the boxes on this page.",
+            "turkish": "Bu sayfadaki kutuları işaretleyerek Yazı Ödevlerini öğrencilerinizden gizleyebilirsiniz",
+            "spanish": "Usted puede ocultar Tareas de escritura de sus estudiantes marcando las casillas en esta página.",
             "arabic": "يمكنك إخفاء المحتوى عن الطلاب بواسطة وضع علامات على المربعات في هذه الصفحة."
           }
         },
@@ -46,9 +46,9 @@
           "numberPosTop": 84,
           "numberPosLeft": 11,
           "text":{
-            "english": "Check a box here to hide a whole segment.",
-            "turkish": "Bölümün tamamını gizlemek için bu kutuyu işaretleyin.",
-            "spanish": "Marque una casilla aquí para ocultar un segmento completo.",
+            "english": "Check a box here to hide selected unit Writing Assignment.",
+            "turkish": "Seçilmiş ünitenin Yazı Ödevini gizlemek için buradaki bir kutuyu işaretleyin.",
+            "spanish": "Marque una casilla aquí para ocultar la Tarea de escritura de la unidad seleccionada.",
             "arabic": "ضع علامة في  مربع ما لكي تخفي القسم بأكمله."
           }
         },

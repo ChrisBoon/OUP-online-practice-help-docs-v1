@@ -1,8 +1,8 @@
 {
  "title": {
     "english": "Writing Tutor Progress Report",
-    "turkish": "-",
-    "spanish": "-",
+    "turkish": "Özel Yazı Eğitmeni İlerleme Raporu",
+    "spanish": "Informes de avance del Tutor de escritura",
     "arabic": "-"
   },
  "segment": "adult",
@@ -14,8 +14,8 @@
       "imgId": "ATWTR001.png",
       "pageTitle": {
         "english": "Class Report: All Classes",
-        "turkish": "-",
-        "spanish": "-",
+        "turkish": "Sınıf Raporu: Tüm Sınıflar",
+        "spanish": "Informe de clase: Todas las clases",
         "arabic": "-"
       },
       "paragraphs":{
@@ -25,8 +25,8 @@
           "numberPosLeft": 0,
           "text":{
             "english": "This page shows you information for all of your classes.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sayfada tüm sınıflarınıza ait bilgi gösterilir.",
+            "spanish": "Esta página le muestra información para todas sus clases.",
             "arabic": "-"
           }
         },
@@ -36,8 +36,8 @@
           "numberPosLeft": 97,
           "text":{
             "english": "Select a specific class here. Writing Tutor Reports are only available for Reading and Writing levels.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Buradan belirli bir sınıfı seçin. Özel Yazı Eğitmeni Raporları yalnızca Okuma ve Yazma seviyeleri için mevcuttur.",
+            "spanish": "Seleccione una clase específica aquí. Los informes del Tutor de escritura solo están disponibles para los niveles de Lectura y Escritura.",
             "arabic": "-"
           }
         },
@@ -47,8 +47,8 @@
           "numberPosLeft": 2,
           "text":{
             "english": "This column shows the class name and the assignment names. Click on the class name to see individual student scores.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sütunda sınıf ve ödev adları gösterilir. Bireysel öğrenci puanlarını görmek için sınıf adının üzerine tıklayın.",
+            "spanish": "Esta columna muestra el nombre de la clase y los nombres de las tareas. Haga clic en el nombre de la clase para ver los puntajes individuales de los estudiantes.",
             "arabic": "-"
           }
         },
@@ -58,8 +58,8 @@
           "numberPosLeft": 46,
           "text":{
             "english": "This column shows how many students in the class have submitted the writing assignment.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sütun sınıfta kaç öğrencinin yazı ödevini gönderdiğini gösterir.",
+            "spanish": "Esta columna muestra cuántos estudiantes en la clase han presentado la tarea de escritura.",
             "arabic": "-"
           }
         },
@@ -69,8 +69,8 @@
           "numberPosLeft": 62,
           "text":{
             "english": "This column shows the class average time spent completing the assignment.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sütun ödevi tamamlamak üzere sınıfın harcadığı ortalama zamanı gösterir.",
+            "spanish": "Esta columna muestra el tiempo promedio de la clase dedicado a completar la tarea.",
             "arabic": "-"
           }
         },
@@ -80,8 +80,8 @@
           "numberPosLeft": 82,
           "text":{
             "english": "This column shows the class average score for each writing assignment.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sütun her bir yazı ödevi için sınıfın ortalama puanını gösterir.",
+            "spanish": "Esta columna muestra el puntaje promedio de la clase para cada tarea de escritura.",
             "arabic": "-"
           }
         },
@@ -91,8 +91,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Click here to go back to the previous page.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
+            "spanish": "Haga clic aquí para regresar a la página anterior.",
             "arabic": "-"
           }
         },
@@ -102,8 +102,8 @@
           "numberPosLeft": 71,
           "text":{
             "english": "Click here to export this report to Microsoft Excel.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu raporu Microsoft Excel’e aktarmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel.",
             "arabic": "-"
           }
         },
@@ -113,8 +113,8 @@
           "numberPosLeft": 97,
           "text":{
             "english": "Click here to print this report.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para imprimir este informe.",
             "arabic": "-"
           }
         }
@@ -125,8 +125,8 @@
       "imgId": "ATWTR002.png",
       "pageTitle": {
         "english": "Class Report: One Class",
-        "turkish": "-",
-        "spanish": "-",
+        "turkish": "Sınıf Raporu: Bir Sınıf",
+        "spanish": "Informe de la clase: Una clase",
         "arabic": "-"
       },
       "paragraphs":{
@@ -136,8 +136,8 @@
           "numberPosLeft": 0,
           "text":{
             "english": "This page shows the writing assignment scores for students in the selected class.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sayfa, seçilen sınıftaki öğrencilerin yazı ödevi puanlarını gösterir.",
+            "spanish": "Esta página muestra los puntajes de tareas de escritura de los estudiantes en la clase seleccionada.",
             "arabic": "-"
           }
         },
@@ -147,8 +147,8 @@
           "numberPosLeft": 97,
           "text":{
             "english": "Select a different class here.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Burada başka bir sınıfı seçin.",
+            "spanish": "Seleccione una clase diferente aquí.",
             "arabic": "-"
           }
         },
@@ -158,8 +158,8 @@
           "numberPosLeft": 0,
           "text":{
             "english": "This column shows the students’ names and the assignment names.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sütun, öğrencilerin ve ödevlerin adlarını gösterir.",
+            "spanish": "Esta columna muestra los nombres de los estudiantes y los nombres de las tareas.",
             "arabic": "-"
           }
         },
@@ -169,8 +169,8 @@
           "numberPosLeft": 34,
           "text":{
             "english": "This column shows if the student has submitted the Writing Assignment.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sütun, öğrencinin Yazı Ödevini gönderip göndermediğini gösterir.",
+            "spanish": "Esta columna muestra si el estudiante ha presentado la Tarea de escritura.",
             "arabic": "-"
           }
         },
@@ -180,8 +180,8 @@
           "numberPosLeft": 38,
           "text":{
             "english": "A tick indicates the assignment was submitted.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu işaret, ödevin gönderildiğini gösterir.",
+            "spanish": "Una marca de verificación indica que la tarea ya fue presentada.",
             "arabic": "-"
           }
         },
@@ -191,8 +191,8 @@
           "numberPosLeft": 38,
           "text":{
             "english": "A dash indicates the assignment was not submitted.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu tire, ödevin gönderilmediğini gösterir.",
+            "spanish": "Un guión indica que la tarea no fue presentada.",
             "arabic": "-"
           }
         },
@@ -202,8 +202,8 @@
           "numberPosLeft": 50,
           "text":{
             "english": "This column shows the time the student spent on each writing assignment.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sütun, öğrencinin her bir Yazı Ödevi için harcadığı zamanı gösterir.",
+            "spanish": "Esta columna muestra el tiempo que el estudiante dedicó a cada tarea de escritura.",
             "arabic": "-"
           }
         },
@@ -213,8 +213,8 @@
           "numberPosLeft": 67,
           "text":{
             "english": "This column shows the score the student received for each writing assignment.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sütun, öğrencinin her bir Yazı Ödevinden aldığı puanı gösterir.",
+            "spanish": "Esta tarea muestra el puntaje que el estudiante recibió para cada tarea de escritura.",
             "arabic": "-"
           }
         },
@@ -224,8 +224,8 @@
           "numberPosLeft": 82,
           "text":{
             "english": "This column shows if feedback has been provided.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu sütun, öğrenciye geri bildirim verilip verilmediğini gösterir.",
+            "spanish": "Esta columna muestra si se suministraron comentarios.",
             "arabic": "-"
           }
         },
@@ -235,8 +235,8 @@
           "numberPosLeft": 84,
           "text":{
             "english": "Click here to view the submitted writing. You can provide feedback and score the writing. You can also view feedback and scores you have already given.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Gönderilen yazıyı görmek için buraya tıklayın. Yazıya geri bildirim ve puan verebilirsiniz. Daha önce verdiğiniz geri bildirimi ve puanları da görebilirsiniz.",
+            "spanish": "Haga clic aquí para ver la escritura presentada. Puede proporcionar comentarios y  calificar la escritura. También puede visualizar comentarios y puntajes que usted ya ha proporcionado.",
             "arabic": "-"
           }
         },
@@ -246,8 +246,8 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Click here to go back to the previous page.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
+            "spanish": "Haga clic aquí para regresar a la página anterior.",
             "arabic": "-"
           }
         },
@@ -257,8 +257,8 @@
           "numberPosLeft": 71,
           "text":{
             "english": "Click here to export this report to Microsoft Excel.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu raporu Microsoft Excel’e aktarmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel.",
             "arabic": "-"
           }
         },
@@ -268,8 +268,8 @@
           "numberPosLeft": 96,
           "text":{
             "english": "Click here to print this report.",
-            "turkish": "-",
-            "spanish": "-",
+            "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para imprimir este informe.",
             "arabic": "-"
           }
         }
