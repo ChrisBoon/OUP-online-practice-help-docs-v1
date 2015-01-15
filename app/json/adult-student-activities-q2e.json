@@ -25,7 +25,7 @@
           "numberPosLeft": 0,
           "text":{
             "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
-            "turkish": "-",
+            "turkish": "Bir ünite seçmek için bu menüyü kullanın. Bir üniteyi seçtiğinizde o ünitedeki birinci aktivite açılacaktır.",
             "spanish": "Use este menú para elegir una unidad. Cuando usted elige una unidad, se le llevará a la primera actividad en dicha unidad.",
             "arabic": "ا-"
           }
@@ -36,7 +36,7 @@
           "numberPosLeft": 28,
           "text":{
             "english": "Use this menu to choose an activity within a unit.",
-            "turkish": "-",
+            "turkish": "Bir ünite içinden bir aktivite seçmek için bu menüyü kullanın.",
             "spanish": "Use este menú para seleccionar una actividad dentro de una unidad.",
             "arabic": "-"
           }
@@ -69,7 +69,7 @@
           "numberPosLeft": 51,
           "text":{
             "english": "Click here to submit your answers when you have answered all questions in an activity. If you are submitting an audio recording or a written assignment, you cannot resubmit until your teacher provides a grade.",
-            "turkish": "-",
+            "turkish": "Bir aktivitedeki soruların tamamını cevapladığınızda cevaplarınızı göndermek için buraya tıklayın. Bir ses kaydı veya yazı ödevi gönderiyorsanız, öğretmen  puan verene kadar bir daha gönderemezsiniz.",
             "spanish": "Haga clic aquí para presentar sus respuestas después de haber respondido todas las preguntas en una actividad. Si va a presentar una grabación de audio o una tarea escrita, no podrá volver a presentarla hasta que su maestro le dé una calificación.",
             "arabic": "-"
           }
@@ -80,7 +80,7 @@
           "numberPosLeft": 61,
           "text":{
             "english": "You can try most activities again if you answer some questions incorrectly. You can try most activities as many times as you like.",
-            "turkish": "-",
+            "turkish": "Bazı sorulara yanlış cevap verirseniz aktivitelerin çoğunu tekrar deneyebilirsiniz. Aktivitelerin çoğunu defalarca deneyebilirsiniz.",
             "spanish": "Puede volver a intentar la mayoría de actividades si contestó erróneamente algunas preguntas. Puede intentar la mayoría de actividades tantas veces como guste.",
             "arabic": "-"
           }

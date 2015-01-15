@@ -47,7 +47,7 @@
           "numberPosLeft": 80,
           "text":{
             "english": "Click on the download icon, if available, to download the entire audio track to your device. Not all audio tracks can be downloaded.",
-            "turkish": "-",
+            "turkish": "Mevcutsa ses dosyasının tamamını cihazınıza yüklemek için indirme simgesini tıklayın. Ses dosyalarının hepsi indirilemez.",
             "spanish": "Haga clic en el icono de descarga, si está disponible, para descargar toda la pista de audio a su dispositivo. No todas las pistas de audio pueden ser descargadas.",
             "arabic": "-"
           }

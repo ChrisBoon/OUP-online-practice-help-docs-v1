@@ -172,7 +172,7 @@
         "order":17,
         "title": {
           "english": "Teacher Graded Activities",
-          "turkish": "-",
+          "turkish": "Öğretmen Tarafından Puanlanan Aktiviteler",
           "spanish": "Actividades calificadas por el maestro",
           "arabic": "-"
         },
@@ -182,7 +182,7 @@
         "order":18,
         "title": {
           "english": "Writing Tutor Reports",
-          "turkish": "-",
+          "turkish": "Özel Yazı Eğitmeni Raporları",
           "spanish": "Informes del Tutor de escritura",
           "arabic": "-"
         },
@@ -192,7 +192,7 @@
         "order":19,
         "title": {
           "english": "Writing Tutor Teacher Feedback",
-          "turkish": "-",
+          "turkish": "Özel Yazı Eğitmeni Öğretmen Geri Bildirimi",
           "spanish": "Comentarios del maestro sobre el Tutor de escritura",
           "arabic": "-"
         },
@@ -222,7 +222,7 @@
         "order":22,
         "title": {
           "english": "Writing Tutor",
-          "turkish": "-",
+          "turkish": "Özel Yazı Eğitmeni",
           "spanish": "Tutor de escritura",
           "arabic": "-"
         },
@@ -343,7 +343,7 @@
         "order":5,
         "title": {
           "english": "Writing Tutor",
-          "turkish": "-",
+          "turkish": "Özel Yazı Eğitmeni",
           "spanish": "Tutor de escritura",
           "arabic": "-"
         },
@@ -393,7 +393,7 @@
         "order":10,
         "title": {
           "english": "Writing Tutor Reports",
-          "turkish": "-",
+          "turkish": "Özel Yazı Eğitmeni Raporları",
           "spanish": "Informes del Tutor de escritura",
           "arabic": "-"
         },
@@ -403,7 +403,7 @@
         "order":11,
         "title": {
           "english": "Teacher Feedback",
-          "turkish": "-",
+          "turkish": "Öğretmenin Geri Bildirimi",
           "spanish": "Comentarios del maestro",
           "arabic": "-"
         },

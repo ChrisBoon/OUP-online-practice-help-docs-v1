@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Writing Tutor",
-    "turkish": "-",
+    "turkish": "Özel Yazı Eğitmeni",
     "spanish": "Tutor de escritura",
     "arabic": "-"
   },
@@ -14,7 +14,7 @@
       "imgId": "ATWT001.png",
       "pageTitle": {
         "english": "Choose an Assignment",
-        "turkish": "-",
+        "turkish": "Bir Ödev seç",
         "spanish": "Seleccionar una tarea",
         "arabic": "-"
       },
@@ -25,7 +25,7 @@
           "numberPosLeft": 88,
           "text":{
             "english": "Click here to select a different book. Writing Tutor is only available for Reading & Writing levels.",
-            "turkish": "-",
+            "turkish": "Başka bir kitap seçmek için buraya tıklayın. Özel Yazı Eğitmeni yalnızca Okuma ve Yazma seviyeleri içindir.",
             "spanish": "Haga clic aquí para seleccionar un libro diferente. El Tutor de escritura está disponible únicamente para los niveles de Lectura y Escritura. ",
             "arabic": "-"
           }
@@ -36,7 +36,7 @@
           "numberPosLeft": 3,
           "text":{
             "english": "This column lists the writing assignment names.",
-            "turkish": "-",
+            "turkish": "Bu sütun yazı ödevlerinin adlarını gösterir.",
             "spanish": "Esta columna enumera los nombres de tareas de escritura.",
             "arabic": "-"
           }
@@ -47,7 +47,7 @@
           "numberPosLeft": 44,
           "text":{
             "english": "Click here to View a Model. It demonstrates the structure of the writing and it has a sample writing.",
-            "turkish": "-",
+            "turkish": "Bir Modeli Görmek için buraya tıklayın. Model, yazı türünün yapısını gösterir ve örnek bir yazı içerir.",
             "spanish": "Haga clic aquí para Ver un modelo. Este demuestra la estructura de la escritura e incluye una muestra de escritura.",
             "arabic": "-"
           }
@@ -58,7 +58,7 @@
           "numberPosLeft": 73,
           "text":{
             "english": "Click here to view where students write the assignment. The writing framework helps students organize their writing assignments.",
-            "turkish": "-",
+            "turkish": "Öğrencilerin ödevi nerede yazacaklarını görmek için buraya tıklayın. Yazı çerçevesi, öğrencilerin yazı ödevlerini düzenlemelerine yardım eder.",
             "spanish": "Haga clic aquí para ver dónde los estudiantes escriben la tarea. El marco de trabajo para escritura ayuda a los estudiantes a organizar sus tareas de escritura.",
             "arabic": "-"
           }
@@ -69,7 +69,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Click here to go back to the previous page.",
-            "turkish": "-",
+            "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para regresar a la página anterior.",
             "arabic": "-"
           }
@@ -81,7 +81,7 @@
       "imgId": "ATWT002.jpg",
       "pageTitle": {
         "english": "View a Model",
-        "turkish": "-",
+        "turkish": "Bir Modele Bak",
         "spanish": "Ver un modelo",
         "arabic": "-"
       },
@@ -92,7 +92,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Read the writing assignment prompt here.",
-            "turkish": "-",
+            "turkish": "Yazı ödevi istemini burada okuyun.",
             "spanish": "Lea aquí el indicador de tarea de escritura.",
             "arabic": "-"
           }
@@ -103,7 +103,7 @@
           "numberPosLeft": 93,
           "text":{
             "english": "Click here to view where students write the assignment.",
-            "turkish": "-",
+            "turkish": "Öğrencilerin ödevi nerede yazacaklarını görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver dónde los estudiantes escriben la tarea.",
             "arabic": "-"
           }
@@ -114,7 +114,7 @@
           "numberPosLeft": 90,
           "text":{
             "english": "View the Model here to understand how texts are constructed for the writing assignment.",
-            "turkish": "-",
+            "turkish": "Yazı ödevindeki metinlerin nasıl yapılandığını anlamak için bir Modele burada bakın.",
             "spanish": "Vea el Modelo aquí para entender cómo se construyen los textos para la tarea de escritura.",
             "arabic": "-"
           }
@@ -125,7 +125,7 @@
           "numberPosLeft": 22,
           "text":{
             "english": "Click here to hide the left navigation.",
-            "turkish": "-",
+            "turkish": "Sol gezinmeyi gizlemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ocultar la navegación izquierda.",
             "arabic": "-"
           }
@@ -136,7 +136,7 @@
           "numberPosLeft": 6,
           "text":{
             "english": "Use the boxes below to see how a well-structured writing is organized.",
-            "turkish": "-",
+            "turkish": "İyi yapılandırılmış bir yazının nasıl düzenlendiğini görmek için aşağıdaki kutuları kullanın.",
             "spanish": "Use las casillas a continuación para ver cómo está organizada una escritura bien estructurada.",
             "arabic": "-"
           }
@@ -147,7 +147,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Click here to read about the assignment writing style.",
-            "turkish": "-",
+            "turkish": "Ödevin yazı tarzını okumak için buraya tıklayın.",
             "spanish": "Haga clic aquí para leer acerca del estilo de la tarea de escritura.",
             "arabic": "-"
           }
@@ -158,7 +158,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Click here to see how the writing sample was planned.",
-            "turkish": "-",
+            "turkish": "Yazı örneğinin nasıl planlandığını görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver cómo se planificó la muestra de escritura.",
             "arabic": "-"
           }
@@ -169,7 +169,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Click here to see the sample writing.",
-            "turkish": "-",
+            "turkish": "Yazı örneğini görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver la escritura de ejemplo.",
             "arabic": "-"
           }
@@ -180,7 +180,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Click here to see the entire Model.",
-            "turkish": "-",
+            "turkish": "Modelin tamamını görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Modelo completo.",
             "arabic": "-"
           }
@@ -191,7 +191,7 @@
           "numberPosLeft": 6,
           "text":{
             "english": "Click the boxes below to highlight specific structures in the sample essay. Each will highlight in a different color. Click again to hide.",
-            "turkish": "-",
+            "turkish": "Örnek yazıdaki özel yapılara dikkati çekmek için aşağıdaki kutulara tıklayın. Her biri  değişik bir renk olacaktır. Gizlemek için tekrar tıklayın.",
             "spanish": "Haga clic en las casillas a continuación para resaltar estructuras específicas en el ensayo de ejemplo. Cada una resaltará en un color diferente. Haga clic para ocultar.",
             "arabic": "-"
           }
@@ -202,7 +202,7 @@
           "numberPosLeft": 6,
           "text":{
             "english": "Click here to go back to the previous page.",
-            "turkish": "-",
+            "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para regresar a la página anterior.",
             "arabic": "-"
           }
@@ -214,7 +214,7 @@
       "imgId": "ATWT003.jpg",
       "pageTitle": {
         "english": "Write the Assignment",
-        "turkish": "-",
+        "turkish": "Ödevi Yaz",
         "spanish": "Escriba la Tarea",
         "arabic": "-"
       },
@@ -225,7 +225,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "Read the writing assignment prompt here.",
-            "turkish": "-",
+            "turkish": "Yazı ödevi istemini burada okuyun.",
             "spanish": "Lea aquí el indicador de tareas de escritura.",
             "arabic": "-"
           }
@@ -236,7 +236,7 @@
           "numberPosLeft": 78,
           "text":{
             "english": "Click here to view the Model for this assignment.",
-            "turkish": "-",
+            "turkish": "Bu ödevin Modelini görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Modelo para esta tarea.",
             "arabic": "-"
           }
@@ -247,7 +247,7 @@
           "numberPosLeft": 25,
           "text":{
             "english": "Read tips about the assignment writing style here.",
-            "turkish": "-",
+            "turkish": "Ödevin yazı tarzı hakkındaki ipuçlarını burada okuyun.",
             "spanish": "Lea consejos útiles acerca del estilo de escritura de la tarea aquí.",
             "arabic": "-"
           }
@@ -258,7 +258,7 @@
           "numberPosLeft": 18,
           "text":{
             "english": "Click here to hide the left navigation.",
-            "turkish": "-",
+            "turkish": "Sol gezinmeyi gizlemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ocultar la navegación izquierda.",
             "arabic": "-"
           }
@@ -269,7 +269,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Click here for tips on how to use the Writing Tutor.",
-            "turkish": "-",
+            "turkish": "Özel Yazı Eğitmeninin kullanımı hakkında ipuçları için buraya tıklayın.",
             "spanish": "Haga clic aquí para obtener consejos útiles sobre cómo utilizar el Tutor de escritura.",
             "arabic": "-"
           }
@@ -280,7 +280,7 @@
           "numberPosLeft": 90,
           "text":{
             "english": "Students use the writing framework below to plan, structure, and write the assignment.",
-            "turkish": "-",
+            "turkish": "Öğrenciler ödevi planlamak, yapısını tasarlamak ve yazmak için aşağıdaki yazı çerçevesini kullanırlar.",
             "spanish": "Los estudiantes utilizan el marco de trabajo de escritura a continuación para planificar, estructurar y escribir la tarea.",
             "arabic": "-"
           }
@@ -291,7 +291,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Students click here to write the assignment. Click again to hide.",
-            "turkish": "-",
+            "turkish": "Öğrenciler ödevi yazmak için buraya tıklarlar. Gizlemek için tekrar tıklayın.",
             "spanish": "Los estudiantes hacen clic aquí para escribir la tarea. Vuelva a hacer clic para ocultar.",
             "arabic": "-"
           }
@@ -302,7 +302,7 @@
           "numberPosLeft": 26,
           "text":{
             "english": "Students write the title of the assignment here.",
-            "turkish": "-",
+            "turkish": "Öğrenciler ödevin başlığını burada yazarlar.",
             "spanish": "Los estudiantes escriben el título de la tarea aquí.",
             "arabic": "-"
           }
@@ -313,7 +313,7 @@
           "numberPosLeft": 26,
           "text":{
             "english": "Students write the assignment here.",
-            "turkish": "-",
+            "turkish": "Öğrenciler ödevi burada yazarlar.",
             "spanish": "Los estudiantes escriben la tarea aquí.",
             "arabic": "-"
           }
@@ -324,7 +324,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Students click here to plan the writing and make notes. Click again to hide.",
-            "turkish": "-",
+            "turkish": "Öğrenciler yazıyı planlamak ve not tutmak için buraya tıklarlar. Gizlemek için tekrar tıklayın.",
             "spanish": "Los estudiantes hacen clic aquí para planificar la escritura y tomar notas. Vuelva a hacer clic para ocultar.",
             "arabic": "-"
           }
@@ -335,7 +335,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Click here to review the structure of the writing. Click again to hide.",
-            "turkish": "-",
+            "turkish": "Yazının yapısını incelemek için buraya tıklayın. Gizlemek için tekrar tıklayın.",
             "spanish": "Haga clic aquí para revisar la estructura de la escritura. Vuelva a hacer clic para ocultar.",
             "arabic": "-"
           }
@@ -346,7 +346,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Students click here to preview the writing. Click again to exit preview.",
-            "turkish": "-",
+            "turkish": "Öğrenciler yazının ön görüntüsü için buraya tıklarlar. Ön görüntüden çıkmak için tekrar tıklayın.",
             "spanish": "Los estudiantes hacen clic aquí para visualizar previamente la escritura. Vuelva a hacer clic para salir de la vista previa.",
             "arabic": "-"
           }
@@ -357,7 +357,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Click here to highlight all Academic Word List words in the writing.",
-            "turkish": "-",
+            "turkish": "Yazıdaki Akademik Sözcük Listesi kelimelerinin tamamını vurgulamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para resaltar todas las palabras de la Lista de palabras académicas en la escritura.",
             "arabic": "-"
           }
@@ -368,7 +368,7 @@
           "numberPosLeft": 2,
           "text":{
             "english": "Click here to highlight all Oxford 3000 words in the writing.",
-            "turkish": "-",
+            "turkish": "Yazıdaki Oxford 3000 kelimelerinin tamamını vurgulamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para resaltar todas las 3000 palabras Oxford en la escritura.",
             "arabic": "-"
           }

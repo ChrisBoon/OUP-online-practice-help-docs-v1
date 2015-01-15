@@ -1,7 +1,7 @@
 {
  "title": {
     "english": "Teacher Feedback for Online Practice Activities",
-    "turkish": "-",
+    "turkish": "Çevrim İçi Uygulama Aktiviteleri için Öğretmenin Geri Bildirimi",
     "spanish": "Comentarios del maestro sobre las actividades de práctica en línea",
     "arabic": "-"
   },
@@ -25,7 +25,7 @@
           "numberPosLeft": 1,
           "text":{
             "english": "When your teacher has submitted feedback for an Online Practice activity, you will receive email notification. ",
-            "turkish": "-",
+            "turkish": "Öğretmeniniz bir Çevrim İçi aktivite için geri bildirim yolladığında size e-posta ile haber verilecektir.",
             "spanish": "Cuando su maestro ha presentado sus comentarios para una actividad de práctica en línea, usted recibirá una notificación por correo electrónico.",
             "arabic": "-"
           }
@@ -36,7 +36,7 @@
           "numberPosLeft": 54,
           "text":{
             "english": "Follow the link to access your feedback.",
-            "turkish": "-",
+            "turkish": "Geri bildirime ulaşmak üzere bağlantıyı izleyin.",
             "spanish": "Siga el enlace para acceder a sus comentarios.",
             "arabic": "-"
           }
@@ -59,7 +59,7 @@
           "numberPosLeft": 89,
           "text":{
             "english": "The link will take you to the first activity in the unit. Navigate through the unit activities to locate the feedback.",
-            "turkish": "-",
+            "turkish": "Bağlantı sizi ünitenin birinci aktivitesine götürecektir. Ünite aktiviteleri arasında gezinerek geri bildirimi bulun.",
             "spanish": "El enlace le llevará a la primera actividad en la unidad. Navegue a través de las actividades de la unidad para localizar los comentarios.",
             "arabic": "-"
           }
@@ -82,7 +82,7 @@
           "numberPosLeft": 27,
           "text":{
             "english": "Teacher Feedback for a submitted activity appears as a pop up window.",
-            "turkish": "-",
+            "turkish": "Gönderilmiş bir aktivite için Öğretmenin Geri Bildirimi açılan bir pencerede görünür.",
             "spanish": "Los comentarios del maestro para una actividad presentada aparecen como una ventana emergente.",
             "arabic": "-"
           }
@@ -93,7 +93,7 @@
           "numberPosLeft": 40,
           "text":{
             "english": "This is your score. Your teacher decides if your first or most recent attempt reports to the gradebook.",
-            "turkish": "-",
+            "turkish": "Aldığınız puan. Öğretmeniniz not defterine birinci ya da en son denemenizden hangisinin notunun gireceğine karar verir.",
             "spanish": "Este es su puntaje. Su maestro decide si su primer intento o su intento más reciente se incorporan al cuaderno de calificaciones.",
             "arabic": "-"
           }
@@ -104,7 +104,7 @@
           "numberPosLeft": 70,
           "text":{
             "english": "Click here to close the feedback window.",
-            "turkish": "-",
+            "turkish": "Geri bildirim penceresini kapamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para cerrar la ventana de comentarios.",
             "arabic": "-"
           }
@@ -127,7 +127,7 @@
           "numberPosLeft": 94,
           "text":{
             "english": "You may complete and submit the activity again.",
-            "turkish": "-",
+            "turkish": "Bu aktiviteyi tekrar tamamlayıp gönderebilirsiniz.",
             "spanish": "Usted puede volver a completar y presentar la actividad.",
             "arabic": "-"
           }
@@ -138,7 +138,7 @@
           "numberPosLeft": 94,
           "text":{
             "english": "If you submit again, you must wait for new feedback to attempt the activity again.",
-            "turkish": "-",
+            "turkish": "Tekrar gönderirseniz, aktiviteyi bir daha denemeden önce yeni geri bildirim gelmesini beklemelisiniz.",
             "spanish": "Si la vuelve a presentar, deberá esperar los nuevos comentarios antes de intentar realizar la actividad nuevamente.",
             "arabic": "-"
           }
