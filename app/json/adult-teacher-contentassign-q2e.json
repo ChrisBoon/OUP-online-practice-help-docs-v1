@@ -3,7 +3,7 @@
     "english": "Hide/Assign Writing",
     "turkish": "Yazı Ödevlerini Gizle/Ata",
     "spanish": "Ocultar/asignar escritura",
-    "arabic": "تحديد المحتوى /إخفاء"
+    "arabic": "إخفاء/ تكليف الكتابة"
   },
  "segment": "adult",
  "userType": ["teacher"],
@@ -27,7 +27,7 @@
             "english": "You can hide Writing Assignments from your students by checking the boxes on this page.",
             "turkish": "Bu sayfadaki kutuları işaretleyerek Yazı Ödevlerini öğrencilerinizden gizleyebilirsiniz",
             "spanish": "Usted puede ocultar Tareas de escritura de sus estudiantes marcando las casillas en esta página.",
-            "arabic": "يمكنك إخفاء المحتوى عن الطلاب بواسطة وضع علامات على المربعات في هذه الصفحة."
+            "arabic": "يمكنك أن تخفي واجبات الكتابة عن طلابك بواسطة وضع علامة في المربعات على هذه الصفحة."
           }
         },
         "paragraph02": {
@@ -49,7 +49,7 @@
             "english": "Check a box here to hide selected unit Writing Assignment.",
             "turkish": "Seçilmiş ünitenin Yazı Ödevini gizlemek için buradaki bir kutuyu işaretleyin.",
             "spanish": "Marque una casilla aquí para ocultar la Tarea de escritura de la unidad seleccionada.",
-            "arabic": "ضع علامة في  مربع ما لكي تخفي القسم بأكمله."
+            "arabic": "ضع علامة في المربع هنا لكي تخفي واجبات الكتابة لوحدة محددة."
           }
         },
         "paragraph04": {
@@ -81,9 +81,9 @@
       "imgId": "ATCA-q2e-002.png",
       "pageTitle": {
         "english": "Hide/Assign Writing",
-        "turkish": "-",
-        "spanish": "-",
-        "arabic": "-"
+        "turkish": "Yazı Ödevlerini Gizle/Ata",
+        "spanish": "Ocultar/asignar escritura",
+        "arabic": "إخفاء/ تكليف الكتابة"
       },
       "paragraphs":{
         "paragraph01": {
@@ -92,9 +92,9 @@
           "numberPosLeft": 11,
           "text":{
             "english": "You can hide Writing Assignments from your students by checking the boxes on this page.",
-            "turkish": "-",
-            "spanish": "-",
-            "arabic": "-"
+            "turkish": "Bu sayfadaki kutuları işaretleyerek Yazı Ödevlerini öğrencilerinizden gizleyebilirsiniz.",
+            "spanish": "Usted puede ocultar Tareas de escritura de sus estudiantes marcando las casillas en esta página.",
+            "arabic": "يمكنك أن تخفي واجبات الكتابة عن طلابك بواسطة وضع علامة في المربعات على هذه الصفحة."
           }
         },
         "paragraph02": {
@@ -114,9 +114,9 @@
           "numberPosLeft": 18,
           "text":{
             "english": "Check a box here to hide selected unit Writing Assignment.",
-            "turkish": "-",
-            "spanish": "-",
-            "arabic": "-"
+            "turkish": "Seçilmiş ünitenin Yazı Ödevini gizlemek için buradaki bir kutuyu işaretleyin.",
+            "spanish": "Marque una casilla aquí para ocultar la Tarea de escritura de la unidad seleccionada.",
+            "arabic": "ضع علامة في المربع هنا لكي تخفي واجبات الكتابة لوحدة محددة."
           }
         },
         "paragraph04": {

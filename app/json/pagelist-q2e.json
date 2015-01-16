@@ -174,7 +174,7 @@
           "english": "Teacher Graded Activities",
           "turkish": "Öğretmen Tarafından Puanlanan Aktiviteler",
           "spanish": "Actividades calificadas por el maestro",
-          "arabic": "-"
+          "arabic": "النشاطات التي منحها المدرس درجة"
         },
         "id": "adult-teacher-manualgradedactivity-v1_0_0"
       },
@@ -184,7 +184,7 @@
           "english": "Writing Tutor Reports",
           "turkish": "Özel Yazı Eğitmeni Raporları",
           "spanish": "Informes del Tutor de escritura",
-          "arabic": "-"
+          "arabic": " تقارير مدرس الكتابة الخصوصي"
         },
         "id": "adult-teacher-writingtutorreport-v1_0_0"
       },
@@ -194,7 +194,7 @@
           "english": "Writing Tutor Teacher Feedback",
           "turkish": "Özel Yazı Eğitmeni Öğretmen Geri Bildirimi",
           "spanish": "Comentarios del maestro sobre el Tutor de escritura",
-          "arabic": "-"
+          "arabic": "ملاحظات المدرس إلى معلم الكتابة الخصوصي"
         },
         "id": "adult-teacher-writingtutorfeedback-v1_0_0"
       },
@@ -224,7 +224,7 @@
           "english": "Writing Tutor",
           "turkish": "Özel Yazı Eğitmeni",
           "spanish": "Tutor de escritura",
-          "arabic": "-"
+          "arabic": "معلم الكتابة الخصوصي"
         },
         "id": "adult-teacher-writingtutor-v1_0_0"
       },
@@ -345,7 +345,7 @@
           "english": "Writing Tutor",
           "turkish": "Özel Yazı Eğitmeni",
           "spanish": "Tutor de escritura",
-          "arabic": "-"
+          "arabic": "معلم الكتابة الخصوصي"
         },
         "id": "adult-student-writingtutor-v1_0_0"
       },
@@ -395,7 +395,7 @@
           "english": "Writing Tutor Reports",
           "turkish": "Özel Yazı Eğitmeni Raporları",
           "spanish": "Informes del Tutor de escritura",
-          "arabic": "-"
+          "arabic": "تقارير معلم الكتابة الخصوصي"
         },
         "id": "adult-student-writingtutorreport-v1_0_0"
       },
@@ -405,7 +405,7 @@
           "english": "Teacher Feedback",
           "turkish": "Öğretmenin Geri Bildirimi",
           "spanish": "Comentarios del maestro",
-          "arabic": "-"
+          "arabic": "ملاحظات المدرس"
         },
         "id": "adult-student-teacherfeedback-v1_0_0"
       },

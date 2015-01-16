@@ -3,7 +3,7 @@
     "english": "Teacher Feedback for Writing Tutor",
     "turkish": "Özel Yazı Eğitmeni için Öğretmenin Geri Bildirimi",
     "spanish": "Comentarios del maestro para el Tutor de escritura",
-    "arabic": "-"
+    "arabic": "ملاحظات المدرس إلى معلم الكتابة الخصوصي"
   },
  "segment": "adult",
  "userType": ["teacher"],
@@ -27,7 +27,7 @@
             "english": "All Writing Assignments will need to be manually reviewed and graded. The gradebook will only record the original score. Unlimited student submissions and text feedback can continue to be provided, but the first score will be locked.",
             "turkish": "Tüm Yazı Ödevlerinin elden incelenmesi ve puanlanması gerekir. Not defterinde sadece orijinal puan kaydedilecektir. Bir sınırlama olmaksızın öğrenciler ödev göndermeye ve öğretmen geri bildirim vermeye devam edebilir ama ilk puan kilitlenecektir.",
             "spanish": "Todas las Tareas de escritura deberán ser manualmente revisadas y calificadas. El cuaderno de calificaciones solo registrará el puntaje original. Se puede seguir suministrando las presentaciones ilimitadas del estudiante y los comentarios del texto, pero el primer puntaje quedará congelado. ",
-            "arabic": "-"
+            "arabic": "ستحتاج جميع واجبات الكتابة الى المراجعة اليدوية وتقييمها بالدرجات. سجل التقديرات سوف يسجل فقط الدرجات الاصلية. الواجبات غير المحدودة التي يقدمها الطالب وملاحظات النص يمكن أن تستمر في التدفق، ولكن الدرجات الاولى ستكون مغلقة."
           }
         },
         "paragraph02": {
@@ -38,7 +38,7 @@
             "english": "This is the Writing Assignment prompt.",
             "turkish": "Yazı Ödevi istemi.",
             "spanish": "Este es el indicador de Tarea de escritura.",
-            "arabic": "-"
+            "arabic": "هذا هو حث الطالب لتقديم واجب الكتابة."
           }
         },
         "paragraph03": {
@@ -49,7 +49,7 @@
             "english": "This is the student’s submitted writing for review.",
             "turkish": "Öğrencinin incelenmek üzere gönderdiği yazısı.",
             "spanish": "Esta es la escritura presentada por el estudiante para su revisión.",
-            "arabic": "-"
+            "arabic": "هذه هي كتابة الطالب التي قُدمت لغرض المراجعة."
           }
         },
         "paragraph04": {
@@ -60,7 +60,7 @@
             "english": "Click here to provide feedback for the assignment.",
             "turkish": "Ödeve geri bildirim sağlamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para proporcionar comentarios para la tarea.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تزود الملاحظات المتعلقة بالواجب."
           }
         },
         "paragraph05": {
@@ -71,7 +71,7 @@
             "english": "Click here to score the assignment. A grading rubric will appear in a pop up window.",
             "turkish": "Ödeve puan vermek için buraya tıklayın. Açılan bir pencerede puanlama kuralları görünecektir.",
             "spanish": "Haga clic aquí para calificar la tarea. Una rúbrica de calificación aparecerá en una ventana emergente.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تعطي درجات على الواجب. ستظهر  زاوية الدرجات في نافذة منبثقة."
           }
         },
         "paragraph06": {
@@ -82,7 +82,7 @@
             "english": "If you have previously submitted feedback, you can view it here.",
             "turkish": "Önceden geri bildirim sağladıysanız onu burada görebilirsiniz.",
             "spanish": "Si anteriormente ha presentado comentarios, podrá verlos aquí.",
-            "arabic": "-"
+            "arabic": "إذا كنت سبق لك تقديم ملاحظة، يمكنك أن تراجعها هنا."
           }
         },
         "paragraph07": {
@@ -93,7 +93,7 @@
             "english": "Click here to Submit Feedback. The student is alerted of new teacher feedback by email.",
             "turkish": "Geri Bildirim vermek için buraya tıklayın. Öğrenciye öğretmenden geri bildirim geldiği e-posta ile haber verilir.",
             "spanish": "Haga clic aquí para Presentar comentarios. El estudiante recibe avisos por correo electrónico sobre nuevos comentarios del maestro.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تقدّم الملاحظة. إخطار الطالب سيكون من خلال ملاحظات المدرس الجديدة عن طريق البريد الالكتروني."
           }
         },
         "paragraph08": {
@@ -104,7 +104,7 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel’e aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تصدر هذا التقرير الى Microsoft Excel مايكروسوفت إكسل"
           }
         },
         "paragraph09": {
@@ -115,7 +115,7 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تطبع هذا التقرير."
           }
         }
       }
@@ -127,7 +127,7 @@
         "english": "Scoring the Writing Assignment",
         "turkish": "Yazı Ödevinin Puanlanması",
         "spanish": "Calificación de la Tarea de escritura.",
-        "arabic": "-"
+        "arabic": "تسجيل درجة واجب الكتابة"
       },
       "paragraphs":{
         "paragraph01": {
@@ -138,7 +138,7 @@
             "english": "Each writing Assignment contains a rubric with unit-specific criteria to grade against.",
             "turkish": "Her bir Yazı Ödevinde puanlama için üniteye özel kriterleri içeren kurallar bulunur.",
             "spanish": "Cada Tarea de escritura contiene una rúbrica con un criterio específico de la unidad contra el cual se debe calificar.",
-            "arabic": "-"
+            "arabic": "يحتوي كل واجب كتابة على مقياس تقييم عام \"روبريك\" مع معيار معين لوضع الدرجات إزائه."
           }
         },
         "paragraph02": {
@@ -149,7 +149,7 @@
             "english": "Select a score for each criterion.",
             "turkish": "Her bir kriter için bir puan seçin.",
             "spanish": "Seleccione un puntaje para cada criterio.",
-            "arabic": "-"
+            "arabic": "حدد درجة لكل معيار."
           }
         },
         "paragraph03": {
@@ -160,7 +160,7 @@
             "english": "Click here to close the rubric window and record the score.",
             "turkish": "Kurallar penceresini kapatıp puanı kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cerrar la ventana de la rúbrica y registrar el puntaje.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تغلق نافذة مقياس التقييم العام وسجّل الدرجات."
           }
         }
       }

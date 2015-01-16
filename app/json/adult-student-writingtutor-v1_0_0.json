@@ -3,7 +3,7 @@
     "english": "Writing Tutor",
     "turkish": "Özel Yazı Eğitmeni",
     "spanish": "Tutor de Escritura",
-    "arabic": "-"
+    "arabic": "معلم الكتابة الخصوصي"
   },
  "segment": "adult",
  "userType": ["student"],
@@ -16,7 +16,7 @@
         "english": "Choose an Assignment",
         "turkish": "Bir Ödev seç",
         "spanish": "Seleccionar una tarea",
-        "arabic": "-"
+        "arabic": "قم باختيار واجب"
       },
       "paragraphs":{
         "paragraph01": {
@@ -27,7 +27,7 @@
             "english": "Click here to select a different book. Writing Tutor is only available for Reading & Writing levels.",
             "turkish": "Başka bir kitap seçmek için buraya tıklayın. Özel Yazı Eğitmeni yalnızca Okuma ve Yazma seviyeleri içindir.",
             "spanish": "Haga clic aquí para seleccionar un libro diferente. El Tutor de escritura está disponible únicamente para los niveles de Lectura y Escritura.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تختار كتاب مختلف. معلم الكتابة الخصوصي متوفر لمستويات القراءة والكتابة."
           }
         },
         "paragraph02": {
@@ -38,7 +38,7 @@
             "english": "This column lists the writing assignment names.",
             "turkish": "Bu sütun yazı ödevlerinin adlarını gösterir.",
             "spanish": "Esta columna enumera los nombres de tareas de escritura.",
-            "arabic": "-"
+            "arabic": "يدرج هذا العمود أسماء واجبات الكتابة."
           }
         },
         "paragraph03": {
@@ -49,7 +49,7 @@
             "english": "Click here to View a Model. It demonstrates the structure of the writing and it has a sample writing.",
             "turkish": "Bir Modeli Görmek için buraya tıklayın. Model, yazı türünün yapısını gösterir ve örnek bir yazı içerir.",
             "spanish": "Haga clic aquí para Ver un modelo. Este demuestra la estructura de la escritura e incluye una muestra de escritura.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي ترى نموذج يوضح لك تركيب الكتابة ويحتوي على عينة من الكتابة."
           }
         },
         "paragraph04": {
@@ -60,7 +60,7 @@
             "english": "Click here to Write Your Essay. The writing framework helps you organize your writing assignments.",
             "turkish": "Yazınızı yazmak için buraya tıklayın. Yazı çerçevesi yazı ödevlerinizi düzenlemenize yardım eder.",
             "spanish": "Haga clic aquí para Escribir su ensayo. El marco de trabajo para escritura le ayuda a organizar sus tareas de escritura.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لتكتب مقالتك. يساعدك هيكل الكتابة على تنظيم واجباتك الكتابية."
           }
         },
         "paragraph05": {
@@ -71,7 +71,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para regresar a la página anterior.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي ترجع الى الصفحة السابقة."
           }
         },
         "paragraph06": {
@@ -94,7 +94,7 @@
         "english": "View a Model",
         "turkish": "Bir Modele Bak",
         "spanish": "Ver un modelo",
-        "arabic": "-"
+        "arabic": "شاهد النموذج"
       },
       "paragraphs":{
         "paragraph01": {
@@ -105,7 +105,7 @@
             "english": "Read the writing assignment prompt here.",
             "turkish": "Yazı ödevi istemini burada okuyun.",
             "spanish": "Lea aquí el indicador de tarea de escritura.",
-            "arabic": "-"
+            "arabic": "اقرأ الحث على واجبات الكتابة هنا."
           }
         },
         "paragraph02": {
@@ -116,7 +116,7 @@
             "english": "Click here to begin writing the assignment.",
             "turkish": "Yazı ödevini yazmaya başlamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para comenzar a escribir la tarea.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي ترى أين يكتب الطلاب الواجب."
           }
         },
         "paragraph03": {
@@ -127,7 +127,7 @@
             "english": "Read tips about the assignment writing style here.",
             "turkish": "Ödevin yazı tarzına ilişkin ipuçlarını burada okuyun.",
             "spanish": "Lea aquí los consejos útiles acerca del estilo de escritura de la tarea.",
-            "arabic": "-"
+            "arabic": "راجع النموذج هنا لكي تستوعب كيف يتم بناء نصوص تخص واجب الكتابة."
           }
         },
         "paragraph04": {
@@ -138,7 +138,7 @@
             "english": "View the Model here to understand how texts are constructed for the writing assignment.",
             "turkish": "Yazı ödevindeki metinlerin nasıl yapılandığını anlamak için bir Modele burada bakın.",
             "spanish": "Vea el Modelo aquí para entender cómo se construyen los textos para la tarea de escritura.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تخفي التنقل الأيسر."
           }
         },
         "paragraph05": {
@@ -149,7 +149,7 @@
             "english": "Click here to hide the left navigation.",
             "turkish": "Sol gezinmeyi gizlemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ocultar la navegación izquierda.",
-            "arabic": "-"
+            "arabic": "إستعمل المربعات أدناه لكي ترى كيفية تنظيم التركيب الجيد للكتابة."
           }
         },
         "paragraph06": {
@@ -160,7 +160,7 @@
             "english": "Use the boxes below to see how a well-structured writing is organized.",
             "turkish": "İyi yapılandırılmış bir yazının nasıl düzenlendiğini görmek için aşağıdaki kutuları kullanın.",
             "spanish": "Use las casillas a continuación para ver cómo está organizada una escritura bien estructurada.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تقرأ عن أسلوب واجب الكتابة."
           }
         },
         "paragraph07": {
@@ -171,7 +171,7 @@
             "english": "Click here to read about the assignment writing style.",
             "turkish": "Ödevin yazı tarzını okumak için buraya tıklayın.",
             "spanish": "Haga clic aquí para leer acerca del estilo de la tarea de escritura.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي ترى كيف تم تخطيط نموذج الكتابة."
           }
         },
         "paragraph08": {
@@ -182,7 +182,7 @@
             "english": "Click here to see how the writing sample was planned.",
             "turkish": "Yazı örneğinin nasıl planlandığını görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver cómo se planificó la muestra de escritura.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لترى نموذج الكتابة."
           }
         },
         "paragraph09": {
@@ -193,7 +193,7 @@
             "english": "Click here to see the sample writing.",
             "turkish": "Yazı örneğini görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver la escritura de ejemplo.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لترى نموذج الكتابة."
           }
         },
         "paragraph10": {
@@ -204,7 +204,7 @@
             "english": "Click here to see the entire Model.",
             "turkish": "Modelin tamamını görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Modelo completo.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لترى النموذج بأكمله."
           }
         },
         "paragraph11": {
@@ -215,7 +215,7 @@
             "english": "Click the boxes below to highlight specific structures in the sample essay. Each will highlight in a different color. Click again to hide.",
             "turkish": "Örnek yazıdaki özel yapılara dikkati çekmek için aşağıdaki kutulara tıklayın. Her biri  değişik bir renk olacaktır. Gizlemek için tekrar tıklayın. ",
             "spanish": "Haga clic en las casillas a continuación para resaltar estructuras específicas en el ensayo de ejemplo. Cada una resaltará en un color diferente. Haga clic para ocultar.",
-            "arabic": "-"
+            "arabic": "أنقر على المربعات أدناه لكي تسلط الضوء على تراكيب خاصة في نموذج المقالة. كل واحد يسلط الضوء باستعمال لون مختلف. أنقر مرة أخرى للاخفاء."
           }
         },
         "paragraph12": {
@@ -226,7 +226,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para regresar a la página anterior.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي ترجع الى الصفحة السابقة."
           }
         }
       }
@@ -238,7 +238,7 @@
         "english": "Write The Assignment",
         "turkish": "Ödevi Yaz",
         "spanish": "Escriba la tarea ",
-        "arabic": "-"
+        "arabic": "كتب الواجب"
       },
       "paragraphs":{
         "paragraph01": {
@@ -249,7 +249,7 @@
             "english": "Read the writing assignment prompt here.",
             "turkish": "Yazı ödevi istemini burada okuyun.",
             "spanish": "Lea aquí el indicador de tarea de escritura.",
-            "arabic": "-"
+            "arabic": "إقرأ الحث على واجب الكتابة هنا."
           }
         },
         "paragraph02": {
@@ -260,7 +260,7 @@
             "english": "Click here to view the Model for this assignment.",
             "turkish": "Bu ödevin Modelini görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Modelo para esta tarea.",
-            "arabic": "-"
+            "arabic": "أنقرهنا لمراجعة النموذج المتعلق بهذا الواجب."
           }
         },
         "paragraph03": {
@@ -271,7 +271,7 @@
             "english": "Read tips about the assignment writing style here.",
             "turkish": "Ödevin yazı tarzı hakkındaki ipuçlarını burada okuyun.",
             "spanish": "Lea consejos útiles acerca del estilo de escritura de la tarea aquí.",
-            "arabic": "-"
+            "arabic": "إقرأ المعلومات المتعلقة بنمط واجبات الكتابة هنا."
           }
         },
         "paragraph04": {
@@ -282,7 +282,7 @@
             "english": "Click here to hide the left navigation.",
             "turkish": "Sol gezinmeyi gizlemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ocultar la navegación izquierda.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تخفي التنقل الأيسر."
           }
         },
         "paragraph05": {
@@ -293,7 +293,7 @@
             "english": "Click here for tips on how to use the Writing Tutor.",
             "turkish": "Özel Yazı Eğitmeninin kullanımı hakkında ipuçları için buraya tıklayın.",
             "spanish": "Haga clic aquí para obtener consejos útiles sobre cómo utilizar el Tutor de escritura.",
-            "arabic": "-"
+            "arabic": "أنقر هنا للمعلومات المتعلقة بكيفية إستخدام  معلم الكتابة الخصوصي."
           }
         },
         "paragraph06": {
@@ -304,7 +304,7 @@
             "english": "Use the writing framework below to plan, structure, and write the assignment.",
             "turkish": "Aşağıdaki yazı çerçevesini yazı ödevinizi planlamak, yapısını tasarlamak ve yazmak için kullanın.",
             "spanish": "Use el marco de trabajo de escritura a continuación para planificar, estructurar y escribir la tarea.",
-            "arabic": "-"
+            "arabic": "إستعمل هيكل الكتابة أدناه  لغرض التخطيط للواجب وهيكله، واكتبه."
           }
         },
         "paragraph07": {
@@ -315,7 +315,7 @@
             "english": "Click here to write the assignment. Click again to hide.",
             "turkish": "Yazıyı yazmak için buraya tıklayın. Gizlemek için tekrar tıklayın.",
             "spanish": "Haga clic aquí para escribir la tarea. Vuelva a hacer clic para ocultar.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لتكتب الواجب. أنقر مرة أخرى لإخفائه."
           }
         },
         "paragraph08": {
@@ -326,7 +326,7 @@
             "english": "Write the title of your assignment here.",
             "turkish": "Ödevinizin başlığını buraya yazın.",
             "spanish": "Escriba el título de su tarea aquí.",
-            "arabic": "-"
+            "arabic": "أكتب عنوان واجبك هنا."
           }
         },
         "paragraph09": {
@@ -337,7 +337,7 @@
             "english": "Write the assignment here.",
             "turkish": "Ödevinizi burada yazın.",
             "spanish": "Escriba la tarea aquí.",
-            "arabic": "-"
+            "arabic": "كتب الواجب هنا."
           }
         },
         "paragraph10": {
@@ -348,7 +348,7 @@
             "english": "Click here to plan the writing and make notes. Click again to hide.",
             "turkish": "Yazıyı planlamak ve not tutmak için buraya tıklayın. Gizlemek için tekrar tıklayın.",
             "spanish": "Haga clic aquí para planificar la escritura y tomar notas. Vuelva a hacer clic para ocultar.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لوضع خطة للكتابة وتدوين الملاحظات. أنقر مرة أخرى للإخفاء."
           }
         },
         "paragraph11": {
@@ -359,7 +359,7 @@
             "english": "Click here to review the structure of the writing. Click again to hide.",
             "turkish": "Yazının yapısını incelemek için buraya tıklayın. Gizlemek için tekrar tıklayın.",
             "spanish": "Haga clic aquí para revisar la estructura de la escritura. Vuelva a hacer clic para ocultar.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لمعاينة تركيب الكتابة. أنقر مرة أخرى للاخفاء."
           }
         },
         "paragraph12": {
@@ -370,7 +370,7 @@
             "english": "Click here to preview the writing. Click again to exit preview.",
             "turkish": "Yazının ön görüntüsü için buraya tıklayın. Ön görüntüden çıkmak için tekrar tıklayın.",
             "spanish": "Haga clic aquí para visualizar previamente la escritura. Vuelva a hacer clic para salir de la vista previa.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لمعاينة الكتابة مسبقاً. أنقر مرة أخرى للخروج من المعاينة المسبقة."
           }
         },
         "paragraph13": {
@@ -381,7 +381,7 @@
             "english": "Click here to highlight all Academic Word List words in the writing.",
             "turkish": "Yazıdaki Akademik Sözcük Listesi kelimelerinin tamamını vurgulamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para resaltar todas las palabras de la Lista de palabras académicas en la escritura.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لتسليط الضوء على جميع كلمات الكتابة الواردة في قائمة كلمات أكاديمية Academic Word List."
           }
         },
         "paragraph14": {
@@ -392,7 +392,7 @@
             "english": "Click here to highlight all Oxford 3000 words in the writing.",
             "turkish": "Yazıdaki Oxford 3000 kelimelerinin tamamını vurgulamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para resaltar todas las 3000 palabras Oxford en la escritura.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لتسليط الضوء على جميع 3000 كلمات أوكسفورد Oxford في الكتابة."
           }
         },
         "paragraph15": {
@@ -403,7 +403,7 @@
             "english": "Click here to save your assignment in the Writing Tutor.",
             "turkish": "Ödevinizi Özel Yazı Eğitmeninde kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar su tarea en el Tutor de escritura.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لحفظ واجباتك في معلم الكتابة الخصوصي."
           }
         },
         "paragraph16": {
@@ -414,7 +414,7 @@
             "english": "Click here to save your assignment in the Writing Tutor and to your computer.",
             "turkish": "Ödevinizi Özel Yazı Eğitmeninde ve kendi bilgisayarınızda kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar su tarea en el Tutor de escritura y en su computadora.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لحفظ واجبك فيما يخص في معلم الكتابة الخصوصي وتحفظها في حاسوبك."
           }
         },
         "paragraph17": {
@@ -425,7 +425,7 @@
             "english": "Click here to print your assignment.",
             "turkish": "Ödevinizi yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir su tarea.",
-            "arabic": "-"
+            "arabic": "أنقر لطباعة واجبك."
           }
         },
         "paragraph18": {
@@ -436,7 +436,7 @@
             "english": "Click here to save your assignment in the Writing Tutor and send it to your teacher. No changes can be made to your assignment after you submit it.",
             "turkish": "Ödevinizi Özel Yazı Eğitmeninde kaydetmek ve öğretmeninize göndermek için buraya tıklayın. Gönderdikten sonra ödevinizde değişiklik yapamazsınız.",
             "spanish": "Haga clic aquí para guardar su tarea en el Tutor de escritura y enviarla a su maestro. No se pueden realizar cambios a su tarea después de presentarla.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لحفظ واجبك في معلم الكتابة الخصوصي وأرسلها إلى مدرسك. لا يمكن إجراء تغييرات في واجبك بعد أن تقدمها."
           }
         },
         "paragraph19": {
@@ -447,7 +447,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para regresar a la página anterior.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي ترجع الى الصفحة السابقة."
           }
         }
       }

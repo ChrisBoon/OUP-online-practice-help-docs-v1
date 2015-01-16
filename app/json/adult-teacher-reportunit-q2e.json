@@ -159,7 +159,7 @@
             "english": "The ✓ symbol means that the activity does not have a score. Some activities are non-scored, like games or activities solely for student practice. Other activities need to be graded by the teacher, like activities with audio or writing submissions. Once a grade is submitted, the numeric score will replace the ✓ symbol.",
             "turkish": "✓ sembolü, aktivitenin puanı olmadığını gösterir. Oyunlar ya da sadece alıştırma amacıyla yapılan aktiviteler puanlanmaz. Sesli aktiviteler ya da yazı ödevleri gibi diğer aktivitelerin öğretmen tarafından puanlanması gerekir. Öğretmen not verdikten sonra puan, ✓ sembolünün yerine geçecektir",
             "spanish": "El símbolo ✓ significa que la actividad no tiene un puntaje. Algunas actividades no son evaluadas, como los juegos o actividades exclusivamente para prácticas del estudiante. Otras actividades deben ser calificadas por el maestro, como las actividades con audio o las presentaciones escritas. Una vez que se haya presentado una calificación, el puntaje numérico reemplazará el símbolo ✓.",
-            "arabic": "-"
+            "arabic": "تعني هذه العلامة ✓ بان النشاط لا توجد عليه درجات. بعض النشاطات لا يوجد عليها درجات، مثل اللعب أو نشاطات منفردة لممارسة الطالب. النشاطات الأخرى بحاجة الى وضع درجات عليها من قبل المدرس، مثل نشاطات مع الصوت أو تسليم نشاطات الكتابة. ستحل الدرجات الرقمية محل العلامة ✓."
           }
         },
           "paragraph14": {
@@ -170,7 +170,7 @@
             "english": "Click here to view this student’s work for this activity and, where applicable, to submit a score and feedback.",
             "turkish": "Bu öğrencinin bu aktivitedeki çalışmasını görmek ve uygunsa, puan ve geri bildirim göndermek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el trabajo de este estudiante para esta actividad y donde sea aplicable, para presentar un puntaje y comentarios.",
-            "arabic": "-"
+            "arabic": "أنقر هنا لكي تشاهد عمل هذا الطالب لهذا النشاط و، عند الاقتضاء،  لكي تقدم درجات وملاحظات."
           }
         },
         "paragraph15": {

@@ -38,7 +38,7 @@
             "english": "This row shows the scores for each activity in a unit. The score is shown out of the total number of possible points in an activity. A tick mark indicates a completed but non-scored activity.",
             "turkish": "Bu satır, bir ünitenin her bir aktivitesi için puanları gösterir. Puan, o aktivite için mümkün toplam puan ile birlikte gösterilir. Bu sembol tamamlanmış fakat puan almamış bir aktiviteyi gösterir.",
             "spanish": "Esta fila muestra los puntajes para cada actividad en una unidad. El puntaje se muestra en función del número total de puntos posibles en una actividad. Una marca de verificación indica una actividad terminada pero aún no calificada.",
-            "arabic": "-"
+            "arabic": "يبين لك هذا السطر درجات لكل نشاط في الوحدة. الدرجة المعروضة هي من إجمالي النقاط المحتملة في النشاط. العلامة المميزة تشير الى نشاط كامل لكنه بدون درجات."
           }
         },
         "paragraph03": {
@@ -104,7 +104,7 @@
             "english": "The ✓ symbol means that the activity does not have a score. Some activities are non-scored, like games. Other activities need to be graded by the teacher, like activities with audio or writing submissions. When the teacher grades those activities, the numeric score will replace the ✓ symbol.",
             "turkish": "✓ sembolü, aktivite için puan olmadığını gösterir. Oyunlar gibi bazı aktivitelere puan verilmez. Ses veya yazı ödevleri gibi diğer aktivitelere öğretmen tarafından puan verilir. Öğretmen bu aktivitelere puan verdiğinde puan ✓ sembolün yerini alacaktır.",
             "spanish": "El símbolo ✓ significa que la actividad no tiene un puntaje. Algunas actividades no reciben puntaje, como los juegos. Otras actividades deben ser calificadas por el maestro, como las actividades con audio o las presentaciones escritas. Cuando el maestro califica esas actividades, el puntaje numérico reemplazará el símbolo ✓.",
-            "arabic": "-"
+            "arabic": "الرمز ✓ يعني بأن النشاط ليس له درجات. بعض النشاطات، مثل الألعاب، لا تقيّم بالدرجات ولكن نشاطات أخرى بحاجة الى إعطائها درجات من قبل المدرس، مثل نشاطات مع صوت أو تقديم الكتابات. عندما يعطي المدرس درجات لهذه النشاطات، فان النتيجة الرقمية ستحل محل الرمز ✓."
           }
         }
       }
