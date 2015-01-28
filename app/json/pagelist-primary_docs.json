@@ -1,0 +1,814 @@
+{
+  "01_teacher": {
+    "order": 1,
+    "userType": {
+      "english": "Teacher",
+      "turkish": "Öğretmen",
+      "spanish": "Profesor",
+      "spanish_la": "Profesor",
+      "portuguese": "Professor",
+      "japanese": "-",
+      "arabic": "المعلم"
+    },
+    "docsList":{
+      "item01":{
+        "order":1,
+        "title": {
+          "english": "Registration",
+          "turkish": "Kayıt",
+          "spanish": "Registro",
+          "spanish_la": "Registro",
+          "portuguese": "Cadastro",
+          "japanese": "-",
+          "arabic": "التسجيل"
+        },
+        "id": "primary-teacher-registration-v1_0_0"
+      },
+      "item02":{
+        "order":2,
+        "title": {
+          "english": "Home",
+          "turkish": "Anasayfa",
+          "spanish": "Inicio",
+          "spanish_la": "Inicio",
+          "portuguese": "Início",
+          "japanese": "-",
+          "arabic": "الصفحة الرئيسية"
+        },
+        "id": "primary-teacher-home-v1_0_0"
+      },
+      "item03":{
+        "order":3,
+        "title": {
+          "english": "Manage Classes",
+          "turkish": "Sınıfları Yönet",
+          "spanish": "Administrar Clases",
+          "spanish_la": "Administrar Clases",
+          "portuguese": "Gerenciar turmas",
+          "japanese": "-",
+          "arabic": "إدارة الفصول"
+        },
+        "id": "primary-teacher-manageclasses-v1_0_0"
+      },
+      "item04":{
+        "order":4,
+        "title": {
+          "english": "Class Details",
+          "turkish": "Sınıf Bilgileri ",
+          "spanish": "Detalles de la Clase",
+          "spanish_la": "Detalles de la Clase",
+          "portuguese": "Dados da turma",
+          "japanese": "-",
+          "arabic": "تفاصيل الفصل"
+        },
+        "id": "primary-teacher-classdetails-v1_0_0"
+      },
+      "item05":{
+        "order":5,
+        "title": {
+          "english": "Edit Class Name",
+          "turkish": "Sınıf Adını Değiştir",
+          "spanish": "Editar Nombre de la Clase",
+          "spanish_la": "Editar Nombre de la Clase",
+          "portuguese": "Editar o nome da turma",
+          "japanese": "-",
+          "arabic": "تحرير اسم الفصل"
+        },
+        "id": "primary-teacher-classeditname-v1_0_0"
+      },
+      "item06":{
+        "order":6,
+        "title": {
+          "english": "Join an Institution",
+          "turkish": "Bir Kuruma Katıl",
+          "spanish": "Unirse a una Institución",
+          "spanish_la": "Unirse a una Institución",
+          "portuguese": "Associe-se a uma instituição",
+          "japanese": "-",
+          "arabic": "الانضمام إلى مؤسسة"
+        },
+        "id": "primary-teacher-joininstitution-v1_0_0"
+      },
+      "item07":{
+        "order":7,
+        "title": {
+          "english": "Hide Units and Lessons",
+          "turkish": "Üniteleri ve Dersleri Gizle",
+          "spanish": "Ocultar Unidades y Lecciones",
+          "spanish_la": "Ocultar Unidades y Lecciones",
+          "portuguese": "Ocultar unidades e lições",
+          "japanese": "-",
+          "arabic": "إخفاء الوحدات والدروس"
+        },
+        "id": "primary-teacher-contentassign-v1_0_0"
+      },
+      "item08":{
+        "order":8,
+        "title": {
+          "english": "Add a New Class",
+          "turkish": "Yeni Sınıf Ekle",
+          "spanish": "Añadir una Nueva Clase",
+          "spanish_la": "Añadir una Nueva Clase",
+          "portuguese": "Adicione uma nova turma",
+          "japanese": "-",
+          "arabic": "إضافة فصل جديد"
+        },
+        "id": "primary-teacher-addclass-v1_0_0"
+      },
+      "item09":{
+        "order":9,
+        "title": {
+          "english": "Class Summary Report",
+          "turkish": "Sınıf Özet Raporu",
+          "spanish": "Informe de Resumen de la Clase",
+          "spanish_la": "Informe de Resumen de la Clase",
+          "portuguese": "Relatório resumido da turma",
+          "japanese": "-",
+          "arabic": "تقرير موجز الفصل"
+        },
+        "id": "primary-teacher-reportclasssummary-v1_0_0"
+      },
+      "item10":{
+        "order":10,
+        "title": {
+          "english": "Class Report",
+          "turkish": "Sınıf Raporu",
+          "spanish": "Informe de la Clase",
+          "spanish_la": "Informe de la Clase",
+          "portuguese": "Relatório de turma",
+          "japanese": "-",
+          "arabic": "التقرير الخاص بالفصل"
+        },
+        "id": "primary-teacher-reportclass-v1_0_0"
+      },
+      "item11":{
+        "order":11,
+        "title": {
+          "english": "Student Report",
+          "turkish": "Öğrenci Raporu",
+          "spanish": "Informe del Estudiante",
+          "spanish_la": "Informe del Estudiante",
+          "portuguese": "Relatório do aluno",
+          "japanese": "-",
+          "arabic": "تقرير عن الطالب"
+        },
+        "id": "primary-teacher-reportstudent-v1_0_0"
+      },
+      "item12":{
+        "order":12,
+        "title": {
+          "english": "Achievements",
+          "turkish": "Başarılar",
+          "spanish": "Logros",
+          "spanish_la": "Logros",
+          "portuguese": "Progressos",
+          "japanese": "-",
+          "arabic": "التحصيل"
+        },
+        "id": "primary-teacher-dashboard-v1_0_0"
+      },
+      "item13":{
+        "order":13,
+        "title": {
+          "english": "Unit Report",
+          "turkish": "Ünite Raporu",
+          "spanish": "Informe de la Unidad",
+          "spanish_la": "Informe de la Unidad",
+          "portuguese": "Relatório de unidade",
+          "japanese": "-",
+          "arabic": "تقرير الوحدة"
+        },
+        "id": "primary-teacher-reportunit-v1_0_0"
+      },
+      "item14":{
+        "order":14,
+        "title": {
+          "english": "Lesson Report",
+          "turkish": "Ders Raporu",
+          "spanish": "Informe de la Lección",
+          "spanish_la": "Informe de la Lección",
+          "portuguese": "Relatório da lição",
+          "japanese": "-",
+          "arabic": "تقرير عن الدرس"
+        },
+        "id": "primary-teacher-reportlesson-v1_0_0"
+      },
+      "item15":{
+        "order":15,
+        "title": {
+          "english": "Student Activity Report",
+          "turkish": "Öğrenci Aktivite Raporu",
+          "spanish": "Informe de Actividades del Estudiante",
+          "spanish_la": "Informe de Actividades del Estudiante",
+          "portuguese": "Relatório da atividade do aluno",
+          "japanese": "-",
+          "arabic": "تقرير نشاط الطالب"
+        },
+        "id": "primary-teacher-reportstudentactivity-v1_0_0"
+      },
+      "item16":{
+        "order":16,
+        "title": {
+          "english": "Enter Online Practice",
+          "turkish": "Online Uygulamaya Gir",
+          "spanish": "Ingresar a Práctica Online",
+          "spanish_la": "Ingresar a Práctica Online",
+          "portuguese": "Acessar o Online Practice",
+          "japanese": "-",
+          "arabic": "إدخال الممارسة على الإنترنت"
+        },
+        "id": "primary-teacher-enteronlinepractice-v1_0_0"
+      },
+      "item17":{
+        "order":17,
+        "title": {
+          "english": "Activities",
+          "turkish": "Aktiviteler",
+          "spanish": "Actividades",
+          "spanish_la": "Actividades",
+          "portuguese": "Atividades",
+          "japanese": "-",
+          "arabic": "أنشطة"
+        },
+        "id": "primary-teacher-activities-v1_0_0"
+      },
+      "item18":{
+        "order":18,
+        "title": {
+          "english": "Glossary",
+          "turkish": "Sözlük",
+          "spanish": "Glosario",
+          "spanish_la": "Glosario",
+          "portuguese": "Glossário",
+          "japanese": "-",
+          "arabic": "المسرد"
+        },
+        "id": "primary-teacher-glossary-v1_0_0"
+      },
+      "item19":{
+        "order":19,
+        "title": {
+          "english": "Resources",
+          "turkish": "Kaynaklar",
+          "spanish": "Recursos",
+          "spanish_la": "Recursos",
+          "portuguese": "Recursos",
+          "japanese": "-",
+          "arabic": "الموارد"
+        },
+        "id": "primary-teacher-resources-v1_0_0"
+      },
+      "item20":{
+        "order":20,
+        "title": {
+          "english": "Media Centre",
+          "turkish": "Medya Merkezi",
+          "spanish": "Centro de Medios",
+          "spanish_la": "Centro de Medios",
+          "portuguese": "Centro de mídia",
+          "japanese": "-",
+          "arabic": "مركز الوسائط"
+        },
+        "id": "primary-teacher-media-v1_0_0"
+      },
+      "item21":{
+        "order":21,
+        "title": {
+          "english": "Add a Level",
+          "turkish": "Seviye Ekle",
+          "spanish": "Añadir un Nivel",
+          "spanish_la": "Añadir un Nivel",
+          "portuguese": "Adicionar um nível",
+          "japanese": "-",
+          "arabic": "إضافة مستوى"
+        },
+        "id": "primary-teacher-addlevel-v1_0_0"
+      },
+      "item22":{
+        "order":22,
+        "title": {
+          "english": "Email",
+          "turkish": "E-posta",
+          "spanish": "Correo electrónico",
+          "spanish_la": "Correo electrónico",
+          "portuguese": "E-mail",
+          "japanese": "-",
+          "arabic": "البريد الإلكتروني"
+        },
+        "id": "primary-teacher-email-v1_0_0"
+      },
+      "item23":{
+        "order":23,
+        "title": {
+          "english": "Forum",
+          "turkish": "Forum",
+          "spanish": "Foro",
+          "spanish_la": "Foro",
+          "portuguese": "Fórum",
+          "japanese": "-",
+          "arabic": "المنتدى"
+        },
+        "id": "primary-teacher-forum-v1_0_0"
+      },
+      "item24":{
+        "order":24,
+        "title": {
+          "english": "Edit Profile",
+          "turkish": "Profili Düzenle",
+          "spanish": "Editar Perfil",
+          "spanish_la": "Editar Perfil",
+          "portuguese": "Editar perfil",
+          "japanese": "-",
+          "arabic": "تحرير الملف الشخصي"
+        },
+        "id": "primary-teacher-editprofile-v1_0_0"
+      }
+    }
+  },
+  "02_student": {
+    "order": 2,
+    "userType": {
+        "english": "Student",
+        "turkish": "Öğrenci",
+        "spanish": "Estudiante",
+        "spanish_la": "Estudiante",
+        "portuguese": "Aluno",
+        "japanese": "-",
+        "arabic": "الطالب"
+      },
+    "docsList":{
+      "item01":{
+        "order":1,
+        "title": {
+          "english": "Registration",
+          "turkish": "Kayıt",
+          "spanish": "Registro",
+          "spanish_la": "Registro",
+          "portuguese": "Cadastro",
+          "japanese": "-",
+          "arabic": "التسجيل"
+        },
+        "id": "primary-student-registration-v1_0_0"
+      },
+      "item02":{
+        "order":2,
+        "title": {
+          "english": "Home",
+          "turkish": "Anasayfa",
+          "spanish": "Inicio",
+          "spanish_la": "Inicio",
+          "portuguese": "Início",
+          "japanese": "-",
+          "arabic": "الصفحة الرئيسية"
+        },
+        "id": "primary-student-home-v1_0_0"
+      },
+      "item03":{
+        "order":3,
+        "title": {
+          "english": "Add a Level",
+          "turkish": "Seviye Ekle",
+          "spanish": "Añadir un Nivel",
+          "spanish_la": "Añadir un Nivel",
+          "portuguese": "Adicionar um nível",
+          "japanese": "-",
+          "arabic": "إضافة مستوى"
+        },
+        "id": "primary-student-addlevel-v1_0_0"
+      },
+      "item04":{
+        "order":4,
+        "title": {
+          "english": "Activities",
+          "turkish": "Aktiviteler",
+          "spanish": "Actividades",
+          "spanish_la": "Actividades",
+          "portuguese": "Atividades",
+          "japanese": "-",
+          "arabic": "أنشطة"
+        },
+        "id": "primary-student-activities-v1_0_0"
+      },
+      "item05":{
+        "order":5,
+        "title": {
+          "english": "Glossary",
+          "turkish": "Sözlük",
+          "spanish": "Glosario",
+          "spanish_la": "Glosario",
+          "portuguese": "Glossário",
+          "japanese": "-",
+          "arabic": "المسرد"
+        },
+        "id": "primary-student-glossary-v1_0_0"
+      },
+      "item06":{
+        "order":6,
+        "title": {
+          "english": "Resources",
+          "turkish": "Kaynaklar",
+          "spanish": "Recursos",
+          "spanish_la": "Recursos",
+          "portuguese": "Recursos",
+          "japanese": "-",
+          "arabic": "الموارد"
+        },
+        "id": "primary-student-resources-v1_0_0"
+      },
+      "item07":{
+        "order":7,
+        "title": {
+          "english": "Achievements",
+          "turkish": "Başarılar",
+          "spanish": "Logros",
+          "spanish_la": "Logros",
+          "portuguese": "Progressos",
+          "japanese": "-",
+          "arabic": "التحصيل"
+        },
+        "id": "primary-student-dashboard-v1_0_0"
+      },
+      "item08":{
+        "order":8,
+        "title": {
+          "english": "Report",
+          "turkish": "Rapor",
+          "spanish": "Informe",
+          "spanish_la": "Informe",
+          "portuguese": "Relatório",
+          "japanese": "-",
+          "arabic": "التقرير"
+        },
+        "id": "primary-student-reportprogress-v1_0_0"
+      },
+      "item09":{
+        "order":9,
+        "title": {
+          "english": "Unit Report",
+          "turkish": "Ünite Raporu",
+          "spanish": "Informe de la Unidad",
+          "spanish_la": "Informe de la Unidad",
+          "portuguese": "Relatório de unidade",
+          "japanese": "-",
+          "arabic": "تقرير الوحدة"
+        },
+        "id": "primary-student-reportunit-v1_0_0"
+      },
+      "item10":{
+        "order":10,
+        "title": {
+          "english": "Email",
+          "turkish": "E-posta",
+          "spanish": "Correo electrónico",
+          "spanish_la": "Correo electrónico",
+          "portuguese": "E-mail",
+          "japanese": "-",
+          "arabic": "البريد الإلكتروني"
+        },
+        "id": "primary-student-email-v1_0_0"
+      },
+      "item11":{
+        "order":11,
+        "title": {
+          "english": "Forum",
+          "turkish": "Forum",
+          "spanish": "Foro",
+          "spanish_la": "Foro",
+          "portuguese": "Fórum",
+          "japanese": "-",
+          "arabic": "المنتدى"
+        },
+        "id": "primary-student-forum-v1_0_0"
+      },
+      "item12":{
+        "order":12,
+        "title": {
+          "english": "Media Centre",
+          "turkish": "Medya Merkezi",
+          "spanish": "Centro de Medios",
+          "spanish_la": "Centro de Medios",
+          "portuguese": "Centro de mídia",
+          "japanese": "-",
+          "arabic": "مركز الوسائط"
+        },
+        "id": "primary-student-media-v1_0_0"
+      },
+      "item13":{
+        "order":13,
+        "title": {
+          "english": "Join a Class",
+          "turkish": "Bir Sınıfa Katıl",
+          "spanish": "Inscribirse a una Clase",
+          "spanish_la": "Inscribirse a una Clase",
+          "portuguese": "Participe de uma turma",
+          "japanese": "-",
+          "arabic": "الانضمام إلى فصل"
+        },
+        "id": "primary-student-classjoin-v1_0_0"
+      },
+      "item14":{
+        "order":14,
+        "title": {
+          "english": "Change Class",
+          "turkish": "Sınıf Değiştir",
+          "spanish": "Cambio de Clase",
+          "spanish_la": "Cambio de Clase",
+          "portuguese": "Alterar turma",
+          "japanese": "-",
+          "arabic": "تغيير الفصل"
+        },
+        "id": "primary-student-classchange-v1_0_0"
+      },
+      "item15":{
+        "order":15,
+        "title": {
+          "english": "Edit Profile",
+          "turkish": "Profili Düzenle",
+          "spanish": "Editar Perfil",
+          "spanish_la": "Editar Perfil",
+          "portuguese": "Editar perfil",
+          "japanese": "-",
+          "arabic": "تحرير الملف الشخصي"
+        },
+        "id": "primary-student-editprofile-v1_0_0"
+      }
+    }
+  },
+  "03_admin": {
+    "order": 3,
+    "userType": {
+        "english": "Administrator",
+        "turkish": "Yönetici",
+        "spanish": "Administrador",
+        "spanish_la": "Administrador",
+        "portuguese": "Administrador",
+        "japanese": "-",
+        "arabic": "مراقب النظام"
+      },
+    "docsList":{
+      "item01":{
+        "order":1,
+        "title": {
+          "english": "Registration",
+          "turkish": "Kayıt",
+          "spanish": "Registro",
+          "spanish_la": "Registro",
+          "portuguese": "Cadastro",
+          "japanese": "-",
+          "arabic": "التسجيل"
+        },
+        "id": "primary-admin-registration-v1_0_0"
+      },
+      "item02":{
+        "order":2,
+        "title": {
+          "english": "Home",
+          "turkish": "Anasayfa",
+          "spanish": "Inicio",
+          "spanish_la": "Inicio",
+          "portuguese": "Início",
+          "japanese": "-",
+          "arabic": "الصفحة الرئيسية"
+        },
+        "id": "primary-admin-home-v1_0_0"
+      },
+      "item03":{
+        "order":3,
+        "title": {
+          "english": "Edit Profile",
+          "turkish": "Profili Düzenle",
+          "spanish": "Editar Perfil",
+          "spanish_la": "Editar Perfil",
+          "portuguese": "Editar perfil",
+          "japanese": "-",
+          "arabic": "تحرير الملف الشخصي"
+        },
+        "id": "primary-admin-editprofile-v1_0_0"
+      }
+    }
+  },
+  "04_secondary": {
+    "order": 4,
+    "userType": {
+        "english": "Secondary Specific",
+        "turkish": "Secondary Specific",
+        "spanish": "Secondary Specific",
+        "spanish_la": "Secondary Specific",
+        "portuguese": "Secondary Specific",
+        "japanese": "-",
+        "arabic": "Secondary Specific"
+      },
+    "docsList":{
+      "item01":{
+        "order":1,
+        "title": {
+          "english": "(Student) Activities",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-activities-sec"
+      },
+      "item02":{
+        "order":2,
+        "title": {
+          "english": "(Student) Add level",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-addlevel-sec"
+      },
+      "item03":{
+        "order":3,
+        "title": {
+          "english": "(Student) Media Center",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-media-sec"
+      },
+      "item04":{
+        "order":4,
+        "title": {
+          "english": "(Student) Registration",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-registration-sec"
+      },
+      "item05":{
+        "order":5,
+        "title": {
+          "english": "(Student) Progress Report",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-reportprogress-sec"
+      },
+      "item06":{
+        "order":6,
+        "title": {
+          "english": "(Student) Unit Report",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-reportunit-sec"
+      },
+      "item07":{
+        "order":7,
+        "title": {
+          "english": "(Teacher) Activities",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-activities-sec"
+      },
+      "item08":{
+        "order":8,
+        "title": {
+          "english": "(Teacher) Enter Online Practice",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-enteronlinepractice-sec"
+      },
+      "item09":{
+        "order":9,
+        "title": {
+          "english": "(Teacher) Media Center",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-media-sec"
+      },
+      "item10":{
+        "order":10,
+        "title": {
+          "english": "(Teacher) Registration",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-registration-sec"
+      },
+      "item11":{
+        "order":11,
+        "title": {
+          "english": "(Teacher) Student Report",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-reportstudent-sec"
+      }
+    }
+  },
+  "05_t2t": {
+    "order": 5,
+    "userType": {
+        "english": "Teen 2 Teen specific",
+        "turkish": "Teen 2 Teen specific",
+        "spanish": "Teen 2 Teen specific",
+        "spanish_la": "Teen 2 Teen specific",
+        "portuguese": "Teen 2 Teen specific",
+        "japanese": "-",
+        "arabic": "Teen 2 Teen specific"
+      },
+    "docsList":{
+      "item01":{
+        "order":1,
+        "title": {
+          "english": "(Student) Home",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-home-t2t"
+      },
+      "item02":{
+        "order":2,
+        "title": {
+          "english": "(Teacher) Enter Online Practice",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-teacher-enteronlinepractice-t2t"
+      }
+    }
+  },  
+  "06_eng": {
+    "order": 6,
+    "userType": {
+        "english": "Engage specific",
+        "turkish": "Engage specific",
+        "spanish": "Engage specific",
+        "spanish_la": "Engage specific",
+        "portuguese": "Engage specific",
+        "japanese": "-",
+        "arabic": "Engage specific"
+      },
+    "docsList":{
+      "item01":{
+        "order":1,
+        "title": {
+          "english": "(Student) Home",
+          "turkish": "-",
+          "spanish": "-",
+          "spanish_la": "-",
+          "portuguese": "-",
+          "japanese": "-",
+          "arabic": "-"
+        },
+        "id": "primary-student-home-eng"
+      }
+    }
+  }
+}
