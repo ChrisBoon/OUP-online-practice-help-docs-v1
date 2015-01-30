@@ -5,6 +5,7 @@
     "spanish": "Recursos",
     "spanish_la": "Recursos",
     "portuguese": "Recursos",
+    "japanese": "ソース",
     "arabic": "الموارد"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Esta es el área de Recursos para Profesores. Cuando esté disponible, esta área proporcionará material de apoyo para usted y sus estudiantes al utilizar Práctica Online. Los recursos que se muestran para los profesores pueden ser diferentes de los que se muestran a los estudiantes.",
             "spanish_la": "Esta es el área de Recursos para Profesores. Cuando esté disponible, esta área proporcionará material de apoyo para usted y sus estudiantes al utilizar Práctica Online. Los recursos que se muestran para los profesores pueden ser diferentes de los que se muestran a los estudiantes.",
             "portuguese": "Esta é a área de recursos do professor. Quando disponível, esta área fornecerá o material de apoio necessário para que você e seus alunos utilizem o Online Practice. Os recursos disponíveis para os professores podem ser diferentes dos disponibilizados para os alunos.",
+            "japanese": "この画面は、ティーチャーリソースのエリアを表示しています。Online Practiceをお使いになっている先生と生徒のためのサポート用の教材がある場合は、このエリアで表示されます。先生用に表示されているリソースは、生徒用のものと異なることがあります。",
             "arabic": "هذه هي منطقة موارد المعلم وعندما تكون متاحة، تقدم هذه المنطقة موادًا داعمةً لك ولطلابك عند استخدام الممارسة عبر شبكة الإنترنت. وقد تكون الموارد المعروضة الخاصة بالمعلمين مختلفة عن تلك الخاصة بالطلاب."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Haga clic en el título o icono para abrir un recurso. Los archivos PDF y los documentos se abrirán en una nueva pestaña o se descargarán a su ordenador o dispositivo en función de la configuración de su navegador.",
             "spanish_la": "Haga click en el título o icono para abrir un recurso. Los archivos PDF y los documentos se abrirán en una nueva pestaña o se descargarán a su ordenador o dispositivo en función de la configuración de su navegador.",
             "portuguese": "Clique em um título ou ícone para abrir um recurso. Arquivos PDF e documentos serão abertos em uma nova aba ou serão baixados em o seu computador ou dispositivo, dependendo das configurações do seu navegador.",
+            "japanese": "リソースを表示するには、タイトルまたはアイコンをクリックしてください。PDFファイルと文書は新しいタブで表示されるか、またはブラウザの設定によってはコンピュータにダウンロードされます。",
             "arabic": "اانقر على عنوان أو أيقونة ما لفتح أحد الموارد. وسوف يتم فتح ملفات PDF والوثائق في علامة تبويب جديدة أو تنزيلها على الحاسب أو الجهاز الخاص بك حسب إعدادات المتصفح الخاص بك."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Haga clic en el título de una pista de audio para reproducir el archivo en su navegador. Utilice los controles para reproducir, pausar y ajustar el volumen.",
             "spanish_la": "Haga click en el título de una pista de audio para reproducir el archivo en su navegador. Utilice los controles para reproducir, pausar y ajustar el volumen.",
             "portuguese": "Clique no título de uma faixa de áudio para reproduzir o arquivo no navegador. Use os controles para reproduzir, pausar e ajustar o volume.",
+            "japanese": "ブラウザでファイルを再生するには、音声トラックのタイトルをクリックします。再生、一時停止、音量調節にはコントロール機能を使用してください。",
             "arabic": "اانقر على عنوان المسار الصوتي لتشغيل الملف داخل المتصفح الخاص بك. استخدم مفاتيح التحكم لتشغيل مستوى جهارة الصوت وإيقافه وضبطه."
           }
         }

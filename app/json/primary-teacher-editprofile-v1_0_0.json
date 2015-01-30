@@ -5,6 +5,7 @@
     "spanish": "Editar Perfil",
     "spanish_la": "Editar perfil",
     "portuguese": "Editar perfil",
+    "japanese": "プロフィールの編集",
     "arabic": "تحرير الملف الشخصي"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Haga clic aquí para cambiar su nombre.",
             "spanish_la": "Haga click aquí para cambiar su nombre.",
             "portuguese": "Clique aqui para alterar o seu primeiro nome.",
+            "japanese": "名前（名）の変更は、こちらをクリックします。",
             "arabic": "انقر هنا لتغيير اسمك الأول."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Haga clic aquí para cambiar su apellido.",
             "spanish_la": "Haga click aquí para cambiar su apellido.",
             "portuguese": "Clique aqui para alterar seu sobrenome.",
+            "japanese": "名前（姓）の変更は、こちらをクリックします。",
             "arabic": "انقر هنا لتغيير اسمك الأخير (اسم العائلة)."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Haga clic aquí para cambiar su dirección de correo electrónico.",
             "spanish_la": "Haga click aquí para cambiar su dirección de correo electrónico.",
             "portuguese": "Clique aqui para alterar o seu endereço de e-mail.",
+            "japanese": "メールアドレスの変更は、こちらをクリックします。",
             "arabic": "انقر هنا لتغيير عنوان بريدك الإلكتروني."
           }
         },
@@ -72,6 +77,7 @@
             "spanish": "Haga clic aquí para confirmar su nueva dirección de correo electrónico.",
             "spanish_la": "Haga click aquí para confirmar su nueva dirección de correo electrónico.",
             "portuguese": "Clique aqui para confirmar o seu novo endereço de e-mail.",
+            "japanese": "メールアドレスの確認は、こちらをクリックします。",
             "arabic": "اانقر هنا لتأكيد عنوان بريدك الإلكتروني الجديد."
           }
         },
@@ -85,6 +91,7 @@
             "spanish": "Haga clic aquí para cambiar su contraseña.",
             "spanish_la": "Haga click aquí para cambiar su contraseña.",
             "portuguese": "Clique aqui para alterar a sua senha.",
+            "japanese": "パスワードの変更は、こちらをクリックします。",
             "arabic": "انقر هنا لتغيير كلمة المرور الخاصة بك."
           }
         },
@@ -98,6 +105,7 @@
             "spanish": "Haga clic aquí para confirmar su nueva contraseña.",
             "spanish_la": "Haga click aquí para confirmar su nueva contraseña.",
             "portuguese": "Clique aqui para confirmar a sua nova senha.",
+            "japanese": "新しいパスワードの確認は、こちらをクリックします。",
             "arabic": "انقر هنا لتأكيد كلمة المرور الجديدة الخاصة بك."
           }
         },
@@ -111,6 +119,7 @@
             "spanish": "Haga clic aquí para guardar los cambios.",
             "spanish_la": "Haga click aquí para guardar los cambios.",
             "portuguese": "Clique aqui para salvar as alterações.",
+            "japanese": "変更内容の保存は、こちらをクリックします。",
             "arabic": "اانقر هنا لحفظ كلمة المرور الخاصة بك."
           }
         },
@@ -124,6 +133,7 @@
             "spanish": "Haga clic aquí para cancelar sin guardar los cambios.",
             "spanish_la": "Haga click aquí para cancelar sin guardar los cambios.",
             "portuguese": "Clique aqui para cancelar sem salvar as alterações.",
+            "japanese": "変更内容を保存せずにキャンセルするには、こちらをクリックします。",
             "arabic": "انقر هنا للإلغاء بدون حفظ أي تغييرات."
           }
         }

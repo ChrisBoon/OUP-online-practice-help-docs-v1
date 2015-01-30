@@ -5,6 +5,7 @@
     "spanish": "Actividades",
     "spanish_la": "Actividades",
     "portuguese": "Atividades",
+    "japanese": "アクティビティ",
     "arabic": "أنشطة"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Utilice este menú para seleccionar una unidad y lección. Cuando elija una unidad y lección, será dirigido a la primera actividad dentro de la lección.",
             "spanish_la": "Utilice este menú para seleccionar una unidad y lección. Cuando elija una unidad y lección, será dirigido a la primera actividad dentro de la lección.",
             "portuguese": "Utilize este menu para escolher a unidade e uma lição. Quando você escolher uma unidade e uma lição, você será levado para a primeira atividade dentro da lição.",
+            "japanese": "ユニットやレッスンを選択するにはこのメニューを使用します。ユニットやレッスンを選択すると、そのレッスンの最初のアクティビティが表示されます。",
             "arabic": "استخدم هذه القائمة لاختيار وحدة ودرس. عند اختيار وحدة ودرس سيتم نقلك إلى النشاط الأول ضمن الدرس."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Utilice este menú para elegir una actividad dentro de una lección.",
             "spanish_la": "Utilice este menú para elegir una actividad dentro de una lección.",
             "portuguese": "Clique no menu ao lado para escolher uma atividade dentro de uma lição.",
+            "japanese": "レッスン内のアクティビティを選択するには、このメニューを使用します。",
             "arabic": "استخدم هذه القائمة لاختيار النشاط من خلال الدرس."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
             "spanish_la": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
             "portuguese": "Utilize os botões “Previous“ e “Next“ para navegar por meio das atividades em sequência.",
+            "japanese": "アクティビティを順番に進めるには、Previous[前に]とNext[次へ]ボタンをクリックします。",
             "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل. "
           }
         },
@@ -72,6 +77,7 @@
             "spanish": "Las actividades de la Práctica Online se muestran en esta área.",
             "spanish_la": "Las actividades de la Práctica Online se muestran en esta área.",
             "portuguese": "As atividades do Online Practice são exibidas nesta área.",
+            "japanese": "Online Practiceのアクティビティはこのエリアに表示されます。",
             "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
           }
         },
@@ -85,6 +91,7 @@
             "spanish": "Su puntuación actual para la actividad se muestra aquí.",
             "spanish_la": "Su puntuación actual para la actividad se muestra aquí.",
             "portuguese": "A sua pontuação atual na atividade é exibida aqui.",
+            "japanese": "現在のアクティビティの得点はここに表示されます。",
             "arabic": "يتم إظهار درجة النشاط الحالي الخاص بك هنا."
           }
         },
@@ -98,6 +105,7 @@
             "spanish": "Tiene tres intentos para completar una actividad. En su informe se registrará la puntuación más alta de sus intentos.",
             "spanish_la": "Tiene tres intentos para completar una actividad. En su informe se registrará la puntuación más alta de sus intentos.",
             "portuguese": "Você pode tentar realizar cada atividade três vezes. A pontuação mais alta dentre as obtidas durante as suas tentativas é registrada em seu relatório.",
+            "japanese": "アクティビティは3回まで取り組むことができます。そのうちの1番高い得点が生徒用レポートに記録されます。",
             "arabic": "يمكنك أن تجرب النشاط ثلاث مرات. يتم تسجيل الدرجة الأعلى لمحاولاتك في التقرير الخاص بك."
           }
         },
@@ -111,6 +119,7 @@
             "spanish": "Haga clic aquí para ver un Consejo Rápido con información sobre cómo completar una actividad.",
             "spanish_la": "Haga click aquí para ver un Consejo Rápido con información sobre cómo completar una actividad.",
             "portuguese": "Clique aqui para visualizar um pop-up com uma dica rápida contendo orientações sobre a realização de uma atividade.",
+            "japanese": "アクティビティを完了させるための手引きとしてQuick Tipのポップアップを見るには、こちらをクリックします。",
             "arabic": "انقر هنا لرؤية نصيحة سريعة منبثقة مع توجيهات بشأن استكمال النشاط."
           }
         },
@@ -124,6 +133,7 @@
             "spanish": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga clic aquí para descargar o visualizar el archivo adjunto.",
             "spanish_la": "Si la actividad tiene un archivo adjunto, aparecerá un icono aquí. Haga click aquí para descargar o visualizar el archivo adjunto.",
             "portuguese": "Se uma atividade possuir um anexo, um ícone aparecerá aqui. Clique para realizar o download ou para exibir o anexo.",
+            "japanese": "アクティビティに添付ファイルがある場合は、こちらにアイコンが表示されます。添付ファイルをクリックすると、ダウンロードまたは表示できます。",
             "arabic": "في حالة احتواء النشاط على مرفق، فستظهر أيقونة هنا. انقر لتحميل أو عرض المرفق."
           }
         },
@@ -137,6 +147,7 @@
             "spanish": "Puede revisar sus respuestas una vez que haya respondido a todas las preguntas en una actividad.",
             "spanish_la": "Puede revisar sus respuestas una vez que haya respondido a todas las preguntas en una actividad.",
             "portuguese": "Você pode conferir suas respostas após responder a todas as perguntas em uma atividade.",
+            "japanese": "アクティビティの全ての問題に答えると、答え合わせをすることができます。",
             "arabic": "يمكنك التحقق من إجاباتك عندما تكون قد أجبت عن جميع الأسئلة في نشاط ما."
           }
         },
@@ -150,6 +161,7 @@
             "spanish": "Puede volver a intentar una actividad si responde algunas preguntas de manera incorrecta. Tiene tres intentos para cada actividad.",
             "spanish_la": "Puede volver a intentar una actividad si responde algunas preguntas de manera incorrecta. Tiene tres intentos para cada actividad.",
             "portuguese": "É possível tentar realizar uma atividade novamente caso você responda algumas perguntas incorretamente. Você pode tentar realizar cada atividade três vezes.",
+            "japanese": "いくつか不正解があった場合は、もう一度挑戦できます。1つのアクティビティは3回まで取り組むことができます。",
             "arabic": "يمكنك تجربة أحد الأنشطة مرة أخرى إذا كانت إجاباتك عن بعض الأسئلة غير صحيحة. يمكنك أن تجرب النشاط ثلاث مرات."
           }
         },
@@ -163,6 +175,7 @@
             "spanish": "En caso de responder algunas preguntas de forma incorrecta, podrá ver las respuestas correctas.",
             "spanish_la": "En caso de responder algunas preguntas de forma incorrecta, podrá ver las respuestas correctas.",
             "portuguese": "Se você responder algumas perguntas de forma incorretamente, você poderá visualizar as respostas corretas.",
+            "japanese": "いくつか不正解があった場合は、正解を見ることができます。",
             "arabic": "إذا أجبت عن بعض الأسئلة بطريقة غير صحيحة يمكنك رؤية الإجابات الصحيحة."
           }
         },
@@ -176,6 +189,7 @@
             "spanish": "Aquí podrá encontrar recursos de apoyo que le ayudarán con su trabajo de Práctica Online, de estar disponibles.",
             "spanish_la": "Aquí podrá encontrar recursos de apoyo que le ayudarán con su trabajo de Práctica Online, de estar disponibles.",
             "portuguese": "Aqui você poderá encontrar recursos de apoio que o ajudarão na realização de seus trabalhos no Online Practice, caso disponíveis.",
+            "japanese": "Online Practiceでの学習をサポートするリソースが利用できる場合は、こちらから見ることができます。",
             "arabic": "يمكنك أن تجد مصادر الدعم هنا الأمر الذي سيساعدك في أعمال الممارسة عبر شبكة الإنترنت، إذا كانت متاحة."
           }
         },
@@ -189,6 +203,7 @@
             "spanish": "Aquí podrá ver el Glosario ilustrado, de estar disponible. El Glosario ilustrado le ayudará con el vocabulario del curso.",
             "spanish_la": "Aquí podrá ver el Glosario ilustrado, de estar disponible. El Glosario ilustrado le ayudará con el vocabulario del curso.",
             "portuguese": "Você poderá visualizar o glossário de imagens aqui, caso disponível. O glossário de imagens irá ajudá-lo com o vocabulário do curso.",
+            "japanese": "Picture Glossaryが利用できる場合は、ここに表示されます。Picture Glossaryは、コース内の語彙をサポートします。",
             "arabic": "يمكنك عرض مسرد الصور هنا، إذا كان متاحًا. سوف يساعدك مسرد الصور في المفردات الخاصة بالمقرر."
           }
         },
@@ -202,6 +217,7 @@
             "spanish": "Acceda a sus Logros e Informes aquí.",
             "spanish_la": "Acceda a sus Logros e Informes aquí.",
             "portuguese": "Acesse suas realizações e relatórios aqui.",
+            "japanese": "成績表とレポートはこちらからアクセスします。",
             "arabic": "أدخل على التحصيل والتقارير الخاصة بك هنا."
           }
         }

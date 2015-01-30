@@ -5,6 +5,7 @@
     "spanish": "Ingresar a Práctica Online",
     "spanish_la": "Ingresar a Práctica Online",
     "portuguese": "Acessar o Online Practice",
+    "japanese": "Online Practiceへのアクセス",
     "arabic": "أإدخال الممارسة على الإنترنت"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Haga clic en un icono para elegir su nivel de Práctica Online. Si añade más niveles podrá acceder a ellos desde aquí.",
             "spanish_la": "Haga click en un icono para elegir su nivel de Práctica Online. Si añade más niveles podrá acceder a ellos desde aquí.",
             "portuguese": "Clique em um ícone para escolher o seu nível no Online Practice. Caso mais níveis sejam adicionados, você poderá acessá-los aqui.",
+            "japanese": "Online Practiceのレベルを選択するには、アイコンをクリックします。さらにレベルを追加する場合も、こちらからアクセスできます。",
             "arabic": "انقر علىالأيقونة لتحديد مستوى الممارسة الخاص بك على الإنترنت. إذا قمت بإضافة المزيد من المستويات، فسوف يكون بإمكانك الدخول إليها هنا."
           }
         }
@@ -47,6 +50,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -60,6 +64,7 @@
             "spanish": "Una vez elegido un nivel, podrá ingresar al área de actividad, ver y descargar recursos de apoyo del curso o visitar el Centro de Medios para utilizar archivos de audio y vídeo para su nivel.",
             "spanish_la": "Una vez elegido un nivel, podrá ingresar al área de actividad, ver y descargar recursos de apoyo del curso o visitar el Centro de Medios para utilizar archivos de audio y video para su nivel.",
             "portuguese": "Quando você escolher um nível, você poderá entrar na área de atividades, visualizar e baixar os recursos de suporte do curso ou visitar o centro de mídia para utilizar os arquivos de áudio e vídeo disponibilizados para o seu nível.",
+            "japanese": "レベルを選択すると、アクティビティエリアにアクセスしたり、サポート用のコースリソースを表示したりダウンロードすることができます。また、そのレベルの音声やビデオファイルが利用できるメディア・センターにアクセスすることもできます。",
             "arabic": "عند تحديدك مستوى ما، يمكنك دخول منطقة النشاط، واستعراض وتحميل مراجع الدورة الداعمةأو زيارة المركز الإعلامي لاستخدام ملفات الصوت والفيديو الخاصة بمستواك."
           }
         }

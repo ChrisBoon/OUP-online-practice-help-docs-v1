@@ -5,6 +5,7 @@
     "spanish": "¡Vuelva a intentarlo! No existe una página en la dirección seleccionada.",
     "spanish_la": "¡Vuelva a intentarlo! No existe una página en la dirección seleccionada.",
     "portuguese": "Tente novamente! Não existe uma página com o endereço que você escolheu.",
+    "japanese": "もう一度お試しください！お探しのページが見つかりません。",
     "arabic": "حاول مرة أخرى! لا توجد صفحة في العنوان الذي اخترته."
   },
   "segment": "all",
@@ -22,6 +23,7 @@
             "spanish": "Utilice el menú deslizable para encontrar la página que buscaba, o vaya a:",
             "spanish_la": "Utilice el menú deslizable para encontrar la página que buscaba, o vaya a:",
             "portuguese": "Utilize o menu deslizante para encontrar a página que você estava procurando, ou acesse o menu de:",
+            "japanese": "もう一度お試しください！お探しのページが見つかりません。スライドメニューから探すか、にお問い合わせください。",
             "arabic": "استعمل قائمة الشرائح الخارجية للعثور على الصفحة التي تبحث عنها، أو انتقل إلى:"
           }
         },
@@ -32,6 +34,7 @@
             "spanish": "Ayuda de la Práctica Online.",
             "spanish_la": "Ayuda de la Práctica Online.",
             "portuguese": "ajuda do Online Practice.",
+            "japanese": "Online Practice Help",
             "arabic": "المساعدة الخاصة بالممارسة عبر شبكة الإنترنت."
           }
         }

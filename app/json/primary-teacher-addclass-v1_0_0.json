@@ -5,6 +5,7 @@
     "spanish": "Añadir una Nueva Clase",
     "spanish_la": "Añadir una Nueva Clase",
     "portuguese": "Adicione uma nova turma",
+    "japanese": "新しいクラスの追加",
     "arabic": "إضافة فصل جديد"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "Elija un nivel",
         "spanish_la": "Elija un nivel",
         "portuguese": "Escolha um nível",
+        "japanese": "レベルの選択",
         "arabic": "حدد مستوى"
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Seleccione un nivel para su nueva clase.",
             "spanish_la": "Seleccione un nivel para su nueva clase.",
             "portuguese": "Escolha um nível para sua nova turma.",
+            "japanese": "新しいクラスのレベルを選択します。",
             "arabic": "حدد مستوى لفصلك الجديد."
           }
         }
@@ -47,6 +50,7 @@
         "spanish": "Introduzca su código de institución",
         "spanish_la": "Introduzca su código de institución",
         "portuguese": "Insira o nome da sua instituição",
+        "japanese": "学校・団体コードの入力",
         "arabic": "أدخل رمز المؤسسة الخاص"
       },
       "paragraphs":{
@@ -60,6 +64,7 @@
             "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga clic en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo clic en “Join an Institution” desde su página de Detalles de la Clase.",
             "spanish_la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga click en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo click en “Join an Institution” desde su página de Detalles de la Clase.",
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de turma com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você pode inserir um código de identificação da instituição posteriormente clicando em “Join an Institution” na sua página dados da turma.",
+            "japanese": "学校・団体IDコードをお持ちの場合は、こちらに入力します。このコードは管理者から渡されるものです。このコードは学校・団体とクラス用のレポートをリンクします。学校・団体IDコードをお持ちでない場合は、Skip[スキップ]をクリックします。学校・団体コードを後から入力するには、クラスの詳細ページからJoin an Institution　[学校・団体への参加登録]をクリックします。",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فقم بإدخاله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك."
           }
         },
@@ -73,6 +78,7 @@
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -86,6 +92,7 @@
             "spanish": "Haga clic aquí si no tiene un código de ID de institución.",
             "spanish_la": "Haga click aquí si no tiene un código de ID de institución.",
             "portuguese": "Clique aqui caso você não tenha um código de identificação da instituição.",
+            "japanese": "学校・団体IDコードをお持ちでない場合は、こちらをクリックします。",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         },
@@ -99,6 +106,7 @@
             "spanish": "Haga clic aquí para enviar su código de ID de institución y avanzar a la página siguiente.",
             "spanish_la": "Haga click aquí para enviar su código de ID de institución y avanzar a la página siguiente.",
             "portuguese": "Clique aqui para enviar seu código de identificação da instituição e para ir para a próxima página.",
+            "japanese": "学校・団体IDコードを送信して次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاص بك وانتقل إلى الصفحة التالية."
           }
         }
@@ -113,6 +121,7 @@
         "spanish": "Crear un nombre de clase",
         "spanish_la": "Crear un nombre de clase",
         "portuguese": "Criar um nome de turma",
+        "japanese": "クラス名の作成",
         "arabic": "إنشاء اسم للفصل"
       },
       "paragraphs":{
@@ -126,6 +135,7 @@
             "spanish": "Ingrese un nombre para su clase aquí.",
             "spanish_la": "Ingrese un nombre para su clase aquí.",
             "portuguese": "Digite um nome para a sua aula aqui.",
+            "japanese": "新しいクラス名をこちらに入力します。",
             "arabic": "أدخل اسمًا لفصلك هنا."
           }
         }
@@ -140,6 +150,7 @@
         "spanish": "Guarde su código de ID de clase",
         "spanish_la": "Guarde su código de ID de clase",
         "portuguese": "Salve seu código de identificação de turma",
+        "japanese": "クラスIDコードの保存",
         "arabic": "احفظ رمز مُعرِّف الفصل الخاص بك."
       },
       "paragraphs":{
@@ -153,6 +164,7 @@
             "spanish": "Este es el código de identificación para su nueva clase. Guarde el código y compártalo con sus estudiantes. Ellos podrán inscribirse a su clase con el nuevo código y usted podrá ver sus informes.",
             "spanish_la": "Este es el código de identificación para su nueva clase. Guarde el código y compártalo con sus estudiantes. Ellos podrán inscribirse a su clase con el nuevo código y usted podrá ver sus informes.",
             "portuguese": "Este é o código de identificação para a sua nova turma. Salve o código e distribua-o aos seus alunos. Eles poderão participar da sua turma com o novo código e você será capaz de visualizar os seus relatórios.",
+            "japanese": "今回登録した新しいクラスIDコードが決まりました。このコードを保存し、生徒に配布してください。生徒は新しいクラスに参加登録ができ、先生は生徒の学習状況を確認できます。",
             "arabic": "هذا هو رمز مُعرِّف الفصل الجديد الخاص بك. احفظ الرمز ووزعه على طلابك. سوف يكون بإمكانهم الانضمام إلى فصلك من خلال الرمز الجديد، وسوف تكون قادرًا على رؤية تقاريرهم."
           }
         }

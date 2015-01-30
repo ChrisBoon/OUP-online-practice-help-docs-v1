@@ -5,6 +5,7 @@
     "spanish": "Añadir un Nivel",
     "spanish_la": "Añadir un Nivel",
     "portuguese": "Adicione um nível",
+    "japanese": "レベルの追加登録",
     "arabic": "إضافة مستوى"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "Ingrese su código de acceso",
         "spanish_la": "Ingrese su código de acceso",
         "portuguese": "Insira seu código de acesso",
+        "japanese": "アクセスコードの入力",
         "arabic": "أدخل رمز الدخول الخاص بك."
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Profesor. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
             "spanish_la": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Profesor. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
             "portuguese": "Insira o seu código de acesso do Online Practice aqui. O código de acesso está localizado no seu cartão do código de acesso do professor. Você deve ter um código de acesso para adicionar um novo nível em sua conta.",
+            "japanese": "こちらにOnline Practiceのアクセスコードを入力します。アクセスコードは、先生用のアクセスコードカードに記載されています。新しいレベルを追加登録するには、このアクセスカードが必要となります。",
             "arabic": "أأدخل رمز دخول الممارسة على الانترنت الخاص بك هنا. رمز الدخول موجود على بطاقة رمز دخول المعلم الخاصة بك. يجب أن يكون لديك رمز دخول لإضافة مستوى جديد إلى حسابك."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Haga clic aquí para ir al sitio web de Oxford University Press para obtener información acerca de cómo comprar un código de acceso.",
             "spanish_la": "Haga click aquí para ir al sitio web de Oxford University Press para obtener información acerca de cómo comprar un código de acceso.",
             "portuguese": "Clique aqui para ir ao site da Oxford University Press para obter informações sobre como comprar um código de acesso.",
+            "japanese": "アクセスコードの購入については、こちらをクリックしてオックスフォード大学出版局ホームページをアクセスしてください。",
             "arabic": "انقر هنا للذهاب إلى موقع وكالة جامعة أكسفورد للحصول على معلومات حول كيفية شراء رمز دخول."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Haga clic aquí para enviar su código de acceso.",
             "spanish_la": "Haga click aquí para enviar su código de acceso.",
             "portuguese": "Clique aqui para enviar seu código de acesso.",
+            "japanese": "アクセスコードを送信するには、こちらをクリックします。",
             "arabic": "انقر هنا لإرسال رمز الدخول الخاص بك."
           }
         },
@@ -72,6 +77,7 @@
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -85,6 +91,7 @@
             "spanish": "Haga clic aquí para ir a la página siguiente una vez ingresado su código de acceso.",
             "spanish_la": "Haga click aquí para ir a la página siguiente una vez ingresado su código de acceso.",
             "portuguese": "Clique aqui para ir para a próxima página depois de inserir o seu código de acesso.",
+            "japanese": "アクセスコードを入力した後、次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا للذهاب إلى الصفحة التالية بعد إدخال رمز الدخول الخاص بك."
           }
         }
@@ -99,6 +106,7 @@
         "spanish": "Seleccione un nivel",
         "spanish_la": "Seleccione un nivel",
         "portuguese": "Selecione um nível",
+        "japanese": "レベルの選択",
         "arabic": "حدد مستو"
       },
       "paragraphs":{
@@ -112,6 +120,7 @@
             "spanish": "Seleccione un nivel. Es muy importante seleccionar el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "spanish_la": "Seleccione un nivel. Es muy importante seleccionar el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "portuguese": "Selecione um nível. É muito importante escolher o nível que você está utilizando. Certifique-se de que o nível selecionado é o mesmo nível do seu livro.",
+            "japanese": "レベルを選択します。お使いのレベルを選択することが重要です。今お使いのテキストと同じレベルであるかを確認してください。",
             "arabic": "حدد مستوى. من الأهمية بمكان أن تحدد المستوى الذي تستخدمه. افحص للتأكد من أنه نفس مستوى كتابك."
           }
         },
@@ -125,6 +134,7 @@
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
@@ -139,6 +149,7 @@
         "spanish": "Inscribirse a una institución",
         "spanish_la": "Inscribirse a una institución",
         "portuguese": "Associe-se a uma instituição",
+        "japanese": "学校・団体への参加登録",
         "arabic": "الانضمام إلى مؤسسة"
       },
       "paragraphs":{
@@ -152,6 +163,7 @@
             "spanish": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga clic en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo clic en “Join an Institution” desde su página de Detalles de la Clase.",
             "spanish_la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga click en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo click en “Join an Institution” desde su página de Detalles de la Clase.",
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de turma com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você pode inserir um código de identificação da instituição posteriormente clicando em “Join an Institution” na sua página dados da turma.",
+            "japanese": "学校・団体のIDコードをお持ちの場合は、こちらに入力します。このコードは管理者から渡されるものです。このコードは学校・団体とクラス用のレポートをリンクします。学校・団体のIDコードをお持ちでない場合は、Skip[スキップ]をクリックします。学校・団体コードを後から入力するには、クラス詳細ページからJoin an Institution　[学校・団体に参加登録する]をクリックします。",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فقم بإدخاله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك. "
           }
         },
@@ -165,6 +177,7 @@
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -178,6 +191,7 @@
             "spanish": "Haga clic aquí para saltarse esta página sin ingresar un nombre de clase.",
             "spanish_la": "Haga click aquí para saltarse esta página sin ingresar un nombre de clase.",
             "portuguese": "Clique aqui caso você não tenha um código de identificação da instituição.",
+            "japanese": "学校・団体コードをお持ちでない場合は、こちらをクリックします。",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         },
@@ -191,6 +205,7 @@
             "spanish": "Haga clic aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "spanish_la": "Haga click aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "portuguese": "Clique aqui para enviar seu código de identificação da instituição e para ir para sua página inicial.",
+            "japanese": "学校・団体コードを送信してホームページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاص بك وانتقل إلى الصفحة الرئيسية الخاصة بك."
           }
         }
@@ -205,6 +220,7 @@
         "spanish": "Guarde el código de su clase",
         "spanish_la": "Guarde el código de su clase",
         "portuguese": "Crie uma aula",
+        "japanese": "クラスの作成",
         "arabic": "إنشاءفصل"
       },
       "paragraphs":{
@@ -218,6 +234,7 @@
             "spanish": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "spanish_la": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "portuguese": "Digite um nome para a sua primeira turma. Para criar turma adicionais posteriormente, clique em “Manage Classes” a partir de sua página inicial quando você finalizar o registro.",
+            "japanese": "最初のクラス名を入力します。追加のクラスを後から作成する場合は、登録が完了した後、ホームページからManage Classes[クラスの管理]をクリックします。",
             "arabic": "أأدخل اسم لأول فصل خاص بك. لإنشاء فصول إضافية لاحقًا؛ انقر على “Manage Classes”(\"إدارة الفصول\") من صفحتك الرئيسية عندما تنتهي من التسجيل."
           }
         },
@@ -231,6 +248,7 @@
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -244,6 +262,7 @@
             "spanish": "Haga clic aquí para saltarse esta página sin ingresar un nombre de clase.",
             "spanish_la": "Haga click aquí para saltarse esta página sin ingresar un nombre de clase.",
             "portuguese": "Clique aqui para pular esta página sem digitar um nome de turma.",
+            "japanese": "クラス名を入力しないでこのページをスキップする場合は、こちらをクリックします。",
             "arabic": "انقر هنا لتخطي هذه الصفحة بدون إدخال اسم فصل."
           }
         },
@@ -257,6 +276,7 @@
             "spanish": "Haga clic aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "spanish_la": "Haga click aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "portuguese": "Clique aqui para enviar o nome da sua turma e para ir para a próxima página.",
+            "japanese": "クラス名を送信して次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا لإرسال اسم الفصل الخاص بك وانتقل للصفحة التالية."
           }
         }
@@ -271,6 +291,7 @@
         "spanish": "Guarde el código de su clase",
         "spanish_la": "Guarde el código de su clase",
         "portuguese": "Insira seu código de turma",
+        "japanese": "クラスコードの保存",
         "arabic": "قم بحفظ رمز الفصل الخاص بك."
       },
       "paragraphs":{
@@ -284,6 +305,7 @@
             "spanish": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "spanish_la": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "portuguese": "Este é o código de identificação de turma para a aula nomeada na tela anterior. Forneça esse código para os seus alunos para que eles possam participar da sua turma e para que você possa visualizar os seus trabalhos.",
+            "japanese": "今回登録されたクラスのIDコードが決まりました。このコードを生徒に配布すると、生徒はクラスに参加登録ができ、先生は生徒の学習状況を確認できます。",
             "arabic": "انقر على رمز مُعرِّف الفصل الخاص بالفصل الذي قمت بتسميته في الشاشة السابقة. قم بإعطاء هذا الرمز لطلابك كي يتمكنوا من الانضمام إلى فصلك ويمكنهم رؤية العمل الخاص بهم."
           }
         },
@@ -297,6 +319,7 @@
             "spanish": "Haga clic aquí para imprimir esta página para sus registros o para copiar y compartir con sus estudiantes.",
             "spanish_la": "Haga click aquí para imprimir esta página para sus registros o para copiar y compartir con sus estudiantes.",
             "portuguese": "Clique aqui para imprimir esta página para fins de registro ou para copiá-la e compartilhá-la com os seus alunos.",
+            "japanese": "このページを印刷して保管、またはコピーして生徒に配布するには、こちらをクリックします。",
             "arabic": "انقر هنا لطباعة هذه الصفحة الخاصة بسجلاتك أو نسخها ومشاركتها مع طلابك."
           }
         },
@@ -310,6 +333,7 @@
             "spanish": "Haga clic aquí para volver a la página de Inicio.",
             "spanish_la": "Haga click aquí para volver a la página de Inicio.",
             "portuguese": "Clique aqui para voltar a sua página inicial.",
+            "japanese": "ホームページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة الرئيسية الخاصة بك."
           }
         }

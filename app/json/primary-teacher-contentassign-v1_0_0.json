@@ -5,6 +5,7 @@
     "spanish": "Ocultar Unidades y Lecciones",
     "spanish_la": "Ocultar Unidades y Lecciones",
     "portuguese": "Ocultar unidades e lições",
+    "japanese": "ユニットとレッスンの非表示",
     "arabic": "إخفاء الوحدات والدروس"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Puede ocultar unidades y lecciones a sus estudiantes, marcando las casillas en esta página. Sus estudiantes sólo podrán ver las actividades en las unidades o lecciones cuando desmarque las casillas.",
             "spanish_la": "Puede ocultar unidades y lecciones a sus estudiantes, marcando las casillas en esta página. Sus estudiantes sólo podrán ver las actividades en las unidades o lecciones cuando desmarque las casillas.",
             "portuguese": "Você pode ocultar as unidades e as lições de seus alunos marcando as caixas de seleção nesta página. Seus alunos só visualizarão as atividades das unidades ou lições quando você desmarcar as caixas de seleção.",
+            "japanese": "ユニットやレッスンを生徒が見ないようにする場合は、このページのボックスにチェックマークを入れます。チェックマークを入れないと、生徒はそのユニットやレッスンのアクティビティのみ見ることができます。",
             "arabic": "يمكنك إخفاء الوحدات والدروس عن طلابك عن طريق وضع علامة في المربعات الموجودة في هذه الصفحة. سيتمكن طلابك من رؤية الأنشطة الموجودة في الوحدات أو الدروس فقط عندما لا تضع علامة في المربعات."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Elija una clase utilizando el menú.",
             "spanish_la": "Elija una clase utilizando el menú.",
             "portuguese": "Selecione uma turma a partir do menu.",
+            "japanese": "クラスはこちらのメニューから選択します。",
             "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Marque una casilla aquí para ocultar toda una unidad.",
             "spanish_la": "Marque una casilla aquí para ocultar toda una unidad.",
             "portuguese": "Marque uma caixa de seleção para ocultar uma unidade inteira.",
+            "japanese": "ユニット全体を表示しない場合は、こちらのボックスにチェックマークを入れます。",
             "arabic": "ضع علامة في مربع ما هنا لإخفاء الوحدة كاملةً."
           }
         },
@@ -72,6 +77,7 @@
             "spanish": "Marque una casilla aquí para ocultar lecciones seleccionadas dentro de una unidad.",
             "spanish_la": "Marque una casilla aquí para ocultar lecciones seleccionadas dentro de una unidad.",
             "portuguese": "Marque uma caixa de seleção para ocultar lições selecionadas dentro de uma unidade.",
+            "japanese": "ユニット内で特定のレッスンを表示しない場合は、こちらのボックスにチェックマークを入れます。",
             "arabic": "ضع علامة في مربع ما هنا لإخفاء الدروس التي تم تحديدها داخل الوحدة."
           }
         },
@@ -85,6 +91,7 @@
             "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
             "spanish_la": "Haga click aquí para guardar los cambios realizados para esta clase.",
             "portuguese": "Clique aqui para salvar as alterações feitas a esta turma.",
+            "japanese": "このクラスの変更内容を保存するには、こちらをクリックします。",
             "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
           }
         }

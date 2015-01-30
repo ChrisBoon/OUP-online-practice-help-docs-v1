@@ -5,6 +5,7 @@
     "spanish": "Detalles de la Clase",
     "spanish_la": "Detalles de la Clase",
     "portuguese": "Dados da turma",
+    "japanese": "クラスの詳細",
     "arabic": "تفاصيل الفصل"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Haga clic aquí para cambiar el nombre de esta clase.",
             "spanish_la": "Haga click aquí para cambiar el nombre de esta clase.",
             "portuguese": "Clique aqui para mudar o nome desta turma",
+            "japanese": "このクラスの名前を変更するには、こちらをクリックします。",
             "arabic": "انقر هنا لتغيير اسم هذا الفصل."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Haga clic aquí para inscribirse en una institución.",
             "spanish_la": "Haga click aquí para inscribirse en una institución.",
             "portuguese": "Clique aqui para participar de uma instituição.",
+            "japanese": "学校・団体に参加登録するには、こちらをクリックします。",
             "arabic": "انقر هنا للانضمام إلى مؤسسة ما."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Marque esta casilla para eliminar al estudiante de esta clase. Luego haga clic en \"Save Changes\".",
             "spanish_la": "Marque esta casilla para eliminar al estudiante de esta clase. Luego haga click en \"Save Changes\".",
             "portuguese": "Marque esta caixa de seleção para excluir este aluno desta turma. Em seguida, clique em \"Save Changes\".",
+            "japanese": "このクラスからこの生徒を削除する場合は、このボックスにチェックマークをつけます。その後、Save Changes[変更内容を保存]をクリックします。",
             "arabic": "ضع علامة فيهذا المربع لحذف هذا الطالب من هذا الفصل. ثم انقر على “Save Changes”(\"حفظ التغييرات\")."
           }
         },
@@ -72,6 +77,7 @@
             "spanish": "Haga clic aquí para regresar a la pantalla anterior. Si no hizo clic en \"Save Changes\" no se guardarán los cambios.",
             "spanish_la": "Haga click aquí para regresar a la pantalla anterior. Si no hizo click en \"Save Changes\" no se guardarán los cambios.",
             "portuguese": "Clique aqui para voltar à tela anterior. Caso você não clique em “Save Changes”, as alterações não serão armazenadas.",
+            "japanese": "前の画面に戻るには、こちらをクリックします。Save Changes[変更内容を保存]をクリックしなかった場合、変更内容は保存されません。",
             "arabic": "انقر هنا للعودة إلى الشاشة السابقة. في حالة عدم النقر على “Save Changes”(\"حفظ التغييرات\"),فلن يتم حفظ التغييرات التي أجريتها."
           }
         },
@@ -85,6 +91,7 @@
             "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
             "spanish_la": "Haga click aquí para guardar los cambios realizados para esta clase.",
             "portuguese": "Clique aqui para salvar as alterações feitas para esta turma.",
+            "japanese": "このクラスの変更内容を保存する場合は、こちらをクリックします。",
             "arabic": "اانقر هنا لحفظ التغييرات التي أجريتهاعلى هذا الفصل."
           }
         }

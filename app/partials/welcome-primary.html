@@ -268,3 +268,48 @@ ng-if="language.language == 'portuguese'"
   </div><!--/welcome-page__container-->
 
 </div><!--/welcome-page PORTUGUESE-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'japanese'"
+>
+
+  <h1 class="welcome-page__heading">[コースのタイトル]Online Practiceのヘルプへようこそ</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">Online Practice のヘルプを使用する</h2>
+      <p>生徒、先生、管理者のOnline Practiceのコースのさまざまなエリアを使用する際に必要なヘルプと手引きを探すには、左側のメニューを使用します。</p>
+      <p>各ヘルプセクションのテキストの一部をクリックすると、関連する番号がスクリーンショット上でハイライトされます。</p>
+      <p ng-if="appLanguages.length > 1">別の言語でOnline Practiceのヘルプエリアを使用する場合は、右側のメニューを使用します。</p>
+    </div>
+
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">推奨環境および対応デバイス</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Windows®:</h3>
+        <p>Internet Explorer 9以降、Firefox 28以降、Chrome 31以降</p>
+        <p>音声を録音するアクティビティに使用するため、Flash Player 11 以降のプラグインが必要。</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Mac® OS X:</h3>
+        <p>Firefox 25以降、Safari 7.0.2以降、 Chrome 33以降</p>
+        <p>音声を録音するアクティビティに使用するため、Flash Player 11 以降のプラグインが必要。</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Android®:</h3>
+        <p>4.0以上。対応ブラウザ：Google® Chrome</p>
+        <p>動作検証済みの対応デバイス：Samsung® Galaxy Tab　2および3, Samsung® Galaxy Note 10.1（7インチおよび 10インチ）、 Google® Nexus 7、Google® Nexus 10/p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">iOS®:</h3>
+        <p>iOS®6以上。対応ブラウザ：Safari</p>
+        <p>動作検証済みの対応デバイス： iPad® 2以降、 iPad® Mini、iPad® Air</p>
+      </div>
+      <p class="small-text">＊録音するアクティビティをWindows®とMac® OSXのコンピュータで行う場合は、Flash Player 11以降のプラグインが必要となります。Flash Playerの最新版をダウンロードするには、 <a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a> にアクセスしてください。</p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page JAPANESE-->

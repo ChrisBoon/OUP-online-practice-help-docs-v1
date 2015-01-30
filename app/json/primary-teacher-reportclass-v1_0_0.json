@@ -5,6 +5,7 @@
     "spanish": "Informe de la Clase",
     "spanish_la": "Informe de la Clase",
     "portuguese": "Relatório de turma",
+    "japanese": "クラスレポート",
     "arabic": "التقرير الخاص بالفصل "
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Esta pantalla muestra los informes para todos los estudiantes en una clase.",
             "spanish_la": "Esta pantalla muestra los informes para todos los estudiantes en una clase.",
             "portuguese": "Esta tela exibe os relatórios sobre todos os alunos que participam de uma determinada turma.",
+            "japanese": "この画面は、クラス内の全生徒のレポートを表示しています。",
             "arabic": "تُظهِر هذه الشاشة تقارير جميع الطلاب في فصل ما."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Utilice este menú para ver un informe para una clase diferente.",
             "spanish_la": "Utilice este menú para ver un informe de una clase diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de uma turma diferente.",
+            "japanese": "別のクラスのレポートを表示するには、このメニューを使用します。",
             "arabic": "استخدم هذه القائمة لرؤية تقرير ما لفصل مختلف."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Utilice este menú para ver los informes para un estudiante en particular o para todos los estudiantes.",
             "spanish_la": "Utilice este menú de ver los informes para un estudiante en particular o de todos los estudiantes.",
             "portuguese": "Utilize este menu para visualizar os relatórios de um aluno específico ou de todos os alunos.",
+            "japanese": "特定の生徒、または全ての生徒のレポートを表示するには、このメニューを使用します。",
             "arabic": "استخدم هذه القائمة لرؤية تقارير طالب ما على حدة أو تقارير كل الطلاب."
           }
         },
@@ -72,6 +77,7 @@
             "spanish": "También puede hacer clic en el nombre del estudiante para ver sus resultados en las diferentes lecciones y unidades.",
             "spanish_la": "También puede hacer click en el nombre del estudiante para ver sus resultados en las diferentes lecciones y unidades.",
             "portuguese": "Você também pode clicar no nome do aluno para visualizar os resultados obtidos nas lições e unidades.",
+            "japanese": "生徒名をクリックしても、レッスン全体とユニット全体の結果を表示することができます。",
             "arabic": "يمكنك أيضًا النقر على اسم طالب ما لمُعرِّفة نتائجه عبر الدروس والوحدات."
           }
         },
@@ -85,6 +91,7 @@
             "spanish": "Utilice este menú para filtrar el informe a fin de ver los resultados de los estudiantes en una unidad en particular.",
             "spanish_la": "Utilice este menú para filtrar el informe a fin de ver los resultados de los estudiantes en una unidad en particular.",
             "portuguese": "Utilize este menu para filtrar o relatório a fim de visualizar os resultados dos alunos em uma unidade em particular.",
+            "japanese": "特定のユニットの生徒の結果を見るためにそのレポートを選択する場合には、このメニューを使用します。",
             "arabic": "استخدم هذه القائمة لتصفية التقارير لرؤية نتائج الطلاب في وحدة معينة."
           }
         },
@@ -98,6 +105,7 @@
             "spanish": "También puede hacer clic en el título de una unidad para ver los resultados de una unidad.",
             "spanish_la": "También puede hacer click en el título de una unidad para ver los resultados de una unidad.",
             "portuguese": "Você também pode clicar no título de uma unidade para visualizar os resultados dessa unidade.",
+            "japanese": "ユニットのタイトルをクリックしても、そのユニットの結果を見ることができます。",
             "arabic": "يمكنك أيضًا النقر على عنوان وحدة ما لترى النتائج في تلك وحدة."
           }
         },
@@ -111,6 +119,7 @@
             "spanish": "Esta fila muestra el número promedio de actividades realizadas en cada unidad de la clase.",
             "spanish_la": "Esta fila muestra el número promedio de actividades realizadas en cada unidad de la clase.",
             "portuguese": "Esta linha exibe o número médio de atividades concluídas em cada unidade para a turma.",
+            "japanese": "この行は、そのクラスが各ユニットで完了したアクティビティの平均数を表します。",
             "arabic": "يبين هذا الصف متوسط الأنشطة المُنجَزة في كل وحدة للفصل."
           }
         },
@@ -124,6 +133,7 @@
             "spanish": "Esta línea muestra la puntuación total media para las actividades de una unidad de la clase.",
             "spanish_la": "Esta línea muestra la puntuación total media para las actividades de una unidad de la clase.",
             "portuguese": "Esta linha exibe a pontuação média total das atividades em cada unidade para a turma.",
+            "japanese": "この行は、そのクラスのあるユニットのアクティビティに対する平均総得点を表します。",
             "arabic": "يبين هذا الصف المتوسط الإجمالي للدرجة الخاصة بالأنشطة في وحدة ما للفصل."
           }
         },
@@ -137,6 +147,7 @@
             "spanish": "Esta fila muestra el tiempo medio empleado en las actividades de una unidad de la clase.",
             "spanish_la": "Esta fila muestra el tiempo medio empleado en las actividades de una unidad de la clase.",
             "portuguese": "Esta linha exibe o tempo médio gasto nas atividades em cada unidade para a turma.",
+            "japanese": "この行は、そのクラスがあるユニットのアクティビティに費やした平均時間を表します。",
             "arabic": "يبين هذا الصف الوقت المنقضي في الأنشطة في وحدة ما للفصل."
           }
         },
@@ -150,6 +161,7 @@
             "spanish": "Este es el total del número promedio de actividades realizadas en las distintas unidades.",
             "spanish_la": "Este es el total del número promedio de actividades realizadas en las distintas unidades.",
             "portuguese": "Este é o total do número médio de atividades concluídas dentre as unidades existentes.",
+            "japanese": "これは、そのユニットを通して完了したアクティビティの平均数の合計です。",
             "arabic": "هذا هو المتوسط الإجمالي للأنشطة المُنجَزة في الوحدات."
           }
         },
@@ -163,6 +175,7 @@
             "spanish": "Esta es la puntuación media total para todos los estudiantes en las distintas unidades.",
             "spanish_la": "Esta es la puntuación media total para todos los estudiantes en las distintas unidades.",
             "portuguese": "Esta é a pontuação média total para todos os alunos dentre as unidades.",
+            "japanese": "ユニット全体についての全ての生徒の平均得点の合計です。",
             "arabic": "هذا هو المتوسط الإجمالي لدرجة جميع الطلاب في الوحدات."
           }
         },
@@ -176,6 +189,7 @@
             "spanish": "Esta es la cantidad promedio de tiempo que todos los estudiantes han empleado en las actividades.",
             "spanish_la": "Esta es la cantidad promedio de tiempo que todos los estudiantes han empleado en las actividades.",
             "portuguese": "Esta é a quantidade média de tempo que todos os alunos gastam nas atividades.",
+            "japanese": "これは、全ての生徒がアクティビティに費やした平均時間です。",
             "arabic": "هذا هو متوسط مقدار الوقت الذي قضاه كل الطلاب في الأنشطة."
           }
         },
@@ -189,6 +203,7 @@
             "spanish": "Esta fila muestra el número de actividades realizadas por el estudiante en cada unidad.",
             "spanish_la": "Esta fila muestra el número de actividades realizadas por el estudiante en cada unidad.",
             "portuguese": "Esta linha exibe o número de atividades concluídas por um aluno em cada unidade.",
+            "japanese": "この行は、各ユニットでその生徒が完了したアクティビティ数を表します。",
             "arabic": "يُظهِر هذا الصف عدد الأنشطة التي أنجزها طالب ما في كل وحدة."
           }
         },
@@ -202,6 +217,7 @@
             "spanish": "Esta línea muestra la puntuación total del estudiante en cada unidad.",
             "spanish_la": "Esta línea muestra la puntuación total del estudiante en cada unidad.",
             "portuguese": "Esta linha exibe pontuação total de um aluno em cada unidade.",
+            "japanese": "この行は、各ユニットのその生徒の合計得点を表します。",
             "arabic": "يُظهِر هذا الصف إجمالي درجة الطالب في كل وحدة."
           }
         },
@@ -215,6 +231,7 @@
             "spanish": "Esta línea muestra la cantidad total de tiempo que el estudiante ha empleado en las actividades de cada unidad.",
             "spanish_la": "Esta línea muestra la cantidad total de tiempo que el estudiante ha empleado en las actividades de cada unidad.",
             "portuguese": "Esta linha exibe a quantidade total de tempo que um aluno gasta em atividades em cada unidade.",
+            "japanese": "この行は、その生徒が各ユニットのアクティビティに費やした合計時間を表します。",
             "arabic": "يُظهِر هذا الصف إجمالي مقدار الوقت الذي قضاه الطالب بالأنشطة في كل وحدة."
           }
         },
@@ -228,6 +245,7 @@
             "spanish": "Este es el número total de actividades realizadas por el estudiante.",
             "spanish_la": "Este es el número total de actividades realizadas por el estudiante.",
             "portuguese": "Este é o número total de atividades concluídas por um aluno.",
+            "japanese": "これは、その生徒が完了したアクティビティの合計数です。",
             "arabic": "هذا هو العدد الإجمالي للأنشطة المُنجَزة من قِبل الطالب."
           }
         },
@@ -241,6 +259,7 @@
             "spanish": "Esta es la puntuación media por actividad de la unidad para un estudiante en todo el nivel.",
             "spanish_la": "Esta es la puntuación media por actividad de la unidad para un estudiante en todo el nivel.",
             "portuguese": "Esta é a pontuação média de atividade da unidade de um aluno dentro de um determinado nível.",
+            "japanese": "これは、そのレベルを通じたその生徒のユニットアクティビティの平均得点です。",
             "arabic": "هذا هو متوسط درجة النشاط بالوحدة لطالب ما في المستوى."
           }
         },
@@ -254,6 +273,7 @@
             "spanish": "Esta es la cantidad total de tiempo que este estudiante trabajó en todo el nivel.",
             "spanish_la": "Esta es la cantidad total de tiempo que este estudiante trabajó en todo el nivel.",
             "portuguese": "Esta é a quantidade total de tempo que este aluno gastou em todo o nível.",
+            "japanese": "これは、この生徒がそのレベル全体において取り組んだ合計時間です。",
             "arabic": "هذا هو إجمالي مقدار الوقت الذي عمله الطالب في كامل المستوى."
           }
         },
@@ -267,6 +287,7 @@
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
             "spanish_la": "Haga click aquí para exportar este informe en formato Microsoft Excel™.",
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™.",
+            "japanese": "このレポートをMicrosoft Excel™にエクスポートするには、こちらをクリックします。",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -280,6 +301,7 @@
             "spanish": "Haga clic aquí para imprimir este informe.",
             "spanish_la": "Haga click aquí para imprimir este informe.",
             "portuguese": "Clique aqui para imprimir este relatório.",
+            "japanese": "このレポートを印刷するには、こちらをクリックします。",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }

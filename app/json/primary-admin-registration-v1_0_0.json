@@ -5,6 +5,7 @@
     "spanish": "Registro de Administrador",
     "spanish_la": "Registro de Administrador",
     "portuguese": "Registro do administrador",
+    "japanese": "管理者の登録",
     "arabic": "عرض التقارير"
   },
  "segment": "primary",
@@ -18,8 +19,9 @@
         "english": "",
         "turkish": "",
         "spanish": "",
-        "portuguese": "",
         "spanish_la": "",
+        "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Si utiliza la página por primera vez, haga clic en \"Register\".",
             "spanish_la": "Si utiliza la página por primera vez, haga click en \"Register\".",
             "portuguese": "Se você é um novo usuário, clique em “Register“.",
+            "japanese": "はじめてご利用になる場合は、Register［登録する］をクリックします。",
             "arabic": "إذا كنت مستخدمًا لأول مرة,فانقر على “Register”(\"تسجيل\")."
           }
         }
@@ -47,6 +50,7 @@
         "spanish": "Aceptar las Condiciones de Uso",
         "spanish_la": "Aceptar las Condiciones de Uso",
         "portuguese": "Aceitação dos termos de uso",
+        "japanese": "利用規約への同意",
         "arabic": "وافق على شروط الاستخدام"
       },
       "paragraphs":{
@@ -60,6 +64,7 @@
             "spanish": "Esta página explica las Condiciones de Uso. Usted debe aceptarlas para poder registrarse en la Práctica Online.",
             "spanish_la": "Esta página explica las Condiciones de Uso. Usted debe aceptarlas para poder registrarse en la Práctica Online.",
             "portuguese": "Esta página explica os termos de uso. Você deve concordar com os termos, a fim de se registrar ao Online Practice.",
+            "japanese": "このページは利用規約を説明しています。Online Practiceに登録するには、利用規約に同意する必要があります。",
             "arabic": "تشرح هذه الصفحة شروط الاستخدام. يجب عليك الموافقة على الشروط لكي تقوم بالتسجيل الخاص بالممارسة عبر شبكة الإنترنت."
           }
         },
@@ -73,6 +78,7 @@
             "spanish": "Marque la casilla para indicar que está de acuerdo con las Condiciones de Uso.",
             "spanish_la": "Marque la casilla para indicar que está de acuerdo con las Condiciones de Uso.",
             "portuguese": "Marque a caixa de seleção para demonstrar que você concorda com os termos de uso.",
+            "japanese": "利用規約への同意を表明するには、ボックスにチェックマークを入れます。",
             "arabic": "ضع علامة في المربع لإظهار موافقتك على شروط الاستخدام."
           }
         },
@@ -86,6 +92,7 @@
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -99,6 +106,7 @@
             "spanish": "Haga clic aquí para ir a la página siguiente. Debe marcar la casilla para indicar que usted está de acuerdo con las Condiciones de Uso antes de poder acceder a la página siguiente.",
             "spanish_la": "Haga click aquí para ir a la página siguiente. Debe marcar la casilla para indicar que usted está de acuerdo con las Condiciones de Uso antes de poder acceder a la página siguiente.",
             "portuguese": "Clique aqui para ir para a próxima página. Você deve marcar a caixa de seleção para demonstrar que você concorda com os termos de uso antes de ir para a próxima página.",
+            "japanese": "次のページに進むには、こちらをクリックします。次のページに進むには、利用規約への同意を表明するチェックマークが必要です。",
             "arabic": "انقر هنا للانتقال إلى الصفحة التالية. يجب عليك وضع علامة في المربع لإظهار موافقتك على شروط الاستخدام قبل أن يمكنك الانتقال إلى الصفحة التالية."
           }
         }
@@ -113,6 +121,7 @@
         "spanish": "Ingrese su código de acceso",
         "spanish_la": "Ingrese su código de acceso",
         "portuguese": "Insira seu código de acesso",
+        "japanese": "アクセスコードの入力",
         "arabic": "أدخل رمز الدخول الخاص بك"
       },
       "paragraphs":{
@@ -126,6 +135,7 @@
             "spanish": "Ingrese su código de acceso de Administrador.",
             "spanish_la": "Ingrese su código de acceso de Administrador.",
             "portuguese": "Insira o seu código de acesso de administrador.",
+            "japanese": "管理者アクセスコードを入力します。",
             "arabic": "أدخل رمز دخول المدير الخاص بك."
           }
         },
@@ -139,6 +149,7 @@
             "spanish": "Haga clic en \"Enter\".",
             "spanish_la": "Haga click en \"Enter\".",
             "portuguese": "Clique em “Enter“.",
+            "japanese": "Enter[アクセス]をクリックします。",
             "arabic": "انقر “Enter”(\"إدخال\")"
           }
         }
@@ -153,6 +164,7 @@
         "spanish": "Ingrese sus datos",
         "spanish_la": "Ingrese sus datos",
         "portuguese": "Insira seus dados",
+        "japanese": "詳細情報の入力",
         "arabic": "أدخل التفاصيل الخاصة بك"
       },
       "paragraphs":{
@@ -166,6 +178,7 @@
             "spanish": "Ingrese su nombre (nombre de pila).",
             "spanish_la": "Ingrese su nombre (nombre de pila).",
             "portuguese": "Digite seu nome.",
+            "japanese": "名前（名）を入力します。",
             "arabic": "أدخل اسمك الأول (الاسم المُعطَى)."
           }
         },
@@ -179,6 +192,7 @@
             "spanish": "Ingrese su apellido.",
             "spanish_la": "Ingrese su apellido.",
             "portuguese": "Digite seu sobrenome.",
+            "japanese": "名前（姓）を入力します。",
             "arabic": "أدخل اسمك الأخير (اسم العائلة)."
           }
         },
@@ -192,6 +206,7 @@
             "spanish": "Ingrese su dirección de correo electrónico.",
             "spanish_la": "Ingrese su dirección de correo electrónico.",
             "portuguese": "Digite o seu endereço de e-mail.",
+            "japanese": "メールアドレスを入力します。",
             "arabic": "أدخل عنوان بريدك الإلكتروني."
           }
         },
@@ -205,6 +220,7 @@
             "spanish": "Vuelva a escribir su dirección de correo electrónico.",
             "spanish_la": "Vuelva a escribir su dirección de correo electrónico.",
             "portuguese": "Digite seu endereço de e-mail novamente.",
+            "japanese": "メールアドレスをもう一度入力します。",
             "arabic": "اطبع عنوان بريدك الإلكتروني مرةً أخرى."
           }
         },
@@ -218,6 +234,7 @@
             "spanish": "Elija una contraseña.",
             "spanish_la": "Elija una contraseña.",
             "portuguese": "Escolha uma senha.",
+            "japanese": "希望のパスワードを入力します。",
             "arabic": "حدد كلمة مرور."
           }
         },
@@ -231,6 +248,7 @@
             "spanish": "Vuelva a escribir su contraseña.",
             "spanish_la": "Vuelva a escribir su contraseña.",
             "portuguese": "Insira sua senha novamente.",
+            "japanese": "パスワードをもう一度入力します。",
             "arabic": "قم بطباعة كلمة المرور مرة أخرى."
           }
         },
@@ -244,6 +262,7 @@
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -257,6 +276,7 @@
             "spanish": "Haga clic aquí para enviar su información e ir a la página siguiente.",
             "spanish_la": "Haga click aquí para enviar su información e ir a la página siguiente.",
             "portuguese": "Clique aqui para enviar suas informações e ir para a próxima página.",
+            "japanese": "情報を送信し次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا لإرسال المعلومات الخاصة بك وانتقل للصفحة التالية."
           }
         }
@@ -271,6 +291,7 @@
         "spanish": "Ingrese el nombre de su institución",
         "spanish_la": "Ingrese el nombre de su institución",
         "portuguese": "Insira o nome da sua instituição",
+        "japanese": "学校・団体名の入力",
         "arabic": "أدخل اسم المؤسسة الخاصة بك"
       },
       "paragraphs":{
@@ -284,6 +305,7 @@
             "spanish": "Ingrese el nombre de su escuela o institución.",
             "spanish_la": "Ingrese el nombre de su escuela o institución.",
             "portuguese": "Insira o nome da sua escola ou instituição.",
+            "japanese": "学校・団体名を入力します。",
             "arabic": "أدخل اسم مدرستك أو مؤسستك."
           }
         },
@@ -297,6 +319,7 @@
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -310,6 +333,7 @@
             "spanish": "Haga clic aquí para enviar el nombre de su institución e ir a la página siguiente.",
             "spanish_la": "Haga click aquí para enviar el nombre de su institución e ir a la página siguiente.",
             "portuguese": "Clique aqui para enviar suas informações e ir para a próxima página.",
+            "japanese": "学校・団体名を送信し次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا لإرسال اسم المؤسسة الخاصة بك وانتقل للصفحة التالية."
           }
         }
@@ -324,6 +348,7 @@
         "spanish": "Guarde el código de ID de su institución",
         "spanish_la": "Guarde el código de ID de su institución",
         "portuguese": "Salve o seu código de identificação da instituição",
+        "japanese": "学校・団体IDコードの保存",
         "arabic": "احفظ رمزمُعرِّفالمؤسسة الخاصة بك."
       },
       "paragraphs":{
@@ -337,6 +362,7 @@
             "spanish": "Este es el código de identificación para su institución. Comparta este código con sus profesores para que puedan vincular sus registros de clase a su institución. Si los profesores no se vinculan a la institución con este código, usted no podrá ver sus clases en sus reportes.",
             "spanish_la": "Este es el código de identificación para su institución. Comparta este código con sus profesores para que puedan vincular sus registros de clase a su institución. Si los profesores no se vinculan a la institución con este código, usted no podrá ver sus clases en sus reportes.",
             "portuguese": "Este é o código de identificação para a sua instituição. Forneça este código ao seus professores para que eles possam vincular os seus registros de aula a sua instituição. Se os professores não vincularem a sua instituição a este código, você não será capaz de visualizar as suas aulas em seus relatórios.",
+            "japanese": "今回登録された学校・団体IDコードが決まりました。このコードを先生に渡すと、クラス用レポートと学校・団体をリンクすることができます。先生がこのコードで学校・団体にリンクしないと、レポートでクラスを見ることができません。",
             "arabic": "هذا هو رمز مُعرِّف المؤسسة الخاصة بك. أعط هذا الرمز لمعلميك لكي يمكنهم ربط سجلاتفصولهمبمؤسستك. إذا لم يرتبط المعلمون ابلمؤسسة الخاصة بك عن طريق هذا الرمز، فلن يمكنك رؤية الفصول الخاصة بهم في تقاريرك."
           }
         },
@@ -350,6 +376,7 @@
             "spanish": "Haga clic aquí para imprimir esta página y guardarla en sus archivos.",
             "spanish_la": "Haga click aquí para imprimir esta página y guardarla en sus archivos.",
             "portuguese": "Clique aqui para imprimir esta página e salvá-la em seus registros.",
+            "japanese": "このページを印刷してレポートとして保管するには、こちらをクリックします。",
             "arabic": "انقر هنا لطباعة هذه الصفحة واحفظها في السجلات الخاصة بك."
           }
         },
@@ -363,6 +390,7 @@
             "spanish": "Haga clic aquí para ir a la página siguiente.",
             "spanish_la": "Haga click aquí para ir a la página siguiente.",
             "portuguese": "Clique aqui para ir para a próxima página.",
+            "japanese": "次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا للانتقال إلى الصفحة التالية."
           }
         }
@@ -377,6 +405,7 @@
         "spanish": "Guarde su información de registro",
         "spanish_la": "Guarde su información de registro",
         "portuguese": "Salve suas informações de registro",
+        "japanese": "登録情報の保存",
         "arabic": "قم حفظ معلومات التسجيل الخاصة بك."
       },
       "paragraphs":{
@@ -390,6 +419,7 @@
             "spanish": "Esta página muestra su información de registro. Es posible que desee imprimir esta página para sus registros. Si desea cambiar esta información, seleccione Edit Profile [Editar Perfil] después de iniciar sesión (se encontrará en la parte superior derecha de la pantalla).",
             "spanish_la": "Esta página muestra su información de registro. Es posible que desee imprimir esta página para sus registros. Si desea cambiar esta información, seleccione Edit Profile [Editar Perfil] después de iniciar sesión (se encontrará en la parte superior derecha de la pantalla).",
             "portuguese": "Esta página exibe as suas informações de registro. É possível imprimir esta página para fins de registro. Se você quiser alterar estas informações, selecione a opção “Edit Profile” após iniciar a sessão (essa opção estará disponível no canto superior direito da tela).",
+            "japanese": "このページは登録情報を表示します。必要に応じてこの画面を印刷してください。情報を変更する場合は、ログイン後に右上にあるEdit Profile[プロフィールの編集]をクリックします。",
             "arabic": "تُظهِر هذه الصفحة معلومات التسجيل الخاصة بك. وقد ترغب في طباعة هذه الصفحة مع السجلات الخاصة بك. إذا كنتترغب في تغيير هذه المعلومات، فحددEdit Profile(تحريرالملف الشخصي) بعد تسجيل الدخول (سيوجد في أعلى يمين الشاشة)."
           }
         },
@@ -403,6 +433,7 @@
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "portuguese": "Clique aqui para voltar à página anterior.",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -416,6 +447,7 @@
             "spanish": "Haga clic aquí para imprimir su información de registro.",
             "spanish_la": "Haga click aquí para imprimir su información de registro.",
             "portuguese": "Clique aqui para imprimir suas informações de registro.",
+            "japanese": "登録情報を印刷するには、こちらをクリックします。",
             "arabic": "انقر هنا لطباعة معلومات التسجيل الخاصة بك."
           }
         },
@@ -429,6 +461,7 @@
             "spanish": "Haga clic aquí para completar el registro e iniciar sesión en su Práctica Online.",
             "spanish_la": "Haga click aquí para completar el registro e iniciar sesión en su Práctica Online.",
             "portuguese": "Clique aqui para completar o registo e se conectar ao Online Practice.",
+            "japanese": "登録を完了してOnline Practiceにログインするには、こちらをクリックします。",
             "arabic": "انقر هنا لإكمال التسجيل وتسجيل الدخول إلىالممارسة الخاصة بك عبر شبكة الإنترنت."
           }
         }

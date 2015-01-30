@@ -5,6 +5,7 @@
     "spanish": "Editar Nombre de la Clase",
     "spanish_la": "Editar Nombre de la Clase",
     "portuguese": "Editar o nome da turma",
+    "japanese": "クラス名の編集",
     "arabic": "تحرير اسم الفصل"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Ingrese el nuevo nombre para la clase. Luego haga clic en \"Save\". Si no desea cambiar el nombre de su clase, haga clic en \"Cancel\".",
             "spanish_la": "Ingrese el nuevo nombre para la clase. Luego haga click en \"Save\". Si no desea cambiar el nombre de su clase, haga click en \"Cancel\".",
             "portuguese": "Digite o novo nome da sua turma aqui. Em seguida, clique em \"Save\". Se você não quiser alterar o nome da sua turma, clique em \"Cancel\".",
+            "japanese": "新しいクラス名を入力します。その後、Save[保存]をクリックします。クラス名を変更しない場合は、Cancel[キャンセル]をクリックします。",
             "arabic": "أدخل الاسم الجديد لفصلك. ثم انقر على “Save”(\"حفظ\"). إذا كنت لا ترغب في تغيير اسم فصلك، فانقر على “Cancel”(\"إلغاء\")."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Haga clic aquí para guardar el nombre de su clase y regresar a la página de Detalles de la Clase.",
             "spanish_la": "Haga click aquí para guardar el nombre de su clase y regresar a la página de Detalles de la Clase.",
             "portuguese": "Clique aqui para salvar o nome da turma e retornar à página dados da turma.",
+            "japanese": "クラス名を保存しクラスの詳細ページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا لحفظ اسم فصلك والعودة إلى صفحة التفاصيل الخاصة بالفصل."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Haga clic aquí para volver a la página de Detalles de la Clase sin guardar los cambios.",
             "spanish_la": "Haga click aquí para volver a la página de Detalles de la Clase sin guardar los cambios.",
             "portuguese": "Clique aqui para voltar à página de dados da turma sem salvar as alterações.",
+            "japanese": "変更内容を保存しないでクラスの詳細ページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى صفحة تفاصيل الفصل دون حفظ أي تغييرات."
           }
         }

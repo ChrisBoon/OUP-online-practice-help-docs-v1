@@ -5,6 +5,7 @@
     "spanish": "Recursos",
     "spanish_la": "Recursos",
     "portuguese": "Recursos",
+    "japanese": "ソース",
     "arabic": "الموارد"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Esta es el área de Recursos. De estar disponible, esta área proporcionará material de apoyo para cuando utilice la Práctica Online.",
             "spanish_la": "Esta es el área de Recursos. De estar disponible, esta área proporcionará material de apoyo para cuando utilice la Práctica Online.",
             "portuguese": "Esta é a área de recursos. Quando disponível, esta área fornecerá o material de apoio necessário para que você utilize o Online Practice.",
+            "japanese": "このページはリソースエリアを表示します。リソースが利用できる場合は、Online Practiceのサポートリソースはこちらから利用できます。",
             "arabic": "هذه هي منطقة الموارد وعندما تكون متاحة، فإن هذه المنطقة ستقدم موادًا داعمةً لك عند استخدام الممارسة عبر شبكة الإنترنت."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Haga clic en un título para abrir un Recurso. Los archivos PDF y los documentos se abrirán en una nueva pestaña o se descargarán a su ordenador o dispositivo en función de la configuración de su navegador.",
             "spanish_la": "Haga click en un título para abrir un Recurso. Los archivos PDF y los documentos se abrirán en una nueva pestaña o se descargarán a su ordenador o dispositivo en función de la configuración de su navegador.",
             "portuguese": "Clique em um título para abrir um recurso. Arquivos PDF e documentos serão abertos em uma nova aba ou serão baixados em o seu computador ou dispositivo, dependendo das configurações do seu navegador.",
+            "japanese": "タイトルをクリックしてリソースを開きます。PDFファイルと文書が新しいタブで表示されるか、ブラウザの設定によりコンピュータやデバイスにダウンロードされます。",
             "arabic": "اانقر فوق عنوان ما لفتح أحد الموارد. وسوف يتم فتح ملفات PDF والوثائق في علامة تبويب جديدة أو تنزيلها على الحاسب أو الجهاز الخاص بك حسب إعدادات المتصفح الخاص بك."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Haga clic en el título de un archivo de audio para reproducirlo en el navegador. Utilice los controles para reproducir, pausar y ajustar el volumen.",
             "spanish_la": "Haga click en el título de un archivo de audio para reproducirlo en el navegador. Utilice los controles para reproducir, pausar y ajustar el volumen.",
             "portuguese": "Clique no título de uma faixa de áudio para reproduzir o arquivo no navegador. Use os controles para reproduzir, pausar e ajustar o volume.",
+            "japanese": "ブラウザのファイルを再生するには、音声トラックのタイトルをクリックします。再生、一時停止、音量調節を行うには、コントロール機能を使用してください。",
             "arabic": "اانقر على أحد عناوين المسار الصوتي لتشغيل الملف داخل المتصفح. استخدم مفاتيح التحكم لتشغيل مستوى جهارة الصوت وإيقافه وضبطه."
           }
         }

@@ -395,6 +395,86 @@ ng-if="language.language == 'portuguese'"
 </div><!--/faq-page PORTUGUESE-->
 
 <div 
+class="faq-page"
+ng-if="language.language == 'japanese'"
+>
+
+  <h1 class="faq-page__heading">よくある質問</h1>
+  
+  <div class="faq-page__container">
+
+    <div class="faq-page__segment faq-page__segment">
+
+      <h3 class="faq-page__segment__question">登録情報（名前、パスワード、メールアドレスなど）を変更するには？</h3>
+      <div class="faq-page__segment__answer">
+        <p>画面上のEdit Profile[プロフィールの編集]をクリックして、画面を表示させます。この画面から、名前、パスワード、メールアドレスの変更ができます。</p>
+      </div>
+
+      <h3 class="faq-page__segment__question">レベルを追加するには？</h3>
+      <div class="faq-page__segment__answer">
+        <p>ホーム画面より、Add a level[レベルの追加]をクリックし、表示に従って新しいレベルを追加してください。新しいレベルを追加するたびに、アクセスコードが必要となります。</p>
+      </div>
+
+      <h3 class="faq-page__segment__question">テキストの音声を聞くには？</h3>
+      <div class="faq-page__segment__answer">
+        <p>生徒の場合：ホーム画面からレベルを選びます。ホーム画面のMedia Centre[メディアセンター]のアイコンをクリックして、聞きたい音声ファイルを選択します。</p>
+        <p>先生の場合：ホームページのActivities[アクティビティ]のリンクから、Media Centre[メディアセンター]にアクセスしてください。</p>
+      </div>
+
+      <h3 class="faq-page__segment__question">クラスに参加登録するには？/h3>
+      <div class="faq-page__segment__answer">
+        <p>登録時にクラスIDコードを入力しなかった場合は、ホーム画面にJoin a Class[クラスへの参加登録]というアイコンが表示されます。このアイコンをクリックして、クラスIDコードを入力してください。Save[保存]ボタンをクリックすると、ホーム画面に戻ります。クラスIDコードは先生から渡されます。</p>
+      </div>
+
+      <h3 class="faq-page__segment__question">クラスを変更するには？</h3>
+      <div class="faq-page__segment__answer">
+        <p>ホーム画面のChange Class[クラスの変更]のアイコンをクリックします。新しいクラスIDコードを入力して、Save[保存]ボタンをクリックすると、ホーム画面に戻ります。クラスIDコードは先生から渡されます。</p>
+      </div>
+
+      <h3 class="faq-page__segment__question">クラスに参加しないとOnline Practiceを使うことはできませんか？</h3>
+      <div class="faq-page__segment__answer">
+        <p>いいえ。クラスに参加しなくてもOnline Practiceは使用できます。</p>
+      </div>
+
+      <h3 class="faq-page__segment__question">自分のプログレスレポートを見るには？</h3>
+      <div class="faq-page__segment__answer">
+        <p>ホーム画面からScores[得点]のアイコンをクリックして、Achievements and Reports[成績表とレポート]のエリアを開きます。画面上部のReports[レポート]タブを選択してください。</p>
+      </div>
+ 
+      <h3 class="faq-page__segment__question">音声が聞けないのですが？</h3>
+      <div class="faq-page__segment__answer">
+        <p>音声が聞けないときには、いくつかの理由が考えられます。</p>
+        <ol>
+          <li>スピーカーのスイッチが入っているか、接続されているかを確認してください。</li>
+          <li>2）コンピュータまたはデバイスのボリューム設定が、ミュートになっていないか確認してください。</li>
+          <li>ヘッドフォンを取り外しませんでしたか？ウェブサイトをロードした後、またはオーディオトラックを再生している途中でヘッドフォンを取り外すと、オーディオプレーヤーが作動しなくなることがあります。この問題を解決するには、一旦ブラウザを完全に終了し、もう一度プログラムをスタートしてください。</li>
+        </ol>
+      </div>
+
+      <h3 class="faq-page__segment__question">別のユニットに行くには？</h3>
+      <div class="faq-page__segment__answer">
+        <p>ひとつのアクティビティ内では、画面上部左側のメニューをクリックしてユニットとレッスンを選択してください。レッスン内でアクティビティを選ぶには次のメニューをクリックしてください。また、Previous[前に]やNext[次へ]ボタンを使えば、アクティビティ間を移動することができます。</p>
+      </div>
+
+      <h3 class="faq-page__segment__question">さらにヘルプが必要な場合は？</h3>
+      <div class="faq-page__segment__answer">
+        <p>さらにサポートが必要なときには、 <a class="external-link" href="mailto:ELTsupport@oup.com?subject= {{courseName}} query">ELTsupport@oup.com</a>。まで、メールでお問い合わせください。メールには以下の内容をお書きください。</p>
+        <ul>
+          <li>コンピュータの種類（例：PC、Macなど）</li>
+          <li>OS（例：Windows 8など）</li>
+          <li>Yブラウザ（例：Firefox 17.0.5など）</li>
+          <li>Aお困りの問題の内容。とくに、その問題が生じる前に行った操作について明記してください。/li>
+        </ul>
+      </div>
+
+    </div>
+
+  </div><!--/faq-page__container-->
+
+</div><!--/faq-page JAPANESE-->
+
+
+<div 
 class="faq-page rtl"
 ng-if="language.language == 'arabic'"
 >

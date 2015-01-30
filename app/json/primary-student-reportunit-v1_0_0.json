@@ -5,6 +5,7 @@
     "spanish": "Informe de Unidades del Estudiante",
     "spanish_la": "Informe de Unidades del Estudiante",
     "portuguese": "Relatório de unidade do aluno",
+    "japanese": "生徒のユニットレポート",
     "arabic": "تقرير وحدة الطالب"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Utilice este menú para visualizar informes para todas las unidades, o informes para unidades por separado.",
             "spanish_la": "Utilice este menú para visualizar informes de todas las unidades, o informes de unidades por separado.",
             "portuguese": "Utilize este menu para exibir relatórios sobre todas as unidades ou para exibir relatórios sobre cada unidade separadamente.",
+            "japanese": "全ユニットのレポート、または特定のユニットのレポートを表示するには、このメニューを使用します。",
             "arabic": "استخدم هذه القائمة لعرض تقارير لجميع الوحدات أو لعرض تقارير لوحدات منفصلة."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Esta fila muestra las puntuaciones de cada actividad en una lección. La puntuación se muestra en base al número total de puntos posibles para una actividad.",
             "spanish_la": "Esta fila muestra las puntuaciones de cada actividad en una lección. La puntuación se muestra en base al número total de puntos posibles para una actividad.",
             "portuguese": "Esta linha exibe as pontuações de cada atividade em uma lição. A pontuação é exibida em relação ao número total de pontos possíveis em uma atividade.",
+            "japanese": "この行は、このレッスンの各アクティビティに対する得点を表します。これは、そのアクティビティで取得できるポイントのうち何点獲得できたかを表しています。",
             "arabic": "يبين هذا الصف درجات كل نشاط في درس ما. يتم عرض درجة الرقم الإجمالي للنقاط الممكنة في نشاط ما."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Esta fila muestra el número de intentos para cada actividad en una lección.",
             "spanish_la": "Esta fila muestra el número de intentos para cada actividad en una lección.",
             "portuguese": "Esta linha exibe o número de tentativas em cada atividade em uma lição.",
+            "japanese": "この行は、このレッスンの各アクティビティに取り組んだ回数を表します。",
             "arabic": "يُظهِر هذا الصف عدد المحاولات الخاصة بكل نشاط في درس ما."
           }
         },
@@ -72,6 +77,7 @@
             "spanish": "Esta fila muestra el tiempo empleado para todos los intentos de cada actividad en una lección.",
             "spanish_la": "Esta fila muestra el tiempo empleado para todos los intentos de cada actividad en una lección.",
             "portuguese": "Esta linha exibe o tempo gasto com todas as tentativas em cada atividade em uma lição.",
+            "japanese": "この行は、このレッスンの各アクティビティに対する全取り組みにかかった時間を表します。",
             "arabic": "يُظهِر هذا الصف الوقت المُستغرَق في كل المحاولات الخاصة بكل نشاط في درس ما."
           }
         },
@@ -85,6 +91,7 @@
             "spanish": "Aquí se muestra la puntuación total para una lección.",
             "spanish_la": "Aquí se muestra la puntuación total para una lección.",
             "portuguese": "A pontuação total em uma lição é exibida aqui.",
+            "japanese": "このレッスンの合計得点はこちらです。",
             "arabic": "يتم عرض الدرجة الإجمالية للدرس هنا."
           }
         },
@@ -98,6 +105,7 @@
             "spanish": "Aquí se muestra el número total de intentos para las actividades de una lección.",
             "spanish_la": "Aquí se muestra el número total de intentos para las actividades de una lección.",
             "portuguese": "O número total de tentativas de cada atividade em uma lição é exibido aqui.",
+            "japanese": "これは、このレッスンで取り組んだアクティビティの合計回数を表します。",
             "arabic": "يتم عرض العدد الإجمالي لمحاولات النشاط الخاصة بدرس ما هنا."
           }
         },
@@ -111,6 +119,7 @@
             "spanish": "Aquí se muestra el tiempo total empleado para todas las actividades en una lección.",
             "spanish_la": "Aquí se muestra el tiempo total empleado para todas las actividades en una lección.",
             "portuguese": "O tempo total gasto em todas as atividades em uma lição é exibido aqui.",
+            "japanese": "これは、このレッスンのすべてのアクティビティにかかった合計時間を表します。",
             "arabic": "يتم عرض إجمالي الوقت المُستغرَق في كل الأنشطة الخاصة بدرس ماهنا."
           }
         }

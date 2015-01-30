@@ -5,6 +5,7 @@
     "spanish": "Inicio",
     "spanish_la": "Inicio",
     "portuguese": "Início",
+    "japanese": "ホーム",
     "arabic": "الصفحة الرئيسية "
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Haga clic aquí para administrar sus clases de Práctica Online. Puede ver los detalles de sus clases, eliminar las cuentas de los estudiantes, añadir nuevas clases, eliminar clases, o inscribirse en una institución.",
             "spanish_la": "Haga click aquí para administrar sus clases de Práctica Online. Puede ver los detalles de sus clases, eliminar las cuentas de los estudiantes, añadir nuevas clases, eliminar clases, o inscribirse en una institución.",
             "portuguese": "Clique aqui para gerenciar suas turmas no Online Practice. Você pode visualizar os dados de suas turmas, excluir contas dos alunos, adicionar novas turmas, excluir turmas ou associar-se a uma instituição.",
+            "japanese": "Online Practiceのクラスを管理するには、こちらをクリックします。クラスの詳細の表示、生徒の削除、新しいクラスの追加登録、クラスの削除、学校・団体への参加登録もできます。",
             "arabic": "انقر هنا لإدارة فصول الممارسة الخاصة بك عبر شبكة الإنترنت. يمكنك عرض التفاصيل المتعلقة بالفصول الخاصة بك أو حذف حسابات الطلاب أو إضافة فصول جديدة أو حذف الفصول أو الانضمام لإحدى المؤسسات."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Haga clic aquí para ver las puntuaciones y los informes sobre el progreso de sus estudiantes.",
             "spanish_la": "Haga click aquí para ver las calificaciones y los informes sobre el progreso de sus estudiantes.",
             "portuguese": "Clique aqui para visualizar os resultados e os relatórios sobre o progresso de seus alunos.",
+            "japanese": "生徒の学習状況についての得点やレポートを表示するには、こちらをクリックします。",
             "arabic": "انقر هنا لعرض الدرجات والتقارير حول تقدم الطلاب التابعين لك."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "Haga clic aquí para entrar en el área de actividades de la Práctica Online.",
             "spanish_la": "Haga click aquí para entrar en el área de actividades de la Práctica Online.",
             "portuguese": "Clique aqui para entrar na área “Activity” do Online Practice.",
+            "japanese": "Online Practiceのアクティビティエリアにアクセスするには、こちらをクリックします。",
             "arabic": "انقر هنا لدخول منطقة نشاط الممارسة عبر شبكة الإنترنت."
           }
         },
@@ -72,6 +77,7 @@
             "spanish": "Haga clic aquí para agregar otro nivel a su curso de Práctica Online.",
             "spanish_la": "Haga click aquí para agregar otro nivel a su curso de Práctica Online.",
             "portuguese": "Clique aqui para adicionar outro nível ao seu curso Online Practice.",
+            "japanese": "Online Practiceのコースに別のレベルを追加するには、こちらをクリックします。",
             "arabic": "انقر هنا لإضافة مستوى آخر لمقرر الممارسة الخاصة بك عبر شبكة الإنترنت."
           }
         },
@@ -85,6 +91,7 @@
             "spanish": "Haga clic aquí para utilizar el área de correo electrónico y enviar mensajes a sus estudiantes. Si tiene mensajes nuevos, el número de mensajes aparecerá aquí.",
             "spanish_la": "Haga click aquí para utilizar el área de correo electrónico y enviar mensajes a sus estudiantes. Si tiene mensajes nuevos, el número de mensajes aparecerá aquí.",
             "portuguese": "Clique aqui para usar a área de e-mail e enviar mensagens para seus alunos. Caso você tenha novas mensagens, o número de mensagens não lidas aparecerá aqui.",
+            "japanese": "メールエリアで生徒にメッセージを送信する場合は、こちらをクリックします。新しいメッセージがある場合は、メッセージ数がこちらに表示されます。",
             "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني وإرسال الرسائل إلى طلابك. إذا كانت لديك رسائل جديدة، فإن عدد الرسائل سيظهر هنا."
           }
         },
@@ -98,6 +105,7 @@
             "spanish": "Haga clic aquí para ver las discusiones en el Foro.",
             "spanish_la": "Haga click aquí para ver las discusiones y para participar en las discusiones en el Foro.",
             "portuguese": "Clique aqui para visualizar as discussões no fórum.",
+            "japanese": "フォーラムのディスカッションを表示するには、こちらをクリックします。",
             "arabic": "انقر هنا لعرض المناقشات في المنتدى."
           }
         }

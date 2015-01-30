@@ -5,6 +5,7 @@
     "spanish": "Foro",
     "spanish_la": "Foro",
     "portuguese": "Fórum",
+    "japanese": "フォーラム",
     "arabic": "المنتدى"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "Elija una clase",
         "spanish_la": "Elija una clase",
         "portuguese": "Escolha uma turma",
+        "japanese": "クラスを選択する",
         "arabic": "حدد فصل"
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Elija una clase del menú.",
             "spanish_la": "Elija una clase del menú.",
             "portuguese": "Selecione uma turma a partir do menu.",
+            "japanese": "クラスをメニューから選択します。",
             "arabic": "حدد فصلا من القائمة."
           }
         }
@@ -47,6 +50,7 @@
         "spanish": "Escribir un mensaje",
         "spanish_la": "Escribir un mensaje",
         "portuguese": "Escreva uma postagem",
+        "japanese": "投稿する",
         "arabic": "اكتب منشورًا"
       },
       "paragraphs":{
@@ -60,6 +64,7 @@
             "spanish": "Puede crear un nuevo mensaje escribiendo en la columna de Create New Post [Crear Nuevo Mensaje]. Al hacer clic en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Cualquier estudiante en su clase de Práctica Online podrá ver su mensaje y responder. Los estudiantes también pueden escribir mensajes y comenzar las discusiones.",
             "spanish_la": "Puede crear un nuevo mensaje escribiendo en la columna de Create New Post [Crear Nuevo Mensaje]. Al hacer click en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Cualquier estudiante en su clase de Práctica Online podrá ver su mensaje y responder. Los estudiantes también pueden escribir mensajes y comenzar las discusiones.",
             "portuguese": "Você pode criar uma nova postagem escrevendo na coluna “Create New Post”. Quando você clicar no botão \"Post\" ela aparecerá na lista “Discussions and Comments”. Qualquer aluno em sua turma do Online Practice poderá visualizar sua postagem e responder a ela. Os alunos também podem escrever postagem e iniciar discussões.",
+            "japanese": "Create New Post[新規投稿]欄に書き込むことによって、新しく投稿することができます。Post[投稿]ボタンをクリックすると、Discussions and Commentリストの中に表示されます。Online Practiceのクラス内の生徒ならだれでも掲示板を見て、返信することができます。生徒同士でも投稿したり、ディスカッションを行うことができます。",
             "arabic": "يمكنك عمل منشور جديد عن طريق الكتابة في عمود إنشاء منشور جديد. عند النقر على زر“Post” (\"نشر\"), سوف تظهر في قائمة المناقشات والتعليقات. يمكن لأي طالب في فصل الممارسة على الإنترنتا لخاصة بك أن يرى منشورك ويرد عليه. يمكن للطلاب أيضًا كتابة منشورات وبدء مناقشات."
           }
         },
@@ -73,6 +78,7 @@
             "spanish": "Escriba el mensaje en el campo en blanco debajo de los botones de formato.",
             "spanish_la": "Escriba el mensaje en el campo en blanco debajo de los botones de formato.",
             "portuguese": "Escreva sua mensagem na área de texto em branco sob os botões de formatação.",
+            "japanese": "フォーマットボタンの下にある空白のテキストエリアにメッセージを書きます。",
             "arabic": "اكتب رسالتك في المنطقة الفارغة تحت أزرار التنسيق."
           }
         },
@@ -86,6 +92,7 @@
             "spanish": "Aquí podrá ver y responder todos los mensajes actuales.",
             "spanish_la": "Aquí podrá ver y responder todos los mensajes actuales.",
             "portuguese": "Este é o lugar onde você pode visualizar e responder a todas as postagens atuais.",
+            "japanese": "この画面では、現在のすべての投稿が表示され、返信することができます。",
             "arabic": "هذا هو المكان الذي يمكنك من خلاله عرض جميع المنشورات الحالية والرد عليها."
           }
         },
@@ -99,6 +106,7 @@
             "spanish": "Haga clic en \"Post\" para añadir un mensaje a la columna de la derecha.",
             "spanish_la": "Haga click en \"Post\" para añadir un mensaje a la columna de la derecha.",
             "portuguese": "Clique em “Post” para adicionar a postagem na coluna à direita.",
+            "japanese": "右側の欄に投稿を追加するには、Post[投稿]をクリックします。",
             "arabic": "انقر على “Post” (\"نشر\") لإضافة منشور ما إلى العمود الواقع على اليمين."
           }
         },
@@ -112,6 +120,7 @@
             "spanish": "Haga clic en \"Show\" para ver las respuestas de los alumnos a un mensaje.",
             "spanish_la": "Haga click en \"Show\" para ver las respuestas de los alumnos a un mensaje.",
             "portuguese": "Clique em “Show” para visualizar as respostas dos seus alunos a uma postagem.",
+            "japanese": "他の生徒の返信を表示するには、Show[表示]をクリックします。",
             "arabic": "انقر على “Show” (\"عرض\") لاستعراض ردود طلابك على منشور ما. "
           }
         },
@@ -125,6 +134,7 @@
             "spanish": "Haga clic en \"Hide\" para ocultar las respuestas.",
             "spanish_la": "Haga click en \"Hide\" para ocultar las respuestas.",
             "portuguese": "Clique em “Hide” para esconder as respostas.",
+            "japanese": "返信を表示しないようにするには、Hide[非表示]をクリックします。",
             "arabic": "انقر على “Hide” (\"إخفاء\") لإخفاء الردود."
           }
         },
@@ -138,6 +148,7 @@
             "spanish": "Haga clic en \"Reply\" para responder a un mensaje.",
             "spanish_la": "Haga click en \"Reply\" para responder a un mensaje.",
             "portuguese": "Clique em “Reply” para responder a uma postagem.",
+            "japanese": "投稿に返信するには、Reply[返信]をクリックします。",
             "arabic": "انقر على “Reply” (\"رد\") للرد على منشور ما."
           }
         }
@@ -152,6 +163,7 @@
         "spanish": "Responder o borrar mensajes",
         "spanish_la": "Responder o borrar mensajes",
         "portuguese": "Responder ou remover postagens",
+        "japanese": "投稿に返信する、または投稿を削除する",
         "arabic": "رُد على المنشورات أو احذفها"
       },
       "paragraphs":{
@@ -165,6 +177,7 @@
             "spanish": "Si hace clic en \"Reply\", se abrirá un cuadro de texto bajo el mensaje al que está respondiendo. Puede ingresar su respuesta directamente en la discusión.",
             "spanish_la": "Si hace click en \"Reply\", se abrirá un cuadro de texto bajo el mensaje al que está respondiendo. Puede ingresar su respuesta directamente en la discusión.",
             "portuguese": "Se você clicar em “Reply”, uma caixa de texto será aberta sob a postagem para a qual você está fornecendo uma resposta. Você pode digitar a sua resposta diretamente na discussão.",
+            "japanese": "Reply[返信]をクリックすると、返信する投稿の下にテキストボックスが表示されます。返信メッセージは、ディスカッション内で直接入力できます。",
             "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي تقوم بالرد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
           }
         },
@@ -178,6 +191,7 @@
             "spanish": "Haga clic en \"Post\" para publicar su respuesta a la discusión.",
             "spanish_la": "Haga click en \"Post\" para publicar su respuesta a la discusión.",
             "portuguese": "Clique em “Post” para publicar a sua resposta na área de discussão.",
+            "japanese": "ディスカッションに対して返信メッセージを投稿するには、Post[投稿]をクリックします。",
             "arabic": "انقر على “Post”  (\"نشر\") لنشر ردك على المناقشة."
           }
         },
@@ -191,6 +205,7 @@
             "spanish": "Haga clic en \"Cancel\" si no desea publicar su respuesta.",
             "spanish_la": "Haga click en \"Cancel\" si no desea publicar su respuesta.",
             "portuguese": "Clique em “Cancel” se você não desejar publicar sua resposta.",
+            "japanese": "返信したくない時は、Cancel[キャンセル]をクリックします。",
             "arabic": "انقر على “Cancel” (\"إلغاء\") إذا كنت لا تريد نشر ردك."
           }
         },
@@ -204,6 +219,7 @@
             "spanish": "Haga clic en \"Delete Conversation\" para borrar toda una discusión, incluyendo el mensaje original, así como las respuestas de todos los estudiantes. Los estudiantes no pueden eliminar discusiones.",
             "spanish_la": "Haga click en \"Delete Conversation\" para borrar toda una discusión, incluyendo el mensaje original, así como las respuestas de todos los estudiantes. Los estudiantes no pueden eliminar discusiones.",
             "portuguese": "Clique em “Delete Conversation” para excluir uma discussão inteira que inclua uma postagem original, bem como as respostas de todos os alunos. Os alunos não são capazes de excluir as discussões.",
+            "japanese": "元の投稿、生徒の返信も含めて、ディスカッションの内容をすべて削除するには、Delete Conversation[会話を削除]をクリックします。生徒はディスカッション内容を削除することはできません。",
             "arabic": "انقر على “Delete Conversation” (\"حذف المحادثة\") لحذف كامل المناقشة التي تتضمن المنشور الأصلي، فضلاً عن ردود كل الطلاب. لن يكون بمقدور الطلاب حذف المناقشات."
           }
         },
@@ -217,6 +233,7 @@
             "spanish": "Haga clic en \"Delete Reply\" para borrar cualquier respuesta en una discusión. Los estudiantes no pueden eliminar las respuestas.",
             "spanish_la": "Haga click en \"Delete Reply\" para borrar cualquier respuesta en una discusión. Los estudiantes no pueden eliminar las respuestas.",
             "portuguese": "Clique em “Delete Reply” para excluir qualquer resposta presente em uma discussão. Os alunos não são capazes de excluir as respostas.",
+            "japanese": "そのディスカッション内の返信を全て削除するには、Delete Reply[返信を削除]をクリックします。生徒は返信を削除することはできません。",
             "arabic": "انقر على “Delete Reply”(\"حذف الرد\") لحذف أي رد ضمن المناقشة. لن يكون بمقدور الطلاب حذف الردود."
           }
         }

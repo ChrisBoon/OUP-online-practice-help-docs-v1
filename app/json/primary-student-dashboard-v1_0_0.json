@@ -5,6 +5,7 @@
     "spanish": "Logros",
     "spanish_la": "Logros",
     "portuguese": "Progresso",
+    "japanese": "成績表",
     "arabic": "التحصيل"
   },
  "segment": "primary",
@@ -20,6 +21,7 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +35,7 @@
             "spanish": "Haga clic aquí para ver sus logros en la Sala de Trofeos y el Tablero de Habilidades.",
             "spanish_la": "Haga click aquí para ver sus logros en la Sala de Trofeos y el Tablero de Habilidades.",
             "portuguese": "Clique aqui para visualizar suas progresso na sala de troféus e no painel de habilidades.",
+            "japanese": "トロフィルームとスキルズ・ダッシュボードの成績表を表示するには、こちらをクリックします。",
             "arabic": "انقر هنا لرؤية التحصيل الخاص بك في غرفة الميدالياتولوحة المهارات."
           }
         },
@@ -46,6 +49,7 @@
             "spanish": "Haga clic aquí para ver sus Informes.",
             "spanish_la": "Haga click aquí para ver sus Informes.",
             "portuguese": "Clique aqui para visualizar os seus relatórios.",
+            "japanese": "レポートを表示するには、こちらをクリックします。",
             "arabic": "انقر هنا لرؤية تقاريرك."
           }
         },
@@ -59,6 +63,7 @@
             "spanish": "A medida que complete las actividades en cada unidad de su nivel de Práctica Online puede recolectar estrellas. Mientras más puntos logre, ¡más estrellas acumulará! Tiene tres intentos para realizar una actividad de la Práctica Online. Se registrará la puntuación más alta de los tres intentos como su puntuación final.",
             "spanish_la": "A medida que complete las actividades en cada unidad de su nivel de Práctica Online puede recolectar estrellas. Mientras más puntos logre, ¡más estrellas acumulará! Tiene tres intentos para realizar una actividad de la Práctica Online. Se registrará la puntuación más alta de los tres intentos como su puntuación final.",
             "portuguese": "Conforme as atividades em cada unidade do seu nível do Online Practice forem concluídas, você poderá coletar estrelas. Quanto mais pontos você obtiver, mais estrelas você poderá coletar! Você pode tentar realizar cada atividade do Online Practice três vezes. A pontuação mais alta dentre as três tentativas realizadas será registrada como a sua pontuação final.",
+            "japanese": "Online Practiceのそのレベルの各ユニットのアクティビティを完了すると、星印を集めることができます。スコアが高いほど、星印の数が増えます！Online Practiceのアクティビティは3回まで取り組むことができます。そのうちの最も高いスコアが最終的なレポートに記録されます。",
             "arabic": "بمجرد إكمالك الأنشطة الخاصة بكل وحدة من مستواك في الممارسة الخاص بك على الإنترنت، يمكنك جمع النجوم. كلما زادت الدرجات التي تحرزها، زادت النجوم التي تجمعها! يمكنك المحاولة في نشاط الممارسة على الإنترنت ثلاث مرات. يتم تسجيل أعلى درجة في المحاولات الثلاث كنتيجة نهائية خاصة بك."
           }
         },
@@ -72,6 +77,7 @@
             "spanish": "Si obtiene el 30% del total de puntos posibles en una unidad, se le otorgará una estrella de bronce.",
             "spanish_la": "Si obtiene el 30% del total de puntos posibles en una unidad, se le otorgará una estrella de bronce.",
             "portuguese": "Se você marcar 30% do total de pontos possíveis em uma unidade, você será premiado com uma estrela de bronze.",
+            "japanese": "スコアがそのユニットの総得点の30%だった場合は、ブロンズの星印がつきます。",
             "arabic": "إذا أحرزت 30% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةبرونزية."
           }
         },
@@ -85,6 +91,7 @@
             "spanish": "Si obtiene el 70% del total de puntos posibles en una unidad, se le otorgará una estrella de plata.",
             "spanish_la": "Si obtiene el 70% del total de puntos posibles en una unidad, se le otorgará una estrella de plata.",
             "portuguese": "Se você marcar 70% do total de pontos possíveis em uma unidade, você será premiado com uma estrela de prata.",
+            "japanese": "スコアがそのユニットの総得点の70%だった場合は、シルバーの星印がつきます。",
             "arabic": "إذا أحرزت 70% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةفضية."
           }
         },
@@ -98,6 +105,7 @@
             "spanish": "Si obtiene el 90% del total de puntos posibles en una unidad, se le otorgará una estrella de oro.",
             "spanish_la": "Si obtiene el 90% del total de puntos posibles en una unidad, se le otorgará una estrella de oro.",
             "portuguese": "Se você marcar 90% do total de pontos possíveis em uma unidade, você será premiado com uma estrela de ouro.",
+            "japanese": "スコアがそのユニットの総得点の90%だった場合は、ゴールドの星印がつきます。",
             "arabic": "إذا أحرزت 90% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةذهبية."
           }
         },
@@ -111,6 +119,7 @@
             "spanish": "Si obtiene el 100% del total de puntos posibles en una unidad, se le otorgará un trofeo extra.",
             "spanish_la": "Si obtiene el 100% del total de puntos posibles en una unidad, se le otorgará un trofeo extra.",
             "portuguese": "Se você marcar 100% do total de pontos possíveis em uma unidade, você será premiado com um troféu bônus.",
+            "japanese": "スコアがそのユニットの総得点の100%だった場合は、ボーナストロフィがつきます。",
             "arabic": "إذا أحرزت 100% من مجموع النقاط الممكنة في وحدة ما, فسوف يتم منحك ميداليةمكافأة."
           }
         },
@@ -124,6 +133,7 @@
             "spanish": "Este es su Tablero de Habilidades. Cada actividad en un nivel de Práctica Online pertenece a una habilidad de lenguaje, por ejemplo lectura, escritura, comprensión auditiva, etc. El Tablero de Habilidades muestra los resultados de su actividad para un nivel a través de las diferentes áreas de habilidades.",
             "spanish_la": "Este es su Tablero de Habilidades. Cada actividad en un nivel de Práctica Online pertenece a una habilidad de lenguaje, por ejemplo lectura, escritura, comprensión auditiva, etc. El Tablero de Habilidades muestra los resultados de su actividad para un nivel a través de las diferentes áreas de habilidades.",
             "portuguese": "Este é o seu painel de habilidades, cada atividade em um nível do Online Practice pertence a uma área de aprendizagem, como, por exemplo, leitura, escrita, compreensão, entre outras. O painel de habilidades exibe os resultados de suas atividades de um determinado nível dentre as diversas áreas de competências.",
+            "japanese": "この画面は、スキルズ・ダッシュボードを表示します。Online Practiceのひとつのレベルの各アクティビティは、リーディング、ライティング、リスニング、などの学習エリアにあります。スキルズ・ダッシュボードは、異なるスキルエリア全体のそのレベルのアクティビティの得点を表示します。",
             "arabic": "هذه هي لوحة المهارات الخاصة بك. ينتمي كل نشاط في مستوى الممارسة على الإنترنت إلى مجال تعليمي معين, مثل: القراءة, والكتابة, والاستماع, وغير ذلك. تُظهِر لوحة المهارات نتائج نشاطك بمستوى معين عبر مجالات المهارات المختلفة."
           }
         },
@@ -137,6 +147,7 @@
             "spanish": "Los resultados para actividades dentro de las diferentes áreas de habilidades se muestran como un porcentaje en base a la puntuación media de todas las actividades realizadas en un área de habilidades dentro de un nivel.",
             "spanish_la": "Los resultados para actividades dentro de las diferentes áreas de habilidades se muestran como un porcentaje en base a la puntuación media de todas las actividades realizadas en un área de habilidades dentro de un nivel.",
             "portuguese": "Os resultados das atividades dentro das diferentes áreas de competências são exibidos como um percentual com base na pontuação média de todas as atividades concluídas dentro de uma área de competências correspondente a um determinado nível.",
+            "japanese": "異なるスキルエリアのアクティビティの得点は、そのレベルのスキルエリアで完了した全アクティビティの平均得点を元にしたパーセンテージで表示されます。",
             "arabic": "يتم عرض نتائج الأنشطة التي تنتمي لمجالات مختلفة من المهارات كنسبة مئوية على أساس متوسط درجات كل الأنشطة المُنجَزة في مجال من المهارات خلال مستوى ما."
           }
         },
@@ -150,6 +161,7 @@
             "spanish": "Los resultados para áreas de habilidades que contienen actividades abiertas no calificables no se computan.",
             "spanish_la": "Los resultados para áreas de habilidades que contienen actividades abiertas no calificables no se computan.",
             "portuguese": "Os resultados para áreas de competência que contêm atividades abertas que não possuem pontuação não são contabilizados.",
+            "japanese": "スコアがつかない自由解答のアクティビティを含むスキルエリアの得点は、採点されません。",
             "arabic": "يتم إظهار نتائج مجالات المهارات التي تحتوي على أنشطة غير محددة النهاية والتي لا يتم فيها منح أية درجة على أنها\"ليست ذات درجة\"."
           }
         },
@@ -163,6 +175,7 @@
             "spanish": "Aquí se muestra el número de actividades realizadas, junto con el número total de actividades en un área de habilidad.",
             "spanish_la": "Aquí se muestra el número de actividades realizadas, junto con el número total de actividades en un área de habilidad.",
             "portuguese": "O número de atividades concluídas é exibido aqui, juntamente com o número total de atividades existente uma área de competência.",
+            "japanese": "完了したアクティビティの数は、そのスキルエリアのアクティビティの合計数とともにこちらに表示されます。",
             "arabic": "ويظهر عدد الأنشطة المُنجَزة هنا جنبًا إلى جنب مع عدد الأنشطة في هذا المجال من المهارة."
           }
         }
