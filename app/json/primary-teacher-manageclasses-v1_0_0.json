@@ -6,6 +6,7 @@
     "spanish_la": "Administrar Clases",
     "portuguese": "Gerenciar turmas",
     "japanese": "クラスの管理",
+    "chinese": "管理班級",
     "arabic": "إدارة الفصول"
   },
  "segment": "primary",
@@ -22,6 +23,7 @@
         "spanish_la": "",
         "portuguese": "",
         "japanese": "",
+        "chinese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -36,6 +38,7 @@
             "spanish_la": "Esta pantalla muestra todas las clases que ha creado.",
             "portuguese": "Esta tela exibe todas as turmas que você criou.",
             "japanese": "この画面は、登録された全クラスを表示します。",
+            "chinese": "本畫面顯示您創建的全部班級。",
             "arabic": "تُظهِر هذه الشاشة جميع الفصول التي قمت بإنشائها."
           }
         },
@@ -50,6 +53,7 @@
             "spanish_la": "Haga click aquí para ver los detalles de una clase. Puede ver sus estudiantes, su código de ID de clase, cambiar el nombre de esta clase, eliminar las cuentas de los estudiantes, o inscribirse en una institución.",
             "portuguese": "Clique aqui para visualizar os dados de uma turma. Você pode visualizar os seus alunos, o seu código de identificação de turma, alterar o nome dessa aula, excluir contas dos alunos ou associar-se a uma instituição.",
             "japanese": "このクラスの詳細を表示するには、こちらをクリックします。生徒やクラスIDコードの表示、クラス名の変更、生徒の削除、また学校・団体へ登録することもできます。",
+            "chinese": "點此處觀看班級詳細資料，您可以觀看您的學生、您的班級代碼、更改班級名稱、刪除學生帳號或加入機關單位。",
             "arabic": "انقر هنا لعرض التفاصيل عن فصل ما. يمكنك عرض طلابك أو عرض رمز مُعرِّف الفصل الخاص بك أو تغيير اسم هذا الفصل أو حذف حسابات الطلاب أو الانضمام لإحدى المؤسسات."
           }
         },
@@ -64,6 +68,7 @@
             "spanish_la": "Haga click aquí para ocultar unidades o lecciones para su clase.",
             "portuguese": "Clique aqui para ocultar as unidades ou lições de sua turma.",
             "japanese": "ユニットやレッスンを表示しない場合は、こちらをクリックします。",
+            "chinese": "點此處隱藏單元或課程，不讓您的班級看到。",
             "arabic": "انقر هنا لإخفاء الوحدات أو الدروس الخاصة بالفصل الخاص بك."
           }
         },
@@ -78,6 +83,7 @@
             "spanish_la": "Haga click aquí para ver los informes de clase y de los estudiantes.",
             "portuguese": "Clique aqui para visualizar os relatórios de sua turma e alunos.",
             "japanese": "クラスや生徒のレポートを表示するには、こちらをクリックします。",
+            "chinese": "點此處觀看您的班級報告和學生報告。",
             "arabic": "انقر هنا لعرض التقارير الخاصة بفصلك وطلابك."
           }
         },
@@ -92,6 +98,7 @@
             "spanish_la": "Haga click aquí para eliminar una clase.",
             "portuguese": "Clique aqui para excluir uma turma.",
             "japanese": "クラスを削除する場合は、こちらをクリックします。",
+            "chinese": "點此處刪除一個班級。",
             "arabic": "انقر هنا لحذف أحد الفصول."
           }
         },
@@ -106,6 +113,7 @@
             "spanish_la": "Haga click aquí para crear una nueva clase. (Para añadir un nuevo nivel, vaya a su página de Inicio y haga click en \"Add a Level\".)",
             "portuguese": "Clique aqui para criar uma nova turma. (Para adicionar um novo nível, vá para sua página inicial e clique em \"Add a Level\".)",
             "japanese": "新しいクラスを作成する場合は、こちらをクリックします（新しいレベルを追加する場合には、ホームページにアクセスして、Add a Level[レベルを追加]をクリックします）。",
+            "chinese": "點處創建一個新班級。（如需新增等級，請前往您的首頁並點擊「新增等級」。）",
             "arabic": "انقر هنا لإنشاء فصل جديد. (لإضافة مستوى جديد؛ انتقل إلى الصفحة الرئيسية وانقر“Add a Level”( \"إضافة مستوى\").)"
           }
         }

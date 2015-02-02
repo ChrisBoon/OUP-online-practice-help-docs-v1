@@ -7,7 +7,8 @@
       "spanish": "Profesor",
       "spanish_la": "Profesor",
       "portuguese": "Professor",
-      "japanese": "-",
+      "japanese": "先生",
+      "chinese": "教師",
       "arabic": "المعلم"
     },
     "docsList":{
@@ -19,7 +20,8 @@
           "spanish": "Registro",
           "spanish_la": "Registro",
           "portuguese": "Cadastro",
-          "japanese": "-",
+          "japanese": "登録",
+          "chinese": "註冊",
           "arabic": "التسجيل"
         },
         "id": "primary-teacher-registration-v1_0_0"
@@ -32,7 +34,8 @@
           "spanish": "Inicio",
           "spanish_la": "Inicio",
           "portuguese": "Início",
-          "japanese": "-",
+          "japanese": "ホーム",
+          "chinese": "首頁",
           "arabic": "الصفحة الرئيسية"
         },
         "id": "primary-teacher-home-v1_0_0"
@@ -45,7 +48,8 @@
           "spanish": "Administrar Clases",
           "spanish_la": "Administrar Clases",
           "portuguese": "Gerenciar turmas",
-          "japanese": "-",
+          "japanese": "クラスの管理",
+          "chinese": "管理班級",
           "arabic": "إدارة الفصول"
         },
         "id": "primary-teacher-manageclasses-v1_0_0"
@@ -58,7 +62,8 @@
           "spanish": "Detalles de la Clase",
           "spanish_la": "Detalles de la Clase",
           "portuguese": "Dados da turma",
-          "japanese": "-",
+          "japanese": "クラスの詳細",
+          "chinese": "班級資料",
           "arabic": "تفاصيل الفصل"
         },
         "id": "primary-teacher-classdetails-v1_0_0"
@@ -71,7 +76,8 @@
           "spanish": "Editar Nombre de la Clase",
           "spanish_la": "Editar Nombre de la Clase",
           "portuguese": "Editar o nome da turma",
-          "japanese": "-",
+          "japanese": "クラス名の編集",
+          "chinese": "編輯班級名稱",
           "arabic": "تحرير اسم الفصل"
         },
         "id": "primary-teacher-classeditname-v1_0_0"
@@ -84,7 +90,8 @@
           "spanish": "Unirse a una Institución",
           "spanish_la": "Unirse a una Institución",
           "portuguese": "Associe-se a uma instituição",
-          "japanese": "-",
+          "japanese": "学校・団体への参加登録",
+          "chinese": "加入機關單位",
           "arabic": "الانضمام إلى مؤسسة"
         },
         "id": "primary-teacher-joininstitution-v1_0_0"
@@ -97,7 +104,8 @@
           "spanish": "Ocultar Unidades y Lecciones",
           "spanish_la": "Ocultar Unidades y Lecciones",
           "portuguese": "Ocultar unidades e lições",
-          "japanese": "-",
+          "japanese": "ユニットとレッスンを非表示にする",
+          "chinese": "隱藏單元與課程",
           "arabic": "إخفاء الوحدات والدروس"
         },
         "id": "primary-teacher-contentassign-v1_0_0"
@@ -110,7 +118,8 @@
           "spanish": "Añadir una Nueva Clase",
           "spanish_la": "Añadir una Nueva Clase",
           "portuguese": "Adicione uma nova turma",
-          "japanese": "-",
+          "japanese": "クラスの追加",
+          "chinese": "新增班級",
           "arabic": "إضافة فصل جديد"
         },
         "id": "primary-teacher-addclass-v1_0_0"
@@ -123,7 +132,8 @@
           "spanish": "Informe de Resumen de la Clase",
           "spanish_la": "Informe de Resumen de la Clase",
           "portuguese": "Relatório resumido da turma",
-          "japanese": "-",
+          "japanese": "クラスサマリーレポート",
+          "chinese": "班級簡要報告",
           "arabic": "تقرير موجز الفصل"
         },
         "id": "primary-teacher-reportclasssummary-v1_0_0"
@@ -136,7 +146,8 @@
           "spanish": "Informe de la Clase",
           "spanish_la": "Informe de la Clase",
           "portuguese": "Relatório de turma",
-          "japanese": "-",
+          "japanese": "クラスレポート",
+          "chinese": "班級報告",
           "arabic": "التقرير الخاص بالفصل"
         },
         "id": "primary-teacher-reportclass-v1_0_0"
@@ -149,7 +160,8 @@
           "spanish": "Informe del Estudiante",
           "spanish_la": "Informe del Estudiante",
           "portuguese": "Relatório do aluno",
-          "japanese": "-",
+          "japanese": "生徒レポート",
+          "chinese": "學生報告",
           "arabic": "تقرير عن الطالب"
         },
         "id": "primary-teacher-reportstudent-v1_0_0"
@@ -162,7 +174,8 @@
           "spanish": "Logros",
           "spanish_la": "Logros",
           "portuguese": "Progressos",
-          "japanese": "-",
+          "japanese": "成績表",
+          "chinese": "學習成果",
           "arabic": "التحصيل"
         },
         "id": "primary-teacher-dashboard-v1_0_0"
@@ -175,7 +188,8 @@
           "spanish": "Informe de la Unidad",
           "spanish_la": "Informe de la Unidad",
           "portuguese": "Relatório de unidade",
-          "japanese": "-",
+          "japanese": "ユニットレポート",
+          "chinese": "單元報告",
           "arabic": "تقرير الوحدة"
         },
         "id": "primary-teacher-reportunit-v1_0_0"
@@ -188,7 +202,8 @@
           "spanish": "Informe de la Lección",
           "spanish_la": "Informe de la Lección",
           "portuguese": "Relatório da lição",
-          "japanese": "-",
+          "japanese": "レッスンレポート",
+          "chinese": "課程報告",
           "arabic": "تقرير عن الدرس"
         },
         "id": "primary-teacher-reportlesson-v1_0_0"
@@ -201,7 +216,8 @@
           "spanish": "Informe de Actividades del Estudiante",
           "spanish_la": "Informe de Actividades del Estudiante",
           "portuguese": "Relatório da atividade do aluno",
-          "japanese": "-",
+          "japanese": "生徒のアクティビティレポート",
+          "chinese": "學生學習活動報告",
           "arabic": "تقرير نشاط الطالب"
         },
         "id": "primary-teacher-reportstudentactivity-v1_0_0"
@@ -214,7 +230,8 @@
           "spanish": "Ingresar a Práctica Online",
           "spanish_la": "Ingresar a Práctica Online",
           "portuguese": "Acessar o Online Practice",
-          "japanese": "-",
+          "japanese": "Online Practiceへのアクセス",
+          "chinese": "進入線上練習",
           "arabic": "إدخال الممارسة على الإنترنت"
         },
         "id": "primary-teacher-enteronlinepractice-v1_0_0"
@@ -227,7 +244,8 @@
           "spanish": "Actividades",
           "spanish_la": "Actividades",
           "portuguese": "Atividades",
-          "japanese": "-",
+          "japanese": "アクティビティ",
+          "chinese": "學習活動",
           "arabic": "أنشطة"
         },
         "id": "primary-teacher-activities-v1_0_0"
@@ -240,7 +258,8 @@
           "spanish": "Glosario",
           "spanish_la": "Glosario",
           "portuguese": "Glossário",
-          "japanese": "-",
+          "japanese": "グロッサリー",
+          "chinese": "詞庫",
           "arabic": "المسرد"
         },
         "id": "primary-teacher-glossary-v1_0_0"
@@ -253,7 +272,8 @@
           "spanish": "Recursos",
           "spanish_la": "Recursos",
           "portuguese": "Recursos",
-          "japanese": "-",
+          "japanese": "リソース",
+          "chinese": "教學資源",
           "arabic": "الموارد"
         },
         "id": "primary-teacher-resources-v1_0_0"
@@ -266,7 +286,8 @@
           "spanish": "Centro de Medios",
           "spanish_la": "Centro de Medios",
           "portuguese": "Centro de mídia",
-          "japanese": "-",
+          "japanese": "メディアセンター",
+          "chinese": "媒體中心",
           "arabic": "مركز الوسائط"
         },
         "id": "primary-teacher-media-v1_0_0"
@@ -279,7 +300,8 @@
           "spanish": "Añadir un Nivel",
           "spanish_la": "Añadir un Nivel",
           "portuguese": "Adicionar um nível",
-          "japanese": "-",
+          "japanese": "レベルの追加",
+          "chinese": "新增等級",
           "arabic": "إضافة مستوى"
         },
         "id": "primary-teacher-addlevel-v1_0_0"
@@ -292,7 +314,8 @@
           "spanish": "Correo electrónico",
           "spanish_la": "Correo electrónico",
           "portuguese": "E-mail",
-          "japanese": "-",
+          "japanese": "メール",
+          "chinese": "電子郵件",
           "arabic": "البريد الإلكتروني"
         },
         "id": "primary-teacher-email-v1_0_0"
@@ -305,7 +328,8 @@
           "spanish": "Foro",
           "spanish_la": "Foro",
           "portuguese": "Fórum",
-          "japanese": "-",
+          "japanese": "フォーラム",
+          "chinese": "討論區",
           "arabic": "المنتدى"
         },
         "id": "primary-teacher-forum-v1_0_0"
@@ -318,7 +342,8 @@
           "spanish": "Editar Perfil",
           "spanish_la": "Editar Perfil",
           "portuguese": "Editar perfil",
-          "japanese": "-",
+          "japanese": "プロフィールの編集",
+          "chinese": "編輯個人檔案",
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "primary-teacher-editprofile-v1_0_0"
@@ -333,7 +358,8 @@
         "spanish": "Estudiante",
         "spanish_la": "Estudiante",
         "portuguese": "Aluno",
-        "japanese": "-",
+        "japanese": "生徒",
+        "chinese": "學生",
         "arabic": "الطالب"
       },
     "docsList":{
@@ -345,7 +371,8 @@
           "spanish": "Registro",
           "spanish_la": "Registro",
           "portuguese": "Cadastro",
-          "japanese": "-",
+          "japanese": "登録",
+          "chinese": "註冊",
           "arabic": "التسجيل"
         },
         "id": "primary-student-registration-v1_0_0"
@@ -358,7 +385,8 @@
           "spanish": "Inicio",
           "spanish_la": "Inicio",
           "portuguese": "Início",
-          "japanese": "-",
+          "japanese": "ホーム",
+          "chinese": "首頁",
           "arabic": "الصفحة الرئيسية"
         },
         "id": "primary-student-home-v1_0_0"
@@ -371,7 +399,8 @@
           "spanish": "Añadir un Nivel",
           "spanish_la": "Añadir un Nivel",
           "portuguese": "Adicionar um nível",
-          "japanese": "-",
+          "japanese": "レベルの追加",
+          "chinese": "新增等級",
           "arabic": "إضافة مستوى"
         },
         "id": "primary-student-addlevel-v1_0_0"
@@ -384,7 +413,8 @@
           "spanish": "Actividades",
           "spanish_la": "Actividades",
           "portuguese": "Atividades",
-          "japanese": "-",
+          "japanese": "アクティビティ",
+          "chinese": "",
           "arabic": "أنشطة"
         },
         "id": "primary-student-activities-v1_0_0"
@@ -397,7 +427,8 @@
           "spanish": "Glosario",
           "spanish_la": "Glosario",
           "portuguese": "Glossário",
-          "japanese": "-",
+          "japanese": "グロッサリー",
+          "chinese": "學習活動",
           "arabic": "المسرد"
         },
         "id": "primary-student-glossary-v1_0_0"
@@ -410,7 +441,8 @@
           "spanish": "Recursos",
           "spanish_la": "Recursos",
           "portuguese": "Recursos",
-          "japanese": "-",
+          "japanese": "リソース",
+          "chinese": "學習資源",
           "arabic": "الموارد"
         },
         "id": "primary-student-resources-v1_0_0"
@@ -423,7 +455,8 @@
           "spanish": "Logros",
           "spanish_la": "Logros",
           "portuguese": "Progressos",
-          "japanese": "-",
+          "japanese": "アチーブメント",
+          "chinese": "學習成果",
           "arabic": "التحصيل"
         },
         "id": "primary-student-dashboard-v1_0_0"
@@ -436,7 +469,8 @@
           "spanish": "Informe",
           "spanish_la": "Informe",
           "portuguese": "Relatório",
-          "japanese": "-",
+          "japanese": "レポート",
+          "chinese": "學習報告",
           "arabic": "التقرير"
         },
         "id": "primary-student-reportprogress-v1_0_0"
@@ -449,7 +483,8 @@
           "spanish": "Informe de la Unidad",
           "spanish_la": "Informe de la Unidad",
           "portuguese": "Relatório de unidade",
-          "japanese": "-",
+          "japanese": "ユニットレポート",
+          "chinese": "單元報告",
           "arabic": "تقرير الوحدة"
         },
         "id": "primary-student-reportunit-v1_0_0"
@@ -462,7 +497,8 @@
           "spanish": "Correo electrónico",
           "spanish_la": "Correo electrónico",
           "portuguese": "E-mail",
-          "japanese": "-",
+          "japanese": "メール",
+          "chinese": "電子郵件",
           "arabic": "البريد الإلكتروني"
         },
         "id": "primary-student-email-v1_0_0"
@@ -475,7 +511,8 @@
           "spanish": "Foro",
           "spanish_la": "Foro",
           "portuguese": "Fórum",
-          "japanese": "-",
+          "japanese": "フォーラム",
+          "chinese": "討論區",
           "arabic": "المنتدى"
         },
         "id": "primary-student-forum-v1_0_0"
@@ -488,7 +525,8 @@
           "spanish": "Centro de Medios",
           "spanish_la": "Centro de Medios",
           "portuguese": "Centro de mídia",
-          "japanese": "-",
+          "japanese": "メディアセンター",
+          "chinese": "媒體中心",
           "arabic": "مركز الوسائط"
         },
         "id": "primary-student-media-v1_0_0"
@@ -501,7 +539,8 @@
           "spanish": "Inscribirse a una Clase",
           "spanish_la": "Inscribirse a una Clase",
           "portuguese": "Participe de uma turma",
-          "japanese": "-",
+          "japanese": "クラスへの参加登録",
+          "chinese": "加入班級",
           "arabic": "الانضمام إلى فصل"
         },
         "id": "primary-student-classjoin-v1_0_0"
@@ -514,7 +553,8 @@
           "spanish": "Cambio de Clase",
           "spanish_la": "Cambio de Clase",
           "portuguese": "Alterar turma",
-          "japanese": "-",
+          "japanese": "クラスの変更",
+          "chinese": "更改班級",
           "arabic": "تغيير الفصل"
         },
         "id": "primary-student-classchange-v1_0_0"
@@ -527,7 +567,8 @@
           "spanish": "Editar Perfil",
           "spanish_la": "Editar Perfil",
           "portuguese": "Editar perfil",
-          "japanese": "-",
+          "japanese": "プロフィールの編集",
+          "chinese": "編輯個人檔案",
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "primary-student-editprofile-v1_0_0"
@@ -542,7 +583,8 @@
         "spanish": "Administrador",
         "spanish_la": "Administrador",
         "portuguese": "Administrador",
-        "japanese": "-",
+        "japanese": "管理者",
+        "chinese": "管理人",
         "arabic": "مراقب النظام"
       },
     "docsList":{
@@ -554,7 +596,8 @@
           "spanish": "Registro",
           "spanish_la": "Registro",
           "portuguese": "Cadastro",
-          "japanese": "-",
+          "japanese": "登録",
+          "chinese": "註冊",
           "arabic": "التسجيل"
         },
         "id": "primary-admin-registration-v1_0_0"
@@ -567,7 +610,8 @@
           "spanish": "Inicio",
           "spanish_la": "Inicio",
           "portuguese": "Início",
-          "japanese": "-",
+          "japanese": "ホーム",
+          "chinese": "首頁",
           "arabic": "الصفحة الرئيسية"
         },
         "id": "primary-admin-home-v1_0_0"
@@ -580,7 +624,8 @@
           "spanish": "Editar Perfil",
           "spanish_la": "Editar Perfil",
           "portuguese": "Editar perfil",
-          "japanese": "-",
+          "japanese": "プロフィールの編集",
+          "chinese": "編輯個人檔案",
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "primary-admin-editprofile-v1_0_0"
@@ -596,6 +641,7 @@
         "spanish_la": "Secondary Specific",
         "portuguese": "Secondary Specific",
         "japanese": "-",
+        "chinese": "-",
         "arabic": "Secondary Specific"
       },
     "docsList":{
@@ -608,6 +654,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-student-activities-sec"
@@ -621,6 +668,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-student-addlevel-sec"
@@ -634,6 +682,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-student-media-sec"
@@ -647,6 +696,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-student-registration-sec"
@@ -660,6 +710,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-student-reportprogress-sec"
@@ -673,6 +724,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-student-reportunit-sec"
@@ -686,6 +738,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-teacher-activities-sec"
@@ -699,6 +752,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-teacher-enteronlinepractice-sec"
@@ -712,6 +766,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-teacher-media-sec"
@@ -725,6 +780,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-teacher-registration-sec"
@@ -738,6 +794,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-teacher-reportstudent-sec"
@@ -753,6 +810,7 @@
         "spanish_la": "Teen 2 Teen specific",
         "portuguese": "Teen 2 Teen specific",
         "japanese": "-",
+        "chinese": "-",
         "arabic": "Teen 2 Teen specific"
       },
     "docsList":{
@@ -765,6 +823,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-student-home-t2t"
@@ -778,6 +837,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-teacher-enteronlinepractice-t2t"
@@ -792,7 +852,8 @@
         "spanish": "Engage specific",
         "spanish_la": "Engage specific",
         "portuguese": "Engage specific",
-        "japanese": "-",
+        "japanese": "Engage specific",
+        "chinese": "-",
         "arabic": "Engage specific"
       },
     "docsList":{
@@ -805,6 +866,7 @@
           "spanish_la": "-",
           "portuguese": "-",
           "japanese": "-",
+          "chinese": "-",
           "arabic": "-"
         },
         "id": "primary-student-home-eng"

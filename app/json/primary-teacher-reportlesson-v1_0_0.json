@@ -6,6 +6,7 @@
     "spanish_la": "Informe de la Lección",
     "portuguese": "Relatório da lição",
     "japanese": "レッスンレポート",
+    "chinese": "課程報告",
     "arabic": "تقرير عن الدرس"
   },
  "segment": "primary",
@@ -22,6 +23,7 @@
         "spanish_la": "",
         "portuguese": "",
         "japanese": "",
+        "chinese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -36,6 +38,7 @@
             "spanish_la": "Haga click aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas).",
             "japanese": "クラスのサマリーレポート（全クラスの平均得点）を表示するには、こちらをクリックします。",
+            "chinese": "點此處觀看班級簡要報告（您全部班級的平均分數）。",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -50,6 +53,7 @@
             "spanish_la": "Haga click aquí para ver el Informe de la Clase.",
             "portuguese": "Clique aqui para visualizar o relatório da turma.",
             "japanese": "クラスレポートを表示するには、こちらをクリックします。",
+            "chinese": "點此處觀看班級報告。",
             "arabic": "انقر هنا لعرض التقرير عن الفصل."
           }
         },
@@ -64,6 +68,7 @@
             "spanish_la": "Utilice este menú para ver un Informe de Unidad de una clase diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de uma turma diferente.",
             "japanese": "別のクラスのユニットレポートを表示するには、このメニューを使用します。",
+            "chinese": "使用此選單來觀看不同班級的單元報告。",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لفصل مختلف."
           }
         },
@@ -78,6 +83,7 @@
             "spanish_la": "Utilice este menú para ver un Informe de Unidad de un estudiante diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de unidade de um aluno diferente.",
             "japanese": "別の生徒のユニットレポートを表示するには、このメニューを使用します。",
+            "chinese": "使用此選單來觀看不同學生的單元報告。",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لطالب مختلف."
           }
         },
@@ -92,6 +98,7 @@
             "spanish_la": "Utilice este menú para ver el Informe de Unidad en una unidad diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de unidade de uma unidade diferente.",
             "japanese": "別のユニットのユニットレポートを表示するには、このメニューを使用します。",
+            "chinese": "使用此選單來觀看不同單元的單元報告。",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لوحدة مختلفة."
           }
         },
@@ -106,6 +113,7 @@
             "spanish_la": "Utilice este menú para ver el Informe de Lección de una lección diferente.",
             "portuguese": "Utilize este menu para visualizar um relatório de unidade de uma lição diferente.",
             "japanese": "別のレッスンのユニットレポートを表示するには、このメニューを使用します。",
+            "chinese": "使用此選單來觀看不同課程的單元報告。",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لدرس مختلف."
           }
         },
@@ -120,6 +128,7 @@
             "spanish_la": "Esta fila muestra la calificación de este estudiante para cada actividad en esta lección. Muestra la puntuación para el último intento del estudiante en la actividad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el alumno contestó correctamente, y 10 es el número total de elementos en la actividad. El símbolo . significa que la actividad no tiene una puntuación.",
             "portuguese": "Esta linha exibe a pontuação deste aluno em cada atividade nesta lição. Ela exibe a pontuação recebida durante a última tentativa de realização da atividade pelo aluno. Por exemplo, se o resultado é 8/10, 8 é o número de itens (questões) que o aluno respondeu corretamente, e 10 é o número total de itens na atividade. O símbolo . significa que a atividade não possui uma pontuação.",
             "japanese": "この行は、このレッスンの各アクティビティに対するこの生徒の得点を表します。これは、その生徒によるこのアクティビティに対する一番最近の取り組みを表示しています。例えば、その得点が8/10だとすれば、8はその生徒が正しく答えた質問の数であり、10はそのアクティビティの質問の合計数です。.のマークは、アクティビティに得点がないことを意見します。",
+            "chinese": "這一行顯示這位學生在這堂課當中每個學習活動的得分，此得分來自於學生對於這個學習活動最近一次的嘗試。例如，如果分數是8/10，8代表學生答對的題目數量，而10代表此活動裡面全部的題目數量。圓點符號「.」代表這項學習活動並沒有分數。",
             "arabic": "يُظهِر هذا الصف درجات هذا الطالب في كل نشاط في هذا الدرس. ويوضح الدرجةالخاصة بآخر محاولة للطالب في النشاط. فعلى سبيل المثال، إذا كانت الدرجةهي 8/10، فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عنها الطالب إجابة صحيحة، والرقم 10 هو العدد الإجمالي للبنود في النشاط. يُقصَد بالرمز . أن النشاط ليست عليه أية درجة."
           }
         },
@@ -134,6 +143,7 @@
             "spanish_la": "Esta fila muestra el número de intentos para cada actividad en esta lección.",
             "portuguese": "Esta linha exibe o número de tentativas para cada atividade nesta lição.",
             "japanese": "この行は、このレッスンにおいて各アクティビティに取り組んだ回数を表します。",
+            "chinese": "這一行顯示這堂課當中，每項學習活動被嘗試的次數。",
             "arabic": "يُظهِر هذا الصف عدد المحاولات الخاصة بكل نشاط في هذا الدرس."
           }
         },
@@ -148,6 +158,7 @@
             "spanish_la": "Esta fila muestra la cantidad total de tiempo dedicado a todos los intentos de cada actividad.",
             "portuguese": "Esta linha exibe a quantidade total de tempo gasto em todas as tentativas de cada atividade.",
             "japanese": "この行は、各アクティビティの学習に費やした合計時間です。",
+            "chinese": "這一行顯示這堂課當中，每項學習活動被嘗試的時間總和。",
             "arabic": "يظهر هذا النشاط مقدار الوقت المُستغرَق في كافة المحاولة لكل نشاط."
           }
         },
@@ -162,6 +173,7 @@
             "spanish_la": "Esta es la puntuación total del estudiante para esta lección.",
             "portuguese": "Esta é a pontuação total do aluno para esta lição.",
             "japanese": "これは、その生徒のこのレッスンにおける合計得点です。",
+            "chinese": "這是學生在這堂課得到的總分。",
             "arabic": "هذه هي النتيجة الإجمالية للطالب بالنسبة لهذا الدرس."
           }
         },
@@ -176,6 +188,7 @@
             "spanish_la": "Este es el número total de veces que este estudiante ha intentado realizar las actividades en esta lección.",
             "portuguese": "Este é o número total de vezes que este aluno tentou realizar todas as atividades nesta lição.",
             "japanese": "これは、その生徒がこのレッスンの全てのアクティビティに費やした合計回数です。",
+            "chinese": "這是這位學生在這堂課所有的學習活動嘗試次數總和。",
             "arabic": "هذا هو العدد الإجمالي للأوقات التي حاول فيها هذا الطالب القيام بجميع الأنشطة في هذا الدرس."
           }
         },
@@ -190,6 +203,7 @@
             "spanish_la": "Esta es la cantidad total de tiempo que el estudiante ha empleado para esta lección.",
             "portuguese": "Esta é a quantidade total de tempo que este aluno gastou nesta lição.",
             "japanese": "これは、その生徒がこのレッスンに費やした合計時間です。",
+            "chinese": "這是這位學生在這堂課花費的全部時間總和。",
             "arabic": "هذا هو مقدار الوقت الإجمالي الذي قضاه الطالب في هذا الدرس."
           }
         },
@@ -204,6 +218,7 @@
             "spanish_la": "Haga click en el símbolo + para aumentar la cantidad de intentos para este estudiante. Cada aumento otorgará tres intentos más al estudiante.",
             "portuguese": "Clique no símbolo de + para aumentar o número de tentativas deste aluno. Cada aumento realizado concederá ao aluno mais três tentativas.",
             "japanese": "この生徒の取り組む回数を増やすには、+マークをクリックします。1回増やすごとにその生徒はさらに3回取り組むことができます。",
+            "chinese": "點擊「+」符號可以增加這位學生的嘗試次數，每次增加將會提供學生三次嘗試機會。",
             "arabic": "انقر فوق رمز + لزيادة عدد محاولات هذا الطالب. وستعطي كل زيادة الطالب ثلاث محاولات إضافية."
           }
         },
@@ -218,6 +233,7 @@
             "spanish_la": "Haga click aquí para imprimir este informe.",
             "portuguese": "Clique aqui para imprimir este relatório.",
             "japanese": "このレポートを印刷するには、こちらをクリックします。",
+            "chinese": "點此處列印這份報告。",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         },
@@ -232,6 +248,7 @@
             "spanish_la": "Haga click aquí para exportar este informe en formato Microsoft Excel™",
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™.",
             "japanese": "このレポートをMicrosoft Excel™にエクスポートするには、こちらをクリックします。",
+            "chinese": "點此處用Microsoft Excel格式輸出這份報告。",
             "arabic": "اانقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         }

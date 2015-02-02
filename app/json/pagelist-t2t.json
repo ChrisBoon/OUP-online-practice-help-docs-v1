@@ -4,6 +4,8 @@
     "userType": {
       "english": "Teacher",
       "spanish_la": "Profesor",
+      "japanese": "先生",
+      "chinese": "教師",
       "portuguese": "Professor"
     },
     "docsList":{
@@ -12,6 +14,8 @@
         "title": {
           "english": "Registration",
           "spanish_la": "Registro",
+          "japanese": "登録",
+          "chinese": "註冊",
           "portuguese": "Cadastro"
         },
         "id": "primary-teacher-registration-sec"
@@ -21,6 +25,8 @@
         "title": {
           "english": "Home",
           "spanish_la": "Inicio",
+          "japanese": "ホーム",
+          "chinese": "首頁",
           "portuguese": "Início"
         },
         "id": "primary-teacher-home-v1_0_0"
@@ -30,6 +36,8 @@
         "title": {
           "english": "Manage Classes",
           "spanish_la": "Administrar Clases",
+          "japanese": "クラスの管理",
+          "chinese": "管理班級",
           "portuguese": "Gerenciar turmas"
         },
         "id": "primary-teacher-manageclasses-v1_0_0"
@@ -39,6 +47,8 @@
         "title": {
           "english": "Class Details",
           "spanish_la": "Detalles de la Clase",
+          "japanese": "クラスの詳細",
+          "chinese": "班級資料",
           "portuguese": "Dados da turma"
         },
         "id": "primary-teacher-classdetails-v1_0_0"
@@ -48,6 +58,8 @@
         "title": {
           "english": "Edit Class Name",
           "spanish_la": "Editar Nombre de la Clase",
+          "japanese": "クラス名の編集",
+          "chinese": "編輯班級名稱",
           "portuguese": "Editar o nome da turma"
         },
         "id": "primary-teacher-classeditname-v1_0_0"
@@ -57,6 +69,8 @@
         "title": {
           "english": "Join an Institution",
           "spanish_la": "Unirse a una Institución",
+          "japanese": "学校・団体への参加登録",
+          "chinese": "加入機關單位",
           "portuguese": "Associe-se a uma instituição"
         },
         "id": "primary-teacher-joininstitution-v1_0_0"
@@ -66,6 +80,8 @@
         "title": {
           "english": "Hide Units and Lessons",
           "spanish_la": "Ocultar Unidades y Lecciones",
+          "japanese": "ユニットとレッスンを非表示にする",
+          "chinese": "隱藏單元與課程",
           "portuguese": "Ocultar unidades e lições"
         },
         "id": "primary-teacher-contentassign-v1_0_0"
@@ -75,6 +91,8 @@
         "title": {
           "english": "Add a New Class",
           "spanish_la": "Añadir una Nueva Clase",
+          "japanese": "クラスの追加",
+          "chinese": "新增班級",
           "portuguese": "Adicione uma nova turma"
         },
         "id": "primary-teacher-addclass-v1_0_0"
@@ -84,6 +102,8 @@
         "title": {
           "english": "Class Summary Report",
           "spanish_la": "Informe de Resumen de la Clase",
+          "japanese": "クラスサマリーレポート",
+          "chinese": "班級簡要報告",
           "portuguese": "Relatório resumido da turma"
         },
         "id": "primary-teacher-reportclasssummary-v1_0_0"
@@ -93,6 +113,8 @@
         "title": {
           "english": "Class Report",
           "spanish_la": "Informe de la Clase",
+          "japanese": "クラスレポート",
+          "chinese": "班級報告",
           "portuguese": "Relatório de turma"
         },
         "id": "primary-teacher-reportclass-v1_0_0"
@@ -102,6 +124,8 @@
         "title": {
           "english": "Student Report",
           "spanish_la": "Informe del Estudiante",
+          "japanese": "生徒レポート",
+          "chinese": "學生報告",
           "portuguese": "Relatório do aluno"
         },
         "id": "primary-teacher-reportstudent-sec"
@@ -111,6 +135,8 @@
         "title": {
           "english": "Unit Report",
           "spanish_la": "Informe de la Unidad",
+          "japanese": "ユニットレポート",
+          "chinese": "單元報告",
           "portuguese": "Relatório de unidade"
         },
         "id": "primary-teacher-reportunit-v1_0_0"
@@ -120,6 +146,8 @@
         "title": {
           "english": "Lesson Report",
           "spanish_la": "Informe de la Lección",
+          "japanese": "レッスンレポート",
+          "chinese": "課程報告",
           "portuguese": "Relatório da lição"
         },
         "id": "primary-teacher-reportlesson-v1_0_0"
@@ -129,6 +157,8 @@
         "title": {
           "english": "Student Activity Report",
           "spanish_la": "Informe de Actividades del Estudiante",
+          "japanese": "生徒のアクティビティレポート",
+          "chinese": "學生學習活動報告",
           "portuguese": "Relatório da atividade do aluno"
         },
         "id": "primary-teacher-reportstudentactivity-v1_0_0"
@@ -138,6 +168,8 @@
         "title": {
           "english": "Enter Online Practice",
           "spanish_la": "Ingresar a Práctica Online",
+          "japanese": "Online Practiceへのアクセス",
+          "chinese": "進入線上練習",
           "portuguese": "Acessar o Online Practice"
         },
         "id": "primary-teacher-enteronlinepractice-t2t"
@@ -147,6 +179,8 @@
         "title": {
           "english": "Activities",
           "spanish_la": "Actividades",
+          "japanese": "アクティビティ",
+          "chinese": "學習活動",
           "portuguese": "Atividades"
         },
         "id": "primary-teacher-activities-sec"
@@ -156,6 +190,8 @@
         "title": {
           "english": "Glossary",
           "spanish_la": "Glosario",
+          "japanese": "グロッサリー",
+          "chinese": "詞庫",
           "portuguese": "Glossário"
         },
         "id": "primary-teacher-glossary-v1_0_0"
@@ -165,6 +201,8 @@
         "title": {
           "english": "Add a Level",
           "spanish_la": "Añadir un Nivel",
+          "japanese": "レベルの追加",
+          "chinese": "新增等級",
           "portuguese": "Adicionar um nível"
         },
         "id": "primary-teacher-addlevel-v1_0_0"
@@ -174,6 +212,8 @@
         "title": {
           "english": "Email",
           "spanish_la": "Correo electrónico",
+          "japanese": "メール",
+          "chinese": "電子郵件",
           "portuguese": "E-mail"
         },
         "id": "primary-teacher-email-v1_0_0"
@@ -183,6 +223,8 @@
         "title": {
           "english": "Forum",
           "spanish_la": "Foro",
+          "japanese": "フォーラム",
+          "chinese": "討論區",
           "portuguese": "Fórum"
         },
         "id": "primary-teacher-forum-v1_0_0"
@@ -192,6 +234,8 @@
         "title": {
           "english": "Edit Profile",
           "spanish_la": "Editar Perfil",
+          "japanese": "プロフィールの編集",
+          "chinese": "編輯個人檔案",
           "portuguese": "Editar perfil"
         },
         "id": "primary-teacher-editprofile-v1_0_0"
@@ -203,6 +247,8 @@
     "userType": {
         "english": "Student",
         "spanish_la": "Estudiante",
+        "japanese": "生徒",
+        "chinese": "學生",
         "portuguese": "Aluno"
       },
     "docsList":{
@@ -211,6 +257,8 @@
         "title": {
           "english": "Registration",
           "spanish_la": "Registro",
+          "japanese": "登録",
+          "chinese": "註冊",
           "portuguese": "Cadastro"
         },
         "id": "primary-student-registration-sec"
@@ -220,6 +268,8 @@
         "title": {
           "english": "Home",
           "spanish_la": "Inicio",
+          "japanese": "ホーム",
+          "chinese": "首頁",
           "portuguese": "Início"
         },
         "id": "primary-student-home-t2t"
@@ -229,6 +279,8 @@
         "title": {
           "english": "Add a Level",
           "spanish_la": "Añadir un Nivel",
+          "japanese": "レベルの追加",
+          "chinese": "新增等級",
           "portuguese": "Adicionar um nível"
         },
         "id": "primary-student-addlevel-sec"
@@ -238,6 +290,8 @@
         "title": {
           "english": "Activities",
           "spanish_la": "Actividades",
+          "japanese": "アクティビティ",
+          "chinese": "學習活動",
           "portuguese": "Atividades"
         },
         "id": "primary-student-activities-sec"
@@ -247,6 +301,8 @@
         "title": {
           "english": "Glossary",
           "spanish_la": "Glosario",
+          "japanese": "グロッサリー",
+          "chinese": "詞庫",
           "portuguese": "Glossário"
         },
         "id": "primary-student-glossary-v1_0_0"
@@ -256,6 +312,8 @@
         "title": {
           "english": "Report",
           "spanish_la": "Informe",
+          "japanese": "レポート",
+          "chinese": "學習報告",
           "portuguese": "Relatório"
         },
         "id": "primary-student-reportprogress-sec"
@@ -265,6 +323,8 @@
         "title": {
           "english": "Unit Report",
           "spanish_la": "Informe de la Unidad",
+          "japanese": "ユニットレポート",
+          "chinese": "單元報告",
           "portuguese": "Relatório de unidade"
         },
         "id": "primary-student-reportunit-sec"
@@ -274,6 +334,8 @@
         "title": {
           "english": "Email",
           "spanish_la": "Correo electrónico",
+          "japanese": "メール",
+          "chinese": "電子郵件",
           "portuguese": "E-mail"
         },
         "id": "primary-student-email-v1_0_0"
@@ -283,6 +345,8 @@
         "title": {
           "english": "Forum",
           "spanish_la": "Foro",
+          "japanese": "フォーラム",
+          "chinese": "討論區",
           "portuguese": "Fórum"
         },
         "id": "primary-student-forum-v1_0_0"
@@ -292,6 +356,8 @@
         "title": {
           "english": "Join a Class",
           "spanish_la": "Inscribirse a una Clase",
+          "japanese": "クラスへの参加登録",
+          "chinese": "加入班級",
           "portuguese": "Participe de uma turma"
         },
         "id": "primary-student-classjoin-v1_0_0"
@@ -301,6 +367,8 @@
         "title": {
           "english": "Change Class",
           "spanish_la": "Cambio de Clase",
+          "japanese": "クラスの変更",
+          "chinese": "更改班級",
           "portuguese": "Alterar turma"
         },
         "id": "primary-student-classchange-v1_0_0"
@@ -310,6 +378,8 @@
         "title": {
           "english": "Edit Profile",
           "spanish_la": "Editar Perfil",
+          "japanese": "プロフィールの編集",
+          "chinese": "編輯個人檔案",
           "portuguese": "Editar perfil"
         },
         "id": "primary-student-editprofile-v1_0_0"
@@ -321,6 +391,8 @@
     "userType": {
         "english": "Administrator",
         "spanish_la": "Administrador",
+        "japanese": "管理者",
+        "chinese": "管理人",
         "portuguese": "Administrador"
       },
     "docsList":{
@@ -329,6 +401,8 @@
         "title": {
           "english": "Registration",
           "spanish_la": "Registro",
+          "japanese": "登録",
+          "chinese": "註冊",
           "portuguese": "Cadastro"
         },
         "id": "primary-admin-registration-v1_0_0"
@@ -338,6 +412,8 @@
         "title": {
           "english": "Home",
           "spanish_la": "Inicio",
+          "japanese": "ホーム",
+          "chinese": "首頁",
           "portuguese": "Início"
         },
         "id": "primary-admin-home-v1_0_0"
@@ -347,6 +423,8 @@
         "title": {
           "english": "Edit Profile",
           "spanish_la": "Editar Perfil",
+          "japanese": "プロフィールの編集",
+          "chinese": "編輯個人檔案",
           "portuguese": "Editar perfil"
         },
         "id": "primary-admin-editprofile-v1_0_0"

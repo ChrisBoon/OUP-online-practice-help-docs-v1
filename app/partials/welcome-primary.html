@@ -313,3 +313,48 @@ ng-if="language.language == 'japanese'"
   </div><!--/welcome-page__container-->
 
 </div><!--/welcome-page JAPANESE-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'chinese'"
+>
+
+  <h1 class="welcome-page__heading">歡迎來到 [課程標題] 線上練習說明</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">使用線上練習說明</h2>
+      <p>請使用左邊的滑出式選單，尋找您需要的線上練習課程說明與指引，分為學生、教師及管理人三種區域。</p>
+      <p>請在說明區當中點擊任一部份文字，觀看截圖裡面與此文字相關的重點提示。</p>
+      <p ng-if="appLanguages.length > 1">請使用右邊選單來使用不同語言版本的線上線息說明。</p>
+    </div>
+
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">建議使用的瀏覽器與支援的裝置型號</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Windows微軟系統：</h3>
+        <p>Internet Explorer 9以上版本、Firefox 28以上版本、Chrome 31以上版本</p>
+        <p>學習活動的錄音需要Flash Player 11以上版本的插件</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Mac蘋果電腦：</h3>
+        <p>Firefox 25以上版本、Safari 7.0.2以上版本、Chrome 33以上版本</p>
+        <p>學習活動的錄音需要Flash Player 11以上版本的插件</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Android安卓系統：</h3>
+        <p>•  系統必須是4.0以上版本，支援瀏覽器為Google Chrome</p>
+        <p>•  已測試過且可支援的行動裝置：三星平板Samsung Galaxy Tab v2 &#38; v3、三星手機Samsung Galaxy Note 10.1 7” &#38; 10”、Google手機Nexus 7、Nexus 10</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">iOS 蘋果行動裝置：</h3>
+        <p>系統必須是iOS6 以上版本，支援瀏覽器為Safari</p>
+        <p>已測試過且可支援的行動裝置：iPad 2 或更新的版本、iPad Mini、iPad® Air</p>
+      </div>
+      <p class="small-text">* 學習活動的錄音需要Flash Player 11以上版本的插件，請前往以下網站下載最新版本的Flash Player：<a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a></p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page CHINESE-->

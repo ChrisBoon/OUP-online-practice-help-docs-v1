@@ -6,6 +6,7 @@
     "spanish_la": "Foro",
     "portuguese": "Fórum",
     "japanese": "フォーラム",
+    "chinese": "討論區",
     "arabic": "المنتدى"
   },
  "segment": "primary",
@@ -22,6 +23,7 @@
         "spanish_la": "Escribir un mensaje",
         "portuguese": "Escreva uma postagem",
         "japanese": "投稿する",
+        "chinese": "寫一篇文章",
         "arabic": "كتابة منشور"
       },
       "paragraphs":{
@@ -36,6 +38,7 @@
             "spanish_la": "Puede crear un nuevo mensaje escribiendo en la columna Crear Nuevo Mensaje. Al hacer click en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Tanto su profesor como cualquier otro estudiante en su clase de Práctica Online podrá ver su mensaje y responderlo.",
             "portuguese": "Você pode criar uma nova postagem escrevendo na coluna “Create New Post”. Quando você clicar no botão \"Post\" ela aparecerá na lista “Discussions and Comments”. Seu professor e qualquer aluno em sua turma do Online Practice poderão visualizar sua postagem e responder a ela.",
             "japanese": "Create New Post[新規投稿]欄に書き込むことによって、新しく投稿することができます。Post[投稿]ボタンをクリックすると、Discussions and Commentリストの中に表示されます。Online Practiceのクラス内の先生と生徒ならだれでも掲示板を見て、返信することができます。",
+            "chinese": "您可以在「創建新文章」欄位建立一篇新的文章，當您點擊「發布」按鈕，此文章會出現在討論與評論清單。您的老師以及線上練習的同班同學可以觀看與回覆您的文章。",
             "arabic": "يمكنك عمل منشور جديد عن طريق الكتابة في عمود إنشاء منشور جديد. عند النقر على زر“Post” (\"نشر\"), سوف تظهر في قائمة المناقشات والتعليقات. يمكن لمعلمك ولأي طالب مشترك في الممارسة الخاصة بك على الإنترنت أن يرى منشورك ويرد عليه."
           }
         },
@@ -50,6 +53,7 @@
             "spanish_la": "Escriba el mensaje en el campo en blanco debajo de los botones de formato.",
             "portuguese": "Escreva sua mensagem na área de texto em branco sob os botões de formatação.",
             "japanese": "フォーマットボタンの下にある空白のテキストエリアにメッセージを書きます。",
+            "chinese": "在格式按鈕底下的空白文字區填寫您的訊息。",
             "arabic": "اكتب رسالتك في المنطقة الفارغة تحت أزرار التنسيق."
           }
         },
@@ -64,6 +68,7 @@
             "spanish_la": "Aquí podrá ver y responder todos los mensajes actuales.",
             "portuguese": "Este é o lugar onde você pode visualizar e responder a todas as postagens atuais.",
             "japanese": "この画面では、現在のすべての投稿が表示され、返信することができます。",
+            "chinese": "在此處您可以觀看並且回覆目前的全部文章。",
             "arabic": "هذا هو المكان الذي يمكنك من خلاله عرض والرد على جميع المنشورات الحالية."
           }
         },
@@ -78,6 +83,7 @@
             "spanish_la": "Haga click en \"Post\" para agregar el mensaje a la columna de la derecha.",
             "portuguese": "Clique em “Post” para adicionar a postagem na coluna à direita.",
             "japanese": "右側の欄に投稿を追加するには、Post[投稿]をクリックします。",
+            "chinese": "點擊「發布」，可把文章新增到右邊的欄位。",
             "arabic": "انقر على “Post” (\"نشر\") لإضافة المنشور إلى العمود الواقع على اليمين."
           }
         },
@@ -92,6 +98,7 @@
             "spanish_la": "Haga click en \"Show\" para ver las respuestas de los demás estudiantes.",
             "portuguese": "Clique em “Show” para visualizar as respostas dos outros alunos.",
             "japanese": "他の生徒の返信を表示するには、Show[表示]をクリックします。",
+            "chinese": "點擊「顯示」，可觀看其他同學的回覆。",
             "arabic": "اانقر على “Show”(\"إظهار\") لعرض ردود الطلاب الآخرين."
           }
         },
@@ -106,6 +113,7 @@
             "spanish_la": "Haga click en \"Hide\" para ocultar las respuestas.",
             "portuguese": "Clique em “Hide” para esconder as respostas.",
             "japanese": "返信を表示しないようにするには、Hide[非表示]をクリックします。",
+            "chinese": "點擊「隱藏」，可將回覆隱藏起來。",
             "arabic": "انقر على “Hide” (\"إخفاء\") لإخفاء الردود."
           }
         },
@@ -120,6 +128,7 @@
             "spanish_la": "Haga click en \"Reply\" para responder a un mensaje.",
             "portuguese": "Clique em “Reply” para responder a uma postagem.",
             "japanese": "投稿に返信するには、Reply[返信]をクリックします。",
+            "chinese": "點擊「回覆」，可回覆一篇文章。",
             "arabic": "انقر على “Reply” (\"رد\") للرد على المنشور."
           }
         }
@@ -135,6 +144,7 @@
         "spanish_la": "Responder a un mensaje",
         "portuguese": "Responder a uma postagem",
         "japanese": "投稿に返信する",
+        "chinese": "回覆一則文章",
         "arabic": "الرد على منشور"
       },
       "paragraphs":{
@@ -149,6 +159,7 @@
             "spanish_la": "Si hace click en \"Reply\", se abrirá un cuadro de texto bajo el mensaje al que está respondiendo. Puede ingresar su respuesta directamente en la discusión.",
             "portuguese": "Se você clicar em “Reply”, uma caixa de texto será aberta sob a postagem para a qual você está fornecendo uma resposta. Você pode digitar a sua resposta diretamente na discussão.",
             "japanese": "Reply[返信]をクリックすると、返信する投稿の下にテキストボックスが表示されます。返信メッセージは、ディスカッション内で直接入力することができます。",
+            "chinese": "如果您點擊「回覆」，您要回覆的文章下面會打開一個文字區塊，您可以在討論串裡直接輸入您的回覆。",
             "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي ترد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
           }
         },
@@ -163,6 +174,7 @@
             "spanish_la": "Haga click en \"Post\" para publicar su respuesta a la discusión.",
             "portuguese": "Clique em “Post” para publicar a sua resposta na área de discussão.",
             "japanese": "ディスカッションに返信メッセージを投稿するには、Post[投稿]をクリックします。",
+            "chinese": "點擊「發布」就可以將您的回覆貼到討論串裡面。",
             "arabic": "انقر على “Post”(\"نشر\") لنشر ردك على المناقشة."
           }
         },
@@ -177,6 +189,7 @@
             "spanish_la": "Haga click en \"Cancel\" si no desea publicar su respuesta.",
             "portuguese": "Clique em “Cancel” se você não desejar publicar sua resposta.",
             "japanese": "返信したくない時は、Cancel[キャンセル]をクリックします。",
+            "chinese": "如果您不想發布您的回覆，請點擊「取消」。",
             "arabic": "انقر على “Cancel” (\"إلغاء\") إذا كنت لا تريد نشر ردك."
           }
         }

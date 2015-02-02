@@ -3,6 +3,8 @@
     "english": "Student Report",
     "spanish": "Informe del Estudiante",
     "spanish_la": "Informe del Estudiante",
+    "japanese": "生徒レポート",
+    "chinese": "生的學生報告",
     "portuguese": "Relatório do aluno"
   },
  "segment": "primary",
@@ -16,6 +18,8 @@
         "english": "",
         "spanish": "",
         "spanish_la": "",
+        "japanese": "",
+        "chinese": "",
         "portuguese": ""
       },
       "paragraphs":{
@@ -27,6 +31,8 @@
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "spanish": "Haga clic aquí para ver el Informe del Resumen de la Clase (puntuación media en todas sus clases).",
             "spanish_la": "Haga click aquí para ver el Informe del Resumen de la Clase (puntuación media en todas sus clases).",
+            "japanese": "クラスのサマリーレポート（全クラスの平均得点）を表示するには、こちらをクリックします。",
+            "chinese": "點此處觀看班級簡要報告（您全部班級的平均分數）。",
             "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas)"
           }
         },
@@ -38,6 +44,8 @@
             "english": "Click here to view the Class Report for the class shown in the menu on the right.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase que se muestra en el menú de la derecha.",
             "spanish_la": "Haga click aquí para ver el Informe de la Clase que se muestra en el menú de la derecha.",
+            "japanese": "右上に選択されているクラスのクラスレポートを表示するには、こちらをクリックします。",
+            "chinese": "點此處觀看班級報告。",
             "portuguese": "Clique aqui para visualizar o relatório da turma exibida no menu à direita."
           }
         },
@@ -49,6 +57,8 @@
             "english": "Use this menu to view the Class Report for a different class. Select “All Classes” to go to the Class Summary Report.",
             "spanish": "Utilice este menú para ver el Informe de Clase para una clase diferente. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "spanish_la": "Utilice este menú para ver el Informe de Clase de una clase diferente. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
+            "japanese": "別のクラスのクラスレポートを表示するには、このメニューを使用します。クラスのサマリーレポートへ進むには、All Classes[すべてのクラス]を選択します。",
+            "chinese": "使用此選單來觀看不同班級的班級報告，請選擇「全部班級」前往班級簡要報告。",
             "portuguese": "Utilize este menu para visualizar o relatório de uma turma diferente. Selecione \"All Classes\" para ir para o relatório resumido da turma."
           }
         },
@@ -60,6 +70,8 @@
             "english": "Use this menu to view the Student Report for a different student in this class.",
             "spanish": "Utilice este menú para ver el Informe del Estudiante para otro estudiante de esta clase.",
             "spanish_la": "Utilice este menú para ver el Informe del Estudiante de otro estudiante de esta clase.",
+            "japanese": "このクラスの別の生徒の生徒レポートを表示するには、このメニューを使用します。",
+            "chinese": "使用此選單來觀看這個班級的不同學生的學生報告。",
             "portuguese": "Utilize este menu para visualizar o relatório de um aluno diferente nesta turma."
           }
         },
@@ -71,6 +83,8 @@
             "english": "Use this menu to see a student’s results for a specific unit or all units.",
             "spanish": "Utilice este menú para ver los resultados de un estudiante para una unidad específica o todas las unidades.",
             "spanish_la": "Utilice este menú para ver los resultados de un estudiante en una unidad específica o todas las unidades.",
+            "japanese": "特定のユニット、または全ユニットのその生徒の結果を見るには、このメニューを使用します。",
+            "chinese": "使用此選單來觀看學生對於特定單元或全部單元的學習結果。",
             "portuguese": "Utilize este menu para visualizar os resultados de um aluno em uma unidade específica ou em todas as unidades."
           }
         },
@@ -82,6 +96,8 @@
             "english": "You can also click on a unit title to view a student’s Unit Report.",
             "spanish": "También puede hacer clic en el título de una unidad para ver el Informe de Unidad de un estudiante.",
             "spanish_la": "También puede hacer click en el título de una unidad para ver el Informe de Unidad de un estudiante.",
+            "japanese": "ユニットのタイトルをクリックしても、生徒のユニットレポートを表示することができます。",
+            "chinese": "您也可以點擊一個單元標題來觀看學生的單元報告。",
             "portuguese": "Você também pode clicar no título de uma unidade para visualizar o relatório da unidade de um aluno."
           }
         },
@@ -93,6 +109,8 @@
             "english": "Click on a lesson title to view the student’s work in this lesson.",
             "spanish": "Haga clic en el título de la lección para ver el trabajo del estudiante en esta lección.",
             "spanish_la": "Haga click en el título de la lección para ver el trabajo del estudiante en esta lección.",
+            "japanese": "生徒のこのレッスンの学習状況を表示するには、レッスンのタイトルをクリックします。",
+            "chinese": "點擊一個課程標題可觀看學生在此課程的表現。",
             "portuguese": "Clique no título de uma lição para visualizar o trabalho de um aluno."
           }
         },
@@ -104,6 +122,8 @@
             "english": "This row shows a student’s total score for all activities in a lesson.",
             "spanish": "Esta fila muestra la puntuación total de un estudiante para todas las actividades en una lección.",
             "spanish_la": "Esta fila muestra la puntuación total de un estudiante para todas las actividades en una lección.",
+            "japanese": "この行は、このレッスンの全アクティビティに対するこの生徒の合計得点を表します。",
+            "chinese": "這一行顯示一位學生在同一堂課當中，全部學習活動所獲得的總分。",
             "portuguese": "Esta linha exibe a pontuação total de um aluno para em todas as atividades de uma lição."
           }
         },
@@ -115,6 +135,8 @@
             "english": "This row shows the number of times a student attempted all activities in a lesson.",
             "spanish": "Esta fila muestra la cantidad de veces que un estudiante ha intentado completar todas las actividades en una lección.",
             "spanish_la": "Esta fila muestra la cantidad de veces que un estudiante ha intentado completar todas las actividades en una lección.",
+            "japanese": "この行は、この生徒がこのレッスンの全アクティビティに取り組んだ回数を表します。",
+            "chinese": "這一行顯示一位學生在同一堂課當中，對於全部學習活動所嘗試的次數總和。",
             "portuguese": "Esta linha exibe o número de vezes que um aluno tentou realizar todas as atividades em uma lição."
           }
         },
@@ -126,6 +148,8 @@
             "english": "This row shows the total amount of time the student spent on each lesson.",
             "spanish": "Esta línea muestra la cantidad total de tiempo que el estudiante ha dedicado a cada lección.",
             "spanish_la": "Esta línea muestra la cantidad total de tiempo que el estudiante ha dedicado a cada lección.",
+            "japanese": "この行は、各レッスンに対してこの生徒が費やした合計時間を表します。",
+            "chinese": "這一行顯示此學生在每堂課所花費的時間總和。",
             "portuguese": "Esta linha exibe a quantidade total de tempo que o aluno gastou em cada lição."
           }
         },
@@ -137,6 +161,8 @@
             "english": "This is the student’s total score across all activities in a unit.",
             "spanish": "Esta es la calificación total del estudiante en todas las actividades de una unidad.",
             "spanish_la": "Esta es la calificación total del estudiante en todas las actividades de una unidad.",
+            "japanese": "これは、そのユニットの全アクティビティに対するその生徒の合計得点です。",
+            "chinese": "這是此學生在同一個單元當中，全部學習活動的得分總和。",
             "portuguese": "Esta é a pontuação total do aluno em todas as atividades de uma unidade."
           }
         },
@@ -148,6 +174,8 @@
             "english": "This is the total number of times the student has attempted all activities in a unit.",
             "spanish": "Este es el número total de veces que el estudiante ha intentado completar las actividades en una unidad.",
             "spanish_la": "Este es el número total de veces que el estudiante ha intentado completar las actividades en una unidad.",
+            "japanese": "これは、その生徒がそのユニットの全アクティビティに取り組んだ合計回数です。",
+            "chinese": "這是此學生在同一單元當中所有學習活動的嘗試次數總和。",
             "portuguese": "Este é o número total de vezes que o aluno tentou realizar todas as atividades em uma unidade."
           }
         },
@@ -159,6 +187,8 @@
             "english": "This is the total time taken on all activities in a unit.",
             "spanish": "Este es el tiempo total dedicado a todas las actividades en una unidad.",
             "spanish_la": "Este es el tiempo total dedicado a todas las actividades en una unidad.",
+            "japanese": "これは、そのユニットの全アクティビティにかかった合計時間です。",
+            "chinese": "這是同一單元當中，所有學習活動花費的時間總和。",
             "portuguese": "Este é o tempo total gasto em todas as atividades de uma unidade."
           }
         },
@@ -170,6 +200,8 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
             "spanish_la": "Haga click aquí para exportar este informe en formato Microsoft Excel™.",
+            "japanese": "このレポートをMicrosoft Excel™へエクスポートするには、こちらをクリックします。",
+            "chinese": "點此處用Microsoft Excel格式輸出這份報告。",
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™."
           }
         },
@@ -181,6 +213,8 @@
             "english": "Click here to print this report.",
             "spanish": "Haga clic aquí para imprimir este informe.",
             "spanish_la": "Haga click aquí para imprimir este informe.",
+            "japanese": "このレポートを印刷するには、こちらをクリックします。",
+            "chinese": "點此處列印這份報告。",
             "portuguese": "Clique aqui para imprimir este relatório."
           }
         }

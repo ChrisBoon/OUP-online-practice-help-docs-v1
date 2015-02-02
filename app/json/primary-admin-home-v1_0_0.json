@@ -6,6 +6,7 @@
     "spanish_la": "Inicio para Administrador ",
     "portuguese": "Página inicial do administrador",
     "japanese": "管理者ホーム",
+    "chinese": "管理人首頁",
     "arabic": "لصفحة الرئيسية الخاصة بمراقب النظام"
   },
  "segment": "primary",
@@ -22,6 +23,7 @@
         "spanish_la": "Ver Informes",
         "portuguese": "Visualização relatórios",
         "japanese": "成績表の表示",
+        "chinese": "觀看報告",
         "arabic": "عرض التقارير"
       },
       "paragraphs":{
@@ -36,6 +38,7 @@
             "spanish_la": "Ver reportes de alumnos de los profesores inscritos en la Práctica Online de su institución.",
             "portuguese": "Visualize os relatórios dos alunos gerados pelos professores que aderiram ao Online Practice da sua instituição.",
             "japanese": "学校・団体のOnline Practiceに参加した先生からの生徒レポートを表示します。",
+            "chinese": "觀看已加入貴單位線上練習的老師所提供的學生報告。",
             "arabic": "عرض تقارير الطلاب من المعلمين الذين انضموا للممارسة عبر الإنترنت الخاصة بالمؤسسة."
           }
         },
@@ -50,6 +53,7 @@
             "spanish_la": "Ver las actividades de Práctica Online para todos los niveles de su curso.",
             "portuguese": "Visualize as atividades do Online Practice para todos os níveis do seu curso.",
             "japanese": "このコースの全レベルのOnline Practiceのアクティビティを表示します。",
+            "chinese": "觀看您課程所有等級的線上練習活動。",
             "arabic": "أنشطة الممارسة عبر شبكة الإنترنت لجميع مستويات المقرر الخاص بك."
           }
         }
@@ -65,6 +69,7 @@
         "spanish_la": "Ver actividades",
         "portuguese": "Visualizar atividades",
         "japanese": "アクティビティの表示",
+        "chinese": "觀看學習活動",
         "arabic": "عرض الأنشطة"
       },
       "paragraphs":{
@@ -79,6 +84,7 @@
             "spanish_la": "Los administradores pueden ver las actividades para todos los niveles de un curso. Seleccione un nivel para ver en esta página.",
             "portuguese": "Os administradores podem visualizar as atividades para todos os níveis de um curso. Selecione um nível para ser visualizado nesta página.",
             "japanese": "管理者はそのコースの全レベルのアクティビティを見ることができます。このページで見るには、レベルを選択してください。",
+            "chinese": "管理人可以觀看課程當中所有等級的活動。請在此頁面選擇一個等級來觀看。",
             "arabic": "يمكن للمديرين عرض الأنشطة لجميع المستويات الخاصة بإحدى الدورات. حدد مستوى لعرضه على هذه الصفحة."
           }
         }

@@ -6,6 +6,7 @@
     "spanish_la": "Glosario",
     "portuguese": "Glossário",
     "japanese": "グロッサリー",
+    "chinese": "詞庫",
     "arabic": "المسرد"
   },
  "segment": "primary",
@@ -22,6 +23,7 @@
         "spanish_la": "",
         "portuguese": "",
         "japanese": "",
+        "chinese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -36,6 +38,7 @@
             "spanish_la": "El Glosario contiene todo el vocabulario básico de un nivel. Haga click en una letra para acceder a las palabras del Glosario que comienzan con esa letra.",
             "portuguese": "O glossário contém todo o vocabulário principal presente em um determinado nível. Clique em uma letra para ir para as palavras que começam com essa letra presente no glossário.",
             "japanese": "Glossaryにはそのレベルの主なボキャブラリーがすべて掲載されています。グロッサリー内で、ある文字で始まる単語を検索する場合は、その文字をクリックします。",
+            "chinese": "詞庫包含同一等級的全部核心字彙。點擊一個字母，可以前往詞庫當中，以該字母為開頭的單字群組。",
             "arabic": "يحتوي المسرد على جميع المفردات الأساسية في مستوى ما. انقر فوق حرف ما للانتقال إلى الكلمات التي تبدأ بهذا الحرف في المسرد."
           }
         },
@@ -50,6 +53,7 @@
             "spanish_la": "Escriba una palabra en el cuadro de texto para buscarla. El Glosario busca la palabra de forma automática.",
             "portuguese": "Para procurar uma palavra específica, digite-a na caixa de texto. O glossário procurará a palavra desejada automaticamente.",
             "japanese": "ある単語を検索する場合は、テキストボックスにその単語を入力します。グロッサリーが自動的にその単語を検索します。",
+            "chinese": "在文字區塊中輸入一個單字，可以搜尋此單字。詞庫會自動搜尋這個單字。",
             "arabic": "قم بكتابةكلمة في المربع الحواري للبحث عنها. سيبحث المسرد بشكل تلقائي عن الكلمة."
           }
         },
@@ -64,6 +68,7 @@
             "spanish_la": "Desplácese por el menú y elija una palabra para ver la imagen.",
             "portuguese": "Navegue pelo menu e escolha uma palavra para visualizar a sua imagem.",
             "japanese": "メニューをスクロールして単語を選ぶと、その画像を見ることができます。",
+            "chinese": "捲動選單的捲軸，可以選擇一個單字並觀看它的圖片。",
             "arabic": "مرِّر من خلال القائمة واختر كلمة لرؤية الصورة."
           }
         },
@@ -78,6 +83,7 @@
             "spanish_la": "Haga click en el icono para escuchar el audio, de estar disponible.",
             "portuguese": "Clique no ícone para escutar o áudio, caso disponível.",
             "japanese": "音声がある場合は、アイコンをクリックすると音声を聞くことができます。",
+            "chinese": "點擊圖示就能收聽目前可用的錄音檔。",
             "arabic": "انقر على الأيقونة لسماع الصوت، إذا كان متاحًا."
           }
         }

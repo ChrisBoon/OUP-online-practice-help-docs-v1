@@ -3,6 +3,8 @@
     "english": "Media Center",
     "spanish": "Centro de Medios",
     "spanish_la": "Centro de Medios",
+    "japanese": "メディアセンター",
+    "chinese": "媒體中心",
     "portuguese": "Centro de mídia"
   },
  "segment": "primary",
@@ -16,6 +18,8 @@
         "english": "Audio",
         "spanish": "Audio",
         "spanish_la": "Audio",
+        "japanese": "音声",
+        "chinese": "錄音檔案",
         "portuguese": "Áudio"
       },
       "paragraphs":{
@@ -27,6 +31,8 @@
             "english": "The Media Center provides class audio and video files for you and your students to use, if available.",
             "spanish": "El Centro de Medios proporciona archivos de vídeo y audio de la clase para que los utilicen tanto usted como sus estudiantes, de estar disponibles.",
             "spanish_la": "El Centro de Medios proporciona archivos de video y audio de la clase para que los utilicen tanto usted como sus estudiantes, de estar disponibles.",
+            "japanese": "クラス用の音声ファイルとビデオファイルが視聴可能な場合は、このメディアセンターからアクセスすることができます。",
+            "chinese": "媒體中心為您與學生提供目前可以使用的課程錄音以及影片檔案。",
             "portuguese": "O centro de mídia fornece a você e seus alunos os arquivos de áudio e vídeo que estejam disponíveis."
           }
         },
@@ -38,6 +44,8 @@
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume.",
             "spanish": "Haga clic en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
             "spanish_la": "Haga click en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
+            "japanese": "音声ファイルのタイトルをクリックして選択してください。オーディオプレーヤーが表示され、音声を再生します。矢印のボタンを使うと、再生や一時停止ができます。トラック間の移動や音量の調節にはコントロール機能を使用してください。",
+            "chinese": "點擊一個錄音檔案標題，播放程式會自動出現並播放此錄音檔案。使用箭號按鈕來播放與暫停該曲目，使用控制面板來變換曲目以及調整音量。",
             "portuguese": "Clique no título de um arquivo de áudio. Um player de áudio aparecerá e reproduzirá o arquivo. Use o botão de seta para iniciar e pausar a reprodução da faixa. Use os controles para percorrer a faixa de áudio e alterar o volume."
           }
         }

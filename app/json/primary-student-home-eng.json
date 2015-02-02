@@ -3,6 +3,8 @@
     "english": "Home",
     "spanish": "Inicio",
     "spanish_la": "Inicio",
+    "japanese": "ホーム",
+    "chinese": "首頁",
     "portuguese": "Início"
   },
  "segment": "primary",
@@ -16,6 +18,8 @@
         "english": "Choose your level",
         "spanish": "Elija su nivel",
         "spanish_la": "Elija su nivel",
+        "japanese": "レベルの選択",
+        "chinese": "選擇等級",
         "portuguese": "Escolha o seu nível"
       },
       "paragraphs":{
@@ -27,6 +31,8 @@
             "english": "When you enter Online Practice or click on the Home icon at the top of the screen you will see the levels of your course here.",
             "spanish": "Verá los niveles de su curso al ingresar en la Práctica Online o al hacer clic en el icono de Home [Inicio], en la parte superior de la pantalla.",
             "spanish_la": "Verá los niveles de su curso al ingresar en la Práctica Online o al hacer click en el icono de Home [Inicio], en la parte superior de la pantalla.",
+            "japanese": "Online Practiceにアクセスするか、画面上部のホームアイコンをクリックすると、コースのレベルが表示されます。",
+            "chinese": "當您進入線上練習或點擊螢幕上端的首頁圖示時，在此處您將會看到課程的等級。",
             "portuguese": "Quando você acessar o Online Practice ou clicar no ícone “Home” na parte superior da tela, você visualizará os níveis de seu curso."
           }
         },
@@ -38,6 +44,8 @@
             "english": "Click on “Add a level” to add another level if you have an access code.",
             "spanish": "Haga clic en \"Añadir un nivel\" para agregar otro nivel si tiene un código de acceso.",
             "spanish_la": "Haga click en \"Añadir un nivel\" para agregar otro nivel si tiene un código de acceso.",
+            "japanese": "アクセスコードがあれば、Add a Level[レベルの追加]をクリックすると別のレベルを追加することができます。",
+            "chinese": "點擊「新增等級」，如果您有通行代碼，可以增加另一個等級。",
             "portuguese": "Clique em “Add a level” para adicionar outro nível, caso você tenha um código de acesso."
           }
         },
@@ -49,6 +57,8 @@
             "english": "Choose the level you want to enter.",
             "spanish": "Elija el nivel al que desea ingresar.",
             "spanish_la": "Elija el nivel al que desea ingresar.",
+            "japanese": "アクセスしたいレベルを選択します。",
+            "chinese": "選擇您想要進入的等級。",
             "portuguese": "Escolha o nível que você deseja inserir."
           }
         }
@@ -61,6 +71,8 @@
         "english": "Choose an Online Practice area",
         "spanish": "Elija un área de Práctica Online",
         "spanish_la": "Elija un área de Práctica Online",
+        "japanese": "Online Practice のエリアの選択",
+        "chinese": "選擇線上練習功能",
         "portuguese": "Escolha uma seção do Online Practice"
       },
       "paragraphs":{
@@ -72,6 +84,8 @@
             "english": "Click here to change to a different level.",
             "spanish": "Presione aquí para cambiar a un nivel diferente.",
             "spanish_la": "Presione aquí para cambiar a un nivel diferente.",
+            "japanese": "別のレベルに変更するには、こちらをクリックします。",
+            "chinese": "點此處更改為不同等級。",
             "portuguese": "Clique aqui para alterar para um nível diferente."
           }
         },
@@ -83,6 +97,8 @@
             "english": "Click here to enter the Online Practice Activity area.",
             "spanish": "Haga clic aquí para ingresar al área de Actividades de la Práctica Online.",
             "spanish_la": "Haga click aquí para ingresar al área de Actividades de la Práctica Online.",
+            "japanese": "Online Practice Activityのエリアにアクセスするには、こちらをクリックします。",
+            "chinese": "點此處進入線上練習的學習活動區。",
             "portuguese": "Clique aqui para entrar na área “Activity” do Online Practice."
           }
         },
@@ -94,6 +110,8 @@
             "english": "Click here to see your Report. These show your achievements and progress for all of the activities in this level.",
             "spanish": "Haga clic aquí para ver sus Report (Informe). Esta muestra sus logros y progreso para todas las actividades en este nivel.",
             "spanish_la": "Haga click aquí para ver sus Report (Informe). Esta muestra sus logros y progreso para todas las actividades en este nivel.",
+            "japanese": "レポート、トロフィルーム、スキルズダッシュボードを表示するにはこちらをクリックします。これらの画面では、そのレベルの全アクティビティに対しての成績表や進歩状況が表示されます。",
+            "chinese": "點此處觀看您的學習報告、獎盃陳列室以及技能展示板。這些會顯示您在此等級當中，所有活動的學習成果以及學習進展。",
             "portuguese": "Clique aqui para visualizer o seu painel de habilidades. Ele exibe suas realizações e seu progresso relacionado a todas as atividades deste nível."
           }
         },
@@ -105,6 +123,8 @@
             "english": "Click here to use the Email area. You can message your teacher and other students in your Online Practice class. The Email icon appears here when you have joined a class.",
             "spanish": "Haga clic aquí para utilizar el área de Correo electrónico. Puede enviar mensajes a su profesor y a los demás estudiantes en su clase de Práctica Online. El icono de Email [Correo electrónico] aparecerá aquí cuando se haya inscrito a una clase.",
             "spanish_la": "Haga click aquí para utilizar el área de Correo electrónico. Puede enviar mensajes a su profesor y a los demás estudiantes en su clase de Práctica Online. El icono de Email [Correo electrónico] aparecerá aquí cuando se haya inscrito a una clase.",
+            "japanese": "メールエリアの使用は、こちらをクリックします。自分のOnline Practiceのクラスの先生や生徒にメッセージを送ることができます。クラスに参加登録すると、こちらにメールアイコンが表示されます。",
+            "chinese": "點此處使用電子郵件功能，您可以傳送訊息給您的老師已極限上學習的同班同學。當您加入一個班級時，電子郵件圖示會顯示在此處。",
             "portuguese": "Clique aqui para usar a área de e-mail. Você pode enviar mensagens para o seu professor e para os outros alunos com os quais você compartilha sua turma no Online Practice. O ícone “E-mail” aparecerá aqui quando você estiver participando de uma turma."
           }
         },
@@ -116,6 +136,8 @@
             "english": "Click here to use the Forum. You can join in discussions with your teacher and other students in your Online Practice class. The Forum icon appears here when you have joined a class.",
             "spanish": "Haga clic aquí para utilizar el Foro. Usted puede participar en discusiones con su profesor y los demás estudiantes en su clase de Práctica Online. El icono del Forum [Foro] aparecerá aquí cuando se haya inscrito a una clase.",
             "spanish_la": "Haga click aquí para utilizar el Foro. Usted puede participar en discusiones con su profesor y los demás estudiantes en su clase de Práctica Online. El icono del Forum [Foro] aparecerá aquí cuando se haya inscrito a una clase.",
+            "japanese": "フォーラムの使用は、こちらをクリックします。自分のOnline Practiceのクラスの先生や生徒とのディスカッションに加わることができます。クラスに参加登録すると、こちらにフォーラムのアイコンが表示されます。",
+            "chinese": "點此處使用討論區，您可以加入老師集同學的討論。當您加入一個班級時，討論區圖示會顯示在此處。",
             "portuguese": "Clique aqui para usar o fórum. Você pode participar de discussões com o seu professor e com os outros alunos presentes em sua turma no Online Practice. O ícone do “Forum” aparecerá aqui quando você estiver participando de uma turma."
           }
         },
@@ -127,6 +149,8 @@
             "english": "Click here to access the Media Center to listen to class audio and watch videos, if available.",
             "spanish": "Haga clic aquí para acceder al Centro de Medios para escuchar el audio de la clase y ver videos, de estar disponibles.",
             "spanish_la": "Haga click aquí para acceder al Centro de Medios para escuchar el audio de la clase y ver videos, de estar disponibles.",
+            "japanese": "音声やビデオが視聴可能な場合は、こちらをクリックするとメディアセンターにアクセスできます。",
+            "chinese": "點此處通往媒體中心，收聽目前可用的課程錄音檔，也可以觀看影片。",
             "portuguese": "Clique aqui para acessar o centro de mídia para escutar o áudio da aula e assistir vídeos, caso disponíveis."
           }
         },
@@ -138,6 +162,8 @@
             "english": "Click here to join an Online Practice class or change class. You will need a class code from your teacher to do this.",
             "spanish": "Haga clic aquí para inscribirse a una clase de Práctica Online o cambiar de clase. Necesitará que su profesor le otorgue un código de clase para hacer esto.",
             "spanish_la": "Haga click aquí para inscribirse a una clase de Práctica Online o cambiar de clase. Necesitará que su profesor le otorgue un código de clase para hacer esto.",
+            "japanese": "Online Practiceのクラスへの参加登録またはクラスの変更は、こちらをクリックします。これを行うには、先生からのクラスコードが必要となります。",
+            "chinese": "點此處加入線上練習班級或更改班級，您將需要老師提供的班級代碼以完成加入或更改班級。",
             "portuguese": "Clique aqui para participar de uma turma do Online Practice ou para alterar a turma. Você precisará de um código de turma fornecido pelo seu professor para fazer isso."
           }
         }
