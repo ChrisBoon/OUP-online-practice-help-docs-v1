@@ -685,9 +685,9 @@
         "spanish": "Secondary Specific",
         "spanish_la": "Secondary Specific",
         "portuguese": "Secondary Specific",
-        "japanese": "-",
-        "chinese": "-",
-        "thai": "-",
+        "japanese": "Secondary Specific",
+        "chinese": "Secondary Specific",
+        "thai": "Secondary Specific",
         "arabic": "Secondary Specific"
       },
     "docsList":{
@@ -695,14 +695,14 @@
         "order":1,
         "title": {
           "english": "(Student) Activities",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Student) Activities",
+          "spanish": "(Student) Activities",
+          "spanish_la": "(Student) Activities",
+          "portuguese": "(Student) Activities",
+          "japanese": "(Student) Activities",
+          "chinese": "(Student) Activities",
+          "thai": "(Student) Activities",
+          "arabic": "(Student) Activities"
         },
         "id": "primary-student-activities-sec"
       },
@@ -710,14 +710,14 @@
         "order":2,
         "title": {
           "english": "(Student) Add level",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Student) Add level",
+          "spanish": "(Student) Add level",
+          "spanish_la": "(Student) Add level",
+          "portuguese": "(Student) Add level",
+          "japanese": "(Student) Add level",
+          "chinese": "(Student) Add level",
+          "thai": "(Student) Add level",
+          "arabic": "(Student) Add level"
         },
         "id": "primary-student-addlevel-sec"
       },
@@ -725,14 +725,14 @@
         "order":3,
         "title": {
           "english": "(Student) Media Center",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Student) Media Center",
+          "spanish": "(Student) Media Center",
+          "spanish_la": "(Student) Media Center",
+          "portuguese": "(Student) Media Center",
+          "japanese": "(Student) Media Center",
+          "chinese": "(Student) Media Center",
+          "thai": "(Student) Media Center",
+          "arabic": "(Student) Media Center"
         },
         "id": "primary-student-media-sec"
       },
@@ -740,14 +740,14 @@
         "order":4,
         "title": {
           "english": "(Student) Registration",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Student) Registration",
+          "spanish": "(Student) Registration",
+          "spanish_la": "(Student) Registration",
+          "portuguese": "(Student) Registration",
+          "japanese": "(Student) Registration",
+          "chinese": "(Student) Registration",
+          "thai": "(Student) Registration",
+          "arabic": "(Student) Registration"
         },
         "id": "primary-student-registration-sec"
       },
@@ -755,14 +755,14 @@
         "order":5,
         "title": {
           "english": "(Student) Progress Report",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Student) Progress Report",
+          "spanish": "(Student) Progress Report",
+          "spanish_la": "(Student) Progress Report",
+          "portuguese": "(Student) Progress Report",
+          "japanese": "(Student) Progress Report",
+          "chinese": "(Student) Progress Report",
+          "thai": "(Student) Progress Report",
+          "arabic": "(Student) Progress Report"
         },
         "id": "primary-student-reportprogress-sec"
       },
@@ -770,14 +770,14 @@
         "order":6,
         "title": {
           "english": "(Student) Unit Report",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Student) Unit Report",
+          "spanish": "(Student) Unit Report",
+          "spanish_la": "(Student) Unit Report",
+          "portuguese": "(Student) Unit Report",
+          "japanese": "(Student) Unit Report",
+          "chinese": "(Student) Unit Report",
+          "thai": "(Student) Unit Report",
+          "arabic": "(Student) Unit Report"
         },
         "id": "primary-student-reportunit-sec"
       },
@@ -785,14 +785,14 @@
         "order":7,
         "title": {
           "english": "(Teacher) Activities",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Teacher) Activities",
+          "spanish": "(Teacher) Activities",
+          "spanish_la": "(Teacher) Activities",
+          "portuguese": "(Teacher) Activities",
+          "japanese": "(Teacher) Activities",
+          "chinese": "(Teacher) Activities",
+          "thai": "(Teacher) Activities",
+          "arabic": "(Teacher) Activities"
         },
         "id": "primary-teacher-activities-sec"
       },
@@ -800,14 +800,14 @@
         "order":8,
         "title": {
           "english": "(Teacher) Enter Online Practice",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Teacher) Enter Online Practice",
+          "spanish": "(Teacher) Enter Online Practice",
+          "spanish_la": "(Teacher) Enter Online Practice",
+          "portuguese": "(Teacher) Enter Online Practice",
+          "japanese": "(Teacher) Enter Online Practice",
+          "chinese": "(Teacher) Enter Online Practice",
+          "thai": "(Teacher) Enter Online Practice",
+          "arabic": "(Teacher) Enter Online Practice"
         },
         "id": "primary-teacher-enteronlinepractice-sec"
       },
@@ -815,14 +815,14 @@
         "order":9,
         "title": {
           "english": "(Teacher) Media Center",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Teacher) Media Center",
+          "spanish": "(Teacher) Media Center",
+          "spanish_la": "(Teacher) Media Center",
+          "portuguese": "(Teacher) Media Center",
+          "japanese": "(Teacher) Media Center",
+          "chinese": "(Teacher) Media Center",
+          "thai": "(Teacher) Media Center",
+          "arabic": "(Teacher) Media Center"
         },
         "id": "primary-teacher-media-sec"
       },
@@ -830,14 +830,14 @@
         "order":10,
         "title": {
           "english": "(Teacher) Registration",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Teacher) Registration",
+          "spanish": "(Teacher) Registration",
+          "spanish_la": "(Teacher) Registration",
+          "portuguese": "(Teacher) Registration",
+          "japanese": "(Teacher) Registration",
+          "chinese": "(Teacher) Registration",
+          "thai": "(Teacher) Registration",
+          "arabic": "(Teacher) Registration"
         },
         "id": "primary-teacher-registration-sec"
       },
@@ -845,14 +845,14 @@
         "order":11,
         "title": {
           "english": "(Teacher) Student Report",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Teacher) Student Report",
+          "spanish": "(Teacher) Student Report",
+          "spanish_la": "(Teacher) Student Report",
+          "portuguese": "(Teacher) Student Report",
+          "japanese": "(Teacher) Student Report",
+          "chinese": "(Teacher) Student Report",
+          "thai": "(Teacher) Student Report",
+          "arabic": "(Teacher) Student Report"
         },
         "id": "primary-teacher-reportstudent-sec"
       }
@@ -866,9 +866,9 @@
         "spanish": "Teen 2 Teen specific",
         "spanish_la": "Teen 2 Teen specific",
         "portuguese": "Teen 2 Teen specific",
-        "japanese": "-",
-        "chinese": "-",
-        "thai": "-",
+        "japanese": "Teen 2 Teen specific",
+        "chinese": "Teen 2 Teen specific",
+        "thai": "Teen 2 Teen specific",
         "arabic": "Teen 2 Teen specific"
       },
     "docsList":{
@@ -876,14 +876,14 @@
         "order":1,
         "title": {
           "english": "(Student) Home",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Student) Home",
+          "spanish": "(Student) Home",
+          "spanish_la": "(Student) Home",
+          "portuguese": "(Student) Home",
+          "japanese": "(Student) Home",
+          "chinese": "(Student) Home",
+          "thai": "(Student) Home",
+          "arabic": "(Student) Home"
         },
         "id": "primary-student-home-t2t"
       },
@@ -891,14 +891,14 @@
         "order":2,
         "title": {
           "english": "(Teacher) Enter Online Practice",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Teacher) Enter Online Practice",
+          "spanish": "(Teacher) Enter Online Practice",
+          "spanish_la": "(Teacher) Enter Online Practice",
+          "portuguese": "(Teacher) Enter Online Practice",
+          "japanese": "(Teacher) Enter Online Practice",
+          "chinese": "(Teacher) Enter Online Practice",
+          "thai": "(Teacher) Enter Online Practice",
+          "arabic": "(Teacher) Enter Online Practice"
         },
         "id": "primary-teacher-enteronlinepractice-t2t"
       }
@@ -913,8 +913,8 @@
         "spanish_la": "Engage specific",
         "portuguese": "Engage specific",
         "japanese": "Engage specific",
-        "chinese": "-",
-        "thai": "-",
+        "chinese": "Engage specific",
+        "thai": "Engage specific",
         "arabic": "Engage specific"
       },
     "docsList":{
@@ -922,14 +922,14 @@
         "order":1,
         "title": {
           "english": "(Student) Home",
-          "turkish": "-",
-          "spanish": "-",
-          "spanish_la": "-",
-          "portuguese": "-",
-          "japanese": "-",
-          "chinese": "-",
-          "thai": "-",
-          "arabic": "-"
+          "turkish": "(Student) Home",
+          "spanish": "(Student) Home",
+          "spanish_la": "(Student) Home",
+          "portuguese": "(Student) Home",
+          "japanese": "(Student) Home",
+          "chinese": "(Student) Home",
+          "thai": "(Student) Home",
+          "arabic": "(Student) Home"
         },
         "id": "primary-student-home-eng"
       }
