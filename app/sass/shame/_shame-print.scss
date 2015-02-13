@@ -10,10 +10,19 @@
   .content-area__view{
     overflow: visible;
   }
+
+  .help-doc__page{page-break-inside: avoid;}
+  
+  // reduce text size
+  .help-doc__page__text,
+  .help-doc__page__title,
+  .help-doc__title{
+    font-size: 0.75em;
+  }
   //keep screenshot from being too large
   .help-doc__page__scaffold--screenshot__image-frame{
     float: right;
-    width:200px;
+    width:50%;
   }
   //simplify section styling
   .help-doc__page__scaffold{
