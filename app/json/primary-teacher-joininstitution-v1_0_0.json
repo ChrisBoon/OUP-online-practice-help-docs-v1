@@ -7,6 +7,7 @@
     "portuguese": "Associe-se a uma instituição",
     "japanese": "学校・団体への参加登録",
     "chinese": "加入機關單位",
+    "thai": "เข้าร่วมสถาบัน",
     "arabic": "الانضمام إلى مؤسسة"
   },
  "segment": "primary",
@@ -24,6 +25,7 @@
         "portuguese": "",
         "japanese": "",
         "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -39,6 +41,7 @@
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de turma com sua escola ou instituição. O administrador será capaz de visualizar os relatórios das turmas de todos os professores que participam do Online Practice. Caso você não tenha um código de identificação da instituição, clique em \"Cancel\".",
             "japanese": "学校・団体のIDコードをお持ちの場合は、こちらに入力します。このコードは管理者から渡されるものです。このコードは学校・団体とクラス用のレポートをリンクします。管理者はOnline Practiceの学校・団体に所属する全ての教師のクラスのレポートを見ることができます。学校・団体IDコードをお持ちでない場合は、Cencel[キャンセル]をクリックします。",
             "chinese": "如果您有機關單位代碼，請在此輸入。機關單位代碼由您的管理人提供，此代碼將您的班級報告連結到您的學校或機關單位，管理人將能夠看到來自線上練習的全部教師的班級報告。如果您沒有機關單位代碼，請點擊「取消」。",
+            "thai": "ใส่รหัสสถาบันที่นี่ หากไม่ทราบคลิก “ยกเลิก” คุณสามารถขอรหัสสถาบันได้จากผู้ดูแลระบบ  รหัสจะเชื่อมต่อข้อมูลการเรียนการสอนในห้องเรียนของคุณเข้ากับโรงเรียนหรือสถาบันการศึกษา  เพื่อให้ผู้ดูแลระบบสามารถมองเห็นรายงานของห้องเรียนออนไลน์ทั้งหมด",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فأدخله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. وسيتمكن المدير من رؤية التقارير الخاصة بفصول الممارسةعبر شبكة الإنترنت والخاصة بكافة المعلمين الذين انضموا إلى مؤسسة الممارسة عبر شبكة الإنترنت. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Cancel”(\"إلغاء\")."
           }
         },
@@ -54,6 +57,7 @@
             "portuguese": "Clique aqui para enviar seu código de identificação da instituição e para voltar para a página dados da turma.",
             "japanese": "学校・団体のIDコードを送信してクラスの詳細ページに戻るには。こちらをクリックします。",
             "chinese": "點此處送出您的機關單位代碼，並回到班級資料頁面。",
+            "thai": "คลิกที่นี่  เพื่อยืนยันรหัสสถาบัน และกลับสู่หน้ารายละเอียดห้องเรียน",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاص بك والعودة إلى صفحة التفاصيل الخاصة بالفصل."
           }
         },
@@ -69,6 +73,7 @@
             "portuguese": "Clique aqui caso você não tenha um código de identificação da instituição.",
             "japanese": "学校・団体のIDコードをお持ちでない場合は、こちらをクリックします。",
             "chinese": "如果您沒有機關單位代碼，請點此處。",
+            "thai": "คลิกที่นี่  ถ้าคุณไม่มีรหัสสถาบัน",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         }

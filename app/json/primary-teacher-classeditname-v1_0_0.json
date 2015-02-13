@@ -7,6 +7,7 @@
     "portuguese": "Editar o nome da turma",
     "japanese": "クラス名の編集",
     "chinese": "編輯班級名稱",
+    "thai": "แก้ไขชื่อห้องเรียน",
     "arabic": "تحرير اسم الفصل"
   },
  "segment": "primary",
@@ -24,6 +25,7 @@
         "portuguese": "",
         "japanese": "",
         "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -39,6 +41,7 @@
             "portuguese": "Digite o novo nome da sua turma aqui. Em seguida, clique em \"Save\". Se você não quiser alterar o nome da sua turma, clique em \"Cancel\".",
             "japanese": "新しいクラス名を入力します。その後、Save[保存]をクリックします。クラス名を変更しない場合は、Cancel[キャンセル]をクリックします。",
             "chinese": "為您的班級輸入新的名稱，然後點擊「儲存」。如果您不想更改您的班級名稱，請點擊「取消」。",
+            "thai": "ใส่ชื่อห้องเรียนใหม่คลิก ”บันทึก” ถ้าไม่ต้องการเปลี่ยนชื่อห้องเรียน  คลิก ”ยกเลิก”",
             "arabic": "أدخل الاسم الجديد لفصلك. ثم انقر على “Save”(\"حفظ\"). إذا كنت لا ترغب في تغيير اسم فصلك، فانقر على “Cancel”(\"إلغاء\")."
           }
         },
@@ -54,6 +57,7 @@
             "portuguese": "Clique aqui para salvar o nome da turma e retornar à página dados da turma.",
             "japanese": "クラス名を保存しクラスの詳細ページに戻るには、こちらをクリックします。",
             "chinese": "點此處儲存您的班級名稱，並回到班級資料頁面。",
+            "thai": "คลิกที่นี่  เพื่อบันทึกชื่อห้องเรียนใหม่  และกลับหน้ารายละเอียดห้องเรียน",
             "arabic": "انقر هنا لحفظ اسم فصلك والعودة إلى صفحة التفاصيل الخاصة بالفصل."
           }
         },
@@ -69,6 +73,7 @@
             "portuguese": "Clique aqui para voltar à página de dados da turma sem salvar as alterações.",
             "japanese": "変更内容を保存しないでクラスの詳細ページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到班級資料頁面，不做任何變更。",
+            "thai": "คลิกที่นี่  เพื่อกลับหน้ารายละเอียดห้องเรียน  โดยไม่บันทึกการเปลี่ยนแปลงใดๆ",
             "arabic": "انقر هنا للعودة إلى صفحة تفاصيل الفصل دون حفظ أي تغييرات."
           }
         }

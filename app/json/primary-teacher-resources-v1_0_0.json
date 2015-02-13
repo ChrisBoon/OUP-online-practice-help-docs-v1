@@ -7,6 +7,7 @@
     "portuguese": "Recursos",
     "japanese": "ソース",
     "chinese": "教學資源",
+    "thai": "ศูนย์ทรัพยากรการเรียนรู้",
     "arabic": "الموارد"
   },
  "segment": "primary",
@@ -24,6 +25,7 @@
         "portuguese": "",
         "japanese": "",
         "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -39,6 +41,7 @@
             "portuguese": "Esta é a área de recursos do professor. Quando disponível, esta área fornecerá o material de apoio necessário para que você e seus alunos utilizem o Online Practice. Os recursos disponíveis para os professores podem ser diferentes dos disponibilizados para os alunos.",
             "japanese": "この画面は、ティーチャーリソースのエリアを表示しています。Online Practiceをお使いになっている先生と生徒のためのサポート用の教材がある場合は、このエリアで表示されます。先生用に表示されているリソースは、生徒用のものと異なることがあります。",
             "chinese": "這裡是教學資源區。本區將為您與學生提供目前可以使用的輔助教材，幫助您使用線上練習。顯示給教師的資源與顯示給學生使用的資源可能有所不同。",
+            "thai": "ศูนย์ทรัพยากรการเรียนรู้  คือ ศูนย์รวมข้อมูลที่ช่วยจะสนับสนุนการเรียนการสอนของคุณและนักเรียน จะถูกแสดงที่นี่ (ถ้ามี) ข้อมูลที่แสดงสำหรับครูผู้สอนอาจแตกต่างจากของนักเรียน",
             "arabic": "هذه هي منطقة موارد المعلم وعندما تكون متاحة، تقدم هذه المنطقة موادًا داعمةً لك ولطلابك عند استخدام الممارسة عبر شبكة الإنترنت. وقد تكون الموارد المعروضة الخاصة بالمعلمين مختلفة عن تلك الخاصة بالطلاب."
           }
         },
@@ -54,6 +57,7 @@
             "portuguese": "Clique em um título ou ícone para abrir um recurso. Arquivos PDF e documentos serão abertos em uma nova aba ou serão baixados em o seu computador ou dispositivo, dependendo das configurações do seu navegador.",
             "japanese": "リソースを表示するには、タイトルまたはアイコンをクリックしてください。PDFファイルと文書は新しいタブで表示されるか、またはブラウザの設定によってはコンピュータにダウンロードされます。",
             "chinese": "點擊標題或圖示可以打開一個學習資源。PDF檔案與文件，將依照您的瀏覽器設定情況，在新頁面打開，或下載到您的電腦或裝置。",
+            "thai": "คลิกที่ ชื่อเรื่อง หรือ สัญลักษณ์ ที่ต้องการ  ระบบจะเปิดหน้าต่างใหม่ เพื่อให้คุณได้อ่าน หรือบันทึกเอกสารลงคอมพิวเตอร์ (เอกสารอยู่ในรูปแบบ PDF)",
             "arabic": "اانقر على عنوان أو أيقونة ما لفتح أحد الموارد. وسوف يتم فتح ملفات PDF والوثائق في علامة تبويب جديدة أو تنزيلها على الحاسب أو الجهاز الخاص بك حسب إعدادات المتصفح الخاص بك."
           }
         },
@@ -69,6 +73,7 @@
             "portuguese": "Clique no título de uma faixa de áudio para reproduzir o arquivo no navegador. Use os controles para reproduzir, pausar e ajustar o volume.",
             "japanese": "ブラウザでファイルを再生するには、音声トラックのタイトルをクリックします。再生、一時停止、音量調節にはコントロール機能を使用してください。",
             "chinese": "點擊錄音檔的曲目標題，可在瀏覽器播放錄音檔。請操作控制面板來播放、暫停以及調整音量。",
+            "thai": "คลิกที่ ชื่อไฟล์เสียง เพื่อฟังคลิปเสียง ใช้แถบควบคุมเพื่อเล่น หรือหยุดเล่น รวมถึงปรับระดับเสียง",
             "arabic": "اانقر على عنوان المسار الصوتي لتشغيل الملف داخل المتصفح الخاص بك. استخدم مفاتيح التحكم لتشغيل مستوى جهارة الصوت وإيقافه وضبطه."
           }
         }

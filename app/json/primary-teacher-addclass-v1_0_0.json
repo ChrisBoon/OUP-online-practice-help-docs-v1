@@ -7,6 +7,7 @@
     "portuguese": "Adicione uma nova turma",
     "japanese": "新しいクラスの追加",
     "chinese": "新增班級",
+    "thai": "เพิ่มห้องเรียนใหม่",
     "arabic": "إضافة فصل جديد"
   },
  "segment": "primary",
@@ -24,6 +25,7 @@
         "portuguese": "Escolha um nível",
         "japanese": "レベルの選択",
         "chinese": "選擇等級",
+        "thai": "เลือกระดับ",
         "arabic": "حدد مستوى"
       },
       "paragraphs":{
@@ -39,6 +41,7 @@
             "portuguese": "Escolha um nível para sua nova turma.",
             "japanese": "新しいクラスのレベルを選択します。",
             "chinese": "請為您的新班級選擇一個等級。",
+            "thai": "เลือกระดับสำหรับห้องเรียนใหม่ของคุณ",
             "arabic": "حدد مستوى لفصلك الجديد."
           }
         }
@@ -55,6 +58,7 @@
         "portuguese": "Insira o nome da sua instituição",
         "japanese": "学校・団体コードの入力",
         "chinese": "輸入您的機關單位代碼",
+        "thai": "ใส่รหัสสถาบันของคุณ",
         "arabic": "أدخل رمز المؤسسة الخاص"
       },
       "paragraphs":{
@@ -70,6 +74,7 @@
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de turma com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você pode inserir um código de identificação da instituição posteriormente clicando em “Join an Institution” na sua página dados da turma.",
             "japanese": "学校・団体IDコードをお持ちの場合は、こちらに入力します。このコードは管理者から渡されるものです。このコードは学校・団体とクラス用のレポートをリンクします。学校・団体IDコードをお持ちでない場合は、Skip[スキップ]をクリックします。学校・団体コードを後から入力するには、クラスの詳細ページからJoin an Institution　[学校・団体への参加登録]をクリックします。",
             "chinese": "如果您有機關單位代碼，請在此輸入。機關單位代碼由您的管理人提供，此代碼將您的班級紀錄連結到您的學校或機關單位。如果您沒有機關單位代碼，請點擊「略過」。您也可以之後再輸入機關單位代碼，從您的班級資料頁面點擊「加入機關單位」即可。",
+            "thai": "ถ้าคุณมีรหัสสถาบันการศึกษาของคุณ ใส่ที่นี่  คุณสามารถขอทราบรหัสนี้ได้จากผู้ดำเนินการของคุณ  รหัสนี้จะเชื่อมต่อข้อมูลของคุณกับโรงเรียนหรือสถาบันของคุณ  ถ้าคุณไม่มีรหัสสถาบัน คลิก “Skip”  คุณสามารถใส่รหัสสถาบันในภายหลังได้ โดยการคลิก “Join an Instituition” จากหน้ารายละเอียดห้องเรียนของคุณ",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فقم بإدخاله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك."
           }
         },
@@ -85,6 +90,7 @@
             "portuguese": "Clique aqui para voltar à página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
+            "thai": "คลิกที่นี่ เพื่อย้อนกลับไปหน้าที่แล้ว",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -100,6 +106,7 @@
             "portuguese": "Clique aqui caso você não tenha um código de identificação da instituição.",
             "japanese": "学校・団体IDコードをお持ちでない場合は、こちらをクリックします。",
             "chinese": "如果您沒有機關單位代碼，請點此處。",
+            "thai": "คลิกที่นี่ ถ้าคุณไม่มีรหัสสถาบันของคุณ",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         },
@@ -115,6 +122,7 @@
             "portuguese": "Clique aqui para enviar seu código de identificação da instituição e para ir para a próxima página.",
             "japanese": "学校・団体IDコードを送信して次のページに進むには、こちらをクリックします。",
             "chinese": "點此處送出您的機關單位代碼，並前往下一頁。",
+            "thai": "คลิกที่นี่ เพื่อยืนยันรหัสสถาบันของคุณ  และไปสู่หน้าถัดไป",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاص بك وانتقل إلى الصفحة التالية."
           }
         }
@@ -131,6 +139,7 @@
         "portuguese": "Criar um nome de turma",
         "japanese": "クラス名の作成",
         "chinese": "創建班級名稱",
+        "thai": "ตั้งชื่อห้องเรียน",
         "arabic": "إنشاء اسم للفصل"
       },
       "paragraphs":{
@@ -146,6 +155,7 @@
             "portuguese": "Digite um nome para a sua aula aqui.",
             "japanese": "新しいクラス名をこちらに入力します。",
             "chinese": "請在此輸入您的班級名稱。",
+            "thai": "ใส่ชื่อห้องเรียนของคุณที่นี่",
             "arabic": "أدخل اسمًا لفصلك هنا."
           }
         }
@@ -162,6 +172,7 @@
         "portuguese": "Salve seu código de identificação de turma",
         "japanese": "クラスIDコードの保存",
         "chinese": "儲存您的班級代碼",
+        "thai": "บันทึกรหัสห้องเรียนของคุณ",
         "arabic": "احفظ رمز مُعرِّف الفصل الخاص بك."
       },
       "paragraphs":{
@@ -177,6 +188,7 @@
             "portuguese": "Este é o código de identificação para a sua nova turma. Salve o código e distribua-o aos seus alunos. Eles poderão participar da sua turma com o novo código e você será capaz de visualizar os seus relatórios.",
             "japanese": "今回登録した新しいクラスIDコードが決まりました。このコードを保存し、生徒に配布してください。生徒は新しいクラスに参加登録ができ、先生は生徒の学習状況を確認できます。",
             "chinese": "這是您的新班級的代碼。請儲存代碼並發送給您的學生，他們將能使用這個新代碼加入您的班級，而您將能觀看他們的學習報告。",
+            "thai": "นี่คือรหัสสำหรับห้องเรียนใหม่ของคุณ  บันทึกรหัสไว้ และบอกให้กับนักเรียนของคุณ  พวกเขาจะได้สามารถเข้าร่วมห้องเรียนได้ด้วยรหัสใหม่นี้  และคุณจะสามารถเห็นรายงานทั้งหมดของพวกเขาได้",
             "arabic": "هذا هو رمز مُعرِّف الفصل الجديد الخاص بك. احفظ الرمز ووزعه على طلابك. سوف يكون بإمكانهم الانضمام إلى فصلك من خلال الرمز الجديد، وسوف تكون قادرًا على رؤية تقاريرهم."
           }
         }

@@ -7,6 +7,7 @@
     "portuguese": "Ocultar unidades e lições",
     "japanese": "ユニットとレッスンの非表示",
     "chinese": "隱藏單元與課程",
+    "thai": "ซ่อนหัวข้อและบทเรียน",
     "arabic": "إخفاء الوحدات والدروس"
   },
  "segment": "primary",
@@ -24,6 +25,7 @@
         "portuguese": "",
         "japanese": "",
         "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -39,6 +41,7 @@
             "portuguese": "Você pode ocultar as unidades e as lições de seus alunos marcando as caixas de seleção nesta página. Seus alunos só visualizarão as atividades das unidades ou lições quando você desmarcar as caixas de seleção.",
             "japanese": "ユニットやレッスンを生徒が見ないようにする場合は、このページのボックスにチェックマークを入れます。チェックマークを入れないと、生徒はそのユニットやレッスンのアクティビティのみ見ることができます。",
             "chinese": "勾選本頁面的方框，您可以隱藏單元與課程，不被學生看到。只有在您取消勾選之後，您的學生才能夠看到該單元或課程的學習活動。",
+            "thai": "คุณสามารถซ่อนหัวข้อและบทเรียนจากนักเรียนของคุณได้  โดยคลิกที่กล่องในหน้านี้  นักเรียนของคุณจะเห็นกิจกรรมของหัวข้อและบทเรียนต่างๆได้ ต่อเมื่อคุณยกเลิกการซ่อน",
             "arabic": "يمكنك إخفاء الوحدات والدروس عن طلابك عن طريق وضع علامة في المربعات الموجودة في هذه الصفحة. سيتمكن طلابك من رؤية الأنشطة الموجودة في الوحدات أو الدروس فقط عندما لا تضع علامة في المربعات."
           }
         },
@@ -54,6 +57,7 @@
             "portuguese": "Selecione uma turma a partir do menu.",
             "japanese": "クラスはこちらのメニューから選択します。",
             "chinese": "請使用選單選擇一個班級。",
+            "thai": "เลือกห้องเรียนที่ต้องการซ่อน",
             "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
           }
         },
@@ -69,6 +73,7 @@
             "portuguese": "Marque uma caixa de seleção para ocultar uma unidade inteira.",
             "japanese": "ユニット全体を表示しない場合は、こちらのボックスにチェックマークを入れます。",
             "chinese": "勾選這個方框來隱藏整個單元。",
+            "thai": "คลิกที่กล่องนี้ เพื่อซ่อนทุกหัวข้อ",
             "arabic": "ضع علامة في مربع ما هنا لإخفاء الوحدة كاملةً."
           }
         },
@@ -84,6 +89,7 @@
             "portuguese": "Marque uma caixa de seleção para ocultar lições selecionadas dentro de uma unidade.",
             "japanese": "ユニット内で特定のレッスンを表示しない場合は、こちらのボックスにチェックマークを入れます。",
             "chinese": "勾選這個方框來隱藏您在此單元當中選擇的課程。",
+            "thai": "คลิกที่กล่องนี้ เพื่อซ่อนเฉพาะบทเรียนที่เลือกไว้",
             "arabic": "ضع علامة في مربع ما هنا لإخفاء الدروس التي تم تحديدها داخل الوحدة."
           }
         },
@@ -99,6 +105,7 @@
             "portuguese": "Clique aqui para salvar as alterações feitas a esta turma.",
             "japanese": "このクラスの変更内容を保存するには、こちらをクリックします。",
             "chinese": "點此處以儲存您對此班級所做的變更。",
+            "thai": "คลิกที่นี่  เพื่อบันทึกการเปลี่ยนแปลงที่คุณได้ทำไว้ในห้องเรียนนี้",
             "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
           }
         }

@@ -7,6 +7,7 @@
     "portuguese": "Relatório de unidade",
     "japanese": "ユニットレポート",
     "chinese": "單元報告",
+    "thai": "สรุปรายงานประจำหน่วยบทเรียน",
     "arabic": "تقرير الوحدة"
   },
  "segment": "primary",
@@ -24,6 +25,7 @@
         "portuguese": "",
         "japanese": "",
         "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -39,6 +41,7 @@
             "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas).",
             "japanese": "クラスのサマリーレポート（全クラスの平均得点）を表示するには、こちらをクリックします。",
             "chinese": "點此處觀看班級簡要報告（您全部班級的平均分數）。",
+            "thai": "คลิกที่นี่  เพื่อดูสรุปรายงานโดยรวมของทุกห้องเรียน (คะแนนเฉลี่ยของห้องเรียนของคุณทุกห้อง)  ",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -54,6 +57,7 @@
             "portuguese": "Clique aqui para visualizar o relatório da turma.",
             "japanese": "クラスレポートを表示するには、こちらをクリックします。",
             "chinese": "點此處觀看班級報告。",
+            "thai": "คลิกที่นี่  เพื่ออ่านสรุปของทั้งห้องเรียน",
             "arabic": "انقر هنا لعرض التقرير عن الفصل."
           }
         },
@@ -69,6 +73,7 @@
             "portuguese": "Utilize este menu para visualizar um relatório de uma turma diferente.",
             "japanese": "別のクラスのユニットレポートを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看不同班級的單元報告。",
+            "thai": "เมนูนี้สำหรับดูรายงานของหน่วยบทเรียนในแต่ละห้องเรียน",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لفصل مختلف."
           }
         },
@@ -84,6 +89,7 @@
             "portuguese": "Utilize este menu para visualizar um relatório de unidade de um aluno diferente.",
             "japanese": "別の生徒のユニットレポートを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看不同學生的單元報告。",
+            "thai": "เมนูนี้สำหรับดูรายงานของหน่วยบทเรียนในนักเรียนแต่ละคน",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لطالب مختلف."
           }
         },
@@ -99,6 +105,7 @@
             "portuguese": "Utilize este menu para visualizar um relatório de unidade de uma unidade diferente.",
             "japanese": "別のユニットのユニットレポートを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看不同單元的單元報告。",
+            "thai": "เมนูนี้สำหรับดูรายงานเทียบระหว่างหน่วยบทเรียน",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لوحدة مختلفة."
           }
         },
@@ -114,6 +121,7 @@
             "portuguese": "Clique aqui para visualizar o trabalho realizado por este aluno nesta lição.",
             "japanese": "このレッスンに対する生徒の学習状況を表示するには、こちらをクリックします。",
             "chinese": "點此處來觀看這位學生在這堂課的表現。",
+            "thai": "คลิกที่นี่  เพื่อดูผลงานของนักเรียนสำหรับบทเรียนนี้",
             "arabic": "انقر هنا لعرض عمل هذا الطالب الخاص بهذا الدرس."
           }
         },
@@ -129,6 +137,7 @@
             "portuguese": "Esta linha exibe a pontuação deste aluno em cada atividade nesta unidade. Ela exibe a pontuação recebida durante a última tentativa de realização da atividade pelo aluno. Por exemplo, se o resultado é 8/10, 8 é o número de itens (questões) o aluno respondeu corretamente, e 10 é o número total de itens na atividade. O símbolo . significa que a atividade não possui uma pontuação.",
             "japanese": "この行は、このユニットの各アクティビティに対するこの生徒の得点を表します。これは、その生徒によるこのアクティビティの一番最近の取り組みを表示しています。例えば、その得点が8/10だとすれば、8はその生徒が正しく答えた質問の数であり、10はそのアクティビティの質問の合計数です。.のマークは、アクティビティに得点がないことを意見します。",
             "chinese": "這一行顯示這位學生在本單元每個學習活動的得分，此得分來自於學生對於這個學習活動最近一次的嘗試。例如，如果分數是8/10，8代表學生答對的題目數量，而10代表此活動裡面全部的題目數量。圓點符號「.」代表這項學習活動並沒有分數。",
+            "thai": "ส่วนนี้จะแสดงผลคะแนนของนักเรียนในการทำแต่ละกิจกรรมของหน่วยบทเรียนนี้   โดยระบบจะแสดงคะแนนครั้งล่าสุดที่ทำได้  เช่น  ถ้าคะแนนที่แสดงคือ 8/10  8 คือจำนวน ของคำถามที่นักเรียนตอบถูก  และ 10 คือจำนวนคำถามทั้งหมด  สัญลักษณ์ .หมายถึงยังไม่มีผลคะแนนในกิจกรรมนั้น ",
             "arabic": "يُظهِر هذا الصف درجة هذا الطالب في كل نشاط في هذه الوحدة. ويوضح الدرجة الخاصة بآخر محاولة للطالب في النشاط. فعلى سبيل المثال، إذا كانت الدرجة هي 8/10، فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عنها الطالب إجابة صحيحة، والرقم 10 هو العدد الإجمالي للبنود في النشاط. يُقصَد بالرمز . أن النشاط ليست عليه أية درجة."
           }
         },
@@ -144,6 +153,7 @@
             "portuguese": "Esta linha exibe o número de vezes que um aluno tentou realizar cada atividade nesta unidade. O símbolo . significa que as tentativas não são registradas para a atividade.",
             "japanese": "この行は、このユニットの各アクティビティにこの生徒が取り組んだ合計回数を表します。.のマークは、そのアクティビティに取り組んだ記録がないことを意味します。",
             "chinese": "這一行顯示這位學生在本單元每個學習活動的嘗試次數總和。圓點符號「.」代表此項活動的過程沒有被記錄下來。",
+            "thai": "ส่วนนี้จะแสดงจำนวนครั้งที่นักเรียนเข้าทำกิจกรรม สัญลักษณ์ .หมายถึง กิจกรรมนั้นยังไม่ได้ถูกบันทึกคะแนน",
             "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي حاول فيها هذا الطالب القيام بجميع الأنشطة في هذه الوحدة. يعني الرمز . أنه لم يتم تسجيل المحاولات الخاصة بالنشاط."
           }
         },
@@ -159,6 +169,7 @@
             "portuguese": "Esta linha exibe a quantidade total de tempo que este aluno gastou em cada atividade nesta unidade.",
             "japanese": "この行は、このユニットの各アクティビティにこの生徒が費やした合計時間を表します。",
             "chinese": "這一行顯示這位學生在此單元當中，對於每個活動花費的時間總數。",
+            "thai": "ส่วนนี้จะแสดงระยะเวลาทั้งหมดที่ใช้ในการทำแต่ละกิจกรรม",
             "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي قضاها هذا الطالب في القيام بجميع الأنشطة في هذه الوحدة."
           }
         },
@@ -174,6 +185,7 @@
             "portuguese": "Esta é a pontuação total do aluno em uma lição.",
             "japanese": "これは、このレッスンのこの生徒の合計得点です。",
             "chinese": "這是學生在一堂課程所得的總分。",
+            "thai": "คะแนนรวมของนักเรียน สำหรับบทเรียนนี้",
             "arabic": "هذه هي النتيجة الإجمالية للطالب في أحد الدروس."
           }
         },
@@ -189,6 +201,7 @@
             "portuguese": "Este é o número total de tentativas de realização de atividades do aluno em uma lição.",
             "japanese": "これは、このレッスンでこの生徒がアクティビティに取り組んだ合計回数です。",
             "chinese": "這是學生在同一堂課學習活動的嘗試次數總和。",
+            "thai": "จำนวนกิจกรรมที่นักเรียนได้ทำทั้งหมด ในบทเรียนนี้",
             "arabic": "هذا هو العدد الإجمالي لمحاولات النشاط الخاصة بالطالب في أحد الدروس."
           }
         },
@@ -204,6 +217,7 @@
             "portuguese": "Este é o tempo total gasto nas atividades de uma lição.",
             "japanese": "これは、このレッスンのアクティビティにかかった合計時間です。",
             "chinese": "這是同一堂課所有學習活動花費的時間總和。",
+            "thai": "ระยะเวลาทั้งหมด ที่นักเรียนใช้ทำกิจกรรมในบทเรียนนี้",
             "arabic": "هذا هو مقدار الوقت الإجمالي الذي تستغرقه الأنشطة في أحد الدروس."
           }
         },
@@ -219,6 +233,7 @@
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™.",
             "japanese": "このレポートをMicrosoft Excel™にエクスポートするには、こちらをクリックします。",
             "chinese": "點此處用Microsoft Excel格式輸出這份報告。",
+            "thai": "หากต้องการเปิดข้อมูลรายงานนี้ เป็นไฟล์ Excelคลิกที่นี่",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -234,6 +249,7 @@
             "portuguese": "Clique aqui para imprimir este relatório.",
             "japanese": "このレポートを印刷するには、こちらをクリックします。",
             "chinese": "點此處列印這份報告。",
+            "thai": "หากต้องการพิมพ์ คลิกที่นี่",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }

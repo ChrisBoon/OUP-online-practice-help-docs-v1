@@ -7,6 +7,7 @@
     "portuguese": "Alterar turma",
     "japanese": "クラスの変更",
     "chinese": "更改班級",
+    "thai": "เปลี่ยนห้องเรียน",
     "arabic": "تغيير الفصل"
   },
  "segment": "primary",
@@ -24,6 +25,7 @@
         "portuguese": "",
         "japanese": "",
         "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -39,6 +41,7 @@
             "portuguese": "Insira o novo código de identificação de turma aqui e, em seguida, clique em \"Save\".",
             "japanese": "新しいクラスIDコードをこちらに入力します。その後、Save[保存]をクリックします。",
             "chinese": "在此處輸入新的班級代碼，並點擊「儲存」。",
+            "thai": "พิมพ์รหัสของห้องเรียนใหม่ที่นี่  คลิก ”บันทึก”",
             "arabic": "أدخل رمز مُعرِّف الفصل الجديد الخاص بك هنا ثم انقر على “Save”(\"حفظ\")."
           }
         },
@@ -54,6 +57,7 @@
             "portuguese": "Clique aqui para enviar o seu novo código de identificação de turma e voltar para a sua página inicial.",
             "japanese": "新しいクラスIDコードを送信してホームページに戻るには、こちらをクリックします。",
             "chinese": "點此處送出新的班級代碼並回到您的首頁。",
+            "thai": "คลิกที่นี่  เพื่อยืนยันรหัสห้องเรียนใหม่  และกลับหน้าหลัก",
             "arabic": "اانقر هنا لإرسال رمز مُعرِّف الفصل الجديد الخاص بك وعُد إلى صفحتك الرئيسية."
           }
         },
@@ -69,6 +73,7 @@
             "portuguese": "Clique aqui para voltar à página anterior sem alterar sua turma.",
             "japanese": "クラスを変更しないで前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁，不更改班級。",
+            "thai": "คลิกที่นี่  เพื่อยกเลิก และย้อนกลับหน้าที่แล้ว   ",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة بدون تغيير الفصل الخاص بك."
           }
         }

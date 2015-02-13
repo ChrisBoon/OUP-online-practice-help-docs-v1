@@ -7,6 +7,7 @@
     "portuguese": "Atividades",
     "japanese": "アクティビティ",
     "chinese": "學習活動",
+    "thai": "กิจกรรม",
     "arabic": "أنشطة"
   },
  "segment": "primary",
@@ -24,6 +25,7 @@
         "portuguese": "",
         "japanese": "",
         "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -39,6 +41,7 @@
             "portuguese": "Utilize este menu para escolher a unidade e uma lição. Quando você escolher uma unidade e uma lição, você será levado para a primeira atividade dentro da lição.",
             "japanese": "ユニットとレッスンはこちらのメニューから選択します。ユニットとレッスンを選択すると、そのレッスンの最初のアクティビティが表示されます。",
             "chinese": "請使用本選單來選擇單元與課程。當您選擇一個單元與課程，您將前往該課程裡的第一個學習活動。",
+            "thai": "เมนูนี้สำหรับเลือกหัวข้อและบทเรียน  เมื่อเลือกหัวข้อและบทเรียนที่ต้องการ ระบบจะนำไปที่หน้าแรกของกิจกรรม",
             "arabic": "استخدم هذه القائمة لاختيار وحدة ودرس. عند اختيار وحدة ودرس سيتم نقلك إلى النشاط الأول ضمن الدرس."
           }
         },
@@ -54,6 +57,7 @@
             "portuguese": "Clique no menu ao lado para escolher uma atividade dentro de uma lição.",
             "japanese": "このレッスンのアクティビティはこちらのメニューから選択します。",
             "chinese": "請使用本選單來選擇課程內的一項學習活動。",
+            "thai": "เมนูนี้สำหรับเลือกกิจกรรมภายในบทเรียน",
             "arabic": "استخدم هذه القائمة لاختيار النشاط من خلال الدرس."
           }
         },
@@ -69,6 +73,7 @@
             "portuguese": "Utilize os botões “Previous” e Next” para navegar por meio das atividades em sequência.",
             "japanese": "アクティビティを順番に進めるには、Previous[前に]とNext[次へ]ボタンをクリックします。",
             "chinese": "請使用「往前」與「往後」按鈕，即可按照順序瀏覽各項活動。",
+            "thai": "ใช้ปุ่ม ย้อนกลับ และ ถัดไป สำหรับนำทางในกิจกรรมตามลำดับ",
             "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل."
           }
         },
@@ -84,6 +89,7 @@
             "portuguese": "As atividades do Online Practice são exibidas nesta área.",
             "japanese": "Online Practiceのアクティビティは、このエリアに表示されます。",
             "chinese": "線上練習的學習活動在此區展示。",
+            "thai": "กิจกรรมของการทำแบบฝึกหัดออนไลน์  แสดงที่นี่",
             "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
           }
         },
@@ -99,6 +105,7 @@
             "portuguese": "A sua pontuação atual de um aluno em uma atividade é exibida aqui.",
             "japanese": "この生徒の現在のアクティビティの得点はこちらに表示されます。",
             "chinese": "學生目前的學習活動得分在此顯示。",
+            "thai": "คะแนนการทำกิจกรรมของนักเรียน  แสดงที่นี่",
             "arabic": "تظهر درجة النشاط الحالي للطالب هنا."
           }
         },
@@ -114,6 +121,7 @@
             "portuguese": "Um aluno pode tentar realizar cada atividade três vezes. A pontuação mais alta dentre as três tentativas realizadas será registrada no relatório do aluno.",
             "japanese": "アクティビティは3回まで取り組むことができます。そのうちの1番高い得点が生徒用レポートに記録されます。",
             "chinese": "學生可以嘗試一項學習活動三次，當中的最高分會紀錄在該學生的學習報告。",
+            "thai": "ในหนึ่งกิจกรรม นักเรียนสามารถทำได้ไม่เกินสามครั้ง ระบบจะบันทึกคะแนนที่สูงที่สุดไว้ในฐานข้อมูล",
             "arabic": "يمكن للطالب أن يحاول في نشاط ما ثلاث مرات. يتم تسجيل أعلى درجة لمحاولاتهم في تقرير الطالب."
           }
         },
@@ -129,6 +137,7 @@
             "portuguese": "Clique aqui para visualizar um pop-up com uma dica rápida contendo orientações sobre a realização de uma atividade.",
             "japanese": "アクティビティを完了させるための手引きとしてQuick Tipのポップアップを見るには、こちらをクリックします。",
             "chinese": "點此處會彈出小訣竅視窗，指引學生完成一項學習活動。",
+            "thai": "คลิกที่นี่ เพื่ออ่านข้อแนะนำในการทำกิจกรรมให้ประสบความสำเร็จ",
             "arabic": "انقر هنا لرؤية نصيحة سريعة منبثقة مع توجيهات بشأن استكمال النشاط."
           }
         },
@@ -144,6 +153,7 @@
             "portuguese": "Se uma atividade possuir um anexo, um ícone aparecerá aqui. Clique para realizar o download ou para exibir o anexo.",
             "japanese": "アクティビティに添付ファイルがある場合は、こちらにアイコンが表示されます。添付ファイルをクリックすると、ダウンロードまたは表示できます。",
             "chinese": "如果學習活動有附件，此處會有圖示，點擊圖示可以下載或顯示附件。",
+            "thai": "หากในกิจกรรมมีเอกสารแนบ ระบบจะแสดงสัญลักษณ์ที่นี่  คลิกเพื่อดาวน์โหลด หรือเปิดเอกสารแนบ",
             "arabic": "في حالة احتواء النشاط على مرفق، فستظهر أيقونة هنا. انقر لتحميل أو عرض المرفق."
           }
         },
@@ -159,6 +169,7 @@
             "portuguese": "Um aluno pode conferir suas respostas após responder a todas as perguntas em uma atividade.",
             "japanese": "アクティビティの全ての問題に答えると、答え合わせをすることができます。",
             "chinese": "當學生答完一項學習活動中的全部問題，他們可以檢查自己的答案。",
+            "thai": "นักเรียนสามารถดูเฉลยคำตอบได้  เมื่อตอบครบทุกคำถามในกิจกรรมแล้ว",
             "arabic": "يمكن للطالب مراجعة إجاباتهم عندما يجيبون على جميع الأسئلة في نشاط ما."
           }
         },
@@ -174,6 +185,7 @@
             "portuguese": "Um aluno pode tentar realizar uma atividade novamente caso tenha respondido a algumas perguntas de forma incorreta. Você pode tentar realizar cada atividade três vezes.",
             "japanese": "いくつか不正解があった場合は、もう一度挑戦できます。1つのアクティビティは3回まで取り組むことができます。",
             "chinese": "如果學生答錯一些問題，可以再次嘗試這項學習活動，有三次機會可以嘗試。",
+            "thai": "ในหนึ่งกิจกรรมนักเรียนสามารถแก้ไขคำตอบได้ไม่เกินสามครั้ง ในกรณีที่ตอบบางคำถามไม่ถูกต้อง",
             "arabic": "يمكن للطالب المحاول مرة أخرى في حالة الإجابة على بعض الأسئلة بشكل غير صحيح. يمكنهم أن يحاول في نشاط ما ثلاث مرات."
           }
         },
@@ -189,6 +201,7 @@
             "portuguese": "Se um aluno responder algumas perguntas incorretamente, ele poderá visualizar as respostas corretas.",
             "japanese": "いくつか不正解があった場合は、正解を見ることができます。",
             "chinese": "如果學生答錯一些問題，他們可以看正確答案。",
+            "thai": "ระบบจะแสดงเฉลยคำตอบที่ถูกต้อง สำหรับคำถามที่นักเรียนตอบผิด",
             "arabic": "إذا أجاب الطالب على بعض الأسئلة بشكل غير صحيح فبإمكانه رؤية الإجابات الصحيحة."
           }
         },
@@ -204,6 +217,7 @@
             "portuguese": "Os professores podem encontrar os recursos de suporte aqui, caso disponíveis.",
             "japanese": "先生用のサポートリソースがある場合は、こちらから見ることができます。",
             "chinese": "在此處教師可以找到目前可用的教學輔助資源。",
+            "thai": "ครูผู้สอนสามารถหาข้อมูลเพิ่มเติมสำหรับช่วยในการเรียนการสอนได้ที่นี่  (ถ้ามี)",
             "arabic": "يمكن للمعلمين العثور على المراجع المساعدة هنا، إن وجدت."
           }
         },
@@ -219,6 +233,7 @@
             "portuguese": "Um glossário de imagens pode ser acessado aqui, caso disponível. O glossário de imagens contém um vocabulário com todas as palavras principais.",
             "japanese": "Picture Glossaryがある場合には、こちらからアクセスできます。Picture Glossaryには主なボキャブラリーが掲載されています。",
             "chinese": "在此處可以進入目前可用的圖片詞庫，圖片詞庫包含此等級的核心字彙。",
+            "thai": "คุณสามารถเข้าหน้าอภิธานศัพท์ เพื่อหาความหมายเพิ่มเติมของคำศัพท์ที่สำคัญได้ที่นี่ (ถ้ามี)",
             "arabic": "يمكن الدخول إلى مسرد الصور من هنا، إن وجد. يحتوي مسرد الصور على المفردات الأساسية الخاصة بمستوى ما."
           }
         },
@@ -234,6 +249,7 @@
             "portuguese": "Os alunos podem acessar suas áreas de progresso e seus relatórios aqui. Os professores devem acessar os relatórios dos alunos a partir da página inicial.",
             "japanese": "生徒は成績表とレポートにこちらからアクセスできます。先生はホームページから生徒のレポートにアクセスする必要があります。",
             "chinese": "此處學生可進入他們的學習成果與學習報告區。教師必須由首頁進入以觀看學生報告。",
+            "thai": "นักเรียนเข้าอ่านรายงานความสำเร็จได้ที่นี่   หากครูผู้สอนต้องการเข้าดูรายงานของนักเรียน ต้องเข้าจากหน้าหลัก",
             "arabic": "يمكن للطلاب الوصول إلى تقارير ومجالات التحصيل الخاصة بهم من هنا. يجب على المعلمين الدخول إلى تقارير الطلاب من الصفحة الرئيسية."
           }
         }

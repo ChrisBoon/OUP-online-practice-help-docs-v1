@@ -7,6 +7,7 @@
     "portuguese": "Relatório de turma",
     "japanese": "クラスレポート",
     "chinese": "班級報告",
+    "thai": "รายงานประจำห้อง",
     "arabic": "التقرير الخاص بالفصل "
   },
  "segment": "primary",
@@ -24,6 +25,7 @@
         "portuguese": "",
         "japanese": "",
         "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -39,6 +41,7 @@
             "portuguese": "Esta tela exibe os relatórios sobre todos os alunos que participam de uma determinada turma.",
             "japanese": "この画面は、クラス内の全生徒のレポートを表示しています。",
             "chinese": "此畫面顯示同一班級裡面全部學生的學習報告。",
+            "thai": "หน้าแสดงรายงานของนักเรียนทุกคนในห้องเรียน",
             "arabic": "تُظهِر هذه الشاشة تقارير جميع الطلاب في فصل ما."
           }
         },
@@ -54,6 +57,7 @@
             "portuguese": "Utilize este menu para visualizar um relatório de uma turma diferente.",
             "japanese": "別のクラスのレポートを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看不同班級的報告。",
+            "thai": "เมนูนี้สำหรับดูรายงานของห้องเรียนอื่น",
             "arabic": "استخدم هذه القائمة لرؤية تقرير ما لفصل مختلف."
           }
         },
@@ -69,6 +73,7 @@
             "portuguese": "Utilize este menu para visualizar os relatórios de um aluno específico ou de todos os alunos.",
             "japanese": "特定の生徒、または全ての生徒のレポートを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看 單一學生或全部學生。",
+            "thai": "เมนูนี้สำหรับดูรายงานของนักเรียนทั้งหมด หรือแยกดูเป็นรายบุคคล",
             "arabic": "استخدم هذه القائمة لرؤية تقارير طالب ما على حدة أو تقارير كل الطلاب."
           }
         },
@@ -84,6 +89,7 @@
             "portuguese": "Você também pode clicar no nome do aluno para visualizar os resultados obtidos nas lições e unidades.",
             "japanese": "生徒名をクリックしても、レッスン全体とユニット全体の結果を表示することができます。",
             "chinese": "您也可以點擊某一學生的姓名來觀看他們在各課程與單元的表現。",
+            "thai": "คลิกที่ชื่อนักเรียน  เพื่อดูผลคะแนนในบทเรียนทั้งหมด",
             "arabic": "يمكنك أيضًا النقر على اسم طالب ما لمُعرِّفة نتائجه عبر الدروس والوحدات."
           }
         },
@@ -99,6 +105,7 @@
             "portuguese": "Utilize este menu para filtrar o relatório a fim de visualizar os resultados dos alunos em uma unidade em particular.",
             "japanese": "特定のユニットの生徒の結果を見るためにそのレポートを選択する場合には、このメニューを使用します。",
             "chinese": "使用此選單來篩選報告，觀看學生在特定單元各個課程的表現。",
+            "thai": "เมนูนี้สำหรับเลือกดูรายงานของนักเรียนแยกตามหัวข้อที่ต้องการ",
             "arabic": "استخدم هذه القائمة لتصفية التقارير لرؤية نتائج الطلاب في وحدة معينة."
           }
         },
@@ -114,6 +121,7 @@
             "portuguese": "Você também pode clicar no título de uma unidade para visualizar os resultados dessa unidade.",
             "japanese": "ユニットのタイトルをクリックしても、そのユニットの結果を見ることができます。",
             "chinese": "您也可以點擊一個單元標題，來觀看這個單元裡面的學習結果。",
+            "thai": "คลิกที่ชื่อหัวข้อบทเรียน เพื่อแยกดูคะแนนตามรายหัวข้อบทเรียน",
             "arabic": "يمكنك أيضًا النقر على عنوان وحدة ما لترى النتائج في تلك وحدة."
           }
         },
@@ -129,6 +137,7 @@
             "portuguese": "Esta linha exibe o número médio de atividades concluídas em cada unidade para a turma.",
             "japanese": "この行は、そのクラスが各ユニットで完了したアクティビティの平均数を表します。",
             "chinese": "這一行顯示本班在每個單元完成的學習活動平均數目。",
+            "thai": "จำนวนเฉลี่ยของกิจกรรมที่ทำสำเร็จแล้วในแต่ละหัวข้อบทเรียนของทั้งห้อง ",
             "arabic": "يبين هذا الصف متوسط الأنشطة المُنجَزة في كل وحدة للفصل."
           }
         },
@@ -144,6 +153,7 @@
             "portuguese": "Esta linha exibe a pontuação média total das atividades em cada unidade para a turma.",
             "japanese": "この行は、そのクラスのあるユニットのアクティビティに対する平均総得点を表します。",
             "chinese": "這一行顯示本班在同一單元完成的學習活動分數總和平均。",
+            "thai": "คะแนนเฉลี่ยของกิจกรรมในแต่ละหัวข้อบทเรียนของทั้งห้อง",
             "arabic": "يبين هذا الصف المتوسط الإجمالي للدرجة الخاصة بالأنشطة في وحدة ما للفصل."
           }
         },
@@ -159,6 +169,7 @@
             "portuguese": "Esta linha exibe o tempo médio gasto nas atividades em cada unidade para a turma.",
             "japanese": "この行は、そのクラスがあるユニットのアクティビティに費やした平均時間を表します。",
             "chinese": "這一行顯示本班學生在同一單元學習活動所花費的平均時間。",
+            "thai": "เวลาเฉลี่ยที่นักเรียนทั้งห้องใช้ในการทำกิจกรรมในหนึ่งหัวข้อ",
             "arabic": "يبين هذا الصف الوقت المنقضي في الأنشطة في وحدة ما للفصل."
           }
         },
@@ -174,6 +185,7 @@
             "portuguese": "Este é o total do número médio de atividades concluídas dentre as unidades existentes.",
             "japanese": "これは、そのユニットを通して完了したアクティビティの平均数の合計です。",
             "chinese": "這是各單元完成的學習活動平均數量總和。",
+            "thai": "จำนวนเฉลี่ยของกิจกรรมในหัวข้อต่างๆที่นักเรียนทั้งห้องได้ทำสำเร็จ",
             "arabic": "هذا هو المتوسط الإجمالي للأنشطة المُنجَزة في الوحدات."
           }
         },
@@ -189,6 +201,7 @@
             "portuguese": "Esta é a pontuação média total para todos os alunos dentre as unidades.",
             "japanese": "ユニット全体についての全ての生徒の平均得点の合計です。",
             "chinese": "這是全部學生在各單元的總得分平均。",
+            "thai": "คะแนนเฉลี่ยในหัวข้อต่างๆ ที่นักเรียนทั้งห้องทำได้  ",
             "arabic": "هذا هو المتوسط الإجمالي لدرجة جميع الطلاب في الوحدات."
           }
         },
@@ -204,6 +217,7 @@
             "portuguese": "Esta é a quantidade média de tempo que todos os alunos gastam nas atividades.",
             "japanese": "これは、全ての生徒がアクティビティに費やした平均時間です。",
             "chinese": "這是全部學生在學習活動所花費的平均時間。",
+            "thai": "เวลาโดยเฉลี่ยที่นักเรียนทั้งห้องใช้ในการทำกิจกรรม",
             "arabic": "هذا هو متوسط مقدار الوقت الذي قضاه كل الطلاب في الأنشطة."
           }
         },
@@ -219,6 +233,7 @@
             "portuguese": "Esta linha exibe o número de atividades concluídas por um aluno em cada unidade.",
             "japanese": "この行は、各ユニットでその生徒が完了したアクティビティ数を表します。",
             "chinese": "這一行顯示一位學生在每個單元所完成的學習活動數目。",
+            "thai": "จำนวนกิจกรรมในแต่ละหัวข้อที่นักเรียนทำสำเร็จ  ",
             "arabic": "يُظهِر هذا الصف عدد الأنشطة التي أنجزها طالب ما في كل وحدة."
           }
         },
@@ -234,6 +249,7 @@
             "portuguese": "Esta linha exibe pontuação total de um aluno em cada unidade.",
             "japanese": "この行は、各ユニットのその生徒の合計得点を表します。",
             "chinese": "這一行顯示一位學生在每個單元得到的總分。",
+            "thai": "คะแนนรวมในแต่ละหัวข้อของนักเรียน",
             "arabic": "يُظهِر هذا الصف إجمالي درجة الطالب في كل وحدة."
           }
         },
@@ -249,6 +265,7 @@
             "portuguese": "Esta linha exibe a quantidade total de tempo que um aluno gasta em atividades em cada unidade.",
             "japanese": "この行は、その生徒が各ユニットのアクティビティに費やした合計時間を表します。",
             "chinese": "這一行顯示一位學生在每個單元完成學習活動所花費的總時數。",
+            "thai": "เวลาทั้งหมดที่นักเรียนใช้ในการทำกิจกรรมแต่ละหัวข้อ",
             "arabic": "يُظهِر هذا الصف إجمالي مقدار الوقت الذي قضاه الطالب بالأنشطة في كل وحدة."
           }
         },
@@ -264,6 +281,7 @@
             "portuguese": "Este é o número total de atividades concluídas por um aluno.",
             "japanese": "これは、その生徒が完了したアクティビティの合計数です。",
             "chinese": "這是一位學生完成的學習活動數量綜合。",
+            "thai": "ผลรวมของกิจกรรมที่นักเรียนทำสำเร็จแล้ว",
             "arabic": "هذا هو العدد الإجمالي للأنشطة المُنجَزة من قِبل الطالب."
           }
         },
@@ -279,6 +297,7 @@
             "portuguese": "Esta é a pontuação média de atividade da unidade de um aluno dentro de um determinado nível.",
             "japanese": "これは、そのレベルを通じたその生徒のユニットアクティビティの平均得点です。",
             "chinese": "這是一位學生在此等集裡面各個單元的學習活動平均得分。",
+            "thai": "คะแนนเฉลี่ยในแต่ละหัวข้อของนักเรียนทั้งระดับ",
             "arabic": "هذا هو متوسط درجة النشاط بالوحدة لطالب ما في المستوى."
           }
         },
@@ -294,6 +313,7 @@
             "portuguese": "Esta é a quantidade total de tempo que este aluno gastou em todo o nível.",
             "japanese": "これは、この生徒がそのレベル全体において取り組んだ合計時間です。",
             "chinese": "這是此學生在整個等級裡面所花費的時間總和。",
+            "thai": "ระยะเวลาทั้งหมดที่นักเรียนคนนี้ใช้ในการทำกิจกรรม",
             "arabic": "هذا هو إجمالي مقدار الوقت الذي عمله الطالب في كامل المستوى."
           }
         },
@@ -309,6 +329,7 @@
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™.",
             "japanese": "このレポートをMicrosoft Excel™にエクスポートするには、こちらをクリックします。",
             "chinese": "點此處用Microsoft Excel格式輸出這份報告。",
+            "thai": "คลิกที่นี่  เพื่อเปิดข้อมูลในรูปแบบไฟล์ Excel",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -324,6 +345,7 @@
             "portuguese": "Clique aqui para imprimir este relatório.",
             "japanese": "このレポートを印刷するには、こちらをクリックします。",
             "chinese": "點此處列印這份報告。",
+            "thai": "คลิกที่นี่เพื่อพิมพ์หน้านี้",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }

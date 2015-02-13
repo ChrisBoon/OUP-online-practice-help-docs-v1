@@ -7,6 +7,7 @@
     "portuguese": "Início",
     "japanese": "ホーム",
     "chinese": "首頁",
+    "thai": "หน้าหลัก",
     "arabic": "الصفحة الرئيسية"
   },
  "segment": "primary",
@@ -24,6 +25,7 @@
         "portuguese": "Escolha o seu nível",
         "japanese": "レベルの選択",
         "chinese": "選擇等級",
+        "thai": "เลือกระดับชั้นเรียนของคุณ",
         "arabic": "حدد مستواك"
       },
       "paragraphs":{
@@ -39,6 +41,7 @@
             "portuguese": "Quando você acessar o Online Practice ou clicar no ícone “Home” na parte superior da tela, você visualizará os níveis de seu curso.",
             "japanese": "Online Practiceにアクセスするか、画面上部のホームアイコンをクリックすると、コースのレベルが表示されます。",
             "chinese": "當您進入線上練習或點擊螢幕上端的首頁圖示時，在此處您將會看到課程的等級。",
+            "thai": "เมื่อเข้าระบบแบบฝึกหัดออนไลน์  หรือ คลิกที่สัญลักษณ์บ้านบริเวณส่วนบนของหน้าจอ  คุณจะเห็นระดับของหลักสูตรของคุณ",
             "arabic": "عندما تدخل الممارسة عبر الإنترنت أو تنقر على أيقونة الصفحة الرئيسية في أعلى الشاشة,سوف ترى مستويات الدورة الخاصة بك هنا."
           }
         },
@@ -54,6 +57,7 @@
             "portuguese": "Clique em “Add a level” para adicionar outro nível, caso você tenha um código de acesso.",
             "japanese": "アクセスコードがあれば、Add a Level[レベルの追加]をクリックすると別のレベルを追加することができます。",
             "chinese": "點擊「新增等級」，如果您有通行代碼，可以增加另一個等級。",
+            "thai": "คลิกที่ “เพิ่มระดับชั้นเรียน” ถ้าคุณมีรหัสการเข้าถึง (Access Code)",
             "arabic": "انقر على “Add a level”(\"أضف مستوى\") لإضافة مستوى آخر إذا كان لديك رمز دخول."
           }
         },
@@ -69,6 +73,7 @@
             "portuguese": "Escolha o nível que você deseja inserir.",
             "japanese": "アクセスしたいレベルを選択します。",
             "chinese": "選擇您想要進入的等級。",
+            "thai": "เลือกระดับชั้นเรียนที่คุณต้องการใช้งาน",
             "arabic": "اختر المستوى الذي ترغب في إدخاله."
           }
         }
@@ -85,6 +90,7 @@
         "portuguese": "Escolha uma seção do Online Practice",
         "japanese": "Online Practice のエリアの選択",
         "chinese": "選擇線上練習功能",
+        "thai": "เลือกพื้นที่แบบฝึกหัดออนไลน์",
         "arabic": "اختر منطقة الممارسة عبر شبكة الإنترنت"
       },
       "paragraphs":{
@@ -100,6 +106,7 @@
             "portuguese": "Clique aqui para alterar para um nível diferente.",
             "japanese": "別のレベルに変更するには、こちらをクリックします。",
             "chinese": "點此處更改為不同等級。",
+            "thai": "คลิกที่นี่ เพื่อไประดับชั้นเรียนอื่น",
             "arabic": "انقر هنا للتغيير إلى مستوى مختلف."
           }
         },
@@ -115,6 +122,7 @@
             "portuguese": "Clique aqui para entrar na área “Activity” do Online Practice.",
             "japanese": "Online Practice Activityのエリアにアクセスするには、こちらをクリックします。",
             "chinese": "點此處進入線上練習的學習活動區。",
+            "thai": "คลิกที่นี่ เพื่อเข้าพื้นที่กิจกรรมของแบบฝึกหัดออนไลน์",
             "arabic": "انقر هنا لدخول منطقة ممارسة النشاط عبر شبكة الإنترنت."
           }
         },
@@ -130,6 +138,7 @@
             "portuguese": "Clique aqui para visualizar o seu painel de habilidades, relatório e sala de troféus. Eles exibem suas realizações e seu progresso relacionado a todas as atividades deste nível.",
             "japanese": "レポート、トロフィルーム、スキルズダッシュボードを表示するにはこちらをクリックします。これらの画面では、そのレベルの全アクティビティに対しての成績表や進歩状況が表示されます。",
             "chinese": "點此處觀看您的學習報告、獎盃陳列室以及技能展示板。這些會顯示您在此等級當中，所有活動的學習成果以及學習進展。",
+            "thai": "คลิกที่นี่ เพื่ออ่านรายงาน, เข้าห้องเก็บถ้วยรางวัล และ กระดานแสดงความสามารถ  คุณจะเห็นความสำเร็จ, ความคืบหน้า ในทุกกิจกรรมของคุณ",
             "arabic": "انقر هنا لرؤية التقرير الخاص بك في غرفة الميداليات ولوحة المهارات. تُظهِر هذه الغرفة واللوحة التحصيل والتقدم الخاصينِبك في جميع الأنشطة في هذا المستوى."
           }
         },
@@ -145,6 +154,7 @@
             "portuguese": "Clique aqui para usar a área de e-mail. Você pode enviar mensagens para o seu professor e para os outros alunos com os quais você compartilha sua turma no Online Practice. O ícone “E-mail” aparecerá aqui quando você estiver participando de uma turma.",
             "japanese": "メールエリアの使用は、こちらをクリックします。自分のOnline Practiceのクラスの先生や生徒にメッセージを送ることができます。クラスに参加登録すると、こちらにメールアイコンが表示されます。",
             "chinese": "點此處使用電子郵件功能，您可以傳送訊息給您的老師已極限上學習的同班同學。當您加入一個班級時，電子郵件圖示會顯示在此處。",
+            "thai": "คลิกที่นี่ เพื่อเข้าใช้งานอีเมล  คุณสามารถส่งอีเมลหาครูผู้สอน และ นักเรียนคนอื่นในห้องเรียนได้  สัญลักษณ์อีเมลจะปรากฎขึ้นเมื่อคุณได้เข้าร่วมห้องเรียนแล้ว",
             "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني. يمكنك مراسلة معلمك والطلاب الآخرين المُدرَجين في فصل الممارسة عبر شبكة الإنترنت الخاص بك. تظهر أيقونة البريد الإلكتروني هنا بعد أن تنضم لأحد الفصول."
           }
         },
@@ -160,6 +170,7 @@
             "portuguese": "Clique aqui para usar o fórum. Você pode participar de discussões com o seu professor e com os outros alunos presentes em sua turma no Online Practice. O ícone do “Forum” aparecerá aqui quando você estiver participando de uma turma.",
             "japanese": "フォーラムの使用は、こちらをクリックします。自分のOnline Practiceのクラスの先生や生徒とのディスカッションに加わることができます。クラスに参加登録すると、こちらにフォーラムのアイコンが表示されます。",
             "chinese": "點此處使用討論區，您可以加入老師集同學的討論。當您加入一個班級時，討論區圖示會顯示在此處。",
+            "thai": "",
             "arabic": "اانقر هنا لاستخدام المنتدى. يمكنك الانضمام إلى مناقشة مع معلمك والطلاب الآخرين في فصل الممارسة عبر شبكة الإنترنت الخاص بك. تظهر أيقونة المنتدى هنا بعد أن تنضم لأحد الفصول."
           }
         },
@@ -175,6 +186,7 @@
             "portuguese": "Clique aqui para acessar o centro de mídia para escutar o áudio da aula e assistir vídeos, caso disponíveis.",
             "japanese": "音声やビデオが視聴可能な場合は、こちらをクリックするとメディアセンターにアクセスできます。",
             "chinese": "點此處通往媒體中心，收聽目前可用的課程錄音檔，也可以觀看影片。",
+            "thai": "คลิกที่นี่ เพื่อเข้า ห้องมัลติมีเดียคุณสามารถรับฟังไฟล์เสียงในห้องเรียนการฟัง หรือดูคลิปวิดีโอ (ถ้ามี)",
             "arabic": "انقر هنا للوصول إلى مركز الوسائط للاستماع إلى صوت الفصل ومشاهدة مقاطع الفيديو، إذا كان ذلك متاحًا."
           }
         },
@@ -190,6 +202,7 @@
             "portuguese": "Clique aqui para acessar a área “Resources”, onde você poderá encontrar recursos extras que darão suporte a você com relação ao seu Online Practice.",
             "japanese": "リソースエリアにアクセスするには、こちらをクリックします。リソースエリアには、Online Practiceをサポートするさまざまなリソースがあります。",
             "chinese": "點此處通往學習資源區，您可以找到額外的學習資源，協助您的線上練習。",
+            "thai": "คลิกที่นี่ เพื่อเข้าศูนย์ทรัพยากรการเรียนรู้สถานที่ที่คุณสามารถหาข้อมูลเพิ่มเติมสำหรับช่วยคุณในการทำแบบฝึกหัดออนไลน์",
             "arabic": "انقر هنا للدخول إلى منطقة الموارد حيث يمكنك أن تجد الموارد الإضافية التي سوف تدعمك في الممارسة عبر شبكة الإنترنت."
           }
         },
@@ -205,6 +218,7 @@
             "portuguese": "Clique aqui para participar de uma turma do Online Practice ou para alterar a turma. Você precisará de um código de turma fornecido pelo seu professor para fazer isso.",
             "japanese": "Online Practiceのクラスへの参加登録またはクラスの変更は、こちらをクリックします。これを行うには、先生からのクラスコードが必要となります。",
             "chinese": "點此處加入線上練習班級或更改班級，您將需要老師提供的班級代碼以完成加入或更改班級。",
+            "thai": "คลิกที่นี่ เพื่อเข้าร่วมชั้นเรียนออนไลน์ หรือ เพื่อเปลี่ยนห้องเรียน  คุณต้องมีรหัสห้องเรียนใหม่ในการทำหัวข้อนี้",
             "arabic": "اانقر هنا للانضمام إلى فصل الممارسة عبر شبكة الإنترنت، أو تغيير الفصل. سوف تحتاج إلى رمز خاص بالفصل من معلمك للقيام بذلك."
           }
         }
