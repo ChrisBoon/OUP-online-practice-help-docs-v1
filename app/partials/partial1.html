@@ -28,6 +28,10 @@
       class="help-doc__title">
     {{helpdoc.title.chinese}}
   </h1>
+  <h1 ng-if="language.language == 'thai'"
+      class="help-doc__title">
+    {{helpdoc.title.thai}}
+  </h1>
   <h1 ng-if="language.language == 'arabic'"
       class="help-doc__title rtl">
     {{helpdoc.title.arabic}}
@@ -65,6 +69,10 @@
     <h2 class="help-doc__page__title"
         ng-if="language.language == 'chinese'">
       {{page.pageTitle.chinese}}
+    </h2>
+    <h2 class="help-doc__page__title"
+        ng-if="language.language == 'thai'">
+      {{page.pageTitle.thai}}
     </h2>
     <h2 class="help-doc__page__title rtl"
         ng-if="language.language == 'arabic'">
@@ -128,6 +136,10 @@
              class="help-doc__page__text help-doc__page__paragraph--numbered__text">
             {{para.text.chinese}}
           </p>
+          <p ng-if="language.language == 'thai'"
+             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
+            {{para.text.thai}}
+          </p>
           <p ng-if="language.language == 'arabic'"
              class="help-doc__page__text help-doc__page__paragraph--numbered__text rtl">
             {{para.text.arabic}}
@@ -181,6 +193,11 @@
         <div ng-if="language.language == 'chinese'">
           <p>{{page.content.thing01.text.chinese}}</p>
           <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.chinese}}</a>
+        </div>
+
+        <div ng-if="language.language == 'thai'">
+          <p>{{page.content.thing01.text.thai}}</p>
+          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.thai}}</a>
         </div>
 
         <div ng-if="language.language == 'arabic'" class="rtl">
