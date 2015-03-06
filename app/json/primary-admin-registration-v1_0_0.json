@@ -169,7 +169,7 @@
             "spanish": "Haga clic en \"Enter\".",
             "spanish_la": "Haga click en \"Enter\".",
             "portuguese": "Clique em “Enter“.",
-            "japanese": "Enter[アクセス]をクリックします。",
+            "japanese": "Enter[エンター]をクリックします。",
             "chinese": "點擊「輸入」",
             "thai": "คลิก ”ตกลง”",
             "arabic": "انقر “Enter”(\"إدخال\")"
@@ -412,7 +412,7 @@
             "spanish": "Este es el código de identificación para su institución. Comparta este código con sus profesores para que puedan vincular sus registros de clase a su institución. Si los profesores no se vinculan a la institución con este código, usted no podrá ver sus clases en sus reportes.",
             "spanish_la": "Este es el código de identificación para su institución. Comparta este código con sus profesores para que puedan vincular sus registros de clase a su institución. Si los profesores no se vinculan a la institución con este código, usted no podrá ver sus clases en sus reportes.",
             "portuguese": "Este é o código de identificação para a sua instituição. Forneça este código ao seus professores para que eles possam vincular os seus registros de aula a sua instituição. Se os professores não vincularem a sua instituição a este código, você não será capaz de visualizar as suas aulas em seus relatórios.",
-            "japanese": "今回登録された学校・団体IDコードが決まりました。このコードを先生に渡すと、クラス用レポートと学校・団体をリンクすることができます。先生がこのコードで学校・団体にリンクしないと、レポートでクラスを見ることができません。",
+            "japanese": "今回登録された学校・団体IDコードが決まりました。このコードを先生に渡すと、クラス用レポートと学校・団体をリンクすることができます。先生がこのコードで学校・団体をリンクしないと、レポートでクラスレポートを見ることができません。",
             "chinese": "這是您的機關單位代碼，提供此代碼給您的教師，他們可以將班級紀錄連結到您的機關單位。如果教師沒有使用這個代碼連結到您的機關單位，您將無法在報告中觀看他們的班級報告。",
             "thai": "นี่คือรหัสสถาบันของคุณ  ให้ครูผู้สอนใช้รหัสนี้ เพื่อเชื่อมต่อข้อมูลระหว่างชั้นเรียนเข้ากับโรงเรียนหรือสถาบัน ถ้าครูผู้สอนไม่ใส่รหัสสถาบัน  คุณจะไม่สามารถเห็นรายงานการเรียนการสอนของห้องเรียนนั้นได้",
             "arabic": "هذا هو رمز مُعرِّف المؤسسة الخاصة بك. أعط هذا الرمز لمعلميك لكي يمكنهم ربط سجلاتفصولهمبمؤسستك. إذا لم يرتبط المعلمون ابلمؤسسة الخاصة بك عن طريق هذا الرمز، فلن يمكنك رؤية الفصول الخاصة بهم في تقاريرك."

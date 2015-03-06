@@ -159,7 +159,7 @@
             "english": "You can try an activity again if you answer some questions incorrectly. You can try an activity three times.",
             "spanish": "Puede volver a intentar una actividad si responde algunas preguntas de manera incorrecta. Tiene tres intentos para cada actividad.",
             "spanish_la": "Puede volver a intentar una actividad si responde algunas preguntas de manera incorrecta. Tiene tres intentos para cada actividad.",
-            "japanese": "いくつか不正解があった場合は、もう一度挑戦できます。1つのアクティビティは3回まで取り組むことができます。",
+            "japanese": "不正解があった場合は、もう一度挑戦できます。1つのアクティビティは3回まで取り組むことができます。",
             "chinese": "如果您答錯一些問題，可以再次嘗試這項學習活動，有三次機會可以嘗試。",
             "thai": "ในหนึ่งกิจกรรมคุณสามารถแก้ไขคำตอบได้ไม่เกินสามครั้ง ในกรณีที่ตอบบางคำถามไม่ถูกต้อง",
             "portuguese": "É possível tentar realizar uma atividade novamente caso você responda algumas perguntas incorretamente. Você pode tentar realizar cada atividade três vezes."
@@ -173,7 +173,7 @@
             "english": "If you answer some questions incorrectly you can see the correct answers.",
             "spanish": "En caso de responder algunas preguntas de forma incorrecta, podrá ver las respuestas correctas.",
             "spanish_la": "En caso de responder algunas preguntas de forma incorrecta, podrá ver las respuestas correctas.",
-            "japanese": "いくつか不正解があった場合は、正解を見ることができます。",
+            "japanese": "不正解があった場合は、正解を見ることができます。",
             "chinese": "如果您答錯一些問題，可以看正確答案。",
             "thai": "ระบบจะแสดงเฉลยคำตอบที่ถูกต้อง สำหรับคำถามที่ตอบผิด",
             "portuguese": "Se você responder algumas perguntas de forma incorretamente, você poderá visualizar as respostas corretas."

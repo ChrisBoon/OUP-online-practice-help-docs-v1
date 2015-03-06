@@ -137,7 +137,7 @@
             "spanish": "Ingrese el código de acceso de su tarjeta de código de acceso para Profesores.",
             "spanish_la": "Ingrese el código de acceso de su tarjeta de código de acceso para Profesores.",
             "portuguese": "Insira o código de acesso que está localizado no seu cartão do código de acesso do professor.",
-            "japanese": "アクセスコードを入力します。アクセスコードは、先生用アクセスコードカードに掲載されています。",
+            "japanese": "アクセスコードを入力します。アクセスコードは、先生用アクセスコードカードに記載されています。",
             "chinese": "請輸入您的教師通行代碼卡片上面的通行代碼。",
             "thai": "พิมพ์รหัสการเข้าถึง ดูได้จากบัตรรหัสของครูผู้สอน",
             "arabic": "أدخل رمز الدخول على بطاقة رمز دخول المعلم الخاصة بك."
@@ -153,7 +153,7 @@
             "spanish": "Haga clic en \"Enter\".",
             "spanish_la": "Haga click en \"Enter\".",
             "portuguese": "Clique em “Enter”.",
-            "japanese": "Enter[アクセス]をクリックします。",
+            "japanese": "Enter[エンター]をクリックします。",
             "chinese": "點擊「輸入」。",
             "thai": "คลิก ”ตกลง”",
             "arabic": "انقر “Enter”(\"إدخال\")"
@@ -331,7 +331,7 @@
             "spanish": "Haga clic para seleccionar su nivel. Es muy importante seleccionar el nivel que va a utilizar. Revise el título para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede agregar otro nivel luego seleccionando \"Add a Level\" en su pantalla de Inicio. Necesitará un nuevo código de acceso para agregar un nivel.",
             "spanish_la": "Haga click para seleccionar su nivel. Es muy importante seleccionar el nivel que va a utilizar. Revise el título para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede agregar otro nivel luego seleccionando \"Add a Level\" en su pantalla de Inicio. Necesitará un nuevo código de acceso para agregar un nivel.",
             "portuguese": "Para selecionar o nível desejado, clique na imagem correspondente. É muito importante selecionar o nível correto. Verifique o título para escolher o nível que realmente será utilizado. Caso você vá utilizar mais de um nível, será possível adicionar outros níveis posteriormente, clicando em “Add a level” na sua página inicial. Você precisará de um novo código de acesso para adicionar um novo nível.",
-            "japanese": "レベルをクリックして選択します。使う予定のレベルを選択することが重要です。タイトルをチェックしてレベルを確認してください。1つ以上のレベルのテキストをお使いの場合は、後からホームページにアクセスし、Add a level[新しいレベルを追加]をクリックします（新しいアクセスコードが必要になります）。",
+            "japanese": "レベルをクリックして選択します。使う予定のレベルを選択することが重要です。正しくレベルが選択されているかタイトルを確認してください。２つ以上のレベルのテキストを使用する場合は、ホーム画面にあるAdd a level[新しいレベルを追加]を選択することで、後から追加することができます。クリックします（新しいアクセスコードが必要になります）。",
             "chinese": "點擊以選擇您的等級。選擇您將要使用的等級非常重要，請檢查標題，確認是您的等級。如果您使用超過一個等級，您可以由首頁畫面選擇「新增等級」來增加其他等級，您將會需要另一個通行代碼來新增等級。",
             "thai": "คลิกเพื่อเลือกระดับชั้นเรียนคุณต้องแน่ใจว่าได้เลือกระดับที่ถูกต้อง  ถ้าสอนมากกว่าหนึ่งระดับชั้นเรียน  คุณสามารถเพิ่มระดับได้ในภายหลัง  โดยคลิกที่เมนู“เพิ่มระดับชั้นเรียน” ในหน้าหลัก (คุณต้องมีรหัสรหัสการเข้าถึงของระดับชั้นที่ต้องการเพิ่มด้วย)",
             "arabic": "انقر فوق المستوى الخاص بك لتحديده من الأهمية بمكان أن تحدد المستوى الذي سوف تستخدمه. تحقق من العنوان لتتأكد أنه المستوى الخاص بك. إذا كنت تستخدم أكثر من مستوى، يمكنك إضافة مستوى آخر في وقت لاحق عن طريق اختيار“Add a level” (\"أضف مستوى\") من صفحتك الرئيسية. سوف تحتاج إلى رمز وصول جديد لإضافة مستوى."
@@ -461,7 +461,7 @@
             "spanish": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga clic en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
             "spanish_la": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga click en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
             "portuguese": "Digite um nome para a sua primeira turma. Para criar turmas adicionais posteriormente, clique em \"Manage Classes\" a partir de sua página inicial quando você finalizar o registro.",
-            "japanese": "最初のクラス名を入力してください。後から追加のクラスを作成する場合は、登録が終わってからホームページにアクセスして、Manage Classes[クラスの管理]をクリックします。",
+            "japanese": "最初のクラス名を入力してください。後からクラスを追加作成する場合は、登録が終わってからホームページにアクセスして、Manage Classes[クラスの管理]をクリックします。",
             "chinese": "為您的第一個班級輸入名稱。如果之後想要新增更多班集，請在完成註冊後，由您的首頁點擊「管理班級」。",
             "thai": "",
             "arabic": "أدخل اسم لأول فصل خاص بك. لإنشاء فصول إضافية لاحقًا؛ انقر على “Manage Classes”(\"إدارة الفصول\") من صفحتك الرئيسية عندما تنتهي من التسجيل."

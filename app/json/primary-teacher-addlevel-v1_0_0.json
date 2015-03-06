@@ -39,7 +39,7 @@
             "spanish": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Profesor. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
             "spanish_la": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Profesor. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
             "portuguese": "Insira o seu código de acesso do Online Practice aqui. O código de acesso está localizado no seu cartão do código de acesso do professor. Você deve ter um código de acesso para adicionar um novo nível em sua conta.",
-            "japanese": "こちらにOnline Practiceのアクセスコードを入力します。アクセスコードは、先生用のアクセスコードカードに記載されています。新しいレベルを追加登録するには、このアクセスカードが必要となります。",
+            "japanese": "こちらにOnline Practiceのアクセスコードを入力します。アクセスコードは、先生用のアクセスコードカードに記載されています。アカウントへ新しいレベルを追加登録するには、このアクセスコードが必要となります。",
             "chinese": "請在此處輸入您的線上練習通行代碼。通行代碼在您的教師通行代碼卡片上面，您必須有通行代碼，才能夠在您的帳號新增一個等級。",
             "thai": "คุณต้องมีรหัสการเข้าถึง สำหรับระดับชั้นเรียนที่ต้องการเพิ่ม รหัสนี้ได้จากบัตรรหัสประจำตัวครูผู้สอน",
             "arabic": "أأدخل رمز دخول الممارسة على الانترنت الخاص بك هنا. رمز الدخول موجود على بطاقة رمز دخول المعلم الخاصة بك. يجب أن يكون لديك رمز دخول لإضافة مستوى جديد إلى حسابك."
@@ -136,7 +136,7 @@
             "spanish": "Seleccione un nivel. Es muy importante seleccionar el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "spanish_la": "Seleccione un nivel. Es muy importante seleccionar el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "portuguese": "Selecione um nível. É muito importante escolher o nível que você está utilizando. Certifique-se de que o nível selecionado é o mesmo nível do seu livro.",
-            "japanese": "レベルを選択します。お使いのレベルを選択することが重要です。今お使いのテキストと同じレベルであるかを確認してください。",
+            "japanese": "レベルを選択します。お使いのレベルを選択することが重要です。今お使いのテキストと同じレベルであることを確認してください。",
             "chinese": "請選擇一個等級，選擇您正在使用的等級非常重要，請確認您的選擇跟您的課本是同一個等級。",
             "thai": "การเลือกระดับชั้นเรียนเป็นขั้นตอนที่สำคัญ  ต้องแน่ใจว่าได้เลือกระดับเดียวกับหนังสือเรียนที่ใช้อยู่",
             "arabic": "حدد مستوى. من الأهمية بمكان أن تحدد المستوى الذي تستخدمه. افحص للتأكد من أنه نفس مستوى كتابك."
