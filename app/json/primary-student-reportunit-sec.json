@@ -89,7 +89,7 @@
             "english": "The total score for a lesson is shown here.",
             "spanish": "Aquí se muestra la puntuación total para una lección.",
             "spanish_la": "Aquí se muestra la puntuación total para una lección.",
-            "japanese": "このレッスンの合計得点はこちらです。",
+            "japanese": "ここには、このレッスンの合計得点が表示されます。",
             "chinese": "此處顯示每一課的總得分。",
             "thai": "คะแนนรวมทั้งหมดของทุกบทเรียน แสดงที่นี่",
             "portuguese": "A pontuação total em uma lição é exibida aqui."
@@ -103,7 +103,7 @@
             "english": "The total number of activity attempts for a lesson is shown here.",
             "spanish": "Aquí se muestra el número total de intentos para las actividades de una lección.",
             "spanish_la": "Aquí se muestra el número total de intentos para las actividades de una lección.",
-            "japanese": "これは、このレッスンで取り組んだアクティビティの合計回数を表します。",
+            "japanese": "ここには、このレッスンで取り組んだアクティビティの合計回数が表示されます。",
             "chinese": "每一課的學習活動嘗試總次數顯示在此處。",
             "thai": "จำนวนกิจกรรมที่สำเร็จแล้วทั้งหมดในหนึ่งบทเรียน แสดงที่นี่",
             "portuguese": "O número total de tentativas de cada atividade em uma lição é exibido aqui."
@@ -117,7 +117,7 @@
             "english": "The total time taken on all activities in a lesson is shown here.",
             "spanish": "Aquí se muestra el tiempo total empleado para todas las actividades en una lección.",
             "spanish_la": "Aquí se muestra el tiempo total empleado para todas las actividades en una lección.",
-            "japanese": "これは、このレッスンのすべてのアクティビティにかかった合計時間を表します。",
+            "japanese": "ここには、このレッスンのすべてのアクティビティに費やした合計時間が表示されます。",
             "chinese": "每一課的學習活動嘗試總時數顯示在此處。",
             "thai": "เวลาที่ใช้ทั้งหมด ในการทำกิจกรรมของแต่ละบทเรียน แสดงที่นี่",
             "portuguese": "O tempo total gasto em todas as atividades em uma lição é exibido aqui."

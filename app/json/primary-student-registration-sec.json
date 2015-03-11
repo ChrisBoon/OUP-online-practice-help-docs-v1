@@ -119,7 +119,7 @@
             "english": "Enter the access code on your Student Access Card.",
             "spanish": "Ingrese el código de acceso que se encuentra en su tarjeta de código de acceso de Estudiante.",
             "spanish_la": "Ingrese el código de acceso que se encuentra en su tarjeta de código de acceso de Estudiante.",
-            "japanese": "アクセスコードを入力します。アクセスコードは、生徒用アクセスコードカードに掲載されています。",
+            "japanese": "アクセスコードを入力します。アクセスコードは、生徒用アクセスコードカードに記載されています。",
             "chinese": "請輸入您的學生通行代碼卡片上面的通行代碼。",
             "thai": "พิมพ์รหัสการเข้าถึง ดูได้จากบัตรรหัสของนักเรียน",
             "portuguese": "Insira o código de acesso que está no seu cartão."
@@ -133,7 +133,7 @@
             "english": "Click “Enter”.",
             "spanish": "Haga clic en \"Enter\".",
             "spanish_la": "Haga click en \"Enter\".",
-            "japanese": "Enter[アクセス]をクリックします。",
+            "japanese": "Enter[エンター]をクリックします。",
             "chinese": "點擊「輸入」。",
             "thai": "คลิก ”ตกลง”",
             "portuguese": "Clique em “Enter”."
@@ -289,7 +289,7 @@
             "english": "Click on your book cover to select your level. It is very important to select the level that you are using. Check the title and the cover to make sure it is your level. If you are using more than one level, you can add another level later by choosing “Add a level” from your Home page (you will need a new access code to add a level).",
             "spanish": "Haga clic en la portada de su libro para seleccionar su nivel. Es muy importante seleccionar el nivel que está utilizando. Compruebe el título y la cubierta para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede añadir otro nivel más adelante seleccionando \"Add a level\" en su página de Inicio (necesitará un nuevo código de acceso para agregar un nivel).",
             "spanish_la": "Haga click en la portada de su libro para seleccionar su nivel. Es muy importante seleccionar el nivel que está utilizando. Compruebe el título y la cubierta para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede añadir otro nivel más adelante seleccionando \"Add a level\" en su página de Inicio (necesitará un nuevo código de acceso para agregar un nivel).",
-            "japanese": "テキストの表紙をクリックしてレベルを選択します。お使いのレベルを選択することが重要です。タイトルと表紙をチェックして今お使いのレベルであるかを確認してください。1つ以上のレベルのテキストをお使いの場合は、後からホームページにアクセスし、Add a level[新しいレベルを追加]をクリックします（新しいアクセスコードが必要になります）。",
+            "japanese": "テキストの表紙をクリックしてレベルを選択します。お使いのレベルを選択することが重要です。タイトルをチェックして正しくレベルが選択されているか確認してください。2つ以上のレベルのテキストを使用する場合は、ホーム画面にあるAdd a level[新しいレベルを追加]を選択することで、後から追加することができます。（新しいアクセスコードが必要になります）。",
             "chinese": "點擊您的課本封面來選擇您的等級。選擇您現在使用的等級非常重要，請檢查標題和封面，確認是您現在的等級。如果您使用超過一個等級，您可以在首頁選擇「新增等級」來增加其他等級（您將會需要另一個通行代碼來新增等級）。",
             "thai": "คลิกที่หน้าปกหนังสือที่คุณใช้เรียนอยู่ เพื่อเลือกระดับชั้นเรียน  ตรวจสอบหน้าปกหนังสืออีกครั้งเพื่อให้แน่ใจว่าระดับที่เลือกถูกต้อง  หากเรียนอยู่มากกว่าหนึ่งระดับ คุณสามารถเพิ่มระดับชั้นเรียนได้ในภายหลัง  โดยคลิกที่เมนู “เพิ่มระดับชั้นเรียน” ในหน้าหลัก (คุณต้องมีรหัสการเข้าถึงของระดับชั้นที่ต้องการเพิ่มด้วย)",
             "portuguese": "Clique na capa do seu livro para selecionar o seu nível. É muito importante escolher o nível que você está utilizando. Verifique o título e a capa para assegurar-se de que o nível selecionado seja o nível correto. Caso você esteja utilizando mais de um nível, é possível adicionar outro nível posteriormente clicando em “Add a level” na sua página inicial (você vai precisar de um novo código de acesso para adicionar um novo nível)."
