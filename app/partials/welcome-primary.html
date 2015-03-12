@@ -274,13 +274,13 @@ class="welcome-page"
 ng-if="language.language == 'japanese'"
 >
 
-  <h1 class="welcome-page__heading">[コースのタイトル]Online Practiceのヘルプへようこそ</h1>
+  <h1 class="welcome-page__heading">{{courseName}} Online Practiceのヘルプへようこそ</h1>
   
   <div class="welcome-page__container">
   
     <div class="welcome-page__segment welcome-page__segment--intro">
       <h2 class="welcome-page__segment__heading">Online Practice のヘルプを使用する</h2>
-      <p>生徒、先生、管理者のOnline Practiceのコースのさまざまなエリアを使用する際に必要なヘルプと手引きを探すには、左側のメニューを使用します。</p>
+      <p>先生、生徒、管理者のOnline Practiceのコースのさまざまなエリアを使用する際に必要なヘルプと手引きを探すには、左側のメニューを使用します。</p>
       <p>各ヘルプセクションのテキストの一部をクリックすると、関連する番号がスクリーンショット上でハイライトされます。</p>
       <p ng-if="appLanguages.length > 1">別の言語でOnline Practiceのヘルプエリアを使用する場合は、右側のメニューを使用します。</p>
     </div>
@@ -319,7 +319,7 @@ class="welcome-page"
 ng-if="language.language == 'chinese'"
 >
 
-  <h1 class="welcome-page__heading">歡迎來到 [課程標題] 線上練習說明</h1>
+  <h1 class="welcome-page__heading">歡迎來到 {{courseName}} 線上練習說明</h1>
   
   <div class="welcome-page__container">
   
@@ -364,7 +364,7 @@ class="welcome-page"
 ng-if="language.language == 'thai'"
 >
 
-  <h1 class="welcome-page__heading">ยินดีต้อนรับสู่หน้าความช่วยเหลือ[ชื่อหลักสูตร]</h1>
+  <h1 class="welcome-page__heading">ยินดีต้อนรับสู่หน้าความช่วยเหลือ {{courseName}}</h1>
   
   <div class="welcome-page__container">
   
