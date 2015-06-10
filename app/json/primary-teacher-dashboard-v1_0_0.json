@@ -40,7 +40,7 @@
             "spanish_la": "Esta es la Sala de Trofeos. Puede ver las áreas de la Sala de Trofeos de cada uno de sus estudiantes haciendo click en \"Achievements\", en el área de Informes de Estudiantes.",
             "portuguese": "Esta é a sala de troféus. Você pode visualizar as áreas da sala de troféus de cada um de seus alunos clicando em “Achievements” na área relatório do aluno.",
             "japanese": "このページはトロフィールームを表示します。生徒のレポートエリアのAchievements[成績表]をクリックすると、各生徒のレポートエリアを表示できます。",
-            "chinese": "這是獎盃陳列室。在學生報告區點擊「學習成果」，您可以觀看每位學生的獎盃陳列室。",
+            "chinese": "這是獎盃陳列室。在學生報告區點擊 Achievements（學習成果），您可以觀看每位學生的獎盃陳列室。",
             "thai": "ในห้องเก็บถ้วยรางวัล  คุณสามารถเห็นห้องถ้วยรางวัลของนักเรียนแต่ละคนได้   ด้วยการคลิกที่ ”ความสำเร็จ” จากพื้นที่รายงานนักเรียน",
             "arabic": "هذه هي غرفة الميداليات. يمكنك أن ترى كل مناطق غرفة الميداليات الخاصة بطلابك بالضغط على “Achievements” (\"التحصيل\") في منطقة تقرير الطالب."
           }
@@ -56,7 +56,7 @@
             "spanish_la": "Estos son los títulos de las unidades en un nivel.",
             "portuguese": "Estes são os títulos de unidade em um nível.",
             "japanese": "このレベルのユニットタイトルはこちらです。",
-            "chinese": "這些是同一等級當中的單元標題。",
+            "chinese": "這些是同一級數當中的單元標題。",
             "thai": "รายการชื่อบทเรียนในหนึ่งระดับชั้น",
             "arabic": "هذه هي عناوين الوحدة في مستوى ما."
           }
@@ -72,7 +72,7 @@
             "spanish_la": "El estudiante tiene tres intentos para cada actividad de la Práctica Online. La puntuación más alta de los tres intentos se registra como la puntuación final del estudiante. Se otorgan estrellas en la Sala de Trofeos según la cantidad de puntos que el estudiante obtiene a través de las actividades en un nivel.",
             "portuguese": "Um aluno possui três tentativas para cada atividade no Online Practice. A pontuação mais alta dentre as três tentativas realizadas será registrada como a pontuação final do aluno. Os alunos são premiados com estrelas, em suas respectivas salas de troféus, de acordo com a pontuação recebida em cada atividade de um determinado nível.",
             "japanese": "Online Practiceのアクティビティは3回まで取り組むことができます。そのうちの最も高いスコアが最終的なレポートに記録されます。トロフィールームエリアでは、そのレベルの全アクティビティで獲得したポイントの数によって星印がつきます。",
-            "chinese": "每位學生可以嘗試三次線上練習的每個學習活動，三次當中的最高分會被記錄下來做為此學生的最後得分。學生在同一等級的各項活動得分，就會獲得星星做為獎勵，存放在獎盃陳列室。",
+            "chinese": "每個線上練習的學習活動，每位學生可以嘗試三次，三次當中的最高分會被記錄下來做為此學生的最後得分。學生在同一級數的各項活動得分，就會獲得星星做為獎勵，存放在獎盃陳列室。",
             "thai": "นักเรียนสามารถทำแบบฝึกหัดได้ไม่เกินสามครั้งต่อหนึ่งกิจกรรม  ระบบจะบันทึกคะแนนที่สูงสุดเป็นคะแนนสุดท้าย   ดาวรางวัลจะถูกแสดงอยู่ในห้องเก็บถ้วยรางวัล  ตามจำนวนของคะแนนในแต่ละกิจกรรม",
             "arabic": "متاح للطالب ثلاث محاولات في نشاط الممارسة على الإنترنت. يتم تسجيل أعلى درجة في المحاولات الثلاث كدرجة نهائية للطالب. يتم منح النجوم في غرفة الميداليات وفقد عدد معين من النقاط التي أحرزها الطالب عبر الأنشطة في مستوى ما."
           }
@@ -136,7 +136,7 @@
             "spanish_la": "Si un estudiante obtiene el 100% del total de puntos posibles en una unidad, se le otorga un trofeo.",
             "portuguese": "Se um aluno marcar 100% do total de pontos possíveis em uma unidade, ele será premiado com uma troféu.",
             "japanese": "スコアがそのユニットの総得点の100%だった場合は、ボーナストロフィがつきます。",
-            "chinese": "如果學生在一個單元當中，獲得全部分數的90%，會獲得一座加分獎盃做為獎勵。",
+            "chinese": "如果學生在一個單元當中，獲得全部分數的100%，會獲得一座獎盃做為獎勵。",
             "thai": "ถ้านักเรียนได้คะแนน 100% ของคะแนนรวม จะได้รับถ้วยรางวัล",
             "arabic": "إذا أحرزا لطالب 100% من مجموع النقاط الممكنة في وحدة ما، يتم منحه ميدالية."
           }
@@ -152,7 +152,7 @@
             "spanish_la": "Este es el Tablero de Habilidades del estudiante. Cada actividad en un nivel de Práctica Online pertenece a un área de habilidad, por ejemplo, lectura, escritura, comprensión auditiva, etc. El Tablero de Habilidades muestra los resultados de las actividades de los estudiantes para un nivel en las diferentes áreas de habilidad.",
             "portuguese": "Este é o painel de habilidades do aluno. Cada atividade em um nível do Online Practice pertence a uma área de competência, como, por exemplo, leitura, escrita, compreensão, entre outras. O painel de habilidades exibe os resultados das atividades do aluno em um determinado nível dentre as diversas áreas de competências.",
             "japanese": "これは生徒のスキルズ・ダッシュボードです。Online Practiceの各レベルの内にあるそれぞれのアクティビティは、リーディング、ライティング、リスニングなどの学習項目に属しています。スキルズ・ダッシュボードには、選択されたレベルの異なるスキルエリアのアクティビティの得点が表示されます。",
-            "chinese": "這是學生的技能展示板，線上練習的各個等級裡面，每個活動都屬於某個技能領域，例如：閱讀能力、寫作能力、聽力等。技能展示板呈現學生在這個等級當中，各種領域的學習活動結果。",
+            "chinese": "這是學生的技能展示板，線上練習的各個級數中，每個活動都屬於某個技能領域，例如：閱讀能力、寫作能力、聽力等。技能展示板呈現學生在這個級數中，各種領域的學習活動結果。",
             "thai": "ทุกกิจกรรมในการทำแบบฝึกหัดออนไลน์จะแบ่งตามทักษะด้านต่างๆ เช่น ทักษะการอ่าน,  การเขียน,  การฟัง เป็นต้น กระดานความสามารถของนักเรียนจะแสดงคะแนนที่ได้จากกิจกรรมต่างๆ แยกตามทักษะ",
             "arabic": "هذه هي لوحة مهارات الطالب. ينتمي كل نشاط في مستوى الممارسة على الإنترنت إلى منطقة مهارة ما, مثل: القراءة, والكتابة, والاستماع, وغير ذلك. تُظهِر لوحة المهارات نتائج النشاط الطلابي لمستوى ما عبر مجالات المهارات المختلفة."
           }
@@ -184,7 +184,7 @@
             "spanish_la": "Los resultados para áreas de habilidades que contienen actividades abiertas para las que no se otorga ninguna puntuación (por ejemplo, actividades de hablar y grabar o escritura libre) se muestran como \"Not scored\".",
             "portuguese": "Os resultados para área de competência que contêm atividades abertas que não possuem pontuação (como, por exemplo, falar e gravar ou atividades de escrita livres) são apresentados como “Not scored”.",
             "japanese": "スコアがつかない自由解答のアクティビティを含むスキルエリアの得点（例：スピーキングやレコーディング、またはフリーライティングなど）は、Not scored[得点なし]と表示されます。",
-            "chinese": "技能領域當中若包含開放式的學習活動，則該活動結果不給分數（例如：口語能力以及自由寫作活動的紀錄等），而是以「不計分」方式顯示。",
+            "chinese": "技能領域當中若包含開放式的學習活動，則該活動結果不給分數（例如：口語能力以及自由寫作活動的紀錄等），而是顯示為 Not scored（不計分）。",
             "thai": "ระบบจะแสดงคะแนนทั้งหมด รวมถึงกิจกรรมที่เข้าทำแล้ว แต่ยังไม่เสร็จ  เช่น กิจกรรมพูดและอัดเสียง หรือการเขียนเรียงความ ระบบจะแสดงขึ้น “ไม่มีคะแนน” ",
             "arabic": "يتم عرض نتائج مجالات المهارة التي تحتوي على أنشطة مفتوحة حيث لا تُمنَح درجات (مثل: أنشطة التحدث والتسجيل أو الكتابة الحرة) وتعرضه اعبارة \"ليست ذات درجة\"."
           }

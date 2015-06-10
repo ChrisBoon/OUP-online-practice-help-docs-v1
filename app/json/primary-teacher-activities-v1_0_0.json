@@ -72,7 +72,7 @@
             "spanish_la": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
             "portuguese": "Utilize os botões “Previous” e Next” para navegar por meio das atividades em sequência.",
             "japanese": "アクティビティを順番に進めるには、Previous[前に]とNext[次へ]ボタンをクリックします。",
-            "chinese": "請使用「往前」與「往後」按鈕，即可按照順序瀏覽各項活動。",
+            "chinese": "請使用 Previous（往前）與 Next（往後）按鈕，即可依序瀏覽各項活動。",
             "thai": "ใช้ปุ่ม ย้อนกลับ และ ถัดไป สำหรับนำทางในกิจกรรมตามลำดับ",
             "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل."
           }
@@ -136,7 +136,7 @@
             "spanish_la": "Haga click aquí para ver un Consejo Rápido con información sobre cómo rellenar una actividad.",
             "portuguese": "Clique aqui para visualizar um pop-up com uma dica rápida contendo orientações sobre a realização de uma atividade.",
             "japanese": "アクティビティを完了させるための手引きとしてQuick Tipのポップアップを見るには、こちらをクリックします。",
-            "chinese": "點此處會彈出小訣竅視窗，指引學生完成一項學習活動。",
+            "chinese": "點此處會彈出小訣竅視窗，指引學生如何完成一項學習活動。。",
             "thai": "คลิกที่นี่ เพื่ออ่านข้อแนะนำในการทำกิจกรรมให้ประสบความสำเร็จ",
             "arabic": "انقر هنا لرؤية نصيحة سريعة منبثقة مع توجيهات بشأن استكمال النشاط."
           }
@@ -200,7 +200,7 @@
             "spanish_la": "Si el estudiante responde a algunas preguntas de forma incorrecta podrá ver las respuestas correctas.",
             "portuguese": "Se um aluno responder algumas perguntas incorretamente, ele poderá visualizar as respostas corretas.",
             "japanese": "不正解があった場合は、正解を見ることができます。",
-            "chinese": "如果學生答錯一些問題，他們可以看正確答案。",
+            "chinese": "如果學生有答錯問題，他們可以看正確答案。",
             "thai": "ระบบจะแสดงเฉลยคำตอบที่ถูกต้อง สำหรับคำถามที่นักเรียนตอบผิด",
             "arabic": "إذا أجاب الطالب على بعض الأسئلة بشكل غير صحيح فبإمكانه رؤية الإجابات الصحيحة."
           }
@@ -216,7 +216,7 @@
             "spanish_la": "Los profesores pueden encontrar recursos de apoyo aquí, en caso de estar disponibles.",
             "portuguese": "Os professores podem encontrar os recursos de suporte aqui, caso disponíveis.",
             "japanese": "先生用のサポートリソースがある場合は、こちらから見ることができます。",
-            "chinese": "在此處教師可以找到目前可用的教學輔助資源。",
+            "chinese": "教師可以在此處找到可用的教學輔助資源（若有提供）。",
             "thai": "ครูผู้สอนสามารถหาข้อมูลเพิ่มเติมสำหรับช่วยในการเรียนการสอนได้ที่นี่  (ถ้ามี)",
             "arabic": "يمكن للمعلمين العثور على المراجع المساعدة هنا، إن وجدت."
           }
@@ -232,7 +232,7 @@
             "spanish_la": "Aquí se puede acceder al Glosario ilustrado, en caso de estar disponible. El Glosario ilustrado contiene vocabulario de nivel básico.",
             "portuguese": "Um glossário de imagens pode ser acessado aqui, caso disponível. O glossário de imagens contém um vocabulário com todas as palavras principais.",
             "japanese": "Picture Glossaryがある場合には、こちらからアクセスできます。Picture Glossaryには主なボキャブラリーが掲載されています。",
-            "chinese": "在此處可以進入目前可用的圖片詞庫，圖片詞庫包含此等級的核心字彙。",
+            "chinese": "在此處可以進入圖片詞庫（若有提供），圖片詞庫包含此等級的核心字彙。",
             "thai": "คุณสามารถเข้าหน้าอภิธานศัพท์ เพื่อหาความหมายเพิ่มเติมของคำศัพท์ที่สำคัญได้ที่นี่ (ถ้ามี)",
             "arabic": "يمكن الدخول إلى مسرد الصور من هنا، إن وجد. يحتوي مسرد الصور على المفردات الأساسية الخاصة بمستوى ما."
           }
@@ -248,7 +248,7 @@
             "spanish_la": "Los estudiantes pueden acceder a su área de Logros e Informes aquí. Los profesores deben acceder a los Informes de los estudiantes desde de la página de Inicio.",
             "portuguese": "Os alunos podem acessar suas áreas de progresso e seus relatórios aqui. Os professores devem acessar os relatórios dos alunos a partir da página inicial.",
             "japanese": "生徒は成績表とレポートにこちらからアクセスできます。先生はホームページから生徒のレポートにアクセスする必要があります。",
-            "chinese": "此處學生可進入他們的學習成果與學習報告區。教師必須由首頁進入以觀看學生報告。",
+            "chinese": "學生可由此處進入他們的學習成果與學習報告區。教師必須由首頁進入以觀看學生報告。",
             "thai": "นักเรียนเข้าอ่านรายงานความสำเร็จได้ที่นี่   หากครูผู้สอนต้องการเข้าดูรายงานของนักเรียน ต้องเข้าจากหน้าหลัก",
             "arabic": "يمكن للطلاب الوصول إلى تقارير ومجالات التحصيل الخاصة بهم من هنا. يجب على المعلمين الدخول إلى تقارير الطلاب من الصفحة الرئيسية."
           }

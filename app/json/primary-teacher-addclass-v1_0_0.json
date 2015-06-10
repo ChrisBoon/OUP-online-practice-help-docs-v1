@@ -24,7 +24,7 @@
         "spanish_la": "Elija un nivel",
         "portuguese": "Escolha um nível",
         "japanese": "レベルの選択",
-        "chinese": "選擇等級",
+        "chinese": "選擇級數",
         "thai": "เลือกระดับ",
         "arabic": "حدد مستوى"
       },
@@ -40,7 +40,7 @@
             "spanish_la": "Seleccione un nivel para su nueva clase.",
             "portuguese": "Escolha um nível para sua nova turma.",
             "japanese": "新しいクラスのレベルを選択します。",
-            "chinese": "請為您的新班級選擇一個等級。",
+            "chinese": "請為您的新班級選擇一個級數。",
             "thai": "เลือกระดับสำหรับห้องเรียนใหม่ของคุณ",
             "arabic": "حدد مستوى لفصلك الجديد."
           }
@@ -73,7 +73,7 @@
             "spanish_la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga click en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo click en “Join an Institution” desde su página de Detalles de la Clase.",
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de turma com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você pode inserir um código de identificação da instituição posteriormente clicando em “Join an Institution” na sua página dados da turma.",
             "japanese": "学校・団体IDコードをお持ちの場合は、こちらに入力します。このコードは管理者から渡されるものです。このコードは学校・団体とクラス用のレポートをリンクします。学校・団体IDコードをお持ちでない場合は、Skip[スキップ]をクリックします。学校・団体コードを後から入力するには、クラスの詳細ページからJoin an Institution　[学校・団体への参加登録]をクリックします。",
-            "chinese": "如果您有機關單位代碼，請在此輸入。機關單位代碼由您的管理人提供，此代碼將您的班級紀錄連結到您的學校或機關單位。如果您沒有機關單位代碼，請點擊「略過」。您也可以之後再輸入機關單位代碼，從您的班級資料頁面點擊「加入機關單位」即可。",
+            "chinese": "如果您有機關單位代碼，請在此輸入。機關單位代碼由您的管理人提供，此代碼將您的班級紀錄連結到您的學校或機關單位。如果您沒有機關單位代碼，請點擊 skip（略過）。您也可以之後再輸入機關單位代碼，從您的班級資料頁面點擊 Join an Institution（加入機關單位）即可。",
             "thai": "ถ้าคุณมีรหัสสถาบันการศึกษาของคุณ ใส่ที่นี่  คุณสามารถขอทราบรหัสนี้ได้จากผู้ดำเนินการของคุณ  รหัสนี้จะเชื่อมต่อข้อมูลของคุณกับโรงเรียนหรือสถาบันของคุณ  ถ้าคุณไม่มีรหัสสถาบัน คลิก “Skip”  คุณสามารถใส่รหัสสถาบันในภายหลังได้ โดยการคลิก “Join an Instituition” จากหน้ารายละเอียดห้องเรียนของคุณ",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فقم بإدخاله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك."
           }

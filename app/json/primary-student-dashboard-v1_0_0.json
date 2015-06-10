@@ -136,7 +136,7 @@
             "spanish_la": "Si obtiene el 100% del total de puntos posibles en una unidad, se le otorgará un trofeo extra.",
             "portuguese": "Se você marcar 100% do total de pontos possíveis em uma unidade, você será premiado com um troféu bônus.",
             "japanese": "スコアがそのユニットの総得点の100%だった場合は、ボーナストロフィがつきます。",
-            "chinese": "如果您在一個單元當中，獲得全部分數的90%，您會獲得一座加分獎盃做為獎勵。",
+            "chinese": "如果您在一個單元當中，獲得全部分數的100%，您會獲得一座加分獎盃做為獎勵。",
             "thai": "ถ้าได้คะแนน 100% ของคะแนนรวมจะได้รับถ้วยรางวัล",
             "arabic": "إذا أحرزت 100% من مجموع النقاط الممكنة في وحدة ما, فسوف يتم منحك ميداليةمكافأة."
           }
@@ -168,7 +168,7 @@
             "spanish_la": "Los resultados para actividades dentro de las diferentes áreas de habilidades se muestran como un porcentaje en base a la puntuación media de todas las actividades realizadas en un área de habilidades dentro de un nivel.",
             "portuguese": "Os resultados das atividades dentro das diferentes áreas de competências são exibidos como um percentual com base na pontuação média de todas as atividades concluídas dentro de uma área de competências correspondente a um determinado nível.",
             "japanese": "異なるスキルエリアのアクティビティの得点は、そのレベルのスキルエリアで完了した全アクティビティの平均得点を元にしたパーセンテージで表示されます。",
-            "chinese": "各種技能領域的學習活動結果，依照同個等級當中，同個技能領域被完成的學習活動之平均分數，以百分比方式顯示。",
+            "chinese": "此處顯示各種技能領域的學習活動結果，依照同個級數當中，同個技能領域被完成的學習活動之平均分數，以百分比方式顯示。",
             "thai": "ผลของกิจกรรมด้านต่างๆ จะถูกแสดงในรูปของเปอร์เซ็นต์ โดยคิดจากคะแนนเฉลี่ยของกิจกรรมที่ทำสำเร็จของทักษะด้านต่างๆ",
             "arabic": "يتم عرض نتائج الأنشطة التي تنتمي لمجالات مختلفة من المهارات كنسبة مئوية على أساس متوسط درجات كل الأنشطة المُنجَزة في مجال من المهارات خلال مستوى ما."
           }

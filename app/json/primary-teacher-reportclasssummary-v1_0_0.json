@@ -136,7 +136,7 @@
             "spanish_la": "Este es el total del número promedio de actividades realizadas en todo el nivel para esta clase. Por ejemplo, si el número es 80/90, 80 es el total del número promedio de actividades realizadas en las distintas unidades, y 90 es el número total de actividades en el nivel.",
             "portuguese": "Este é o total do número médio de atividades concluídas durante todo o nível desta turma. Por exemplo, se o número é 80/90, 80 é a soma do número médio de atividades entre as unidades concluídas, e 90 é o número total de atividades presentes no nível.",
             "japanese": "これは、このクラスのそのレベル全体のアクティビティに対する、完了したアクティビティの平均数です。例えば、その数が80/90だとすれば。80は完了したアクティビティの平均数であり、90はそのレベルのアクティビティの合計数です。",
-            "chinese": "這是本班學生在整個等級所完成的學習活動平均數目總和。例如，如果數字是80/90，80代表學生在各單元所完成的學習活動平均數目總和，而90代表此等級裡面全部的學習活動數目總和。",
+            "chinese": "這是本班學生在整個級數所完成的學習活動平均數目總和。例如，如果數字是80/90，80代表學生在各單元所完成的學習活動平均數目總和，而90代表此級數中全部的學習活動數目總和。",
             "thai": "จำนวนเฉลี่ยของกิจกรรมที่ทำสำเร็จแล้วของนักเรียนในห้องนี้ เช่น  ถ้าตัวเลขแสดงที่ 80/90 80 คือจำนวนเฉลี่ยของกิจกรรมที่นักเรียนทำสำเร็จแล้วในทุกหัวข้อ  และ 90คือจำนวนกิจกรรมทั้งหมดที่นักเรียนต้องทำใน",
             "arabic": "هذا هو إجمالي متوسط عدد الأنشطة المُنجَزة في مستوى كامل لهذا الفصل. على سبيل المثال: إذا كان الرقم 80/90، فإن 80 هو إجمالي متوسط عدد الأنشطة المُنجَزة في الوحدة، و90 هو إجمالي الأنشطة في المستوى."
           }
@@ -152,7 +152,7 @@
             "spanish_la": "Esta es la puntuación media de todas las unidades en el nivel.",
             "portuguese": "Esta é a pontuação média dentre as unidades no nível.",
             "japanese": "これは、そのレベルのユニット全体の平均点です。",
-            "chinese": "這是同一等級裡面各單元的平均分數。",
+            "chinese": "這是同一級數中各單元的平均分數。",
             "thai": "คะแนนเฉลี่ยตามหน่วยบทเรียน",
             "arabic": "هذا هو متوسط الدرجة عبر الوحدات في المستوى."
           }
@@ -168,7 +168,7 @@
             "spanish_la": "Este es el total de la cantidad promedio de tiempo que los estudiantes dedicaron a las actividades en cada unidad para todo el nivel.",
             "portuguese": "Este é o total da quantidade média de tempo gasto pelos alunos nas atividades em cada unidade durante todo o nível.",
             "japanese": "これは、生徒がそのレベル全体のアクティビティに費やした各ユニットの平均時間の合計です。",
-            "chinese": "這是學生在同一等級裡面，各單元學習活動所花費的平均時間總和。",
+            "chinese": "這是學生在同一級數中，各單元學習活動所花費的平均時間總和。",
             "thai": "เวลาเฉลี่ยของนักเรียนที่ใช้ในการทำกิจกรรม",
             "arabic": "هذا هو إجمالي متوسط الوقت في كل وحدة والذي يقضيه الطلاب في الأنشطة خلال المستوى."
           }

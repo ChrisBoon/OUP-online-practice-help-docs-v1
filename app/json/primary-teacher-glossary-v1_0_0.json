@@ -88,7 +88,7 @@
             "spanish_la": "Haga click en el icono para escuchar el audio, de estar disponible.",
             "portuguese": "Clique no ícone para escutar o áudio, caso disponível.",
             "japanese": "音声がある場合は、アイコンをクリックすると聞くことができます。",
-            "chinese": "點擊圖示就能收聽目前可用的錄音檔。",
+            "chinese": "點擊圖示就能收聽錄音檔（若有提供）。",
             "thai": "คลิกที่สัญลักษณ์ เพื่อฟังเสียง  (ถ้ามี)",
             "arabic": "انقر على الأيقونة لسماع الصوت، إذا كان متاحًا."
           }

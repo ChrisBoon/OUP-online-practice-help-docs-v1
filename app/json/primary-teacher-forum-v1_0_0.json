@@ -73,7 +73,7 @@
             "spanish_la": "Puede crear un nuevo mensaje escribiendo en la columna de Create New Post [Crear Nuevo Mensaje]. Al hacer click en el botón \"Post\", aparecerá en la lista de Discusiones y Comentarios. Cualquier estudiante en su clase de Práctica Online podrá ver su mensaje y responder. Los estudiantes también pueden escribir mensajes y comenzar las discusiones.",
             "portuguese": "Você pode criar uma nova postagem escrevendo na coluna “Create New Post”. Quando você clicar no botão \"Post\" ela aparecerá na lista “Discussions and Comments”. Qualquer aluno em sua turma do Online Practice poderá visualizar sua postagem e responder a ela. Os alunos também podem escrever postagem e iniciar discussões.",
             "japanese": "Create New Post[新規投稿]欄に書き込むことによって、新しく投稿することができます。Post[投稿]ボタンをクリックすると、Discussions and Commentリストの中に表示されます。Online Practiceのクラス内の生徒ならだれでも掲示板を見て、返信することができます。生徒同士でも投稿したり、ディスカッションを行うことができます。",
-            "chinese": "您可以在「創建新文章」欄位建立一篇新的文章，當您點擊「發布」按鈕，此文章會出現在討論與評論清單。您在線上練習的班級，任何學生都可以觀看與回覆您的文章，學生也可以寫文章及展開討論。",
+            "chinese": "您可以在Create New Post（創建新文章）欄位建立一篇新的文章，當您點擊Post（發布）按鈕，此文章會出現在討論與評論清單。您在線上練習的班級中，任何學生都可以觀看與回覆您的文章，學生也可以寫文章及展開討論。",
             "thai": "คุณสามารถตั้งกระทู้สนทนาใหม่ได้ด้วยการพิมพ์ข้อความลงใน ช่องตั้งกระทู้ใหม่  คลิก“ตั้งกระทู้” หัวข้อกระทู้จะปรากฏขึ้นในหน้ากระดานสนทนาทันที นักเรียนทุกคนในห้องเรียนของคุณสามารถตั้งและตอบกระทู้ได้เช่นเดียวกัน",
             "arabic": "يمكنك عمل منشور جديد عن طريق الكتابة في عمود إنشاء منشور جديد. عند النقر على زر“Post” (\"نشر\"), سوف تظهر في قائمة المناقشات والتعليقات. يمكن لأي طالب في فصل الممارسة على الإنترنتا لخاصة بك أن يرى منشورك ويرد عليه. يمكن للطلاب أيضًا كتابة منشورات وبدء مناقشات."
           }
@@ -121,7 +121,7 @@
             "spanish_la": "Haga click en \"Post\" para añadir un mensaje a la columna de la derecha.",
             "portuguese": "Clique em “Post” para adicionar a postagem na coluna à direita.",
             "japanese": "右側の欄に投稿を追加するには、Post[投稿]をクリックします。",
-            "chinese": "點擊「發布」，可把文章新增到右邊的欄位。",
+            "chinese": "點擊Post（發布），可把文章新增到右邊的欄位。",
             "thai": "คลิก “ตั้งกระทู้” เพื่อเพิ่มหัวข้อสนทนาใหม่",
             "arabic": "انقر على “Post” (\"نشر\") لإضافة منشور ما إلى العمود الواقع على اليمين."
           }
@@ -137,7 +137,7 @@
             "spanish_la": "Haga click en \"Show\" para ver las respuestas de los alumnos a un mensaje.",
             "portuguese": "Clique em “Show” para visualizar as respostas dos seus alunos a uma postagem.",
             "japanese": "他の生徒の返信を表示するには、Show[表示]をクリックします。",
-            "chinese": "點擊「顯示」，可觀看您的學生對於文章的回覆。",
+            "chinese": "點擊Show（顯示），可觀看您的學生對於文章的回覆。",
             "thai": "คลิก ”แสดง” เพื่ออ่านความคิดเห็นทั้งหมด",
             "arabic": "انقر على “Show” (\"عرض\") لاستعراض ردود طلابك على منشور ما. "
           }
@@ -153,7 +153,7 @@
             "spanish_la": "Haga click en \"Hide\" para ocultar las respuestas.",
             "portuguese": "Clique em “Hide” para esconder as respostas.",
             "japanese": "返信を表示しないようにするには、Hide[非表示]をクリックします。",
-            "chinese": "點擊「隱藏」，可將回覆隱藏起來。",
+            "chinese": "點擊Hide（隱藏），可將回覆隱藏起來。",
             "thai": "คลิก “ซ่อน” เพื่อปิดการแสดงไม่ให้มีการตอบกลับในหัวข้อนั้น",
             "arabic": "انقر على “Hide” (\"إخفاء\") لإخفاء الردود."
           }
@@ -169,7 +169,7 @@
             "spanish_la": "Haga click en \"Reply\" para responder a un mensaje.",
             "portuguese": "Clique em “Reply” para responder a uma postagem.",
             "japanese": "投稿に返信するには、Reply[返信]をクリックします。",
-            "chinese": "點擊「回覆」，可回覆一篇文章。",
+            "chinese": "點擊Reply（回覆），可回覆一篇文章。",
             "thai": "คลิก ”ตอบกลับ” เพื่อแสดงความคิดเห็นในกระทู้นั้น",
             "arabic": "انقر على “Reply” (\"رد\") للرد على منشور ما."
           }
@@ -202,7 +202,7 @@
             "spanish_la": "Si hace click en \"Reply\", se abrirá un cuadro de texto bajo el mensaje al que está respondiendo. Puede ingresar su respuesta directamente en la discusión.",
             "portuguese": "Se você clicar em “Reply”, uma caixa de texto será aberta sob a postagem para a qual você está fornecendo uma resposta. Você pode digitar a sua resposta diretamente na discussão.",
             "japanese": "Reply[返信]をクリックすると、返信する投稿の下にテキストボックスが表示されます。返信メッセージは、ディスカッション内で直接入力できます。",
-            "chinese": "如果您點擊「回覆」，您要回覆的文章下面會打開一個文字區塊，您可以在討論串裡直接輸入您的回覆。",
+            "chinese": "如果您點擊Reply（回覆），您要回覆的文章下面會打開一個文字區塊，您可以在討論串裡直接輸入您的回覆。",
             "thai": "เมื่อคลิก ”ตอบกลับ” จะปรากฏกล่องข้อความขึ้นใต้หัวข้อของกระทู้ที่ต้องการตอบ  คุณสามารถแสดงความคิดเห็นของคุณได้ทันที",
             "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي تقوم بالرد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
           }
@@ -218,7 +218,7 @@
             "spanish_la": "Haga click en \"Post\" para publicar su respuesta a la discusión.",
             "portuguese": "Clique em “Post” para publicar a sua resposta na área de discussão.",
             "japanese": "ディスカッションに対して返信メッセージを投稿するには、Post[投稿]をクリックします。",
-            "chinese": "點擊「發布」就可以將您的回覆貼到討論串裡面。",
+            "chinese": "點擊Post（發布）就可以將您的回覆貼到討論串裡面。",
             "thai": "คลิก ”ส่งข้อความ” เพื่อยืนยันข้อความความคิดเห็นของคุณลงในกระทู้สนทนา",
             "arabic": "انقر على “Post”  (\"نشر\") لنشر ردك على المناقشة."
           }
@@ -234,7 +234,7 @@
             "spanish_la": "Haga click en \"Cancel\" si no desea publicar su respuesta.",
             "portuguese": "Clique em “Cancel” se você não desejar publicar sua resposta.",
             "japanese": "返信したくない時は、Cancel[キャンセル]をクリックします。",
-            "chinese": "如果您不想發布您的回覆，請點擊「取消」。",
+            "chinese": "如果您不想發布您的回覆，請點擊Cancel（取消）。",
             "thai": "คลิก ”ยกเลิก”หากไม่ต้องการแสดงความคิดเห็นของคุณในหัวข้อนั้น",
             "arabic": "انقر على “Cancel” (\"إلغاء\") إذا كنت لا تريد نشر ردك."
           }
@@ -250,7 +250,7 @@
             "spanish_la": "Haga click en \"Delete Conversation\" para borrar toda una discusión, incluyendo el mensaje original, así como las respuestas de todos los estudiantes. Los estudiantes no pueden eliminar discusiones.",
             "portuguese": "Clique em “Delete Conversation” para excluir uma discussão inteira que inclua uma postagem original, bem como as respostas de todos os alunos. Os alunos não são capazes de excluir as discussões.",
             "japanese": "元の投稿、生徒の返信も含めて、ディスカッションの内容をすべて削除するには、Delete Conversation[会話を削除]をクリックします。生徒はディスカッション内容を削除することはできません。",
-            "chinese": "點擊「刪除對話」可將整個討論串，包括最初的文章以及全部學生的回覆一起刪除。學生無法刪除討論串。",
+            "chinese": "點擊Delete Conversation（刪除對話）可將整個討論串，包括最初的文章以及全部學生的回覆一起刪除。學生無法刪除討論串。",
             "thai": "คลิก ”ลบกระทู้” เพื่อลบหัวข้อ รวมถึงคำตอบในกระทู้ทั้งหมด (นักเรียนไม่สามารถใช้งานเมนูนี้)",
             "arabic": "انقر على “Delete Conversation” (\"حذف المحادثة\") لحذف كامل المناقشة التي تتضمن المنشور الأصلي، فضلاً عن ردود كل الطلاب. لن يكون بمقدور الطلاب حذف المناقشات."
           }
@@ -266,7 +266,7 @@
             "spanish_la": "Haga click en \"Delete Reply\" para borrar cualquier respuesta en una discusión. Los estudiantes no pueden eliminar las respuestas.",
             "portuguese": "Clique em “Delete Reply” para excluir qualquer resposta presente em uma discussão. Os alunos não são capazes de excluir as respostas.",
             "japanese": "そのディスカッション内の返信を全て削除するには、Delete Reply[返信を削除]をクリックします。生徒は返信を削除することはできません。",
-            "chinese": "點擊「刪除回覆」可刪除討論串內的任何回覆。學生無法刪除回覆。",
+            "chinese": "點擊Delete Reply（刪除回覆）可刪除討論串內的任何回覆。學生無法刪除回覆。",
             "thai": "คลิก ”ลบความคิดเห็น” เพื่อลบบางความคิดเห็นออกจากกระทู้  (นักเรียน ไม่สามารถใช้งานเมนูนี้)",
             "arabic": "انقر على “Delete Reply”(\"حذف الرد\") لحذف أي رد ضمن المناقشة. لن يكون بمقدور الطلاب حذف الردود."
           }

@@ -4,7 +4,7 @@
     "spanish": "Añadir un Nivel",
     "spanish_la": "Añadir un Nivel",
     "japanese": "レベルの追加",
-    "chinese": "新增等級",
+    "chinese": "新增級數",
     "portuguese": "Adicione um nível"
   },
  "segment": "primary",
@@ -19,7 +19,7 @@
         "spanish": "Ingrese su código de acceso",
         "spanish_la": "Ingrese su código de acceso",
         "japanese": "アクセスコードの入力",
-        "chinese": "輸入您的通行代碼",
+        "chinese": "輸入您的使用密碼",
         "portuguese": "Insira seu código de acesso"
       },
       "paragraphs":{
@@ -32,7 +32,7 @@
             "spanish": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Estudiante. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
             "spanish_la": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Estudiante. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
             "japanese": "Online Practice のアクセスコードをここに入力します。アクセスコードは、生徒用アクセスコードカードに記載されています。アカウントに新しいレベルを追加するには、アクセスコードが必要となります。",
-            "chinese": "請在此處輸入您的線上練習通行代碼。通行代碼在您的學生通行代碼卡片上面，您必須有通行代碼，才能夠在您的帳號新增一個等級。",
+            "chinese": "請在此處輸入您的線上練習使用密碼。使用密碼在您的學生使用密碼卡片上面，您必須有使用密碼，才能夠在您的帳號新增一個級數。",
             "portuguese": "Insira o seu código de acesso do Online Practice aqui. O código de acesso está no seu cartão do código de acesso do aluno. Você deve ter um código de acesso para adicionar um novo nível em sua conta."
           }
         },
@@ -45,7 +45,7 @@
             "spanish": "Haga clic aquí para ir al sitio web de Oxford University Press para obtener información acerca de cómo comprar un código de acceso.",
             "spanish_la": "Haga click aquí para ir al sitio web de Oxford University Press para obtener información acerca de cómo comprar un código de acceso.",
             "japanese": "アクセスコードの購入については、こちらをクリックしてオックスフォード大学出版局ホームページにアクセスしてください。",
-            "chinese": "點此處前往牛津大學出版社網站，瞭解如何購買通行代碼。",
+            "chinese": "點此處前往牛津大學出版社網站，瞭解如何購買使用密碼。",
             "portuguese": "Clique aqui para ir ao site da Oxford University Press para obter informações sobre como comprar um código de acesso."
           }
         },
@@ -58,7 +58,7 @@
             "spanish": "Haga clic aquí para enviar su código de acceso.",
             "spanish_la": "Haga click aquí para enviar su código de acceso.",
             "japanese": "アクセスコードを送信するには、こちらをクリックします。",
-            "chinese": "點此處送出您的通行代碼。",
+            "chinese": "點此處送出您的使用密碼。",
             "portuguese": "Clique aqui para enviar seu código de acesso."
           }
         },
@@ -84,7 +84,7 @@
             "spanish": "Haga clic aquí para ir a la página siguiente una vez ingresado su código de acceso.",
             "spanish_la": "Haga click aquí para ir a la página siguiente una vez ingresado su código de acceso.",
             "japanese": "アクセスコードを入力した後次のページに進むには、こちらをクリックします。",
-            "chinese": "輸入您的通行代碼後，點此處前往下一頁。",
+            "chinese": "輸入您的使用密碼後，點此處前往下一頁。",
             "portuguese": "Clique aqui para ir para a próxima página depois de inserir o seu código de acesso."
           }
         }
@@ -98,7 +98,7 @@
         "spanish": "Elija un nivel",
         "spanish_la": "Elija un nivel",
         "japanese": "レベルの選択",
-        "chinese": "選擇等級",
+        "chinese": "選擇級數",
         "portuguese": "Escolha um nível"
       },
       "paragraphs":{
@@ -111,7 +111,7 @@
             "spanish": "Elija un nivel. Es muy importante elegir el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "spanish_la": "Elija un nivel. Es muy importante elegir el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
             "japanese": "レベルを選択します。お使いのレベルを選択することが重要です。今お使いのテキストのレベルと同じであることを確認してください。",
-            "chinese": "請選擇一個等級，選擇您正在使用的等級非常重要，請確認您的選擇跟您的課本是同一個等級。",
+            "chinese": "請選擇一個級數，選擇您正在使用的級數非常重要，請確認您的選擇跟您的課本是同一個級數。",
             "portuguese": "Escolha um nível. É muito importante escolher o nível que você está utilizando. Certifique-se de que o nível selecionado é o mesmo nível do seu livro."
           }
         },
@@ -151,7 +151,7 @@
             "spanish": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga clic en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
             "spanish_la": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga click en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
             "japanese": "クラスIDコードをお持ちの場合は、こちらに入力します。このコードは、先生から渡されるものです。このコードは学習状況とクラスをリンクして、先生が確認できるようにするものです。クラスIDコードをお持ちでない場合は、Skip[スキップ]をクリックします。このコードを後から入力するには、ホームページからJoin a Class[クラスに参加登録する]をクリックします。",
-            "chinese": "如果您有班級代碼，請在此輸入。班級代碼由您的老師提供，此代碼將您的課業連結到您的班級，讓您的老師可以看到。如果您沒有班級代碼，請點擊「略過」。",
+            "chinese": "如果您有班級代碼，請在此輸入。班級代碼由您的教師提供，此代碼將您的課業連結到您的班級，讓您的教師可以看到。如果您沒有班級代碼，請點擊Skip（略過）。如果您以後想輸入班級代碼，請從您的首頁選擇Join a Class（加入班級）。",
             "portuguese": "Caso você possua um código de identificação de aula, insira-o aqui. Um código de identificação de aula pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua aula para que o seu professor possa o visualizar. Caso você não tenha um código de identificação de aula, clique em “Skip“. Para introduzir esse código mais tarde, escolha a opção “Join a Class“ na sua página inicial."
           }
         },

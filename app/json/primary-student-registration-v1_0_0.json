@@ -122,7 +122,7 @@
         "spanish_la": "Ingrese su código de acceso",
         "portuguese": "Insira seu código de acesso",
         "japanese": "アクセスコードの入力",
-        "chinese": "輸入您的通行代碼",
+        "chinese": "輸入您的使用密碼",
         "thai": "ใส่รหัสการเข้าถึง (Access Code)",
         "arabic": "أدخل رمز الدخول الخاص بك"
       },
@@ -138,7 +138,7 @@
             "spanish_la": "Ingrese el código de acceso que se encuentra en su tarjeta de código de acceso de Estudiante.",
             "portuguese": "Insira o código de acesso que está no seu cartão.",
             "japanese": "アクセスコードを入力します。アクセスコードは、生徒用アクセスコードカードに掲載記載されています。",
-            "chinese": "請輸入您的學生通行代碼卡片上面的通行代碼。",
+            "chinese": "請輸入您的學生使用密碼卡片上面的使用密碼。",
             "thai": "พิมพ์รหัสการเข้าถึง ดูได้จากบัตรรหัสของนักเรียน",
             "arabic": "أأدخل رمز الدخول الموجود على بطاقة رمز دخول الطالب الخاصة بك."
           }
@@ -154,7 +154,7 @@
             "spanish_la": "Haga click en \"Enter\".",
             "portuguese": "Clique em “Enter”.",
             "japanese": "Enter[エンター]をクリックします。",
-            "chinese": "點擊「輸入」。",
+            "chinese": "點擊Enter（輸入）。",
             "thai": "คลิก ”ตกลง”",
             "arabic": "انقر “Enter”(\"إدخال\")"
           }
@@ -316,7 +316,7 @@
         "spanish_la": "Elija un nivel",
         "portuguese": "Escolha um nível",
         "japanese": "レベルの選択",
-        "chinese": "選擇一個等級",
+        "chinese": "選擇一個級數",
         "thai": "เลือกระดับชั้นเรียน",
         "arabic": "حدد مستوى"
       },
@@ -332,7 +332,7 @@
             "spanish_la": "Haga click en la portada de su libro para seleccionar su nivel. Es muy importante seleccionar el nivel que está utilizando. Compruebe el título y la cubierta para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede añadir otro nivel más adelante seleccionando \"Add a level\" en su página de Inicio (necesitará un nuevo código de acceso para agregar un nivel).",
             "portuguese": "Clique na capa do seu livro para selecionar o seu nível. É muito importante escolher o nível que você está utilizando. Verifique o título e a capa para assegurar-se de que o nível selecionado seja o nível correto. Caso você esteja utilizando mais de um nível, é possível adicionar outro nível posteriormente clicando em “Add a level” na sua página inicial (você vai precisar de um novo código de acesso para adicionar um novo nível).",
             "japanese": "テキストの表紙をクリックしてレベルを選択します。お使いのレベルを選択することが重要です。タイトルをチェックして正しくレベルが選択されているか確認してください。12つ以上のレベルのテキストを使用する場合は、ホーム画面にあるAdd a level[新しいレベルを追加]を選択することで、後から追加することができます。（新しいアクセスコードが必要になります）。",
-            "chinese": "點擊您的課本封面來選擇您的等級。選擇您現在使用的等級非常重要，請檢查標題和封面，確認是您現在的等級。如果您使用超過一個等級，您可以在首頁選擇「新增等級」來增加其他等級（您將會需要另一個通行代碼來新增等級）。",
+            "chinese": "點擊您的課本封面來選擇您的級數。選擇您現在使用的級數非常重要，請檢查書名和封面，確認是您現在的級數。如果您使用超過一個級數，您可以在首頁選擇 Add a level（新增級數）來增加其他級數（您將會需要另一個使用密碼來新增級數）。",
             "thai": "คลิกที่หน้าปกหนังสือที่คุณใช้เรียนอยู่ เพื่อเลือกระดับชั้นเรียน  ตรวจสอบหน้าปกหนังสืออีกครั้งเพื่อให้แน่ใจว่าระดับที่เลือกถูกต้อง  หากเรียนอยู่มากกว่าหนึ่งระดับ คุณสามารถเพิ่มระดับชั้นเรียนได้ในภายหลัง  โดยคลิกที่เมนู “เพิ่มระดับชั้นเรียน” ในหน้าหลัก (คุณต้องมีรหัสการเข้าถึงของระดับชั้นที่ต้องการเพิ่มด้วย)",
             "arabic": "اانقر فوق غلاف الكتاب الخاص بك لتحديد مستواك. من الأهمية بمكان أن تحدد المستوى الذي تستخدمه. تحقق من العنوان والغلاف لتتأكد أنه المستوى الخاص بك. إذا كنت تستخدم أكثر من مستوى، يمكنك إضافة مستوى آخر في وقت لاحق عن طريق اختيار“Add a level” (\"أضف مستوى\") من صفحتك الرئيسية (سوف تحتاج إلى رمز دخول جديد لإضافة مستوى)."
           }
@@ -381,7 +381,7 @@
             "spanish_la": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga click en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
             "portuguese": "Caso você possua um código de identificação de turma, insira-o aqui. Um código de identificação de turma pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua turma para que o seu professor possa o visualizar. Caso você não tenha um código de identificação de turma, clique em “Skip”. Para introduzir esse código mais tarde, escolha a opção “Join a Class” na sua página inicial.",
             "japanese": "クラスIDコードをお持ちの場合は、こちらに入力します。このコードは先生から渡されるものです。このコードは学習状況と所属クラスをリンクさせ、先生が学習状況を確認できるようにします。クラスコードをお持ちでない場合は、Skip[スキップ]をクリックします。このコードを後から入力するには、ホームページからJoin a Class[クラスへの参加登録]を選択します。",
-            "chinese": "如果您有班級代碼，請在此輸入。班級代碼由您的老師提供，將您的課業連結到您的班級，讓您的老師可以看到。如果您沒有班級代碼，請點擊「略過」。如果您之後想輸入代碼，請由首頁選擇「加入班級」。",
+            "chinese": "如果您有班級代碼，請在此輸入。班級代碼由您的教師提供，將您的課業連結到您的班級，讓您的教師可以看到。如果您沒有班級代碼，請點擊Skip（略過）。如果您之後想輸入代碼，請由首頁選擇Join a Class（加入班級）。",
             "thai": "ถ้ามีรหัสห้องเรียนแล้ว  ใส่ที่นี่ หากไม่มีรหัสห้องเรียน คลิก ”ข้าม” คุณสามารถขอรหัสห้องเรียนได้จากครูผู้สอน  การใช้รหัสห้องเรียนทำให้ครูผู้สอนสามารถอ่านรายงานและติดตามการทำกิจกรรมของคุณได้  หากต้องการใส่รหัสภายหลัง คลิกที่เมนู “เข้าร่วมชั้นเรียน” จากหน้าหลัก",
             "arabic": "إإذا كان لديك رمز مُعرِّف خاص بأحد الفصول، فقم بإدخاله هنا. يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه. إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول، فانقر على “Skip”(\"تخطي\"). لإدخال هذا الرمز في وقت لاحق؛ اختر “Join a Class” (\"الانضمام إلى أحد الفصول\") من الصفحة الرئيسية."
           }
@@ -462,7 +462,7 @@
             "spanish_la": "Esta página muestra su información de registro. Es posible que desee imprimir esta página como referencia. Para cambiar esta información, seleccione Editar Perfil una vez que inicie sesión (se encontrará en la parte superior derecha de la pantalla).",
             "portuguese": "Esta página exibe as suas informações de registro. É possível imprimir esta página para fins de referência. Para alterar estas informações, selecione a opção “Edit Profile” após iniciar a sessão (essa opção estará disponível no canto superior direito da tela).",
             "japanese": "このページは登録情報を表示します。必要に応じてこの画面を印刷してください。情報を変更する場合は、ログイン後に右上にあるEdit Profile[プロフィールの編集]をクリックします。",
-            "chinese": "本頁面顯示您的註冊資料，您可以列印本頁面做為參考。如果您想更改這些資料，請您在登入以後，選擇「編輯個人檔案」（將會顯示在畫面右上角）。",
+            "chinese": "本頁面顯示您的註冊資料，您可以列印本頁面做為參考。如果您想更改這些資料，請您在登入以後，選擇Edit Profile（編輯個人檔案）（將會顯示在畫面右上角）。",
             "thai": "คุณอาจต้องการพิมพ์หน้านี้เพื่อเป็นข้อมูลอ้างอิง หากต้องการเปลี่ยนแปลงข้อมูล หลังจากล็อกอินเข้าใช้งาน คลิก “แก้ไขข้อมูลส่วนตัว”  ",
             "arabic": "تُظهِر هذه الصفحة معلومات التسجيل الخاصة بك. وقد ترغب في طباعة هذه الصفحة كمرجع. لتغيير هذه المعلومات؛ حدد Edit Profile(\"تحرير الملف الشخصي\") بعد تسجيل الدخول (سيوجد في أعلى يمين الشاشة)."
           }

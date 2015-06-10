@@ -120,7 +120,7 @@
             "spanish_la": "Haga click aquí para ver el trabajo de este estudiante para esta lección.",
             "portuguese": "Clique aqui para visualizar o trabalho realizado por este aluno nesta lição.",
             "japanese": "このレッスンに対する生徒の学習状況を表示するには、こちらをクリックします。",
-            "chinese": "點此處來觀看這位學生在這堂課的表現。",
+            "chinese": "點此處來觀看這位學生在此一課程的表現。",
             "thai": "คลิกที่นี่  เพื่อดูผลงานของนักเรียนสำหรับบทเรียนนี้",
             "arabic": "انقر هنا لعرض عمل هذا الطالب الخاص بهذا الدرس."
           }
@@ -168,7 +168,7 @@
             "spanish_la": "Esta fila muestra la cantidad total de tiempo que el estudiante ha dedicado a cada actividad en esta unidad.",
             "portuguese": "Esta linha exibe a quantidade total de tempo que este aluno gastou em cada atividade nesta unidade.",
             "japanese": "この行は、このユニットの各アクティビティにこの生徒が費やした合計時間を表します。",
-            "chinese": "這一行顯示這位學生在此單元當中，對於每個活動花費的時間總數。",
+            "chinese": "這一行顯示這位學生在此單元當中，在每個活動上所花費的總時間。",
             "thai": "ส่วนนี้จะแสดงระยะเวลาทั้งหมดที่ใช้ในการทำแต่ละกิจกรรม",
             "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي قضاها هذا الطالب في القيام بجميع الأنشطة في هذه الوحدة."
           }
@@ -200,7 +200,7 @@
             "spanish_la": "Este es el número total de veces que el estudiante ha intentado completar la actividad en una lección.",
             "portuguese": "Este é o número total de tentativas de realização de atividades do aluno em uma lição.",
             "japanese": "これは、このレッスンでこの生徒がアクティビティに取り組んだ合計回数です。",
-            "chinese": "這是學生在同一堂課學習活動的嘗試次數總和。",
+            "chinese": "這是學生在同一課程學習活動所嘗試次數的總和。",
             "thai": "จำนวนกิจกรรมที่นักเรียนได้ทำทั้งหมด ในบทเรียนนี้",
             "arabic": "هذا هو العدد الإجمالي لمحاولات النشاط الخاصة بالطالب في أحد الدروس."
           }
@@ -216,7 +216,7 @@
             "spanish_la": "Esta es la cantidad total de tiempo empleado en actividades para una lección.",
             "portuguese": "Este é o tempo total gasto nas atividades de uma lição.",
             "japanese": "これは、このレッスンのアクティビティにかかった合計時間です。",
-            "chinese": "這是同一堂課所有學習活動花費的時間總和。",
+            "chinese": "這是同一課程所有學習活動花費的時間總和。",
             "thai": "ระยะเวลาทั้งหมด ที่นักเรียนใช้ทำกิจกรรมในบทเรียนนี้",
             "arabic": "هذا هو مقدار الوقت الإجمالي الذي تستغرقه الأنشطة في أحد الدروس."
           }
@@ -232,7 +232,7 @@
             "spanish_la": "Haga click aquí para exportar este informe en formato Microsoft Excel™.",
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™.",
             "japanese": "このレポートをMicrosoft Excel™にエクスポートするには、こちらをクリックします。",
-            "chinese": "點此處用Microsoft Excel格式輸出這份報告。",
+            "chinese": "點此處用Microsoft Excel™格式輸出這份報告。",
             "thai": "หากต้องการเปิดข้อมูลรายงานนี้ เป็นไฟล์ Excelคลิกที่นี่",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }

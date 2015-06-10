@@ -6,7 +6,7 @@
     "spanish_la": "Informe del Estudiante",
     "portuguese": "Relatório do aluno",
     "japanese": "生徒レポート",
-    "chinese": "生的學生報告",
+    "chinese": "學生報告",
     "thai": "รายงานนักเรียน",
     "arabic": "تقرير عن الطالب"
   },
@@ -56,7 +56,7 @@
             "spanish_la": "Haga click aquí para ver el Informe de la Clase que se muestra en el menú de la derecha.",
             "portuguese": "Clique aqui para visualizar o relatório da turma exibida no menu à direita.",
             "japanese": "右上に選択されているクラスのクラスレポートを表示するには、こちらをクリックします。",
-            "chinese": "點此處觀看班級報告。",
+            "chinese": "點此處觀看右側選單所顯示班級的報告。",
             "thai": "คลิกที่นี่  เพื่อดูรายงานประจำห้อง  ในช่องด้านขวา",
             "arabic": "انقر هنا لعرض تقرير الفصل الخاص بالفصل المعروض في القائمة على اليمين."
           }
@@ -72,7 +72,7 @@
             "spanish_la": "Utilice este menú para ver el Informe de Clase de una clase diferente. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "portuguese": "Utilize este menu para visualizar o relatório de uma turma diferente. Selecione \"All Classes\" para ir para o relatório resumido da turma.",
             "japanese": "別のクラスのクラスレポートを表示するには、このメニューを使用します。クラスのサマリーレポートへ進むには、All Classes[すべてのクラス]を選択します。",
-            "chinese": "使用此選單來觀看不同班級的班級報告，請選擇「全部班級」前往班級簡要報告。",
+            "chinese": "使用此選單來觀看不同班級的班級報告，請選擇 All Classes（全部班級）前往班級簡要報告。",
             "thai": "ใช้เมนูนี้  สำหรับดูงานของนักเรียนในห้องอื่น  เลือก ”ห้องเรียนทั้งหมด”  เพื่อดูรายงานโดยรวมของทุกห้องเรียน",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الفصل لفصل مختلف. حدد “All Classes” (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
@@ -88,7 +88,7 @@
             "spanish_la": "Utilice este menú de ver el Informe del Estudiante para otro estudiante de esta clase.",
             "portuguese": "Utilize este menu para visualizar o relatório de um aluno diferente nesta turma.",
             "japanese": "このクラスの別の生徒の生徒レポートを表示するには、このメニューを使用します。",
-            "chinese": "使用此選單來觀看這個班級的不同學生的學生報告。",
+            "chinese": "使用此選單來觀看這個班級中不同學生的學生報告。",
             "thai": "ใช้เมนูนี้ เพื่อดูรายงานของนักเรียนคนอื่นในห้องเรียนนี้",
             "arabic": "استخدم هذه القائمة لعرض تقرير الطالب لطالب مختلف في هذا الفصل."
           }
@@ -168,7 +168,7 @@
             "spanish_la": "Esta fila muestra la puntuación total de un estudiante para todas las actividades en una lección.",
             "portuguese": "Esta linha exibe a pontuação total de um aluno para em todas as atividades de uma lição.",
             "japanese": "この行は、このレッスンの全アクティビティに対するこの生徒の合計得点を表します。",
-            "chinese": "這一行顯示一位學生在同一堂課當中，全部學習活動所獲得的總分。",
+            "chinese": "這一行顯示一位學生在同一課程當中，全部學習活動所獲得的總分。",
             "thai": "คะแนนรวมสำหรับการทำกิจกรรมทุกในบทเรียนของนักเรียน ",
             "arabic": "يعرض هذا الصف الدرجة الإجمالية للطالب الخاصة بجميع الأنشطة في أحد الدروس."
           }
@@ -184,7 +184,7 @@
             "spanish_la": "Esta fila muestra la cantidad de veces que un estudiante ha intentado completar todas las actividades en una lección.",
             "portuguese": "Esta linha exibe o número de vezes que um aluno tentou realizar todas as atividades em uma lição.",
             "japanese": "この行は、この生徒がこのレッスンの全アクティビティに取り組んだ回数を表します。",
-            "chinese": "這一行顯示一位學生在同一堂課當中，對於全部學習活動所嘗試的次數總和。",
+            "chinese": "這一行顯示一位學生在同一課程當中，對於全部學習活動所嘗試的次數總和。",
             "thai": "จำนวนครั้ง ที่นักเรียนได้เข้าทำทุกกิจกรรมของบทเรียน",
             "arabic": "يُظهِر هذا الصف العدد الإجمالي للأوقات التي حاول فيها أحد الطلاب القيام بجميع الأنشطة في أحد الدروس."
           }
@@ -264,7 +264,7 @@
             "spanish_la": "Haga click aquí para exportar este informe en formato Microsoft Excel™.",
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™.",
             "japanese": "このレポートをMicrosoft Excel™へエクスポートするには、こちらをクリックします。",
-            "chinese": "點此處用Microsoft Excel格式輸出這份報告。",
+            "chinese": "點此處用Microsoft Excel™格式輸出這份報告。",
             "thai": "คลิกที่นี่  เพื่อเปิดข้อมูลในรูปแบบไฟล์ Excel",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }

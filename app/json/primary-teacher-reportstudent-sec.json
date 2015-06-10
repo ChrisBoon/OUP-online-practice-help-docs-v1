@@ -4,7 +4,7 @@
     "spanish": "Informe del Estudiante",
     "spanish_la": "Informe del Estudiante",
     "japanese": "生徒レポート",
-    "chinese": "生的學生報告",
+    "chinese": "學生報告",
     "thai": "รายงานนักเรียน",
     "portuguese": "Relatório do aluno"
   },
@@ -48,7 +48,7 @@
             "spanish": "Haga clic aquí para ver el Informe de la Clase que se muestra en el menú de la derecha.",
             "spanish_la": "Haga click aquí para ver el Informe de la Clase que se muestra en el menú de la derecha.",
             "japanese": "右上に選択されているクラスのクラスレポートを表示するには、こちらをクリックします。",
-            "chinese": "點此處觀看班級報告。",
+            "chinese": "點此處觀看右側選單所顯示班級的報告。",
             "thai": "คลิกที่นี่  เพื่อดูรายงานประจำห้อง  ในช่องด้านขวา",
             "portuguese": "Clique aqui para visualizar o relatório da turma exibida no menu à direita."
           }
@@ -62,7 +62,7 @@
             "spanish": "Utilice este menú para ver el Informe de Clase para una clase diferente. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "spanish_la": "Utilice este menú para ver el Informe de Clase de una clase diferente. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "japanese": "別のクラスのクラスレポートを表示するには、このメニューを使用します。クラスのサマリーレポートへ進むには、All Classes[すべてのクラス]を選択します。",
-            "chinese": "使用此選單來觀看不同班級的班級報告，請選擇「全部班級」前往班級簡要報告。",
+            "chinese": "使用此選單來觀看不同班級的班級報告，請選擇 All Classes（全部班級）前往班級簡要報告。",
             "thai": "ใช้เมนูนี้  สำหรับดูงานของนักเรียนในห้องอื่น  เลือก ”ห้องเรียนทั้งหมด”  เพื่อดูรายงานโดยรวมของทุกห้องเรียน",
             "portuguese": "Utilize este menu para visualizar o relatório de uma turma diferente. Selecione \"All Classes\" para ir para o relatório resumido da turma."
           }
@@ -76,7 +76,7 @@
             "spanish": "Utilice este menú para ver el Informe del Estudiante para otro estudiante de esta clase.",
             "spanish_la": "Utilice este menú para ver el Informe del Estudiante de otro estudiante de esta clase.",
             "japanese": "このクラスの別の生徒の生徒レポートを表示するには、このメニューを使用します。",
-            "chinese": "使用此選單來觀看這個班級的不同學生的學生報告。",
+            "chinese": "使用此選單來觀看這個班級中不同學生的學生報告。",
             "thai": "ใช้เมนูนี้ เพื่อดูรายงานของนักเรียนคนอื่นในห้องเรียนนี้",
             "portuguese": "Utilize este menu para visualizar o relatório de um aluno diferente nesta turma."
           }
@@ -146,7 +146,7 @@
             "spanish": "Esta fila muestra la cantidad de veces que un estudiante ha intentado completar todas las actividades en una lección.",
             "spanish_la": "Esta fila muestra la cantidad de veces que un estudiante ha intentado completar todas las actividades en una lección.",
             "japanese": "この行は、この生徒がこのレッスンの全アクティビティに取り組んだ回数を表します。",
-            "chinese": "這一行顯示一位學生在同一堂課當中，對於全部學習活動所嘗試的次數總和。",
+            "chinese": "這一行顯示一位學生在同一課程當中，全部學習活動所獲得的總分。",
             "thai": "จำนวนครั้ง ที่นักเรียนได้เข้าทำทุกกิจกรรมของบทเรียน",
             "portuguese": "Esta linha exibe o número de vezes que um aluno tentou realizar todas as atividades em uma lição."
           }
@@ -160,7 +160,7 @@
             "spanish": "Esta línea muestra la cantidad total de tiempo que el estudiante ha dedicado a cada lección.",
             "spanish_la": "Esta línea muestra la cantidad total de tiempo que el estudiante ha dedicado a cada lección.",
             "japanese": "この行は、各レッスンに対してこの生徒が費やした合計時間を表します。",
-            "chinese": "這一行顯示此學生在每堂課所花費的時間總和。",
+            "chinese": "這一行顯示一位學生在同一課程當中，對於全部學習活動所嘗試的次數總和。",
             "thai": "ระยะเวลาที่นักเรียนได้ใช้ ในแต่ละบทเรียน",
             "portuguese": "Esta linha exibe a quantidade total de tempo que o aluno gastou em cada lição."
           }
@@ -216,7 +216,7 @@
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
             "spanish_la": "Haga click aquí para exportar este informe en formato Microsoft Excel™.",
             "japanese": "このレポートをMicrosoft Excel™へエクスポートするには、こちらをクリックします。",
-            "chinese": "點此處用Microsoft Excel格式輸出這份報告。",
+            "chinese": "點此處用Microsoft Excel™格式輸出這份報告。",
             "thai": "คลิกที่นี่  เพื่อเปิดข้อมูลในรูปแบบไฟล์ Excel",
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™."
           }

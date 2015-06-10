@@ -40,7 +40,7 @@
             "spanish_la": "Haga click aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas).",
             "japanese": "クラスのサマリーレポート（全クラスの平均得点）を表示するには、こちらをクリックします。",
-            "chinese": "點此處觀看班級簡要報告（您全部班級的平均分數）。",
+            "chinese": "點此處觀看右邊所顯示班級的個別班級報告。",
             "thai": "คลิกที่นี่  เพื่อดูภาพรวมของทุกห้องเรียน (คะแนนเฉลี่ยของทุกห้องเรียน)  ",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (متوسط الدرجات الخاصة بجميع فصولك الدراسية)."
           }
@@ -104,7 +104,7 @@
             "spanish_la": "Utilice este menú para ver el trabajo de un estudiante en otra clase. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "portuguese": "Utilize este menu para visualizar o trabalho de um aluno em outra aula. Selecione \"All Classes\" para ir para o relatório resumido da turma.",
             "japanese": "別のクラスの生徒の学習状況を表示するには、こちらをクリックします。クラスのサマリーレポートへ進むには、All Classes[すべてのクラス]を選択します。",
-            "chinese": "使用此選單來觀看一位學生在其他班級的表現。選擇「全部班級」可前往班級簡要報告。",
+            "chinese": "使用此選單來觀看一位學生在其他班級的表現。選擇 All Classes（全部班級）可前往班級簡要報告。。",
             "thai": "ใช้เมนูนี้สำหรับดูผลงานของนักเรียนห้องอื่น  เลือก ”ห้องเรียนทั้งหมด” เพื่อดูรายงานโดยรวมของทุกห้องเรียน",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب ما في فصل أخرى. حدد “All Classes”  (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
