@@ -124,6 +124,16 @@
   }
 }
 
+.language-chosen__container--chinese,
+.language-chosen__container--Chinese{
+  &:before{
+    content: "繁體中文";
+  }
+  .language-chosen--english{
+    display: none;
+  }
+}
+
 .adult{
   .language-chosen__container--spanish,
   .language-chosen__container--Spanish{
