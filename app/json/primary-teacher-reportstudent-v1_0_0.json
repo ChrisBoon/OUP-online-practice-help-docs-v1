@@ -200,7 +200,7 @@
             "spanish_la": "Esta línea muestra la cantidad total de tiempo que el estudiante ha dedicado a cada lección.",
             "portuguese": "Esta linha exibe a quantidade total de tempo que o aluno gastou em cada lição.",
             "japanese": "この行は、各レッスンに対してこの生徒が費やした合計時間を表します。",
-            "chinese": "這一行顯示此學生在每堂課所花費的時間總和。",
+            "chinese": "這一行顯示此學生在個課程所花費的時間總和。",
             "thai": "ระยะเวลาที่นักเรียนได้ใช้ ในแต่ละบทเรียน",
             "arabic": "يظهر هذا الصف مقدار الوقت الإجمالي الذي قضاه الطالب في كل درس."
           }
