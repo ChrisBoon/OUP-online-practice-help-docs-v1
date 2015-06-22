@@ -3,6 +3,9 @@
     "english": "Report",
     "spanish": "Informe",
     "spanish_la": "Informe",
+    "japanese": "レポート",
+    "chinese": "學習報告",
+    "thai": "รายงาน",
     "portuguese": "Relatório"
   },
  "segment": "primary",
@@ -16,6 +19,9 @@
         "english": "",
         "spanish": "",
         "spanish_la": "",
+        "japanese": "",
+        "chinese": "",
+        "thai": "",
         "portuguese": ""
       },
       "paragraphs":{
@@ -27,6 +33,9 @@
             "english": "This page shows your activity scores for all units in your level of Online Practice.",
             "spanish": "Esta página muestra las puntuaciones de sus actividades para todas las unidades en su nivel de Práctica Online.",
             "spanish_la": "Esta página muestra las puntuaciones de sus actividades para todas las unidades en su nivel de Práctica Online.",
+            "japanese": "このページは、Online Practiceのそのレベルの全ユニットのアクティビティの得点を表示します。",
+            "chinese": "本頁面顯示您在線上練習的該級數中，全部單元的學習活動得分。",
+            "thai": "หน้านี้จะแสดงคะแนนการทำกิจกรรมแบบฝึกหัดออนไลน์ในทุกหัวข้อของคุณ",
             "portuguese": "Esta página exibe as pontuações das atividades de todas as unidades dentro do seu nível no Online Practice."
           }
         },
@@ -38,6 +47,9 @@
             "english": "Use this menu to display reports for all units or display reports for separate units.",
             "spanish": "Utilice este menú para visualizar informes para todas las unidades o informes para unidades separadas.",
             "spanish_la": "Utilice este menú para visualizar informes para todas las unidades o informes para unidades separadas.",
+            "japanese": "全ユニットのレポート、または特定のユニットのレポートを表示するには、このメニューを使用します。",
+            "chinese": "使用此選單可以顯示全部單元的學習報告，或顯示個別單元的學習報告。",
+            "thai": "เมนูนี้สำหรับอ่านรายงานสรุปทุกหัวข้อ หรือแยกอ่านแต่ละหัวข้อ",
             "portuguese": "Utilize este menu para exibir relatórios sobre todas as unidades ou para exibir relatórios sobre cada unidades separadamente."
           }
         },
@@ -49,6 +61,9 @@
             "english": "This row shows the total score of all activities attempted in each lesson of a unit. The score is shown out of the total number of possible points in the attempted activities.",
             "spanish": "Esta línea muestra la puntuación total de todas las actividades en cada lección de una unidad. La puntuación se muestra en base al número total de puntos posibles a obtener en las actividades.",
             "spanish_la": "Esta línea muestra la puntuación total de todas las actividades en cada lección de una unidad. La puntuación se muestra en base al número total de puntos posibles a obtener en las actividades.",
+            "japanese": "この行は、このユニットの各レッスンで取り組んだ全アクティビティの合計得点を表します。これは、取り組んだアクティビティで取得できるポイントの合計数のうちの得点を表示しています。",
+            "chinese": "這一行顯示每個單元的每一課裡面，嘗試過的學習活動總得分。此總分來自嘗試過的學習活動全部得分加總。",
+            "thai": "คะแนนของทุกกิจกรรมที่ทำสำเร็จแล้ว ในทุกหัวข้อของบทเรียน  คะแนนจะแสดงโดยไม่เทียบกับคะแนนรวมของกิจกรรม",
             "portuguese": "Esta linha exibe a pontuação total de todas as tentativas de realização das atividades, em cada lição de uma unidade. A pontuação é exibida em relação ao número total de pontos possíveis nas tentativas."
           }
         },
@@ -60,6 +75,9 @@
             "english": "This row shows the total number of activity attempts in each lesson of a unit.",
             "spanish": "Esta fila muestra el número total de intentos para cada actividad en cada lección de una unidad.",
             "spanish_la": "Esta fila muestra el número total de intentos para cada actividad en cada lección de una unidad.",
+            "japanese": "この行は、このユニットの各レッスンで取り組んだアクティビティの合計数を表します。",
+            "chinese": "這一行顯示每個單元的每一課裡面，嘗試過的學習活動總數。",
+            "thai": "จำนวนของกิจกรรมที่ทำสำเร็จแล้วในแต่ละหน่วยบทเรียน",
             "portuguese": "Esta linha exibe o número total de tentativas de realizazação das atividades, em cada lição de uma unidade."
           }
         },
@@ -71,6 +89,9 @@
             "english": "This row shows the time spent on activities in each lesson of a unit.",
             "spanish": "Esta fila muestra el tiempo empleado en actividades por cada lección de una unidad.",
             "spanish_la": "Esta fila muestra el tiempo empleado en actividades por cada lección de una unidad.",
+            "japanese": "この行は、このユニットの各レッスンのアクティビティに費やした時間を表します。",
+            "chinese": "這一行顯示每個單元的每一課裡面，嘗試過的學習活動時數。",
+            "thai": "จำนวนเวลาที่ใช้ในการทำกิจกรรมของแต่ละหน่วยบทเรียน",
             "portuguese": "Esta linha exibe o tempo gasto em atividades em cada lição de uma unidade."
           }
         },
@@ -82,6 +103,9 @@
             "english": "The total score in a unit is shown here.",
             "spanish": "La puntuación total para una unidad se muestra aquí.",
             "spanish_la": "La puntuación total para una unidad se muestra aquí.",
+            "japanese": "このユニットの合計得点は、こちらです。",
+            "chinese": "每個單元的總得分顯示在此處。",
+            "thai": "คะแนนรวมของทุกหน่วยบทเรียน",
             "portuguese": "A pontuação total em uma unidade é exibida aqui."
           }
         },
@@ -93,6 +117,9 @@
             "english": "The total number of activity attempts in a unit is shown here.",
             "spanish": "Aquí se muestra el número total de intentos para una actividad en una unidad.",
             "spanish_la": "Aquí se muestra el número total de intentos para una actividad en una unidad.",
+            "japanese": "これはこのユニットで取り組んだアクティビティの合計数を表します。",
+            "chinese": "每個單元全部的學習活動嘗試次數顯示在此處。",
+            "thai": "จำนวนกิจกรรมที่ทำสำเร็จแล้วในหนึ่งหน่วยบทเรียน",
             "portuguese": "O número total de tentativas de cada atividade em uma unidade é exibido aqui."
           }
         },
@@ -104,6 +131,9 @@
             "english": "The total time taken on all activity attempts in a unit is shown here.",
             "spanish": "Aquí se muestra el tiempo total empleado en todos los intentos para las actividades en una unidad.",
             "spanish_la": "Aquí se muestra el tiempo total empleado en todos los intentos para las actividades en una unidad.",
+            "japanese": "これはこのユニットのアクティビティの全取り組みにかかった合計時間です。",
+            "chinese": "每個單元全部的學習活動嘗試時數顯示在此處。",
+            "thai": "เวลาทั้งหมดที่ใช้ในการทำกิจกรรมในหนึ่งหน่วยบทเรียน",
             "portuguese": "O tempo total gasto em todas as tentativas de cada atividade em uma unidade é exibido aqui."
           }
         },
@@ -115,6 +145,9 @@
             "english": "Click here to see your activity scores displayed as a percentage of the total number of points available.",
             "spanish": "Haga clic aquí para ver la puntuación de la actividad como un porcentaje del número total de puntos disponibles.",
             "spanish_la": "Haga click aquí para ver la puntuación de la actividad como un porcentaje del número total de puntos disponibles.",
+            "japanese": "アクティビティの得点を、取得できるポイントの合計数のパーセンテージで表示するには、こちらをクリックします。",
+            "chinese": "點此處可觀看您的學習活動得分，依照學習活動之可得總分，以百分比方式顯示。",
+            "thai": "คลิกที่นี่  เพื่อดูคะแนนกิจกรรมของคุณ เทียบเป็นเปอร์เซ็นต์กับคะแนนรวมทั้งหมด",
             "portuguese": "Clique aqui para visualizar as pontuações de suas atividades exibidas como uma percentagem do número total de pontos disponíveis."
           }
         }

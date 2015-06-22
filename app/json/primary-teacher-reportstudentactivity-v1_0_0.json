@@ -5,6 +5,9 @@
     "spanish": "Informe de Actividades del Estudiante",
     "spanish_la": "Informe de Actividades del Estudiante",
     "portuguese": "Relatório da atividade do aluno",
+    "japanese": "生徒のアクティビティレポート",
+    "chinese": "學生學習活動報告",
+    "thai": "รายงานกิจกรรมนักเรียน",
     "arabic": "تقرير نشاط الطالب"
   },
  "segment": "primary",
@@ -20,6 +23,9 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
+        "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +39,9 @@
             "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "spanish_la": "Haga click aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
             "portuguese": "Clique aqui para visualizar o relatório resumido da turma (pontuações médias de todas as suas turmas).",
+            "japanese": "クラスのサマリーレポート（全クラスの平均得点）を表示するには、こちらをクリックします。",
+            "chinese": "點此處觀看班級簡要報告（您全部班級的平均分數）。",
+            "thai": "คลิกที่นี่  เพื่อดูภาพรวมของทุกห้องเรียน (คะแนนเฉลี่ยของทุกห้องเรียน)  ",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (متوسط الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -46,6 +55,9 @@
             "spanish": "Haga clic aquí para ver el Informe de la Clase para la clase que se muestra a la derecha.",
             "spanish_la": "Haga click aquí para ver el Informe de la Clase de la clase que se muestra a la derecha.",
             "portuguese": "Clique aqui para visualizar o relatório da turma exibida à direita.",
+            "japanese": "右上に選択されたクラスのクラスレポートを表示するには、こちらをクリックします。",
+            "chinese": "點此處觀看右邊所顯示的班級的個別班級報告。",
+            "thai": "คลิกที่นี่  เพื่อดูรายงานของห้อง  ในช่องด้านขวา",
             "arabic": "انقر هنا لعرض تقرير الفصل الخاص بالفصل المعروض على اليمين."
           }
         },
@@ -59,6 +71,9 @@
             "spanish": "Haga clic aquí para ver el Informe de Unidad para este estudiante.",
             "spanish_la": "Haga click aquí para ver el Informe de Unidad de este estudiante.",
             "portuguese": "Clique aqui para visualizar o relatório da unidade deste aluno.",
+            "japanese": "この生徒のユニットレポートを表示するには、こちらをクリックします。",
+            "chinese": "點此處觀看這位學生的單元報告。",
+            "thai": "คลิกที่นี่  เพื่อดูรายงานของนักเรียนคนนี้ตามหัวข้อบทเรียน  ",
             "arabic": "انقر هنا لعرض تقرير الوحدة لهذا الطالب."
           }
         },
@@ -72,6 +87,9 @@
             "spanish": "Haga clic aquí para ver el Informe de Lección para este estudiante.",
             "spanish_la": "Haga click aquí para ver el Informe de Lección de este estudiante.",
             "portuguese": "Clique aqui para visualizar o relatório de lição deste aluno.",
+            "japanese": "この生徒のレッスンレポートを表示するには、こちらをクリックします。",
+            "chinese": "點此處觀看這位學生的課程報告。",
+            "thai": "คลิกที่นี่  เพื่อดูรายงานของนักเรียนคนนี้ตามบทเรียน  ",
             "arabic": "انقر هنا لعرض تقرير الدرس لهذا الطالب."
           }
         },
@@ -85,6 +103,9 @@
             "spanish": "Utilice este menú para ver el trabajo de un estudiante en otra clase. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "spanish_la": "Utilice este menú para ver el trabajo de un estudiante en otra clase. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
             "portuguese": "Utilize este menu para visualizar o trabalho de um aluno em outra aula. Selecione \"All Classes\" para ir para o relatório resumido da turma.",
+            "japanese": "別のクラスの生徒の学習状況を表示するには、こちらをクリックします。クラスのサマリーレポートへ進むには、All Classes[すべてのクラス]を選択します。",
+            "chinese": "使用此選單來觀看一位學生在其他班級的表現。選擇 All Classes（全部班級）可前往班級簡要報告。",
+            "thai": "ใช้เมนูนี้สำหรับดูผลงานของนักเรียนห้องอื่น  เลือก ”ห้องเรียนทั้งหมด” เพื่อดูรายงานโดยรวมของทุกห้องเรียน",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب ما في فصل أخرى. حدد “All Classes”  (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
         },
@@ -98,6 +119,9 @@
             "spanish": "Utilice este menú para ver el trabajo de un estudiante diferente para esta actividad.",
             "spanish_la": "Utilice este menú para ver el trabajo de un estudiante diferente para esta actividad.",
             "portuguese": "Utilize este menu para visualizar o trabalho de um aluno diferente nesta atividade.",
+            "japanese": "このアクティビティに対する別の生徒の学習状況を表示するには、こちらをクリックします。",
+            "chinese": "使用此選單來觀看不同學生在此學習活動的表現。",
+            "thai": "ใช้เมนูนี้สำหรับดูผลงานของนักเรียนคนอื่นที่ทำกิจกรรมนี้",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب مختلف لهذا النشاط."
           }
         },
@@ -111,6 +135,9 @@
             "spanish": "Utilice este menú para ver una unidad diferente.",
             "spanish_la": "Utilice este menú para ver una unidad diferente.",
             "portuguese": "Utilize este menu para visualizar uma unidade diferente.",
+            "japanese": "別のユニットを表示するには、このメニューを使用します。",
+            "chinese": "使用此選單來觀看不同的單元。",
+            "thai": "ใช้เมนูนี้  เพื่อดูรายงานในหัวข้ออื่น",
             "arabic": "استخدم هذه القائمة لعرض وحدة مختلفة."
           }
         },
@@ -124,6 +151,9 @@
             "spanish": "Utilice este menú para ver una lección diferente.",
             "spanish_la": "Utilice este menú para ver una lección diferente.",
             "portuguese": "Utilize este menu para visualizar uma lição diferente.",
+            "japanese": "別のレッスンを表示するには、このメニューを使用します。",
+            "chinese": "使用此選單來觀看不同的課程。",
+            "thai": "ใช้เมนูนี้  เพื่อดูรายงานในบทเรียนอื่น",
             "arabic": "استخدم هذه القائمة لعرض درس مختلف."
           }
         },
@@ -137,6 +167,9 @@
             "spanish": "Esta calificación muestra el intento más reciente que el estudiante seleccionado ha realizado para esta actividad. Tenga en cuenta que no se guardan las grabaciones de los estudiantes para las actividades que incluyen una función de grabado de voz.",
             "spanish_la": "Esta calificación muestra el intento más reciente que el estudiante seleccionado ha realizado para esta actividad. Tenga en cuenta que no se guardan las grabaciones de los estudiantes para las actividades que incluyen una función de grabado de voz.",
             "portuguese": "Esta pontuação exibe a tentativa mais recente de realização desta atividade pelo aluno selecionado. Observe que as gravações dos alunos não são armazenadas nas atividades de fala que incluem um recurso de gravação de voz.",
+            "japanese": "この得点は、選択した生徒によるこのアクティビティに対する一番最近の取り組みを表します。音声を録音するスピーキングアクティビティについては、生徒の録音は保存されていませんのでご注意ください。",
+            "chinese": "這個分數顯示被選到的學生對於此學習活動最近一次的嘗試，請注意，包含錄音功能的口語學習活動，學生的錄音不會被儲存下來。",
+            "thai": "ผลคะแนนนี้  ได้จากการทำกิจกรรมครั้งล่าสุดของนักเรียนคนที่ได้เลือกไว้  โปรดทราบว่า กิจกรรมการพูด และการอัดเสียงของนักเรียนจะไม่มีการบันทึกข้อมูล",
             "arabic": "تُظهِر هذه الدرجة أحدث محاولة في هذا النشاط من قِبل الطالب المحدد. يُرجَى ملاحظة أنه لأنشطة التحدث التي تتضمن ميزة تسجيل الصوت، لا يتم حفظ تسجيلات الطالب."
           }
         },
@@ -150,6 +183,9 @@
             "spanish": "Aquí se muestra el número de veces que un estudiante ha intentado completar esta actividad.",
             "spanish_la": "Aquí se muestra el número de veces que un estudiante ha intentado completar esta actividad.",
             "portuguese": "Exibe o número de vezes que um aluno tentou realizar esta atividade.",
+            "japanese": "これは、その生徒がこのアクティビティに取り組んだ回数を表します。",
+            "chinese": "這裡顯示學生對於此學習活動的嘗試次數。",
+            "thai": "จำนวนครั้ง ที่นักเรียนได้เข้าทำกิจกรรมนี้",
             "arabic": "يُظهِر هذا عدد المرات التي حاول فيها طالب ما في هذا النشاط."
           }
         }

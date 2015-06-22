@@ -5,6 +5,9 @@
     "spanish": "Editar Perfil",
     "spanish_la": "Editar Perfil",
     "portuguese": "Editar perfil",
+    "japanese": "プロフィールの編集",
+    "chinese": "編輯個人檔案",
+    "thai": "แก้ไขข้อมูลส่วนตัว",
     "arabic": "تحريرالملف الشخصي"
   },
  "segment": "primary",
@@ -20,6 +23,9 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
+        "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +39,9 @@
             "spanish": "Haga clic aquí para cambiar su nombre.",
             "spanish_la": "Haga click aquí para cambiar su nombre.",
             "portuguese": "Clique aqui para alterar o seu primeiro nome.",
+            "japanese": "名前（名）の変更は、こちらをクリックします。",
+            "chinese": "點此處更改您的名字。",
+            "thai": "คลิกที่นี่ เพื่อเปลี่ยนชื่อ",
             "arabic": "انقر هنا لتغيير اسمك الأول."
           }
         },
@@ -46,6 +55,9 @@
             "spanish": "Haga clic aquí para cambiar su apellido.",
             "spanish_la": "Haga click aquí para cambiar su apellido.",
             "portuguese": "Clique aqui para alterar seu sobrenome (nome de família).",
+            "japanese": "名前（姓）の変更は、こちらをクリックします。",
+            "chinese": "點此處更改您的姓氏。",
+            "thai": "คลิกที่นี่ เพื่อเปลี่ยนนามสกุล",
             "arabic": "انقر هنا لتغيير اسمك الأخير (اسم العائلة)."
           }
         },
@@ -59,6 +71,9 @@
             "spanish": "Haga clic aquí para cambiar su dirección de correo electrónico.",
             "spanish_la": "Haga click aquí para cambiar su dirección de correo electrónico.",
             "portuguese": "Clique aqui para alterar o seu endereço de e-mail.",
+            "japanese": "メールアドレスの変更は、こちらをクリックします。",
+            "chinese": "點此處更改您的電子郵件。",
+            "thai": "คลิกที่นี่ เพื่อเปลี่ยนอีเมล",
             "arabic": "انقر هنا لتغيير عنوان بريدك الإلكتروني."
           }
         },
@@ -72,6 +87,9 @@
             "spanish": "Haga clic aquí para confirmar su nueva dirección de correo electrónico.",
             "spanish_la": "Haga click aquí para confirmar su nueva dirección de correo electrónico.",
             "portuguese": "Clique aqui para confirmar o seu novo endereço de e-mail.",
+            "japanese": "新しいメールアドレスの確認は、こちらをクリックします。",
+            "chinese": "點此處確認您的新電子郵件。",
+            "thai": "คลิกที่นี่ เพื่อยืนยันอีเมล",
             "arabic": "انقر هنا لتأكيد عنوان بريدك الإلكتروني الجديد."
           }
         },
@@ -85,6 +103,9 @@
             "spanish": "Haga clic aquí para cambiar su contraseña.",
             "spanish_la": "Haga click aquí para cambiar su contraseña.",
             "portuguese": "Clique aqui para alterar a sua senha.",
+            "japanese": "パスワードの変更は、こちらをクリックします。",
+            "chinese": "點此處更改您的密碼。",
+            "thai": "คลิกที่นี่ เพื่อเปลี่ยนรหัสผ่าน",
             "arabic": "انقر هنا لتغيير كلمة المرور الخاصة بك."
           }
         },
@@ -98,6 +119,9 @@
             "spanish": "Haga clic aquí para confirmar su nueva contraseña.",
             "spanish_la": "Haga click aquí para confirmar su nueva contraseña.",
             "portuguese": "Clique aqui para confirmar a sua nova senha.",
+            "japanese": "新しいパスワードの確認は、こちらをクリックします。",
+            "chinese": "點此處確認您的新密碼。",
+            "thai": "คลิกที่นี่ เพื่อยืนยันรหัสผ่าน",
             "arabic": "انقر هنا لتأكيد كلمة المرور الجديدة الخاصة بك."
           }
         },
@@ -111,6 +135,9 @@
             "spanish": "Haga clic aquí para guardar los cambios.",
             "spanish_la": "Haga click aquí para guardar los cambios.",
             "portuguese": "Clique aqui para salvar as alterações.",
+            "japanese": "変更内容の保存は、こちらをクリックします。",
+            "chinese": "點此處儲存您做的變更。",
+            "thai": "คลิกที่นี่ เพื่อยืนยันการแก้ไขข้อมูล",
             "arabic": "اانقر هنا لحفظ كلمة المرور الخاصة بك."
           }
         },
@@ -124,6 +151,9 @@
             "spanish": "Haga clic aquí para cancelar sin guardar los cambios.",
             "spanish_la": "Haga click aquí para cancelar sin guardar los cambios.",
             "portuguese": "Clique aqui para cancelar sem salvar as alterações.",
+            "japanese": "変更内容を保存せずにキャンセルするには、こちらをクリックします。",
+            "chinese": "點此處取消，不儲存任何變更。",
+            "thai": "คลิกที่นี่ เพื่อยกเลิก การแก้ไขข้อมูล",
             "arabic": "انقر هنا للإلغاء بدون حفظ أي تغييرات."
           }
         }

@@ -5,6 +5,9 @@
         "english": "Teacher",
         "turkish": "Öğretmen",
         "spanish": "Profesor",
+        "japanese": "先生",
+        "chinese": "教師",
+        "thai": "ครูผู้สอน",
         "arabic": "المعلم"
       },
     "docsList":{
@@ -14,6 +17,9 @@
           "english": "Registration",
           "turkish": "Kayıt",
           "spanish": "Registro",
+          "japanese": "登録",
+          "chinese": "註冊",
+          "thai": "ลงทะเบียน",
           "arabic": "التسجيل"
         },
         "id": "adult-teacher-registration-v1_0_0"
@@ -24,6 +30,9 @@
           "english": "Home",
           "turkish": "Anasayfa",
           "spanish": "Inicio",
+          "japanese": "ホーム",
+          "chinese": "首頁",
+          "thai": "หน้าหลัก",
           "arabic": "الصفحة الرئيسية"
         },
         "id": "adult-teacher-home-v1_0_0"
@@ -34,6 +43,9 @@
           "english": "Manage Classes",
           "turkish": "Sınıfları Yönet",
           "spanish": "Administrar Clases",
+          "japanese": "クラスの管理",
+          "chinese": "管理班級",
+          "thai": "การจัดการห้องเรียน",
           "arabic": "إدارة الفصول"
         },
         "id": "adult-teacher-manageclasses-v1_0_0"
@@ -44,6 +56,9 @@
           "english": "Manage Attempts",
           "turkish": "Denemeleri Yönet",
           "spanish": "Administrar los intentos",
+          "japanese": "-",
+          "chinese": "-",
+          "thai": "-",
           "arabic": "إدارة المحاولات"
         },
         "id": "adult-teacher-manageattempts-v1_0_0"
@@ -54,6 +69,9 @@
           "english": "Class Details",
           "turkish": "Sınıf Bilgileri",
           "spanish": "Detalles de la Clase",
+          "japanese": "クラスの詳細",
+          "chinese": "班級資料",
+          "thai": "รายละเอียดห้องเรียน",
           "arabic": "تفاصيل الفصل"
         },
         "id": "adult-teacher-classdetails-v1_0_0"
@@ -64,6 +82,9 @@
           "english": "Edit Class Name",
           "turkish": "Sınıf Adını Değiştir",
           "spanish": "Editar Nombre de la Clase",
+          "japanese": "クラス名の編集",
+          "chinese": "編輯班級名稱",
+          "thai": "แก้ไขชื่อห้องเรียน",
           "arabic": "تحرير اسم الفصل"
         },
         "id": "adult-teacher-classeditname-v1_0_0"
@@ -74,6 +95,9 @@
           "english": "Join an Institution",
           "turkish": "Bir Kuruma Katıl",
           "spanish": "Unirse a una Institución",
+          "japanese": "学校・団体への参加登録",
+          "chinese": "加入機關單位",
+          "thai": "เข้าร่วมสถาบัน",
           "arabic": "الانضمام إلى مؤسسة"
         },
         "id": "adult-teacher-joininstitution-v1_0_0"
@@ -84,6 +108,9 @@
           "english": "Hide/Assign Content",
           "turkish": "İçeriği Gizle/Ata",
           "spanish": "Ocultar/Asignar contenido",
+          "japanese": "-",
+          "chinese": "-",
+          "thai": "ซ่อนหัวข้อและบทเรียน",
           "arabic": "تحديد المحتوى /إخفاء"
         },
         "id": "adult-teacher-contentassign-v1_0_0"
@@ -94,6 +121,9 @@
           "english": "Add a New Class",
           "turkish": "Yeni Sınıf Ekle",
           "spanish": "Añadir una Nueva Clase",
+          "japanese": "クラスの追加",
+          "chinese": "新增班級",
+          "thai": "เพิ่มห้องเรียนใหม่",
           "arabic": "إضافة فصل جديد"
         },
         "id": "adult-teacher-addclass-v1_0_0"
@@ -104,6 +134,9 @@
           "english": "Class Summary Report",
           "turkish": "Sınıf Özet Raporu",
           "spanish": "Informe de Resumen de la Clase",
+          "japanese": "クラスサマリーレポート",
+          "chinese": "班級簡要報告",
+          "thai": "รายงานสรุปประจำชั้น",
           "arabic": "تقرير موجز الفصل"
         },
         "id": "adult-teacher-reportclasssummary-v1_0_0"
@@ -114,6 +147,9 @@
           "english": "Class Report",
           "turkish": "Sınıf Raporu",
           "spanish": "Informe de la Clase",
+          "japanese": "クラスレポート",
+          "chinese": "班級報告",
+          "thai": "รายงานของชั้นเรียน",
           "arabic": "التقرير الخاص بالفصل"
         },
         "id": "adult-teacher-reportclass-v1_0_0"
@@ -124,6 +160,9 @@
           "english": "Student Report",
           "turkish": "Öğrenci Raporu",
           "spanish": "Informe del Estudiante",
+          "japanese": "生徒レポート",
+          "chinese": "學生報告",
+          "thai": "รายงานของนักเรียน",
           "arabic": "تقرير عن الطالب"
         },
         "id": "adult-teacher-reportstudent-v1_0_0"
@@ -134,6 +173,9 @@
           "english": "Achievements",
           "turkish": "Başarılar",
           "spanish": "Logros",
+          "japanese": "成績表",
+          "chinese": "學習成果",
+          "thai": "ความสำเร็จ",
           "arabic": "التحصيل"
         },
         "id": "adult-teacher-dashboard-v1_0_0"
@@ -144,6 +186,9 @@
           "english": "Segment Report",
           "turkish": "Öğrenci Bölüm Raporu",
           "spanish": "Informe del segmento de estudiante",
+          "japanese": "-",
+          "chinese": "-",
+          "thai": "-",
           "arabic": "تقريرالطالب الجزئي"
         },
         "id": "adult-teacher-reportsegment-v1_0_0"
@@ -154,6 +199,9 @@
           "english": "Unit Report",
           "turkish": "Ünite Raporu",
           "spanish": "Informe de la Unidad",
+          "japanese": "ユニットレポート",
+          "chinese": "單元報告",
+          "thai": "รายงานของหัวข้อในบทเรียน",
           "arabic": "تقرير الوحدة"
         },
         "id": "adult-teacher-reportunit-v1_0_0"
@@ -164,6 +212,9 @@
           "english": "Student Activity Report",
           "turkish": "Öğrenci Aktivite Raporu",
           "spanish": "Informe de la Lección",
+          "japanese": "生徒のアクティビティレポート",
+          "chinese": "學生學習活動報告",
+          "thai": "รายงานกิจกรรมของนักเรียน",
           "arabic": "تقرير نشاط الطالب"
         },
         "id": "adult-teacher-reportstudentactivity-v1_0_0"
@@ -174,6 +225,9 @@
           "english": "Activities and Resources",
           "turkish": "Aktiviteler ve Kaynaklar ",
           "spanish": "Actividades y Recursos",
+          "japanese": "-",
+          "chinese": "-",
+          "thai": "-",
           "arabic": "أنشطة و الموارد"
         },
         "id": "adult-teacher-enteronlinepractice-v1_0_0"
@@ -184,6 +238,9 @@
           "english": "Activities",
           "turkish": "Aktiviteler",
           "spanish": "Actividades",
+          "japanese": "アクティビティ",
+          "chinese": "學習活動",
+          "thai": "กิจกรรม",
           "arabic": "أنشطة"
         },
         "id": "adult-teacher-activities-v1_0_0"
@@ -194,6 +251,9 @@
           "english": "Glossary",
           "turkish": "Sözlük",
           "spanish": "Glosario",
+          "japanese": "グロッサリー",
+          "chinese": "詞庫",
+          "thai": "อภิธานศัพท์",
           "arabic": "المسرد"
         },
         "id": "adult-teacher-glossary-v1_0_0"
@@ -204,6 +264,9 @@
           "english": "Resources",
           "turkish": "Kaynaklar",
           "spanish": "Recursos",
+          "japanese": "リソース",
+          "chinese": "教學資源",
+          "thai": "ศูนย์ทรัพยากรการเรียนรู้",
           "arabic": "الموارد"
         },
         "id": "adult-teacher-resources-v1_0_0"
@@ -214,6 +277,9 @@
           "english": "Media Center",
           "turkish": "Medya Merkezi",
           "spanish": "Centro de Medios",
+          "japanese": "メディアセンター",
+          "chinese": "媒體中心",
+          "thai": "ศูนย์รวมมัลติมีเดีย",
           "arabic": "مركز الوسائط"
         },
         "id": "adult-teacher-media-v1_0_0"
@@ -224,6 +290,9 @@
           "english": "Add a Level",
           "turkish": "Seviye Ekle",
           "spanish": "Añadir un Nivel",
+          "japanese": "レベルの追加",
+          "chinese": "新增等級",
+          "thai": "เพิ่มระดับชั้นเรียน",
           "arabic": "إضافة مستوى"
         },
         "id": "adult-teacher-addlevel-v1_0_0"
@@ -234,6 +303,9 @@
           "english": "Email",
           "turkish": "E-posta",
           "spanish": "Correo electrónico",
+          "japanese": "メール",
+          "chinese": "電子郵件",
+          "thai": "อีเมล",
           "arabic": "البريد الإلكتروني"
         },
         "id": "adult-teacher-email-v1_0_0"
@@ -244,6 +316,9 @@
           "english": "Discussion Board",
           "turkish": "Tartışma Panosu",
           "spanish": "Panel de discusión",
+          "japanese": "-",
+          "chinese": "-",
+          "thai": "-",
           "arabic": "المناقشة لوحة"
         },
         "id": "adult-teacher-discussionboard-v1_0_0"
@@ -254,6 +329,9 @@
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
           "spanish": "Editar Perfil",
+          "japanese": "プロフィールの編集",
+          "chinese": "編輯個人檔案",
+          "thai": "แก้ไขข้อมูลส่วนตัว",
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-teacher-editprofile-v1_0_0"
@@ -266,6 +344,9 @@
         "english": "Student",
         "turkish": "Öğrenci",
         "spanish": "Estudiante",
+        "japanese": "生徒",
+        "chinese": "學生",
+        "thai": "นักเรียน",
         "arabic": "الطالب"
       },
     "docsList":{
@@ -275,6 +356,9 @@
           "english": "Registration",
           "turkish": "Kayıt",
           "spanish": "Registro",
+          "japanese": "登録",
+          "chinese": "註冊",
+          "thai": "ลงทะเบียน",
           "arabic": "التسجيل"
         },
         "id": "adult-student-registration-v1_0_0"
@@ -285,6 +369,9 @@
           "english": "Home",
           "turkish": "Anasayfa",
           "spanish": "Inicio",
+          "japanese": "ホーム",
+          "chinese": "首頁",
+          "thai": "หน้าหลัก",
           "arabic": "الصفحة الرئيسية"
         },
         "id": "adult-student-home-v1_0_0"
@@ -295,6 +382,9 @@
           "english": "Add a Level",
           "turkish": "Seviye Ekle",
           "spanish": "Añadir un Nivel",
+          "japanese": "レベルの追加",
+          "chinese": "新增等級",
+          "thai": "เพิ่มระดับชั้นเรียน",
           "arabic": "إضافة مستوى"
         },
         "id": "adult-student-addlevel-v1_0_0"
@@ -305,6 +395,9 @@
           "english": "Activities",
           "turkish": "Aktiviteler",
           "spanish": "Actividades",
+          "japanese": "アクティビティ",
+          "chinese": "學習活動",
+          "thai": "กิจกรรม",
           "arabic": "أنشطة"
         },
         "id": "adult-student-activities-v1_0_0"
@@ -315,6 +408,9 @@
           "english": "Glossary",
           "turkish": "Sözlük",
           "spanish": "Glosario",
+          "japanese": "グロッサリー",
+          "chinese": "詞庫",
+          "thai": "อภิธานศัพท์",
           "arabic": "المسرد"
         },
         "id": "adult-student-glossary-v1_0_0"
@@ -325,6 +421,9 @@
           "english": "Resources",
           "turkish": "Kaynaklar",
           "spanish": "Recursos",
+          "japanese": "リソース",
+          "chinese": "學習資源",
+          "thai": "ศูนย์ทรัพยากรการเรียนรู้",
           "arabic": "الموارد"
         },
         "id": "adult-student-resources-v1_0_0"
@@ -335,6 +434,9 @@
           "english": "Achievements",
           "turkish": "Başarılar",
           "spanish": "Logros",
+          "japanese": "アチーブメント",
+          "chinese": "學習成果",
+          "thai": "ความสำเร็จ",
           "arabic": "التحصيل"
         },
         "id": "adult-student-dashboard-v1_0_0"
@@ -345,6 +447,9 @@
           "english": "Report",
           "turkish": "Rapor",
           "spanish": "Informe",
+          "japanese": "レポート",
+          "chinese": "學習報告",
+          "thai": "รายงาน",
           "arabic": "التقرير"
         },
         "id": "adult-student-reportprogress-v1_0_0"
@@ -355,6 +460,9 @@
           "english": "Segment Report",
           "turkish": "Öğrenci Bölüm Raporu",
           "spanish": "Informe del segmento de estudiante",
+          "japanese": "-",
+          "chinese": "-",
+          "thai": "-",
           "arabic": "تقريرالطالب الجزئي"
         },
         "id": "adult-student-reportsegment-v1_0_0"
@@ -365,6 +473,9 @@
           "english": "Email",
           "turkish": "E-posta",
           "spanish": "Correo electrónico",
+          "japanese": "メール",
+          "chinese": "電子郵件",
+          "thai": "อีเมล",
           "arabic": "البريد الإلكتروني"
         },
         "id": "adult-student-email-v1_0_0"
@@ -375,6 +486,9 @@
           "english": "Discussion Board",
           "turkish": "Tartışma Panosu",
           "spanish": "Panel de discusión",
+          "japanese": "-",
+          "chinese": "-",
+          "thai": "-",
           "arabic": "المناقشة لوحة"
         },
         "id": "adult-student-discussionboard-v1_0_0"
@@ -385,6 +499,9 @@
           "english": "Media Center",
           "turkish": "Medya Merkezi",
           "spanish": "Centro de Medios",
+          "japanese": "メディアセンター",
+          "chinese": "媒體中心",
+          "thai": "ศูนย์รวมมัลติมีเดีย",
           "arabic": "مركز الوسائط"
         },
         "id": "adult-student-media-v1_0_0"
@@ -395,6 +512,9 @@
           "english": "Join a Class",
           "turkish": "Bir Sınıfa Katıl",
           "spanish": "Inscribirse a una Clase",
+          "japanese": "クラスへの参加登録",
+          "chinese": "加入班級",
+          "thai": "เข้าร่วมชั้นเรียน",
           "arabic": "الانضمام إلى فصل"
         },
         "id": "adult-student-classjoin-v1_0_0"
@@ -405,6 +525,9 @@
           "english": "Change Class",
           "turkish": "Sınıf Değiştir",
           "spanish": "Cambio de Clase",
+          "japanese": "クラスの変更",
+          "chinese": "更改班級",
+          "thai": "เปลี่ยนห้องเรียน",
           "arabic": "تغيير الفصل"
         },
         "id": "adult-student-classchange-v1_0_0"
@@ -415,6 +538,9 @@
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
           "spanish": "Editar Perfil",
+          "japanese": "プロフィールの編集",
+          "chinese": "編輯個人檔案",
+          "thai": "แก้ไขข้อมูลส่วนตัว",
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-student-editprofile-v1_0_0"
@@ -427,6 +553,9 @@
         "english": "Administrator",
         "turkish": "Yönetici",
         "spanish": "Administrador",
+        "japanese": "管理者",
+        "chinese": "管理人",
+        "thai": "ผู้ดูแลระบบ",
         "arabic": "مراقب النظام"
       },
     "docsList":{
@@ -436,6 +565,9 @@
           "english": "Registration",
           "turkish": "Kayıt",
           "spanish": "Registro",
+          "japanese": "登録",
+          "chinese": "註冊",
+          "thai": "ลงทะเบียน",
           "arabic": "التسجيل"
         },
         "id": "adult-admin-registration-v1_0_0"
@@ -446,6 +578,9 @@
           "english": "Home",
           "turkish": "Anasayfa",
           "spanish": "Inicio",
+          "japanese": "ホーム",
+          "chinese": "首頁",
+          "thai": "หน้าหลัก",
           "arabic": "الصفحة الرئيسية"
         },
         "id": "adult-admin-home-v1_0_0"
@@ -456,6 +591,9 @@
           "english": "Edit Profile",
           "turkish": "Profili Düzenle",
           "spanish": "Editar Perfil",
+          "japanese": "プロフィールの編集",
+          "chinese": "編輯個人檔案",
+          "thai": "แก้ไขข้อมูลส่วนตัว",
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-admin-editprofile-v1_0_0"

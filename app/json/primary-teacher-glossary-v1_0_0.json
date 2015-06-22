@@ -5,6 +5,9 @@
     "spanish": "Glosario",
     "spanish_la": "Glosario",
     "portuguese": "Glossário",
+    "japanese": "グロッサリー",
+    "chinese": "詞庫",
+    "thai": "อภิธานศัพท์",
     "arabic": "المسرد"
   },
  "segment": "primary",
@@ -20,6 +23,9 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
+        "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +39,9 @@
             "spanish": "El Glosario contiene todo el vocabulario básico de un nivel. Haga clic en una letra para acceder a las palabras del Glosario que comienzan con esa letra.",
             "spanish_la": "El Glosario contiene todo el vocabulario básico de un nivel. Haga click en una letra para acceder a las palabras del Glosario que comienzan con esa letra.",
             "portuguese": "O glossário contém todo o vocabulário principal presente em um determinado nível. Clique em uma letra para ir para as palavras que começam com essa letra presentes no glossário.",
+            "japanese": "Glossaryにはそのレベルの主なボキャブラリーがすべて掲載されています。グロッサリー内で、ある文字で始まる単語を検索する場合は、その文字をクリックします。",
+            "chinese": "詞庫包含同一等級的全部核心字彙。點擊一個字母，可以前往詞庫當中，以該字母為開頭的單字群組。",
+            "thai": "อภิธานศัพท์จะช่วยอธิบายความหมายเพิ่มเติมของคำศัพท์สำคัญทั้งหมดในระดับ  คลิกที่ตัวอักษร เพื่อหาคำศัพท์ทั้งหมดที่ขึ้นต้นด้วยหมวดตัวอักษรนั้น",
             "arabic": "يحتوي المسرد على جميع المفردات الأساسية في مستوى ما. انقر فوق حرف ما للانتقال إلى الكلمات التي تبدأ بهذا الحرف في المسرد."
           }
         },
@@ -46,6 +55,9 @@
             "spanish": "Escriba una palabra en el cuadro de texto para buscarla. El Glosario busca la palabra de forma automática.",
             "spanish_la": "Escriba una palabra en el cuadro de texto para buscarla. El Glosario busca la palabra de forma automática.",
             "portuguese": "Para procurar uma palavra específica, digite-a na caixa de texto. O glossário procurará a palavra desejada automaticamente.",
+            "japanese": "ある単語を検索する場合は、テキストボックスにその単語を入力します。グロッサリーが自動的にその単語を検索します。",
+            "chinese": "在文字區塊中輸入一個單字，可以搜尋此單字。詞庫會自動搜尋這個單字。",
+            "thai": "พิมพ์คำศัพท์ที่ต้องการทราบความหมายในช่องค้นหา ระบบจะค้นหาศัพท์คำนั้นให้โดยอัตโนมัติ",
             "arabic": "قم بكتابة كلمة في المربع الحواري للبحث عنها. سيبحث المسرد بشكل تلقائي عن الكلمة."
           }
         },
@@ -59,6 +71,9 @@
             "spanish": "Desplácese por el menú y elija una palabra para ver la imagen.",
             "spanish_la": "Desplácese por el menú y elija una palabra para ver la imagen.",
             "portuguese": "Navegue pelo menu e escolha uma palavra para visualizar a sua imagem.",
+            "japanese": "メニューをスクロールして単語を選ぶと、その画像を見ることができます。",
+            "chinese": "捲動選單的捲軸，可以選擇一個單字並觀看它的圖片。",
+            "thai": "เลื่อนเมนูเพื่อเลือกคำศัพท์ที่ต้องการดูรูปภาพอธิบาย",
             "arabic": "مرِّر من خلال القائمة واختر كلمة لرؤية الصورة."
           }
         },
@@ -72,6 +87,9 @@
             "spanish": "Haga clic en el icono para escuchar el audio, de estar disponible.",
             "spanish_la": "Haga click en el icono para escuchar el audio, de estar disponible.",
             "portuguese": "Clique no ícone para escutar o áudio, caso disponível.",
+            "japanese": "音声がある場合は、アイコンをクリックすると聞くことができます。",
+            "chinese": "點擊圖示就能收聽錄音檔（若有提供）。",
+            "thai": "คลิกที่สัญลักษณ์ เพื่อฟังเสียง  (ถ้ามี)",
             "arabic": "انقر على الأيقونة لسماع الصوت، إذا كان متاحًا."
           }
         }

@@ -177,3 +177,138 @@ ng-if="language.language == 'spanish'"
   </div><!--/welcome-page__container-->
 
 </div><!--/welcome-page SPANISH-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'japanese'"
+>
+
+  <h1 class="welcome-page__heading">[コースのタイトル]Online Practiceのヘルプへようこそ</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">Online Practice のヘルプを使用する</h2>
+      <p>生徒、先生、管理者のOnline Practiceのコースのさまざまなエリアを使用する際に必要なヘルプと手引きを探すには、左側のメニューを使用します。</p>
+      <p>各ヘルプセクションのテキストの一部をクリックすると、関連する番号がスクリーンショット上でハイライトされます。</p>
+      <p ng-if="appLanguages.length > 1">別の言語でOnline Practiceのヘルプエリアを使用する場合は、右側のメニューを使用します。</p>
+    </div>
+
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">推奨環境および対応デバイス</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Windows®:</h3>
+        <p>Internet Explorer 9以降、Firefox 28以降、Chrome 31以降</p>
+        <p>音声を録音するアクティビティに使用するため、Flash Player 11 以降のプラグインが必要。</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Mac® OS X:</h3>
+        <p>Firefox 25以降、Safari 7.0.2以降、 Chrome 33以降</p>
+        <p>音声を録音するアクティビティに使用するため、Flash Player 11 以降のプラグインが必要。</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Android®:</h3>
+        <p>O4.0以上。対応ブラウザ：Google® Chrome</p>
+        <p>動作検証済みの対応デバイス：Samsung® Galaxy Tab　2および3, Samsung® Galaxy Note 10.1（7インチおよび 10インチ）、 Google® Nexus 7、Google® Nexus 10</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">iOS®:</h3>
+        <p>iOS®6以上。対応ブラウザ：Safari</p>
+        <p>動作検証済みの対応デバイス： iPad® 2以降、 iPad® Mini、iPad® Air</p>
+      </div>
+      <p class="small-text">* 録音するアクティビティをWindows®とMac® OSXのコンピュータで行う場合は、Flash Player 11以降のプラグインが必要となります。Flash Playerの最新版をダウンロードするには、<a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a>にアクセスしてください。</p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page JAPANESE-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'chinese'"
+>
+
+  <h1 class="welcome-page__heading">歡迎來到 [課程標題] 線上練習說明</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">使用線上練習說明</h2>
+      <p>請使用左邊的滑出式選單，尋找您需要的線上練習課程說明與指引，分為學生、教師及管理人三種區域。</p>
+      <p>請在說明區當中點擊任一部份文字，觀看截圖裡面與此文字相關的重點提示。</p>
+      <p ng-if="appLanguages.length > 1">請使用右邊選單來使用不同語言版本的線上線息說明。</p>
+    </div>
+
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">建議使用的瀏覽器與支援的裝置型號</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Windows微軟系統：</h3>
+        <p>Internet Explorer 9以上版本、Firefox 28以上版本、Chrome 31以上版本</p>
+        <p>學習活動的錄音需要Flash Player 11以上版本的插件</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Mac蘋果電腦：</h3>
+        <p>Firefox 25以上版本、Safari 7.0.2以上版本、Chrome 33以上版本</p>
+        <p>學習活動的錄音需要Flash Player 11以上版本的插件</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Android安卓系統：</h3>
+        <p>系統必須是4.0以上版本，支援瀏覽器為Google Chrome</p>
+        <p>已測試過且可支援的行動裝置：三星平板Samsung Galaxy Tab v2 &#38; v3、三星手機Samsung Galaxy Note 10.1 7” &#38; 10”、Google手機Nexus 7、Nexus 10</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">iOS 蘋果行動裝置：</h3>
+        <p>系統必須是iOS6 以上版本，支援瀏覽器為Safari</p>
+        <p>已測試過且可支援的行動裝置：iPad 2 或更新的版本、iPad Mini、iPad® Air</p>
+      </div>
+      <p class="small-text">* 學習活動的錄音需要Flash Player 11以上版本的插件，請前往以下網站下載最新版本的Flash Player：<a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a></p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page CHINESE-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'thai'"
+>
+
+  <h1 class="welcome-page__heading">ยินดีต้อนรับสู่หน้าความช่วยเหลือ[ชื่อหลักสูตร]</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">การใช้งานความช่วยเหลือในแบบฝึกหัดออนไลน์</h2>
+      <p>ใช้เมนูด้านซ้าย เพื่อหาเมนู ช่วยเหลือ หรือ คำแนะนำ ที่แสดงในแต่ละหน้าของแบบฝึกหัดออนไลน์สำหรับนักเรียน  ครูผู้สอน และ ผู้ดูแลระบบ</p>
+      <p>คุณสามารถคลิกคำใดๆ ในพื้นที่ ช่วยเหลือ  โดยระบบจะเน้นข้อความส่วนที่เกี่ยวข้องไว้บนหน้าจอ</p>
+      <p ng-if="appLanguages.length > 1">ใช้เมนูด้านขวา  เพื่อเลือก ความช่วยเหลือการทำแบบฝึกหัดออนไลน์ในภาษาอื่น</p>
+    </div>
+
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">แนะนำเบราเซอร์ และอุปกรณ์เสริมที่ควรใช้ร่วมกัน</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">ระบบปฏิบัติการ Windows®:</h3>
+        <p>Internet Explorer 9 ขึ้นไป, Firefox 28 ขึ้นไป,Chrome 31 ขึ้นไป</p>
+        <p>Flash Player 11 ขึ้นไป จำเป็นต้องมีการติดตั้งเพื่อใช้ในการบันทึกกิจกรรม</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">ระบบ ปฏิบัติการ Mac® OSX:</h3>
+        <p>Firefox 25 ขึ้นไป, Safari 7.0.2 ขึ้นไป, Chrome 33 ขึ้นไป</p>
+        <p>Flash Player 11 ขึ้นไป จำเป็นต้องมีการติดตั้งเพื่อใช้ในการบันทึกกิจกรรม</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">ระบบ ปฏิบัติการ Android®:</h3>
+        <p>OS จะต้องเป็นรุ่น 4.0 หรือสูงกว่า และต้องสามารถใช้เบราเซอร์ Google Chrome ได้</p>
+        <p>สามารถใช้งานร่วมกับอุปกรณ์ : Samsung® Galaxy Tab v2 & v3, Samsung® Galaxy Note 10.1 7” & 10”, Google® Nexus 7, Google® Nexus 10</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">ระบบ ปฏิบัติการ iOS®:</h3>
+        <p>OS จะต้องเป็น iOS® 6 หรือสูงกว่า และสามารถใช้เบราเซอร์ Safari ได้</p>
+        <p>สามารถใช้งานร่วมกับอุปกรณ์ : iPad® 2 หรือใหม่กว่า, iPad® Mini, iPad® Air</p>
+      </div>
+      <p class="small-text">* *การบันทึกกิจกรรมบน ระบบ ปฏิบัติการ Windows® และระบบปฏิบัติการ Mac® OSX จำเป็นต้องติดตั้ง Flash Player 11 ขึ้นไป สามารถตรวจสอบและดาวน์โหลดรุ่นล่าสุดได้ที่เว็บ:<a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a></p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page THAI-->

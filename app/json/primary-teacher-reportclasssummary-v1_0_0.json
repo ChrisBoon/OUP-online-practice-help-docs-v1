@@ -5,6 +5,9 @@
     "spanish": "Informe de Resumen de Clase",
     "spanish_la": "Informe de Resumen de Clase",
     "portuguese": "Relatório resumido da turma",
+    "japanese": "クラス用サマリーレポート",
+    "chinese": "班級簡要報告",
+    "thai": "รายงานสรุปห้องเรียนโดยรวม",
     "arabic": "تقرير موجز الفصل"
   },
  "segment": "primary",
@@ -20,6 +23,9 @@
         "spanish": "",
         "spanish_la": "",
         "portuguese": "",
+        "japanese": "",
+        "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -33,6 +39,9 @@
             "spanish": "Utilice el menú para ir al Informe de la Clase para una clase específica (puede ver el trabajo de los estudiantes específicos de una clase).",
             "spanish_la": "Utilice el menú para ir al Informe de la Clase de una clase específica (puede ver el trabajo de los estudiantes específicos de una clase).",
             "portuguese": "Use o menu para ir de um relatório de turma para uma aula específica (que você pode visualizar o trabalho de alunos específicos em uma turma).",
+            "japanese": "特定のクラスのクラスレポートに進む場合は、このメニューを使用します（クラス内の特定の生徒の学習状況を表示することができます）。",
+            "chinese": "請使用選單前往特定班級的班級報告（您可以觀看班級裡面特定學生的表現）。",
+            "thai": "เมนูนี้ สำหรับอ่านรายงานของห้องเรียนที่ต้องการ  (คุณสามารถอ่านรายงานของนักเรียนแต่ละคนในห้องเรียนได้ด้วย)",
             "arabic": "استخدم القائمة للذهاب إلى تقرير الفصل الخاص بفصل معين (يمكنك استعراض أعمال طلاب محددين في فصل ما)."
           }
         },
@@ -46,6 +55,9 @@
             "spanish": "También puede hacer clic en el título de la clase para ver un informe de la clase.",
             "spanish_la": "También puede hacer click en el título de la clase para ver un informe de la clase.",
             "portuguese": "Você também pode clicar no título de uma turma para visualizar o seu relatório.",
+            "japanese": "クラスのタイトルをクリックしても、クラスレポートを表示することができます。",
+            "chinese": "您也可以點擊班級的標題，觀看班級報告。",
+            "thai": "คลิกที่ ชื่อห้องเรียน เพื่ออ่านรายงานประจำห้อง",
             "arabic": "يمكنك أيضًا النقر علىعنوانفصل ما لعرض التقرير الخاص به."
           }
         },
@@ -59,6 +71,9 @@
             "spanish": "Haga clic aquí para ver un Informe de la Unidad. Puede ver las puntuaciones de los estudiantes para todas las lecciones de la unidad.",
             "spanish_la": "Haga click aquí para ver un Informe de la Unidad. Puede ver las puntuaciones de los estudiantes para todas las lecciones de la unidad.",
             "portuguese": "Clique aqui para visualizar um relatório de unidade. Você pode visualizar as notas dos alunos em todas as lições da unidade.",
+            "japanese": "ユニットレポートを表示するには、こちらをクリックします。生徒のそのユニットの全レッスンの得点を見ることができます。",
+            "chinese": "點此處，可觀看單元報告。您可以看到學生在同一單元當中，全部課程的得分。",
+            "thai": "คลิกที่นี่  เพื่ออ่านรายงานตามหัวข้อการสอน  คุณสามารถดูคะแนนของนักเรียน ในทุกหน่วยบทเรียน",
             "arabic": "انقر هنا لعرض تقرير وحدة ما. يمكنك أن ترى درجات الطلاب لجميع الدروس في الوحدة."
           }
         },
@@ -72,6 +87,9 @@
             "spanish": "Esta fila muestra el número medio de las actividades realizadas para cada unidad de esta clase. Por ejemplo, si el número es 8/9, 8 es el número promedio de actividades realizadas en la unidad, y 9 es el número total de actividades en la unidad.",
             "spanish_la": "Esta fila muestra el número medio de las actividades realizadas para cada unidad de esta clase. Por ejemplo, si el número es 8/9, 8 es el número promedio de actividades realizadas en la unidad, y 9 es el número total de actividades en la unidad.",
             "portuguese": "Esta linha exibe o número médio de atividades concluídas em cada unidade a esta turma. Por exemplo, se o número for 8/9, 8 é o número médio de atividades completadas na unidade, e 9 é o número total de atividades na unidade.",
+            "japanese": "この行は、このクラスが各ユニットで完了したアクティビティの平均数を表します。例えば、その数が8/9だとすれば、8はそのユニットで完了したアクティビティの平均数であり、9はそのユニットのアクティビティの合計数です。",
+            "chinese": "這一行顯示本班學生在每個單元所完成的學習活動平均數目。例如，如果數字是8/9，8代表在這個單元完成的學習活動平均數目，9代表這個單元裡面全部的活動總數。",
+            "thai": "จำนวนเฉลี่ยของกิจกรรมที่ทำสำเร็จแล้วของทั้งห้องเรียนแบ่งตามหัวข้อเช่น   ถ้าตัวเลขแสดงที่ 8/9 8 คือจำนวนเฉลี่ยของนักเรียนที่ทำกิจกรรมสำเร็จแล้ว  ส่วนเลข 9 คือ จำนวนกิจกรรมทั้งหมดที่นักเรียนต้องทำ",
             "arabic": "يبين هذا الصف متوسط عدد الأنشطة المُنجَزة في كل وحدة لهذا الفصل. على سبيل المثال: إذا كان العدد هو8/9، فإن 8 هو متوسط عدد الأنشطة المُنجَزة في الوحدة، و9 هو إجمالي الأنشطة في الوحدة."
           }
         },
@@ -85,6 +103,9 @@
             "spanish": "Esta fila muestra la puntuación media para cada unidad de esta clase.",
             "spanish_la": "Esta fila muestra la puntuación media para cada unidad de esta clase.",
             "portuguese": "Esta linha exibe a pontuação média em cada unidade para esta turma.",
+            "japanese": "この行は、このクラスの各ユニットの平均点を表します。",
+            "chinese": "這一行顯示本班學生在這個單元所得到的平均分數。",
+            "thai": "คะแนนเฉลี่ยของทั้งห้องเรียน  แบ่งตามหัวข้อ",
             "arabic": "يبين هذا الصف متوسط الدرجةفي كل وحدة لهذا الفصل."
           }
         },
@@ -98,6 +119,9 @@
             "spanish": "Esta fila muestra la cantidad promedio de tiempo que los estudiantes de esta clase han trabajado en cada unidad.",
             "spanish_la": "Esta fila muestra la cantidad promedio de tiempo que los estudiantes de esta clase han trabajado en cada unidad.",
             "portuguese": "Esta linha exibe a quantidade média de tempo que os alunos desta turma gastaram em cada unidade.",
+            "japanese": "この行は、このクラスの生徒が各ユニットの学習に費やした平均時間を表します。",
+            "chinese": "這一行顯示本班學生在每個單元所花費的平均時間。",
+            "thai": "เวลาเฉลี่ยของนักเรียนที่ใช้ในการกิจกรรมแต่ละหัวข้อ",
             "arabic": "يُظهِر هذا الصف متوسط مقدار الوقت الذي قضاه الطالب في هذا الفصل بالعمل في كل وحدة."
           }
         },
@@ -111,6 +135,9 @@
             "spanish": "Este es el total del número promedio de actividades realizadas en todo el nivel para esta clase. Por ejemplo, si el número es 80/90, 80 es el total del número promedio de actividades realizadas en las distintas unidades, y 90 es el número total de actividades en el nivel.",
             "spanish_la": "Este es el total del número promedio de actividades realizadas en todo el nivel para esta clase. Por ejemplo, si el número es 80/90, 80 es el total del número promedio de actividades realizadas en las distintas unidades, y 90 es el número total de actividades en el nivel.",
             "portuguese": "Este é o total do número médio de atividades concluídas durante todo o nível desta turma. Por exemplo, se o número é 80/90, 80 é a soma do número médio de atividades entre as unidades concluídas, e 90 é o número total de atividades presentes no nível.",
+            "japanese": "これは、このクラスのそのレベル全体のアクティビティに対する、完了したアクティビティの平均数です。例えば、その数が80/90だとすれば。80は完了したアクティビティの平均数であり、90はそのレベルのアクティビティの合計数です。",
+            "chinese": "這是本班學生在整個級數所完成的學習活動平均數目總和。例如，如果數字是80/90，80代表學生在各單元所完成的學習活動平均數目總和，而90代表此級數中全部的學習活動數目總和。",
+            "thai": "จำนวนเฉลี่ยของกิจกรรมที่ทำสำเร็จแล้วของนักเรียนในห้องนี้ เช่น  ถ้าตัวเลขแสดงที่ 80/90 80 คือจำนวนเฉลี่ยของกิจกรรมที่นักเรียนทำสำเร็จแล้วในทุกหัวข้อ  และ 90คือจำนวนกิจกรรมทั้งหมดที่นักเรียนต้องทำใน",
             "arabic": "هذا هو إجمالي متوسط عدد الأنشطة المُنجَزة في مستوى كامل لهذا الفصل. على سبيل المثال: إذا كان الرقم 80/90، فإن 80 هو إجمالي متوسط عدد الأنشطة المُنجَزة في الوحدة، و90 هو إجمالي الأنشطة في المستوى."
           }
         },
@@ -124,6 +151,9 @@
             "spanish": "Esta es la puntuación media de todas las unidades en el nivel.",
             "spanish_la": "Esta es la puntuación media de todas las unidades en el nivel.",
             "portuguese": "Esta é a pontuação média dentre as unidades no nível.",
+            "japanese": "これは、そのレベルのユニット全体の平均点です。",
+            "chinese": "這是同一級數中各單元的平均分數。",
+            "thai": "คะแนนเฉลี่ยตามหน่วยบทเรียน",
             "arabic": "هذا هو متوسط الدرجة عبر الوحدات في المستوى."
           }
         },
@@ -137,6 +167,9 @@
             "spanish": "Este es el total de la cantidad promedio de tiempo que los estudiantes dedicaron a las actividades en cada unidad para todo el nivel.",
             "spanish_la": "Este es el total de la cantidad promedio de tiempo que los estudiantes dedicaron a las actividades en cada unidad para todo el nivel.",
             "portuguese": "Este é o total da quantidade média de tempo gasto pelos alunos nas atividades em cada unidade durante todo o nível.",
+            "japanese": "これは、生徒がそのレベル全体のアクティビティに費やした各ユニットの平均時間の合計です。",
+            "chinese": "這是學生在同一級數中，各單元學習活動所花費的平均時間總和。",
+            "thai": "เวลาเฉลี่ยของนักเรียนที่ใช้ในการทำกิจกรรม",
             "arabic": "هذا هو إجمالي متوسط الوقت في كل وحدة والذي يقضيه الطلاب في الأنشطة خلال المستوى."
           }
         },
@@ -150,6 +183,9 @@
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
             "spanish_la": "Haga click aquí para exportar este informe en formato Microsoft Excel™. ",
             "portuguese": "Clique aqui para exportar este relatório para o Microsoft Excel™.",
+            "japanese": "このレポートをMicrosoft Excel™にエクスポートするには。こちらをクリックします。",
+            "chinese": "點此處用Microsoft Excel格式輸出這份報告。",
+            "thai": "คลิกที่นี่  เพื่อบันทึกรายงานเป็นไฟล์ Excel",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -163,6 +199,9 @@
             "spanish": "Haga clic aquí para imprimir este informe.",
             "spanish_la": "Haga click aquí para imprimir este informe.",
             "portuguese": "Clique aqui para imprimir este relatório.",
+            "japanese": "このレポートを印刷するには、こちらをクリックします。",
+            "chinese": "點此處列印這份報告。",
+            "thai": "คลิกที่นี่ เพื่อพิมพ์หน้านี้",
             "arabic": "اانقر هنا لطباعة هذا التقرير."
           }
         }
