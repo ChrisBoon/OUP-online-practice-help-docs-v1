@@ -5,7 +5,7 @@
     "spanish_la": "Centro de Medios",
     "japanese": "メディアセンター",
     "chinese": "媒體中心",
-    "thai": "ศูนย์รวมสื่อมัลติมีเดีย",
+    "thai": "ศูนย์รวมมัลติมีเดีย",
     "portuguese": "Centro de mídia"
   },
  "segment": "primary",
@@ -35,7 +35,7 @@
             "spanish_la": "El Centro de Medios proporciona archivos de audio de las clases para su uso, de estar disponibles.",
             "japanese": "クラス用の音声ファイルとビデオファイルが視聴可能な場合は、メディアセンターからアクセスすることができます。",
             "chinese": "媒體中心為您提供目前可以使用的課程錄音以及影片檔案。",
-            "thai": "ศูนย์รวมมัลติมีเดียสื่อ  จะรวบรวมไฟล์เสียง และคลิปวิดีโอ ที่ใช้ประกอบการเรียนให้คุณสามารถใช้งานได้ (ถ้ามี)",
+            "thai": "ศูนย์รวมมัลติมีเดีย จะรวมไฟล์เสียง และคลิปวิดีโอสำหรับใช้ประกอบการเรียนให้คุณได้ใช้งาน (ถ้ามี)",
             "portuguese": "O Centro de mídia fornece a vocȇ os arquivos de áudio que estejam disponíveis."
           }
         },
@@ -49,7 +49,7 @@
             "spanish_la": "Haga click en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
             "japanese": "音声ファイルのタイトルをクリックします。オーディオプレーヤーが表示され、音声を再生します。矢印のボタンを使うと、再生や一時停止ができます。トラック間の移動や音量の調節にはコントロール機能を使用してください。",
             "chinese": "點擊一個錄音檔案標題，播放程式會自動出現並播放此錄音檔案。使用箭號按鈕來播放與暫停該曲目，使用控制面板來變換曲目以及調整音量。",
-            "thai": "คลิกที่ชื่อไฟล์เสียง  ระบบจะปรากฏขึ้น และเล่นไฟล์เสียงที่คุณเลือก  คลิกที่ลูกศรเพื่อเล่นหรือหยุดเล่นชั่วคราว  ใช้แถบควบคุม สำหรับเล่นไฟล์เสียงถัดไป หรือปรับระดับความดังของเสียง ",
+            "thai": "คลิกที่ชื่อไฟล์เสียง ระบบจะปรากฏแถบควบคุมการเล่นขึ้น และเล่นไฟล์ที่คุณเลือก คลิกที่ลูกศรเพื่อเล่นหรือหยุดชั่วคราว สามารถใช้แถบควบคุมเพื่อเล่นไฟล์ถัดไป หรือปรับระดับเสียง  ",
             "portuguese": "Clique no título de um arquivo de áudio. Um player de áudio aparecerá e reproduzirá o arquivo. Use o botão de seta para iniciar e pausar a reprodução da faixa. Use os controles para percorrer a faixa de áudio e alterar o volume."
           }
         }

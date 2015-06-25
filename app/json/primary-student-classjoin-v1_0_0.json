@@ -7,7 +7,7 @@
     "portuguese": "Participe de uma turma",
     "japanese": "クラスへの参加登録",
     "chinese": "加入班級",
-    "thai": "เข้าห้องเรียน",
+    "thai": "เข้าร่วมห้องเรียน",
     "arabic": "الانضمام إلى فصل"
   },
  "segment": "primary",
@@ -41,7 +41,7 @@
             "portuguese": "Insira o novo código de identificação de turma aqui e, em seguida, clique em \"Save\". Um código de identificação de turma pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua turma para que o seu professor possa visualizá-lo.",
             "japanese": "こちらにクラスIDコードを入力し、Save[保存]をクリックします。このコードは、先生から渡されるものです。このコードは学習状況とクラスをリンクして、先生が確認できるようにするものです。",
             "chinese": "在此處輸入您的班級代碼，然後點擊Save（儲存）。班級代碼由您的教師提供，將您的課業連結到您的班級，讓您的教師可以看到。",
-            "thai": "ใส่รหัสของห้องเรียนที่นี่ คลิก ”บันทึก” รหัสจะช่วยให้ครูผู้สอนเห็นผลงานที่คุณได้ทำ คุณสามารถขอรหัสของห้องเรียนได้จากครูผู้สอน ",
+            "thai": "ใส่รหัสห้องเรียนที่นี่ และคลิก ”บันทึก” รหัสนี้จะทำให้ครูผู้สอนมองเห็นงานที่คุณได้ทำ หากไม่ทราบรหัสคุณสามารถขอรหัสได้จากครูผู้สอน ",
             "arabic": "أأدخل رمز مُعرِّف الفصل الخاص بك هنا ثم انقر على “Save”(\"حفظ\"). يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه."
           }
         },
@@ -57,7 +57,7 @@
             "portuguese": "Clique aqui para enviar o seu novo código de identificação de turma e voltar para a sua página inicial.",
             "japanese": "クラスIDコードを送信してホームページに戻るには、こちらをクリックします。",
             "chinese": "點此處送出您的班級代碼，並回到首頁。",
-            "thai": "คลิกที่นี่  เพื่อยืนยันรหัสของห้องเรียน และกลับหน้าหลัก",
+            "thai": "คลิกที่นี่ เพื่อยืนยันรหัสและกลับหน้าหลัก",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وعُد لصفحتك الرئيسية."
           }
         },
@@ -73,7 +73,7 @@
             "portuguese": "Clique aqui para voltar para a página anterior sem participar de uma turma.",
             "japanese": "クラスに参加登録しないで前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁，不加入班級。",
-            "thai": "คลิกที่นี่ เพื่อยกเลิก และย้อนกลับหน้าที่แล้ว",
+            "thai": "คลิกที่นี่ เพื่อยกเลิกและกลับหน้าที่แล้ว",
             "arabic": "انقر هنا للرجوع إلى الصفحة السابقة بدون الانضمام إلى أحد الفصول."
           }
         }
