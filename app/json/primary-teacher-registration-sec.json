@@ -5,7 +5,7 @@
     "spanish_la": "Registro de Profesores",
     "japanese": "教師の登録",
     "chinese": "教師註冊",
-    "thai": "ลงทะเบียนครูผู้สอน",
+    "thai": "ลงทะเบียนของครูผู้สอน",
     "portuguese": "Registro do professor"
   },
  "segment": "primary",
@@ -92,7 +92,7 @@
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
-            "thai": "คลิกที่นี่ เพื่อย้อนกลับหน้าที่แล้ว",
+            "thai": "คลิกที่นี่ เพื่อกลับหน้าที่แล้ว",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         }
@@ -304,7 +304,7 @@
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
-            "thai": "คลิกที่นี่ เพื่อย้อนกลับหน้าที่แล้ว",
+            "thai": "คลิกที่นี่ เพื่อกลับหน้าที่แล้ว",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         }
@@ -347,7 +347,7 @@
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
-            "thai": "คลิกที่นี่  เพื่อย้อนกลับหน้าที่แล้ว",
+            "thai": "คลิกที่นี่  เพื่อกลับหน้าที่แล้ว",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         },
@@ -404,7 +404,7 @@
             "spanish_la": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga click en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
             "japanese": "最初のクラス名を入力してください。後からクラスを追加作成する場合は、登録が終わってからホームページにアクセスして、Manage Classes[クラスの管理]をクリックします。",
             "chinese": "為您的第一個班級輸入名稱。如果之後想要新增更多班級，請在完成註冊後，由您的首頁點擊「管理班級」。",
-            "thai": "ใส่ชื่อห้องเรียนของคุณ หากต้องการเพิ่มห้องเรียน  หลังจากล็อกอิน คลิกที่ “การจัดการห้องเรียน”",
+            "thai": "ใส่ชื่อห้องเรียนแรกของคุณ หากต้องการสร้างเพิ่มในภายหลัง ให้คลิก \"การจัดการห้องเรียน\" จากหน้าหลัก",
             "portuguese": "Digite um nome para a sua primeira turma. Para criar turmas adicionais posteriormente, clique em \"Manage Classes\" a partir de sua página inicial quando você finalizar o registro."
           }
         },
@@ -418,7 +418,7 @@
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
-            "thai": "คลิกที่นี่  เพื่อย้อนกลับหน้าที่แล้ว",
+            "thai": "คลิกที่นี่ เพื่อย้อนกลับหน้าที่แล้ว",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         },
@@ -432,7 +432,7 @@
             "spanish_la": "Haga click aquí para saltarse esta página sin ingresar un nombre de clase.",
             "japanese": "クラス名を入力しないでこのページをスキップする場合は、こちらをクリックします。",
             "chinese": "點此處略過此頁，不輸入班級名稱。",
-            "thai": "คลิกที่นี่  เพื่อข้ามหน้านี้ไป  ",
+            "thai": "คลิกที่นี่ เพื่อข้ามหน้านี้ไป  ",
             "portuguese": "Clique aqui para pular esta página sem digitar um nome de turma."
           }
         },
@@ -446,7 +446,7 @@
             "spanish_la": "Haga click aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "japanese": "クラス名を送信して次のページに進むには、こちらをクリックします。",
             "chinese": "點此處送出您的班級名稱並前往下一頁。",
-            "thai": "คลิกที่นี่   เพื่อยืนยันชื่อห้องเรียน  และไปหน้าถัดไป",
+            "thai": "คลิกที่นี่  เพื่อยืนยันชื่อห้องเรียน  และไปหน้าถัดไป",
             "portuguese": "Clique aqui para enviar o nome da sua turma e para ir para a próxima página."
           }
         }
@@ -475,7 +475,7 @@
             "spanish_la": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "japanese": "今回登録されたクラスIDコードが決まりました。このコードを生徒に渡すと、生徒はクラスに参加登録ができ、先生が生徒の学習状況を確認することができます。",
             "chinese": "這是您在前一個畫面所命名班級的班級代碼，將這個代碼提供給您的學生，以便他們加入您的班級，而您也能夠看到他們的課業。",
-            "thai": "นี่คือรหัสของห้องเรียนที่คุณได้สร้างจากหน้าที่แล้ว  ให้รหัสนี้กับนักเรียนของคุณ  เพื่อคุณจะได้อ่านรายงานและติดตามความคืบหน้าในการทำกิจกรรมของนักเรียนได้",
+            "thai": "นี่คือรหัสห้องเรียนที่คุณได้สร้างจากหน้าที่แล้ว แจกรหัสนี้ให้กับนักเรียนของคุณทุกคนเพื่อคุณจะได้เข้ามาดูรายงานความคืบหน้าในการทำกิจกรรมของนักเรียนได้",
             "portuguese": "Este é o código de identificação de turma para a turma nomeada na tela anterior. Forneça esse código para os seus alunos para que eles possam participar da sua turma e para que você possa visualizar os seus trabalhos."
           }
         },
