@@ -3,6 +3,7 @@
     "english": "Glossary",
     "turkish": "Sözlük",
     "spanish": "Glosario",
+    "korean": "용어집",
     "arabic": "المسرد"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "", 
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "The Glossary contains all core vocabulary in a level. Click on a letter to go to the words beginning with that letter in the Glossary.",
             "turkish": "Sözlük, bir seviyedeki temel kelimelerin tümünü içerir. Sözlükte o harfle başlayan kelimelere gitmek için bir harfe tıklayın.",
             "spanish": "El Glosario contiene todo el vocabulario básico de un nivel. Haga clic en una letra para acceder a las palabras del Glosario que comienzan con esa letra.",
+            "korean": "용어집은 레벨의 모든 핵심 단어가 포함되어 있습니다. 글자를 클릭하면 용어집에서 그 글자로 시작하는 단어를 볼 수 있습니다.",
             "arabic": "يحتوي المسرد على جميع المفردات الأساسية في مستوى ما. انقر فوق حرف ما للانتقال إلى الكلمات التي تبدأ بهذا الحرف في المسرد."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Type a word in the text box to search for a word. The Glossary automatically searches for the word.",
             "turkish": "Bir kelimeyi aramak için metin kutusuna girin. Sözlük otomatik olarak kelimeyi aratır.",
             "spanish": "Escriba una palabra en el cuadro de texto para buscarla. El Glosario busca la palabra de forma automática.",
+            "korean": "텍스트 상자에 단어를 입력하면 단어를 검색합니다. 용어집은 자동으로 단어를 검색합니다.",
             "arabic": "قم بكتابةكلمة في المربع الحواري للبحث عنها. سيبحث المسرد بشكل تلقائي عن الكلمة."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Scroll through the menu and choose a word to see the definition and examples.",
             "turkish": "Menüyü kaydırarak bir kelime seçip, tanımını ve örnekleri görebilirsiniz.",
             "spanish": "Avance por el menú y elija una palabra para ver su definición y ejemplos.",
+            "korean": "메뉴를 스크롤하여 단어를 골라 정의와 예시를 보십시오.", 
             "arabic": "أمرر على القائمة من البداية حتى النهاية واختر كلمة لكي تشاهد التعريف والأمثلة."
           }
         }

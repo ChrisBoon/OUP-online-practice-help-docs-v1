@@ -3,6 +3,7 @@
     "english": "Change Class",
     "turkish": "Sınıf Değiştir",
     "spanish": "Cambio de Clase",
+    "korean": "수업 변경",
     "arabic": "تغيير الفصل"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "Enter your new class ID code here and then click “Save”.",
             "turkish": "Yeni sınıf ID kodunuzu buraya girin ve ardından “Save” düğmesine tıklayın.",
             "spanish": "Ingrese su nuevo código de ID de clase aquí y haga clic en \"Save\".",
+            "korean": "새로운 수업 ID 코드를 여기에 입력하고 \"저장\"을 클릭하십시오.",
             "arabic": "أدخل رمز مُعرِّف الفصل الجديد الخاص بك هنا ثم انقر على “Save”(\"حفظ\")."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Click here to submit your new class ID code and return to your Home page.",
             "turkish": "Yeni sınıf ID kodunuzu girmek ve Anasayfanıza dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su nuevo código de ID de clase y regresar a su página de Inicio.",
+            "korean": "새로운 수업 ID 코드를 제출하고 홈페이지로 돌아가려면 여기를 클릭하십시오.",
             "arabic": "اانقر هنا لإرسال رمز مُعرِّف الفصل الجديد الخاص بك وعُد إلى صفحتك الرئيسية."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Click here to go back to the previous page without changing your class.",
             "turkish": "Sınıfınızı değiştirmeden bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior sin cambiar su clase.",
+            "korean": "여기를 클릭하면 수업을 변경하지 않고 이전 페이지로 돌아갑니다.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة بدون تغيير الفصل الخاص بك."
           }
         }

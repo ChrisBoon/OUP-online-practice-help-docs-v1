@@ -3,6 +3,7 @@
     "english": "Manage Classes",
     "turkish": "Sınıfları Yönet",
     "spanish": "Administrar Clases",
+    "korean": "수업 관리",
     "arabic": "إدارة الفصول"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
         "arabic": ""
       },
       "paragraphs":{

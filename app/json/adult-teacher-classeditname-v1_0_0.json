@@ -3,6 +3,7 @@
     "english": "Edit Class Name",
     "turkish": "Sınıf Adını Değiştir",
     "spanish": "Editar Nombre de la Clase",
+    "korean": "수업명 편집", 
     "arabic": "تحرير اسم الفصل"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "", 
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "Enter the new name for your class. Then click “Save”. If you do not want to change the name of your class, click “Cancel”.",
             "turkish": "Sınıfınız için yeni bir ad yazın. Ardından “Save”e tıklayın. Sınıfınızın adını değiştirmek istemiyorsanız, “Cancel” seçeneğine tıklayın.",
             "spanish": "Ingrese el nuevo nombre para la clase. Luego haga clic en \"Save\". Si no desea cambiar el nombre de su clase, haga clic en \"Cancel\".",
+            "korean": "수업의 새 이름을 입력하십시오. 그 다음으로 “저장\"을 클릭하십시오. 수업 이름을 변경하지 않으시려면 “취소\"를 클릭하십시오.", 
             "arabic": "أدخل الاسم الجديد لفصلك. ثم انقر على “Save”(\"حفظ\"). إذا كنت لا ترغب في تغيير اسم فصلك، فانقر على “Cancel”(\"إلغاء\")."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Click here to save your class name and return to the Class Details page.",
             "turkish": "Sınıf adınızı kaydetmek ve Sınıf Bilgileri sayfasına geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar el nombre de su clase y regresar a la página de Detalles de la Clase.",
+            "korean": "수업명을 저장하고 수업 세부사항 페이지로 돌아가려면 여기를 클릭하십시오.", 
             "arabic": "انقر هنا لحفظ اسم فصلك والعودة إلى صفحة التفاصيل الخاصة بالفصل."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Click here to go back to the Class Details page without saving any changes.",
             "turkish": "Değişiklikleri kaydetmeden Sınıf Bilgileri sayfasına geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página de Detalles de la Clase sin guardar los cambios.",
+            "korean": "변경사항을 저장하지 않고 수업 세부사항 페이지로 돌아가려면 여기를 클릭하십시오.",
             "arabic": "انقر هنا للعودة إلى صفحة تفاصيل الفصل دون حفظ أي تغييرات."
           }
         }

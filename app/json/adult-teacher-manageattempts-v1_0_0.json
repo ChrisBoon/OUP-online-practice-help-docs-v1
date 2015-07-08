@@ -3,6 +3,7 @@
     "english": "Manage Attempts",
     "turkish": "Denemeleri Yönet",
     "spanish": "Administrar los intentos",
+    "korean": "시도 관리", 
     "arabic": "إدارة المحاولات"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "", 
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "This page allows you to change the information you see in your reports.",
             "turkish": "Bu sayfa, raporlarınızda gördüğünüz bilgileri değiştirmenizi sağlar.",
             "spanish": "Esta página le permite cambiar la información que visualiza en sus informes.",
+            "korean": "이 페이지에서는 보고서에서 보는 정보를 변경할 수 있습니다.", 
             "arabic": "تتيح لك هذه الصفحة إجراء تغيير في معلومات تراها في تقاريرك."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Click here to manage attempts for a different class.",
             "turkish": "Başka bir sınıfın denemelerini yönetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para administrar los intentos para una clase diferente.",
+            "korean": "다른 수업의 시도를 관리하려면 여기를 클릭하십시오.", 
             "arabic": "أنقر هنا لإدارة محاولات لصف مختلف."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Click here to show the first attempt on each activity. Students can continue to practice, but you will only see their first score in your reports.",
             "turkish": "Her bir aktivitenin ilk denemesini görmek için buraya tıklayın. Öğrenciler denemeye devam edebilir, ancak siz raporlarda sadece ilk öğrenci puanlarını göreceksiniz.",
             "spanish": "Haga clic aquí para mostrar el primer intento en cada actividad. Los estudiantes pueden continuar practicando, pero usted solo verá la primera puntuación en sus informes.",
+            "korean": "각 활동의 첫 시도를 확인하려면 여기를 클릭하십시오. 학생은 실습을 계속할 수 있으나 귀하께서는 보고서에서 처음 점수만 보실 수 있습니다.", 
             "arabic": "أنقر هنا لكي ترى المحاولة الاولى لكل نشاط. يستطيع الطلاب الاستمرار في الممارسة، لكنك سترى فقط درجتهم الاولى في تقاريرك."
           }
         },
@@ -60,6 +65,7 @@
             "english": "Click here to show the last attempt on each activity. Students can continue to practice, but you will only see their last score in your reports. (This is the default setting.)",
             "turkish": "Her bir aktivitenin son denemesini görmek için buraya tıklayın. Öğrenciler denemeye devam edebilir, ancak siz raporlarda sadece son öğrenci puanlarını göreceksiniz. (Bu otomatik ayardır.)",
             "spanish": "Haga clic aquí para mostrar el último intento en cada actividad. Los estudiantes pueden continuar practicando, pero usted solo verá la última puntuación en sus informes. (Esta es la configuración predeterminada).",
+            "korean": "각 활동의 최종 시도를 보려면 여기를 클릭하십시오. 학생은 실습을 계속할 수 있으나 귀하께서는 보고서에서 마지막 점수만 보실 수 있습니다. (이것은 기본 설정입니다)", 
             "arabic": "أنقر هنا لكي ترى المحاولة الأخيرة لكل نشاط. يستطيع الطلاب الاستمرار في الممارسة، لكنك سترى فقط  درجتهم الاخيرة في تقاريرك. (هذا هو الإعداد الافتراضي.)"
           }
         },

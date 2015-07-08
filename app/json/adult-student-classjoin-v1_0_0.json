@@ -3,6 +3,7 @@
     "english": "Join a Class",
     "turkish": "Bir sınıfa katılma",
     "spanish": "Inscribirse a una clase",
+    "korean": "수업 참여",
     "arabic": "الانضمام إلى فصل"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "Enter your class ID code here and then click “Save”. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it.",
             "turkish": "Sınıf kimlik (ID) kodunuzu buraya girin ve ardından “Save” seçeneğine tıklayın. Sınıf ID kodu öğretmeniniz tarafından size verilen bir koddur ve C-... ile başlar. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar.",
             "spanish": "Ingrese su código de ID de clase aquí y haga clic en \"Save\". Su profesor le puede otorgar un código de ID de clase. Este código vincula su trabajo a su clase para que su profesor pueda verlo.",
+            "korean": "수업 ID 코드를 여기에 입력하고 \"저장\"을 클릭하십시오. 수업 ID 코드는 교사가 제공할 수 있는 코드입니다. 이 코드는 본인의 학습을 수업에 연결하여 교사가 볼 수 있도록 합니다. ",
             "arabic": "أأدخل رمز مُعرِّف الفصل الخاص بك هنا ثم انقر على “Save”(\"حفظ\"). يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Click here to submit your class ID code and return to your Home page.",
             "turkish": "Ders ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
             "spanish": "Sınıf ID kodunuzu göndermek ve Anasayfanıza dönmek için buraya tıklayın.",
+            "korean": "수업 ID 코드를 제출하고 홈페이지로 돌아가려면 여기를 클릭하십시오.", 
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وعُد لصفحتك الرئيسية."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Click here to go back to the previous page without joining a class.",
             "turkish": "Derse katılmadan bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Sınıfa katılmadan bir önceki sayfaya geri dönmek için buraya tıklayın.",
+            "korean": "여기를 클릭하면 수업에 참여하지 않고 이전 페이지로 돌아갑니다.",
             "arabic": "انقر هنا للرجوع إلى الصفحة السابقة بدون الانضمام إلى أحد الفصول."
           }
         }

@@ -3,6 +3,7 @@
     "english": "Achievements",
     "turkish": "Başarılar",
     "spanish": "Logros",
+    "korean": "성과",
     "arabic": "التحصيل"
   },
  "segment": "primary",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "", 
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "Click here to see your Reports.",
             "turkish": "Raporlarınızı görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver sus Informes.",
+            "korean": "여기를 클릭하여 성적을 확인하세요.",
             "arabic": "انقر هنا لرؤية تقاريرك."
           }
         },
@@ -38,6 +41,7 @@
             "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect!",
             "turkish": "Çevrim İçi Uygulama seviyenizin her bir ünitesindeki aktiviteleri tamamladığınızda yıldız kazanırsınız. Puanlarınız arttıkça aldığınız yıldızlar da artar!",
             "spanish": "Al ir realizando las actividades en cada unidad de su nivel de Práctica Online podrá recolectar estrellas. Cuantos más puntos anote, mayor número de estrellas obtendrá.",
+            "korean": "온라인 실습의 본인 레벨에서 각 단원 활동을 완료하면 별을 받을 수 있습니다. 점수가 높아지면 더 많은 별이 모입니다!", 
             "arabic": "عندما تكمل نشاطات في كل وحدة من مستواك في الممارسة عبر شبكة الإنترنت يمكنك أن تجمع نجوم. وكلما تسجل مزيداً من الدرجات كلما تجمع المزيد من النجوم!"
           }
         },
@@ -49,6 +53,7 @@
             "english": "If you score 30% of the total possible points in a unit, you will be awarded a star.",
             "turkish": "Bir ünite için mümkün toplam puanın %30’unu aldığınızda bir yıldız kazanırsınız.",
             "spanish": "Si anota un 30% del total de puntos posibles en una unidad se le otorgará una estrella.",
+            "korean": "단원에서 총점의 30%를 받으면 별을 하나 받습니다.", 
             "arabic": "إذا سجّلت 30٪ من مجموع النقاط الممكنة في وحدة ما فإنك سوف تُمنح نجماً واحداً."
           }
         },
@@ -60,6 +65,7 @@
             "english": "If you score 70% of the total possible points in a unit, you will be awarded two stars.",
             "turkish": "Bir ünite için mümkün toplam puanın %70’ini aldığınızda iki yıldız kazanırsınız.",
             "spanish": "Si anota un 70% del total de puntos posibles en una unidad se le otorgarán dos estrellas.",
+            "korean": "단원에서 총점의 70%를 받으면 별을 두 개 받습니다.", 
             "arabic": "إذا سجّلت 70٪ من مجموع النقاط الممكنة في وحدة ما فإنك سوف تُمنح نجمتان."
           }
         },
@@ -71,6 +77,7 @@
             "english": "If you score 90% of the total possible points in a unit, you will be awarded three stars.",
             "turkish": "Bir ünite için mümkün toplam puanın %90’ını aldığınızda üç yıldız kazanırsınız.",
             "spanish": "Si anota un 90% del total de puntos posibles en una unidad se le otorgarán tres estrellas.",
+            "korean": "단원에서 총점의 90%를 받으면 별을 세 개 받습니다.",
             "arabic": "إذا سجّلت 90٪ من مجموع النقاط الممكنة في وحدة ما فإنك سوف تُمنح ثلاثة نجوم."
           }
         },
@@ -82,6 +89,7 @@
             "english": "If you score 100% of the total possible points in a unit, you will be awarded a bonus trophy.",
             "turkish": "Bir ünitede toplam olası puanların %100’ünü alırsanız kupayla ödüllendirilirsiniz.",
             "spanish": "Si obtiene el 100% del total de puntos posibles en una unidad, se le otorgará un trofeo extra.",
+            "korean": "단원에서 총점의 100%를 받으면 보너스 트로피를 받습니다.",
             "arabic": "إذا سجّلت 100% من مجموع النقاط الممكنة في وحدة ما, فسوف يتم منحك ميداليةمكافأة."
           }
         },
@@ -93,6 +101,7 @@
             "english": "This is your Dashboard. The Online Practice is divided into several areas, for example, Tests, Vocabulary, and Practice. The Dashboard shows your activity results for a level across the different areas.",
             "turkish": "Bu, Gösterge Panonuzdur. Çevrim İçi Uygulama, örneğin Testler, Kelime Hazinesi ve Uygulama gibi alanlara ayrılmıştır. Gösterge Panosu, bir seviyenin çeşitli alanlarındaki aktivite sonuçlarınızı gösterir.",
             "spanish": "Este es su Tablero. La Práctica Online se divide en varias áreas, por ejemplo: Pruebas, Vocabulario y Práctica. El tablero muestra los resultados de su actividad para un nivel a en todas las diferentes áreas.",
+            "korean": "여기는 대시보드입니다. 온라인 실습은 시험, 어휘, 실습과 같은 여러 영역으로 나눠져 있습니다. 대시보드는 여러 영역의 레벨에 대한 활동 결과를 표시합니다. ",
             "arabic": "هذه هي لوحة بيانتك والتي ترى فيها الممارسة عبر شبكة الإنترنت مقسّم الى عدة مجالات وعلى سبيل المثال ، إختبارات ، مفردات الكلمات والممارسة.تعرض لك لوحة البيانات نتائج النشاط  لمستوى ما عبر مجالات مختلفة."
           }
         },
@@ -104,6 +113,7 @@
             "english": "Results for activities within different areas are displayed as a percentage based on the average score of all completed activities in an area within a level.",
             "turkish": "Farklı beceri alanlarındaki aktivite sonuçları bir seviye içerisindeki beceri alanında tamamlanan tüm aktivitelerin ortalama puanına göre bir yüzde değer olarak görüntülenir.",
             "spanish": "Los resultados para actividades dentro de las diferentes áreas de habilidades se muestran como un porcentaje en base a la puntuación media de todas las actividades realizadas en un área de habilidades dentro de un nivel.",
+            "korean": "여러 영역의 활동 결과는 레벨에 포함된 영역에서 완료한 모든 활동의 평균 점수를 토대로 백분율로 표시됩니다.",
             "arabic": "يتم عرض نتائج الأنشطة التي تنتمي لمجالات مختلفة من المهارات كنسبة مئوية على أساس متوسط درجات كل الأنشطة المُنجَزة في مجال من المهارات خلال مستوى ما."
           }
         },
@@ -115,6 +125,7 @@
             "english": "The number of completed activities is shown here along with the total number of activities in an area.",
             "turkish": "Burada, bir alanda tamamlanmış olan aktivite sayısı, alandaki toplam aktivite sayısı ile birlikte gösterilir.",
             "spanish": "El número de actividades realizadas se muestra aquí junto con el número total de actividades en un área.",
+            "korean": "완료된 활동의 수는 영역의 활동 총수와 함께 여기에 표시됩니다.", 
             "arabic": "إن عدد النشاطات الكاملة معروض هنا  على طول مع العدد الكلي للنشاطات الموجودة في مجالا ما."
           }
         }

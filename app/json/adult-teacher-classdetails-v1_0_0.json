@@ -3,6 +3,7 @@
     "english": "Class Details",
     "turkish": "Sınıf Bilgileri",
     "spanish": "Detalles de la Clase",
+    "korean": "수업 세부사항", 
     "arabic": "تفاصيل الفصل"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "", 
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "Click here to change the name of this class.",
             "turkish": "Bu sınıfın adını değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar el nombre de esta clase.",
+            "korean": "이 수업의 이름을 변경하려면 여기를 클릭하십시오.", 
             "arabic": "انقر هنا لتغيير اسم هذا الفصل."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Check this box to delete this student from this class. Then click “Save Changes”.",
             "turkish": "Bu öğrenciyi bu sınıftan çıkarmak için bu kutuyu işaretleyin. Sonra, “Save Changes’ düğmesini tıklayın.",
             "spanish": "Marque esta casilla para suprimir al estudiante de esta clase. Entonces haga clic en “Save Changes”.",
+            "korean": "이 상자를 클릭하여 수업에서 학생을 제거하십시오. 그 다음으로 “변경사항 저장\"을 클릭하십시오.", 
             "arabic": "ضع علامة في هذا المربع لكي تحذف هذا الطالب من هذا الصف، ثم انقر على “Save Changes”  \"احفظ التغييرات\"."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Click here to go back to the previous screen. If you did not click “Save Changes”, your changes will not be saved.",
             "turkish": "Önceki ekrana dönmek için buraya tıklayın. “Save Changes” düğmesini tıklamadıysanız yaptığınız değişiklikler kaydedilmez.",
             "spanish": "Haga clic aquí para regresar a la pantalla anterior. Si no hizo clic en “Save Changes” se perderán sus cambios.",
+            "korean": "이전 화면으로 돌아가려면 여기를 클릭하십시오. “변경사항 저장\"을 클릭하지 않으면 변경사항은 저장되지 않습니다.",
             "arabic": "أنقر هنا لكي ترجع الى الشاشة السابقة . إذا لم تنقر على “Save Changes” \"احفظ التغييرات\". فإن الغييرات التي كتبتها سوف لن تُحفظ."
           }
         },
@@ -60,6 +65,7 @@
             "english": "Click here to save the changes you made to this class.",
             "turkish": "Bu sınıfta yaptığınız değişiklikleri kaydetmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios realizados a esta clase.",
+            "korean": "본 수업의 변경사항을 저장하려면 여기를 클릭하십시오.", 
             "arabic": "أنقر هنا لكي تحفظ التغييرات التي قمت بها لهذا الصف."
           }
         }

@@ -3,6 +3,7 @@
     "english": "Home",
     "turkish": "Anasayfa",
     "spanish": "Inicio",
+    "korean": "홈", 
     "arabic": "الصفحة الرئيسية"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "Choose your level",
         "turkish": "Seviyenizi seçin",
         "spanish": "Elija su nivel",
+        "korean": "레벨 선택", 
         "arabic": "حدد مستواك"
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "When you enter Online Practice or click on the Home icon at the top of the screen you will see the levels of your course here. Choose the level you want to enter.",
             "turkish": "Çevrim İçi Uygulamaya girdiğinizde veya ekranın üst kısmındaki Ana Sayfa simgesini tıkladığınızda dersinizin seviyelerini burada göreceksiniz. Girmek istediğiniz seviyeyi seçin.",
             "spanish": "Cuando ingresa en Práctica Online o hace clic en el icono de Inicio en la parte superior de la pantalla verá los niveles de su curso aquí. Elija el nivel al que desee ingresar.",
+            "korean": "온라인 실습을 입력하시거나 화면 상단의 홈 아이콘을 클릭하시면 과정의 레벨을 볼 수 있습니다. 들어가고자 하는 레벨을 선택하십시오.", 
             "arabic": "عندما تدخل الممارسة عبر الانترنت أو تنقر على ايقونة الصفحة الرئيسية في أعلى الشاشة سوف تجد هنا مستويات مقررك الدراسي. إختر المستوى الذي ترغب الدخول فيه."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Click on “Add a level” to add another level if you have an access code.",
             "turkish": "Bir erişim kodunuz varsa yeni bir seviye eklemek için “Add a level” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Añadir un nivel\" para agregar otro nivel si tiene un código de acceso.",
+            "korean": "접속 코드가 있다면 \"레벨 추가\"를 클릭하여 다른 레벨을 추가하십시오.", 
             "arabic": "انقر على “Add a level”(\"أضف مستوى\") لإضافة مستوى آخر إذا كان لديك رمز دخول."
           }
         }
@@ -50,6 +54,7 @@
         "english": "Choose an Online Practice area",
         "turkish": "Bir Online Uygulama alanı seçin",
         "spanish": "Elija un área de Práctica Online",
+        "korean": "온라인 실습 영역 선택", 
         "arabic": "اختر منطقة الممارسة عبر شبكة الإنترنت"
       },
       "paragraphs":{
@@ -61,6 +66,7 @@
             "english": "Click here to change to a different level.",
             "turkish": "Farklı bir seviyeye geçmek için buraya tıklayın.",
             "spanish": "Presione aquí para cambiar a un nivel diferente.",
+            "korean": "여기를 클릭하여 다른 레벨로 변경하십시오.", 
             "arabic": "انقر هنا للتغيير إلى مستوى مختلف."
           }
         },
@@ -72,6 +78,7 @@
             "english": "Click here to enter the Online Practice Activity area.",
             "turkish": "Online Uygulama Aktivitesi alanına girmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ingresar al área de Actividades de la Práctica Online.",
+            "korean": "온라인 실습 활동 영역으로 들어가려면 여기를 클릭하십시오.", 
             "arabic": "انقر هنا لدخول منطقة ممارسة النشاط عبر شبكة الإنترنت."
           }
         },
@@ -83,6 +90,7 @@
             "english": "Click here to see your Report, Trophy Room, and Grades. These show your achievements and progress for all of the activities in this level.",
             "turkish": "Raporunuzu, Zafer Odanızı ve Puanlarınızı görmek için buraya tıklayın. Bunlar bu seviyedeki bütün aktiviteler için başarılarınızı ve ilerlemenizi gösterir.",
             "spanish": "Haga clic aquí para ver su Informe, Sala de trofeos, y Calificaciones. Estos muestran sus logros y avances para todas las actividades en este nivel.",
+            "korean": "여기를 클릭하여 보고서, 트로피 방, 성적을 확인하십시오. 여기에서는 본 레벨에서 수행한 모든 활동의 성과와 학업 진행을 표시합니다.",
             "arabic": "أنقر هنا لكي تشاهد تقريرك، غرفة المدالية والدرجات التي تبيّن لك إنجازاتك والتقدم الحاصل لجميع الأنشطة في هذا المستوى."
           }
         },
@@ -94,6 +102,7 @@
             "english": "Click here to use the Email area. You can message your teacher and other students in your Online Practice class. The Email icon appears here when you have joined a class.",
             "turkish": "E-posta alanını kullanmak için buraya tıklayın. Online Uygulama sınıfınızdaki öğretmen ve diğer öğrencilere mesaj gönderebilirsiniz. Bir sınıfa katıldığınızda burada bir E-posta simgesi görünür.",
             "spanish": "Haga clic aquí para utilizar el área de Correo electrónico. Puede enviar mensajes a su profesor y a los demás estudiantes en su clase de Práctica Online. El icono de Email [Correo electrónico] aparecerá aquí cuando se haya inscrito a una clase.",
+            "korean": "이메일 영역을 이용하려면 여기를 클릭하십시오. 온라인 실습 수업의 교사와 다른 학생들에게 메시지를 보낼 수 있습니다. 수업에 참여하면 이메일 아이콘이 여기에 표시됩니다.", 
             "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني. يمكنك مراسلة معلمك والطلاب الآخرين المُدرَجين في فصل الممارسة عبر شبكة الإنترنت الخاص بك. تظهر أيقونة البريد الإلكتروني هنا بعد أن تنضم لأحد الفصول."
           }
         },
@@ -105,6 +114,7 @@
             "english": "Click here to use the Discussion Board. You can join in discussions with your teacher and other students in your Online Practice class. The Discussion Board icon appears here when you have joined a class.",
             "turkish": "Tartışma Panosunu kullanmak için buraya tıklayın. Çevrim İçi Uygulama dersinizin öğretmeni ve diğer öğrencilerle tartışmalara katılabilirsiniz. Bir derse katıldığınızda Tartışma Panosu simgesi burada görünür.",
             "spanish": "Haga clic aquí para usar el Panel de discusión. Puede unirse a las discusiones con su maestro y otros estudiantes en su clase de Práctica Online. Aquí aparece el icono del Panel de discusión al incorporarse a una clase.",
+            "korean": "게시판을 이용하려면 여기를 클릭하십시오. 온라인 실습 수업의 교사 및 다른 학생들과 토론에 참여할 수 있습니다. 수업에 참여하면 게시판 아이콘이 여기에 표시됩니다.",
             "arabic": "أنقر هنا لكي تستعمل لوحة المناقشة حيث يمكنك أن تشترك في المناقشات  مع مدرسك وطلاب آخرين  في صفك بالممارسة عبر الانترنت. يظهر هنا رمز لوحة المناقشة عندما  تكون قد إلتحقت بصف دراسي."
           }
         },
@@ -116,6 +126,7 @@
             "english": "Click here to access the Media Center to listen to class audio and watch videos, if available.",
             "turkish": "Varsa sınıfta işlenen derslerin ses kayıtlarını dinlemek ve videoları izlemek üzere Medya Merkezine erişmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para acceder al Centro de Medios para escuchar el audio de la clase y ver videos, de estar disponibles.",
+            "korean": "미디어 센터에서 이용 가능한 음성 수업과 영상 수업을 받으려면 여기를 클릭하십시오.", 
             "arabic": "انقر هنا للوصول إلى مركز الوسائط للاستماع إلى صوت الفصل ومشاهدة مقاطع الفيديو، إذا كان ذلك متاحًا."
           }
         },
@@ -127,6 +138,7 @@
             "english": "Click here to access the Resources area where you can find extra resources that will support you with your Online Practice.",
             "turkish": "Online Uygulamanızda sizi destekleyecek olan fazladan kaynaklara göz atabileceğiniz Kaynaklar alanına erişmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para acceder al área de Recursos, donde podrá encontrar recursos adicionales que le servirán de apoyo para su Práctica Online.",
+            "korean": "여기를 클릭하여 자료 영역에 접속하면 온라인 수업을 지원하는 추가 자료를 볼 수 있습니다.",
             "arabic": "انقر هنا للدخول إلى منطقة الموارد حيث يمكنك أن تجد الموارد الإضافية التي سوف تدعمك في الممارسة عبر شبكة الإنترنت."
           }
         },
@@ -138,6 +150,7 @@
             "english": "Click here to join an Online Practice class or change class. You will need a class code from your teacher to do this.",
             "turkish": "Online Uygulama sınıfına katılmak veya sınıf değiştirmek için buraya tıklayın. Bunu yapabilmeniz için öğretmeninizden (C-... ile başlayan) bir sınıf kodu almanız gerekecektir.",
             "spanish": "Haga clic aquí para inscribirse a una clase de Práctica Online o cambiar de clase. Necesitará que su profesor le otorgue un código de clase para hacer esto.",
+            "korean": "온라인 실습 수업에 참여하거나 수업을 변경하려면 여기를 클릭하십시오. 이 작업을 수행하려면 교사로부터 수업 코드를 받아야 합니다.", 
             "arabic": "اانقر هنا للانضمام إلى فصل الممارسة عبر شبكة الإنترنت، أو تغيير الفصل. سوف تحتاج إلى رمز خاص بالفصل من معلمك للقيام بذلك."
           }
         }

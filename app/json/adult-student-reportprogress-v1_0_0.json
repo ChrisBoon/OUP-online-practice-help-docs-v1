@@ -3,6 +3,7 @@
     "english": "Report",
     "turkish": "Rapor",
     "spanish": "Informe",
+    "korean": "보고서", 
     "arabic": "التقرير"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "This page shows your activity scores for all segments in your level of Online Practice.",
             "turkish": "Bu sayfa, Çevrim İçi Uygulama seviyenizin tüm bölümlerindeki aktivite puanlarınızı gösterir.",
             "spanish": "Esta página muestra sus puntuaciones de actividades para todos los segmentos en su nivel de Práctica Online.",
+            "korean": "이 페이지는 본인의 온라인 수업 레벨에 포함된 모든 세그먼트의 활동 점수를 표시합니다.",
             "arabic": "تعرض لك هذه الصفحة درجات نشاطك لجميع الاقسام في مستواك المتعلق بالممارسة عبر الانترنت."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Use this menu to display reports for all segments or for a specific segment.",
             "turkish": "Tüm bölümlerin ya da belirli bir bölümün raporunu görmek için bu menüyü kullanın.",
             "spanish": "Use este menú para mostrar todos los informes para todos los segmentos o para un segmento específico.",
+            "korean": "이 메뉴를 이용하여 전체 세그먼트이나 특정 세그먼트의 보고서를 표시합니다.", 
             "arabic": "إستعمل هذه القائمة لكي تعرض تقارير لجميع الاقسام أو لقسم معين."
           }
         },
@@ -49,6 +53,7 @@
             "english": "This row shows the total score of all activities attempted in each unit. The score is shown out of the total number of possible points in the attempted activities.",
             "turkish": "Bu satır, her bir ünitede denediğiniz tüm aktivitelerden aldığınız toplam puanı gösterir. Puan, denenen aktivitelerden mümkün toplam puan ile birlikte görünür.",
             "spanish": "Esta fila muestra la puntuación total de todas las actividades intentadas en cada unidad. La puntuación se muestra según el total de puntos posibles en las actividades intentadas.",
+            "korean": "이 행은 각 단원에서 시도한 모든 활동의 총점을 표시합니다. 점수는 시도한 활동의 총점에 대한 점수로 표시됩니다.",
             "arabic": "يبيّن هذا الصف الدرجة الكلية لجميع الانشطة التي جُربت في كل وحدة. الدرجة معروضة من بين العدد الكلي للنقاط الممكنة في الانشطة المُجربة."
           }
         },
@@ -60,6 +65,7 @@
             "english": "This row shows the total number of activity attempts in each unit.",
             "turkish": "Bu satır, her bir ünitedeki toplam aktivite denemelerinin sayısını gösterir.",
             "spanish": "Esta fila muestra el número total de intentos de actividades en cada unidad.",
+            "korean": "이 행은 각 단원에서 시도한 활동의 총 수를 표시합니다.", 
             "arabic": "يبيّن هذا الصف العدد الكلي لمحاولات النشاط في كل وحدة."
           }
         },
@@ -71,6 +77,7 @@
             "english": "This row shows the time spent on activities in each unit.",
             "turkish": "Bu satır, her bir ünitenin aktivitelerinde harcanan zamanı gösterir.",
             "spanish": "Esta fila muestra el tiempo dedicado a las actividades en cada unidad.",
+            "korean": "이 행은 각 단원의 활동에 소요된 시간을 표시합니다.", 
             "arabic": "يبيّن هذا الصف الوقت الذي بُذل في عمل الانشطة في كل وحدة."
           }
         },
@@ -82,6 +89,7 @@
             "english": "The total score in a specific segment is shown here.",
             "turkish": "Belirli bir bölümün toplam puanı burada gösterilir.",
             "spanish": "Aquí se muestra la puntuación total en un segmento específico.",
+            "korean": "특정 세그먼트의 총점은 여기에 표시됩니다.", 
             "arabic": "الدرجة الكلية المتعلقة بالقسم الخاص معروضة هنا."
           }
         },
@@ -93,6 +101,7 @@
             "english": "The total number of activity attempts in a specific segment is shown here.",
             "turkish": "Belirli bir bölümdeki toplam aktivite denemelerinin sayısı burada gösterilir.",
             "spanish": "Aquí se muestra el número total de intentos de actividades en un segmento específico.",
+            "korean": "특정 세그먼트의 총 활동 시도 건수는 여기에 표시됩니다.", 
             "arabic": "العدد الكلي لمحاولات الانشطة المتعلقة بالقسم الخاص معروضة هنا."
           }
         },
@@ -104,6 +113,7 @@
             "english": "The total time taken on all activity attempts in a specific segment is shown here.",
             "turkish": "Belirli bir bölümdeki aktivite denemeleri için harcanan toplam zaman burada gösterilir.",
             "spanish": "Aquí se muestra el tiempo total dedicado a los intentos de actividades en un segmento específico.",
+            "korean": "특정 세그먼트의 모든 활동 시도에 소요된 시간은 여기에 표시됩니다.", 
             "arabic": "الوقت الكلي المستغرق في جميع محاولات النشاط المتعلقة بالقسم الخاص معروض هنا."
           }
         },
@@ -115,6 +125,7 @@
             "english": "Click here to see your activity scores displayed as a percentage of the total number of points available.",
             "turkish": "Mevcut puanların toplam sayısının bir yüzdesi şeklinde görüntülenen aktivite puanlarınızı görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver la puntuación de la actividad como un porcentaje del número total de puntos disponibles.",
+            "korean": "활동 점수를 백점 만점의 점수로 보려면 여기를 클릭하십시오.",
             "arabic": "انقر هنا لرؤية درجات النشاط الخاص بك وهي معروضة كنسبة مئوية من العد الإجمالي للنقاط المتوفرة."
           }
         }

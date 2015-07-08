@@ -3,6 +3,7 @@
     "english": "Discussion Board",
     "turkish": "Tartışma panosu",
     "spanish": "Panel de discusión",
+    "korean": "게시판", 
     "arabic": "المناقشة لوحة"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "Reply to a post",
         "turkish": "Bir gönderiyi yanıtlayın",
         "spanish": "Responder a un mensaje",
+        "korean": "게시물에 대한 답변", 
         "arabic": "الرد على منشور"
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "This is where you can view and reply to all of the current posts.",
             "turkish": "Burada güncel mesajları görebilir ve yanıtlayabilirsiniz.",
             "spanish": "Aquí es donde se puede ver y responder a todas las publicaciones actuales.",
+            "korean": "여기에서는 모든 현재 게시물을 보고 답변을 할 수 있습니다.",
             "arabic": "هذا هو الموقع الذي يمكنك فيه مشاهدة جميع النشرات الحالية والرد عليها."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Click “Show” to view other students' replies.",
             "turkish": "Diğer öğrencilerin cevaplarını görmek için “Show” düğmesini tıklayın.",
             "spanish": "Haga clic en “Show” para ver las respuestas de otros estudiantes.",
+            "korean": "다른 학생의 답변을 보시려면 \"보기\"를 클릭하십시오." ,
             "arabic": "أنقر على “Show”  \"عرض\" لمشاهدة ردود الطلاب الآخرين."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Click “Hide” to hide the replies.",
             "turkish": "Cevapları kapatmak için “Hide” düğmesini tıklayın.",
             "spanish": "Haga clic en “Hide” para ocultar las respuestas.",
+            "korean": "\"숨기기\"를 클릭하여 답변을 가릴 수 있습니다.",
             "arabic": "أنقر على “Hide” \"إخفاء\" لكي تخفي الردود."
           }
         },
@@ -60,6 +65,7 @@
             "english": "Click “Reply” to reply to a post. A text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
             "turkish": "Bir mesajı yanıtlamak için “Reply” düğmesini tıklayın. Cevapladığınız mesajın altında bir metin kutusu açılacaktır. Cevabınızı doğrudan tartışmaya ekleyebilirsiniz.",
             "spanish": "Haga clic en “Reply” para responder a una publicación. Una caja de texto se abrirá abajo de la publicación que se está contestando. Usted puede ingresar su respuesta directamente dentro de la discusión.",
+            "korean": "\"답변\"을 클릭하여 게시물에 답변을 달 수 있습니다. 답변하신 게시물 아래에 텍스트 상자가 열립니다. 게시판 내에서 직접 답변을 입력할 수 있습니다.",
             "arabic": "أنقر على “Reply”  \"رد\"  لكي تجيب على نشرة ما. سيفتح لك صندوق نصي تحت الاعلان الذي ترد عليه حيث يمكنك إدخال ردك مباشرة ضمن المناقشة."
           }
         },
@@ -71,6 +77,7 @@
             "english": "Click “Post” to post your reply to the discussion.",
             "turkish": "Tartışmaya yanıtınızı göndermek için “Post” düğmesini tıklayın.",
             "spanish": "Haga clic en “Post” para publicar su respuesta a la discusión.",
+            "korean": "\"게시\"를 클릭하면 게시판에 답변을 달 수 있습니다.",
             "arabic": "أنقر على“Post”  \"نشر\"  لكي ترسل ردك الى المناقشة."
           }
         },
@@ -82,6 +89,7 @@
             "english": "Click “Cancel” if you do not want to post your reply.",
             "turkish": "Yanıtınızı göndermek istemiyorsanız “Cancel” düğmesini tıklayın.",
             "spanish": "Haga clic en “Cancel” si no desea publicar su respuesta.",
+            "korean": "답변을 게시하지 않으려면 \"취소\"를 클릭하십시오.",
             "arabic": "أنقر على“Cancel” \"حذف\" إذا كنت لا تريد أن ترسل ردك."
           }  
         }
@@ -94,6 +102,7 @@
         "english": "Write a post",
         "turkish": "Bir mesaj yaz",
         "spanish": "Redactar una publicación",
+        "korean": "게시물 쓰기",
         "arabic": "كتابة منشور"
       },
       "paragraphs":{
@@ -105,6 +114,7 @@
             "english": "You can create a new post by clicking the “Create New Thread” button. A new window will open. Your teacher and any student in your Online Practice class can see your post and reply to it.",
             "turkish": "“Create new thread” düğmesini tıklayıp yeni bir mesaj oluşturabilirsiniz. Yeni bir pencere açılacaktır. Çevrim İçi Uygulama dersinizin öğretmeni ve herhangi bir öğrencisi mesajınızı görüp yanıtlayabilir.",
             "spanish": "Se puede crear una nueva publicación haciendo clic en el botón “Create New Thread”. Se abrirá una nueva ventana. Su maestro y cualquier estudiante en su clase de Práctica Online pueden ver su publicación y responder a ella.",
+            "korean": "\"새로운 스레드 만들기\" 버튼을 클릭하여 새로운 게시물을 생성할 수 있습니다. 새로운 창이 열립니다. 교사와 온라인 실습 수업의 모든 학생이 나의 게시물을 보고 답변을 달 수 있습니다. ", 
             "arabic": "يمكنك أن تنشئ إعلاناً جديداً عن طريق النقر على مفتاح“Create New Thread” \"إنشاء محتوى منشور جديد\". عندئذ يُفتح لك نافذة جديدة. يتمكن مدرسك وأي طالب آخر في صف الممارسة عبر الانترنت من مشاهدة نشرتك والرد عليها."
           }
         }
@@ -117,6 +127,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -128,6 +139,7 @@
             "english": "Type here to give your post a title.",
             "turkish": "Mesajınızın başlığını buraya yazın.",
             "spanish": "Escriba aquí para ingresar el título de su publicación.",
+            "korean": "여기를 클릭하여 게시물에 제목을 달 수 있습니다.",
             "arabic": "إطبع هنا  لكي تعطي عنوانا لنشرتك."
           }
         },
@@ -139,6 +151,7 @@
             "english": "Type your message in the blank text area under the formatting buttons.",
             "turkish": "Mesajınızı, format düğmelerinin altındaki boş metin alanına yazın.",
             "spanish": "Escriba su mensaje en el área de texto en blanco abajo de los botones de formato.",
+            "korean": "형식 버튼 아래 빈 텍스트 영역에 메시지를 입력하십시오.",
             "arabic": "إطبع رسالتك في مجال النص الفارغ تحت أزرار التنسيق."
           }
         },
@@ -150,6 +163,7 @@
             "english": "Click “Post” after you’ve finished typing your message.",
             "turkish": "Mesajınızı yazdıktan sonra “Post” düğmesini tıklayın.",
             "spanish": "Haga clic en “Post” (Publicar) después de escribir su mensaje.",
+            "korean": "메시지 입력을 완료하신 다음 \"게시\"를 클릭하십시오. ", 
             "arabic": "أنقر على“Post”  \"نشر\" بعد أن الانتهاء من طباعة رسالتك."
           }
         }
