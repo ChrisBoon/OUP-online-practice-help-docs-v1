@@ -163,6 +163,7 @@
             "english": "Click here if you do not have a class ID code.",
             "turkish": "Bir sınıf ID kodunuz yoksa buraya tıklayın.",
             "spanish": "Haga clic aquí si no tiene un código de ID de clase.",
+            "korean": "수업 ID 코드가 없다면 여기를 클릭하십시오.",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول."
           }
         },
@@ -174,6 +175,7 @@
             "english": "Click here to submit your class ID code and go to your Home page.",
             "turkish": "Sınıf ID kodunuzu onaylamak ve Anasayfanıza gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el código de ID de clase y ser dirigido a su página de Inicio.",
+            "korean": "수업 ID 코드를 제출하고 홈페이지로 가려면 여기를 클릭하십시오.", 
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وانتقل للصفحة الرئيسية الخاصة بك."
           }
         }
