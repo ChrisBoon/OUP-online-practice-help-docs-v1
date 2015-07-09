@@ -3,6 +3,7 @@
     "english": "Class Report",
     "turkish": "Ders Raporu",
     "spanish": "Informe de la Clase",
+    "korean": "수업 보고서", 
     "arabic": "التقرير الخاص بالفصل "
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "This screen shows reports for all students in a class.",
             "turkish": "Bu ekran bir sınıftaki tüm öğrencilerin raporlarını gösterir.",
             "spanish": "Esta pantalla muestra los informes para todos los estudiantes en una clase.",
+            "korean": "이 화면은 수업에 참여하는 모든 학생의 보고서를 표시합니다.", 
             "arabic": "تُظهِر هذه الشاشة تقارير جميع الطلاب في فصل ما."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Use this menu to see a report for a different class.",
             "turkish": "Farklı sınıfa ait bir rapor görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un informe para una clase diferente.",
+            "korean": "이 메뉴를 이용하여 다른 수업의 보고서를 볼 수 있습니다.", 
             "arabic": "استخدم هذه القائمة لرؤية تقرير ما لفصل مختلف."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Use this menu to see reports for an individual student or all students.",
             "turkish": "Sadece bir öğrencinin ya da tüm öğrencilerin raporlarını görüntülemek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver los informes para un estudiante en particular o para todos los estudiantes.",
+            "kroean": "이 메뉴를 이용하여 개별 학생이나 전체 학생의 보고서를 볼 수 있습니다.", 
             "arabic": "استخدم هذه القائمة لرؤية تقارير طالب ما على حدة أو تقارير كل الطلاب."
           }
         },
@@ -60,6 +65,7 @@
             "english": "You can also click on a student’s name to see their results across segments.",
             "turkish": "Bir öğrencinin adını tıklayıp, bölümlerde aldığı sonuçları görebilirsiniz.",
             "spanish": "También puede hacer clic en el nombre de un alumno para ver sus resultados entre los segmentos.",
+            "korean": "이 메뉴를 이용하여 개별 학생이나 전체 학생의 보고서를 볼 수 있습니다.", 
             "arabic": "يمكنك أيضاً النقر على إسم الطالب لكي ترى نتائجهم عبرَ الأقسام."
           }
         },
@@ -71,6 +77,7 @@
             "english": "Use this menu to filter the report to see students’ results in a particular segment.",
             "turkish": "Bu menüyü kullanarak raporu süzüp öğrencilerin belirli bir bölümde aldığı sonuçları görebilirsiniz.",
             "spanish": "Utilice este menú para filtrar el informe y ver los resultados de los alumnos en un segmento particular.",
+            "korean": "이 메뉴를 이용하여 보고서를 필터링하여 특정 세그먼트의 학생 성적을 볼 수 있습니다.",
             "arabic": "إستعمل هذه القائمة لتحديد التقرير كي ترى نتائج الطلاب في قسم معيّن."
           }
         },
@@ -82,6 +89,7 @@
             "english": "You can also click on a segment title to see results in a segment.",
             "turkish": "Ayrıca, bir bölümün başlığına tıklayıp o bölümde alınan sonuçları görebilirsiniz.",
             "spanish": "También puede hacer clic en el título de un segmento para ver los resultados en un segmento.",
+            "korean": "또한 세그먼트 제목을 클릭하여 세그먼트의 성적을 볼 수 있습니다.", 
             "arabic": "يمكنك أيضاً النقر على عنوان القسم كي ترى النتائج في ذلك القسم."
           }
         },
@@ -93,6 +101,7 @@
             "english": "This row shows the average number of completed activities in each segment for the class.",
             "turkish": "Bu satır, sınıf için her bir bölümde tamamlanmış aktivitelerin ortalama sayısını gösterir.",
             "spanish": "Esta fila muestra el número promedio de actividades realizadas en cada segmento para la clase.",
+            "korean": "이 행은 수업의 각 세그먼트에서 완료된 활동의 평균 수를 표시합니다.", 
             "arabic": "يبيّن لك هذا الصف معدل عدد الأنشطة المكتملة للصف في كل قسم."
           }
         },
@@ -104,6 +113,7 @@
             "english": "This row shows the average total score for activities in a segment for the class.",
             "turkish": "Bu satır, sınıf için her bir bölümdeki aktivitelerin toplam ortalama puanı gösterir.",
             "spanish": "Esta fila muestra la puntuación total promedio para las actividades en un segmento para la clase.",
+            "korean": "이 행은 수업의 세그먼트에 포함된 활동의 평균 점수를 표시합니다.", 
             "arabic": "يبيّن هذا الصف معدل الدرجة الكلية لأنشطة في شكل تفصيلي لقسم في الصف."
           }
         },
@@ -115,6 +125,7 @@
             "english": "This row shows the average time spent on activities in a segment for the class.",
             "turkish": "Bu satır, sınıf için her bir bölümdeki aktivitelerde harcanan ortalama zamanı gösterir.",
             "spanish": "Esta fila muestra el tiempo promedio para las actividades en un segmento para la clase.",
+            "korean": "이 행은 수업의 세그먼트에 포함된 활동의 평균 수행 시간을 표시합니다.", 
             "arabic": "يبيّن هذا العمود معدل الوقت المستغرق للأنشطة في شكل تفصيلي للصف."
           }
         },
@@ -126,6 +137,7 @@
             "english": "This is the total of the average number of activities completed across the segments.",
             "turkish": "Burada bölümlerde tamamlanmış aktivitelerin ortalama sayısının toplamı gösterilir.",
             "spanish": "Este es el total del número promedio  de actividades realizadas en todos los segmentos.",
+            "korean": "이것은 전체 세그먼트에서 완료한 활동의 평균 건수의 총계입니다.", 
             "arabic": "هذا هو إجمالي معدل عدد الأنشطة المكتملة عبرَ الأقسام."
           }
         },
@@ -137,6 +149,7 @@
             "english": "This is the total average score for all students across the segments.",
             "turkish": "Burada bölümlerdeki tüm öğrencilerin toplam ortalama puanı gösterilir.",
             "spanish": "Esta es la puntuación total promedio para todos los alumnos en todos los segmentos.",
+            "korean": "이것은 전체 세그먼트에서 모든 학생이 득점한 평균 총점입니다.", 
             "arabic": "هذا هو إجمالي معدل الدرجة لجميع الطلاب عبرَ الأقسام."
           }
         },
@@ -148,6 +161,7 @@
             "english": "This is the average amount of time all students spent on activities.",
             "turkish": "Bu tüm öğrencilerin akvitelerde harcadığı ortalama süredir.",
             "spanish": "Esta es la cantidad promedio de tiempo que todos los estudiantes han empleado en las actividades.",
+            "korean": "이것은 모든 학생이 활동을 실시한 평균 시간입니다.", 
             "arabic": "هذا هو متوسط مقدار الوقت الذي قضاه كل الطلاب في الأنشطة."
           }
         },
@@ -159,6 +173,7 @@
             "english": "This row shows the number of activities completed by a student in each segment.",
             "turkish": "Bu satır, her bir bölümde bir öğrencinin tamamladığı aktivite sayısını gösterir.",
             "spanish": "Esta fila muestra el número de actividades realizadas por un alumno en cada segmento.",
+            "korean": "이 행은 학생이 각 세그먼트에서 완료한 활동의 수를 표시합니다."
             "arabic": "يبيّن هذا العمود عدد الأنشطة المكتملة من قبل الطالب في كل قسم."
           }
         },
@@ -170,6 +185,7 @@
             "english": "This row shows a student’s total score in each segment.",
             "turkish": "Bu satır, her bir bölümde bir öğrencinin aldığı toplam puanı gösterir.",
             "spanish": "Esta línea muestra la puntuación total del alumno en cada segmento.",
+            "korean": "이 행은 각 세그먼트의 학생 총점을 표시합니다.", 
             "arabic": "يبيّن هذا العمود معدل درجة الطالب في كل قسم."
           }
         },
@@ -181,6 +197,7 @@
             "english": "This row shows the total amount of time a student spent on activities in each segment.",
             "turkish": "Bu satır, her bir bölümde bir öğrencinin aktiviteler için harcadığı zaman toplamını gösterir.",
             "spanish": "Esta fila muestra la cantidad total de tiempo que un alumno ha dedicado a actividades en cada segmento.",
+            "korean": "이 행은 각 세그먼트에서 학생이 활동에 소요한 총 시간을 표시합니다.", 
             "arabic": "يبيّن هذا العمود مقدار الوقت الكلي الذي يستغرقه الطالب على الأنشطة في كل قسم."
           }
         },
@@ -192,6 +209,7 @@
             "english": "This is the total number of activities completed by a student.",
             "turkish": "Bu bir öğrenci tarafından tamamlanan toplam aktivite sayısıdır.",
             "spanish": "Este es el número total de actividades realizadas por el estudiante.",
+            "korean": "이것은 학생이 완료한 활동의 총 건수입니다.", 
             "arabic": "هذا هو العدد الإجمالي للأنشطة المُنجَزة من قِبل الطالب."
           }
         },
@@ -203,6 +221,7 @@
             "english": "This is the average activity score for a student across the level.",
             "turkish": "Burada bir öğrenci için bu seviyedeki ortalama aktivite puanı gösterilir.",
             "spanish": "Esta es la puntuación promedio para un alumno en todo el nivel.",
+            "korean": "이것은 전체 레벨에서 득점한 학생의 평균 활동 점수입니다.", 
             "arabic": "هذا هو معدل درجة نشاط الطالب عَبرَ كل قسم."
           }
         },
@@ -214,6 +233,7 @@
             "english": "This is the total amount of time this student worked in the entire level.",
             "turkish": "Bu öğrencinin seviyenin tamamında çalıştığı toplam süredir.",
             "spanish": "Esta es la cantidad total de tiempo que este estudiante trabajó en todo el nivel.",
+            "korean": "이것은 학생이 전체 레벨에서 활동한 총 시간입니다.", 
             "arabic": "هذا هو إجمالي مقدار الوقت الذي عمله الطالب في كامل المستوى."
           }
         },
@@ -225,6 +245,7 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
+            "korean": "이 보고서를 Microsoft Excel™로 내보내시려면 여기를 클릭하십시오.", 
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -236,6 +257,7 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
+            "korean": "이 보고서를 인쇄하시려면 여기를 클릭하십시오.", 
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }

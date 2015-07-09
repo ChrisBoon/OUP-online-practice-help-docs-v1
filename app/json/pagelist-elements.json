@@ -8,6 +8,7 @@
         "japanese": "先生",
         "chinese": "教師",
         "thai": "ครูผู้สอน",
+        "korean": "",
         "arabic": "المعلم"
       },
     "docsList":{
@@ -20,6 +21,7 @@
           "japanese": "登録",
           "chinese": "註冊",
           "thai": "ลงทะเบียน",
+          "korean": "",
           "arabic": "التسجيل"
         },
         "id": "adult-teacher-registration-v1_0_0"

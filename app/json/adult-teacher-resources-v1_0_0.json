@@ -3,6 +3,7 @@
     "english": "Resources",
     "turkish": "Kaynaklar",
     "spanish": "Recursos",
+    "korean": "자료", 
     "arabic": "الموارد"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "This is the Teacher Resources area. Where available, this area will provide supporting material for you and your students when using Online Practice. Resources displayed for teachers may be different from students’ resources.",
             "turkish": "Burası Öğretmen Kaynakları alanıdır. Varsa, Online Uygulamayı kullanırken kendiniz ve öğrencileriniz için destekleyici materyalleri burada bulabilirsiniz. Öğretmenler için görüntülenen kaynaklar öğrencilerinkinden farklı olabilir.",
             "spanish": "Esta es el área de Recursos para Profesores. Cuando esté disponible, esta área proporcionará material de apoyo para usted y sus estudiantes al utilizar Práctica Online. Los recursos que se muestran para los profesores pueden ser diferentes de los que se muestran a los estudiantes.",
+            "korean": "이곳은 교사 자료 영역입니다. 이 영역을 이용할 수 있는 경우 교사와 학생이 온라인 수업을 이용할 때 도움이 되는 자료가 제공됩니다. 교사를 위해 표시된 자료는 학생 자료와 다를 수 있습니다.",
             "arabic": "هذه هي منطقة موارد المعلم وعندما تكون متاحة، تقدم هذه المنطقة موادًا داعمةً لك ولطلابك عند استخدام الممارسة عبر شبكة الإنترنت. وقد تكون الموارد المعروضة الخاصة بالمعلمين مختلفة عن تلك الخاصة بالطلاب."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Click on a title or icon to open a resource. PDF files and documents will open in a new tab or download to your computer or device depending on your browser settings.",
             "turkish": "Bir Kaynağı açmak için başlığına ya da simgesine tıklayın. PDF dosyaları ve belgeler yeni bir sekmede açılır ve tarayıcı ayarlarınıza bağlı olarak bilgisayarınıza ya da cihazınıza indirilir.",
             "spanish": "Haga clic en el título o icono para abrir un recurso. Los archivos PDF y los documentos se abrirán en una nueva pestaña o se descargarán a su ordenador o dispositivo en función de la configuración de su navegador.",
+            "korean": "제목이나 아이콘을 클릭하여 자료를 여십시오. PDF 파일과 문서를 새로운 탭에서 열거나 브라우저 설정에 따라 컴퓨터 또는 기타 장치로 다운로드합니다.",
             "arabic": "اانقر على عنوان أو أيقونة ما لفتح أحد الموارد. وسوف يتم فتح ملفات PDF والوثائق في علامة تبويب جديدة أو تنزيلها على الحاسب أو الجهاز الخاص بك حسب إعدادات المتصفح الخاص بك."
           }
         }
