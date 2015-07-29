@@ -77,7 +77,9 @@
             "english": "Click here to enter the Writing Tutor activity area.",
             "turkish": "Özel Yazı Eğitmeni aktivite alanına girmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para acceder al área de actividad del Tutor de escritura.",
-            "korean": "", 
+            "korean": "쓰기 튜터 활동 영역에 들어가려면 여기를 클릭하십시오.", 
+            "chinese": "按一下這裡進入「寫作輔導」活動區。", 
+            "japanese": "ライティングチューターのアクティビティエリアに入るには、こちらをクリックします。", 
             "arabic": "أنقر هنا لكي تدخل في مجال نشاط معلم الكتابة الخصوصي."
           }
         },

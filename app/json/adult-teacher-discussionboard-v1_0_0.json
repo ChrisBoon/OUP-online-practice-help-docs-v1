@@ -54,7 +54,7 @@
             "english": "You can create a new post by clicking the “Create New Thread” button. A text box will open. Any student in your Online Practice class can see your post and reply to it. Students can also write posts and begin discussions.",
             "turkish": "Create New Thread” düğmesini tıklayıp yeni bir mesaj oluşturabilirsiniz. Bir metin kutusu açılacaktır. Çevrim İçi Uygulama sınıfınızdaki herhangi bir öğrenci mesajınızı görüp, cevaplayabilir. Öğrenciler de mesaj yazıp, tartışma açabilirler.",
             "spanish": "Se puede crear una nueva publicación haciendo clic en el botón “Create New Thread” (Crear nuevo hilo). Se abrirá un recuadro con texto. Cualquier estudiante en su clase de Práctica en línea podrá ver su publicación y responder a ella. Los alumnos pueden también publicar sus notas y comenzar discusiones.",
-            "korean": "\"새로운 스레드 만들기\" 버튼을 클릭하여 새로운 게시물을 생성할 수 있습니다. 텍스트 상자가 열립니다. 온라인 실습 수업의 모든 학생이 나의 게시물을 보고 답변을 달 수 있습니다. 학생은 또한 게시물을 작성하고 토론을 시작할 수 있습니다.", 
+            "korean": "\"Create New Thread\" 버튼을 클릭하여 새로운 게시물을 생성할 수 있습니다. 텍스트 상자가 열립니다. 온라인 실습 수업의 모든 학생이 나의 게시물을 보고 답변을 달 수 있습니다. 학생은 또한 게시물을 작성하고 토론을 시작할 수 있습니다.", 
             "arabic": "يمكنك إنشــاء نشرة جديدة عن طريق النقر على مفتاح “Create New Thread \"إنشاء مؤشر ترابط جديد\" وسوف يُفتح لك مربعاً حوارياً. يتمكن أي طالب في صفك الذي تستخدم فيه الممارسة عبر الإنترنت أن يرى نشرتك  والرد عليها. يتمكن الطلاب أيضاً كتابة النشرات ثم يباشرون بالمناقشات."
           }
         }
@@ -104,7 +104,7 @@
             "english": "Click “Post” when you’re ready to post a new message.",
             "turkish": "Yeni mesajı göndermeye hazırsanız “Post” düğmesini tıklayın.",
             "spanish": "Haga clic en “Post” (Publicar) cuando esté listo para publicar un nuevo mensaje.",
-            "korean": "새로운 메시지를 게시할 준비가 되면 “게시\"를 클릭하십시오.", 
+            "korean": "새로운 메시지를 게시할 준비가 되면 “Post\"를 클릭하십시오.", 
             "arabic": "أنقر على “Post”  \"أنشر\" عندما تكون مستعداً لكي ترسل رسالة جديدة."
           }
         }
@@ -129,7 +129,7 @@
             "english": "Click “Show” to view your students' replies to a post.",
             "turkish": "Öğrencilerinizin gönderiye yanıtlarını görmek için “Show” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Show\" para ver las respuestas de los alumnos a un mensaje.",
-            "korean": "학생의 게시물 답변을 보시려면 \"보기\"를 클릭하십시오.", 
+            "korean": "학생의 게시물 답변을 보시려면 \"Show\"를 클릭하십시오.", 
             "arabic": "انقر على “Show” (\"عرض\") لاستعراض ردود طلابك على منشور ما. "
           }
         },
@@ -141,7 +141,7 @@
             "english": "Click “Hide” to hide the replies.",
             "turkish": "Yanıtları gizlemek için “Hide” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Hide\" para ocultar las respuestas.",
-            "korean": "\"숨기기\"를 클릭하여 답변을 가릴 수 있습니다.", 
+            "korean": "\"Hide\"를 클릭하여 답변을 가릴 수 있습니다.", 
             "arabic": "انقر على “Hide” (\"إخفاء\") لإخفاء الردود."
           }
         },
@@ -153,7 +153,7 @@
             "english": "Click “Reply” to reply to a post.",
             "turkish": "Bir gönderiyi yanıtlamak için “Reply” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Reply\" para responder a un mensaje.",
-            "korean": "\"답변\"을 클릭하여 게시물에 답변을 달 수 있습니다.", 
+            "korean": "\"Reply\"을 클릭하여 게시물에 답변을 달 수 있습니다.", 
             "arabic": "انقر على “Reply” (\"رد\") للرد على منشور ما."
           }
         },
@@ -165,7 +165,7 @@
             "english": "If you click “Reply”, a text box will open under the post you are replying to. You can enter your reply directly within the discussion.",
             "turkish": "“Reply” seçeneğine tıklarsanız, yanıtladığınız gönderinin altında bir metin kutusu açılacaktır. Yanıtınızı doğrudan tartışma içerisine girebilirsiniz.",
             "spanish": "Si hace clic en \"Reply\", se abrirá un cuadro de texto bajo el mensaje al que está respondiendo. Puede ingresar su respuesta directamente en la discusión.",
-            "korean": "“답변\"을 클릭하면 답변하신 게시물 아래에 텍스트 상자가 열립니다. 게시판 내에서 직접 답변을 입력할 수 있습니다.", 
+            "korean": "“Reply\"을 클릭하면 답변하신 게시물 아래에 텍스트 상자가 열립니다. 게시판 내에서 직접 답변을 입력할 수 있습니다.", 
             "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي تقوم بالرد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
           }
         },
@@ -177,7 +177,7 @@
             "english": "Click “Post” to post your reply to the discussion.",
             "turkish": "Tartışmaya yanıtınızı göndermek için “Post” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Post\" para publicar su respuesta a la discusión.",
-            "korean": "\"게시\"를 클릭하면 게시판에 답변을 달 수 있습니다.",
+            "korean": "\"Post\"를 클릭하면 게시판에 답변을 달 수 있습니다.",
             "arabic": "انقر على “Post”  (\"نشر\") لنشر ردك على المناقشة."
           }
         },
@@ -189,7 +189,7 @@
             "english": "Click “Cancel” if you do not want to post your reply.",
             "turkish": "Yanıtınızı paylaşmak istemiyorsanız “Cancel” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Cancel\" si no desea publicar su respuesta.",
-            "korean": "답변을 게시하지 않으시려면 \"취소\"를 클릭하십시오.", 
+            "korean": "답변을 게시하지 않으시려면 \"Cancel\"를 클릭하십시오.", 
             "arabic": "انقر على “Cancel” (\"إلغاء\") إذا كنت لا تريد نشر ردك."
           }
         },
@@ -201,7 +201,7 @@
             "english": "Click “Delete Conversation” to delete an entire discussion which includes the original post, as well as all students' replies. Students are not able to delete discussions.",
             "turkish": "Gönderinin kendisini ve tüm öğrenci yanıtları da dahil tartışmanın tamamını silmek için “Delete Conversation” seçeneğine tıklayın. Öğrenciler tartışmaları silemez.",
             "spanish": "Haga clic en \"Delete Conversation\" para borrar toda una discusión, incluyendo el mensaje original, así como las respuestas de todos los estudiantes. Los estudiantes no pueden eliminar discusiones.",
-            "korean": "“대화 삭제\"를 클릭하여 최초 게시물과 학생의 답변을 포함한 전체 토론을 삭제하십시오. 학생은 토론을 삭제할 수 없습니다.", 
+            "korean": "“Delete Conversation\"를 클릭하여 최초 게시물과 학생의 답변을 포함한 전체 토론을 삭제하십시오. 학생은 토론을 삭제할 수 없습니다.", 
             "arabic": "انقر على “Delete Conversation” (\"حذف المحادثة\") لحذف كامل المناقشة التي تتضمن المنشور الأصلي، فضلاً عن ردود كل الطلاب. لن يكون بمقدور الطلاب حذف المناقشات."
           }
         },
@@ -213,7 +213,7 @@
             "english": "Click “Delete Reply” to delete any reply within a discussion. Students are not able to delete replies.",
             "turkish": "Bir tartışma içindeki yanıtları silmek için “Delete Reply” seçeneğine tıklayın. Öğrenciler yanıtları silemez.",
             "spanish": "Haga clic en \"Delete Reply\" para borrar cualquier respuesta en una discusión. Los estudiantes no pueden eliminar las respuestas.",
-            "korean": "“답변 삭제\"를 클릭하여 게시판 내 답변을 삭제하십시오. 학생은 답변을 삭제할 수 없습니다.", 
+            "korean": "“Delete Reply\"를 클릭하여 게시판 내 답변을 삭제하십시오. 학생은 답변을 삭제할 수 없습니다.", 
             "arabic": "انقر على “Delete Reply”(\"حذف الرد\") لحذف أي رد ضمن المناقشة. لن يكون بمقدور الطلاب حذف الردود."
           }
         }

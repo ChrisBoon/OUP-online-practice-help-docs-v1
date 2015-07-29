@@ -53,7 +53,8 @@
             "english": "Click on the download icon, if available, to download the entire audio track to your device. Not all audio tracks can be downloaded.",
             "turkish": "Mevcutsa ses dosyasının tamamını cihazınıza yüklemek için indirme simgesini tıklayın. Ses dosyalarının hepsi indirilemez.",
             "spanish": "Haga clic en el icono de descarga, si está disponible, para descargar toda la pista de audio a su dispositivo. No todas las pistas de audio pueden ser descargadas.",
-            "korean": "", 
+            "korean": "다운로드 아이콘이 있을 경우, 전체 오디오 트랙을 귀하의 장치에 다운로드 하려면 다운로드 아이콘을 클릭하십시오. 모든 오디오 트랙을 다운로드 할 수 있는 것은 아닙니다.", 
+            "chinese": "按一下下載圖示（若有），把整個音軌下載到您的裝置上。不是所有的音軌都能下載。",
             "arabic": "أنقر على ايقونة التنزيل، إذا كانت متوفرة، كي تنزل الى جهاز مسارك الصوتي بأكمله. لا يمكن تنزيل جميع المسارات الصوتية."
           }
         }

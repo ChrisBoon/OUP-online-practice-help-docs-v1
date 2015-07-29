@@ -29,7 +29,9 @@
             "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
             "turkish": "Bir ünite seçmek için bu menüyü kullanın. Bir ünite seçtiğinizde o ünite içindeki ilk aktiviteyi göreceksiniz.",
             "spanish": "Use este menú para elegir una unidad. Al hacerlo, el sistema le llevará a la primera actividad en dicha unidad.",
-            "korean": "이 메뉴를 이용하여 단원을 선택하십시오. 단원을 선택하시면 단원 내 첫 번째 활동으로 이동합니다.", 
+            "korean": "단원을 선택하려면 이 메뉴를 이용하십시오. 단원을 선택하면 그 단원 안에 있는 첫 활동으로 안내됩니다.", 
+            "chinese": "使用這個功能表來選擇一個單元。當選定某個單元時，您將看到該單元內的第一項活動。", 
+            "japanese": "このメニューを使ってユニットを選択します。ユニットを選択すると、そのユニット内の最初のアクティビティに移動します。",
             "arabic": "إستعمل هذه القائمة لاختيار وحدة متكاملة، وعند إختيارك لها، سوف تنتقل بك الى النشاط الاول ضمن تلك الوحدة."
           }
         },
@@ -41,7 +43,9 @@
             "english": "Use this menu to choose an activity within a unit.",
             "turkish": "Bir ünite içinde bir aktivite seçmek için bu menüyü kullanın.",
             "spanish": "Use este menú para seleccionar una actividad dentro de una unidad.",
-            "korean": "이 메뉴를 이용하여 단원 안의 활동을 선택하십시오.", 
+            "korean": "단원 안에 있는 활동을 선택하려면 이 메뉴를 이용하십시오.", 
+            "chinese": "使用這個功能表在單元內選擇一項活動。",
+            "japanese": "このメニューを使ってユニット内のアクティビティを選択します。",
             "arabic": "إستعمل هذه القائمة لكي تختار نشاط واحد ضمن الوحدة."
           }
         },
@@ -53,7 +57,7 @@
             "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
             "turkish": "Aktiviteler arasında sırayla gezinmek için “Previous” ve “Next” düğmelerini kullanın.",
             "spanish": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
-            "korean": "\"이전\"과 \"다음\" 버튼을 이용하여 순서대로 활동을 이동하십시오. ", 
+            "korean": "\"Previous\"Next\" 버튼을 이용하여 순서대로 활동을 이동하십시오. ", 
             "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل."
           }
         },

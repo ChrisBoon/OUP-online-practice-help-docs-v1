@@ -41,7 +41,9 @@
             "english": "This row shows the scores for each activity in a unit. The score is shown out of the total number of possible points in an activity. A tick mark indicates a completed but non-scored activity.",
             "turkish": "Bu satır, bir ünitenin her bir aktivitesi için puanları gösterir. Puan, o aktivite için mümkün toplam puan ile birlikte gösterilir. Bu sembol tamamlanmış fakat puan almamış bir aktiviteyi gösterir.",
             "spanish": "Esta fila muestra los puntajes para cada actividad en una unidad. El puntaje se muestra en función del número total de puntos posibles en una actividad. Una marca de verificación indica una actividad terminada pero aún no calificada.",
-            "korean": "", 
+            "korean": "이 행은 한 단원에 포함된 각 활동에 대한 점수를 표시합니다. 이 점수는 한 활동에서 받을 수 있는 총점을 기준으로 채점한 점수입니다. 완료되었지만 채점되지 않은 활동일 때 체크 기호가 표시됩니다.", 
+            "chinese": "本行顯示單元中每項活動的分數。該分數乃是相對於該活動的最高總分顯示。勾號指明已完成但沒有評分的活動。",
+            "japanese": "この行にはユニット内の各アクティビティの得点が表示されます。この得点はそのアクティビティの満点の点数と共に表示されます。チェックマークはアクティビティが終了しているがまだ得点が付けられていないことを示します。", 
             "arabic": "يبين لك هذا السطر درجات لكل نشاط في الوحدة. الدرجة المعروضة هي من إجمالي النقاط المحتملة في النشاط. العلامة المميزة تشير الى نشاط كامل لكنه بدون درجات."
           }
         },
@@ -113,7 +115,9 @@
             "english": "The ✓ symbol means that the activity does not have a score. Some activities are non-scored, like games. Other activities need to be graded by the teacher, like activities with audio or writing submissions. When the teacher grades those activities, the numeric score will replace the ✓ symbol.",
             "turkish": "✓ sembolü, aktivite için puan olmadığını gösterir. Oyunlar gibi bazı aktivitelere puan verilmez. Ses veya yazı ödevleri gibi diğer aktivitelere öğretmen tarafından puan verilir. Öğretmen bu aktivitelere puan verdiğinde puan ✓ sembolün yerini alacaktır.",
             "spanish": "El símbolo ✓ significa que la actividad no tiene un puntaje. Algunas actividades no reciben puntaje, como los juegos. Otras actividades deben ser calificadas por el maestro, como las actividades con audio o las presentaciones escritas. Cuando el maestro califica esas actividades, el puntaje numérico reemplazará el símbolo ✓.",
-            "korean": "",
+            "korean": "? 기호는 채점되지 않은 활동이라는 표시입니다. 학생 연습 전용 게임이나 활동과 같은 일부 활동은 채점을 하지 않습니다. 하지만 오디오 또는 쓰기 제출물이 있는 활동 등 그 외 활동은 교사가 평가해야 합니다. 교사가 활동을 평가하면 ? 기호가 숫자 점수로 바뀝니다.",
+            "chinese": "✓ 符號意味著該活動沒有分數。有些活動不會評分，例如遊戲。其他活動需要教師評分，例如需要提交錄音或寫作的活動。在教師給那些活動評分時，數字分數就會取代 ✓ 符號。",
+            "japanese": "? の記号はアクティビティに得点が付けられていないことを示します。アクティビティの中には、ゲームなど得点が付けられないものがあります。オーディオ録音や課題文の提出などその他のアクティビティには講師の採点が必要とされます。アクティビティが採点されると、? 記号の代わりに得点が数値で表示されます。",
             "arabic": "الرمز ✓ يعني بأن النشاط ليس له درجات. بعض النشاطات، مثل الألعاب، لا تقيّم بالدرجات ولكن نشاطات أخرى بحاجة الى إعطائها درجات من قبل المدرس، مثل نشاطات مع صوت أو تقديم الكتابات. عندما يعطي المدرس درجات لهذه النشاطات، فان النتيجة الرقمية ستحل محل الرمز ✓."
           }
         }

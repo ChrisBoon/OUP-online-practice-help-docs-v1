@@ -3,6 +3,7 @@
     "english": "Student Activity Report",
     "turkish": "Öğrenci Aktivite Raporu",
     "spanish": "Informe de Actividades del Estudiante",
+    "korean": "학생 활동 보고서 ",
     "arabic": "تقرير نشاط الطالب"
   },
  "segment": "adult",
@@ -16,6 +17,7 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +29,7 @@
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Sınıf Özet Raporunu (tüm sınıflarınızın ortalama puanları) görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
+            "korean": "수업 요약 보고서를 보려면 여기를 클릭하십시오 (전체 수업의 평균 점수). ",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (متوسط الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -38,6 +41,7 @@
             "english": "Click here to view the Class Report for the class shown on the right.",
             "turkish": "Sağdaki menüde gösterilen sınıfa ait Sınıf Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase para la clase que se muestra a la derecha.",
+            "korean": "우측에 표시된 수업의 수업 보고서를 보려면 여기를 클릭하십시오.",
             "arabic": "انقر هنا لعرض تقرير الفصل الخاص بالفصل المعروض على اليمين."
           }
         },
@@ -49,6 +53,7 @@
             "english": "Click here to view the Student Report for this student.",
             "turkish": "Bu öğrencinin Öğrenci Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para visualizar el Informe del Estudiante para este estudiante.",
+            "korean": "이 학생의 학생 보고서를 보려면 여기를 클릭하십시오.",
             "arabic": "أنقر هنا على تقرير طالب لمشاهدة كل ما يتعلق بهذا الطالب."
           }
         },
@@ -60,6 +65,7 @@
             "english": "Click here to view the Segment Report for this student.",
             "turkish": "Bu öğrencinin Bölüm Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para visualizar el Informe del Segmento para este estudiante.",
+            "korean": "이 학생의 세그먼트 보고서를 보려면 여기를 클릭하십시오.",
             "arabic": "أنقر هنا كي تشاهد تقرير القسم لهذا الطالب."
           }
         },
@@ -71,6 +77,7 @@
             "english": "Use this menu to view the work of a student in another class. Select “All Classes” to go to the Class Summary Report.",
             "turkish": "Başka sınıftaki bir öğrencinin çalışmasını görmek için bu menüyü kullanın. Sınıf Özet Raporuna gitmek için “All Classes” seçeneğini seçin.",
             "spanish": "Utilice este menú para ver el trabajo de un estudiante en otra clase. Seleccione \"All Classes\" para acceder al Informe de Resumen de la Clase.",
+            "korean": "다른 수업의 학생 학습을 보려면 이 메뉴를 이용하십시오. “All Classes\"을 선택하면 수업 요약 보고서로 이동합니다. ",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب ما في فصل أخرى. حدد “All Classes”  (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
         },
@@ -82,6 +89,7 @@
             "english": "Use this menu to view the work of a different student for this activity.",
             "turkish": "Bu aktivite için farklı bir öğrencinin çalışmasını görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el trabajo de un estudiante diferente para esta actividad.",
+            "korean": "이 활동의 다른 학생 학습을 보려면 이 메뉴를 이용하십시오. ",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب مختلف لهذا النشاط."
           }
         },
@@ -93,6 +101,7 @@
             "english": "This shows the student’s score on this activity. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity.",
             "turkish": "Burada, öğrencinin bu aktivitede aldığı puan gösterilir. Örneğin, puan 8/10 ise, öğrencinin doğru cevapladığı madde (soru) sayısı 8 ve aktivitedeki toplam soru sayısı ise 10 demektir.",
             "spanish": "Este muestra la puntuación del estudiante en esta actividad. Por ejemplo, si el puntaje es 8/10, 8 es el número de elementos (preguntas) que el estudiante respondió correctamente, y 10 es el número total de elementos en la actividad.",
+            "korean": "이것은 이 활동에 대한 학생의 점수를 표시합니다. 예를 들어 점수가 8/10인 경우 8은 학생이 정답을 답한 항목(질문)의 수이며 10은 이 활동의 총 항목 수입니다.",
             "arabic": "تعرض هذه البيانات درجات الطالب في هذا النشاط. على سبيل المثال، إذا كانت الدرجة  8/10 ، فإن الرقم 8 يشير الى البنود ( الاسئلة) التي أجاب عليها الطالب بصورة صحيحة، والرقم 10 هو المجموع الكلي للبنود في النشاط."
           }
         }

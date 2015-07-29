@@ -29,7 +29,7 @@
             "english": "You can hide Writing Assignments from your students by checking the boxes on this page.",
             "turkish": "Bu sayfadaki kutuları işaretleyerek Yazı Ödevlerini öğrencilerinizden gizleyebilirsiniz",
             "spanish": "Usted puede ocultar Tareas de escritura de sus estudiantes marcando las casillas en esta página.",
-            "korean": "", 
+            "korean": "이 페이지의 상자에 체크하여 학생이 컨텐츠를 보지 못하도록 할 수 있습니다. ", 
             "arabic": "يمكنك أن تخفي واجبات الكتابة عن طلابك بواسطة وضع علامة في المربعات على هذه الصفحة."
           }
         },
@@ -91,6 +91,8 @@
         "turkish": "Yazı Ödevlerini Gizle/Ata",
         "spanish": "Ocultar/asignar escritura",
         "korean": "컨텐츠 숨기기/할당", 
+        "chinese": "隱藏/指派寫作", 
+        "japanese": "非表示/課題文", 
         "arabic": "إخفاء/ تكليف الكتابة"
       },
       "paragraphs":{
@@ -102,7 +104,9 @@
             "english": "You can hide Writing Assignments from your students by checking the boxes on this page.",
             "turkish": "Bu sayfadaki kutuları işaretleyerek Yazı Ödevlerini öğrencilerinizden gizleyebilirsiniz.",
             "spanish": "Usted puede ocultar Tareas de escritura de sus estudiantes marcando las casillas en esta página.",
-            "korean": "", 
+            "korean": "이 페이지에 있는 네모칸에 체크 표시를 하면 쓰기 숙제를 학생들이 보지 못하도록 숨길 수 있습니다.", 
+            "chinese": "通過核取本頁上的方塊，您能夠讓學生看不到寫作作業。", 
+            "japanese": "このページにあるボックスにチェックマークを付けることで、生徒の課題文を非表示にすることができます。", 
             "arabic": "يمكنك أن تخفي واجبات الكتابة عن طلابك بواسطة وضع علامة في المربعات على هذه الصفحة."
           }
         },
@@ -126,7 +130,9 @@
             "english": "Check a box here to hide selected unit Writing Assignment.",
             "turkish": "Seçilmiş ünitenin Yazı Ödevini gizlemek için buradaki bir kutuyu işaretleyin.",
             "spanish": "Marque una casilla aquí para ocultar la Tarea de escritura de la unidad seleccionada.",
-            "korean": "",
+            "korean": "선택한 단원 쓰기 숙제를 숨기려면 여기 네모칸에 체크 표시를 하십시오. ",
+            "chinese": "在這裡核取一個方塊，即可隱藏選定的單元寫作作業。", 
+            "japanese": "選択したユニットの課題文を非表示にするには、このボックスにチェックマークを付けます。", 
             "arabic": "ضع علامة في المربع هنا لكي تخفي واجبات الكتابة لوحدة محددة."
           }
         },

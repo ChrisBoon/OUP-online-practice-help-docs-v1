@@ -3,6 +3,9 @@
     "english": "Writing Tutor Progress Report",
     "turkish": "Özel Yazı Eğitmeni İlerleme Raporu",
     "spanish": "Informes de avance del Tutor de escritura",
+    "korean": "쓰기 튜터 학업 진행 보고서",
+    "chinese": "寫作輔導進度報告",
+    "japanese": "ライティングチューター進捗レポート", 
     "arabic": "تقرير تقدم معلم الكتابة الخصوصي"
   },
  "segment": "adult",
@@ -16,6 +19,9 @@
         "english": "Class Report: All Classes",
         "turkish": "Sınıf Raporu: Tüm Sınıflar",
         "spanish": "Informe de clase: Todas las clases",
+        "korean": "수업 보고서: 전체 수업",
+        "chinese": "班級報告：所有班級",
+        "japanese":"クラスレポート: 全クラス",
         "arabic": "تقرير الصف: جميع الصفوف"
       },
       "paragraphs":{
@@ -27,6 +33,9 @@
             "english": "This page shows you information for all of your classes.",
             "turkish": "Bu sayfada tüm sınıflarınıza ait bilgi gösterilir.",
             "spanish": "Esta página le muestra información para todas sus clases.",
+            "korean": "이 페이지는 수강 중인 수업 전체에 대한 정보를 표시합니다.",
+            "chinese": "本頁顯示您所有班級的資訊。",
+            "japanese": "このページには全クラスの情報が表示されます。",
             "arabic": "تعرض لك هذه الصفحة معلومات تخص جميع صفوفك."
           }
         },
@@ -38,6 +47,9 @@
             "english": "Select a specific class here. Writing Tutor Reports are only available for Reading and Writing levels.",
             "turkish": "Buradan belirli bir sınıfı seçin. Özel Yazı Eğitmeni Raporları yalnızca Okuma ve Yazma seviyeleri için mevcuttur.",
             "spanish": "Seleccione una clase específica aquí. Los informes del Tutor de escritura solo están disponibles para los niveles de Lectura y Escritura.",
+            "korean":"여기서 특정 수업을 선택하십시오. 쓰기 튜터 보고서는 읽기와 쓰기 수준에서만 이용이 가능합니다.",
+            "chinese": "在這裡選取一個班級。「寫作輔導報告」只對「閱讀與寫作」層級提供。",
+            "japanese": "ここで特定のクラスを選択します。ライティングチューターレポートは、リーディングとライティング) のレベルでのみ利用できます。", 
             "arabic": "إختار صف خاص هنا. تقارير امدرس الكتابة الخصوصي متوفرة فقط لمستويات القراءة والكتابة."
           }
         },
@@ -49,6 +61,9 @@
             "english": "This column shows the class name and the assignment names. Click on the class name to see individual student scores.",
             "turkish": "Bu sütunda sınıf ve ödev adları gösterilir. Bireysel öğrenci puanlarını görmek için sınıf adının üzerine tıklayın.",
             "spanish": "Esta columna muestra el nombre de la clase y los nombres de las tareas. Haga clic en el nombre de la clase para ver los puntajes individuales de los estudiantes.",
+            "korean": "이 열은 이 수업 수강생들 중 몇 명이 쓰기 숙제를 제출했는지를 표시합니다.",
+            "chinese": "此欄顯示班級名稱和作業名稱。按一下班級名稱即可看到單個學生分數。",
+            "japanese": "この列にはクラス名と課題名が表示されます。個々の生徒の得点を見るには、クラス名をクリックします。",
             "arabic": "يعرض لك عمود الكتابة اسم الفصل وأسماء الواجبات. أنقر على اسم الفصل كي تجد درجات الطالب فردياً."
           }
         },
@@ -60,6 +75,9 @@
             "english": "This column shows how many students in the class have submitted the writing assignment.",
             "turkish": "Bu sütun sınıfta kaç öğrencinin yazı ödevini gönderdiğini gösterir.",
             "spanish": "Esta columna muestra cuántos estudiantes en la clase han presentado la tarea de escritura.",
+            "korean": "이 열은 이 수업 수강생들 중 몇 명이 쓰기 숙제를 제출했는지를 표시합니다.",
+            "chinese": "此欄顯示班級裡有多少學生提交了寫作作業。",
+            "japanese": "この列には、クラス内で課題文を提出した生徒数が表示されます。",
             "arabic": "يعرض لك عمود الكتابة عدد الطلاب في الفصل الذين قدّموا واجبات الكتابة."
           }
         },
@@ -71,6 +89,9 @@
             "english": "This column shows the class average time spent completing the assignment.",
             "turkish": "Bu sütun ödevi tamamlamak üzere sınıfın harcadığı ortalama zamanı gösterir.",
             "spanish": "Esta columna muestra el tiempo promedio de la clase dedicado a completar la tarea.",
+            "korean": "이 열은 수업 수강생들이 쓰기 숙제를 끝내는 데 소요된 평균 시간을 표시합니다.",
+            "chinese": "此欄顯示班級完成作業所花的平均時間。",
+            "japanese": "この列には、クラスが課題に費やした平均時間が表示されます。", 
             "arabic": "يعرض لك هذا العمود معدل الوقت الذي يمضيه الفصل الدراسي في تكملة الواجبات."
           }
         },
@@ -82,6 +103,9 @@
             "english": "This column shows the class average score for each writing assignment.",
             "turkish": "Bu sütun her bir yazı ödevi için sınıfın ortalama puanını gösterir.",
             "spanish": "Esta columna muestra el puntaje promedio de la clase para cada tarea de escritura.",
+            "korean": "이 열은 수업 수강생들이 각 쓰기 숙제에 대해 받은 평균 점수를 표시합니다.",
+            "chinese": "此欄顯示每項寫作作業的班級平均分數。",
+            "japanese": "この列には、各課題文に対するクラスの平均得点が表示されます。",
             "arabic": "يعرض لك هذا العمود معدل درجات الفصل لكل واحد من واجبات الكتابة."
           }
         },
@@ -93,6 +117,9 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para regresar a la página anterior.",
+            "korean": "이전 페이지로 돌아가려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡回到前一頁。",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي ترجع إلى الصفحة السابقة."
           }
         },
@@ -104,6 +131,9 @@
             "english": "Click here to export this report to Microsoft Excel.",
             "turkish": "Bu raporu Microsoft Excel’e aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel.",
+            "korean": "마이크로소프트 엑셀에 이 보고서를 내보내기 하려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡將此報告匯出到Microsoft Excel。",
+            "japanese": "このレポートを Microsoft Excel にエクスポートするには、こちらをクリックします。", 
             "arabic": "أنقر هنا كي تصدر هذا التقرير الى Microsoft Excel (مايكروسوفت إكسل)."
           }
         },
@@ -115,6 +145,9 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
+            "korean": "이 보고서를 인쇄하려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡列印此報告。",
+            "japanese": "このレポートを印刷するには、こちらをクリックします。", 
             "arabic": "أنقر هنا كي تطبع هذا التقرير."
           }
         }
@@ -127,6 +160,9 @@
         "english": "Class Report: One Class",
         "turkish": "Sınıf Raporu: Bir Sınıf",
         "spanish": "Informe de la clase: Una clase",
+        "korean": "수업 보고서: 하나의 수업",
+        "chinese": "班級報告：一個班級",
+        "japanese": "クラスレポート: 単一のクラス",
         "arabic": "تقرير الفصل: فصل واحد"
       },
       "paragraphs":{
@@ -138,6 +174,9 @@
             "english": "This page shows the writing assignment scores for students in the selected class.",
             "turkish": "Bu sayfa, seçilen sınıftaki öğrencilerin yazı ödevi puanlarını gösterir.",
             "spanish": "Esta página muestra los puntajes de tareas de escritura de los estudiantes en la clase seleccionada.",
+            "korean": "이 페이지는 선택된 수업을 수강하는 학생들의 쓰기 숙제 점수를 표시합니다. ", 
+            "chinese": "此頁顯示選定班級中學生的寫作作業分數。", 
+            "japanese": "このページには選択したクラスの生徒の課題文の得点が表示されます。", 
             "arabic": "تعرض لك هذه الصفحة درجات واجبات الكتابة للطلاب في الفصل المحدد."
           }
         },
@@ -149,6 +188,9 @@
             "english": "Select a different class here.",
             "turkish": "Burada başka bir sınıfı seçin.",
             "spanish": "Seleccione una clase diferente aquí.",
+            "korean": "여기서 다른 수업을 선택하십시오.",
+            "chinese": "在這裡選取另一個班級。",
+            "japanese": "ここから、別のクラスを選択します。",
             "arabic": "حدد فصل مختلف هنا."
           }
         },
@@ -160,6 +202,9 @@
             "english": "This column shows the students’ names and the assignment names.",
             "turkish": "Bu sütun, öğrencilerin ve ödevlerin adlarını gösterir.",
             "spanish": "Esta columna muestra los nombres de los estudiantes y los nombres de las tareas.",
+            "korean": "이 열은 학생들의 이름과 숙제 이름을 표시합니다.",
+            "chinese": "此欄顯示學生姓名和作業名稱。",
+            "japanese": "この列には生徒名と課題名が表示されます。",
             "arabic": "يعرض لك هذا العمود أسماء الطلاب وأسماء الواجبات."
           }
         },
@@ -171,6 +216,9 @@
             "english": "This column shows if the student has submitted the Writing Assignment.",
             "turkish": "Bu sütun, öğrencinin Yazı Ödevini gönderip göndermediğini gösterir.",
             "spanish": "Esta columna muestra si el estudiante ha presentado la Tarea de escritura.",
+            "korean": "이 열은 학생이 쓰기 숙제를 제출했는지 여부를 표시합니다.",
+            "chinese": "此欄顯示該學生是否已經提交該寫作作業。",
+            "japanese": "この列には、生徒が課題文を提出したかどうかが表示されます。",
             "arabic": "يعرض لك هذا العمود إذا كان الطالب قدّم واجب الكتابة."
           }
         },
@@ -182,6 +230,9 @@
             "english": "A tick indicates the assignment was submitted.",
             "turkish": "Bu işaret, ödevin gönderildiğini gösterir.",
             "spanish": "Una marca de verificación indica que la tarea ya fue presentada.",
+            "korean": "체크 기호(✓)는 숙제가 제출되었다는 표시입니다.",
+            "chinese": "勾號表明該作業已經提交。",
+            "japanese": "チェックマークが付いている場合は、課題が提出されたことを意味します。",
             "arabic": "وجود علامة يدل على تقديم الواجب المدرسي."
           }
         },
@@ -193,6 +244,9 @@
             "english": "A dash indicates the assignment was not submitted.",
             "turkish": "Bu tire, ödevin gönderilmediğini gösterir.",
             "spanish": "Un guión indica que la tarea no fue presentada.",
+            "korean": "대시 기호(-)는 숙제가 제출되지 않았다는 표시입니다.",
+            "chinese": "破折號表明該作業尚未提交。",
+            "japanese": "ダッシュマークが付いている場合、課題は未提出です",
             "arabic": "وجود خط يدل على أن الواجب لم يقدم."
           }
         },
@@ -204,6 +258,9 @@
             "english": "This column shows the time the student spent on each writing assignment.",
             "turkish": "Bu sütun, öğrencinin her bir Yazı Ödevi için harcadığı zamanı gösterir.",
             "spanish": "Esta columna muestra el tiempo que el estudiante dedicó a cada tarea de escritura.",
+            "korean": "이 열은 학생이 각 쓰기 숙제를 하는 데 소요된 시간을 표시합니다.",
+            "chinese": "此欄顯示該學生在每項寫作作業上所花的時間。",
+            "japanese": "この列には、生徒が各課題文に費やした時間が表示されます。",
             "arabic": "يعرض لك هذا العمود الوقت الذي إستغرقه الطالب لكل واجب من واجبات الكتابة."
           }
         },
@@ -215,6 +272,9 @@
             "english": "This column shows the score the student received for each writing assignment.",
             "turkish": "Bu sütun, öğrencinin her bir Yazı Ödevinden aldığı puanı gösterir.",
             "spanish": "Esta tarea muestra el puntaje que el estudiante recibió para cada tarea de escritura.",
+            "korean": "이 열은 학생이 각 쓰기 숙제에 대해 받은 점수를 표시합니다.",
+            "chinese": "此欄顯示該學生之每項寫作作業的分數。",
+            "japanese": "この列には、生徒の各課題文の得点が表示されます。", 
             "arabic": "يعرض لك هذا العمود الدرجات التي استلمها الطالب لكل واجب من واجبات الكتابة."
           }
         },
@@ -226,6 +286,9 @@
             "english": "This column shows if feedback has been provided.",
             "turkish": "Bu sütun, öğrenciye geri bildirim verilip verilmediğini gösterir.",
             "spanish": "Esta columna muestra si se suministraron comentarios.",
+            "korean":"이 열은 피드백이 제공되었는지 여부를 표시합니다.",
+            "chinese": "此欄顯示是否有提供回饋。",
+            "japanese": "この列には、フィードバックが提供されたかどうかが表示されます。",
             "arabic": "يعرض لك هذا العمود إذا كانت الملاحظات تم توفيرها."
           }
         },
@@ -237,6 +300,9 @@
             "english": "Click here to view the submitted writing. You can provide feedback and score the writing. You can also view feedback and scores you have already given.",
             "turkish": "Gönderilen yazıyı görmek için buraya tıklayın. Yazıya geri bildirim ve puan verebilirsiniz. Daha önce verdiğiniz geri bildirimi ve puanları da görebilirsiniz.",
             "spanish": "Haga clic aquí para ver la escritura presentada. Puede proporcionar comentarios y  calificar la escritura. También puede visualizar comentarios y puntajes que usted ya ha proporcionado.",
+            "korean": "제출된 쓰기를 보려면 여기를 클릭하십시오. 피드백을 제공하고 채점할 수 있습니다. 이전에 제공한 피드백과 점수도 볼 수 있습니다.",
+            "chinese": "按一下這裡檢視已提交的寫作。您能夠給該寫作提供回饋和評分。您也能夠檢視您已給的回饋和分數。",
+            "japanese": "提出された課題文を見るには、こちらをクリックします。課題文に対してフィードバックを提供したり、得点を付けたりすることができます。またすでに提供したフィードバックや得点を見ることもできます。",
             "arabic": "أنقر هنا لكي ترى الكتابة التي قدمت. يمكنك تقديم ملاحظات وتقييم درجات الكتابة. يمكنك أيضاً أن ترى الملاحظات والدرجات التي مُنحت لك بالفعل."
           }
         },
@@ -248,6 +314,9 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para regresar a la página anterior.",
+            "korean": "이전 페이지로 돌아가려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡檢視已提交的寫作。您能夠給該寫作提供回饋和評分。您也能夠檢視您已給的回饋和分數。",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي ترجع الى الصفحة السابقة."
           }
         },
@@ -259,6 +328,9 @@
             "english": "Click here to export this report to Microsoft Excel.",
             "turkish": "Bu raporu Microsoft Excel’e aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel.",
+            "korean": "마이크로소프트 엑셀에 이 보고서를 내보내기 하려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡將此報告匯出到Microsoft Excel。",
+            "japanese": "このレポートを Microsoft Excel にエクスポートするには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي تصدر هذا التقرير الى Microsoft Excel مايكروسوفت إكسل."
           }
         },
@@ -270,6 +342,9 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
+            "korean": "이 보고서를 인쇄하려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡列印此報告。",
+            "japanese": "このレポートを印刷するには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي تطبع هذا التقرير."
           }
         }

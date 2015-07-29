@@ -54,6 +54,8 @@
             "turkish": "Sınıfınız için üniteleri veya testleri gizlemek ya da göstermek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ocultar o mostrar las unidades o las pruebas para su clase.",
             "korean": "수업의 단원이나 레슨을 숨기려면 여기를 클릭하십시오.", 
+            "chinese": "按一下這裡隱藏或顯示您班級的單元或測驗。",
+            "japanese":"クラスのユニットやテストを表示したり、非表示にするには、こちらをクリックします",
             "arabic": "أنقر هنا لكي تخفي أو تكشف عن وحدات أو اختبارات لفصلك الدراسي."
           }
         },
@@ -65,7 +67,9 @@
             "english": "Click here to hide Writing Assignments, if available, for your class.",
             "turkish": "Sınıfınız için varsa Yazı Ödevlerini gizlemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ocultar las Tareas de escritura, si están disponibles, para su clase.",
-            "korean": "", 
+            "korean": "수업에 대한 쓰기 숙제를 숨기기 할 수 있는 경우에 숙제를 숨기려면 여기를 클릭하십시오.", 
+            "chinese": "按一下這裡為您的班級隱藏「寫作作業」（若有）。", 
+            "japanese": "課題文 (クラスに利用できる場合) を非表示にするには、こちらをクリックします。", 
             "arabic": "أنقر هنا لكي تخفي واجبات الكتابة، إذا كانت متوفرة، لفصلك الدراسي."
           }
         },
@@ -101,7 +105,7 @@
             "english": "Click here to create a new class. (To add a new level, go to your Home page and click “Add a Level”.)",
             "turkish": "Yeni bir sınıf oluşturmak için buraya tıklayın. (Yeni bir seviye eklemek için, Anasayfaya gidin ve “Add a Level” seçeneğine tıklayın.)",
             "spanish": "Haga clic aquí para crear una nueva clase. (Para añadir un nuevo nivel, vaya a su página de Inicio y haga clic en \"Add a Level\".)",
-            "korean": "새로운 수업을 생성하려면 여기를 클릭하십시오. (새로운 레벨을 추가하려면 홈페이지에서 \"레벨 추가\"를 클릭하십시오.) ", 
+            "korean": "새로운 수업을 생성하려면 여기를 클릭하십시오. (새로운 레벨을 추가하려면 홈페이지에서 \"Add a Level\"를 클릭하십시오.) ", 
             "arabic": "انقر هنا لإنشاء فصل جديد. (لإضافة مستوى جديد؛ انتقل إلى الصفحة الرئيسية وانقر“Add a Level”( \"إضافة مستوى\").)"
           }
         }

@@ -53,7 +53,9 @@
             "english": "Click here to show the first attempt on each activity. Students can continue to practice, but you will only see their first score in your reports. This also applies to teacher graded activities.",
             "turkish": "Her bir aktivitenin ilk denemesini göstermek için buraya tıklayın.  Öğrenciler uygulamaya devam edebilirler, ancak raporlarda sadece ilk öğrenci puanlarını göreceksiniz.  Öğretmen tarafından puanlanan aktiviteler için de aynı kural geçerlidir.",
             "spanish": "Haga clic aquí para mostrar el primer intento en cada actividad. Los estudiantes pueden continuar practicando, pero usted verá únicamente el primer puntaje de ellos en sus reportes. Esto se aplica también a las actividades calificadas por el maestro.",
-            "korean": "", 
+            "korean": "각 활동에 대한 첫 시도를 표시하려면 여기를 클릭하십시오. 학생은 계속 연습할 수 있지만, 보고서에는 첫 점수만 보입니다. 교사가 평가한 활동도 마찬가지입니다.", 
+            "chinese": "按一下這裡顯示對每項活動的首次嘗試。學生們能夠繼續練習，但您在您的報告中將只看到他們的第一個分數。這也適用於教師評分的活動。",
+            "japanese": "各アクティビティの最初の試みを表示するには、こちらをクリックします。生徒は練習を続けることができますが、レポートには最初の得点のみが表示されます。これは講師が採点するアクティビティにも該当します。", 
             "arabic": "أنقر هنا لكي تبين المحاولة الاولى لكل نشاط. يستطيع الطلاب الاستمرار في الممارسة، لكنك سترى فقط درجتهم الاولى في تقاريرك. وهذا ينطبق أيضاً على النشاطات التي قدّرها المدرس."
           }
         },

@@ -29,7 +29,9 @@
             "english": "Use this menu to choose a unit. When you choose a unit, you will be taken to the first activity within that unit.",
             "turkish": "Bir ünite seçmek için bu menüyü kullanın. Bir üniteyi seçtiğinizde o ünitedeki birinci aktivite açılacaktır.",
             "spanish": "Use este menú para elegir una unidad. Cuando usted elige una unidad, se le llevará a la primera actividad en dicha unidad.",
-            "korean": "이 메뉴를 이용하여 단원을 선택하십시오. 단원을 선택하시면 단원 내 첫 번째 활동으로 이동합니다.",
+            "korean": "단원을 선택하려면 이 메뉴를 이용하십시오. 단원을 선택하면 그 단원 안에 있는 첫 활동으로 안내됩니다.",
+            "chinese": "使用這個功能表來選擇一個單元。當選定單元時，您將看到該單元內的第一項活動。",
+            "japanese": "このメニューを使ってユニットを選択します。ユニットを選択すると、ユニット内の最初のアクティビティに移動します。",
             "arabic": "إستعمل هذه القائمة لتختار وحدة متكاملة. عند إختيارك لهذه الوحدة، سوف تنتقل بك للنشاط الاول ضمن تلك الوحدة."
           }
         },
@@ -41,7 +43,9 @@
             "english": "Use this menu to choose an activity within a unit.",
             "turkish": "Bir ünite içinden bir aktivite seçmek için bu menüyü kullanın.",
             "spanish": "Use este menú para seleccionar una actividad dentro de una unidad.",
-            "korean": "이 메뉴를 이용하여 단원 안의 활동을 선택하십시오.",
+            "korean": "단원 안에서 활동을 선택하려면 이 메뉴를 이용하십시오.",
+            "chinese": "使用這個功能表在單元內選擇一項活動。",
+            "japanese": "このメニューを使ってユニット内のアクティビティを選択します。",
             "arabic": "إستعمل هذه القائمة لتختار نشاط من ضمن الوحدة."
           }
         },
@@ -53,7 +57,7 @@
             "english": "Use the “Previous” and “Next” buttons to navigate through the activities in sequence.",
             "turkish": "Aktiviteler arasında sırayla gezinmek için “Previous” ve “Next” düğmelerini kullanın.",
             "spanish": "Utilice los botones \"Previous\" y \"Next\" para navegar a través de las actividades en secuencia.",
-            "korean": "\"이전\"과 \"다음\" 버튼을 이용하여 순서대로 활동을 이동하십시오. ",
+            "korean": "\"Previous\"과 \"Next\" 버튼을 이용하여 순서대로 활동을 이동하십시오. ",
             "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل. "
           }
         },
@@ -77,7 +81,9 @@
             "english": "Click here to submit your answers when you have answered all questions in an activity. If you are submitting an audio recording or a written assignment, you cannot resubmit until your teacher provides a grade.",
             "turkish": "Bir aktivitedeki soruların tamamını cevapladığınızda cevaplarınızı göndermek için buraya tıklayın. Bir ses kaydı veya yazı ödevi gönderiyorsanız, öğretmen  puan verene kadar bir daha gönderemezsiniz.",
             "spanish": "Haga clic aquí para presentar sus respuestas después de haber respondido todas las preguntas en una actividad. Si va a presentar una grabación de audio o una tarea escrita, no podrá volver a presentarla hasta que su maestro le dé una calificación.",
-            "korean": "",
+            "korean": "한 활동에 포함된 질문 전체에 답한 후 답을 제출하려면 여기를 클릭하십시오. 오디오 녹음 또는 글로 쓴 숙제를 제출하는 것이라면, 교사가 평점을 제공하기 전에는 다시 제출할 수 없습니다.",
+            "chinese": "在您回答了活動中的全部問題後，按一下這裡提交您的答案。如果提交的是錄音或書面作業，您在教師評分之前不能重新提交。",
+            "japanese": "アクティビティ内のすべての質問に回答したら、こちらをクリックして回答を提出します。オーディオ録音や課題文を提出する場合、講師から成績を受け取るまで再提出はできません。",
             "arabic": "أنقر هنا لكي تقدم أجوبتك عندما تكون قد أجبت على جميع الاسئلة في النشاط. إذا كنت تقدم تسجيل صوتي أو واجبات تحريرية، لا يمكنك إعادة التقديم الى أن يقدم مدرسك الدرجة."
           }
         },
@@ -89,7 +95,9 @@
             "english": "You can try most activities again if you answer some questions incorrectly. You can try most activities as many times as you like.",
             "turkish": "Bazı sorulara yanlış cevap verirseniz aktivitelerin çoğunu tekrar deneyebilirsiniz. Aktivitelerin çoğunu defalarca deneyebilirsiniz.",
             "spanish": "Puede volver a intentar la mayoría de actividades si contestó erróneamente algunas preguntas. Puede intentar la mayoría de actividades tantas veces como guste.",
-            "korean":"",
+            "korean":"일부 답이 오답이면 대부분의 활동을 재시도할 수 있습니다. 원하는 횟수만큼 재시도할 수 있습니다",
+            "chinese": "倘若您對一些問題的回答不正確，您能夠再次嘗試大多數活動。您能夠不限次數地嘗試大多數活動。",
+            "japanese": "回答を間違えた場合、ほとんどのアクティビティでは再試行が可能です。ほとんどのアクティビティで、何回でも正解を試みることができます。",
             "arabic": "يمكنك أن تجرب معظم النشاطات مرة أخرى إذا كانت بعض من إجاباتك غير صحيحة. يمكنك أن تجرب معظم النشاطات عدة مرا ت كما يحلو لك."
           }
         },
