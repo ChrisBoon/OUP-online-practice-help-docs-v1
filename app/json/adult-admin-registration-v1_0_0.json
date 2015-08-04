@@ -4,6 +4,8 @@
     "turkish": "Yönetici Kaydı",
     "spanish": "Registro de Administrador",
     "korean": "교육기관 관리자 등록",
+    "chinese": "管理人註冊",
+    "japanese": "管理者の登録",
     "arabic": "عرض التقارير"
   },
  "segment": "adult",
@@ -18,6 +20,8 @@
         "turkish": "",
         "spanish": "",
         "korean": "",
+        "chinese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -30,6 +34,8 @@
             "turkish": "İlk kez kullanıyorsanız “Register” düğmesine tıklayın.",
             "spanish": "Si utiliza la página por primera vez, haga clic en \"Register\".",
             "korean": "처음 사용하시는 분은 \"등록\"을 클릭하십시오.",
+            "chinese": "如果您第一次使用，請點擊Register（註冊）。",
+            "japanse": "はじめてご利用になる場合は、Register［登録する］をクリックします。",
             "arabic": "إذا كنت مستخدمًا لأول مرة,فانقر على “Register”(\"تسجيل\")."
           }
         }
@@ -43,6 +49,8 @@
         "turkish": "Kullanım Koşullarını kabul edin.",
         "spanish": "Aceptar las Condiciones de Uso",
         "korean": "이용약관 동의",
+        "chinese": "同意使用條款",
+        "japanese": "利用規約への同意",
         "arabic": "وافق على شروط الاستخدام"
       },
       "paragraphs":{
@@ -55,6 +63,8 @@
             "turkish": "Bu sayfa Kullanım Koşullarını açıklamaktadır. Online Uygulamaya kaydolmak için koşulları kabul etmeniz gerekir.",
             "spanish": "Esta página explica las Condiciones de Uso. Usted debe aceptarlas para poder registrarse en la Práctica Online.",
             "korean": "이 페이지는 이용약관을 설명합니다. 온라인 실습을 등록하시려면 약관에 동의하셔야 합니다.",
+            "chinese": "本頁面說明使用條款，為了註冊線上練習，您必須同意這些條款。",
+            "japanse": "このページは利用規約を説明しています。Online Practiceに登録するには、利用規約に同意する必要があります。",
             "arabic": "تشرح هذه الصفحة شروط الاستخدام. يجب عليك الموافقة على الشروط لكي تقوم بالتسجيل الخاص بالممارسة عبر شبكة الإنترنت."
           }
         },
@@ -67,6 +77,8 @@
             "turkish": "Kullanım Koşullarını kabul ettiğinizi beyan etmek için kutucuğu işaretleyin.",
             "spanish": "Marque la casilla para indicar que está de acuerdo con las Condiciones de Uso.",
             "korean": "박스에 체크하여 이용약관에 동의함을 표시하십시오.",
+            "chinese": "勾選方框以表示您同意使用條款。",
+            "japanse": "利用規約への同意を表明するには、ボックスにチェックマークを入れます。",
             "arabic": "ضع علامة في المربع لإظهار موافقتك على شروط الاستخدام."
           }
         },
@@ -79,6 +91,8 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "chinese": "點此處回到上一頁。",
+            "japanse": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -91,6 +105,8 @@
             "turkish": "Bir sonraki sayfaya gitmek için buraya tıklayın. Bir sonraki sayfaya gidebilmeniz için önce Kullanım Koşullarını kabul ettiğinizi gösteren kutucuğu işaretlemeniz gerekir.",
             "spanish": "Haga clic aquí para ir a la página siguiente. Debe marcar la casilla para indicar que usted está de acuerdo con las Condiciones de Uso antes de poder acceder a la página siguiente.",
             "korean": "여기를 클릭하여 다음 페이지로 가십시오. 다음 페이지로 가기 전에 박스에 체크하여 이용약관에 동의함을 표시해야 합니다.",
+            "chinese": "點此處到下一頁。前往下一頁之前，您必須將方框勾選起來，以表示您同意使用條款。",
+            "japanse": "次のページに進むには、こちらをクリックします。次のページに進むには、利用規約への同意を表明するチェックマークが必要です。",
             "arabic": "انقر هنا للانتقال إلى الصفحة التالية. يجب عليك وضع علامة في المربع لإظهار موافقتك على شروط الاستخدام قبل أن يمكنك الانتقال إلى الصفحة التالية."
           }
         }
@@ -104,6 +120,8 @@
         "turkish": "Erişim kodunuzu girin",
         "spanish": "Ingrese su código de acceso",
         "korean": "접속 코드 입력",
+        "chinese": "輸入您的通行代碼",
+        "japanese": "アクセスコードの入力",
         "arabic": "أدخل رمز الدخول الخاص بك"
       },
       "paragraphs":{
@@ -116,6 +134,8 @@
             "turkish": "Yönetici erişim kodunuzu girin.",
             "spanish": "Ingrese su código de acceso de Administrador.",
             "korean": "교육기관 관리자 접속 코드를 입력하십시오.",
+            "chinese": "輸入您的管理人使用密碼。",
+            "japanse": "管理者アクセスコードを入力します。",
             "arabic": "أدخل رمز دخول المدير الخاص بك."
           }
         },
@@ -128,6 +148,8 @@
             "turkish": "“Enter” düğmesine tıklayın.",
             "spanish": "Haga clic en \"Enter\".",
             "korean": "\"Enter\"을 클릭하십시오.",
+            "chinese": "點擊Enter（輸入）。",
+            "japanse": "2Enter[アクセス]をクリックします。",
             "arabic": "انقر “Enter”(\"إدخال\")"
           }
         }
@@ -141,6 +163,8 @@
         "turkish": "Kişisel bilgilerinizi girin",
         "spanish": "Ingrese sus datos",
         "korean": "세부사항 입력",
+        "chinese": "輸入您的詳細資料",
+        "japanese": "詳細情報の入力",
         "arabic": "أدخل التفاصيل الخاصة بك"
       },
       "paragraphs":{
@@ -153,6 +177,8 @@
             "turkish": "Adınızı girin.",
             "spanish": "Ingrese su nombre (nombre de pila).",
             "korean": "이름을 입력하십시오.",
+            "chinese": "輸入您的名字。",
+            "japanse": "名前（名）を入力します。",
             "arabic": "أدخل اسمك الأول (الاسم المُعطَى)."
           }
         },
@@ -165,6 +191,8 @@
             "turkish": "Soyadınızı (aile adı) girin.",
             "spanish": "Ingrese su apellido.",
             "korean": "성을 입력하십시오.",
+            "chinese":"輸入您的姓氏。",
+            "japanse": "名前（姓）を入力します。",
             "arabic": "أدخل اسمك الأخير (اسم العائلة)."
           }
         },
@@ -177,6 +205,8 @@
             "turkish": "E-posta adresinizi tekrar girin.",
             "spanish": "Ingrese su dirección de correo electrónico.",
             "korean": "이메일 주소를 입력하십시오.",
+            "chinese": "輸入您的電子郵件地址。",
+            "japanse": "メールアドレスを入力します。",
             "arabic": "أدخل عنوان بريدك الإلكتروني."
           }
         },
@@ -189,6 +219,8 @@
             "turkish": "E-posta adresinizi tekrardan yazın.",
             "spanish": "Vuelva a escribir su dirección de correo electrónico.",
             "korean": "이메일 주소를 다시 입력하십시오.",
+            "chinese": "請再輸入一次電子郵件地址。",
+            "japanse": "メールアドレスをもう一度入力します。",
             "arabic": "اطبع عنوان بريدك الإلكتروني مرةً أخرى."
           }
         },
@@ -201,6 +233,8 @@
             "turkish": "Bir parola seçin.",
             "spanish": "Elija una contraseña.", 
             "korean": "패스워드를 선택하십시오.",
+            "chinese": "選擇一個密碼。",
+            "japanse": "希望のパスワードを入力します。",
             "arabic": "حدد كلمة مرور."
           }
         },
@@ -213,6 +247,8 @@
             "turkish": "Parolanızı tekrar girin.",
             "spanish": "Vuelva a escribir su contraseña.",
             "korean": "패스워드를 다시 입력하십시오.",
+            "chinese": "再輸入一次您的密碼。",
+            "japanse": "希望のパスワードを入力します。",
             "arabic": "قم بطباعة كلمة المرور مرة أخرى."
           }
         },
@@ -225,6 +261,8 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "chinese": "點此處回到上一頁。",
+            "japanse": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -237,6 +275,8 @@
             "turkish": "Bilgilerinizi göndermek ve bir sonraki sayfaya geçmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su información e ir a la página siguiente.",
             "korean": "여기를 클릭하여 정보를 제출하고 다음 페이지로 가십시오.",
+            "chinese": "點此處以送出您的資料，並前往下一頁。",
+            "japanse": "情報を送信し次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا لإرسال المعلومات الخاصة بك وانتقل للصفحة التالية."
           }
         }
@@ -250,6 +290,8 @@
         "turkish": "Kurum adınızı girin",
         "spanish": "Ingrese el nombre de su institución",
         "korean": "교육기관명 입력",
+        "chinese": "輸入您的機關單位名稱",
+        "japanese": "学校・団体名の入力",
         "arabic": "أدخل اسم المؤسسة الخاصة بك"
       },
       "paragraphs":{
@@ -262,6 +304,8 @@
             "turkish": "Okul ya da kurumunuzun adını girin.",
             "spanish": "Ingrese el nombre de su escuela o institución.",
             "korean": "귀하의 학교나 교육기관 이름을 입력하십시오.",
+            "chinese": "輸入您的學校或機關名稱。",
+            "japanse": "学校・団体名を入力します。",
             "arabic": "أدخل اسم مدرستك أو مؤسستك."
           }
         },
@@ -274,6 +318,8 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
             "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "chinese": "點此處回到上一頁。",
+            "japanse": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -286,6 +332,8 @@
             "turkish": "Kurumunuzun adını göndermek ve bir sonraki sayfaya geçmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el nombre de su institución e ir a la página siguiente.",
             "korean": "여기를 클릭하여 교육기관명을 제출하고 다음 페이지로 가십시오.",
+            "chinese": "點此處以送出您的機關單位名稱並前往下一頁。",
+            "japanse": "学校・団体名を送信し次のページに進むには、こちらをクリックします。　",
             "arabic": "انقر هنا لإرسال اسم المؤسسة الخاصة بك وانتقل للصفحة التالية."
           }
         }
@@ -299,6 +347,8 @@
         "turkish": "Kurum kimlik (ID) kodunuzu kaydedin",
         "spanish": "Guarde el código de ID de su institución",
         "korean": "교육기관 ID 코드 저장",
+        "chinese": " 儲存您的機關單位代碼",
+        "japanese": "学校・団体IDコードの保存",
         "arabic": "احفظ رمزمُعرِّفالمؤسسة الخاصة بك."
       },
       "paragraphs":{
@@ -311,6 +361,8 @@
             "turkish": "Bu kurumunuza ait kimlik (ID) kodudur. Sınıf kayıtlarını kurumunuza iletebilmeleri için bu kodu öğretmenlerinize verin. Öğretmenler kurumunuza bu kodla bağlanmazsa, raporlarınızda onların sınıflarını göremezsiniz.",
             "spanish": "Este es el código de identificación para su institución. Comparta este código con sus profesores para que puedan vincular sus registros de clase a su institución. Si los profesores no se vinculan a la institución con este código, usted no podrá ver sus clases en sus reportes.",
             "korean": "이것은 귀 교육기관의 ID 코드입니다. 이 코드를 교사에게 제공하여 수업 기록을 자신의 교육기관에 연결할 수 있도록 하십시오. 교사가 교육기관에 이 코드를 연결하지 않으면 귀하께서는 보고서에서 수업을 보실 수 없습니다.",
+            "chinese": "這是您的機關單位代碼，提供此代碼給您的教師，他們可以將班級紀錄連結到您的機關單位。如果教師沒有使用這個代碼連結到您的機關單位，您將無法在報告中觀看他們的班級報告。",
+            "japanse": "今回登録された学校・団体IDコードが決まりました。このコードを先生に渡すと、クラス用レポートと学校・団体をリンクすることができます。先生がこのコードで学校・団体にリンクしないと、レポートでクラスを見ることができません。",
             "arabic": "هذا هو رمز مُعرِّف المؤسسة الخاصة بك. أعط هذا الرمز لمعلميك لكي يمكنهم ربط سجلاتفصولهمبمؤسستك. إذا لم يرتبط المعلمون ابلمؤسسة الخاصة بك عن طريق هذا الرمز، فلن يمكنك رؤية الفصول الخاصة بهم في تقاريرك."
           }
         },
@@ -323,6 +375,8 @@
             "turkish": "Bu sayfayı yazdırmak ve ilerisi için kaydetmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir esta página y guardarla en sus archivos.",
             "korean": "여기를 클릭하여 이 페이지를 인쇄하고 기록에 저장하십시오.",
+            "chinese": "點此處以列印本頁面，供您留存紀錄。",
+            "japanse": "このページを印刷してレポートとして保管するには、こちらをクリックします。",
             "arabic": "انقر هنا لطباعة هذه الصفحة واحفظها في السجلات الخاصة بك."
           }
         },
@@ -335,6 +389,8 @@
             "turkish": "Bir sonraki sayfaya gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ir a la página siguiente.",
             "korean": "여기를 클릭하여 다음 페이지로 가십시오.",
+            "chinese": "點此處前往下一頁。",
+            "japanse": "次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا للانتقال إلى الصفحة التالية."
           }
         }
@@ -348,6 +404,8 @@
         "spanish": "Guarde su información de registro",
         "turkish": "Kayıt bilgilerinizi kaydedin",
         "korean": "귀하의 등록 정보 저장",
+        "chinese": "儲存您的註冊資訊",
+        "japanese": "登録情報の保存",
         "arabic": "قم حفظ معلومات التسجيل الخاصة بك."
       },
       "paragraphs":{
@@ -360,6 +418,8 @@
             "turkish": "Bu sayfa kayıt bilgilerinizi gösterir. İlerisi için bu sayfayı yazdırmak isteyebilirsiniz. Bu bilgileri değiştirmek isterseniz, oturum açtıktan sonra Profili Düzenle’yi seçin (ekranın sağ üst köşesinde yer alacaktır).",
             "spanish": "Esta página muestra su información de registro. Es posible que desee imprimir esta página para sus registros. Si desea cambiar esta información, seleccione Edit Profile [Editar Perfil] después de iniciar sesión (se encontrará en la parte superior derecha de la pantalla).",
             "korean": "이 페이지는 귀하의 등록 정보를 표시합니다. 귀하께서는 기록을 위해 이 페이지를 인쇄하실 수 있습니다. 이 정보를 변경하시고자 하는 경우 로그인하신 다음 프로필 편집을 선택하십시오 (화면 우측 상단에 표시됩니다).",
+            "chinese": "本頁面顯示您的註冊資訊，您可以列印本頁面做為紀錄。如果您想更改這些資訊，請您在登入以後，選擇Edit Profile（編輯個人檔案）（將會顯示在畫面右上角）。",
+            "japanese": "",
             "arabic": "تُظهِر هذه الصفحة معلومات التسجيل الخاصة بك. وقد ترغب في طباعة هذه الصفحة مع السجلات الخاصة بك. إذا كنتترغب في تغيير هذه المعلومات، فحددEdit Profile(تحريرالملف الشخصي) بعد تسجيل الدخول (سيوجد في أعلى يمين الشاشة)."
           }
         },
@@ -372,6 +432,8 @@
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.", 
             "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.", 
+            "chinese": "點此處回到上一頁。",
+            "japanese": "このページは登録情報を表示します。必要に応じてこの画面を印刷してください。情報を変更する場合は、ログイン後に右上にあるEdit Profile[プロフィールの編集]をクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -384,6 +446,8 @@
             "turkish": "Kayıt bilgilerinizi yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir su información de registro.",
             "korean": "여기를 클릭하여 등록 정보를 변경하세요.",
+            "chinese": "點此處列印您的註冊資訊。",
+            "japanese": "登録情報を印刷するには、こちらをクリックします。",
             "arabic": "انقر هنا لطباعة معلومات التسجيل الخاصة بك."
           }
         },
@@ -396,6 +460,8 @@
             "turkish": "Kaydı tamamlamak ve Online Uygulama oturumunuzu açmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para completar el registro e iniciar sesión en su Práctica Online.",
             "korean": "여기를 클릭하여 등록을 완료하고 온라인 실습에 로그인하십시오.",
+            "chinese": "點此處完成註冊並登入您的線上練習。",
+            "japanese": "登録を完了してOnline Practiceにログインするには、こちらをクリックします。",
             "arabic": "انقر هنا لإكمال التسجيل وتسجيل الدخول إلىالممارسة الخاصة بك عبر شبكة الإنترنت."
           }
         }

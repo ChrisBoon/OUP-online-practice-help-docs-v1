@@ -290,7 +290,7 @@
             "spanish_la": "Haga click para seleccionar su nivel. Es muy importante seleccionar el nivel que va a utilizar. Revise el título para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede agregar otro nivel luego seleccionando \"Add a Level\" en su pantalla de Inicio. Necesitará un nuevo código de acceso para agregar un nivel.",
             "japanese": "レベルをクリックして選択します。使う予定のレベルを選択することが重要です。正しくレベルが選択されているかタイトルを確認してください。２つ以上のレベルのテキストを使用する場合は、ホーム画面にあるAdd a level[新しいレベルを追加]を選択することで、後から追加することができます。クリックします（新しいアクセスコードが必要になります）。",
             "chinese": "點擊以選擇您的級數。選擇您將要使用的級數非常重要，請檢查書名，確認是您的級數。如果您使用超過一個級數，您可以由首頁畫面選擇Add a level（新增級數）來增加其他級數，您將會需要另一個使用密碼來新增級數。",
-            "thai": "คลิกเพื่อเลือกระดับชั้นเรียนคุณต้องแน่ใจว่าได้เลือกระดับที่ถูกต้อง  ถ้าสอนมากกว่าหนึ่งระดับชั้นเรียน  คุณสามารถเพิ่มระดับได้ในภายหลัง  โดยคลิกที่เมนู“เพิ่มระดับชั้นเรียน” ในหน้าหลัก (คุณต้องมีรหัสรหัสการเข้าถึงของระดับชั้นที่ต้องการเพิ่มด้วย)",
+            "thai": "ขั้นตอนนี้เป็นขั้นตอนที่สำคัญ คุณต้องเลือกระดับชั้นเรียนที่ถูกต้องกับระดับชั้นที่สอน หากสอนมากกว่าหนึ่งระดับ คุณสามารถเพิ่มระดับได้ในภายหลังจากหน้าหลัก โดยคลิกที่เมนู “เพิ่มระดับชั้นเรียน” (ต้องมีรหัสรหัสของระดับชั้นที่ต้องการเพิ่มด้วย)",
             "portuguese": "Para selecionar o nível desejado, clique na imagem correspondente. É muito importante selecionar o nível correto. Verifique o título para escolher o nível que realmente será utilizado. Caso você vá utilizar mais de um nível, será possível adicionar outros níveis posteriormente, clicando em “Add a level” na sua página inicial. Você precisará de um novo código de acesso para adicionar um novo nível."
           }
         },
@@ -333,7 +333,7 @@
             "spanish_la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga click en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo click en “Join an Institution” desde su página de Detalles de la Clase.",
             "japanese": "学校・団体IDコードをお持ちの場合は、こちらに入力します。このコードは管理者から渡されるものです。このコードはクラスのレポートと学校・団体をリンクさせます。学校・団体IDコードをお持ちでない場合は、Skip[スキップ]をクリックします。このコードを後から入力するには、クラス詳細ページからJoin an Institution[学校・団体への参加登録]を選択します。",
             "chinese": "如果您有機關單位代碼，請在此輸入。此代碼由您的管理人提供，將您的班級紀錄連結到您的學校或機關單位。如果您沒有機關單位代碼，請點擊 Skip（略過）。您可以之後再輸入機關單位代碼，請由您的班級資料頁面點擊 Join an Institituion（加入機關單位）。",
-            "thai": "ถ้ามีรหัสสถาบันแล้วใส่ที่นี่  หากไม่มีรหัสสถาบัน คลิก ”ข้าม” คุณสามารถขอรหัสสถาบันได้จากผู้ดูแลระบบ รหัสนี้จะเชื่อมต่อข้อมูลการเรียนการสอนในห้องเรียนเข้ากับโรงเรียนหรือสถาบันการศึกษา คุณสามารถใส่รหัสสถาบันในภายหลังได้  โดยคลิกที่เมนู  “เข้าร่วมสถาบัน”จากหน้ารายละเอียดห้องเรียน",
+            "thai": "ใส่รหัสของสถาบันที่นี่  หากไม่ทราบ คลิก ”ข้าม” รหัสของสถาบันจะเชื่อมต่อข้อมูลการเรียนการสอนในห้องเรียนเข้ากับโรงเรียนหรือสถาบันการศึกษา คุณสามารถขอรหัสสถาบันได้จากผู้ดูแลระบบ และใส่รหัสในภายหลังได้ จากหน้ารายละเอียดห้องเรียนโดยคลิกที่เมนู  “เข้าร่วมสถาบัน” ",
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de aula com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você poderá inserir um código de identificação da instituição posteriormente clicando em “Join an institution” na sua página “Class Details”."
           }
         },
@@ -475,7 +475,7 @@
             "spanish_la": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "japanese": "今回登録されたクラスIDコードが決まりました。このコードを生徒に渡すと、生徒はクラスに参加登録ができ、先生が生徒の学習状況を確認することができます。",
             "chinese": "這是您在前一個畫面所命名班級的班級代碼，將這個代碼提供給您的學生，以便他們加入您的班級，而您也能夠看到他們的課業。",
-            "thai": "นี่คือรหัสห้องเรียนที่คุณได้สร้างจากหน้าที่แล้ว แจกรหัสนี้ให้กับนักเรียนของคุณทุกคนเพื่อคุณจะได้เข้ามาดูรายงานความคืบหน้าในการทำกิจกรรมของนักเรียนได้",
+            "thai": "หน้านี้จะแสดงข้อมูลการลงทะเบียนทั้งหมด คุณสามารถสั่งพิมพ์เพื่อเก็บบันทึก หากต้องการแก้ไขข้อมูล หลังจากเข้าระบบ ให้คลิก \"แก้ไขข้อมูลส่วนตัว\" (ด้านบนขวาของหน้าจอ)",
             "portuguese": "Este é o código de identificação de turma para a turma nomeada na tela anterior. Forneça esse código para os seus alunos para que eles possam participar da sua turma e para que você possa visualizar os seus trabalhos."
           }
         },

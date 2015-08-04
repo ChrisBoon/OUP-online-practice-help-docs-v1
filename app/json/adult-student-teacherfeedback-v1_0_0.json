@@ -4,8 +4,8 @@
     "turkish": "Çevrim İçi Uygulama Aktiviteleri için Öğretmenin Geri Bildirimi",
     "spanish": "Comentarios del maestro sobre las actividades de práctica en línea",
     "korean": "온라인 실습 활동을 위한 교사 피드백",
-    "chinese": "",
-    "japanese": "",
+    "chinese": "線上練習活動的教師回饋",
+    "japanese": "オンライン練習アクティビティに対する講師のフィードバック",
     "arabic": "ملاحظات المدرس المتعلقة بممارسة  النشاطات عبر شبكة الانترنت"
   },
  "segment": "adult",
@@ -34,8 +34,8 @@
             "turkish": "Öğretmeniniz bir Çevrim İçi aktivite için geri bildirim yolladığında size e-posta ile haber verilecektir.",
             "spanish": "Cuando su maestro ha presentado sus comentarios para una actividad de práctica en línea, usted recibirá una notificación por correo electrónico.",
             "korean": "講師がオンライン練習アクティビティに対するフィードバックを提出すると、メールで通知が行きます。",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "每當教師提交線上練習活動的回饋，您都會收到電子郵件通知。",
+            "japanese": "講師がオンライン練習アクティビティに対するフィードバックを提出すると、メールで通知が行きます。",
             "arabic": "عندما يكون مدرسك قد قام بتقديم ملاحظات لممارسة النشاط عبر شبكة الانترنت، سوف تستلم إشعاراً بالبريد الالكتروني."
           }
         },
@@ -48,8 +48,8 @@
             "turkish": "Geri bildirime ulaşmak üzere bağlantıyı izleyin.",
             "spanish": "Siga el enlace para acceder a sus comentarios.",
             "korean": "リンクを使ってフィードバックにアクセスします。",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "請使用連結來檢視您的回饋。",
+            "japanese": "リンクを使ってフィードバックにアクセスします。",
             "arabic": "تتبّع الرابط لكي تدخل في ملاحظاتك."
           }
         }
@@ -77,8 +77,8 @@
             "turkish": "Bağlantı sizi ünitenin birinci aktivitesine götürecektir. Ünite aktiviteleri arasında gezinerek geri bildirimi bulun.",
             "spanish": "El enlace le llevará a la primera actividad en la unidad. Navegue a través de las actividades de la unidad para localizar los comentarios.",
             "korean": "このリンクをクリックすると、ユニット内の最初のアクティビティが開きます。そこからフィードバックがあるアクティビティに移動します。",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "該連結將帶您前去該單元內的第一項活動。瀏覽單元的活動，即可找到該回饋。",
+            "japanese": "このリンクをクリックすると、ユニット内の最初のアクティビティが開きます。そこからフィードバックがあるアクティビティに移動します。",
             "arabic": "سينقلك الرابط الى أول نشاط في الوحدة. إبحث في نشاطات الوحدة حتى النهاية  لكي تعين  موضع الملاحظات."
           }
         }
@@ -103,8 +103,8 @@
             "turkish": "Gönderilmiş bir aktivite için Öğretmenin Geri Bildirimi açılan bir pencerede görünür.",
             "spanish": "Los comentarios del maestro para una actividad presentada aparecen como una ventana emergente.",
             "korean": "提出したアクティビティに対する講師のフィードバックがポップアップウィンドウに表示されます。",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "已提交活動的教師回饋將出現在跳現視窗內。",
+            "japanese": "提出したアクティビティに対する講師のフィードバックがポップアップウィンドウに表示されます。",
             "arabic": "تظهر ملاحظات المدرس حول نشاط  مقدّم كنافذة منبثقة."
           }
         },
@@ -117,8 +117,8 @@
             "turkish": "Aldığınız puan. Öğretmeniniz not defterine birinci ya da en son denemenizden hangisinin notunun gireceğine karar verir.",
             "spanish": "Este es su puntaje. Su maestro decide si su primer intento o su intento más reciente se incorporan al cuaderno de calificaciones.",
             "korean": "これはあなたの得点です。講師はあなたの最初の得点またはもっとも最近の得点のどちらを成績表に記録するかを決めます。",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "這是您的分數。究竟是把您的首次嘗試還是最新嘗試報告給計分簿，由您的教師決定。",
+            "japanese": "これはあなたの得点です。講師はあなたの最初の得点またはもっとも最近の得点のどちらを成績表に記録するかを決めます。",
             "arabic": "هذه هي درجاتك. يقرر مدرسك فيما لو كانت محاولتك الأولى أو أحدث محاولة لك مبلّغة إلى سجل التقديرات."
           }
         },
@@ -131,8 +131,8 @@
             "turkish": "Geri bildirim penceresini kapamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para cerrar la ventana de comentarios.",
             "korean": "フィードバックウィンドウを閉じるには、こちらをクリックします。",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "按一下這裡關閉回饋視窗。",
+            "japanese": "フィードバックウィンドウを閉じるには、こちらをクリックします。",
             "arabic": "أنقر هنا كي تغلق نافذة الملاحظات."
           }
         }
@@ -160,8 +160,8 @@
             "turkish": "Bu aktiviteyi tekrar tamamlayıp gönderebilirsiniz.",
             "spanish": "Usted puede volver a completar y presentar la actividad.",
             "korean": "アクティビティを再度提出することができます。",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "您可再次完成和提交該活動。",
+            "japanese": "アクティビティを再度提出することができます。",
             "arabic": "يمكنك إكمال النشاط وتقديمه مرة أخرى."
           }
         },
@@ -174,8 +174,8 @@
             "turkish": "Tekrar gönderirseniz, aktiviteyi bir daha denemeden önce yeni geri bildirim gelmesini beklemelisiniz.",
             "spanish": "Si la vuelve a presentar, deberá esperar los nuevos comentarios antes de intentar realizar la actividad nuevamente.",
             "korean": "ただし、すでに提出しているアクティビティに対するフィードバックが来るまで、再提出はできません。",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "倘若再次提交，您必須等到有新的回饋後，才能再次嘗試該活動。",
+            "japanese": "ただし、すでに提出しているアクティビティに対するフィードバックが来るまで、再提出はできません。",
             "arabic": "إذا قدمت النشاط مرة أخرى، ينبغي أن تنتظر لتلقي ملاحظات جديدة كي تجرب النشاط مرة أخرى."
           }
         }
