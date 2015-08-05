@@ -4,6 +4,8 @@
     "turkish": "Denemeleri Yönet",
     "spanish": "Administrar los intentos",
     "korean": "시도 관리",
+    "chinese": "",
+    "japanese": "",
     "arabic": "إدارة المحاولات"
   },
  "segment": "adult",
@@ -18,6 +20,8 @@
         "turkish": "",
         "spanish": "",
         "korean": "",
+        "chinese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -29,7 +33,9 @@
             "english": "This page allows you to change the information you see in your reports.",
             "turkish": "Bu sayfa, raporlarınızda gördüğünüz bilgileri değiştirmenizi sağlar.",
             "spanish": "Esta página le permite cambiar la información que visualiza en sus informes.",
-            "korean": "이 페이지에서는 보고서에서 보는 정보를 변경할 수 있습니다.", 
+            "korean": "이 페이지에서는 보고서에서 보는 정보를 변경할 수 있습니다.",
+            "chinese": "",
+            "japanese": "", 
             "arabic": "تتيح لك هذه الصفحة إجراء تغيير في معلومات تراها في تقاريرك."
           }
         },
@@ -42,6 +48,8 @@
             "turkish": "Başka bir sınıfın denemelerini yönetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para administrar los intentos para una clase diferente.",
             "korean": "다른 수업의 시도를 관리하려면 여기를 클릭하십시오.",
+            "chinese": "",
+            "japanese": "",
             "arabic": "أنقر هنا لإدارة محاولات لصف مختلف."
           }
         },
@@ -55,7 +63,9 @@
             "spanish": "Haga clic aquí para mostrar el primer intento en cada actividad. Los estudiantes pueden continuar practicando, pero usted verá únicamente el primer puntaje de ellos en sus reportes. Esto se aplica también a las actividades calificadas por el maestro.",
             "korean": "각 활동에 대한 첫 시도를 표시하려면 여기를 클릭하십시오. 학생은 계속 연습할 수 있지만, 보고서에는 첫 점수만 보입니다. 교사가 평가한 활동도 마찬가지입니다.", 
             "chinese": "按一下這裡顯示對每項活動的首次嘗試。學生們能夠繼續練習，但您在您的報告中將只看到他們的第一個分數。這也適用於教師評分的活動。",
-            "japanese": "各アクティビティの最初の試みを表示するには、こちらをクリックします。生徒は練習を続けることができますが、レポートには最初の得点のみが表示されます。これは講師が採点するアクティビティにも該当します。", 
+            "japanese": "各アクティビティの最初の試みを表示するには、こちらをクリックします。生徒は練習を続けることができますが、レポートには最初の得点のみが表示されます。これは講師が採点するアクティビティにも該当します。",
+            "chinese": "",
+            "japanese": "", 
             "arabic": "أنقر هنا لكي تبين المحاولة الاولى لكل نشاط. يستطيع الطلاب الاستمرار في الممارسة، لكنك سترى فقط درجتهم الاولى في تقاريرك. وهذا ينطبق أيضاً على النشاطات التي قدّرها المدرس."
           }
         },
@@ -68,6 +78,8 @@
             "turkish": "Her bir aktivitenin son denemesini görmek için buraya tıklayın. Öğrenciler denemeye devam edebilir, ancak siz raporlarda sadece son öğrenci puanlarını göreceksiniz. (Bu otomatik ayardır.)",
             "spanish": "Haga clic aquí para mostrar el último intento en cada actividad. Los estudiantes pueden continuar practicando, pero usted solo verá la última puntuación en sus informes. (Esta es la configuración predeterminada).",
             "korean": "각 활동의 최종 시도를 보려면 여기를 클릭하십시오. 학생은 실습을 계속할 수 있으나 귀하께서는 보고서에서 마지막 점수만 보실 수 있습니다. (이것은 기본 설정입니다)",
+            "chinese": "",
+            "japanese": "",
             "arabic": "أنقر هنا لكي ترى المحاولة الأخيرة لكل نشاط. يستطيع الطلاب الاستمرار في الممارسة، لكنك سترى فقط  درجتهم الاخيرة في تقاريرك. (هذا هو الإعداد الافتراضي.)"
           }
         },
@@ -79,7 +91,9 @@
             "english": "Click here to save your changes.",
             "turkish": "Yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar sus cambios.",
-            "korean": "변경사항을 저장하려면 여기를 클릭하십시오.", 
+            "korean": "변경사항을 저장하려면 여기를 클릭하십시오.",
+            "chinese": "",
+            "japanese": "", 
             "arabic": "أنقر هنا لكي تحفظ التغييرات التي أجريتها."
           }
         }

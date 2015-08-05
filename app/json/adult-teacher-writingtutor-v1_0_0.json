@@ -89,6 +89,8 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para regresar a la página anterior.",
+            "chinese": "按一下這裡回到前一頁。",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي ترجع الى الصفحة السابقة."
           }
         }
@@ -255,6 +257,8 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para regresar a la página anterior.",
+            "chinese": "按一下這裡回到前一頁。",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي ترجع الى الصفحة السابقة."
           }
         }
@@ -323,6 +327,8 @@
             "english": "Click here to hide the left navigation.",
             "turkish": "Sol gezinmeyi gizlemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ocultar la navegación izquierda.",
+            "chinese": "按一下這裡隱藏左邊的導航。",
+            "japanese": "左側のナビゲーションを閉じるには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي تخفي التنقل الأيسر."
           }
         },

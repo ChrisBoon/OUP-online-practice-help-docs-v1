@@ -131,6 +131,8 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel’e aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel.",
+            "chinese": "按一下這裡將此報告匯出到Microsoft Excel。",
+            "japanese": "このレポートを Microsoft Excel にエクスポートするには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي تصدر هذا التقرير الى Microsoft Excel مايكروسوفت إكسل"
           }
         },
@@ -142,6 +144,8 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
+            "chinese": "按一下這裡列印此報告。",
+            "japanese": "このレポートを印刷するには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي تطبع هذا التقرير."
           }
         }

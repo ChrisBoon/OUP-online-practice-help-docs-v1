@@ -4,6 +4,8 @@
     "turkish": "İçeriği Gizle/Ata",
     "spanish": "Ocultar/Asignar contenido",
     "korean": "컨텐츠 숨기기/할당",
+    "chinese": "隱藏/指派寫作",
+    "japanese": "非表示/課題文",
     "arabic": "تحديد المحتوى /إخفاء"
   },
  "segment": "adult",
@@ -18,6 +20,8 @@
         "turkish": "",
         "spanish": "",
         "korean": "",
+        "chinese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -30,6 +34,8 @@
             "turkish": "Bu sayfadaki kutuları işaretleyerek bazı içeriği öğrencilerden gizleyebilirsiniz.",
             "spanish": "Se puede ocultar el contenido de sus estudiantes, marcando las casillas de esta página.",
             "korean": "이 페이지의 상자에 체크하여 학생이 컨텐츠를 보지 못하도록 할 수 있습니다.", 
+            "chinese": "",
+            "japanese": "",
             "arabic": "يمكنك إخفاء المحتوى عن الطلاب بواسطة وضع علامات على المربعات في هذه الصفحة."
           }
         },
@@ -42,6 +48,8 @@
             "turkish": "Menüyü kullanarak bir ders seçin.",
             "spanish": "Elija una clase utilizando el menú.",
             "korean": "메뉴를 이용하여 수업을 선택하십시오.", 
+             "chinese": "請使用選單選擇一個班級。",
+            "japanese": "クラスはこちらのメニューから選択します。",
             "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
           }
         },
@@ -54,6 +62,8 @@
             "turkish": "Bölümün tamamını gizlemek için bu kutuyu işaretleyin.",
             "spanish": "Marque una casilla aquí para ocultar un segmento completo.",
             "korean": "여기에서 상자에 체크하여 전체 세그먼트을 숨기십시오.", 
+            "chinese": "",
+            "japanese": "",
             "arabic": "ضع علامة في  مربع ما لكي تخفي القسم بأكمله."
           }
         },
@@ -66,6 +76,8 @@
             "turkish": "Bir bölümün içinde seçtiğiniz üniteleri gizlemek için bu kutuyu işaretleyin.",
             "spanish": "Marque una casilla aquí para ocultar unidades seleccionadas en un segmento.",
             "korean": "여기에서 상자를 클릭하여 세그먼트 내에서 선택한 단원을 숨기십시오.", 
+            "chinese": "",
+            "japanese": "",
             "arabic": "ضع علامة على مربع ما هنا لكي تخفي الوحدات المختارة ضمن القسم."
           }
         },
@@ -78,6 +90,8 @@
             "turkish": "Bu sınıfta yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
             "korean": "본 수업의 변경사항을 저장하려면 여기를 클릭하십시오.", 
+            "chinese": "點此處以儲存您對此班級所做的變更。",
+            "japanese": "このクラスの変更内容を保存するには、こちらをクリックします。",
             "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
           }
         }

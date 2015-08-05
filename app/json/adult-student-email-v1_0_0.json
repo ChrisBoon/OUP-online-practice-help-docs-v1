@@ -77,7 +77,7 @@
             "spanish": "Haga clic en el botón \"Delete\" para eliminar un mensaje de su bandeja de entrada.",
             "korean": "\"Delete\" 버튼을 클릭하면 받은 메시지함에서 메시지를 삭제합니다. ", 
             "chinese": "點擊Delete（刪除）按鈕，可從收件箱中刪除此訊息。",
-           "japanese": Delete[削除]ボタンをクリックすると、受信トレイからメッセージを削除することができます。"",
+           "japanese": "Delete[削除]ボタンをクリックすると、受信トレイからメッセージを削除することができます。",
             "arabic": "انقر فوق زِر “Delete”(\"حذف\") لإزالة رسالة ما من صندوق البريد الوارد الخاص بك."
           }
         },
