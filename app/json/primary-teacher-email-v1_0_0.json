@@ -5,6 +5,9 @@
     "spanish": "Correo electrónico",
     "spanish_la": "Correo electrónico",
     "portuguese": "E-mail",
+    "japanese": "メール",
+    "chinese": "電子郵件",
+    "thai": "อีเมล",
     "arabic": "البريد الإلكتروني"
   },
  "segment": "primary",
@@ -20,6 +23,9 @@
         "spanish": "Elija una clase",
         "spanish_la": "Elija una clase",
         "portuguese": "Escolha uma aula",
+        "japanese": "クラスの選択",
+        "chinese": "選擇班級",
+        "thai": "เลือกห้องเรียน",
         "arabic": "حدد فصل"
       },
       "paragraphs":{
@@ -33,6 +39,9 @@
             "spanish": "Seleccione una clase del menú.",
             "spanish_la": "Seleccione una clase del menú.",
             "portuguese": "Selecione uma turma a partir do menu.",
+            "japanese": "クラスはこのメニューから選択します。",
+            "chinese": "從選單裡面選擇一個班級。",
+            "thai": "คลิกเลือกห้องเรียน",
             "arabic": "حدد فصلًامن القائمة."
           }
         }
@@ -47,6 +56,9 @@
         "spanish": "Sus mensajes",
         "spanish_la": "Sus mensajes",
         "portuguese": "Suas mensagens",
+        "japanese": "メッセージ",
+        "chinese": "您的訊息",
+        "thai": "กล่องจดหมาย",
         "arabic": "رسالتك"
       },
       "paragraphs":{
@@ -60,6 +72,9 @@
             "spanish": "Esta es su bandeja de entrada. Sus mensajes aparecerán en esta columna.",
             "spanish_la": "Esta es su bandeja de entrada. Sus mensajes aparecerán en esta columna.",
             "portuguese": "Esta é a sua caixa de entrada. Suas mensagens aparecerão nesta coluna.",
+            "japanese": "この画面は受信トレイを表示します。メッセージを受け取ると、この欄に表示されます。",
+            "chinese": "這是您的收件箱。您的訊息會顯示在這個欄位裡面。",
+            "thai": "เมื่อมีจดหมายส่งถึงคุณ  จะถูกแสดงที่นี่",
             "arabic": "هذا هو صندوق البريد الوارد الخاص بك. ستظهر رسائلك في العمود هنا."
           }
         },
@@ -73,6 +88,9 @@
             "spanish": "Hay un número a la derecha del encabezado de la bandeja de entrada.  Este número muestra la cantidad de mensajes no leídos en su bandeja de entrada.",
             "spanish_la": "Hay un número a la derecha del encabezado de la bandeja de entrada.  Este número muestra la cantidad de mensajes no leídos en su bandeja de entrada.",
             "portuguese": "Um número é exibido à direita do título da caixa de entrada.  Esse número exibe a quantidade de mensagens não lidas que estão em sua caixa de entrada.",
+            "japanese": "受信トレイの右側に数字が表示されます。この数字は、受信トレイ内にある未読メッセージの数を表します。",
+            "chinese": "收件箱的標題右邊會顯示數字，這個數字代表您的收件箱仍有幾則未讀訊息。",
+            "thai": "ตัวเลขที่แสดงด้านขวาของกล่องจดหมาย  คือจำนวนจดหมายทั้งหมดที่ยังไม่ได้เปิดอ่าน",
             "arabic": "يتم عرض رقم علىيمين رأسية البريد الوارد.  ويُظهِر هذا الرقم عدد الرسائل غير المقروءة في صندوق البريد الوارد الخاص بك."
           }
         },
@@ -86,6 +104,9 @@
             "spanish": "Seleccione un mensaje en su bandeja de entrada. Se mostrará a la derecha.",
             "spanish_la": "Seleccione un mensaje en su bandeja de entrada. Se mostrará a la derecha.",
             "portuguese": "Selecione uma mensagem na sua caixa de entrada. Ela será exibida à direita.",
+            "japanese": "受信トレイのメッセージを選択すると、右側に表示されます。",
+            "chinese": "在收件箱裡面選擇一則訊息，它會顯示在右邊。",
+            "thai": "ในกล่องจดหมายคลิกที่ชื่อหัวเรื่องจดหมาย   ระบบจะแสดงข้อความทั้งหมดในช่องด้านขวา",
             "arabic": "حدد رسالة في صندوق البريد الوارد الخاص بك. ستظهر على اليمين."
           }
         },
@@ -99,6 +120,9 @@
             "spanish": "Haga clic en el botón \"Delete\" para eliminar un mensaje de su bandeja de entrada.",
             "spanish_la": "Haga click en el botón \"Delete\" para eliminar un mensaje de su bandeja de entrada.",
             "portuguese": "Clique no botão “Delete” para remover uma mensagem de sua caixa de entrada.",
+            "japanese": "Delete[削除]ボタンをクリックすると、受信トレイからメッセージを削除することができます。",
+            "chinese": "點擊 Delete（刪除）按鈕，可從收件箱中刪除此訊息。",
+            "thai": "คลิก ”ลบ”  เพื่อลบจดหมายออกจากกล่องจดหมาย",
             "arabic": "انقر علىزِر“Delete” (\"حذف\" لإزالة الرسالة من صندوق البريد الوارد."
           }
         },
@@ -112,6 +136,9 @@
             "spanish": "Haga clic en el botón \"Reply\" para responder a un mensaje.",
             "spanish_la": "Haga click en el botón \"Reply\" para responder a un mensaje.",
             "portuguese": "Clique no botão “Reply” para responder a uma mensagem.",
+            "japanese": "Reply[返信]ボタンをクリックすると、メッセージを返信することができます。",
+            "chinese": "點擊 Reply（回覆）按鈕，可回覆一則訊息。",
+            "thai": "คลิก ”ตอบกลับ” เพื่อตอบจดหมาย",
             "arabic": "انقر علىزِر“Reply”(\"رد\") للرد على الرسالة."
           }
         },
@@ -125,6 +152,9 @@
             "spanish": "Haga clic en el encabezado de Sent [Enviados] para mostrar sus mensajes enviados.",
             "spanish_la": "Haga click en el encabezado de Sent [Enviados] para mostrar sus mensajes enviados.",
             "portuguese": "Clique no título “Sent” para exibir as mensagens enviadas.",
+            "japanese": "Sent[送信済み]のヘッダーをクリックすると、送信済みのメッセージが表示されます。",
+            "chinese": "點擊 Sent（已傳送）標題，可顯示您已傳送的訊息。",
+            "thai": "คลิกที่หัวข้อ “จดหมายที่ถูกส่ง” เพื่อดูจดหมายที่ส่งแล้ว",
             "arabic": "اضغط على رأسية المُرسَل لعرض الرسائل المُرسَلة."
           }
         },
@@ -138,6 +168,9 @@
             "spanish": "Haga clic en el botón \"Create New Message\" si desea escribir un mensaje nuevo.",
             "spanish_la": "Haga click en el botón \"Create New Message\" si desea escribir un mensaje nuevo.",
             "portuguese": "Clique no botão “Create New Message” caso você queira escrever uma nova mensagem.",
+            "japanese": "新しくメッセージを書きたいときは、Create New Message[新規作成]ボタンをクリックします。",
+            "chinese": "如果您想要寫一則新訊息，請點擊 Create New Message（編寫新訊息）按鈕。",
+            "thai": "คลิกที่ ”เขียนจดหมายใหม่” ถ้าคุณต้องการจะเขียนจดหมายใหม่   ",
             "arabic": "انقر علىزِر“Create New Message” (\"إنشاء رسالة جديدة\") إذا كنت تريد كتابة رسالة جديدة."
           }
         }
@@ -152,6 +185,9 @@
         "spanish": "Escribir un mensaje",
         "spanish_la": "Escribir un mensaje",
         "portuguese": "Escreva uma mensagem",
+        "japanese": "メッセージを書く",
+        "chinese": "編寫訊息",
+        "thai": "เขียนจดหมาย",
         "arabic": "كتابة رسالة جديدة"
       },
       "paragraphs":{
@@ -165,6 +201,9 @@
             "spanish": "Las ventanas de Reply [Responder] y Create New Message [Crear mensaje nuevo] contienen botones To [Para] y CC [Con copia a]. Elija un estudiante a quien desee escribirle haciendo clic en el botón \"To\" y eligiendo un nombre. Añada otros estudiantes a quienes desee enviarles el mensaje haciendo clic en el botón \"CC\". Puede enviar mensajes a cualquier estudiante en su clase de Práctica Online. No puede enviar un mensaje a una dirección de correo electrónico fuera de su clase de Práctica Online.",
             "spanish_la": "Las ventanas de Reply [Responder] y Create New Message [Crear mensaje nuevo] contienen botones To [Para] y CC [Con copia a]. Elija un estudiante a quien desee escribirle haciendo click en el botón \"To\" y eligiendo un nombre. Añada otros estudiantes a quienes desee enviarles el mensaje haciendo click en el botón \"CC\". Puede enviar mensajes a cualquier estudiante en su clase de Práctica Online. No puede enviar un mensaje a una dirección de correo electrónico fuera de su clase de Práctica Online.",
             "portuguese": "A janela “Reply/Create New Message” contém os botões “To” e “CC”. Selecione um aluno a quem você pretende escrever clicando no botão \"To\" e escolha um nome. Adicione outros alunos para os quais você deseja enviar a sua mensagem clicando no botão \"CC\". Você pode enviar mensagens para quaisquer alunos que estejam participando de sua turma no Online Practice. Você não pode enviar uma mensagem para um endereço de e-mail fora de sua turma no Online Practice.",
+            "japanese": "Reply[返信]またはCreate New Message[新規作成]のウィンドウには、To[宛先]と CC [CC]ボタンが表示されます。ある生徒ひとりにメッセージを送りたい場合は、To[宛先]ボタンをクリックして生徒名を選びます。他の生徒にもメッセージを送りたい場合は、CC [CC]ボタンをクリックします。Online Practiceの自分のクラス内の生徒なら、誰にでもメッセージを送ることができます。Online Practiceの自分のクラスではないメールアドレスにメッセージを送ることはできません。",
+            "chinese": "回覆/編寫新訊息的視窗裡面，包含To（收件人）以及CC（信件副本）按鈕。點擊To按鈕，並選擇收件人名字，便可以選擇一位您想傳送訊息的學生。點擊CC按鈕，就可以加入您想要一起傳送此訊息的其他學生。您可傳送訊息給您線上練習的班級裡任何一位學生，但您無法傳訊息給其他線上練習班級的學生。",
+            "thai": "ในหน้า “ตอบกลับ” หรือ “เขียนจดหมายใหม่” คุณสามารถเลือกรายชื่อนักเรียนต้องการส่งจดหมายได้จากการคลิก “ถึง” หรือ “สำเนาถึง” คุณสามารถส่งจดหมายถึงนักเรียนทุกคนในห้องเรียนของคุณได้ แต่ไม่สามารถส่งหานักเรียนในห้องเรียนอื่นได้",
             "arabic": "تحتوي نافذتي الرد وإنشاء رسالة جديدة على زري To وCC. حدد الطالب الذي ترغب في كتابة رسالة له عن طريق النقر على زِر “TO” واختيار اسم. أضف الطلاب الآخرين الذين ترغب في إرسال رسالتك إليهم من خلال النقر على زر \"CC\". يمكنك مراسلة أي طالب في الفصلالمنضم للممارسة على الإنترنت. لا يمكنك إرسال رسالة إلى عنوان بريد إلكتروني خارج فصل الممارسة على الإنترنتالخاصبك."
           }
         },
@@ -178,6 +217,9 @@
             "spanish": "Haga clic en \"Select all\" para enviar un correo electrónico a todos los estudiantes en su clase, y luego haga clic en \"OK\". Si decide no seleccionar a nadie, haga clic en \"Cancel\".",
             "spanish_la": "Haga click en \"Select all\" para enviar un correo electrónico a todos los estudiantes en su clase, y luego haga click en \"OK\". Si decide no seleccionar a nadie, haga click en \"Cancel\".",
             "portuguese": "Clique em \"Select all\" para enviar um e-mail para todos os alunos da sua turma de uma única vez e, em seguida, clique em \"OK\". Se você optar por não selecionar algum deles, clique em \"Cancel\".",
+            "japanese": "クラス全員にメッセージを送る場合は、Select all[全員に送る]をクリックしてから、OKボタンをクリックします。だれも選択しない場合は、Cancel[キャンセル]をクリックします。",
+            "chinese": "點擊Select all（選擇全部）就可以將訊息一次傳送給您的全班學生，然後點擊OK。如果您決定不選擇任何人，請點擊 Cancel（取消）。",
+            "thai": "คลิกที่ ”เลือกทั้งหมด” เพื่อส่งจดหมายหานักเรียนทุกคนในห้องเรียนของคุณ  แล้วคลิก ”ตกลง”เพื่อยืนยันรายชื่อ หรือคลิก ”ยกเลิก”",
             "arabic": "انقر على “Select all” (\"تحديد الجميع\") لإرسال رسالة إلكترونية إلى جميع الطلاب في فصلك في نفس الوقت، ثم انقر على “OK”(\"موافق\"). إذا اخترت عدم تحديد أي شخص، انقر على “Cancel”(\"إلغاء\")."
           }
         }
@@ -192,6 +234,9 @@
         "spanish": "Envíe su mensaje",
         "spanish_la": "Envíe su mensaje",
         "portuguese": "Envie suas mensagens",
+        "japanese": "メッセージを送る",
+        "chinese": "傳送您的訊息",
+        "thai": "ส่งจดหมาย",
         "arabic": "أرسل رسالتك"
       },
       "paragraphs":{
@@ -205,6 +250,9 @@
             "spanish": "Haga clic en el icono del clip para adjuntar un archivo a su mensaje. Puede adjuntar dos archivos con un tamaño total de 2MB.",
             "spanish_la": "Haga click en el icono del clip para adjuntar un archivo a su mensaje. Puede adjuntar dos archivos con un tamaño total de 2MB.",
             "portuguese": "Clique no ícone de clipe de papel para anexar um arquivo a sua mensagem. Você pode anexar dois arquivos com um tamanho total de 2MB.",
+            "japanese": "クリップのアイコンをクリックすると、メッセージにファイルを添付することができます。添付できるファイルは2つで、合計2MBまで送ることができます。",
+            "chinese": "點擊迴紋針圖示，便可以在您的訊息附加一個檔案。您最多可附加兩個檔案，全部附加檔案的上限是2MB。",
+            "thai": "คลิกสัญลักษณ์ตัวหนีบกระดาษ  เพื่อแนบไฟล์ส่งพร้อมกับจดหมาย คุณสามารถแนบไฟล์ได้ไม่เกิน 2 ไฟล์ และขนาดไม่เกิน 2MB.",
             "arabic": "اضغط على أيقونة مشبك الورق لإرفاق ملف برسالتك. يمكنك إرفاق ملفين بإجمالي حجم 2ميجابايت."
           }
         },
@@ -218,6 +266,9 @@
             "spanish": "Utilice el botón \"Send\" para enviar el mensaje cuando esté listo.",
             "spanish_la": "Utilice el botón \"Send\" para enviar el mensaje cuando esté listo.",
             "portuguese": "Use o botão “Send” para enviar a mensagem quando estiver pronto.",
+            "japanese": "送る準備ができたら、Send[送信]ボタンをクリックします。",
+            "chinese": "當您準備好了，請使用Send（傳送）按鈕來傳送訊息。",
+            "thai": "คลิก”ส่ง” เพื่อส่งจดหมาย ",
             "arabic": "استخدم زِر“Send”(\"إرسال\") لإرسال الرسالة عندما تكون جاهزًا."
           }
         },
@@ -231,6 +282,9 @@
             "spanish": "Puede guardar los mensajes antes de enviarlos y volver a ellos más tarde en el área Borradores haciendo clic en el botón \"Save\".",
             "spanish_la": "Puede guardar los mensajes antes de enviarlos y volver a ellos más tarde en el área Borradores haciendo click en el botón \"Save\".",
             "portuguese": "Você pode salvar mensagens antes de enviá-las e voltar a elas posteriormente na área “Draft”, clicando no botão “Save”.",
+            "japanese": "Save[保存]ボタンをクリックすると、Draft[下書き]エリアにメッセージが保存され、後からまた作成することができます。",
+            "chinese": "您可以先將您的訊息儲存在草稿區，以便之後再回來編輯，點擊Save（儲存）按鈕即可。",
+            "thai": "คุณสามารถบันทึกจดหมายร่างของคุณไว้ก่อนส่ง คลิกที่ ”บันทึก” และกลับมาเขียนต่อได้ โดยจดหมายที่บันทึกไว้จะอยู่หัวข้อ ”จดหมายร่าง”",
             "arabic": "يمكنك حفظ الرسائل قبل إرسالها والعودة إليها في وقت لاحق في منطقة المسودات عن طريق النقر على زر“Save”(\"حفظ\")."
           }
         },
@@ -244,6 +298,9 @@
             "spanish": "Si decide no enviar el mensaje, haga clic en el botón \"Cancel\".  Esto lo regresará a la bandeja de entrada.",
             "spanish_la": "Si decide no enviar el mensaje, haga click en el botón \"Cancel\".  Esto lo regresará a la bandeja de entrada.",
             "portuguese": "Se você decidir não enviar a mensagem, clique no botão “Cancel”.  Isso fará com que você volte para a caixa de entrada.",
+            "japanese": "作成したメッセージを送らない場合は、Cancel[キャンセル]ボタンをクリックします。 Cancel[キャンセル]ボタンをクリックすると、受信トレイに戻ります。",
+            "chinese": "如果您決定不傳送這則訊息，請點擊Cancel（取消）按鈕，這個動作會帶您回到收件箱。",
+            "thai": "หากต้องการยกเลิกการส่งจดหมาย คลิก “ยกเลิก” ระบบจะกลับไปที่หน้ากล่องจดหมาย ",
             "arabic": "إذا قررت عدم إرسال الرسالة، فانقر علىزر“Cancel” (\"إلغاء\").  فسوف يعيدك إلى صندوق البريد الوارد."
           }
         }

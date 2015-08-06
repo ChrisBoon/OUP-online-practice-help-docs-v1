@@ -3308,6 +3308,17 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/app\/json\/pagelist-primary_docs.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-primary_docs.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-primary_docs-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
 	"\/app\/json\/pagelist-primary_v1.json": {
 		"fileType": 524288,
 		"ignore": 1,

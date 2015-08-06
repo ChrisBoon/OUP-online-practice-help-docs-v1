@@ -114,6 +114,25 @@
     display: none;
   }
 }
+.language-chosen__container--japanese,
+.language-chosen__container--Japanese{
+  &:before{
+    content: "日本語";
+  }
+  .language-chosen--english{
+    display: none;
+  }
+}
+
+.language-chosen__container--chinese,
+.language-chosen__container--Chinese{
+  &:before{
+    content: "繁體中文";
+  }
+  .language-chosen--english{
+    display: none;
+  }
+}
 
 .adult{
   .language-chosen__container--spanish,

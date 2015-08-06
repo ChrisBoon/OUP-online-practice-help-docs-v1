@@ -5,6 +5,9 @@
     "spanish": "Centro de Medios",
     "spanish_la": "Centro de Medios",
     "portuguese": "Centro de mídia",
+    "japanese": "メディアセンター",
+    "chinese": "媒體中心",
+    "thai": "ศูนย์รวมมัลติมีเดีย",
     "arabic": "مركز الوسائط"
   },
  "segment": "primary",
@@ -20,6 +23,9 @@
         "spanish": "Audio",
         "spanish_la": "Audio",
         "portuguese": "Áudio",
+        "japanese": "音声",
+        "chinese": "錄音檔案",
+        "thai": "เสียง",
         "arabic": "الصوت"
       },
       "paragraphs":{
@@ -33,6 +39,9 @@
             "spanish": "El Centro de Medios proporciona archivos de vídeo y audio de la clase para que los utilicen tanto usted como sus estudiantes, de estar disponibles.",
             "spanish_la": "El Centro de Medios proporciona archivos de video y audio de la clase para que los utilicen tanto usted como sus estudiantes, de estar disponibles.",
             "portuguese": "O centro de mídia fornece a você e seus alunos os arquivos de áudio e vídeo que estejam disponíveis.",
+            "japanese": "クラス用の音声ファイルとビデオファイルが視聴可能な場合は、このメディアセンターからアクセスすることができます。",
+            "chinese": "媒體中心為您與學生提供目前可以使用的課程錄音以及影片檔案。",
+            "thai": "ศูนย์รวมมัลติมีเดีย จะรวบรวมไฟล์เสียง  และคลิปวิดีโอที่ใช้ประกอบการเรียนการสอนทั้งหมด  ให้คุณและนักเรียนได้ใช้งาน (ถ้ามี)",
             "arabic": "يقدم مركز الوسائط للصف ملفات صوتية وملفات فيديو لك ولطلابك لاستخدامها، إذا كانت متوفرة."
           }
         },
@@ -46,6 +55,9 @@
             "spanish": "Haga clic en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
             "spanish_la": "Haga click en el título del archivo de audio. Aparecerá un reproductor de audio y reproducirá el archivo. Utilice el botón de la flecha para reproducir y pausar la pista. Utilice los controles para desplazarse por la pista y cambiar el volumen.",
             "portuguese": "Clique no título de um arquivo de áudio. Um player de áudio aparecerá e reproduzirá o arquivo. Use o botão de seta para iniciar e pausar a reprodução da faixa. Use os controles para percorrer a faixa de áudio e alterar o volume.",
+            "japanese": "音声ファイルのタイトルをクリックして選択してください。オーディオプレーヤーが表示され、音声を再生します。矢印のボタンを使うと、再生や一時停止ができます。トラック間の移動や音量の調節にはコントロール機能を使用してください。",
+            "chinese": "點擊一個錄音檔案標題，播放程式會自動出現並播放此錄音檔案。使用箭號按鈕來播放與暫停該曲目，使用控制面板來變換曲目以及調整音量。",
+            "thai": "คลิกที่ ชื่อไฟล์เสียง  ระบบจะปรากฏขึ้นและเล่นไฟล์เสียงที่คุณเลือก  คลิกที่ลูกศร เพื่อเล่นหรือหยุดเล่นชั่วคราว    ใช้แถบควบคุมสำหรับเล่นไฟล์เสียงถัดไป หรือปรับระดับความดังของเสียง ",
             "arabic": "انقر فوق عنوان أحد الملفات الصوتية. سوف يظهر مشغل الصوت ويقوم بتشغيل مقطع الفيديو. استخدم زر السهم لتشغيل وإيقاف المسار. استخدم مفاتيح التحكم للتحرك من خلال المسار وتغيير مستوى جهارة الصوت."
           }
         }
@@ -60,6 +72,9 @@
         "spanish": "Vídeo",
         "spanish_la": "Video",
         "portuguese": "Vídeo",
+        "japanese": "ビデオ",
+        "chinese": "影片",
+        "thai": "วิดีโอ",
         "arabic": "الفيديو"
       },
       "paragraphs":{
@@ -73,6 +88,9 @@
             "spanish": "Haga clic en un título de vídeo para reproducir un archivo de vídeo. Se podrá ver en una nueva pestaña en su navegador.",
             "spanish_la": "Haga click en un título de vídeo para reproducir un archivo de video. Se podrá ver en una nueva pestaña en su navegador.",
             "portuguese": "Clique em um título de vídeo para reproduzir um arquivo de vídeo. Ele será reproduzido em uma nova aba em seu navegador.",
+            "japanese": "ビデオのタイトルをクリックして、ビデオファイルを再生します。ブラウザの新しいタブで再生します。",
+            "chinese": "點擊一個影片標題，播放影片檔案。影片將會在您的瀏覽器新開一個頁面來播放。",
+            "thai": "คลิกที่ ชื่อไฟล์วิดีโอ  ระบบจะแสดงหน้าใหม่เพื่อเล่นคลิปวิดีโอที่คุณเลือก ",
             "arabic": "انقر فوق عنوان مقطع الفيديو لتشغيل ملف الفيديو. سوف يقوم بتشغيل علامة تبويب جديدة في المتصفح الخاص بك."
           }
         }
@@ -87,6 +105,9 @@
         "spanish": "",
         "portuguese": "",
         "spanish_la": "",
+        "japanese": "",
+        "chinese": "",
+        "thai": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -100,6 +121,9 @@
             "spanish": "Use los controles para reproducir y pausar el vídeo, cambiar el volumen y activar la vista de pantalla completa.",
             "spanish_la": "Use los controles para reproducir y pausar el video, cambiar el volumen y activar la vista de pantalla completa.",
             "portuguese": "Use os controles para iniciar e pausar a reprodução do vídeo, alterar o volume e entrar no modo de visualização em tela cheia.",
+            "japanese": "再生や一時停止、音量調節や全画面表示をするには、コントロール機能を使用してください。",
+            "chinese": "使用控制面板來播放與暫停影片、調整音量以及用全螢幕模式觀看影片。",
+            "thai": "ใช้แถบควบคุม  สำหรับเล่นหรือหยุดวิดีโอชั่วคราว  ปรับระดับความดังของเสียง หรือแสดงภาพแบบเต็มจอ",
             "arabic": "استخدم مفاتيح التحكم لتشغيل وإيقاف مقطع الفيديو وتغيير مستوى جهارة الصوت وإدخال المنظر بملء الشاشة."
           }
         }
