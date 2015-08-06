@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "17580",
+"creatorBuild": "19033",
 "files": {
 	"\/app\/css\/app.css": {
 		"fileType": 16,
@@ -34,15 +34,6 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/elements.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/app\/engage-WIP.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/engage-WIP.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2591,6 +2582,1392 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/app\/json\/adult-admin-editprofile-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-admin-editprofile-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-admin-editprofile-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-admin-home-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-admin-home-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-admin-home-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-admin-home-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-admin-home-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-admin-home-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-admin-registration-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-admin-registration-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-admin-registration-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-activities-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-activities-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-activities-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-activities-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-activities-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-activities-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-addlevel-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-addlevel-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-addlevel-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-classchange-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-classchange-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-classchange-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-classjoin-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-classjoin-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-classjoin-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-dashboard-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-dashboard-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-dashboard-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-discussionboard-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-discussionboard-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-discussionboard-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-editprofile-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-editprofile-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-editprofile-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-email-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-email-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-email-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-glossary-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-glossary-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-glossary-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-home-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-home-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-home-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-home-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-home-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-home-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-media-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-media-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-media-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-media-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-media-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-media-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-registration-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-registration-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-registration-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-reportprogress-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-reportprogress-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-reportprogress-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-reportsegment-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-reportsegment-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-reportsegment-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-reportsegment-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-reportsegment-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-reportsegment-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-resources-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-resources-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-resources-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-teacherfeedback-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-teacherfeedback-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-teacherfeedback-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-writingtutor-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-writingtutor-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-writingtutor-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-writingtutorreport-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-writingtutorreport-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-writingtutorreport-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-activities-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-activities-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-activities-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-activities-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-activities-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-activities-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-addclass-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-addclass-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-addclass-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-addlevel-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-addlevel-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-addlevel-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-classdetails-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-classdetails-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-classdetails-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-classeditname-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-classeditname-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-classeditname-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-contentassign-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-contentassign-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-contentassign-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-contentassign-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-contentassign-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-contentassign-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-dashboard-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-dashboard-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-dashboard-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-discussionboard-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-discussionboard-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-discussionboard-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-editprofile-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-editprofile-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-editprofile-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-email-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-email-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-email-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-enteronlinepractice-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-enteronlinepractice-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-enteronlinepractice-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-glossary-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-glossary-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-glossary-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-home-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-home-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-home-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-home-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-home-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-home-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-joininstitution-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-joininstitution-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-joininstitution-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-manageattempts-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-manageattempts-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-manageattempts-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-manageattempts-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-manageattempts-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-manageattempts-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-manageclasses-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-manageclasses-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-manageclasses-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-manageclasses-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-manageclasses-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-manageclasses-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-manualgradedactivity-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-manualgradedactivity-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-manualgradedactivity-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-media-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-media-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-media-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-media-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-media-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-media-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-registration-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-registration-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-registration-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-reportclass-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportclass-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportclass-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-reportclasssummary-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportclasssummary-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportclasssummary-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-reportsegment-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportsegment-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportsegment-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-reportsegment-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportsegment-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportsegment-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-reportstudent-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportstudent-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportstudent-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-reportstudentactivity-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportstudentactivity-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportstudentactivity-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-reportunit-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportunit-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportunit-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-reportunit-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportunit-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportunit-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-resources-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-resources-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-resources-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-writingtutor-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutor-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutor-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-writingtutorfeedback-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorfeedback-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorfeedback-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-teacher-writingtutorreport-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorreport-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorreport-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/pagelist-adult-docs.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-adult-docs.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-adult-docs-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/pagelist-elements.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-elements.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-elements-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/pagelist-eng.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-eng.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-eng-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/pagelist-primary_v1.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-primary_v1.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-primary_v1-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/pagelist-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/pagelist-t2t.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-t2t.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-t2t-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-admin-editprofile-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-admin-editprofile-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-admin-editprofile-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-admin-home-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-admin-home-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-admin-home-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-admin-registration-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-admin-registration-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-admin-registration-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-error.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-error.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-error-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-activities-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-activities-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-activities-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-activities-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-activities-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-activities-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-addlevel-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-addlevel-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-addlevel-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-addlevel-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-addlevel-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-addlevel-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-classchange-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-classchange-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-classchange-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-classjoin-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-classjoin-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-classjoin-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-dashboard-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-dashboard-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-dashboard-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-editprofile-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-editprofile-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-editprofile-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-email-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-email-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-email-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-forum-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-forum-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-forum-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-glossary-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-glossary-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-glossary-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-home-eng.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-home-eng.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-home-eng-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-home-t2t.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-home-t2t.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-home-t2t-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-home-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-home-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-home-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-media-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-media-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-media-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-media-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-media-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-media-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-registration-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-registration-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-registration-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-registration-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-registration-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-registration-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-reportprogress-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-reportprogress-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-reportprogress-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-reportprogress-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-reportprogress-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-reportprogress-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-reportunit-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-reportunit-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-reportunit-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-reportunit-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-reportunit-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-reportunit-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-student-resources-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-student-resources-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-student-resources-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-activities-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-activities-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-activities-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-activities-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-activities-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-activities-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-addclass-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-addclass-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-addclass-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-addlevel-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-addlevel-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-addlevel-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-classdetails-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-classdetails-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-classdetails-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-classeditname-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-classeditname-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-classeditname-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-contentassign-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-contentassign-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-contentassign-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-dashboard-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-dashboard-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-dashboard-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-editprofile-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-editprofile-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-editprofile-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-email-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-email-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-email-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-enteronlinepractice-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-enteronlinepractice-t2t.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-t2t.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-t2t-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-enteronlinepractice-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-forum-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-forum-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-forum-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-glossary-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-glossary-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-glossary-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-home-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-home-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-home-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-joininstitution-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-joininstitution-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-joininstitution-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-manageclasses-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-manageclasses-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-manageclasses-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-media-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-media-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-media-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-media-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-media-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-media-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-registration-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-registration-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-registration-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-registration-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-registration-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-registration-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-reportclass-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportclass-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportclass-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-reportclasssummary-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportclasssummary-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportclasssummary-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-reportlesson-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportlesson-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportlesson-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-reportstudent-sec.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudent-sec.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudent-sec-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-reportstudent-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudent-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudent-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-reportstudentactivity-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudentactivity-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudentactivity-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-reportunit-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportunit-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportunit-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/primary-teacher-resources-v1_0_0.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-resources-v1_0_0.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-resources-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
 	"\/app\/kit\/_appIndex.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -2615,15 +3992,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/elements.kit",
 		"outputAbbreviatedPath": "\/app\/elements.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/app\/kit\/engage-WIP.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/kit\/engage-WIP.kit",
-		"outputAbbreviatedPath": "\/app\/engage-WIP.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -2696,15 +4064,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/superstars.kit",
 		"outputAbbreviatedPath": "\/app\/superstars.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/app\/kit\/teen2teen_plus-WIP.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/kit\/teen2teen_plus-WIP.kit",
-		"outputAbbreviatedPath": "\/app\/teen2teen_plus-WIP.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -3102,15 +4461,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/teen2teen_plus-WIP.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/teen2teen_plus-WIP.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/app\/teen2teen_plus.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -3120,17 +4470,48 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/bower.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/bower-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
 	"\/README.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/README.md",
+		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/README.html",
+		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
 		}
 	},
 "hooks": [
@@ -3181,6 +4562,10 @@
 			},
 		"empty_constructor_needs_parens": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"indentation": {
@@ -3267,8 +4652,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"space_operators": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
 			"flagValue": -1
 			}
 		},
@@ -3326,6 +4719,10 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"camelcase": {
 			"active": 0,
 			"flagValue": -1
@@ -3348,6 +4745,10 @@
 			},
 		"dojo": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"eqeqeq": {
@@ -3386,6 +4787,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"globalstrict": {
 			"active": 0,
 			"flagValue": -1
@@ -3399,6 +4804,10 @@
 			"flagValue": 4
 			},
 		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3446,6 +4855,10 @@
 			"active": 0,
 			"flagValue": 4
 			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"mootools": {
 			"active": 0,
 			"flagValue": -1
@@ -3464,6 +4877,10 @@
 			},
 		"noarg": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"node": {
@@ -3514,6 +4931,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"regexp": {
 			"active": 1,
 			"flagValue": -1
@@ -3531,6 +4952,10 @@
 			"flagValue": -1
 			},
 		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3556,6 +4981,10 @@
 			},
 		"unused": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"withstmt": {
@@ -3681,6 +5110,14 @@
 			"flagValue": -1
 			}
 		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
 	"kitAutoOutputPathEnabled": 1,
 	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "..\/",
@@ -3708,9 +5145,18 @@
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
 	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
 	"markdownEnableFootnotes": 0,
-	"markdownEnableSmartyPants": 1,
-	"markdownExpandTabs": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
 	"reloadFileURLs": 0,
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
@@ -3734,6 +5180,7 @@
 	"slimAutoOutputPathStyle": 0,
 	"slimCompileOnly": 0,
 	"slimLogicless": 0,
+	"slimOutputFormat": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
 	"stylusAutoOutputPathEnabled": 1,
@@ -3742,6 +5189,7 @@
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
 	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
 	"stylusDebugStyle": 0,
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,
@@ -3757,12 +5205,17 @@
 	"typescriptMinifyOutput": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
-	"typescriptNoResolve": 0,
+	"typescriptPreserveConstEnums": 0,
 	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
 	"typescriptTargetECMAVersion": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3795,6 +5248,10 @@
 			"flagValue": -1
 			},
 		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3838,6 +5295,14 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -3850,8 +5315,16 @@
 			"active": 1,
 			"flagValue": 32000
 			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"properties": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"quote-keys": {
