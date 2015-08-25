@@ -35,7 +35,7 @@
             "spanish_la": "Verá los niveles de su curso al ingresar en la Práctica Online o al hacer click en el icono de Home [Inicio], en la parte superior de la pantalla.",
             "japanese": "Online Practiceにアクセスするか、画面上部のホームアイコンをクリックすると、コースのレベルが表示されます。",
             "chinese": "當您進入線上練習或點擊螢幕上端的首頁圖示時，在此處您將會看到課程的級數。",
-            "thai": "เมื่อเข้าระบบแบบฝึกหัดออนไลน์ หรือ คลิกที่สัญลักษณ์ “บ้าน” บริเวณส่วนบนของหน้าจอ คุณจะเห็นระดับหลักสูตรของคุณ",
+            "thai": "เมื่อเข้าระบบแบบฝึกหัดออนไลน์ หรือ คลิกปุ่ม Home บริเวณส่วนบนของหน้าจอ คุณจะเห็นระดับหลักสูตรของคุณ",
             "portuguese": "Quando você acessar o Online Practice ou clicar no ícone “Home” na parte superior da tela, você visualizará os níveis de seu curso."
           }
         },
@@ -49,7 +49,7 @@
             "spanish_la": "Haga click en \"Añadir un nivel\" para agregar otro nivel si tiene un código de acceso.",
             "japanese": "アクセスコードがあれば、Add a Level[レベルの追加]をクリックすると別のレベルを追加することができます。",
             "chinese": "點擊 Add a level（新增級數），如果您有使用密碼，可以增加另一個級數。",
-            "thai": "คลิกที่ “เพิ่มระดับชั้นเรียน” ถ้าคุณมีรหัสการเข้าถึง (Access Code)",
+            "thai": "คลิกที่ “Add a level” ถ้าคุณมีรหัสการเข้าถึง (Access Code)",
             "portuguese": "Clique em “Add a level” para adicionar outro nível, caso você tenha um código de acesso."
           }
         },

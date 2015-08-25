@@ -125,7 +125,7 @@
           "spanish_la": "Informe de la Clase",
           "japanese": "クラスレポート",
           "chinese": "班級報告",
-          "thai": "รายงานของชั้นเรียน",
+          "thai": "รายงานประจำห้อง",
           "portuguese": "Relatório de turma"
         },
         "id": "primary-teacher-reportclass-v1_0_0"
@@ -149,7 +149,7 @@
           "spanish_la": "Informe de la Unidad",
           "japanese": "ユニットレポート",
           "chinese": "單元報告",
-          "thai": "รายงานของหัวข้อในบทเรียน",
+          "thai": "สรุปรายงานประจำหน่วยบทเรียน",
           "portuguese": "Relatório de unidade"
         },
         "id": "primary-teacher-reportunit-v1_0_0"
@@ -161,7 +161,7 @@
           "spanish_la": "Informe de la Lección",
           "japanese": "レッスンレポート",
           "chinese": "課程報告",
-          "thai": "รายงานของบทเรียน",
+          "thai": "รายงานประจำบทเรียน",
           "portuguese": "Relatório da lição"
         },
         "id": "primary-teacher-reportlesson-v1_0_0"
@@ -197,7 +197,7 @@
           "spanish_la": "Actividades",
           "japanese": "アクティビティ",
           "chinese": "學習活動",
-          "thai": "กิจกรรม",
+          "thai": "กิจกรรมการเรียนรู้",
           "portuguese": "Atividades"
         },
         "id": "primary-teacher-activities-sec"
@@ -318,7 +318,7 @@
           "spanish_la": "Actividades",
           "japanese": "アクティビティ",
           "chinese": "學習活動",
-          "thai": "กิจกรรม",
+          "thai": "กิจกรรมการเรียนรู้",
           "portuguese": "Atividades"
         },
         "id": "primary-student-activities-sec"
@@ -354,7 +354,7 @@
           "spanish_la": "Informe de la Unidad",
           "japanese": "ユニットレポート",
           "chinese": "單元報告",
-          "thai": "รายงานของหัวข้อในบทเรียน",
+          "thai": "รายงานนักเรียนประจำหน่วยบทเรียน",
           "portuguese": "Relatório de unidade"
         },
         "id": "primary-student-reportunit-sec"

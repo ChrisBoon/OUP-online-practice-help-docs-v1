@@ -41,7 +41,7 @@
             "portuguese": "Se você é um novo usuário, clique em “Register“.",
             "japanese": "はじめてご利用になる場合は、Register［登録する］をクリックします。",
             "chinese": "如果您第一次使用，請點擊Register（註冊）。",
-            "thai": "ถ้าใช้งานครั้งแรก คลิกที่ “ลงทะเบียน”",
+            "thai": "ถ้าใช้งานครั้งแรก คลิกที่ “Register”",
             "arabic": "إذا كنت مستخدمًا لأول مرة,فانقر على “Register”(\"تسجيل\")."
           }
         }
@@ -90,7 +90,7 @@
             "portuguese": "Marque a caixa de seleção para demonstrar que você concorda com os termos de uso.",
             "japanese": "利用規約への同意を表明するには、ボックスにチェックマークを入れます。",
             "chinese": "勾選方框以表示您同意使用條款。",
-            "thai": "คลิก / ที่ช่องสี่เหลี่ยม หากยอมรับเงื่อนไขการใช้งาน",
+            "thai": "คลิก / ที่ช่องสี่เหลี่ยม  หากยอมรับเงื่อนไขการใช้งาน",
             "arabic": "ضع علامة في المربع لإظهار موافقتك على شروط الاستخدام."
           }
         },
@@ -171,7 +171,7 @@
             "portuguese": "Clique em “Enter“.",
             "japanese": "Enter[エンター]をクリックします。",
             "chinese": "點擊Enter（輸入）。",
-            "thai": "คลิก ”ตกลง”",
+            "thai": "คลิก “Enter”",
             "arabic": "انقر “Enter”(\"إدخال\")"
           }
         }
@@ -479,7 +479,7 @@
             "portuguese": "Esta página exibe as suas informações de registro. É possível imprimir esta página para fins de registro. Se você quiser alterar estas informações, selecione a opção “Edit Profile” após iniciar a sessão (essa opção estará disponível no canto superior direito da tela).",
             "japanese": "このページは登録情報を表示します。必要に応じてこの画面を印刷してください。情報を変更する場合は、ログイン後に右上にあるEdit Profile[プロフィールの編集]をクリックします。",
             "chinese": "本頁面顯示您的註冊資訊，您可以列印本頁面做為紀錄。如果您想更改這些資訊，請您在登入以後，選擇Edit Profile（編輯個人檔案）（將會顯示在畫面右上角）。",
-            "thai": "หน้านี้จะแสดงข้อมูลการลงทะเบียนของคุณ  คุณอาจต้องการพิมพ์หน้านี้เพื่อเก็บบันทึก  ถ้าต้องการเปลี่ยนแปลงข้อมูลในหน้านี้  หลังจากล็อกอินแล้วคลิกที่ ”แก้ไขข้อมูลส่วนตัว” (ด้านบนขวาของจอ)  ",
+            "thai": "หน้านี้จะแสดงข้อมูลการลงทะเบียนของคุณ  คุณอาจต้องการพิมพ์หน้านี้เพื่อเก็บบันทึก  ถ้าต้องการเปลี่ยนแปลงข้อมูลในหน้านี้  หลังจากล็อกอินแล้วคลิกที่ ”Edit Profile” (ด้านบนขวาของจอ)  ",
             "arabic": "تُظهِر هذه الصفحة معلومات التسجيل الخاصة بك. وقد ترغب في طباعة هذه الصفحة مع السجلات الخاصة بك. إذا كنتترغب في تغيير هذه المعلومات، فحددEdit Profile(تحريرالملف الشخصي) بعد تسجيل الدخول (سيوجد في أعلى يمين الشاشة)."
           }
         },

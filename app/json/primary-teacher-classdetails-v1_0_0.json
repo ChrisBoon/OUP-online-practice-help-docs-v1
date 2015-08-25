@@ -73,7 +73,7 @@
             "portuguese": "Marque esta caixa de seleção para excluir este aluno desta turma. Em seguida, clique em \"Save Changes\".",
             "japanese": "このクラスからこの生徒を削除する場合は、このボックスにチェックマークをつけます。その後、Save Changes[変更内容を保存]をクリックします。",
             "chinese": "點此方框可將此學生由本班級刪除，然後點擊「Save Changes」。",
-            "thai": "คลิก / หน้าชื่อนักเรียนที่ต้องการลบออกจากห้องเรียน และคลิก ”Save Changes”",
+            "thai": "คลิก / หน้าชื่อนักเรียนที่ต้องการลบออกจากห้องเรียน และคลิก “Save Changes””",
             "arabic": "ضع علامة فيهذا المربع لحذف هذا الطالب من هذا الفصل. ثم انقر على “Save Changes”(\"حفظ التغييرات\")."
           }
         },
@@ -89,7 +89,7 @@
             "portuguese": "Clique aqui para voltar à tela anterior. Caso você não clique em “Save Changes”, as alterações não serão armazenadas.",
             "japanese": "前の画面に戻るには、こちらをクリックします。Save Changes[変更内容を保存]をクリックしなかった場合、変更内容は保存されません。",
             "chinese": "點此處回到上一個畫面。如果您沒有點擊「儲存變更」，您剛才做的更改不會被儲存起來。",
-            "thai": "คลิกที่นี่  เพื่อกลับหน้าที่แล้ว  ถ้าไม่ได้คลิก ”บันทึกการเปลี่ยนแปลง” สิ่งที่แก้ไขไว้ทั้งหมดจะถูกยกเลิก",
+            "thai": "คลิกที่นี่  เพื่อกลับหน้าที่แล้ว  ถ้าไม่ได้คลิก “Save Changes” สิ่งที่แก้ไขไว้ทั้งหมดจะถูกยกเลิก",
             "arabic": "انقر هنا للعودة إلى الشاشة السابقة. في حالة عدم النقر على “Save Changes”(\"حفظ التغييرات\"),فلن يتم حفظ التغييرات التي أجريتها."
           }
         },

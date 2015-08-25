@@ -158,7 +158,7 @@
           "portuguese": "Relatório de turma",
           "japanese": "クラスレポート",
           "chinese": "班級報告",
-          "thai": "รายงานของชั้นเรียน",
+          "thai": "รายงานประจำห้อง",
           "arabic": "التقرير الخاص بالفصل"
         },
         "id": "primary-teacher-reportclass-v1_0_0"
@@ -188,7 +188,7 @@
           "portuguese": "Progressos",
           "japanese": "成績表",
           "chinese": "學習成果",
-          "thai": "ความสำเร็จ",
+          "thai": "ผลการเรียนรู้",
           "arabic": "التحصيل"
         },
         "id": "primary-teacher-dashboard-v1_0_0"
@@ -203,7 +203,7 @@
           "portuguese": "Relatório de unidade",
           "japanese": "ユニットレポート",
           "chinese": "單元報告",
-          "thai": "รายงานของหัวข้อในบทเรียน",
+          "thai": "สรุปรายงานประจำหน่วยบทเรียน",
           "arabic": "تقرير الوحدة"
         },
         "id": "primary-teacher-reportunit-v1_0_0"
@@ -218,7 +218,7 @@
           "portuguese": "Relatório da lição",
           "japanese": "レッスンレポート",
           "chinese": "課程報告",
-          "thai": "รายงานของบทเรียน",
+          "thai": "รายงานประจำบทเรียน",
           "arabic": "تقرير عن الدرس"
         },
         "id": "primary-teacher-reportlesson-v1_0_0"
@@ -263,7 +263,7 @@
           "portuguese": "Atividades",
           "japanese": "アクティビティ",
           "chinese": "學習活動",
-          "thai": "กิจกรรม",
+          "thai": "กิจกรรมการเรียนรู้",
           "arabic": "أنشطة"
         },
         "id": "primary-teacher-activities-v1_0_0"
@@ -444,7 +444,7 @@
           "portuguese": "Atividades",
           "japanese": "アクティビティ",
           "chinese": "學習活動",
-          "thai": "กิจกรรม",
+          "thai": "กิจกรรมการเรียนรู้",
           "arabic": "أنشطة"
         },
         "id": "primary-student-activities-v1_0_0"
@@ -489,7 +489,7 @@
           "portuguese": "Progressos",
           "japanese": "アチーブメント",
           "chinese": "學習成果",
-          "thai": "ความสำเร็จ",
+          "thai": "ผลการเรียนรู้",
           "arabic": "التحصيل"
         },
         "id": "primary-student-dashboard-v1_0_0"
@@ -519,7 +519,7 @@
           "portuguese": "Relatório de unidade",
           "japanese": "ユニットレポート",
           "chinese": "單元報告",
-          "thai": "รายงานของหัวข้อในบทเรียน",
+          "thai": "รายงานนักเรียนประจำหน่วยบทเรียน",
           "arabic": "تقرير الوحدة"
         },
         "id": "primary-student-reportunit-v1_0_0"

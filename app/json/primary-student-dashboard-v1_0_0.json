@@ -89,7 +89,7 @@
             "portuguese": "Se você marcar 30% do total de pontos possíveis em uma unidade, você será premiado com uma estrela de bronze.",
             "japanese": "スコアがそのユニットの総得点の30%だった場合は、ブロンズの星印がつきます。",
             "chinese": "如果您在一個單元當中，獲得全部分數的30%，您會獲得一顆銅星星做為獎勵。",
-            "thai": "ถ้าได้คะแนน 30% จากคะแนนรวมจะได้ ดาวทองแดง",
+            "thai": "าได้คะแนน 30% จากคะแนนรวมจะได้ Bronze Star",
             "arabic": "إذا أحرزت 30% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةبرونزية."
           }
         },
@@ -105,7 +105,7 @@
             "portuguese": "Se você marcar 70% do total de pontos possíveis em uma unidade, você será premiado com uma estrela de prata.",
             "japanese": "スコアがそのユニットの総得点の70%だった場合は、シルバーの星印がつきます。",
             "chinese": "如果您在一個單元當中，獲得全部分數的70%，您會獲得一顆銀星星做為獎勵。",
-            "thai": "ถ้าได้คะแนน 70% จากคะแนนรวมจะได้ ดาวเงิน",
+            "thai": "ถ้าได้คะแนน 70% จากคะแนนรวมจะได้ Silver Star",
             "arabic": "إذا أحرزت 70% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةفضية."
           }
         },
@@ -121,7 +121,7 @@
             "portuguese": "Se você marcar 90% do total de pontos possíveis em uma unidade, você será premiado com uma estrela de ouro.",
             "japanese": "スコアがそのユニットの総得点の90%だった場合は、ゴールドの星印がつきます。",
             "chinese": "如果您在一個單元當中，獲得全部分數的90%，您會獲得一顆金星星做為獎勵。",
-            "thai": "ถ้าได้คะแนน 90% จากคะแนนรวมจะได้ ดาวทอง",
+            "thai": "ถ้าได้คะแนน 90% จากคะแนนรวมจะได้ Gold Star",
             "arabic": "إذا أحرزت 90% من مجموع النقاط الممكنة في وحدة ما,فسوف يتم منحك نجمةذهبية."
           }
         },
