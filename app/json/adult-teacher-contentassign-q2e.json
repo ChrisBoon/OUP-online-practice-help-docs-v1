@@ -76,8 +76,8 @@
             "turkish": "Bir bölümün içinde seçtiğiniz üniteleri gizlemek için bu kutuyu işaretleyin.",
             "spanish": "Marque una casilla aquí para ocultar unidades seleccionadas en un segmento.",
             "korean": "여기에서 상자를 클릭하여 세그먼트 내에서 선택한 단원을 숨기십시오.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "在這裡核取一個方塊，即可隱藏某部分內的選定單元。 ",
+            "japanese": "セグメント内の特定のユニットを非表示にするには、こちらでボックスにチェックマークを付けます。 ",
             "arabic": "ضع علامة على مربع ما هنا لكي تخفي الوحدات المختارة ضمن القسم."
           }
         },

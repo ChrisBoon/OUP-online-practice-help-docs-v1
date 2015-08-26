@@ -62,8 +62,8 @@
             "turkish": "Bir Bölüm Raporunu görmek için buraya tıklayın. Bölümdeki tüm üniteler için öğrenci puanlarını görebilirsiniz.",
             "spanish": "Haga clic aquí para ver un Informe del segmento. Usted puede ver las puntuaciones de los estudiantes para todas las unidades en el segmento.",
             "korean": "여기를 클릭하면 세그먼트 보고서를 볼 수 있습니다. 세그먼트의 모든 단원에 대한 학생의 점수를 볼 수 있습니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "按一下這裡檢視Segment Report（部分報告）。您能夠看到該部分內所有單元的學生分數。 ",
+            "japanese": "セグメントレポートを表示するには、こちらをクリックします。セグメント内のすべてのユニットについて生徒の得点が表示されます。  ",
             "arabic": "أنقر هنا لكي تشاهد قسم من التقرير. يمكنك أن ترى درجات الطلاب لجميع الوحدات بصورة تفصيلية."
           }
         },
@@ -76,8 +76,8 @@
             "turkish": "Bu satır, bu sınıf için her bir bölümde ortalama tamamlanmış aktivite sayısını gösterir. Örneğin, bu sayı 25/95 ise, bölümde tamamlanan ortalama aktivite sayısı 25 ve bölümdeki toplam aktivite sayısı da 95 demektir.",
             "spanish": "Esta fila muestra el número promedio de actividades realizadas en cada segmento para esta clase. Por ejemplo, si el número es 25/95, 25 es el número promedio de actividades realizadas en el segmento, y 95 es el número total de actividades en el segmento.",
             "korean": "이 행은 본 수업의 각 세그먼트에서 완료한 평균 활동 건수를 표시합니다. 예를 들어 건수가 25/95라면 25는 세그먼트에서 완료한 평균 활동 건수이며 95는 세그먼트의 총 활동 건수를 의미합니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "本行顯示此班在每部分內已完成活動的平均數目。舉例來說，假如該數字為25/90，那麼25是該部分內已完成活動的平均數目，而90則是該部分內活動的總數。 ",
+            "japanese": "この行には、このクラスの各セグメント内で完了された平均アクティビティ数が表示されます。たとえば、25/95と表示された場合、25はセグメント内で完了された平均アクティビティ数、95はセグメント内の合計アクティビティ数を示します。 ",
             "arabic": "يعرض لك هذا الصف معدل عدد الأنشطة المكتملة في كل قسم لهذا الفصل الدراسي. على سبيل  المثال، إذا كان الرقم 25/95، فالرقم 25 هو معدل رقم الأنشطة المكتملة في القسم، والرقم 95 هو الرقم الإجمالي للأنشطة في القسم."
           }
         },
@@ -90,8 +90,8 @@
             "turkish": "Bu satır, bu sınıf için her bir bölümdeki ortalama puanı gösterir.",
             "spanish": "Esta fila muestra la puntuación promedio en cada segmento para esta clase.",
             "korean": "이 행은 수업 각 세그먼트의 평균 점수를 표시합니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "本行顯示此班在每部分內的平均分數。 ",
+            "japanese": "この行には、このクラスの各セグメントの平均得点が表示されます。 ",
             "arabic": "يعرض لك هذا الصف معدل الدرجة في كل قسم لهذا الفصل الدراسي."
           }
         },
@@ -104,8 +104,8 @@
             "turkish": "Bu satır, sınıftaki öğrencilerin her bir bölümde harcadığı ortalama zamanı gösterir.",
             "spanish": "Esta fila muestra la cantidad de tiempo promedio que los estudiantes en esta clase han dedicado a actividades en cada segmento.",
             "korean": "이 행은 이 수업의 학생들이 각 세그먼트에서 학습한 평균 시간을 표시합니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "本行顯示此班學生在每部分上所花的平均時間。 ",
+            "japanese": "この行には、このクラスの生徒たちが各セグメントに取り組んだ平均時間が表示されます。 ",
             "arabic": "يعرض لك هذا الصف معدل مقدار الوقت الذي استغرقه الطلاب  في الفصل الدراسي للعمل على قسم."
           }
         },
@@ -118,8 +118,8 @@
             "turkish": "Bu sınıf için bu seviyede tamamlanan ortalama aktivite sayısının toplamı burada gösterilir. Örneğin, bu sayı 27/156 ise, bölümlerde tamamlanan aktivitelerin ortalama sayısının toplamı 27 ve seviyedeki aktivitelerin toplam sayısı ise 156 demektir.",
             "spanish": "Este es el total del número promedio de actividades realizadas en todo el nivel para esta clase. Por ejemplo, si el número es 27/156, 27 es el total del número promedio de actividades realizadas entre los segmentos, y 156 es el número total de actividades en el nivel.",
             "korean": "이것은 본 수업의 전체 레벨에서 완료한 평균 활동 건수의 총계입니다. 예를 들어 건수가 27/156이라면 27은 전체 세그먼트에 걸쳐 완료한 평균 활동 건수이며 156은 레벨의 총 활동 건수를 의미합니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "這是此班在整個層級中已完成活動之平均數目的加總。舉例來說，假如該數字為27/156，那麼27是有關部分內已完成活動之平均數目的加總，而156則是該層級內活動的總數。 ",
+            "japanese": "これは、このクラスの全レベルで完了された平均アクティビティ数です。たとえば、27/156と表示された場合、27は全セグメントで完了された平均アクティビティ数、156は該当レベルでの合計アクティビティ数を示します。 ",
             "arabic": "هذا هو المجموع الكلي لمعدل عدد الانشطة المكتملة في المستوى بأكمله لهذا الفصل الدراسي. على سبيل   المثال، إذا كان الرقم  27/156 ، فإن الرقم 27 هو معدل عدد الأنشطة  المكتملة عَبرَ الأقسام، والرقم 156 هو العدد الكلي للأنشطة في المستوى."
           }
         },
@@ -132,8 +132,8 @@
             "turkish": "Bu seviyedeki bölümler için ortalama puan burada gösterilir.",
             "spanish": "Esta es la puntuación promedio entre los segmentos en el nivel.",
             "korean": "이것은 레벨의 세그먼트 전체에 걸친 평균 점수입니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "這是該層級內有關部分的平均分數。",
+            "japanese": "これはレベル内での全セグメントの平均得点です。",
             "arabic": "هذا هو معدل الدرجة عَبرَ الأقسام في المستوى."
           }
         },
@@ -146,8 +146,8 @@
             "turkish": "Burada bir seviyenin her bir bölümündeki aktivitelerde öğrencilerin harcadığı ortalama zamanın toplamı gösterilir.",
             "spanish": "Esta es la cantidad total del tiempo promedio en cada segmento que los estudiantes dedican a actividades en todo el nivel.",
             "korean": "이것은 학생이 레벨 전체에서 활동에 이용한 평균 시간의 총계입니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "這是學生在該層級的活動上於每部分內所花平均時間的加總。 ",
+            "japanese": "これは、レベル内で生徒がアクティビティに費やした各セグメントでの合計平均時間です。 ",
             "arabic": "هذا هو إجمالي معدل مقدار الوقت الذي إستغرقه الطلاب على الأنشطة في كل قسم عَبرَ المستوى."
           }
         },

@@ -104,8 +104,8 @@
             "turkish": "Bazı soruları yanlış cevaplayan öğrenciler bir aktiviteyi tekrar deneyebilirler. Bir aktivite istenirse defalarca denenebilir.",
             "spanish": "Los estudiantes pueden intentar una actividad nuevamente si contestan erróneamente algunas preguntas. Puede intentar una actividad tantas veces como ellos lo deseen.",
             "korean": "학생은 몇 가지 질문에 잘못 답변하였을 경우 활동을 다시 시도할 수 있습니다. 학생은 원하는 만큼 활동을 시도할 수 있습니다.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "學生倘若沒有答對某項活動的一些問題，能夠再次嘗試該活動。他們能夠不限次數地反覆嘗試一項活動。",
+            "japanese": "回答を間違えた場合、生徒はアクティビティを再度試みることができます。アクティビティは何回でもを試みることができます。",
             "arabic": "يستطيع الطلاب محاولة نشاط ما مرة أخرى إذا أعطوا أجوبة بنحو مغلوط لبعض الاسئلة. يمكنهم القيام بمحاولة نشاط ما عدة مرات كما يحلوا لهم."
           }
         },
@@ -132,8 +132,8 @@
             "turkish": "Bir öğrencinin şimdiki aktivitesinin puanı burada gösterilir.",
             "spanish": "Aquí aparece la puntuación de la actividad actual del estudiante.",
             "korean": "학생의 현재 활동 점수가 여기에 표시됩니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "學生的目前活動分數在此顯示。",
+            "japanese": "ここには、生徒の現在のアクティビティの得点が表示されます。",
             "arabic": "درجة النشاط الحالي للطالب معروضة هنا."
           }
         },
@@ -146,8 +146,8 @@
             "turkish": "Öğrenciler, Çevrim İçi Uygulamaları yapmalarına yardım edecek kaynakları varsa burada bulabilirler.",
             "spanish": "Los estudiantes pueden encontrar recursos de apoyo aquí que les ayudarán con su trabajo de Práctica Online, si están disponibles.",
             "korean": "학생 온라인 실습에 대한 도움말 자료를 이용할 수 있는 경우 여기에서 확인할 수 있습니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "學生能夠在此找到將助其完成Online Practice（線上練習）功課的支援資源（若有）。",
+            "japanese": "ここには、生徒のオンライン練習に役立つ補助リソースがあります。",
             "arabic": "يستطيع الطلاب العثور على موارد مساندة هنا والتي ستساعدهم في عملهم المتعلق باستخدام الممارسة عبر الإنترنت، إذا كانت متوفرة."
           }
         }

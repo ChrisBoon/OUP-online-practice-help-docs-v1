@@ -90,8 +90,8 @@
             "spanish": "Haga clic aquí para ver un gráfico de gramática emergente relacionado con la actividad actual.",
             "turkish": "Şimdiki aktiviteyle ilgili açılan bir gramer cetvelini görmek için buraya tıklayın.",
             "korean": "현재 활동에 관련된 문법 차트 팝업을 확인하려면 여기를 클릭하십시오.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "按一下這裡即可看到與目前活動相關的文法跳現視窗。",
+            "japanese": "現在のアクティビティに関連する文法チャートのポップアップを見るには、こちらをクリックします。",
             "arabic": "انقر هنا لمشاهدة المخطط المنبثق لقواعد اللغة الخاص بالنشاط الحالي."
           }
         },
@@ -104,8 +104,8 @@
             "turkish": "Bir aktivitenin tüm sorularını cevapladıktan sonra cevaplarınızı kontrol etmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para verificar sus respuestas cuando usted haya contestado todas las preguntas en una actividad.",
             "korean": "활동의 모든 질문에 답변하고 여기를 클릭하여 답을 확인하십시오.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "在回答了活動中的全部問題後，按一下這裡檢查您的答案。 ",
+            "japanese": "アクティビティ内のすべての質問に回答したら、こちらをクリックして回答をチェックします。 ",
             "arabic": "انقر هنا لفحص إجاباتك عندما تكون قد أجبت على كل الأسئلة ضمن نشاط معين."
           }
         },
@@ -146,8 +146,8 @@
             "turkish": "Bir aktivitenin tamamlanmasıyla ilgili bilgi için açılan Geri Bildirimi görmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para ver una ventana emergente de retroalimentación con información sobre cómo completar una actividad.",
             "korean": "활동 수행 안내와 함께 피드백 팝업을 확인하려면 여기를 클릭하십시오.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "按一下這裡即可看到Feedback（回饋）跳現視窗，其中有完成活動的指導。",
+            "japanese": "アクティビティの完了方法の説明が含まれたフィードバックポップアップを見るには、こちらをクリックします。",
             "arabic": "انقر هنا لمشاهدة ملاحظة منبثقة مع إرشادات لتكملة النشاط."
           }
         },
@@ -188,8 +188,8 @@
             "turkish": "Varsa, Sözlüğe burada bakabilirsiniz. Sözlük, kursun sözcük hazinesi için size yardımcı olur.",
             "spanish": "Puede ver el Glosario aquí, si está disponible. El glosario le ayudará con el vocabulario del curso.",
             "korean": "용어집을 이용할 수 있는 경우 여기에서 확인할 수 있습니다. 용어집은 과정의 단어를 확인하는데 도움이 됩니다.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "您能夠在此查看Glossary（辭彙表）（若有）。辭彙表將幫助您學習課程詞彙。",
+            "japanese": "Glossaryが利用できる場合は、ここに表示されます。 Glossaryは、コース内の語彙をサポートします。",
             "arabic": "يمكنك مشاهدة المسرد هنا، إذا كان متاحاً. وسوف يساعدك المسرد في استعمال مفردات المقرر."
           }
         },

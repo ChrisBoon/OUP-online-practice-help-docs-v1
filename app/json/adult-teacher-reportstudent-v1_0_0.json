@@ -104,8 +104,8 @@
             "turkish": "Öğrencinin belirli bir bölümde ya da tüm bölümlerde aldığı sonuçları görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver los resultados de un estudiante en un segmento específico o en todos los segmentos.",
             "korean": "이 메뉴를 이용하여 학생의 특정 세그먼트나 모든 세그먼트 성적을 보십시오.",
-            "chinese": "",
-            "japanese": "", 
+            "chinese": "用本功能表檢視學生在具體部分或所有部分的結果。",
+            "japanese": "生徒の特定セグメントまたは全セグメントの結果を見るには、このメニューを使用します。", 
             "arabic": "إستعمل هذه القائمة لمشاهدة نتائج الطالب لقسم معيّن أو لجميع الأقسام."
           }
         },
@@ -118,8 +118,8 @@
             "turkish": "Bir öğrencinin Bölüm Raporunu görmek için bir bölüm başlığına da tıklayabilirsiniz.",
             "spanish": "También puede hacer clic en el título de un segmento para ver el Informe de segmento de un estudiante.",
             "korean": "또한 세그먼트 제목을 이용하여 학생의 세그먼트 보고서를 볼 수 있습니다.",
-            "chinese": "",
-            "japanese": "", 
+            "chinese": "您也能按一下某個部分標題，檢視學生的Segment Report（部分報告）。",
+            "japanese": "生徒のセグメントレポートを表示するには、セグメント名をクリックすることもできます。", 
             "arabic": "يمكنك أيضاً النقر على عنوان القسم لمشاهدة تقرير القسم للطالب."
           }
         },
@@ -132,8 +132,8 @@
             "turkish": "Öğrencinin belirli bir bölümdeki bir ünitede çalışmasını görmek için üniteye tıklayabilirsiniz.",
             "spanish": "Haga clic en una unidad para ver el trabajo del estudiante en esa unidad dentro de un segmento específico.",
             "korean": "학생의 특정 세그먼트 내 단원 학습을 보시려면 단원을 클릭하십시오.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "按一下某個單元，即可檢視該學生在該單元之具體部分內的功課。",
+            "japanese": "特定のセグメント内のユニットでの生徒の課題を表示するには、そのユニットをクリックします。",
             "arabic": "أنقر على الوحدة لمشاهدة عمل الطالب في تلك الوحدة ضمن قسم معيّن."
           }
         },
@@ -146,8 +146,8 @@
             "turkish": "Bu satır, öğrencinin bir ünitedeki tüm aktivitelerden aldığı toplam puanı gösterir.",
             "spanish": "Esta fila muestra la calificación total del estudiante para todas las actividades en una unidad.",
             "korean": "이 행은 학생의 단원 내 모든 활동의 총점을 표시합니다.",
-            "chinese": "",
-            "japanese": "", 
+            "chinese": "本行顯示學生就某單元內所有活動的總分數。",
+            "japanese": "この行にはユニット内のすべてのアクティビティに対する生徒の合計得点が表示されます。", 
             "arabic": "يعرض هذا الصف درجة الطالب الكلية لجميع النشاطات في الوحدة."
           }
         },
@@ -160,8 +160,8 @@
             "turkish": "Bu satır, öğrencinin bir ünitedeki tüm aktiviteleri kaç defa denediğini gösterir.",
             "spanish": "Esta fila muestra el número total de veces que un estudiante intentó todas las actividades en una unidad.",
             "korean": "이 행은 단원 내 모든 활동에 대한 학생의 시도 횟수를 표시합니다.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "本行顯示學生對單元中全部活動的嘗試次數。",
+            "japanese": "この行には、生徒がユニット内のすべてのアクティビティを試みた回数が表示されます。",
             "arabic": "يعرض هذا الصف عدد المرات التي حاول فيها الطالب جميع الأنشطة في الوحدة."
           }
         },
@@ -174,8 +174,8 @@
             "turkish": "Bu satır, öğrencinin bir ünite üzerinde harcadığı toplam zamanı gösterir.",
             "spanish": "Esta fila muestra la cantidad total de tiempo que el estudiante empleó en cada unidad.",
             "korean": "이 행은 학생이 각 단원에서 활동을 수행한 총 시간을 표시합니다.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "本行顯示該學生在每個單元上花費的總計時間。",
+            "japanese": "この行には、この生徒が各ユニットに費やした合計時間数が表示されます。",
             "arabic": "يعرض هذا الصف مقدار الوقت الكلي الذي قضاه الطالب في كل وحدة."
           }
         },
@@ -188,8 +188,8 @@
             "turkish": "Burada öğrencinin bir bölümün tüm aktivitelerinden aldığı toplam puan gösterilir.",
             "spanish": "Esta es la puntuación total del estudiante en todas las actividades del estudiante en un segmento.",
             "korean": "이것은 세그먼트 내 전체 활동에 대한 학생의 총점입니다.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "這是該學生在某部分內全部活動上的總分數。",
+            "japanese": "これはセグメント内のすべてのアクティビティに対する生徒の合計得点です。",
             "arabic": "هذه هي درجة الطالب الكلية عبرَ جميع النشاطات في القسم."
           }
         },
@@ -202,8 +202,8 @@
             "turkish": "Burada öğrencinin bir bölümün tüm aktiviteleri toplam deneme sayısı gösterilir.",
             "spanish": "Este es el número total de veces que el estudiante ha intentado todas las actividades en un segmento.",
             "korean": "이것은 세그먼트 내 모든 활동에 대한 학생의 총 시도 횟수입니다.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "這是該學生對某部分內全部活動的總計嘗試次數。",
+            "japanese": "これは生徒がセグメント内のすべてのアクティビティを試みた合計回数です。",
             "arabic": "هذا هو مجموع عدد المرات التي حاول فيها الطالب جميع النشاطات في القسم."
           }
         },
@@ -216,8 +216,8 @@
             "turkish": "Burada bir bölümün tüm aktivitelerinde harcanan toplam zaman gösterilir.",
             "spanish": "Este es el total de tiempo empleado en todas las actividades en un segmento.",
             "korean": "이것은 세그먼트 내 모든 활동을 수행한 총 시간입니다.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "這是在某部分內全部活動所用的總計時間。",
+            "japanese": "これはセグメント内のすべてのアクティビティにかかった合計時間です。",
             "arabic": "هذا هو الوقت الكلي  الذي قضاه الطالب في جميع النشاطات في القسم."
           }
         },

@@ -118,8 +118,8 @@
             "turkish": "Bazı soruları yanlış cevaplayan öğrenciler bir aktiviteyi tekrar deneyebilirler. Bir aktivite istenirse defalarca denenebilir.",
             "spanish": "Los estudiantes pueden intentar una actividad nuevamente si contestan erróneamente algunas preguntas. Puede intentar una actividad tantas veces como ellos lo deseen.",
             "korean": "학생은 몇 가지 질문에 잘못 답변하였을 경우 활동을 다시 시도할 수 있습니다. 학생은 원하는 만큼 활동을 시도할 수 있습니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "學生倘若沒有答對某項活動的一些問題，能夠再次嘗試該活動。他們能夠不限次數地反覆嘗試一項活動。",
+            "japanese": "回答を間違えた場合、生徒はアクティビティを再度試みることができます。アクティビティは何回でもを試みることができます。",
             "arabic": "يستطيع الطلاب محاولة نشاط ما مرة أخرى إذا أعطوا أجوبة بنحو مغلوط لبعض الاسئلة. يمكنهم القيام بمحاولة نشاط ما عدة مرات كما يحلوا لهم."
           }
         },
@@ -146,8 +146,8 @@
             "turkish": "Öğrenciler buraya tıklayıp, bir aktivitenin tamamlanmasıyla ilgili bilgi içeren bir Geri Bildirimi görebilirler.",
             "spanish": "Los estudiantes harán clic aquí para ver una ventana emergente de retroalimentación con información sobre cómo realizar una actividad.",
             "korean": "학생은 활동 수행 안내와 함께 피드백 팝업을 확인하려면 여기를 클릭하십시오.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "學生按一下這裡，就能看到Feedback（回饋）跳現視窗，其中有完成活動的指導。",
+            "japanese": "アクティビティの完了方法の説明が含まれたフィードバックポップアップを見るには、生徒はこちらをクリックします。",
             "arabic": "يستطيع الطلاب النقر هنا لرؤية ملاحظة منبثقة مع توجيهات حول تكملة نشاط ما."
           }
         },
@@ -160,8 +160,8 @@
             "turkish": "Bir öğrencinin şimdiki aktivitesinin puanı burada gösterilir.",
             "spanish": "Aquí aparece la puntuación de la actividad actual del estudiante.",
             "korean": "학생의 현재 활동 점수가 여기에 표시됩니다.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "學生的目前活動分數在此顯示。",
+            "japanese": "ここには、生徒の現在のアクティビティの得点が表示されます。",
             "arabic": "درجة النشاط الحالي للطالب معروضة هنا."
           }
         },
@@ -174,8 +174,8 @@
             "turkish": "Öğrenciler, Çevrim İçi Uygulamaları yapmalarına yardım edecek kaynakları varsa burada bulabilirler.",
             "spanish": "Los estudiantes pueden encontrar recursos de apoyo aquí que les ayudarán con su trabajo de Práctica Online, si están disponibles.",
             "korean": "학생 온라인 실습에 대한 도움말 자료를 이용할 수 있는 경우 여기에서 확인할 수 있습니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "學生能夠在此找到將助其完成Online Practice（線上練習）功課的支援資源（若有）。",
+            "japanese": "ここには、生徒のオンライン練習に役立つ補助リソースがあります。",
             "arabic": "يستطيع الطلاب العثور على موارد مساندة هنا والتي ستساعدهم في عملهم المتعلق باستخدام الممارسة عبر الإنترنت، إذا كانت متوفرة."
           }
         },
@@ -188,8 +188,8 @@
             "turkish": "Öğrenciler, varsa Sözlüğü burada görebilirler. Sözlük dersin kelime hazinesi için yardımcı olur.",
             "spanish": "Los estudiantes pueden ver el Glosario aquí, si está disponible. El glosario les ayudará con el vocabulario del curso.",
             "korean": "용어집을 이용할 수 있는 경우 학생은 여기에서 확인할 수 있습니다. 용어집은 학생이 과정의 단어를 확인하는데 도움이 됩니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "學生能夠在此查看Glossary（辭彙表）（若有）。辭彙表將幫助他們學習課程詞彙。",
+            "japanese": "用語集がある場合は、こちらで見ることができます。用語集は、コースに使用されている語彙の習得に役立ちます。",
             "arabic": "يستطيع الطلاب مشاهدة المسرد هنا، إذا كان متاحاً. وسيساعدهم المسرد في فهم مفردات المقرر."
           }
         },
@@ -202,8 +202,8 @@
             "turkish": "Öğrenciler Başarılarına ve Raporlarına buradan ulaşabilirler.",
             "spanish": "Los estudiantes pueden acceder a sus Logros e Informes aquí.",
             "korean": "학생은 여기에서 성과와 보고서에 접속할 수 있습니다.", 
-            "chinese": "",
-            "japanese": "",
+            "chinese": "學生能夠在此查看其成績與報告。",
+            "japanese": "生徒はここから達成事項とレポートにアクセスできます。",
             "arabic": "يستطيع الطلاب الاستفادة من منجزاتهم وتقاريرهم هنا."
           }
         }

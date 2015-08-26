@@ -203,7 +203,7 @@
             "spanish": "Esta fila muestra el número de actividades realizadas por un alumno en cada segmento.",
             "korean": "이 행은 학생이 각 세그먼트에서 완료한 활동의 수를 표시합니다.",
             "chinese": "這一行顯示一位學生在每個單元所完成的學習活動數目。",
-            "japanese": "",
+            "japanese": "この行には、各セグメントで生徒が完了したアクティビティ数が表示されます。",
             "arabic": "يبيّن هذا العمود عدد الأنشطة المكتملة من قبل الطالب في كل قسم."
           }
         },
@@ -217,7 +217,7 @@
             "spanish": "Esta línea muestra la puntuación total del alumno en cada segmento.",
             "korean": "이 행은 각 세그먼트의 학생 총점을 표시합니다.", 
             "chinese": "這一行顯示一位學生在每個單元得到的總分。",
-            "japanese": "",
+            "japanese": "この行には、各セグメントの生徒の合計得点が表示されます。",
             "arabic": "يبيّن هذا العمود معدل درجة الطالب في كل قسم."
           }
         },
@@ -231,7 +231,7 @@
             "spanish": "Esta fila muestra la cantidad total de tiempo que un alumno ha dedicado a actividades en cada segmento.",
             "korean": "이 행은 각 세그먼트에서 학생이 활동에 소요한 총 시간을 표시합니다.", 
             "chinese": "這一行顯示一位學生在每個單元完成學習活動所花費的總時數。",
-            "japanese": "",
+            "japanese": "この行には、生徒が各セグメントでアクティビティに費やした合計時間が表示されます。",
             "arabic": "يبيّن هذا العمود مقدار الوقت الكلي الذي يستغرقه الطالب على الأنشطة في كل قسم."
           }
         },

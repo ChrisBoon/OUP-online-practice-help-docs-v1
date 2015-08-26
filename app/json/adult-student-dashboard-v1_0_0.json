@@ -118,8 +118,8 @@
             "turkish": "Bu, Gösterge Panonuzdur. Çevrim İçi Uygulama, örneğin Testler, Kelime Hazinesi ve Uygulama gibi alanlara ayrılmıştır. Gösterge Panosu, bir seviyenin çeşitli alanlarındaki aktivite sonuçlarınızı gösterir.",
             "spanish": "Este es su Tablero. La Práctica Online se divide en varias áreas, por ejemplo: Pruebas, Vocabulario y Práctica. El tablero muestra los resultados de su actividad para un nivel a en todas las diferentes áreas.",
             "korean": "여기는 대시보드입니다. 온라인 실습은 시험, 어휘, 실습과 같은 여러 영역으로 나눠져 있습니다. 대시보드는 여러 영역의 레벨에 대한 활동 결과를 표시합니다. ",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "這是您的Dashboard（控制板）。Online Practice（線上練習）分為若干方面，例如Test（測驗）、Vocabulary（詞彙）及Practice（練習）。控制板顯示您所在層級不同方面的活動結果。 ",
+            "japanese": "これはダッシュボードです。オンライン練習は、テスト、語彙、練習など、いくつかの分野に分かれています。ダッシュボードには、レベルに該当する異なる分野のアクティビティの結果が表示されます。 ",
             "arabic": "هذه هي لوحة بيانتك والتي ترى فيها الممارسة عبر شبكة الإنترنت مقسّم الى عدة مجالات وعلى سبيل المثال ، إختبارات ، مفردات الكلمات والممارسة.تعرض لك لوحة البيانات نتائج النشاط  لمستوى ما عبر مجالات مختلفة."
           }
         },
@@ -132,8 +132,8 @@
             "turkish": "Farklı beceri alanlarındaki aktivite sonuçları bir seviye içerisindeki beceri alanında tamamlanan tüm aktivitelerin ortalama puanına göre bir yüzde değer olarak görüntülenir.",
             "spanish": "Los resultados para actividades dentro de las diferentes áreas de habilidades se muestran como un porcentaje en base a la puntuación media de todas las actividades realizadas en un área de habilidades dentro de un nivel.",
             "korean": "여러 영역의 활동 결과는 레벨에 포함된 영역에서 완료한 모든 활동의 평균 점수를 토대로 백분율로 표시됩니다.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "不同方面之活動的結果將用一個百分比顯示；此數字還是基於所在層級之某個方面全部已完成活動的平均分數。",
+            "japanese": "異なる分野内のアクティビティの結果は、レベルに該当する各分野の完了済み全アクティビティの平均得点に基づき、パーセンテージで表示されます。",
             "arabic": "يتم عرض نتائج الأنشطة التي تنتمي لمجالات مختلفة من المهارات كنسبة مئوية على أساس متوسط درجات كل الأنشطة المُنجَزة في مجال من المهارات خلال مستوى ما."
           }
         },
@@ -146,8 +146,8 @@
             "turkish": "Burada, bir alanda tamamlanmış olan aktivite sayısı, alandaki toplam aktivite sayısı ile birlikte gösterilir.",
             "spanish": "El número de actividades realizadas se muestra aquí junto con el número total de actividades en un área.",
             "korean": "완료된 활동의 수는 영역의 활동 총수와 함께 여기에 표시됩니다.", 
-            "chinese": "",
-           "japanese": "",
+            "chinese": "相關方面的已完成活動數及活動總數在此顯示。",
+           "japanese": "ここには、各分野の完了済みアクティビティ数と合計アクティビティ数が表示されます。",
             "arabic": "إن عدد النشاطات الكاملة معروض هنا  على طول مع العدد الكلي للنشاطات الموجودة في مجالا ما."
           }
         }

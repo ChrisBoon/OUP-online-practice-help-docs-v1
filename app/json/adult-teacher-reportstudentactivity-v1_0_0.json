@@ -62,8 +62,8 @@
             "turkish": "Bu öğrencinin Öğrenci Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para visualizar el Informe del Estudiante para este estudiante.",
             "korean": "이 학생의 학생 보고서를 보려면 여기를 클릭하십시오.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "按一下這裡檢視此學生的Student Report（學生報告）。",
+            "japanese": "この生徒の生徒レポートを表示するにはこちらをクリックします。",
             "arabic": "أنقر هنا على تقرير طالب لمشاهدة كل ما يتعلق بهذا الطالب."
           }
         },
@@ -76,8 +76,8 @@
             "turkish": "Bu öğrencinin Bölüm Raporunu görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para visualizar el Informe del Segmento para este estudiante.",
             "korean": "이 학생의 세그먼트 보고서를 보려면 여기를 클릭하십시오.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "按一下這裡檢視此學生的Segment Report（部分報告）。",
+            "japanese": "この生徒のセグメントレポートを表示するにはこちらをクリックします。",
             "arabic": "أنقر هنا كي تشاهد تقرير القسم لهذا الطالب."
           }
         },
@@ -118,8 +118,8 @@
             "turkish": "Burada, öğrencinin bu aktivitede aldığı puan gösterilir. Örneğin, puan 8/10 ise, öğrencinin doğru cevapladığı madde (soru) sayısı 8 ve aktivitedeki toplam soru sayısı ise 10 demektir.",
             "spanish": "Este muestra la puntuación del estudiante en esta actividad. Por ejemplo, si el puntaje es 8/10, 8 es el número de elementos (preguntas) que el estudiante respondió correctamente, y 10 es el número total de elementos en la actividad.",
             "korean": "이것은 이 활동에 대한 학생의 점수를 표시합니다. 예를 들어 점수가 8/10인 경우 8은 학생이 정답을 답한 항목(질문)의 수이며 10은 이 활동의 총 항목 수입니다.",
-            "chinese": "",
-            "japanese": "",
+            "chinese": "這顯示此學生在這項活動上的分數。舉例來說，假如分數為8/10，那麼8是該學生答對的項目（問題）數，而10則是該活動中的項目總數。",
+            "japanese": "これは、このアクティビティに対する生徒の得点を示しています。たとえば、8/10と表示された場合、8は生徒が正しく回答した項目（質問）数、10はアクティビティの合計項目数を示します。",
             "arabic": "تعرض هذه البيانات درجات الطالب في هذا النشاط. على سبيل المثال، إذا كانت الدرجة  8/10 ، فإن الرقم 8 يشير الى البنود ( الاسئلة) التي أجاب عليها الطالب بصورة صحيحة، والرقم 10 هو المجموع الكلي للبنود في النشاط."
           }
         }

@@ -61,8 +61,8 @@
           "turkish": "Denemeleri Yönet",
           "spanish": "Administrar los intentos",
           "korean": "시도 관리",
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "試みの管理-",
+          "chinese": "管理嘗試",
           "thai": "-",
           "arabic": "إدارة المحاولات"
         },
@@ -118,8 +118,8 @@
           "spanish": "Ocultar/Asignar contenido",
           "korean": "컨텐츠 숨기기/할당",
           "japanese": "ユニットとレッスンを非表示にする",
-          "chinese": "-",
-          "thai": "-",
+          "chinese": "隱藏或顯示內容",
+          "thai": "ユニットとレッスンを非表示にする",
           "arabic": "تحديد المحتوى /إخفاء"
         },
         "id": "adult-teacher-contentassign-q2e"
@@ -201,8 +201,8 @@
           "turkish": "Öğrenci Bölüm Raporu",
           "spanish": "Informe del segmento de estudiante",
           "korean": "세그먼트 보고서 ",
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "セグメントレポート",
+          "chinese": "部分報告",
           "thai": "-",
           "arabic": "تقريرالطالب الجزئي"
         },
@@ -285,8 +285,8 @@
           "turkish": "Aktiviteler ve Kaynaklar ",
           "spanish": "Actividades y Recursos",
           "korean": "ACTIVITIES AND RESOURCES",
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "アクティビティとリソース",
+          "chinese": "活動與資源",
           "thai": "-",
           "arabic": "أنشطة و الموارد"
         },
@@ -383,8 +383,8 @@
           "turkish": "Tartışma Panosu",
           "spanish": "Panel de discusión",
           "korean": "게시판",
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "ディスカッションボード",
+          "chinese": "討論區",
           "thai": "-",
           "arabic": "المناقشة لوحة"
         },
@@ -538,8 +538,8 @@
           "turkish": "Öğrenci Bölüm Raporu",
           "spanish": "Informe del segmento de estudiante",
           "korean": "세그먼트 보고서", 
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "セグメントレポート",
+          "chinese": "部分報告",
           "thai": "-",
           "arabic": "تقريرالطالب الجزئي"
         },
@@ -594,8 +594,8 @@
           "turkish": "Tartışma Panosu",
           "spanish": "Panel de discusión",
           "korean": "게시판",
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "ディスカッションボード",
+          "chinese": "討論區",
           "thai": "-",
           "arabic": "المناقشة لوحة"
         },
