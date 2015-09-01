@@ -134,6 +134,16 @@
   }
 }
 
+.language-chosen__container--thai,
+.language-chosen__container--Thai{
+  &:before{
+    content: "ภาษาไทย";
+  }
+  .language-chosen--english{
+    display: none;
+  }
+}
+
 .adult{
   .language-chosen__container--spanish,
   .language-chosen__container--Spanish{

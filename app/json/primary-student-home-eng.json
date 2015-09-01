@@ -35,7 +35,7 @@
             "spanish_la": "Verá los niveles de su curso al ingresar en la Práctica Online o al hacer click en el icono de Home [Inicio], en la parte superior de la pantalla.",
             "japanese": "Online Practiceにアクセスするか、画面上部のホームアイコンをクリックすると、コースのレベルが表示されます。",
             "chinese": "當您進入線上練習或點擊螢幕上端的首頁圖示時，在此處您將會看到課程的級數。",
-            "thai": "เมื่อเข้าระบบแบบฝึกหัดออนไลน์  หรือ คลิกที่สัญลักษณ์บ้านบริเวณส่วนบนของหน้าจอ  คุณจะเห็นระดับของหลักสูตรของคุณ",
+            "thai": "เมื่อเข้าระบบแบบฝึกหัดออนไลน์ หรือ คลิกปุ่ม Home บริเวณส่วนบนของหน้าจอ คุณจะเห็นระดับหลักสูตรของคุณ",
             "portuguese": "Quando você acessar o Online Practice ou clicar no ícone “Home” na parte superior da tela, você visualizará os níveis de seu curso."
           }
         },
@@ -49,7 +49,7 @@
             "spanish_la": "Haga click en \"Añadir un nivel\" para agregar otro nivel si tiene un código de acceso.",
             "japanese": "アクセスコードがあれば、Add a Level[レベルの追加]をクリックすると別のレベルを追加することができます。",
             "chinese": "點點擊 Add a level（新增級數），如果您有使用密碼，可以增加另一個級數。",
-            "thai": "คลิกที่ “เพิ่มระดับชั้นเรียน” ถ้าคุณมีรหัสการเข้าถึง (Access Code)",
+            "thai": "คลิกที่ “Add a level” ถ้าคุณมีรหัสการเข้าถึง (Access Code)",
             "portuguese": "Clique em “Add a level” para adicionar outro nível, caso você tenha um código de acesso."
           }
         },
@@ -63,7 +63,7 @@
             "spanish_la": "Elija el nivel al que desea ingresar.",
             "japanese": "アクセスしたいレベルを選択します。",
             "chinese": "選擇您想要進入的級數。",
-            "thai": "เลือกระดับชั้นเรียนที่คุณต้องการใช้งาน",
+            "thai": "เลือกระดับชั้นเรียนที่ต้องการใช้งาน",
             "portuguese": "Escolha o nível que você deseja inserir."
           }
         }
@@ -120,7 +120,7 @@
             "spanish_la": "Haga click aquí para ver sus Report (Informe). Esta muestra sus logros y progreso para todas las actividades en este nivel.",
             "japanese": "レポート、トロフィルーム、スキルズダッシュボードを表示するにはこちらをクリックします。これらの画面では、そのレベルの全アクティビティに対しての成績表や進歩状況が表示されます。",
             "chinese": "點此處觀看您的學習報告、獎盃陳列室以及技能展示板。這些會顯示您在此級數當中，所有活動的學習成果以及學習進展。",
-            "thai": "คลิกที่นี่ เพื่ออ่านรายงาน, เข้าห้องเก็บถ้วยรางวัล และ กระดานแสดงความสามารถ  คุณจะเห็นความสำเร็จ, ความคืบหน้า ในทุกกิจกรรมของคุณ",
+            "thai": "คลิกที่นี่ เพื่อดูรายงานผลเรียน, เข้าห้องเก็บถ้วยรางวัล, ดูหน้าแสดงทักษะความสามารถเพื่อดูความสำเร็จ และความคืบหน้าในการทำกิจกรรมของคุณจากที่นี่",
             "portuguese": "Clique aqui para visualizer o seu painel de habilidades. Ele exibe suas realizações e seu progresso relacionado a todas as atividades deste nível."
           }
         },
@@ -134,7 +134,7 @@
             "spanish_la": "Haga click aquí para utilizar el área de Correo electrónico. Puede enviar mensajes a su profesor y a los demás estudiantes en su clase de Práctica Online. El icono de Email [Correo electrónico] aparecerá aquí cuando se haya inscrito a una clase.",
             "japanese": "メールエリアの使用は、こちらをクリックします。自分のOnline Practiceのクラスの先生や生徒にメッセージを送ることができます。クラスに参加登録すると、こちらにメールアイコンが表示されます。",
             "chinese": "點此處使用電子郵件功能，您可以傳送訊息給您的教師以及線上練習班級的同班同學。當您加入一個班級時，電子郵件圖示會顯示在此處。",
-            "thai": "คลิกที่นี่ เพื่อเข้าใช้งานอีเมล  คุณสามารถส่งอีเมลหาครูผู้สอน และ นักเรียนคนอื่นในห้องเรียนได้  สัญลักษณ์อีเมลจะปรากฎขึ้นเมื่อคุณได้เข้าร่วมห้องเรียนแล้ว",
+            "thai": "คลิกที่นี่ เพื่อเข้าใช้งานอีเมล คุณสามารถส่งอีเมลหาครูผู้สอน และเพื่อนร่วมชั้นคนอื่นได้ สัญลักษณ์อีเมลจะปรากฏขึ้นเมื่อคุณได้เข้าเรียนแล้ว",
             "portuguese": "Clique aqui para usar a área de e-mail. Você pode enviar mensagens para o seu professor e para os outros alunos com os quais você compartilha sua turma no Online Practice. O ícone “E-mail” aparecerá aqui quando você estiver participando de uma turma."
           }
         },
@@ -148,7 +148,7 @@
             "spanish_la": "Haga click aquí para utilizar el Foro. Usted puede participar en discusiones con su profesor y los demás estudiantes en su clase de Práctica Online. El icono del Forum [Foro] aparecerá aquí cuando se haya inscrito a una clase.",
             "japanese": "フォーラムの使用は、こちらをクリックします。自分のOnline Practiceのクラスの先生や生徒とのディスカッションに加わることができます。クラスに参加登録すると、こちらにフォーラムのアイコンが表示されます。",
             "chinese": "點此處使用討論區，您可以加入教師及同學的討論。當您加入一個班級時，討論區圖示會顯示在此處。",
-            "thai": "คลิกที่นี่ เพื่อเข้าใช้กระดานสนทนา  คุณสามารถเข้าร่วมสนทนาแลกเปลี่ยนความคิดเห็นกับครูผู้สอน และนักเรียนคนอื่นในห้องเรียนเดียวกันได้  สัญลักษณ์กระดานสนทนา  จะปรากฏขึ้นเมื่อคุณได้เข้าร่วมห้องเรียนแล้ว",
+            "thai": "คลิกที่นี่ เพื่อเข้าใช้กระดานสนทนา คุณสามารถเข้าร่วมแลกเปลี่ยนความคิดเห็นกับครูผู้สอน และเพื่อนร่วมชั้นคนอื่นได้ สัญลักษณ์กระดานสนทนา จะปรากฏขึ้นเมื่อคุณได้เข้าเรียนแล้ว",
             "portuguese": "Clique aqui para usar o fórum. Você pode participar de discussões com o seu professor e com os outros alunos presentes em sua turma no Online Practice. O ícone do “Forum” aparecerá aqui quando você estiver participando de uma turma."
           }
         },
@@ -162,7 +162,7 @@
             "spanish_la": "Haga click aquí para acceder al Centro de Medios para escuchar el audio de la clase y ver videos, de estar disponibles.",
             "japanese": "音声やビデオが視聴可能な場合は、こちらをクリックするとメディアセンターにアクセスできます。",
             "chinese": "點此處通往媒體中心，收聽目前可用的課程錄音檔，也可以觀看影片。",
-            "thai": "คลิกที่นี่ เพื่อเข้า ห้องมัลติมีเดียคุณสามารถรับฟังไฟล์เสียงในห้องเรียนการฟัง หรือดูคลิปวิดีโอ (ถ้ามี)",
+            "thai": "คลิกที่นี่ เพื่อเข้าห้องมัลติมีเดีย คุณสามารถฟังไฟล์เสียงจากห้องเรียนการฟัง หรือดูคลิปวิดีโอ (ถ้ามี)",
             "portuguese": "Clique aqui para acessar o centro de mídia para escutar o áudio da aula e assistir vídeos, caso disponíveis."
           }
         },

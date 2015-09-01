@@ -3,6 +3,9 @@
     "english": "Unit Report",
     "turkish": "Ünite Raporu",
     "spanish": "Informe de la unidad",
+    "korean": "단원 보고서",
+    "chinese": "單元報告",
+    "japanese":"ユニットレポート", 
     "arabic": "تقرير الوحدة"
   },
  "segment": "adult",
@@ -16,6 +19,9 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
+        "chinese": "",
+        "japanese":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +33,9 @@
             "english": "Click here to view the Class Summary Report (average scores for all of your classes).",
             "turkish": "Sınıf Özet Raporunu (tüm sınıflarınızın ortalama puanları) görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de Resumen de la Clase (puntuación media en todas sus clases).",
+            "korean": "수업 요약 보고서를 보시려면 여기를 클릭하십시오 (전체 수업의 평균 점수).",
+            "chinese": "點此處觀看班級簡要報告（您全部班級的平均分數）。",
+            "japanese": "クラスのサマリーレポート（全クラスの平均得点）を表示するには、こちらをクリックします。", 
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -38,6 +47,9 @@
             "english": "Click here to view the Class Report.",
             "turkish": "Sınıf Raporunu görüntülemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Informe de la Clase.",
+            "korean":"수업 보고서를 보시려면 여기를 클릭하십시오.",
+            "chinese": "點此處觀看班級報告。",
+            "japanese": "クラスレポートを表示するには、こちらをクリックします。",
             "arabic": "انقر هنا لعرض التقرير عن الفصل."
           }
         },
@@ -49,6 +61,9 @@
             "english": "Use this menu to view a Unit Report for a different class.",
             "turkish": "Farklı bir sınıfa ait Ünite Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un Informe de Unidad para una clase diferente.",
+            "korean": "이 메뉴를 이용하면 다른 수업의 단원 보고서를 볼 수 있습니다.",
+            "chinese": "使用此選單來觀看不同班級的單元報告。",
+            "japanese": "別のクラスのユニットレポートを表示するには、このメニューを使用します。",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لفصل مختلف."
           }
         },
@@ -60,6 +75,9 @@
             "english": "Use this menu to view a Segment Report for a specific student.",
             "turkish": "Belirli bir öğrencinin Bölüm Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver un Informe del segmento para un estudiante específico.",
+            "korean": "이 메뉴를 이용하면 특정 학생의 세그먼트 보고서를 볼 수 있습니다.",
+            "chinese": "用本功能表來檢視具體學生的Segment Report（部分報告）。",
+            "japanese": "特定の生徒のセグメントレポートを表示するには、このメニューを使用します。",
             "arabic": "إستعمل هذه القائمة  لمشاهدة تقرير القسم لطالب معيّن."
           }
         },
@@ -71,6 +89,9 @@
             "english": "Use this menu to view the Unit Report for a different segment.",
             "turkish": "Başka bir bölümün Ünite Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el Informe de la unidad para un segmento diferente.",
+            "korean": "이 메뉴를 이용하면 다른 세그먼트의 단원 보고서를 볼 수 있습니다.",
+            "chinese": "用本功能表來檢視不同部分的Unit Report（單元報告）。",
+            "japanese": "異なったセグメントのユニットレポートを表示するには、このメニューを使用します。", 
             "arabic": "إستعمل هذه القائمة  لمشاهدة تقرير الوحدة  المتعلق بقسم مختلف."
           }
         },
@@ -82,6 +103,9 @@
             "english": "Use this menu to view the Unit Report for a different unit.",
             "turkish": "Başka bir ünitenin Ünite Raporunu görmek için bu menüyü kullanın.",
             "spanish": "Utilice este menú para ver el Informe de la unidad para una unidad diferente.",
+            "korean": "이 메뉴를 이용하면 다른 단원의 단원 보고서를 볼 수 있습니다.",
+            "chinese": "使用此選單來觀看不同單元的單元報告。",
+            "japanese": "別のユニットのユニットレポートを表示するには、このメニューを使用します。", 
             "arabic": "إستعمل هذه القائمة  لمشاهدة تقرير الوحدة  المتعلق بوحدة  مختلفة."
           }
         },
@@ -93,6 +117,9 @@
             "english": "This row shows this student’s score on each activity in this unit. For example, if the score is 8/10, 8 is the number of items (questions) the student answered correctly, and 10 is the total number of items in the activity. The ✓ symbol means that the activity does not have a score.",
             "turkish": "Bu satır, öğrencinin bu ünitedeki her bir aktiviteden aldığı puanı gösterir. Örneğin, puan 8/10 ise, öğrencinin doğru cevapladığı madde (soru) sayısı 8 ve aktivitenin toplam soru sayısı 10 demektir. ✓ sembolü aktivitede puan yok anlamına gelir.",
             "spanish": "Esta fila muestra la puntuación de este estudiante en cada actividad en esta unidad. Por ejemplo, si la puntuación es 8/10, 8 es el número de elementos (preguntas) que el alumno respondió correctamente, y 10 es el número total de elementos en la actividad. El símbolo ✓ significa que la actividad no tiene una puntuación.",
+            "korean": "이 행은 본 단원의 각 활동에 대한 학생의 점수를 표시합니다. 예를 들어 점수가 8/10인 경우 8은 학생이 정답을 답한 항목(질문)의 수이며 10은 이 활동의 총 항목 수입니다. √ 기호는 활동에 점수가 없음을 의미합니다.",
+            "chinese": "本行顯示這位學生就此單元中每項活動的分數。舉例來說，假如分數為8/10，那麼8是該學生答對的項目（問題）數，而10則是該活動中的項目總數。√ 符號意味著該活動沒有分數。",
+            "japanese": "この行にはユニット内の各アクティビティに対する生徒の得点が表示されます。たとえば、8/10と表示された場合、8は生徒が正しく回答した項目（質問）数、10はアクティビティの合計項目数を示します。√の記号はアクティビティに得点が付けられていないことを示します。",
             "arabic": "يعرض هذا الصف درجة هذا الطالب لكل نشاط في الوحدة. على سبيل المثال، إذا كانت الدرجة 8/10 ، فإن الرقم 8 يشير إلى عدد البنود ( الاسئلة) التي أجاب عليها الطالب بصورة صحيحة والرقم 10 هو العدد الكلي في الفعالية. الرمز ✓ يشير إلى عدم وجود درجة على النشاط."
           }
         },
@@ -104,6 +131,9 @@
             "english": "This row shows the number of attempts for each activity in this unit. The ✓ symbol means that attempts are not recorded for the activity.",
             "turkish": "Bu satır, bu ünitedeki her bir aktivite için deneme sayısını gösterir. ✓ sembolü aktivitedeki denemelerin kaydedilmediği anlamına gelir.",
             "spanish": "Esta fila muestra el número de intentos para cada actividad en esta unidad. El símbolo ✓ significa que en esta actividad los intentos no quedan registrados.",
+            "korean": "이 행은 단원의 각 활동에 대한 시도 횟수를 표시합니다. √ 기호는 활동에 시도가 기록되지 않았음을 의미합니다.",
+            "chinese": "本行顯示這個單元中每項活動的嘗試次數。√ 符號意味著不會為該活動記錄嘗試。",
+            "japanese": "この行にはこのユニット内の各アクティビティの試み回数が表示されます。√ の記号は該当するアクティビティには試みが記録されていないことを示します。", 
             "arabic": "يعرض هذا القسم عدد المحاولات لكل نشاط في هذه الوحدة . الرمز  ✓  يشير إلى أن محاولات النشاط غير مسجلة."                                                   
           }
         },
@@ -115,6 +145,9 @@
             "english": "This row shows the total amount of time spent on all attempts at each activity.",
             "turkish": "Bu satır her bir ünitedeki aktivitelerin tümü için harcanan toplam süreyi gösterir.",
             "spanish": "Esta fila muestra la cantidad total de tiempo dedicado a todos los intentos de cada actividad.",
+            "korean": "이 행은 학생이 각 활동 시도를 수행한 시간을 표시합니다.",
+            "chinese":"本行顯示在每項活動之所有嘗試上花費的總計時間。",
+            "japanese": "この行には、各アクティビティのすべての試みに費やされた合計時間数が表示されます。",
             "arabic": "يظهر هذا النشاط مقدار الوقت المُستغرَق في كافة المحاولة لكل نشاط."
           }
         },
@@ -126,6 +159,9 @@
             "english": "This is the student’s total score for this unit.",
             "turkish": "Bu, öğrencinin bu ünitedeki toplam puanıdır.",
             "spanish": "Esta es la puntuación total del estudiante para esta unidad.",
+            "korean": "이것은 학생이 본 단원에서 받은 총점입니다.",
+            "chinese":"這是該學生在此單元的總分數。",
+            "japanese": "これはこのユニットに対する生徒の合計得点です。",
             "arabic": "هذه هي درجة الطالب الاجمالية لهذه الوحدة."
           }
         },
@@ -137,6 +173,9 @@
             "english": "This is the total number of times this student attempted all activities in this unit.",
             "turkish": "Bu, öğrencinin bu ünitedeki aktiviteleri toplam deneme sayısıdır.",
             "spanish": "Este es el número total de veces que este alumno intentó todas las actividades en esta unidad.",
+            "korean": "이것은 단원 내 모든 활동에 대한 학생의 총 시도 횟수입니다.",
+            "chinese":"這是此學生對此單元內全部活動的總計嘗試次數。",
+            "japanese": "これは、この生徒がこのユニットのすべてのアクティビティを試みた合計回数が表示されます。",
             "arabic": "هذا هو العدد الكلي للمرات التي حاول فيها هذا الطالب جميع النشاطات الموجودة في هذه الوحدة."
           }
         },
@@ -148,6 +187,9 @@
             "english": "This is the total amount of time this student spent on this unit.",
             "turkish": "Bu, öğrencinin bu ünite üzerinde harcadığı toplam zamandır.",
             "spanish": "Esta es la cantidad total de tiempo que este estudiante empleó en esta unidad.",
+            "korean": "이것은 학생이 본 단원을 수행한 총 시간입니다.",
+            "chinese":"這是此學生在此單元上花費的總計時間。",
+            "japanese": "これは、この生徒がこのユニットに費やした合計時間数が表示されます。",
             "arabic": "هذا هو مجموع الوقت الذي أمضاه هذا الطالب على هذه الوحدة."
           }
         },
@@ -159,6 +201,9 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel™ olarak dışa aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel™.",
+            "korean": "이 보고서를 Microsoft Excel™로 내보내시려면 여기를 클릭하십시오.",
+            "chinese":"點此處用Microsoft Excel™格式輸出這份報告。",
+            "japanese": "このレポートをMicrosoft Excel™にエクスポートするには、こちらをクリックします。",
             "arabic": "اانقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -170,6 +215,9 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
+            "korean": "이 보고서를 인쇄하시려면 여기를 클릭하십시오.",
+            "chinese":"點此處列印這份報告。",
+            "japanese": "このレポートを印刷するには、こちらをクリックします。",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         }

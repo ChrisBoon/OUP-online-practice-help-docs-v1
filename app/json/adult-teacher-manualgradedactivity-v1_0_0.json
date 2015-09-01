@@ -3,6 +3,9 @@
     "english": "Teacher Feedback for Online Practice Activities",
     "turkish": "Çevrim İçi Uygulama Aktiviteleri için Öğretmenden Geri Bildirim",
     "spanish": "Comentarios del maestro para las Actividades de práctica en línea",
+    "korean": "온라인 실습 활동에 대한 교사 피드백",
+    "chinese": "線上練習活動的教師回饋",
+    "japanese": "オンラインでの練習アクティビティに対する講師のフィードバック", 
     "arabic": "ملاحظات المدرس المتعلقة بممارسة النشاطات على  شبكة الانترنت"
   },
  "segment": "adult",
@@ -16,6 +19,9 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
+        "chinese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +33,9 @@
             "english": "Activities that include audio or writing submission must be teacher graded.",
             "turkish": "Sesli içeriği ya da yazı ödevleri olan aktiviteler öğretmen tarafından puanlanmalıdır.",
             "spanish": "Las actividades que incluyen presentaciones de audio o escritas deben ser calificadas por el maestro.",
+            "korean": "오디오 또는 쓰기 제출물이 포함된 활동을 교사가 평가해야 합니다.",
+            "chinese": "包含錄音或寫作提交的活動必須由教師評分。",
+            "japanese": "オーディオや課題文を含むアクティビティは講師による採点が必要です", 
             "arabic": "النشاطات التي تتضمن إختبار الصوت أو تسليم واجبات الكتابة ينبغي أن يمنح المدرس درجاتها."
           }
         },
@@ -38,6 +47,9 @@
             "english": "You can view a student’s submission, submit a score, and provide teacher feedback from the Activity Report screen.",
             "turkish": "Aktivite Raporu ekranından öğrencinin gönderdiği ödevi görebilir, puanlayabilir ve geri bildirim verebilirsiniz.",
             "spanish": "Se puede ver la presentación de un estudiante, presentar un puntaje y proporcionar comentarios del maestro desde la pantalla de Informe de actividades.",
+            "korean": "학생의 제출물을 보고, 점수를 제출하고, 활동 보고서 화면에서 교사 피드백을 제공할 수 있습니다.",
+            "chinese": "您能夠在「活動報告」屏上檢視學生的提交，提交分數，以及提供教師回饋。",
+            "japanese": "アクティビティレポートの画面から、生徒が提出した課題を見たり、得点を送信したり、講師のフィードバックを提供したりすることができます。", 
             "arabic": "يمكنك أن ترى ما قدمه أحد الطلاب، تقديم درجة، وتوفير ملاحظات المدرس من خلال شاشة تقرير النشاط."
           }
         },
@@ -49,6 +61,9 @@
             "english": "This is the student’s submitted work for review.",
             "turkish": "Öğrencinin incelenmek üzere gönderdiği çalışması.",
             "spanish": "Este es el trabajo presentado por el estudiante para su revisión.",
+            "korean":  "이것은 검토를 위해 학생이 제출한 과제물입니다.",
+            "chinese": "這是學生提交的要批改作業。",
+            "japanese": "これは生徒が提出した課題のレビューです。", 
             "arabic": "هذا هو العمل الذي قدمه الطالب لغرض المراجعة."
           }
         },
@@ -60,6 +75,9 @@
             "english": "Click here to score the activity and/or provide feedback. If feedback was previously submitted, click here to view it.",
             "turkish": "Aktiviteye puan ve/veya geri bildirim vermek için buraya tıklayın. Önceden geri bildirim sağladıysanız görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para calificar la actividad y/o proporcionar comentarios. Si ya fueron presentados los comentarios previamente, haga clic aquí para visualizarlos.",
+            "korean": "활동 채점 및/또는 피드백을 제공하려면 여기를 클릭하십시오. 이전에 제출된 피드백을 보려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡給該活動評分和（或）提供回饋。倘若先前已經提交回饋，按一下這裡檢視回饋。",
+            "japanese": "アクティビティの得点やフィオードバックを提供するには、こちらをクリックします。フィードバックがすでに提供されている場合は、ここをクリックすると見ることができます。", 
             "arabic": "أنقر هنا لكي تعطي درجة للنشاط و/ أو تزويد ملاحظات. إذا كانت الملاحظات مقدمة سابقاً، أنقر هنا لكي تراها."
           }
         }
@@ -72,6 +90,9 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
+        "chinese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -83,6 +104,9 @@
             "english": "Enter your feedback and/or score within the Feedback popup box.",
             "turkish": "Açılan Geri Bildirim kutusuna geri bildiriminizi ve/veya puanı girin.",
             "spanish": "Anote sus comentarios y/o puntaje dentro de la casilla emergente de Comentarios.",
+            "korean": "/Feedback/ 팝업 상자 안에 피드백 및/또는 점수를 입력하십시오.",
+            "chinese": "在「回饋」跳現方框內輸入您的回饋和（或）分數",
+            "japanese": "フィードバックのポップアップボックスに、フィードバックや得点を入力します。",
             "arabic": "ادخل ملاحظاتك و/ أو الدرجات من داخل مربع الملاحظات المنبثق."
           }
         },
@@ -94,6 +118,9 @@
             "english": "Click here to submit your feedback/score. The latest score will report to the gradebook, unless you have turned on “track first attempt” from the Manage Classes screen, which will keep the first score submitted. Unlimited student submissions and teacher feedback can continue to be provided, but the first score will be locked. Once feedback/score is submitted, you will not be able to edit or resubmit feedback until the student has submitted a new attempt. The Submit button will be deactivated until a new student submission is available.",
             "turkish": "Geri bildiriminizi/puanı göndermek için buraya tıklayın. “Sınıfları Yönet” ekranında verilen ilk puanı saklayan “birinci denemeyi izle” şıkkını seçmediyseniz en son puan not defterine kaydedilecektir. Bir sınırlama olmaksızın öğrenciler ödev göndermeye ve öğretmen geri bildirim vermeye devam edebilir ama ilk puan kilitlenecektir. Geri bildirimi/puanı verdikten sonra öğrenci yeni bir deneme göndermeden geri bildiriminizi değiştiremez ya da yenisini gönderemezsiniz. Öğrenciden yeni bir deneme gelene kadar Gönder düğmesi çalışmayacaktır.",
             "spanish": "Haga clic aquí para presentar sus comentarios/puntaje. El puntaje más reciente se reportará al cuaderno de calificaciones, a menos que usted haya activado la opción “dar seguimiento al primer intento” desde la pantalla Administrar clases, la cual conservará el primer puntaje presentado. Se puede seguir suministrando presentaciones ilimitadas del estudiante y los comentarios del maestro, pero el primer puntaje quedará congelado. Una vez presentados los comentarios/puntajes, no podrá modificar ni volver a enviar comentarios hasta que el estudiante haya presentado un nuevo intento. El botón Presentar permanecerá desactivado hasta que esté disponible una nueva presentación del estudiante.",
+            "korean": "피드백/점수를 제출하려면 여기를 클릭하십시오. 수업 관리 화면에서 “첫 시도 추적”을 켜 놓으면 첫 점수가 제출된 상태로 유지되지만 그렇지 않으면 가장 최근 점수가 평점서에 보고됩니다.  학생 제출물과 교사 피드백이 무제한으로 계속 제공될 수 있지만, 첫 점수는 잠금 상태가 됩니다. 피드백/점수가 제출되고 나면, 학생이 새 시도를 제출하기 전까지는 피드백을 편집하거나 다시 제출할 수 없습니다. 학생이 새로 제출하기 전까지는 /Submit/ 버튼이 작동하지 않습니다.",
+"chinese":"按一下這裡提交您的回饋和（或）分數。如果您沒有在「管理班級」屏中啟用「追蹤首次嘗試」，最新的分數將報告給計分簿；如果啟用了「追蹤首次嘗試」，則計分簿將保留首次提交的分數。不限次數的學生提交和教師回饋能夠繼續提供，但第一個分數將被鎖定。一旦提交回饋和（或）分數，在學生提交新的嘗試前，您將無法編輯或重新提交回饋。在有新 的學生提交前，「提交」按鈕將不可使用。",
+            "japanese": "フィードバック/得点を送信するには、こちらをクリックします。成績表には最新の得点が報告されます。ただし、[クラスの管理] 画面で [track first attempt (最初の試みを追跡)] を有効にした場合は、最初に提出された得点が維持されます。生徒の課題提出や講師のフィードバックの提供は回数に制限なく継続できますが、最初の得点がロックされます。フィードバック/得点がいったん提出されると、生徒が新しい試みを提出するまで、既存のフィードバックの編集や再提出はできません。生徒からの新しい課題が提出されるまで、[Submit (提出)] ボタンは無効化されます。",
             "arabic": "أنقر هنا لكي تقدِم ملاحظاتك/ درجاتك. ستبلغ الدرجات الاخيرة الى سجل التقديرات، إلّا إذا قمت بتفعيل \"تتبع المحاولة الأولى\" من شاشة إدارة الفصول والتي ستحافظ على الدرجة الأولى المقدّمة. حالات تقديم الطالب غير المحدودة وملاحظات المدرس يمكن أن تستمر في التدفق، لكن الدرجات الأولى ستكون مغلقة. حالما يتم تقديم الملاحظة/ الدرجة، سوف لن تكون قادراً على تحرير أو إعادة تقديم الملاحظات حتى يقوم الطالب بتقديم محاولة جديدة. سيعطّل زر التقديم لحين توفر تقديم جديد للطالب."
           }
         }
@@ -106,6 +133,9 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
+        "chinese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -117,6 +147,9 @@
             "english": "The student is alerted of new teacher feedback by email.",
             "turkish": "Öğrenciye öğretmenden geri bildirim geldiği e-posta ile haber verilir.",
             "spanish": "El estudiante recibe avisos por correo electrónico sobre nuevos comentarios del maestro.",
+            "korean": "교사의 새 피드백을 학생에게 이메일로 알려줍니다.",
+            "chinese": "學生將經由電子郵件收到有教師新回饋的通知。",
+            "japanese": "講師から新しいフィードバックがあると、生徒にメールで通知されます。",
             "arabic": "إخطار الطالب سيكون من خلال ملاحظات المدرس الجديدة عن طريق البريد الالكتروني."
           }
         }

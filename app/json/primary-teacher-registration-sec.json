@@ -5,7 +5,7 @@
     "spanish_la": "Registro de Profesores",
     "japanese": "教師の登録",
     "chinese": "教師註冊",
-    "thai": "ลงทะเบียนครูผู้สอน",
+    "thai": "ลงทะเบียนของครูผู้สอน",
     "portuguese": "Registro do professor"
   },
  "segment": "primary",
@@ -35,7 +35,7 @@
             "spanish_la": "Si utiliza el sitio por primera vez, haga click en \"Register\".",
             "japanese": "はじめてご利用になる場合は、Register[登録]をクリックします。",
             "chinese": "如果您第一次使用，請點擊 Register（註冊）。",
-            "thai": "ถ้าใช้งานครั้งแรก  คลิกที่ ”ลงทะเบียน”",
+            "thai": "ถ้าใช้งานครั้งแรก  คลิกที่ “Register”",
             "portuguese": "Se você é um novo usuário, clique em “Register”."
           }
         }
@@ -78,7 +78,7 @@
             "spanish_la": "Marque la casilla y haga click en \"I Agree\".",
             "japanese": "利用規約への同意を表明するには、ボックスにチェックマークを入れてクリックします。",
             "chinese": "勾選方框並點擊 I Agree（我同意）。",
-            "thai": "คลิกที่ช่องสี่เหลี่ยม   หากยอมรับเงื่อนไขการใช้งาน",
+            "thai": "คลิกที่ “I Agree” หากยอมรับเงื่อนไขการใช้งาน",
             "portuguese": "Marque a caixa de seleção e clique em “I Agree” (concordo)."
           }
         },
@@ -92,7 +92,7 @@
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
-            "thai": "คลิกที่นี่ เพื่อย้อนกลับหน้าที่แล้ว",
+            "thai": "คลิกที่นี่ เพื่อกลับหน้าที่แล้ว",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         }
@@ -134,7 +134,7 @@
             "spanish_la": "Haga click en \"Enter\".",
             "japanese": "Enter[エンター]をクリックします。",
             "chinese": "點擊 Enter（輸入）。",
-            "thai": "คลิก ”ตกลง”",
+            "thai": "คลิก “Enter”",
             "portuguese": "Clique em “Enter”."
           }
         }
@@ -290,7 +290,7 @@
             "spanish_la": "Haga click para seleccionar su nivel. Es muy importante seleccionar el nivel que va a utilizar. Revise el título para asegurarse de que sea su nivel. Si utiliza más de un nivel, puede agregar otro nivel luego seleccionando \"Add a Level\" en su pantalla de Inicio. Necesitará un nuevo código de acceso para agregar un nivel.",
             "japanese": "レベルをクリックして選択します。使う予定のレベルを選択することが重要です。正しくレベルが選択されているかタイトルを確認してください。２つ以上のレベルのテキストを使用する場合は、ホーム画面にあるAdd a level[新しいレベルを追加]を選択することで、後から追加することができます。クリックします（新しいアクセスコードが必要になります）。",
             "chinese": "點擊以選擇您的級數。選擇您將要使用的級數非常重要，請檢查書名，確認是您的級數。如果您使用超過一個級數，您可以由首頁畫面選擇Add a level（新增級數）來增加其他級數，您將會需要另一個使用密碼來新增級數。",
-            "thai": "คลิกเพื่อเลือกระดับชั้นเรียนคุณต้องแน่ใจว่าได้เลือกระดับที่ถูกต้อง  ถ้าสอนมากกว่าหนึ่งระดับชั้นเรียน  คุณสามารถเพิ่มระดับได้ในภายหลัง  โดยคลิกที่เมนู“เพิ่มระดับชั้นเรียน” ในหน้าหลัก (คุณต้องมีรหัสรหัสการเข้าถึงของระดับชั้นที่ต้องการเพิ่มด้วย)",
+            "thai": "ขั้นตอนนี้เป็นขั้นตอนที่สำคัญ คุณต้องเลือกระดับชั้นเรียนที่ถูกต้องกับระดับชั้นที่สอน หากสอนมากกว่าหนึ่งระดับ คุณสามารถเพิ่มระดับได้ในภายหลังจากหน้าหลัก โดยคลิกที่ “Add a level” (ต้องมีรหัสของระดับชั้นที่ต้องการเพิ่มด้วย)",
             "portuguese": "Para selecionar o nível desejado, clique na imagem correspondente. É muito importante selecionar o nível correto. Verifique o título para escolher o nível que realmente será utilizado. Caso você vá utilizar mais de um nível, será possível adicionar outros níveis posteriormente, clicando em “Add a level” na sua página inicial. Você precisará de um novo código de acesso para adicionar um novo nível."
           }
         },
@@ -304,7 +304,7 @@
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
-            "thai": "คลิกที่นี่ เพื่อย้อนกลับหน้าที่แล้ว",
+            "thai": "คลิกที่นี่ เพื่อกลับหน้าที่แล้ว",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         }
@@ -333,7 +333,7 @@
             "spanish_la": "Si tiene un código de ID de institución, ingréselo aquí. Su administrador puede facilitarle este código. Este código vincula sus registros de clase con su escuela o institución. Si no tiene un código de ID de institución, haga click en \"Skip\". Puede introducir un código de ID de institución más tarde haciendo click en “Join an Institution” desde su página de Detalles de la Clase.",
             "japanese": "学校・団体IDコードをお持ちの場合は、こちらに入力します。このコードは管理者から渡されるものです。このコードはクラスのレポートと学校・団体をリンクさせます。学校・団体IDコードをお持ちでない場合は、Skip[スキップ]をクリックします。このコードを後から入力するには、クラス詳細ページからJoin an Institution[学校・団体への参加登録]を選択します。",
             "chinese": "如果您有機關單位代碼，請在此輸入。此代碼由您的管理人提供，將您的班級紀錄連結到您的學校或機關單位。如果您沒有機關單位代碼，請點擊 Skip（略過）。您可以之後再輸入機關單位代碼，請由您的班級資料頁面點擊 Join an Institituion（加入機關單位）。",
-            "thai": "ถ้ามีรหัสสถาบันแล้วใส่ที่นี่  หากไม่มีรหัสสถาบัน คลิก ”ข้าม” คุณสามารถขอรหัสสถาบันได้จากผู้ดูแลระบบ รหัสนี้จะเชื่อมต่อข้อมูลการเรียนการสอนในห้องเรียนเข้ากับโรงเรียนหรือสถาบันการศึกษา คุณสามารถใส่รหัสสถาบันในภายหลังได้  โดยคลิกที่เมนู  “เข้าร่วมสถาบัน”จากหน้ารายละเอียดห้องเรียน",
+            "thai": "ใส่รหัสของสถาบันที่นี่  หากไม่ทราบ คลิก “Skip” รหัสของสถาบันจะเชื่อมต่อข้อมูลการเรียนการสอนในห้องเรียนเข้ากับโรงเรียนหรือสถาบันการศึกษา คุณสามารถขอรหัสสถาบันได้จากผู้ดูแลระบบ และใส่รหัสในภายหลังได้ จากหน้ารายละเอียดห้องเรียนโดยคลิกที่เมนู  “Join an Institution” ",
             "portuguese": "Caso você possua um código de identificação da instituição, insira-o aqui. Este é um código que pode ser fornecido pelo seu administrador. Este código vincula seus registros de aula com sua escola ou instituição. Caso você não tenha um código de identificação da instituição, clique em “Skip”. Você poderá inserir um código de identificação da instituição posteriormente clicando em “Join an institution” na sua página “Class Details”."
           }
         },
@@ -347,7 +347,7 @@
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
-            "thai": "คลิกที่นี่  เพื่อย้อนกลับหน้าที่แล้ว",
+            "thai": "คลิกที่นี่  เพื่อกลับหน้าที่แล้ว",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         },
@@ -404,7 +404,7 @@
             "spanish_la": "Ingrese un nombre para su primera clase. Para crear clases adicionales más adelante, haga click en \"Manage Classes\" en su página de Inicio cuando termine de registrarse.",
             "japanese": "最初のクラス名を入力してください。後からクラスを追加作成する場合は、登録が終わってからホームページにアクセスして、Manage Classes[クラスの管理]をクリックします。",
             "chinese": "為您的第一個班級輸入名稱。如果之後想要新增更多班級，請在完成註冊後，由您的首頁點擊「管理班級」。",
-            "thai": "ใส่ชื่อห้องเรียนของคุณ หากต้องการเพิ่มห้องเรียน  หลังจากล็อกอิน คลิกที่ “การจัดการห้องเรียน”",
+            "thai": "ใส่ชื่อห้องเรียนแรกของคุณ หากต้องการสร้างเพิ่มในภายหลัง ให้คลิก “Manage Classes” จากหน้าหลัก ",
             "portuguese": "Digite um nome para a sua primeira turma. Para criar turmas adicionais posteriormente, clique em \"Manage Classes\" a partir de sua página inicial quando você finalizar o registro."
           }
         },
@@ -418,7 +418,7 @@
             "spanish_la": "Haga click aquí para volver a la página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
-            "thai": "คลิกที่นี่  เพื่อย้อนกลับหน้าที่แล้ว",
+            "thai": "คลิกที่นี่ เพื่อย้อนกลับหน้าที่แล้ว",
             "portuguese": "Clique aqui para voltar à página anterior."
           }
         },
@@ -432,7 +432,7 @@
             "spanish_la": "Haga click aquí para saltarse esta página sin ingresar un nombre de clase.",
             "japanese": "クラス名を入力しないでこのページをスキップする場合は、こちらをクリックします。",
             "chinese": "點此處略過此頁，不輸入班級名稱。",
-            "thai": "คลิกที่นี่  เพื่อข้ามหน้านี้ไป  ",
+            "thai": "คลิกที่นี่ เพื่อข้ามหน้านี้ไป  ",
             "portuguese": "Clique aqui para pular esta página sem digitar um nome de turma."
           }
         },
@@ -446,7 +446,7 @@
             "spanish_la": "Haga click aquí para enviar el nombre de la clase y avanzar a la página siguiente.",
             "japanese": "クラス名を送信して次のページに進むには、こちらをクリックします。",
             "chinese": "點此處送出您的班級名稱並前往下一頁。",
-            "thai": "คลิกที่นี่   เพื่อยืนยันชื่อห้องเรียน  และไปหน้าถัดไป",
+            "thai": "คลิกที่นี่  เพื่อยืนยันชื่อห้องเรียน  และไปหน้าถัดไป",
             "portuguese": "Clique aqui para enviar o nome da sua turma e para ir para a próxima página."
           }
         }
@@ -475,7 +475,7 @@
             "spanish_la": "Este es el código de identificación para la clase que nombró en la pantalla anterior. Comparta este código con sus estudiantes para que puedan inscribirse a su clase y usted pueda ver su trabajo.",
             "japanese": "今回登録されたクラスIDコードが決まりました。このコードを生徒に渡すと、生徒はクラスに参加登録ができ、先生が生徒の学習状況を確認することができます。",
             "chinese": "這是您在前一個畫面所命名班級的班級代碼，將這個代碼提供給您的學生，以便他們加入您的班級，而您也能夠看到他們的課業。",
-            "thai": "นี่คือรหัสของห้องเรียนที่คุณได้สร้างจากหน้าที่แล้ว  ให้รหัสนี้กับนักเรียนของคุณ  เพื่อคุณจะได้อ่านรายงานและติดตามความคืบหน้าในการทำกิจกรรมของนักเรียนได้",
+            "thai": "นี่คือรหัสของห้องเรียนที่คุณได้สร้างไว้ก่อนหน้านี้ ให้รหัสนี้แก่นักเรียนสำหรับเข้าร่วมชั้นเรียนและคุณสามารถดูความคืบหน้าของนักเรียนในห้องได้",
             "portuguese": "Este é o código de identificação de turma para a turma nomeada na tela anterior. Forneça esse código para os seus alunos para que eles possam participar da sua turma e para que você possa visualizar os seus trabalhos."
           }
         },
@@ -532,7 +532,7 @@
             "spanish_la": "Esta página muestra su información de registro. Es posible que desee imprimir esta página para sus registros. Para cambiar esta información, seleccione \"Edit Profile\" tras iniciar sesión (se encontrará en la parte superior derecha de la pantalla).",
             "japanese": "このページは、登録情報を表示します。必要に応じてこの画面を印刷してください。情報を変更する場合は、ログイン後に右上にあるEdit Profile[プロファイルの編集]をクリックします。",
             "chinese": "本頁面顯示您的註冊資料，您可考慮列印此頁面留存。如需更改這些資料，請在登入後選擇「編輯個人資料」（將會出現在畫面右上角）。",
-            "thai": "คุณอาจต้องการพิมพ์หน้านี้เพื่อเป็นข้อมูลอ้างอิง  หากต้องการเปลี่ยนแปลงข้อมูล หลังจากล็อกอินเข้าใช้งาน คลิก “แก้ไขข้อมูลส่วนตัว”",
+            "thai": "หน้านี้จะแสดงข้อมูลการลงทะเบียนทั้งหมด คุณสามารถสั่งพิมพ์เพื่อเก็บบันทึก หากต้องการแก้ไขข้อมูล หลังจากเข้าระบบ ให้คลิก \"Edit Profile\" (ด้านบนขวาของหน้าจอ)",
             "portuguese": "Esta página exibe as suas informações de registro. É possível imprimir esta página para fins de registro. Para alterar estas informações, selecione a opção “Edit Profile” após iniciar a sessão (essa opção estará disponível no canto superior direito da tela)."
           }
         },

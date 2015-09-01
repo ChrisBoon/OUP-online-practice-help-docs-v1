@@ -3,6 +3,9 @@
     "english": "Hide/Assign Writing",
     "turkish": "Yazı Ödevlerini Gizle/Ata",
     "spanish": "Ocultar/asignar escritura",
+    "korean": "컨텐츠 숨기기/배정", 
+    "chinese": "隱藏/指派寫作",
+    "japanese": "非表示/課題文",
     "arabic": "إخفاء/ تكليف الكتابة"
   },
  "segment": "adult",
@@ -16,6 +19,9 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "", 
+        "chinese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +33,9 @@
             "english": "You can hide Writing Assignments from your students by checking the boxes on this page.",
             "turkish": "Bu sayfadaki kutuları işaretleyerek Yazı Ödevlerini öğrencilerinizden gizleyebilirsiniz",
             "spanish": "Usted puede ocultar Tareas de escritura de sus estudiantes marcando las casillas en esta página.",
+            "korean": "이 페이지의 상자에 체크하여 학생이 컨텐츠를 보지 못하도록 할 수 있습니다. ", 
+            "chinese": "通過核取本頁上的方塊，您能夠讓學生看不到寫作作業。",
+            "japanese": "このページにあるボックスにチェックマークを付けることで、生徒の課題文を非表示にすることができます。",
             "arabic": "يمكنك أن تخفي واجبات الكتابة عن طلابك بواسطة وضع علامة في المربعات على هذه الصفحة."
           }
         },
@@ -38,6 +47,9 @@
             "english": "Choose a class using the menu.",
             "turkish": "Menüyü kullanarak bir ders seçin.",
             "spanish": "Elija una clase utilizando el menú.",
+            "korean": "메뉴를 이용하여 수업을 선택하십시오.", 
+            "chinese": "請使用選單選擇一個班級。",
+            "japanese": "クラスはこちらのメニューから選択します。",
             "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
           }
         },
@@ -49,6 +61,9 @@
             "english": "Check a box here to hide selected unit Writing Assignment.",
             "turkish": "Seçilmiş ünitenin Yazı Ödevini gizlemek için buradaki bir kutuyu işaretleyin.",
             "spanish": "Marque una casilla aquí para ocultar la Tarea de escritura de la unidad seleccionada.",
+            "korean": "여기에서 상자에 체크하여 전체 세그먼트을 숨기십시오.", 
+            "chinese": "在這裡核取一個方塊，即可隱藏選定的單元寫作作業。",
+            "japanese": "選択したユニットの課題文を非表示にするには、このボックスにチェックマークを付けます。",
             "arabic": "ضع علامة في المربع هنا لكي تخفي واجبات الكتابة لوحدة محددة."
           }
         },
@@ -60,6 +75,9 @@
             "english": "Check a box here to hide selected units within a segment.",
             "turkish": "Bir bölümün içinde seçtiğiniz üniteleri gizlemek için bu kutuyu işaretleyin.",
             "spanish": "Marque una casilla aquí para ocultar unidades seleccionadas en un segmento.",
+            "korean": "여기에서 상자를 클릭하여 세그먼트 내에서 선택한 단원을 숨기십시오.", 
+            "chinese": "在這裡核取一個方塊，即可隱藏某部分內的選定單元。 ",
+            "japanese": "セグメント内の特定のユニットを非表示にするには、こちらでボックスにチェックマークを付けます。 ",
             "arabic": "ضع علامة على مربع ما هنا لكي تخفي الوحدات المختارة ضمن القسم."
           }
         },
@@ -71,6 +89,9 @@
             "english": "Click here to save the changes you made to this class.",
             "turkish": "Bu sınıfta yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
+            "korean": "본 수업의 변경사항을 저장하려면 여기를 클릭하십시오.", 
+            "chinese": "點此處以儲存您對此班級所做的變更。",
+            "japanese": "このクラスの変更内容を保存するには、こちらをクリックします。",
             "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
           }
         }
@@ -83,6 +104,9 @@
         "english": "Hide/Assign Writing",
         "turkish": "Yazı Ödevlerini Gizle/Ata",
         "spanish": "Ocultar/asignar escritura",
+        "korean": "컨텐츠 숨기기/할당", 
+        "chinese": "隱藏/指派寫作", 
+        "japanese": "非表示/課題文", 
         "arabic": "إخفاء/ تكليف الكتابة"
       },
       "paragraphs":{
@@ -94,6 +118,9 @@
             "english": "You can hide Writing Assignments from your students by checking the boxes on this page.",
             "turkish": "Bu sayfadaki kutuları işaretleyerek Yazı Ödevlerini öğrencilerinizden gizleyebilirsiniz.",
             "spanish": "Usted puede ocultar Tareas de escritura de sus estudiantes marcando las casillas en esta página.",
+            "korean": "이 페이지에 있는 네모칸에 체크 표시를 하면 쓰기 숙제를 학생들이 보지 못하도록 숨길 수 있습니다.", 
+            "chinese": "通過核取本頁上的方塊，您能夠讓學生看不到寫作作業。", 
+            "japanese": "このページにあるボックスにチェックマークを付けることで、生徒の課題文を非表示にすることができます。", 
             "arabic": "يمكنك أن تخفي واجبات الكتابة عن طلابك بواسطة وضع علامة في المربعات على هذه الصفحة."
           }
         },
@@ -105,6 +132,9 @@
             "english": "Choose a class using the menu.",
             "turkish": "Menüyü kullanarak bir ders seçin.",
             "spanish": "Elija una clase utilizando el menú.",
+            "korean": "메뉴를 이용하여 수업을 선택하십시오.", 
+            "chinese": "勾選這個方框來隱藏整個單元。",
+            "japanese": "クラスはこちらのメニューから選択します。",
             "arabic": "حدد فصلاً دراسيًا باستخدام القائمة."
           }
         },
@@ -116,6 +146,9 @@
             "english": "Check a box here to hide selected unit Writing Assignment.",
             "turkish": "Seçilmiş ünitenin Yazı Ödevini gizlemek için buradaki bir kutuyu işaretleyin.",
             "spanish": "Marque una casilla aquí para ocultar la Tarea de escritura de la unidad seleccionada.",
+            "korean": "선택한 단원 쓰기 숙제를 숨기려면 여기 네모칸에 체크 표시를 하십시오. ",
+            "chinese": "在這裡核取一個方塊，即可隱藏選定的單元寫作作業。", 
+            "japanese": "選択したユニットの課題文を非表示にするには、このボックスにチェックマークを付けます。", 
             "arabic": "ضع علامة في المربع هنا لكي تخفي واجبات الكتابة لوحدة محددة."
           }
         },
@@ -127,6 +160,9 @@
             "english": "Click here to save the changes you made to this class.",
             "turkish": "Bu sınıfta yaptığınız değişiklikleri kaydetmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para guardar los cambios realizados para esta clase.",
+            "korean": "본 수업의 변경사항을 저장하려면 여기를 클릭하십시오.", 
+            "chinese": "點此處以儲存您對此班級所做的變更。",
+            "japanese": "このクラスの変更内容を保存するには、こちらをクリックします。",
             "arabic": "انقر هنا لحفظ التغييرات التي قمت بإجرائها بالنسبة لهذا الفصل الدراسي."
           }
         }

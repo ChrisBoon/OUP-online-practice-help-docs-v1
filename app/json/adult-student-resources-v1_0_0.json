@@ -3,6 +3,9 @@
     "english": "Resources",
     "turkish": "Kaynaklar",
     "spanish": "Recursos",
+    "korean": "자료", 
+    "chinese": "學習資源",
+    "japanese": "リソース",
     "arabic": "الموارد"
   },
  "segment": "adult",
@@ -16,6 +19,9 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "",
+        "chinese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +33,9 @@
             "english": "This is the Resources area. Where available, this area will provide supporting material for you when using Online Practice.",
             "turkish": "Burası Kaynaklar alanıdır. Varsa, Online Uygulamayı kullanırken dersinizi destekleyecek malzemeleri burada bulabilirsiniz.",
             "spanish": "Esta es el área de Recursos. De estar disponible, esta área proporcionará material de apoyo para cuando utilice la Práctica Online.",
+            "korean": "이곳은 자료 영역입니다. 이 영역을 이용할 수 있는 경우 온라인 수업을 이용할 때 도움이 되는 자료가 제공됩니다.", 
+            "chinese": "這裡是學習資源區。本區將提供您目前可以使用的輔助資料，幫助您使用線上練習。",
+            "japanese": "このページはリソースエリアを表示します。リソースが利用できる場合は、Online Practiceのサポートリソースはこちらから利用できます。",
             "arabic": "هذه هي منطقة الموارد وعندما تكون متاحة، فإن هذه المنطقة ستقدم موادًا داعمةً لك عند استخدام الممارسة عبر شبكة الإنترنت."
           }
         },
@@ -38,6 +47,9 @@
             "english": "Click on a title to open a Resource. PDF files and documents will open in a new tab or download to your computer or device depending on your browser settings.",
             "turkish": "Bir Kaynağı açmak için başlığına tıklayın. PDF dosyaları ve belgeler yeni bir sekmede açılır ve tarayıcı ayarlarınıza bağlı olarak bilgisayarınıza ya da cihazınıza indirilir.",
             "spanish": "Haga clic en un título para abrir un Recurso. Los archivos PDF y los documentos se abrirán en una nueva pestaña o se descargarán a su ordenador o dispositivo en función de la configuración de su navegador.",
+            "korean": "제목을 클릭하여 자료를 여십시오. PDF 파일과 문서를 새로운 탭에서 열거나 브라우저 설정에 따라 컴퓨터 또는 기타 장치로 다운로드합니다.",
+            "chinese": "點擊標題就可以打開一個學習資源。PDF檔案與文件，將依照您的瀏覽器設定情況，在新頁面打開，或下載到您的電腦或裝置。",
+            "japanese": "タイトルをクリックしてリソースを開きます。PDFファイルと文書が新しいタブで表示されるか、ブラウザの設定によりコンピュータやデバイスにダウンロードされます。",
             "arabic": "اانقر فوق عنوان ما لفتح أحد الموارد. وسوف يتم فتح ملفات PDF والوثائق في علامة تبويب جديدة أو تنزيلها على الحاسب أو الجهاز الخاص بك حسب إعدادات المتصفح الخاص بك."
           }
         }

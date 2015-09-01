@@ -3,6 +3,9 @@
     "english": "Student Segment Report",
     "turkish": "Öğrenci Bölüm Raporu",
     "spanish": "Informe del segmento de estudiante",
+    "korean": "학생 세그먼트 보고서", 
+    "chinese": "學生部分報告",
+    "japanese": "生徒のセグメントレポート",
     "arabic": "تقريرالطالب الجزئي"
   },
  "segment": "adult",
@@ -16,6 +19,9 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "korean": "", 
+        "chinese": "",
+      "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +33,9 @@
             "english": "Use this menu to display reports for all segments or display reports for specific segments.",
             "turkish": "Tüm bölümlerin ya da sadece belirli bölümlerin raporlarını görmek için bu menüyü kullanın.",
             "spanish": "Use este menú para mostrar informes para todos los segmentos o para un segmento específico.",
+            "korean": "이 메뉴를 이용하여 모든 세그먼트에 대한 보고서를 표시하거나 특정 세그먼트의 보고서를 표시하십시오.", 
+            "chinese": "用本功能表來顯示所有部分或具體部分的報告。",
+            "japanese": "全セグメントのレポートを表示する、または特定のセグメントのレポートを表示するには、このメニューを使用します。",
             "arabic": "استعمل هذه القائمة لكي تعرض تقارير جميع الاقسام أو تعرض تقارير متعلقة بأقسام محددة."
           }
         },
@@ -38,6 +47,9 @@
             "english": "This row shows the scores for each activity in a unit. The score is shown out of the total number of possible points in an activity. A tick mark indicates a completed but non-scored activity.",
             "turkish": "Bu satır, bir ünitenin her bir aktivitesi için puanları gösterir. Puan, o aktivite için mümkün toplam puan ile birlikte gösterilir. Bu sembol tamamlanmış fakat puan almamış bir aktiviteyi gösterir.",
             "spanish": "Esta fila muestra los puntajes para cada actividad en una unidad. El puntaje se muestra en función del número total de puntos posibles en una actividad. Una marca de verificación indica una actividad terminada pero aún no calificada.",
+            "korean": "이 행은 한 단원에 포함된 각 활동에 대한 점수를 표시합니다. 이 점수는 한 활동에서 받을 수 있는 총점을 기준으로 채점한 점수입니다. 완료되었지만 채점되지 않은 활동일 때 체크 기호가 표시됩니다.", 
+            "chinese": "本行顯示單元中每項活動的分數。該分數乃是相對於該活動的最高總分顯示。勾號指明已完成但沒有評分的活動。",
+            "japanese": "この行にはユニット内の各アクティビティの得点が表示されます。この得点はそのアクティビティの満点の点数と共に表示されます。チェックマークはアクティビティが終了しているがまだ得点が付けられていないことを示します。", 
             "arabic": "يبين لك هذا السطر درجات لكل نشاط في الوحدة. الدرجة المعروضة هي من إجمالي النقاط المحتملة في النشاط. العلامة المميزة تشير الى نشاط كامل لكنه بدون درجات."
           }
         },
@@ -49,6 +61,9 @@
             "english": "This row shows the number of attempts at each activity in a unit.",
             "turkish": "Bu satır, bir ünitenin her bir aktivitesi için toplam deneme sayısını gösterir.",
             "spanish": "Esta fila muestra el número de intentos en cada actividad en una unidad.",
+            "korean": "이 행은 단원의 각 활동에 대한 시도 횟수를 표시합니다.", 
+            "chinese": "本行顯示單元中每項活動的嘗試次數。",
+            "japanese": "この行にはユニット内の各アクティビティの試み回数が表示されます。",
             "arabic": "يعرض هذا الصف عدد المحاولات لكل نشاط في وحدة ما."
           }
         },
@@ -60,6 +75,9 @@
             "english": "This row shows the time taken for all attempts at each activity in a unit.",
             "turkish": "Bu satır, bir ünitenin her bir aktivitesi için harcanan zamanı gösterir.",
             "spanish": "Esta fila muestra el tiempo dedicado a todos los intentos en cada actividad en una unidad.",
+            "korean": "변경사항을 저장하지 않고 취소하려면 여기를 클릭하십시오.", 
+            "chinese": "本行顯示對單元中每項活動的全部嘗試所用的時間。",
+            "japanese": "この行にはユニット内の各アクティビティのすべての試みにかかった時間が表示されます。",
             "arabic": "يعرض هذا الصف الوقت المستغرق لجميع المحاولات لكل نشاط في وحدة ما."
           }
         },
@@ -71,6 +89,9 @@
             "english": "The total score for a unit is shown here.",
             "turkish": "Bir ünitenin toplam puanı burada gösterilir.",
             "spanish": "Aquí se muestra la puntuación total para una unidad.",
+            "korean": "단위의 총점은 여기에 표시됩니다.", 
+            "chinese": "在此顯示的是單元總分數。",
+            "japanese": "ここには、ユニットの合計得点が表示されます。",
             "arabic": "لدرجة الكلية للوحدة معروضة هنا."
           }
         },
@@ -82,6 +103,9 @@
             "english": "The total number of activity attempts for a unit is shown here.",
             "turkish": "Bir ünitedeki aktivite denemelerinin toplam sayısı burada gösterilir.",
             "spanish": "Aquí se muestra el número total de intentos de actividad para una unidad.",
+            "korean": "단원의 활동 시도 총점은 여기에 표시됩니다.", 
+            "chinese": "在此顯示的是單元之活動嘗試總數。",
+            "japanese": "ここには、ユニットのアクティビティ試み合計回数が表示されます。",
             "arabic": "العدد الكلي لمحاولات النشاط للوحدة معروض هنا."
           }
         },
@@ -93,6 +117,9 @@
             "english": "The total time taken on all activities in a unit is shown here.",
             "turkish": "Bir ünitenin tüm aktivitelerinde harcanan toplam zaman burada gösterilir.",
             "spanish": "Aquí se muestra el tiempo total empleado en todas las actividades en una unidad.",
+            "korean": "단원의 모든 활동에 소요된 총 시간은 여기에 표시됩니다.",
+            "chinese": "在此顯示的是單元內全部活動所用的總計時間。",
+            "japanese": "ここには、ユニット内の全アクティビティにかかった合計時間が表示されます。",
             "arabic": "يعرض هنا الوقت الإجمالي المستغرق لجميع الانشطة في الوحدة معروض هنا."
           }
         },
@@ -104,6 +131,9 @@
             "english": "The ✓ symbol means that the activity does not have a score. Some activities are non-scored, like games. Other activities need to be graded by the teacher, like activities with audio or writing submissions. When the teacher grades those activities, the numeric score will replace the ✓ symbol.",
             "turkish": "✓ sembolü, aktivite için puan olmadığını gösterir. Oyunlar gibi bazı aktivitelere puan verilmez. Ses veya yazı ödevleri gibi diğer aktivitelere öğretmen tarafından puan verilir. Öğretmen bu aktivitelere puan verdiğinde puan ✓ sembolün yerini alacaktır.",
             "spanish": "El símbolo ✓ significa que la actividad no tiene un puntaje. Algunas actividades no reciben puntaje, como los juegos. Otras actividades deben ser calificadas por el maestro, como las actividades con audio o las presentaciones escritas. Cuando el maestro califica esas actividades, el puntaje numérico reemplazará el símbolo ✓.",
+            "korean": "✓ 기호는 채점되지 않은 활동이라는 표시입니다. 학생 연습 전용 게임이나 활동과 같은 일부 활동은 채점을 하지 않습니다. 하지만 오디오 또는 쓰기 제출물이 있는 활동 등 그 외 활동은 교사가 평가해야 합니다. 교사가 활동을 평가하면 ✓ 기호가 숫자 점수로 바뀝니다.",
+            "chinese": "✓ 符號意味著該活動沒有分數。有些活動不會評分，例如遊戲。其他活動需要教師評分，例如需要提交錄音或寫作的活動。在教師給那些活動評分時，數字分數就會取代 ✓ 符號。",
+            "japanese": "? の記号はアクティビティに得点が付けられていないことを示します。アクティビティの中には、ゲームなど得点が付けられないものがあります。オーディオ録音や課題文の提出などその他のアクティビティには講師の採点が必要とされます。アクティビティが採点されると、? 記号の代わりに得点が数値で表示されます。",
             "arabic": "الرمز ✓ يعني بأن النشاط ليس له درجات. بعض النشاطات، مثل الألعاب، لا تقيّم بالدرجات ولكن نشاطات أخرى بحاجة الى إعطائها درجات من قبل المدرس، مثل نشاطات مع صوت أو تقديم الكتابات. عندما يعطي المدرس درجات لهذه النشاطات، فان النتيجة الرقمية ستحل محل الرمز ✓."
           }
         }

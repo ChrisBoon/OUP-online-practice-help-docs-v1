@@ -3,6 +3,9 @@
     "english": "Manage Classes",
     "turkish": "Sınıfları Yönet",
     "spanish": "Administrar Clases",
+    "korean": "수업 관리", 
+    "chinese": "管理班級",
+    "japanese": "クラスの管理",
     "arabic": "إدارة الفصول"
   },
  "segment": "adult",
@@ -16,6 +19,9 @@
         "english": "",
         "turkish": "",
         "spanish": "",
+        "koeran": "", 
+        "chinese": "",
+        "japanese": "",
         "arabic": ""
       },
       "paragraphs":{
@@ -27,6 +33,9 @@
             "english": "This screen shows all of the classes that you have created.",
             "turkish": "Bu ekran oluşturduğunuz tüm sınıfları gösterir.",
             "spanish": "Esta pantalla muestra todas las clases que ha creado.",
+            "korean": "이 화면은 생성하신 모든 수업을 표시합니다.", 
+            "chinese": "本畫面顯示您創建的全部班級。",
+            "japanese": "この画面は、登録された全クラスを表示します。",
             "arabic": "تُظهِر هذه الشاشة جميع الفصول التي قمت بإنشائها."
           }
         },
@@ -38,6 +47,9 @@
             "english": "Click here to view the details for a class. You can view your students, view your class ID code, change the name of this class, delete students’ accounts, or join an institution.",
             "turkish": "Bir sınıfın bilgilerini görmek için buraya tıklayın. Öğrencilerinizi ve sınıf ID kodunuzu görebilir, bu sınıfın adını değiştirebilir, öğrencilerin hesaplarını silebilir ya da bir kuruma katılabilirsiniz.",
             "spanish": "Haga clic aquí para ver los detalles de una clase. Puede ver sus estudiantes, su código de ID de clase, cambiar el nombre de esta clase, eliminar las cuentas de los estudiantes, o inscribirse en una institución.",
+            "korean": "수업 세부사항을 보려면 여기를 클릭하십시오. 학생과 수업 ID 코드를 보고 수업의 이름을 변경할 수 있으며 학생의 계정을 삭제하거나 교육기관에 가입하실 수 있습니다.", 
+            "chinese": "點此處觀看班級詳細資料，您可以觀看您的學生、您的班級代碼、更改班級名稱、刪除學生帳號或加入機關單位。",
+            "japanese": "クラスの詳細を表示するには、こちらをクリックします。生徒やクラスIDコードの表示、クラス名の変更、生徒アカウントの削除、また学校・団体へ登録することもできます。",
             "arabic": "انقر هنا لعرض التفاصيل عن فصل ما. يمكنك عرض طلابك أو عرض رمز مُعرِّف الفصل الخاص بك أو تغيير اسم هذا الفصل أو حذف حسابات الطلاب أو الانضمام لإحدى المؤسسات."
           }
         },
@@ -49,6 +61,9 @@
             "english": "Click here to hide units or lessons for your class.",
             "turkish": "Sınıfınızın ünite veya derslerini gizlemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ocultar unidades o lecciones para su clase.",
+            "korean": "수업의 단원이나 레슨을 숨기려면 여기를 클릭하십시오.", 
+             "chinese": "按一下這裡隱藏或顯示您班級的單元或測驗。",
+            "japanese":"クラスのユニットやテストを表示したり、非表示にするには、こちらをクリックします",
             "arabic": "انقر هنا لإخفاء الوحدات أو الدروس الخاصة بالفصل الخاص بك."
           }
         },
@@ -60,6 +75,9 @@
             "english": "Click here to choose how students are graded for each activity in the reports—either by the first attempt or the last attempt for each activity.",
             "turkish": "Buraya tıklayıp, raporlarda öğrencilerin, ya ilk deneme ya da son deneme için olmak üzere her bir aktivite için nasıl puanlanacağını seçin.",
             "spanish": "Haga clic aquí para elegir cómo se califica a los estudiantes en cada actividad en los informes, en función del primero o el último intento para cada actividad.",
+            "korean": "보고서의 각 활동에 대한 학생의 평가 방법을 선택하려면 여기를 클릭하십시오.- 처음 시도나 마지막 시도로 평가할 수 있습니다.", 
+            "chinese": "按一下這裡，即可選擇就報告中的每項活動如何給學生評分：即根據每項活動的首次嘗試或末次嘗試。",
+            "japanese": "各アクティビティの最初の試みを評価する、あるいは最後の試みを評価するなど、各アクティビティについてレポートで生徒をどのように採点するかを選択するには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي تختار كيفية إعطاء الدرجات للطلاب لكل نشاط في التقارير – أما من خلال المحاولة الأولى أو من خلال المحاولة الأخيرة لكل نشاط."
           }
         },
@@ -71,6 +89,9 @@
             "english": "Click here to delete a class.",
             "turkish": "Bir sınıfı silmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para eliminar una clase.",
+            "korean": "수업을 삭제하려면 여기를 클릭하십시오.", 
+            "chinese": "點此處刪除一個班級。",
+            "japanese": "クラスを削除する場合は、こちらをクリックします。",
             "arabic": "انقر هنا لحذف أحد الفصول."
           }
         },
@@ -82,6 +103,9 @@
             "english": "Click here to create a new class. (To add a new level, go to your Home page and click “Add a Level”.)",
             "turkish": "Yeni bir sınıf oluşturmak için buraya tıklayın. (Yeni bir seviye eklemek için, Anasayfaya gidin ve “Add a Level” seçeneğine tıklayın.)",
             "spanish": "Haga clic aquí para crear una nueva clase. (Para añadir un nuevo nivel, vaya a su página de Inicio y haga clic en \"Add a Level\".)",
+            "korean": "새로운 수업을 생성하려면 여기를 클릭하십시오. (새로운 레벨을 추가하려면 홈페이지에서 \"Add a Level\"를 클릭하십시오.) ", 
+            "chinese":"點處創建一個新班級。（如需新增級數，請前往您的首頁並點擊 Add a Level（新增級數）。）",
+            "japanese": "新しいクラスを作成する場合は、こちらをクリックします（新しいレベルを追加する場合には、ホームページにアクセスして、Add a Level[レベルを追加]をクリックします）。",
             "arabic": "انقر هنا لإنشاء فصل جديد. (لإضافة مستوى جديد؛ انتقل إلى الصفحة الرئيسية وانقر“Add a Level”( \"إضافة مستوى\").)"
           }
         }

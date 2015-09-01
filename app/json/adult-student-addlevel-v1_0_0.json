@@ -3,6 +3,9 @@
     "english": "Add a Level",
     "turkish": "Seviye Ekleme",
     "spanish": "Añadir un Nivel",
+    "korean": "레벨 추가",
+    "chinese": "新增級數",
+    "japanese": "レベルの追加",
     "arabic": "إضافة مستوى"
   },
  "segment": "adult",
@@ -16,6 +19,9 @@
         "english": "Enter your access code",
         "turkish": "Erişim kodunuzu girin",
         "spanish": "Ingrese su código de acceso",
+        "korean": "접속 코드 입력",
+        "chinese": "輸入您的使用密碼",
+        "japanese": "アクセスコードの入力",
         "arabic": "أأدخل رمز الدخول الخاص بك"
       },
       "paragraphs":{
@@ -27,6 +33,9 @@
             "english": "Enter your Online Practice access code here. The access code is on your Student’s Access Code Card. You must have an access code to add a new level to your account.",
             "turkish": "Online Uygulama erişim kodunuzu buraya girin. Erişim kodu Öğrenci Erişim Kodu Kartınızın üzerindedir. Hesabınıza yeni bir seviye eklemek için bir erişim kodu gereklidir.",
             "spanish": "Ingrese su código de acceso para la Práctica Online aquí. El código de acceso se encuentra en su Tarjeta de Código de Acceso de Estudiante. Usted debe tener un código de acceso para agregar un nuevo nivel en su cuenta.",
+            "korean": "여기에 온라인 실습 접속 코드를 입력하십시오. 접속 코드는 학생 접속 카드에 기재되어 있습니다. 접속 코드가 있어야 계정에 새로운 레벨을 추가할 수 있습니다. ",
+            "chinese": "請在此處輸入您的線上練習使用密碼。使用密碼在您的學生使用密碼卡片上面，您必須有使用密碼，才能夠在您的帳號新增一個級數。",
+            "japanese": "Online Practice のアクセスコードをここに入力します。アクセスコードは、生徒用アクセスコードカードに記載されています。アカウントに新しいレベルを追加するには、アクセスコードが必要となります。",
             "arabic": "أدخل رمز دخول الممارسة على الانترنت الخاص بك هنا. يوجد رمز الدخول على بطاقة رمز الدخول الخاصة بالطالب. يجب أن يكون لديك رمز دخول لإضافة مستوى جديد إلى حسابك."
           }
         },
@@ -38,6 +47,9 @@
             "english": "Click here to go to the Oxford University Press website for information on how to buy an access code.",
             "turkish": "Erişim kodunu nasıl alacağınızla ilgili bilgi almak üzere Oxford University Press internet sitesine gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ir al sitio web de Oxford University Press para obtener información acerca de cómo comprar un código de acceso.",
+            "korean": "여기를 클릭하여 Oxford University Press 웹사이트에 가서 접속 코드 구입 정보를 확인하십시오.",
+            "chinese": "點此處前往牛津大學出版社網站，瞭解如何購買使用密碼。",
+            "japanese": "アクセスコードの購入については、こちらをクリックしてオックスフォード大学出版局ホームページにアクセスしてください。",
             "arabic": "انقر هنا للذهاب إلى موقع وكالة جامعة أكسفورد للحصول على معلومات حول كيفية شراء رمز دخول."
           }
         },
@@ -49,6 +61,9 @@
             "english": "Click here to submit your access code.",
             "turkish": "Erişim kodunuzu girmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su código de acceso.",
+            "korean": "여기를 클릭하여 접속 코드를 제출하세요.",
+            "chinese":"點此處送出您的使用密碼。",
+            "japanese": "アクセスコードを送信するには、こちらをクリックします。",
             "arabic": "انقر هنا لإرسال رمز الدخول الخاص بك."
           }
         },
@@ -60,6 +75,9 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
+            "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "chinese": "點此處回上一頁。",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -71,6 +89,9 @@
             "english": "Click here to go to the next page after entering your access code.",
             "turkish": "Erişim kodunuzu girdikten sonra bir sonraki sayfaya geçmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ir a la página siguiente una vez ingresado su código de acceso.",
+            "korean": "접속 코드를 입력한 후 다음 페이지로 이동하려면 여기를 클릭하십시오.",
+            "chinese": "輸入您的使用密碼後，點此處前往下一頁。",
+            "japanese": "アクセスコードを入力した後次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا للذهاب إلى الصفحة التالية بعد إدخال رمز الدخول الخاص بك."
           }
         }
@@ -83,6 +104,9 @@
         "english": "Choose a level",
         "turkish": "Seviye seçin",
         "spanish": "Elija un nivel",
+        "korean": "레벨 선택",
+        "chinese": "選擇級數",
+        "japanese": "レベルの選択",
         "arabic": "حدد مستوى"
       },
       "paragraphs":{
@@ -94,6 +118,9 @@
             "english": "Choose a level. It is very important to choose the level that you are using. Check to make sure it is the same level as your book.",
             "turkish": "Bir seviye seçin. Kullandığınız seviyenin seçilmesi son derece önemlidir. Kitabınızla aynı seviye olduğundan emin olmak için kitabınızın seviyesini kontrol edin.",
             "spanish": "Elija un nivel. Es muy importante elegir el nivel que está utilizando. Asegúrese de que sea el mismo nivel que su libro.",
+            "korean": "레벨을 선택하십시오. 현재 이용 중인 레벨을 선택하는 것은 매우 중요합니다. 본인의 책과 같은 레벨인지 확인하십시오.",
+            "chinese": "請選擇一個級數，選擇您正在使用的級數非常重要，請確認您的選擇跟您的課本是同一個級數。",
+            "japanese": "レベルを選択します。お使いのレベルを選択することが重要です。今お使いテキストのレベルと同じであるか確認してください。",
             "arabic": "اختر مستوى. من الأهمية بمكان أن تختار المستوى الذي تستخدمه. افحص للتأكد من أنه نفس مستوى كتابك."
           }
         },
@@ -105,6 +132,9 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
+            "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "chinese": "點此處回上一頁。",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
@@ -117,6 +147,9 @@
         "english": "Join a class",
         "turkish": "Sınıfa katılın",
         "spanish": "Inscribirse a una clase",
+        "korean": "수업 참여",
+        "chinese": "加入班級",
+        "japanese": "クラスへの参加登録",
         "arabic": "الانضمام إلى فصل"
       },
       "paragraphs":{
@@ -128,6 +161,9 @@
             "english": "If you have a class ID code, enter it here. A class ID code is a code that your teacher can give you. It links your work to your class so your teacher can see it. If you do not have a class ID code, click “Skip”. To enter this code later, choose “Join a Class” from your Home page.",
             "turkish": "Bir sınıf kimlik (ID) kodunuz varsa, buraya girin. Sınıf ID kodu öğretmeniniz tarafından size verilen bir koddur ve C-... ile başlar. Dersle ilgili çalışmalarınızı öğretmeninizin görebilmesini sağlar. Bir sınıf ID kodunuz yoksa, “Skip” seçeneğine tıklayın. Bu kodu daha sonra girmek için, Anasayfanızdan “Join a Class” seçeneğini seçin.",
             "spanish": "Si tiene un código de ID de clase, ingréselo aquí. Su profesor le puede otorgar un código de ID de clase. Vincula su trabajo a su clase para que su profesor pueda verlo. Si no tiene un código de ID de clase, haga clic en \"Skip\". Para ingresar este código después, elija la opción \"Join a class\" en su página de Inicio.",
+            "korean": "수업 ID 코드가 있다면 여기에 입력하십시오. 수업 ID 코드는 교사가 제공할 수 있는 코드입니다. 이 코드는 본인의 학습을 수업에 연결하여 교사가 볼 수 있도록 합니다. 수업 ID 코드가 없다면 \"Skip\"을 클릭하십시오. 나중에 이 코드를 입력하려면 홈페이지에서 \"Join a Class\" 를 선택하십시오.",
+            "chinese": "如果您有班級代碼，請在此輸入。班級代碼由您的教師提供，此代碼將您的課業連結到您的班級，讓您的教師可以看到。如果您沒有班級代碼，請點擊Skip（略過）。如果您以後想輸入班級代碼，請從您的首頁選擇Join a Class（加入班級）。 ",
+            "japanese": "クラスIDコードをお持ちの場合は、こちらに入力します。このコードは、先生から渡されるものです。このコードは学習状況とクラスをリンクして、先生が確認できるようにするものです。クラスIDコードをお持ちでない場合は、Skip[スキップ]をクリックします。このコードを後から入力するには、ホームページからJoin a Class[クラスに参加登録する]をクリックします。",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بأحد الفصول، فقم بإدخاله هنا. يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه. إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول، فانقر على “Skip”(\"تخطي\"). لإدخال هذا الرمز في وقت لاحق؛ اختر “Join a Class” (\"الانضمام إلى أحد الفصول\") من الصفحة الرئيسية."
           }
         },
@@ -139,6 +175,9 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
+            "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "chinese": "點此處回上一頁。",
+            "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -150,6 +189,9 @@
             "english": "Click here if you do not have a class ID code.",
             "turkish": "Bir sınıf ID kodunuz yoksa buraya tıklayın.",
             "spanish": "Haga clic aquí si no tiene un código de ID de clase.",
+            "korean": "수업 ID 코드가 없다면 여기를 클릭하십시오.",
+            "chinese": "如果您沒有班級代碼，請點此處。",
+            "japanese": "クラスIDコードをお持ちでない場合は、こちらをクリックします。",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول."
           }
         },
@@ -161,6 +203,9 @@
             "english": "Click here to submit your class ID code and go to your Home page.",
             "turkish": "Sınıf ID kodunuzu onaylamak ve Anasayfanıza gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el código de ID de clase y ser dirigido a su página de Inicio.",
+            "korean": "수업 ID 코드를 제출하고 홈페이지로 가려면 여기를 클릭하십시오.", 
+            "chinese": "點此處送出您的班級代碼並前往首頁。",
+            "japanese": "クラスIDコードを送信してホームページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وانتقل للصفحة الرئيسية الخاصة بك."
           }
         }

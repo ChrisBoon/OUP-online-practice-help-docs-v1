@@ -31,7 +31,7 @@
       currentCourse: "q2e",
       pagelist: "q2e",
       currentCourseTitle: "iQ",
-      courseLanguages: ['English','Spanish','Turkish','Arabic']    }
+      courseLanguages: ['English','Spanish','Turkish','Arabic','Korean','Japanese','Chinese']    }
   }
 
   var runFastClick = function() {
@@ -73,6 +73,7 @@ ng-click="firstTimeSet()"
       <span ng-if="language.language == 'japanese'">ようこそ</span>
       <span ng-if="language.language == 'chinese'">歡迎</span>
       <span ng-if="language.language == 'thai'">ยินดีต้อนรับ</span>
+      <span ng-if="language.language == 'korean'">Welcome (korean)</span>        
       <span ng-if="language.language == 'arabic'" class="rtl">مرحبًا بكم</span>
     </a>
 
@@ -148,6 +149,15 @@ ng-click="firstTimeSet()"
 
           <accordion-heading ng-if="language.language == 'thai'">
             {{user.userType.thai}}
+            <span 
+            class="accordion-toggle__arrow"
+            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
+            >
+            </span>
+          </accordion-heading>
+
+          <accordion-heading ng-if="language.language == 'korean'">
+            {{user.userType.korean}}
             <span 
             class="accordion-toggle__arrow"
             ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
@@ -236,6 +246,14 @@ ng-click="firstTimeSet()"
                 {{listitem.title.thai}}
               </a>
               <a 
+              ng-if="language.language == 'korean'"
+              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
+              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
+              class="help-menu__option"
+              >
+                {{listitem.title.korean}}
+              </a>
+              <a 
               ng-if="language.language == 'arabic'"
               ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
               ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
@@ -260,6 +278,7 @@ ng-click="firstTimeSet()"
       <span ng-if="language.language == 'japanese'">よくある質問</span>
       <span ng-if="language.language == 'chinese'">常見問答</span>
       <span ng-if="language.language == 'thai'">ปัญหาที่พบบ่อย</span>
+      <span ng-if="language.language == 'korean'">자주 묻는 질문</span>
       <span ng-if="language.language == 'arabic'" class="rtl"> الأسئلة المتكررة</span>
     </a>      
     </div>

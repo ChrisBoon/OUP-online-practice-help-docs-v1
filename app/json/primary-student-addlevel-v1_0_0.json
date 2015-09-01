@@ -7,7 +7,8 @@
     "portuguese": "Adicione um nível",
     "japanese": "レベルの追加",
     "chinese": "新增級數",
-    "arabic": "إضافة مستوى"
+    "arabic": "إضافة مستوى",
+    "thai": "เพิ่มระดับชั้นเรียน"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -24,7 +25,8 @@
         "portuguese": "Insira seu código de acesso",
         "japanese": "アクセスコードの入力",
         "chinese": "輸入您的通行代碼",
-        "arabic": "أأدخل رمز الدخول الخاص بك"
+        "arabic": "أأدخل رمز الدخول الخاص بك",
+        "thai": "ใส่รหัสการเข้าถึง (Access Code)"
       },
       "paragraphs":{
         "paragraph01": {
@@ -39,7 +41,8 @@
             "portuguese": "Insira o seu código de acesso do Online Practice aqui. O código de acesso está no seu cartão do código de acesso do aluno. Você deve ter um código de acesso para adicionar um novo nível em sua conta.",
             "japanese": "Online Practice のアクセスコードをここに入力します。アクセスコードは、生徒用アクセスコードカードに記載されています。アカウントに新しいレベルを追加するには、アクセスコードが必要となります。",
             "chinese": "請在此處輸入您的線上練習使用密碼。使用密碼在您的學生使用密碼卡片上面，您必須有使用密碼，才能夠在您的帳號新增一個級數。",
-            "arabic": "أدخل رمز دخول الممارسة على الانترنت الخاص بك هنا. يوجد رمز الدخول على بطاقة رمز الدخول الخاصة بالطالب. يجب أن يكون لديك رمز دخول لإضافة مستوى جديد إلى حسابك."
+            "arabic": "أدخل رمز دخول الممارسة على الانترنت الخاص بك هنا. يوجد رمز الدخول على بطاقة رمز الدخول الخاصة بالطالب. يجب أن يكون لديك رمز دخول لإضافة مستوى جديد إلى حسابك.",
+            "thai":"คุณต้องมีรหัสการเข้าถึง สำหรับระดับชั้นเรียนที่ต้องการเพิ่ม รหัสนี้ได้มาจากบัตรรหัสของนักเรียน ใส่รหัสที่นี่   "
           }
         },
         "paragraph02": {
@@ -54,7 +57,8 @@
             "portuguese": "Clique aqui para ir ao site da Oxford University Press para obter informações sobre como comprar um código de acesso.",
             "japanese": "アクセスコードの購入については、こちらをクリックしてオックスフォード大学出版局ホームページにアクセスしてください。",
             "chinese": "點此處前往牛津大學出版社網站，瞭解如何購買使用密碼。",
-            "arabic": "انقر هنا للذهاب إلى موقع وكالة جامعة أكسفورد للحصول على معلومات حول كيفية شراء رمز دخول."
+            "arabic": "انقر هنا للذهاب إلى موقع وكالة جامعة أكسفورد للحصول على معلومات حول كيفية شراء رمز دخول.",
+            "thai": "คลิกที่นี่ เพื่อดูข้อมูลวิธีการสั่งซื้อรหัส จากเว็บไซต์ Oxford University Press "
           }
         },
         "paragraph03": {
@@ -69,7 +73,8 @@
             "portuguese": "Clique aqui para enviar seu código de acesso.",
             "japanese": "アクセスコードを送信するには、こちらをクリックします。",
             "chinese": "點此處送出您的使用密碼。",
-            "arabic": "انقر هنا لإرسال رمز الدخول الخاص بك."
+            "arabic": "انقر هنا لإرسال رمز الدخول الخاص بك.",
+            "thai": "คลิกที่นี่ เพื่อยืนยันรหัส"
           }
         },
         "paragraph04": {
@@ -84,7 +89,8 @@
             "portuguese": "Clique aqui para voltar à página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回上一頁。",
-            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة.",
+            "thai": "คลิกที่นี่ เพื่อกลับหน้าที่แล้ว"
           }
         },
         "paragraph05": {
@@ -99,7 +105,8 @@
             "portuguese": "Clique aqui para ir para a próxima página depois de inserir o seu código de acesso.",
             "japanese": "アクセスコードを入力した後次のページに進むには、こちらをクリックします。",
             "chinese": "輸入您的使用密碼後，點此處前往下一頁。",
-            "arabic": "انقر هنا للذهاب إلى الصفحة التالية بعد إدخال رمز الدخول الخاص بك."
+            "arabic": "انقر هنا للذهاب إلى الصفحة التالية بعد إدخال رمز الدخول الخاص بك.",
+            "thai": "คลิกที่นี่ เพื่อไปหน้าถัดไป"
           }
         }
       }
@@ -115,7 +122,8 @@
         "portuguese": "Escolha um nível",
         "japanese": "レベルの選択",
         "chinese": "選擇級數",
-        "arabic": "حدد مستوى"
+        "arabic": "حدد مستوى",
+        "thai": "เลือกระดับชั้นเรียน"
       },
       "paragraphs":{
         "paragraph01": {
@@ -130,7 +138,8 @@
             "portuguese": "Escolha um nível. É muito importante escolher o nível que você está utilizando. Certifique-se de que o nível selecionado é o mesmo nível do seu livro.",
             "japanese": "レベルを選択します。お使いのレベルを選択することが重要です。今お使いのテキストのレベルと同じであることを確認してください。",
             "chinese": "請選擇一個級數，選擇您正在使用的級數非常重要，請確認您的選擇跟您的課本是同一個級數。",
-            "arabic": "اختر مستوى. من الأهمية بمكان أن تختار المستوى الذي تستخدمه. افحص للتأكد من أنه نفس مستوى كتابك."
+            "arabic": "اختر مستوى. من الأهمية بمكان أن تختار المستوى الذي تستخدمه. افحص للتأكد من أنه نفس مستوى كتابك.",
+            "thai": "การเลือกระดับชั้นเรียน เป็นขั้นตอนที่สำคัญมาก คุณต้องแน่ใจว่าได้เลือกระดับเดียวกับหนังสือที่ใช้เรียนอยู่"
           }
         },
         "paragraph02": {
@@ -145,7 +154,8 @@
             "portuguese": "Clique aqui para voltar à página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回上一頁。",
-            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة.",
+            "thai":"คลิกที่นี่ เพื่อย้อนกลับหน้าที่แล้ว"
           }
         }
       }
@@ -161,7 +171,8 @@
         "portuguese": "Participe de uma aula",
         "japanese": "クラスへの参加登録",
         "chinese": "加入班級",
-        "arabic": "الانضمام إلى فصل"
+        "arabic": "الانضمام إلى فصل",
+        "thai": "เข้าห้องเรียน"
       },
       "paragraphs":{
         "paragraph01": {
@@ -176,7 +187,8 @@
             "portuguese": "Caso você possua um código de identificação de aula, insira-o aqui. Um código de identificação de aula pode ser fornecido pelo seu professor. Ela vincula o seu trabalho a sua aula para que o seu professor possa o visualizar. Caso você não tenha um código de identificação de aula, clique em “Skip“. Para introduzir esse código mais tarde, escolha a opção “Join a Class“ na sua página inicial.",
             "japanese": "クラスIDコードをお持ちの場合は、こちらに入力します。このコードは、先生から渡されるものです。このコードは学習状況とクラスをリンクして、先生が確認できるようにするものです。クラスIDコードをお持ちでない場合は、Skip[スキップ]をクリックします。このコードを後から入力するには、ホームページからJoin a Class[クラスに参加登録する]をクリックします。",
             "chinese": "如果您有班級代碼，請在此輸入。班級代碼由您的教師提供，此代碼將您的課業連結到您的班級，讓您的教師可以看到。如果您沒有班級代碼，請點擊Skip（略過）。如果您以後想輸入班級代碼，請從您的首頁選擇Join a Class（加入班級）。",
-            "arabic": "إذا كان لديك رمز مُعرِّف خاص بأحد الفصول، فقم بإدخاله هنا. يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه. إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول، فانقر على “Skip”(\"تخطي\"). لإدخال هذا الرمز في وقت لاحق؛ اختر “Join a Class” (\"الانضمام إلى أحد الفصول\") من الصفحة الرئيسية."
+            "arabic": "إذا كان لديك رمز مُعرِّف خاص بأحد الفصول، فقم بإدخاله هنا. يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه. إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول، فانقر على “Skip”(\"تخطي\"). لإدخال هذا الرمز في وقت لاحق؛ اختر “Join a Class” (\"الانضمام إلى أحد الفصول\") من الصفحة الرئيسية.",
+            "thai": "ใส่รหัสของห้องเรียน(class ID code)ที่นี่  คุณสามารถขอรหัสของห้องเรียนได้จากคุณครูผู้สอน การใส่รหัสนี้จะทำให้คุณครูผู้สอนเห็นงานที่คุณทำทั้งหมด หากไม่มีรหัส ให้คลิก “Skip” หากต้องการใส่รหัสภายหลัง ให้ไปที่เมนู “Join a Class” ในหน้าหลัก  "
           }
         },
         "paragraph02": {
@@ -191,7 +203,8 @@
             "portuguese": "Clique aqui para voltar à página anterior.",
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回上一頁。",
-            "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
+            "arabic": "انقر هنا للعودة إلى الصفحة السابقة.",
+            "thai": "คลิกที่นี่ เพื่อกลับหน้าที่แล้ว"
           }
         },
         "paragraph03": {
@@ -206,7 +219,8 @@
             "portuguese": "Clique aqui caso você não tinha um código de identificação de aula.",
             "japanese": "クラスIDコードをお持ちでない場合は、こちらをクリックします。",
             "chinese": "如果您沒有班級代碼，請點此處。",
-            "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول."
+            "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول.",
+            "thai": "คลิกที่นี่ ถ้าไม่มีรหัสห้องเรียน"
           }
         },
         "paragraph04": {
@@ -221,7 +235,8 @@
             "portuguese": "Clique aqui para enviar seu código de identificação de aula e para ir para sua página inicial.",
             "japanese": "クラスIDコードを送信してホームページに進むには、こちらをクリックします。",
             "chinese": "點此處送出您的班級代碼並前往首頁。",
-            "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وانتقل للصفحة الرئيسية الخاصة بك."
+            "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وانتقل للصفحة الرئيسية الخاصة بك.",
+            "thai": "คลิกที่นี่ เพื่อยืนยันรหัสห้องเรียน  และเข้าสู่หน้าหลัก"
           }
         }
       }
