@@ -33,7 +33,7 @@
             "english": "If you are a first-time user click “Register.”",
             "turkish": "İlk kez kullanıyorsanız “Register” düğmesine tıklayın.",
             "spanish": "Si utiliza la página por primera vez, haga clic en \"Register\".",
-            "korean": "처음 사용하시는 분은 \"등록\"을 클릭하십시오.",
+            "korean": "처음 사용하시는 분은 Register 버튼을 클릭하십시오.",
             "chinese": "如果您第一次使用，請點擊Register（註冊）。",
             "japanse": "はじめてご利用になる場合は、Register［登録する］をクリックします。",
             "arabic": "إذا كنت مستخدمًا لأول مرة,فانقر على “Register”(\"تسجيل\")."
@@ -90,7 +90,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "korean": "이전 페이지로 돌아가려면 여기를 클릭하십시오.",
             "chinese": "點此處回到上一頁。",
             "japanse": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
@@ -104,7 +104,7 @@
             "english": "Click here to go to the next page. You must check the box to show that you agree to the Terms of Use before you can go to the next page.",
             "turkish": "Bir sonraki sayfaya gitmek için buraya tıklayın. Bir sonraki sayfaya gidebilmeniz için önce Kullanım Koşullarını kabul ettiğinizi gösteren kutucuğu işaretlemeniz gerekir.",
             "spanish": "Haga clic aquí para ir a la página siguiente. Debe marcar la casilla para indicar que usted está de acuerdo con las Condiciones de Uso antes de poder acceder a la página siguiente.",
-            "korean": "여기를 클릭하여 다음 페이지로 가십시오. 다음 페이지로 가기 전에 박스에 체크하여 이용약관에 동의함을 표시해야 합니다.",
+            "korean": "다음 페이지로 가려면 여기를 클릭하십시오. 다음 페이지로 가기 전에 박스에 체크하여 이용약관에 동의함을 표시해야 합니다.",
             "chinese": "點此處到下一頁。前往下一頁之前，您必須將方框勾選起來，以表示您同意使用條款。",
             "japanse": "次のページに進むには、こちらをクリックします。次のページに進むには、利用規約への同意を表明するチェックマークが必要です。",
             "arabic": "انقر هنا للانتقال إلى الصفحة التالية. يجب عليك وضع علامة في المربع لإظهار موافقتك على شروط الاستخدام قبل أن يمكنك الانتقال إلى الصفحة التالية."
@@ -147,7 +147,7 @@
             "english": "Click “Enter”.",
             "turkish": "“Enter” düğmesine tıklayın.",
             "spanish": "Haga clic en \"Enter\".",
-            "korean": "\"Enter\"을 클릭하십시오.",
+            "korean": "\"Enter\"를 클릭하십시오.",
             "chinese": "點擊Enter（輸入）。",
             "japanse": "2Enter[アクセス]をクリックします。",
             "arabic": "انقر “Enter”(\"إدخال\")"
@@ -260,7 +260,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "korean": "이전 페이지로 돌아가려면 여기를 클릭하십시오. ",
             "chinese": "點此處回到上一頁。",
             "japanse": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
@@ -274,7 +274,7 @@
             "english": "Click here to submit your information and go to the next page.",
             "turkish": "Bilgilerinizi göndermek ve bir sonraki sayfaya geçmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar su información e ir a la página siguiente.",
-            "korean": "여기를 클릭하여 정보를 제출하고 다음 페이지로 가십시오.",
+            "korean": "정보를 제출하고 다음 페이지로 가려면 여기를 클릭하십시오. ",
             "chinese": "點此處以送出您的資料，並前往下一頁。",
             "japanse": "情報を送信し次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا لإرسال المعلومات الخاصة بك وانتقل للصفحة التالية."
@@ -317,7 +317,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.",
-            "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "korean": "이전 페이지로 돌아가려면 여기를 클릭하십시오. ",
             "chinese": "點此處回到上一頁。",
             "japanse": "前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
@@ -331,7 +331,7 @@
             "english": "Click here to submit the name of your institution and go to the next page.",
             "turkish": "Kurumunuzun adını göndermek ve bir sonraki sayfaya geçmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para enviar el nombre de su institución e ir a la página siguiente.",
-            "korean": "여기를 클릭하여 교육기관명을 제출하고 다음 페이지로 가십시오.",
+            "korean": "교육기관명을 제출하고 다음 페이지로 가려면 여기를 클릭하십시오. ",
             "chinese": "點此處以送出您的機關單位名稱並前往下一頁。",
             "japanse": "学校・団体名を送信し次のページに進むには、こちらをクリックします。　",
             "arabic": "انقر هنا لإرسال اسم المؤسسة الخاصة بك وانتقل للصفحة التالية."
@@ -374,7 +374,7 @@
             "english": "Click here to print this page and save it for your records.",
             "turkish": "Bu sayfayı yazdırmak ve ilerisi için kaydetmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir esta página y guardarla en sus archivos.",
-            "korean": "여기를 클릭하여 이 페이지를 인쇄하고 기록에 저장하십시오.",
+            "korean": "이 페이지를 인쇄하고 기록으로 저장해 두려면 여기를 클릭하십시오. ",
             "chinese": "點此處以列印本頁面，供您留存紀錄。",
             "japanse": "このページを印刷してレポートとして保管するには、こちらをクリックします。",
             "arabic": "انقر هنا لطباعة هذه الصفحة واحفظها في السجلات الخاصة بك."
@@ -388,7 +388,7 @@
             "english": "Click here to go to the next page.",
             "turkish": "Bir sonraki sayfaya gitmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ir a la página siguiente.",
-            "korean": "여기를 클릭하여 다음 페이지로 가십시오.",
+            "korean": "다음 페이지로 가려면 여기를 클릭하십시오. ",
             "chinese": "點此處前往下一頁。",
             "japanse": "次のページに進むには、こちらをクリックします。",
             "arabic": "انقر هنا للانتقال إلى الصفحة التالية."
@@ -431,7 +431,7 @@
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior.", 
-            "korean": "여기를 클릭하여 이전 페이지로 돌아가십시오.", 
+            "korean": "이전 페이지로 돌아가려면 여기를 클릭하십시오.", 
             "chinese": "點此處回到上一頁。",
             "japanese": "このページは登録情報を表示します。必要に応じてこの画面を印刷してください。情報を変更する場合は、ログイン後に右上にあるEdit Profile[プロフィールの編集]をクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
@@ -445,7 +445,7 @@
             "english": "Click here to print your registration information.",
             "turkish": "Kayıt bilgilerinizi yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir su información de registro.",
-            "korean": "여기를 클릭하여 등록 정보를 변경하세요.",
+            "korean": "등록 정보를 변경하려면 여기를 클릭하십시오. ",
             "chinese": "點此處列印您的註冊資訊。",
             "japanese": "登録情報を印刷するには、こちらをクリックします。",
             "arabic": "انقر هنا لطباعة معلومات التسجيل الخاصة بك."
@@ -459,7 +459,7 @@
             "english": "Click here to complete the registration and log in to your Online Practice.",
             "turkish": "Kaydı tamamlamak ve Online Uygulama oturumunuzu açmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para completar el registro e iniciar sesión en su Práctica Online.",
-            "korean": "여기를 클릭하여 등록을 완료하고 온라인 실습에 로그인하십시오.",
+            "korean": "등록을 완료하고 온라인 실습에 로그인하려면 여기를 클릭하십시오.  ",
             "chinese": "點此處完成註冊並登入您的線上練習。",
             "japanese": "登録を完了してOnline Practiceにログインするには、こちらをクリックします。",
             "arabic": "انقر هنا لإكمال التسجيل وتسجيل الدخول إلىالممارسة الخاصة بك عبر شبكة الإنترنت."

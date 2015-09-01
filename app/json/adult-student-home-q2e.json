@@ -47,7 +47,7 @@
             "english": "Click on “Add a level” to add another level if you have an access code.",
             "turkish": "Bir erişim kodunuz varsa yeni bir seviye eklemek için “Add a level” seçeneğine tıklayın.",
             "spanish": "Haga clic en \"Añadir un nivel\" para agregar otro nivel si tiene un código de acceso.",
-            "korean": "접속 코드가 있다면 \"레벨 추가\"를 클릭하여 다른 레벨을 추가하십시오.",
+            "korean": "접속 코드가 있다면 \"Add a level\"을 클릭하여 다른 레벨을 추가하십시오.",
             "chinese": "點擊 Add a level（新增級數），如果您有使用密碼，可以增加另一個級數。",
             "japanese": "アクセスコードがあれば、Add a Level[レベルの追加]をクリックすると別のレベルを追加することができます。",
             "arabic": "انقر على “Add a level”(\"أضف مستوى\") لإضافة مستوى آخر إذا كان لديك رمز دخول."
@@ -189,7 +189,7 @@
             "english": "Click here to enter the Writing Tutor activity area. This is only available for Reading & Writing levels.",
             "turkish": "Özel Yazı Eğitmeni aktivite alanına girmek için buraya tıklayın. Bu sadece Okuma ve Yazma seviyeleri için mevcuttur.",
             "spanish": "Haga clic aquí para acceder al área de actividad del Tutor de escritura. Esto está disponible únicamente para los niveles de Lectura y Escritura.",
-            "korean": "이것은 읽기 및 쓰기 수준에서만 이용 가능합니다",
+            "korean": "쓰기 튜터 활동 영역에 들어가려면 여기를 클릭하십시오. 이것은 읽기 및 쓰기 수준에서만 이용 가능합니다",
             "chinese": "這只對「閱讀與寫作」層級提供。",
             "japanese": "これはリーディングとライティングのレベルでのみ利用できます。",
             "arabic": "أنقر هنا لكي تدخل في مجال نشاط معلم الكتابة الخصوصي. هذا متوفر فقط لمستويات القراءة والكتابة."

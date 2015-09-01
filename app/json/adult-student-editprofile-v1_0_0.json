@@ -33,7 +33,7 @@
             "english": "Click here to change your first name (given name).",
             "turkish": "Adınızı değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar su nombre (nombre de pila).",
-            "korean": "여기를 클릭하여 이름을 변경하세요.",
+            "korean": "이름을 변경하려면 여기를 클릭하십시오. ",
             "chinese": "點此處更改您的名字。",
             "japanese": "名前（名）の変更は、こちらをクリックします。",
             "arabic": "انقر هنا لتغيير اسمك الأول."
@@ -47,7 +47,7 @@
             "english": "Click here to change your last name (family name).",
             "turkish": "Soyadınızı (aile adı) değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar su apellido.",
-            "korean": "여기를 클릭하여 성을 변경하세요.", 
+            "korean": "성을 변경하려면 여기를 클릭하십시오. ", 
             "chinese": "此處更改您的姓氏",
             "japanese": "名前（姓）の変更は、こちらをクリックします。",
             "arabic": "انقر هنا لتغيير اسمك الأخير (اسم العائلة)."
@@ -61,7 +61,7 @@
             "english": "Click here to change your email address.",
             "turkish": "E-posta adresinizi değiştirmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cambiar su dirección de correo electrónico.",
-            "korean": "여기를 클릭하여 이메일 주소를 변경하세요.", 
+            "korean": "이메일 주소를 변경하려면 여기를 클릭하십시오. ", 
             "chinese": "點此處更改您的電子郵件。",
             "japanese": "メールアドレスの変更は、こちらをクリックします。",
             "arabic": "انقر هنا لتغيير عنوان بريدك الإلكتروني."
@@ -75,7 +75,7 @@
             "english": "Click here to confirm your new email address.",
             "turkish": "Yeni e-posta adresinizi onaylamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para confirmar su nueva dirección de correo electrónico.",
-            "korean": "여기를 클릭하여 새 이메일 주소를 확인하세요.", 
+            "korean": "새 이메일 주소를 확인하려면 여기를 클릭하십시오.", 
             "chinese": "點此處確認您的新電子郵件。",
             "japanese": "新しいメールアドレスの確認は、こちらをクリックします。",
             "arabic": "انقر هنا لتأكيد عنوان بريدك الإلكتروني الجديد."
@@ -103,7 +103,7 @@
             "english": "Click here to confirm your new password.",
             "turkish": "Yeni parolanızı onaylamak için buraya tıklayın.",
             "spanish": "Haga clic aquí para confirmar su nueva contraseña.",
-            "korean": "여기를 클릭하여 새 패스워드를 확인하세요.",
+            "korean": "새 패스워드를 확인하려면 여기를 클릭하십시오. ",
             "chinese": "點此處確認您的密碼。",
             "japanese": "新しいパスワードの確認は、こちらをクリックします。",
             "arabic": "انقر هنا لتأكيد كلمة المرور الجديدة الخاصة بك."
@@ -131,7 +131,7 @@
             "english": "Click here to cancel without saving any changes.",
             "turkish": "Değişiklikleri kaydetmeden iptal etmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para cancelar sin guardar los cambios.",
-            "korean": "여기를 클릭하면 변경사항을 저장하지 않고 취소합니다.", 
+            "korean": "변경사항을 저장하지 않고 취소하려면 여기를 클릭하십시오.", 
             "chinese": "點此處取消，不儲存任何變更。",
             "japanese": "変更内容を保存せずにキャンセルするには、こちらをクリックします。",
             "arabic": "انقر هنا للإلغاء بدون حفظ أي تغييرات."

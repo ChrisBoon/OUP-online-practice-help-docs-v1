@@ -33,7 +33,7 @@
             "english": "Enter your new class ID code here and then click “Save”.",
             "turkish": "Yeni sınıf ID kodunuzu buraya girin ve ardından “Save” düğmesine tıklayın.",
             "spanish": "Ingrese su nuevo código de ID de clase aquí y haga clic en \"Save\".",
-            "korean": "새로운 수업 ID 코드를 여기에 입력하고 \"Save\"을 클릭하십시오.",
+            "korean": "새로운 수업 ID 코드를 여기에 입력하고 Save 를 클릭하십시오. ",
             "chinese": "在此處輸入新的班級代碼，並點擊Save（儲存）。",
             "japanese": "新しいクラスIDコードをこちらに入力します。その後、Save[保存]をクリックします。",
             "arabic": "أدخل رمز مُعرِّف الفصل الجديد الخاص بك هنا ثم انقر على “Save”(\"حفظ\")."
@@ -61,7 +61,7 @@
             "english": "Click here to go back to the previous page without changing your class.",
             "turkish": "Sınıfınızı değiştirmeden bir önceki sayfaya geri dönmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para volver a la página anterior sin cambiar su clase.",
-            "korean": "여기를 클릭하면 수업을 변경하지 않고 이전 페이지로 돌아갑니다.",
+            "korean": "수업을 변경하지 않고 이전 페이지로 돌아가려면 여기를 클릭하십시오. ",
             "chinese": "點此處回到上一頁，不更改班級。",
             "japanese": "クラスを変更しないで前のページに戻るには、こちらをクリックします。",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة بدون تغيير الفصل الخاص بك."

@@ -118,7 +118,7 @@
             "english": "Click the “Reply” button to reply to a message.",
             "turkish": "Bir mesaja cevap vermek için “Reply” düğmesine tıklayın.",
             "spanish": "Haga clic en el botón \"Reply\" para responder a un mensaje.",
-            "korean": "\"Reply\"을 클릭하여 메시지에 답변을 달 수 있습니다.",
+            "korean": "\"Reply\" 버튼을 클릭하여 메시지에 답변을 달 수 있습니다.",
             "chinese": "點擊 Reply（回覆）按鈕，可回覆一則訊息。",
             "japanese": "Reply[返信]ボタンをクリックすると、メッセージを返信することができます。",
             "arabic": "انقر علىزِر“Reply”(\"رد\") للرد على الرسالة."
@@ -146,7 +146,7 @@
             "english": "Click the “Create New Message” button if you want to write a new message.",
             "turkish": "Yeni bir mesaj yazmak istiyorsanız “Yeni Mesaj Oluştur” düğmesine tıklayın.",
             "spanish": "Haga clic en el botón \"Create New Message\" si desea escribir un mensaje nuevo.",
-            "korean": "새로운 메시지를 쓰시려면 \"Create New Message\"를 클릭하십시오.", 
+            "korean": "새로운 메시지를 쓰시려면 \"Create New Message\"버튼을 클릭하십시오.", 
             "chinese": "如果您想要寫一則新訊息，請點擊 Create New Message（編寫新訊息）按鈕。",
             "japanese": "新しくメッセージを書きたいときは、Create New Message[新規作成]ボタンをクリックします。",
             "arabic": "انقر علىزِر“Create New Message” (\"إنشاء رسالة جديدة\") إذا كنت تريد كتابة رسالة جديدة."
@@ -188,7 +188,7 @@
           "text":{
             "english": "Click on “Select all” to email all students in your class together, then click “OK”. If you choose not to select anyone, click “Cancel”.",
             "turkish": "Sınıfınızdaki öğrencilerin tamamına aynı anda e-posta göndermek için “Select all” seçeneğine, ardından “OK” düğmesine tıklayın. Kimseyi seçmeyeceksiniz, “Cancel” düğmesine tıklayın.",
-            "spanish": "Haga clic en \"Select all\" para enviar un correo electrónico a todos los estudiantes en su clase, y luego haga clic en \"OK\". Si decide no seleccionar a nadie, haga clic en \"Cancel\".",
+            "spanish": "Haga clic en \"Select all\" para enviar un correo electrónico a todos los estudiantes en su clase, y luego haga clic en \"OK\". Si decide no seleccionar a nadie, haga clic en \"Cancel\"을.",
             "korean": "\"Select All\"을 클릭하여 수업에 참여하는 모든 학생들을 선택하고 \"OK\"를 클릭하여 메시지를 보낼 수 있습니다. 선택을 해제하고자 하는 사람이 있을 경우 \"Cancel\"를 클릭하십시오.",
             "chinese": "點擊Select all（選擇全部）就可以將訊息一次傳送給您的全班學生，然後點擊OK。如果您決定不選擇任何人，請點擊 Cancel（取消）。",
             "japanese": "クラス全員にメッセージを送る場合は、Select all[全員に送る]をクリックしてから、OKボタンをクリックします。だれも選択しない場合は、Cancel[キャンセル]をクリックします。",

@@ -89,7 +89,7 @@
             "english": "Click here to score the assignment. A grading rubric will appear in a pop up window.",
             "turkish": "Ödeve puan vermek için buraya tıklayın. Açılan bir pencerede puanlama kuralları görünecektir.",
             "spanish": "Haga clic aquí para calificar la tarea. Una rúbrica de calificación aparecerá en una ventana emergente.",
-            "korean": "",
+            "korean": "쓰기 숙제를 채점하려면 여기를 클릭하십시오. 채점 기준표가 팝업 창으로 뜹니다.",
             "chinese": "按一下這裡給作業評分。評分規準將出現在一個跳現視窗內。",
             "japanese": "課題に得点を付けるには、こちらをクリックします。ポップアップウィンドウに採点基準が表示されます。",
             "arabic": "أنقر هنا لكي تعطي درجات على الواجب. ستظهر  زاوية الدرجات في نافذة منبثقة."
@@ -131,6 +131,7 @@
             "english": "Click here to export this report to Microsoft Excel™.",
             "turkish": "Bu raporu Microsoft Excel’e aktarmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para exportar este informe a Microsoft Excel.",
+            "korean": "피드백을 인쇄하려면 여기를 클릭하십시오.",
             "chinese": "按一下這裡將此報告匯出到Microsoft Excel。",
             "japanese": "このレポートを Microsoft Excel にエクスポートするには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي تصدر هذا التقرير الى Microsoft Excel مايكروسوفت إكسل"
@@ -144,6 +145,7 @@
             "english": "Click here to print this report.",
             "turkish": "Bu raporu yazdırmak için buraya tıklayın.",
             "spanish": "Haga clic aquí para imprimir este informe.",
+            "korean": "쓰기 튜터 보고서를 보려면 여기를 클릭하십시오.",
             "chinese": "按一下這裡列印此報告。",
             "japanese": "このレポートを印刷するには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي تطبع هذا التقرير."
