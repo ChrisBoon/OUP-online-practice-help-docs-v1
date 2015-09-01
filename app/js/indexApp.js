@@ -41,9 +41,13 @@ angular.module('helpIndex.controllers', [])
        "link": "elements.html",
        "imgAsset": "help-doc-icon-eos-2x.png"
       },
-      {"name": "Q: Skills for Success",
+      {"name": "Q: Skills for Success 2nd Edition",
        "link": "q2e.html",
        "imgAsset": "help-doc-icon-q2e-2x.png"
+      },
+      {"name": "Q: Skills for Success 2nd Edition - Special Edition",
+       "link": "q2e-se.html",
+       "imgAsset": "help-doc-icon-q2e-se-2x.jpg"
       },
       {"name": "Generic Primary: all languages",
        "link": "master-primary.html",
