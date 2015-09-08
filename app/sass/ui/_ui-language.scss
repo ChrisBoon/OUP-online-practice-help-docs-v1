@@ -124,6 +124,16 @@
   }
 }
 
+.language-chosen__container--korean,
+.language-chosen__container--Korean{
+  &:before{
+    content: "한국어";
+  }
+  .language-chosen--english{
+    display: none;
+  }
+}
+
 .language-chosen__container--chinese,
 .language-chosen__container--Chinese{
   &:before{

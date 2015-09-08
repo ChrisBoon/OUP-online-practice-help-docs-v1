@@ -63,7 +63,7 @@
             "spanish": "Haga clic aquí para Ver un modelo. Este demuestra la estructura de la escritura e incluye una muestra de escritura.",
             "korean": "모델을 보려면 여기를 클릭하십시오. 이 모델은 쓰기 구조와 샘플 쓰기를 보여줍니다.",
             "chinese": "按一下這裡即可「檢視模型」，這將展示該寫作的結構並有一篇範文。",
-            "japanese": "",
+            "japanese": "モデルを見るにはこちらをクリックします。課題文の構成のデモンストレーションと文章例が表示されます。",
             "arabic": "أنقر هنا لكي ترى نموذج يوضح لك تركيب الكتابة ويحتوي على عينة من الكتابة."
           }
         },
@@ -103,7 +103,7 @@
             "english": "Click here to view Writing Tutor Reports.",
             "turkish": "Raporları Özel Yazı Eğitmeni görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para visualizar el Tutor de escritura del Informes.",
-            "korean": "",
+            "korean": "쓰기 튜터 보고서를 보려면 여기를 클릭하십시오. ",
             "chinese": "按一下此處檢視寫作輔導報告。",
             "japanese": "ライティングチューターレポートを表示するにはこちらをクリックします。",
             "arabic": "انقر هنا لعرض تقارير مدرس الكتابة الخصوصي."

@@ -5,7 +5,7 @@
         "english": "Teacher",
         "turkish": "Öğretmen",
         "spanish": "Profesor",
-        "korean": "TEACHER",
+        "korean": "교사",
         "japanese": "先生",
         "chinese": "教師",
         "arabic": "المعلم"
@@ -57,8 +57,8 @@
           "turkish": "Denemeleri Yönet",
           "spanish": "Administrar los intentos",
           "korean": "시도 관리",
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "試みの管理-",
+          "chinese": "管理嘗試",
           "arabic": "إدارة المحاولات"
         },
         "id": "adult-teacher-manageattempts-v1_0_0"
@@ -108,9 +108,9 @@
           "english": "Hide/Assign Content",
           "turkish": "İçeriği Gizle/Ata",
           "spanish": "Ocultar/Asignar contenido",
-          "korean": "컨텐츠 숨기기/할당",
-          "japanese": "-",
-          "chinese": "-",
+          "korean": "컨텐츠 숨기기/배정",
+          "japanese": "ユニットとレッスンを非表示にする",
+          "chinese": "隱藏或顯示內容",
           "arabic": "تحديد المحتوى /إخفاء"
         },
         "id": "adult-teacher-contentassign-v1_0_0"
@@ -173,7 +173,7 @@
           "english": "Achievements",
           "turkish": "Başarılar",
           "spanish": "Logros",
-          "korean": "학생 보고서",
+          "korean": "성과",
           "japanese": "成績表",
           "chinese": "學習成果",
           "arabic": "التحصيل"
@@ -187,8 +187,8 @@
           "turkish": "Öğrenci Bölüm Raporu",
           "spanish": "Informe del segmento de estudiante",
           "korean": "세그먼트 보고서 ",
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "セグメントレポート",
+          "chinese": "部分報告",
           "arabic": "تقريرالطالب الجزئي"
         },
         "id": "adult-teacher-reportsegment-v1_0_0"
@@ -225,9 +225,9 @@
           "english": "Activities and Resources",
           "turkish": "Aktiviteler ve Kaynaklar ",
           "spanish": "Actividades y Recursos",
-          "korean": "ACTIVITIES AND RESOURCES",
-          "japanese": "-",
-          "chinese": "-",
+          "korean": "활동 및 자료",
+          "japanese": "講師が採点するアクティビティ",
+          "chinese": "單元報告",
           "arabic": "أنشطة و الموارد"
         },
         "id": "adult-teacher-enteronlinepractice-v1_0_0"
@@ -251,7 +251,7 @@
           "english": "Glossary",
           "turkish": "Sözlük",
           "spanish": "Glosario",
-          "korean": "GLOSSARY",
+          "korean": "용어집",
           "japanese": "グロッサリー",
           "chinese": "詞庫",
           "arabic": "المسرد"
@@ -317,8 +317,8 @@
           "turkish": "Tartışma Panosu",
           "spanish": "Panel de discusión",
           "korean": "게시판",
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "ディスカッションボード",
+          "chinese": "討論區",
           "arabic": "المناقشة لوحة"
         },
         "id": "adult-teacher-discussionboard-v1_0_0"
@@ -344,7 +344,7 @@
         "english": "Student",
         "turkish": "Öğrenci",
         "spanish": "Estudiante",
-         "korean": "STUDENT",
+         "korean": "학생",
         "japanese": "生徒",
         "chinese": "學生",
         "arabic": "الطالب"
@@ -356,7 +356,7 @@
           "english": "Registration",
           "turkish": "Kayıt",
           "spanish": "Registro",
-          "korean": "REGISTRATION",
+          "korean": "등록",
           "japanese": "登録",
           "chinese": "註冊",
           "arabic": "التسجيل"
@@ -408,7 +408,7 @@
           "english": "Glossary",
           "turkish": "Sözlük",
           "spanish": "Glosario",
-          "korean": "쓰기 튜터",
+          "korean": "용어집",
           "japanese": "グロッサリー",
           "chinese": "詞庫",
           "arabic": "المسرد"
@@ -434,7 +434,7 @@
           "english": "Achievements",
           "turkish": "Başarılar",
           "spanish": "Logros",
-          "korean": "ACHIEVEMENTS",
+          "korean": "성과",
           "japanese": "アチーブメント",
           "chinese": "學習成果",
           "arabic": "التحصيل"
@@ -447,7 +447,7 @@
           "english": "Report",
           "turkish": "Rapor",
           "spanish": "Informe",
-          "korean": "REPORT",
+          "korean": "보고서",
           "japanese": "レポート",
           "chinese": "學習報告",
           "arabic": "التقرير"
@@ -461,8 +461,8 @@
           "turkish": "Öğrenci Bölüm Raporu",
           "spanish": "Informe del segmento de estudiante",
            "korean": "세그먼트 보고서", 
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "セグメントレポート",
+          "chinese": "部分報告",
           "arabic": "تقريرالطالب الجزئي"
         },
         "id": "adult-student-reportsegment-v1_0_0"
@@ -487,8 +487,8 @@
           "turkish": "Tartışma Panosu",
           "spanish": "Panel de discusión",
            "korean": "게시판",
-          "japanese": "-",
-          "chinese": "-",
+          "japanese": "ディスカッションボード",
+          "chinese": "討論區",
           "arabic": "المناقشة لوحة"
         },
         "id": "adult-student-discussionboard-v1_0_0"
@@ -553,7 +553,7 @@
         "english": "Administrator",
         "turkish": "Yönetici",
         "spanish": "Administrador",
-        "korean": "ADMINISTRATOR",
+        "korean": "교육기관 관리자",
         "japanese": "管理者",
         "chinese": "管理人",
         "arabic": "مراقب النظام"
@@ -565,7 +565,7 @@
           "english": "Registration",
           "turkish": "Kayıt",
           "spanish": "Registro",
-          "korean": "REGISTRATION",
+          "korean": "등록",
           "japanese": "登録",
           "chinese": "註冊",
           "arabic": "التسجيل"

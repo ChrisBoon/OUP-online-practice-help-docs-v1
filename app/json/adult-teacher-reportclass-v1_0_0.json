@@ -161,7 +161,7 @@
             "spanish": "Este es el total del número promedio  de actividades realizadas en todos los segmentos.",
             "korean": "이것은 전체 세그먼트에서 완료한 활동의 평균 건수의 총계입니다.", 
             "chinese": "這是各單元完成的學習活動平均數量總和。",
-            "japanese": "",
+            "japanese": "これは、全セグメントで完了された平均アクティビティ数です。",
             "arabic": "هذا هو إجمالي معدل عدد الأنشطة المكتملة عبرَ الأقسام."
           }
         },
@@ -175,7 +175,7 @@
             "spanish": "Esta es la puntuación total promedio para todos los alumnos en todos los segmentos.",
             "korean": "이것은 전체 세그먼트에서 모든 학생이 득점한 평균 총점입니다.", 
             "chinese": "這是全部學生在各單元的總得分平均。",
-            "japanese": "",
+            "japanese": "これは、全セグメントの全生徒の平均得点の合計です。",
             "arabic": "هذا هو إجمالي معدل الدرجة لجميع الطلاب عبرَ الأقسام."
           }
         },
