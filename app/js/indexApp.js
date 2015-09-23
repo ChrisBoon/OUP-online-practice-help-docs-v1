@@ -49,6 +49,10 @@ angular.module('helpIndex.controllers', [])
        "link": "q2e-se.html",
        "imgAsset": "help-doc-icon-q2e-se-2x.jpg"
       },
+      {"name": "Inside Listening & Speaking: Digital Download Center",
+       "link": "inside-ls.html",
+       "imgAsset": "help-doc-icon-ils-2x.png"
+      },
       {"name": "Generic Primary: all languages",
        "link": "master-primary.html",
        "imgAsset": "help-doc-icon-primary-2x.png"

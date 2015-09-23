@@ -1,0 +1,37 @@
+{
+  "item01":{
+    "order":1,
+    "title": {
+      "english": "Registration"
+    },
+    "id": "adult-teacher-registration-v1_0_0"
+  },
+  "item02":{
+    "order":2,
+    "title": {
+      "english": "Home"
+    },
+    "id": "adult-teacher-home-v1_0_0"
+  },
+  "item03":{
+    "order":3,
+    "title": {
+      "english": "Manage Classes"
+    },
+    "id": "adult-teacher-manageclasses-v1_0_0"
+  },
+  "item04":{
+    "order":4,
+    "title": {
+      "english": "Manage Attempts"
+    },
+    "id": "adult-teacher-manageattempts-v1_0_0"
+  },
+  "item05":{
+    "order":5,
+    "title": {
+      "english": "Class Details"
+    },
+    "id": "adult-teacher-classdetails-v1_0_0"
+  }
+}
