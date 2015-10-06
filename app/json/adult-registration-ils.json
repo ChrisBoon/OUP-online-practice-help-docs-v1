@@ -1,0 +1,262 @@
+{
+  "title": {
+    "english": "User Registration"
+ 
+  },
+ "segment": "adult",
+ "userType": [""],
+ "pageCount":7,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "",
+      "pageTitle": {
+        "english": ""
+     
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 12,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "If you are a first-time user click “Register."
+          }
+        }
+      }  
+    },	  
+	"page02": {
+      "pageType": "screenshot",
+      "imgId": "",
+      "pageTitle": {
+        "english": "Agree to the Terms of Use"
+       
+          
+        },
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 18,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "This page explains the Terms of Use. You must agree to the terms in order to register for Online Practice."
+          
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Check the box and click “I Agree."
+     
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 30,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to go back to the previous page. "
+          }
+        } 
+      },	  
+	"page03": {
+      "pageType": "screenshot",
+      "imgId": "",
+      "pageTitle": {
+        "english": "Enter your access code"
+      
+       },
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 18,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Enter the access code found on the inside front cover of your book."
+          }
+          
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click “Enter."
+          }
+        } 
+  },	  
+	"page04": {
+      "pageType": "screenshot",
+      "imgId": "",
+      "pageTitle": {
+        "english": "Enter your details"
+        
+         },
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 18,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Enter your first name (given name). "
+          
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Enter your last name (family name). "
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Enter your email address."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Type your email address again. "
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Choose a password. "
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Type your password again."
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to go back to the previous page. "
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to submit your information and go to the next page."
+          }   
+        } 
+  },	  
+	"page05": {
+      "pageType": "screenshot",
+      "imgId": "",
+      "pageTitle": {
+        "english": "Choose a level"
+        
+        },
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 18,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click on your level to select it. It is very important to select the level that you will be using. Check the title to make sure it is your level. If you are using more than one level, you can add another level later by choosing “Add a level” from your Home screen. You will need a new access code to add a level. "
+          
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to go back to the previous page. "
+          } 
+        }    
+  },	  
+	"page06": {
+      "pageType": "screenshot",
+      "imgId": "",
+      "pageTitle": {
+        "english": "Enter your institution ID code"
+        
+        },
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 18,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "If you have an institution ID code, enter it here. This is a code that your administrator can give you. This code links your class records with your school or institution. If you do not have an institution ID code, click “Skip”. You can enter an institution ID code later by clicking “Join an Institution” from your Class Details page. "
+          
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to go back to the previous page. "
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here if you do not have an institution ID code. "
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to submit your institution ID code and go to the next page. "
+          }
+        }
+  },	  
+	"page07": {
+      "pageType": "screenshot",
+      "imgId": "",
+      "pageTitle": {
+        "english": "Save your registration information"
+        
+        },
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 18,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "This page shows your registration information. You may want to print this page for your records. To change this information, select “Edit Profile” after you log in (it will be in the top right of the screen).  "
+          }
+          
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to print your registration information. "
+          }  
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to complete your registration and log in to your Digital Download Center."
+              }
+            }
+          }
+        }
+      }
+

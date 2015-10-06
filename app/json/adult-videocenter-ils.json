@@ -1,0 +1,48 @@
+{
+  "title": {
+    "english": "Video Center"
+ 
+  },
+ "segment": "adult",
+ "userType": [""],
+ "pageCount":1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "",
+      "pageTitle": {
+        "english": "Video Center"
+     
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 12,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "The Video Center provides video files for you to use."
+           
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 18,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click on a video title to play a video file. It will play in a new tab in your browser. "
+          
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 24,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Use the controls to play and pause the video, change the volume and enter full-screen view."
+              }
+            }
+          
+          }
+        }
+      }
+    }    
