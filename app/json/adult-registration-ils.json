@@ -33,6 +33,7 @@
        
           
         },
+        "paragraphs":{
         "paragraph01": {
           "number": 1,
           "numberPosTop": 18,
@@ -57,9 +58,10 @@
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to go back to the previous page. "
-          }
-        } 
-      },	  
+           }
+         } 
+       }
+     },	  
 	"page03": {
       "pageType": "screenshot",
       "imgId": "",
@@ -67,14 +69,14 @@
         "english": "Enter your access code"
       
        },
+       "paragraphs":{
         "paragraph01": {
           "number": 1,
           "numberPosTop": 18,
           "numberPosLeft": 28,
           "text":{
             "english": "Enter the access code found on the inside front cover of your book."
-          }
-          
+            } 
         },
         "paragraph02": {
           "number": 2,
@@ -83,7 +85,8 @@
           "text":{
             "english": "Click “Enter."
           }
-        } 
+        }
+      }  
   },	  
 	"page04": {
       "pageType": "screenshot",
@@ -92,6 +95,7 @@
         "english": "Enter your details"
         
          },
+        "paragraphs":{
         "paragraph01": {
           "number": 1,
           "numberPosTop": 18,
@@ -156,7 +160,8 @@
           "text":{
             "english": "Click here to submit your information and go to the next page."
           }   
-        } 
+        }
+      }  
   },	  
 	"page05": {
       "pageType": "screenshot",
@@ -165,13 +170,14 @@
         "english": "Choose a level"
         
         },
+        "paragraphs":{
         "paragraph01": {
           "number": 1,
           "numberPosTop": 18,
           "numberPosLeft": 28,
           "text":{
             "english": "Click on your level to select it. It is very important to select the level that you will be using. Check the title to make sure it is your level. If you are using more than one level, you can add another level later by choosing “Add a level” from your Home screen. You will need a new access code to add a level. "
-          
+            
           }
         },
         "paragraph02": {
@@ -181,7 +187,8 @@
           "text":{
             "english": "Click here to go back to the previous page. "
           } 
-        }    
+        } 
+      }
   },	  
 	"page06": {
       "pageType": "screenshot",
@@ -190,6 +197,7 @@
         "english": "Enter your institution ID code"
         
         },
+        "paragraphs":{
         "paragraph01": {
           "number": 1,
           "numberPosTop": 18,
@@ -223,6 +231,7 @@
             "english": "Click here to submit your institution ID code and go to the next page. "
           }
         }
+      } 
   },	  
 	"page07": {
       "pageType": "screenshot",
@@ -231,6 +240,7 @@
         "english": "Save your registration information"
         
         },
+        "paragraphs":{
         "paragraph01": {
           "number": 1,
           "numberPosTop": 18,
@@ -259,4 +269,5 @@
           }
         }
       }
+    } 
 

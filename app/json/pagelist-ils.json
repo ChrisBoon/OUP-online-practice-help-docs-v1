@@ -4,34 +4,34 @@
     "title": {
       "english": "Registration"
     },
-    "id": "adult-teacher-registration-ils"
+    "id": "adult-registration-ils"
   },
   "item02":{
     "order":2,
     "title": {
       "english": "Home"
     },
-    "id": "adult-teacher-home-ils"
+    "id": "adult-home-ils"
   },
   "item03":{
     "order":3,
     "title": {
       "english": "Edit Profile"
     },
-    "id": "adult-teacher-editprofile-ils"
+    "id": "adult-editprofile-ils"
   },
   "item04":{
     "order":4,
     "title": {
       "english": "Audio Center"
     },
-    "id": "adult-teacher-audiocenter-ils"
+    "id": "adult-audiocenter-ils"
   },
   "item05":{
     "order":5,
     "title": {
       "english": "Video Center"
     },
-    "id": "adult-teacher-videocenter-ils"
+    "id": "adult-videocenter-ils"
   }
 }
