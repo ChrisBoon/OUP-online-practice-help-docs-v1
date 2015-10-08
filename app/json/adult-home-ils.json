@@ -10,7 +10,7 @@
     "pages": {
         "page01": {
             "pageType": "screenshot",
-            "imgId": "",
+            "imgId": "ASH001.jpg",
             "pageTitle": {
                 "english": "Choose your level"
             },
@@ -27,7 +27,7 @@
         },
         "page02": {
             "pageType": "screenshot",
-            "imgId": "",
+            "imgId": "ASH-ils-002.png",
             "pageTitle": {
                 "english": "Choose an Digital Download Center area"
             },
