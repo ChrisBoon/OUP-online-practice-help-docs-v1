@@ -26,7 +26,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 24,
+          "numberPosTop": 26,
           "numberPosLeft": 59,
           "text":{
             "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume. "
@@ -35,7 +35,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 24,
+          "numberPosTop": 26,
           "numberPosLeft": 85,
           "text":{
             "english": "Click on the download icon, if available, to download the entire audio track to your device."
