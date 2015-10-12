@@ -16,7 +16,7 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 12,
+          "numberPosTop": 16,
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to change your first name (given name)."
@@ -24,7 +24,7 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 18,
+          "numberPosTop": 26,
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to change your last name (family name)."
@@ -32,30 +32,22 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 24,
-          "numberPosLeft": 28,
-          "text":{
-            "english": "Click here to change your instituation name."
-          }
-        },
-        "paragraph04": {
-          "number": 4,
           "numberPosTop": 30,
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to change your email address. "
           }
         },
-        "paragraph05": {
-          "number": 5,
+        "paragraph04": {
+          "number": 4,
           "numberPosTop": 36,
           "numberPosLeft": 28,
           "text":{
             "english": "Click here to confirm your new email address. "
           }
         },
-        "paragraph06": {
-          "number": 6,
+        "paragraph05": {
+          "number": 5,
           "numberPosTop": 41,
           "numberPosLeft": 28,
           "text":{
@@ -63,8 +55,8 @@
           }
          
         },
-        "paragraph07": {
-          "number": 7,
+        "paragraph06": {
+          "number": 6,
           "numberPosTop": 48,
           "numberPosLeft": 28,
           "text":{
@@ -72,16 +64,16 @@
           }
          
         },
-        "paragraph08": {
-          "number": 8,
+        "paragraph07": {
+          "number": 7,
           "numberPosTop": 48,
           "numberPosLeft": 41,
           "text":{
             "english": "Click here to save your changes. "
           }
        },
-        "paragraph09": {
-          "number": 9,
+        "paragraph08": {
+          "number": 8,
           "numberPosTop": 48,
           "numberPosLeft": 41,
           "text":{

@@ -16,8 +16,8 @@
       },
       "paragraphs":{
         "paragraph01": {
-          "number": 1,
-          "numberPosTop": 12,
+          "number": 0,
+          "numberPosTop": -1,
           "numberPosLeft": 28,
           "text":{
             "english": "The Video Center provides video files for you to use."
@@ -26,8 +26,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 18,
-          "numberPosLeft": 28,
+          "numberPosTop": 28,
+          "numberPosLeft": 68,
           "text":{
             "english": "Click on a video title to play a video file. It will play in a new tab in your browser. "
           

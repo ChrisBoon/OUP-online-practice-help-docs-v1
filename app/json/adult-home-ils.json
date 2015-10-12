@@ -17,8 +17,8 @@
             "paragraphs": {
                 "paragraph01": {
                     "number": 1,
-                    "numberPosTop": 12,
-                    "numberPosLeft": 28,
+                    "numberPosTop": 11,
+                    "numberPosLeft": 1,
                     "text": {
                         "english": "When you enter Digital Download Center or click on the Home icon at the top of the screen you will see the levels of your course here. Choose the level you want to enter."
                     }
@@ -34,32 +34,32 @@
             "paragraphs": {
                 "paragraph01": {
                     "number": 1,
-                    "numberPosTop": 18,
-                    "numberPosLeft": 28,
+                    "numberPosTop": 5,
+                    "numberPosLeft": 73,
                     "text": {
                         "english": "Click here to change to a different level."
                     }
                 },
                 "paragraph02": {
                     "number": 2,
-                    "numberPosTop": 24,
-                    "numberPosLeft": 28,
+                    "numberPosTop": 14,
+                    "numberPosLeft": 11,
                     "text": {
                         "english": "Click here to view track lists."
                     }
                 },
                 "paragraph03": {
                     "number": 3,
-                    "numberPosTop": 30,
-                    "numberPosLeft": 28,
+                    "numberPosTop": 14,
+                    "numberPosLeft": 36,
                     "text": {
                         "english": "Click here to listen or download audio. "
                     }
                 },
                 "paragraph04": {
                     "number": 4,
-                    "numberPosTop": 36,
-                    "numberPosLeft": 28,
+                    "numberPosTop": 14,
+                    "numberPosLeft": 60,
                     "text": {
                         "english": "Click here to watch videos."
                     }
