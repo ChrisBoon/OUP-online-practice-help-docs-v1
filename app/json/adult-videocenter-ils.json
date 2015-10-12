@@ -5,7 +5,7 @@
   },
  "segment": "adult",
  "userType": [""],
- "pageCount":1,
+ "pageCount":2,
  "pages": {
     "page01": {
       "pageType": "screenshot",
@@ -32,9 +32,16 @@
             "english": "Click on a video title to play a video file. It will play in a new tab in your browser. "
           
           }
+          
+  },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "PTM002.png",
+      "pageTitle": {
+        "english": "",
         },
-        "paragraph03": {
-          "number": 3,
+        "paragraph01": {
+          "number": 1,
           "numberPosTop": 24,
           "numberPosLeft": 28,
           "text":{
@@ -45,4 +52,5 @@
           }
         }
       }
-    }    
+    }  
+  } 
