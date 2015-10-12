@@ -41,6 +41,7 @@
         "english": ""
         
         },
+        "paragraphs":{
         "paragraph01": {
           "number": 3,
           "numberPosTop": 24,
@@ -55,3 +56,4 @@
       }
     }  
   } 
+}    
