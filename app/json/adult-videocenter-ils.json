@@ -1,7 +1,6 @@
 {
   "title": {
     "english": "Video Center"
- 
   },
  "segment": "adult",
  "userType": [""],
@@ -32,7 +31,8 @@
             "english": "Click on a video title to play a video file. It will play in a new tab in your browser. "
           
           }
-          
+        }
+      }     
   },
     "page02": {
       "pageType": "screenshot",
@@ -41,19 +41,18 @@
         "english": ""
         
         },
-        "paragraph":{
+        "paragraphs":{
         "paragraph01": {
           "number": 3,
           "numberPosTop": 24,
           "numberPosLeft": 28,
           "text":{
             "english": "Use the controls to play and pause the video, change the volume and enter full-screen view."
-              }
-            }
+          }
+        }
           
           }
         }
       }
     }  
-  } 
-}    
+ 
