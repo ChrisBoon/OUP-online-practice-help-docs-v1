@@ -36,7 +36,7 @@
   },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "ASM-ils-002.png",
+      "imgId": "ASM002.jpg",
       "pageTitle": {
         "english": ""
         
@@ -44,8 +44,8 @@
         "paragraphs":{
         "paragraph01": {
           "number": 3,
-          "numberPosTop": 24,
-          "numberPosLeft": 28,
+          "numberPosTop": 80,
+          "numberPosLeft": 7,
           "text":{
             "english": "Use the controls to play and pause the video, change the volume and enter full-screen view."
           }
