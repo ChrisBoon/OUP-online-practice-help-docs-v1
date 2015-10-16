@@ -1,0 +1,37 @@
+{
+  "item01":{
+    "order":1,
+    "title": {
+      "english": "Registration"
+    },
+    "id": "adult-registration-ils"
+  },
+  "item02":{
+    "order":2,
+    "title": {
+      "english": "Home"
+    },
+    "id": "adult-home-ils"
+  },
+  "item03":{
+    "order":3,
+    "title": {
+      "english": "Edit Profile"
+    },
+    "id": "adult-editprofile-ils"
+  },
+  "item04":{
+    "order":4,
+    "title": {
+      "english": "Audio Center"
+    },
+    "id": "adult-audiocenter-ils"
+  },
+  "item05":{
+    "order":5,
+    "title": {
+      "english": "Video Center"
+    },
+    "id": "adult-videocenter-ils"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": {
+    "english": "Edit Profile"
+ 
+  },
+ "segment": "adult",
+ "userType": [""],
+ "pageCount":1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATEP001.png",
+      "pageTitle": {
+        "english": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 16,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to change your first name (given name)."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 26,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to change your last name (family name)."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 34,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to change your email address. "
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 44,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to confirm your new email address. "
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 52,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to change your password. "
+          }
+         
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 61,
+          "numberPosLeft": 28,
+          "text":{
+            "english": "Click here to confirm your new password."
+          }
+         
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 80,
+          "numberPosLeft": 38,
+          "text":{
+            "english": "Click here to save your changes. "
+          }
+       },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 80,
+          "numberPosLeft": 51,
+          "text":{
+            "english": "Click here to cancel without saving any changes. "
+          }
+        }
+      }
+    }
+  }
+}

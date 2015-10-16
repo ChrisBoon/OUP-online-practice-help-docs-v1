@@ -1,0 +1,50 @@
+{
+  "title": {
+    "english": "Audio Center"
+ 
+  },
+ "segment": "adult",
+ "userType": [""],
+ "pageCount":1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASM-ils-001.png",
+      "pageTitle": {
+        "english": ""
+     
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 0,
+          "numberPosLeft": -1,
+          "text":{
+            "english": "The Audio Center provides class audio files for you to use."
+           
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 26,
+          "numberPosLeft": 59,
+          "text":{
+            "english": "Click on an audio file title. An audio player will appear and play the audio. Use the arrow button to play and pause the track. Use the controls to move through the track and change the volume. "
+          
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 26,
+          "numberPosLeft": 85,
+          "text":{
+            "english": "Click on the download icon, if available, to download the entire audio track to your device."
+     
+          }
+          
+          }
+        }
+      }
+    }
+ }
+  
