@@ -25,6 +25,10 @@ angular.module('helpIndex.controllers', [])
        "link": "family_and_friends.html",
        "imgAsset": "help-doc-icon-faf2e-2x.png"
       },
+      {"name": "American Family and Friends 2nd Edition",
+       "link": "americanfamilyandfriends.html",
+       "imgAsset": "help-doc-icon-afaf2e-2x.png"
+      },
       {"name": "Super Stars",
        "link": "superstars.html",
        "imgAsset": "help-doc-icon-ss-2x.png"
