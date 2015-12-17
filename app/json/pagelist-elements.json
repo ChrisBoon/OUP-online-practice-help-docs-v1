@@ -587,6 +587,35 @@
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-student-editprofile-v1_0_0"
+         },
+      "item16":{
+        "order":16,
+        "title": {
+          "english": "Writing Tutor",
+          "turkish": "Özel Yazı Eğitmeni",
+          "korean": "(학생) 쓰기 튜터",
+          "spanish": "Tutor de escritura",
+          "japanese": "ライティングチューター",
+          "chinese": "寫作輔導",
+          "thai": "-",
+          "arabic": "معلم الكتابة الخصوصي"
+        },
+        "id": "adult-student-writingtutor-v1_0_0"  
+        
+        },
+      "item17":{
+        "order":17,
+        "title": {
+          "english": "Writing Tutor Reports",
+          "turkish": "Özel Yazı Eğitmeni Raporları",
+          "spanish": "Informes del Tutor de escritura",
+          "korean": "쓰기 튜터 보고서",
+          "japanese": "ライティングチューターレポート",
+          "chinese": "寫作輔導報告",
+          "thai": "-",
+          "arabic": "تقارير معلم الكتابة الخصوصي"
+        },
+        "id": "adult-student-writingtutorreport-v1_0_0"
       }
     }
   },
@@ -640,35 +669,7 @@
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-admin-editprofile-v1_0_0"
-      },
-      "item04":{
-        "order":4,
-        "title": {
-          "english": "Writing Tutor",
-          "turkish": "Özel Yazı Eğitmeni",
-          "korean": "(학생) 쓰기 튜터",
-          "spanish": "Tutor de escritura",
-          "japanese": "ライティングチューター",
-          "chinese": "寫作輔導",
-          "thai": "-",
-          "arabic": "معلم الكتابة الخصوصي"
-        },
-        "id": "adult-student-writingtutor-v1_0_0"  
-        
-        },
-      "item5":{
-        "order":5,
-        "title": {
-          "english": "Writing Tutor Reports",
-          "turkish": "Özel Yazı Eğitmeni Raporları",
-          "spanish": "Informes del Tutor de escritura",
-          "korean": "쓰기 튜터 보고서",
-          "japanese": "ライティングチューターレポート",
-          "chinese": "寫作輔導報告",
-          "thai": "-",
-          "arabic": "تقارير معلم الكتابة الخصوصي"
-        },
-        "id": "adult-student-writingtutorreport-v1_0_0"
+     
         
       }
     }
