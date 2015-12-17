@@ -335,6 +335,49 @@
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-teacher-editprofile-v1_0_0"
+         },
+      "item26":{
+        "order":26,
+        "title": {
+          "english": "Writing Tutor Reports",
+          "turkish": "Özel Yazı Eğitmeni Raporları",
+          "spanish": "Informes del Tutor de escritura",
+          "korean": "쓰기 튜터 보고서",
+          "japanese": "ライティングチューターレポート",
+          "chinese": "寫作輔導報告",
+          "thai": "-",
+          "arabic": " تقارير مدرس الكتابة الخصوصي"
+        },
+        "id": "adult-teacher-writingtutorreport-v1_0_0"
+      },
+      "item27":{
+        "order":27,
+        "title": {
+          "english": "Writing Tutor Teacher Feedback",
+          "turkish": "Özel Yazı Eğitmeni Öğretmen Geri Bildirimi",
+          "spanish": "Comentarios del maestro sobre el Tutor de escritura",
+          "korean": "쓰기 튜터 교사 피드백",
+          "japanese": "ライティングチューターの講師フィードバック",
+          "chinese": "寫作輔導教師回饋",
+          "thai": "-",
+          "arabic": "ملاحظات المدرس إلى معلم الكتابة الخصوصي"
+        },
+        "id": "adult-teacher-writingtutorfeedback-v1_0_0"
+          },
+      "item28":{
+        "order":28,
+        "title": {
+          "english": "Writing Tutor",
+          "turkish": "Özel Yazı Eğitmeni",
+          "spanish": "Tutor de escritura",
+          "korean": "쓰기 튜터",
+          "japanese": "ライティングチューター",
+          "chinese": "寫作輔導",
+          "thai": "-",
+          "arabic": "معلم الكتابة الخصوصي"
+        },
+        "id": "adult-teacher-writingtutor-v1_0_0"
+        
       }
     }
   },
@@ -544,6 +587,35 @@
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-student-editprofile-v1_0_0"
+         },
+      "item16":{
+        "order":16,
+        "title": {
+          "english": "Writing Tutor",
+          "turkish": "Özel Yazı Eğitmeni",
+          "korean": "(학생) 쓰기 튜터",
+          "spanish": "Tutor de escritura",
+          "japanese": "ライティングチューター",
+          "chinese": "寫作輔導",
+          "thai": "-",
+          "arabic": "معلم الكتابة الخصوصي"
+        },
+        "id": "adult-student-writingtutor-v1_0_0"  
+        
+        },
+      "item17":{
+        "order":17,
+        "title": {
+          "english": "Writing Tutor Reports",
+          "turkish": "Özel Yazı Eğitmeni Raporları",
+          "spanish": "Informes del Tutor de escritura",
+          "korean": "쓰기 튜터 보고서",
+          "japanese": "ライティングチューターレポート",
+          "chinese": "寫作輔導報告",
+          "thai": "-",
+          "arabic": "تقارير معلم الكتابة الخصوصي"
+        },
+        "id": "adult-student-writingtutorreport-v1_0_0"
       }
     }
   },
@@ -597,6 +669,8 @@
           "arabic": "تحرير الملف الشخصي"
         },
         "id": "adult-admin-editprofile-v1_0_0"
+     
+        
       }
     }
   }
