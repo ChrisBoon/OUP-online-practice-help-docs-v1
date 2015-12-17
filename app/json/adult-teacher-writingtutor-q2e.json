@@ -30,13 +30,13 @@
           "numberPosTop": 15,
           "numberPosLeft": 88,
           "text":{
-            "english": "Click here to select a different book.",
-            "turkish": "Başka bir kitap seçmek için buraya tıklayın.",
-            "spanish": "Haga clic aquí para seleccionar un libro diferente.",
+            "english": "Click here to select a different book. Writing Tutor is only available for Reading & Writing levels.",
+            "turkish": "Başka bir kitap seçmek için buraya tıklayın. Özel Yazı Eğitmeni yalnızca Okuma ve Yazma seviyeleri içindir.",
+            "spanish": "Haga clic aquí para seleccionar un libro diferente. El Tutor de escritura está disponible únicamente para los niveles de Lectura y Escritura. ",
             "korean": "다른 평점서를 선택하려면 여기를 클릭하십시오. 쓰기 튜터는 읽기 및 쓰기 수준에서만 이용이 가능합니다. ",
-            "chinese": "按一下這裡選取不同的書本。",
-            "japanese": "別の書籍を選択するには、こちらをクリックします。",
-            "arabic": "أنقر هنا لكي تختار كتاب مختلف"
+            "chinese": "按一下這裡選取不同的書本。「寫作輔導」只對「閱讀與寫作」層級提供。",
+            "japanese": "別の書籍を選択するには、こちらをクリックします。これはリーディングとライティングのレベルでのみ利用できます。",
+            "arabic": "أنقر هنا لكي تختار كتاب مختلف. معلم الكتابة الخصوصي متوفر لمستويات القراءة والكتابة."
           }
         },
         "paragraph02": {

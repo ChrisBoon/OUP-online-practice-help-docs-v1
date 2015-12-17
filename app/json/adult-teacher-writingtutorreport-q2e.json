@@ -44,13 +44,13 @@
           "numberPosTop": 7,
           "numberPosLeft": 97,
           "text":{
-            "english": "Select a specific class here.",
-            "turkish": "Buradan belirli bir sınıfı seçin.",
-            "spanish": "Seleccione una clase específica aquí.",
-            "korean":"여기서 특정 수업을 선택하십시오.",
-            "chinese": "在這裡選取一個班級。",
-            "japanese": "ここで特定のクラスを選択します。", 
-            "arabic": "أنقر هنا لكي تختار كتاب مختلف"
+            "english": "Select a specific class here. Writing Tutor Reports are only available for Reading and Writing levels.",
+            "turkish": "Buradan belirli bir sınıfı seçin. Özel Yazı Eğitmeni Raporları yalnızca Okuma ve Yazma seviyeleri için mevcuttur.",
+            "spanish": "Seleccione una clase específica aquí. Los informes del Tutor de escritura solo están disponibles para los niveles de Lectura y Escritura.",
+            "korean":"여기서 특정 수업을 선택하십시오. 쓰기 튜터 보고서는 읽기와 쓰기 수준에서만 이용이 가능합니다.",
+            "chinese": "在這裡選取一個班級。「寫作輔導報告」只對「閱讀與寫作」層級提供。",
+            "japanese": "ここで特定のクラスを選択します。ライティングチューターレポートは、リーディングとライティング) のレベルでのみ利用できます。", 
+            "arabic": "إختار صف خاص هنا. تقارير امدرس الكتابة الخصوصي متوفرة فقط لمستويات القراءة والكتابة."
           }
         },
         "paragraph03": {

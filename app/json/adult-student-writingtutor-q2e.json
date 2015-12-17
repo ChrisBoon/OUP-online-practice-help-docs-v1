@@ -2,19 +2,19 @@
  "title": {
     "english": "Writing Tutor",
     "turkish": "Özel Yazı Eğitmeni",
-    "spanish": "Tutor de escritura",
+    "spanish": "Tutor de Escritura",
     "korean": "쓰기 튜터",
     "chinese": "寫作輔導",
     "japanese": "ライティングチューター",
     "arabic": "معلم الكتابة الخصوصي"
   },
  "segment": "adult",
- "userType": ["teacher"],
+ "userType": ["student"],
  "pageCount": 3,
  "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "ATWT001.png",
+      "imgId": "ASWT001.png",
       "pageTitle": {
         "english": "Choose an Assignment",
         "turkish": "Bir Ödev seç",
@@ -27,22 +27,22 @@
       "paragraphs":{
         "paragraph01": {
           "number": 1,
-          "numberPosTop": 15,
-          "numberPosLeft": 88,
+          "numberPosTop": 7,
+          "numberPosLeft": 75,
           "text":{
-            "english": "Click here to select a different book.",
-            "turkish": "Başka bir kitap seçmek için buraya tıklayın.",
-            "spanish": "Haga clic aquí para seleccionar un libro diferente.",
-            "korean": "다른 평점서를 선택하려면 여기를 클릭하십시오. 쓰기 튜터는 읽기 및 쓰기 수준에서만 이용이 가능합니다. ",
-            "chinese": "按一下這裡選取不同的書本。",
-            "japanese": "別の書籍を選択するには、こちらをクリックします。",
-            "arabic": "أنقر هنا لكي تختار كتاب مختلف"
+            "english": "Click here to select a different book. Writing Tutor is only available for Reading & Writing levels.",
+            "turkish": "Başka bir kitap seçmek için buraya tıklayın. Özel Yazı Eğitmeni yalnızca Okuma ve Yazma seviyeleri içindir.",
+            "spanish": "Haga clic aquí para seleccionar un libro diferente. El Tutor de escritura está disponible únicamente para los niveles de Lectura y Escritura.",
+            "korean": "다른 평점서를 선택하려면 여기를 클릭하십시오. 쓰기 튜터는 읽기 및 쓰기 수준에서만 이용이 가능합니다.",
+            "chinese": "按一下這裡選取不同的書本。「寫作輔導」只對「閱讀與寫作」層級提供。",
+            "japanese": "別の書籍を選択するには、こちらをクリックします。これはリーディングとライティングのレベルでのみ利用できます。",
+            "arabic": "أنقر هنا لكي تختار كتاب مختلف. معلم الكتابة الخصوصي متوفر لمستويات القراءة والكتابة."
           }
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 33,
-          "numberPosLeft": 3,
+          "numberPosTop": 27,
+          "numberPosLeft": 18,
           "text":{
             "english": "This column lists the writing assignment names.",
             "turkish": "Bu sütun yazı ödevlerinin adlarını gösterir.",
@@ -55,8 +55,8 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 33,
-          "numberPosLeft": 44,
+          "numberPosTop": 31,
+          "numberPosLeft": 42,
           "text":{
             "english": "Click here to View a Model. It demonstrates the structure of the writing and it has a sample writing.",
             "turkish": "Bir Modeli Görmek için buraya tıklayın. Model, yazı türünün yapısını gösterir ve örnek bir yazı içerir.",
@@ -69,22 +69,22 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 33,
-          "numberPosLeft": 73,
+          "numberPosTop": 31,
+          "numberPosLeft": 72,
           "text":{
-            "english": "Click here to view where students write the assignment. The writing framework helps students organize their writing assignments.",
-            "turkish": "Öğrencilerin ödevi nerede yazacaklarını görmek için buraya tıklayın. Yazı çerçevesi, öğrencilerin yazı ödevlerini düzenlemelerine yardım eder.",
-            "spanish": "Haga clic aquí para ver dónde los estudiantes escriben la tarea. El marco de trabajo para escritura ayuda a los estudiantes a organizar sus tareas de escritura.",
-            "korean": "학생이 숙제를 어디에 쓰는지 보려면 여기를 클릭하십시오. 쓰기 체계는 학생이 쓰기 숙제를 정리할 때 도움이 됩니다.",
-            "chinese": "按一下這裡檢視學生撰寫作業之處。寫作架構可幫助學生組織其寫作作業。",
-            "japanese": "生徒がどこで課題文を書くかを見るには、こちらをクリックします。ライティングフレームワークは生徒が課題文を構成する上で役立ちます。",
-            "arabic": "أنقر هنا لكي ترى أين يكتب الطلاب الواجبات. هيكل الكتابة يساعد الطلاب لتنظيم واجباتهم الكتابية."
+            "english": "Click here to Write Your Essay. The writing framework helps you organize your writing assignments.",
+            "turkish": "Yazınızı yazmak için buraya tıklayın. Yazı çerçevesi yazı ödevlerinizi düzenlemenize yardım eder.",
+            "spanish": "Haga clic aquí para Escribir su ensayo. El marco de trabajo para escritura le ayuda a organizar sus tareas de escritura.",
+            "korean": "에세이를 쓰려면 여기를 클릭하십시오. 쓰기 체계는 쓰기 숙제를 정리할 때 도움이 됩니다.",
+            "chinese": "按一下這裡撰寫您的作文。寫作架構可幫助您組織您的寫作作業。",
+            "japanese": "モデルを見るにはこちらをクリックします。課題文の構成のデモンストレーションと文章例が表示されます。",
+            "arabic": "أنقر هنا لتكتب مقالتك. يساعدك هيكل الكتابة على تنظيم واجباتك الكتابية."
           }
         },
         "paragraph05": {
           "number": 5,
           "numberPosTop": 90,
-          "numberPosLeft": 2,
+          "numberPosLeft": 12,
           "text":{
             "english": "Click here to go back to the previous page.",
             "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
@@ -94,12 +94,26 @@
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي ترجع الى الصفحة السابقة."
           }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 90,
+          "numberPosLeft": 71,
+          "text":{
+            "english": "Click here to view Writing Tutor Reports.",
+            "turkish": "Raporları Özel Yazı Eğitmeni görmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para visualizar el Tutor de escritura del Informes.",
+            "korean": "쓰기 튜터 보고서를 보려면 여기를 클릭하십시오. ",
+            "chinese": "按一下此處檢視寫作輔導報告。",
+            "japanese": "ライティングチューターレポートを表示するにはこちらをクリックします。",
+            "arabic": "انقر هنا لعرض تقارير مدرس الكتابة الخصوصي."
+          }
         }
       }
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "ATWT002.jpg",
+      "imgId": "ASWT002.jpg",
       "pageTitle": {
         "english": "View a Model",
         "turkish": "Bir Modele Bak",
@@ -107,7 +121,7 @@
         "korean": "모델 보기",
         "chinese": "檢視模型",
         "japanese": "モデルを見る",
-        "arabic": "شاهد النموذج "
+        "arabic": "شاهد النموذج"
       },
       "paragraphs":{
         "paragraph01": {
@@ -129,31 +143,45 @@
           "numberPosTop": 7,
           "numberPosLeft": 93,
           "text":{
-            "english": "Click here to view where students write the assignment.",
-            "turkish": "Öğrencilerin ödevi nerede yazacaklarını görmek için buraya tıklayın.",
-            "spanish": "Haga clic aquí para ver dónde los estudiantes escriben la tarea.",
-            "korean": "학생이 숙제를 어디에 쓰는지 보려면 여기를 클릭하십시오.",
-            "chinese": "按一下這裡檢視學生撰寫作業之處。",
-            "japanese": "生徒がどこで課題文を書くかを見るには、こちらをクリックします。",
+            "english": "Click here to begin writing the assignment.",
+            "turkish": "Yazı ödevini yazmaya başlamak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para comenzar a escribir la tarea.",
+            "korean": "숙제 쓰기를 시작하려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡開始撰寫作業。",
+            "japanese": "課題文を書き始めるには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي ترى أين يكتب الطلاب الواجب."
           }
         },
         "paragraph03": {
           "number": 3,
+          "numberPosTop": 27,
+          "numberPosLeft": 26,
+          "text":{
+            "english": "Read tips about the assignment writing style here.",
+            "turkish": "Ödevin yazı tarzına ilişkin ipuçlarını burada okuyun.",
+            "spanish": "Lea aquí los consejos útiles acerca del estilo de escritura de la tarea.",
+            "korean": "여기서 숙제 쓰기 스타일에 대한 팁을 읽으십시오.",
+            "chinese": "在這裡閱讀關於作業撰寫風格的提示。",
+            "japanese": "ここで課題文のスタイルに関するヒントを読みます。",
+            "arabic": "راجع النموذج هنا لكي تستوعب كيف يتم بناء نصوص تخص واجب الكتابة."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
           "numberPosTop": 35,
           "numberPosLeft": 90,
           "text":{
             "english": "View the Model here to understand how texts are constructed for the writing assignment.",
             "turkish": "Yazı ödevindeki metinlerin nasıl yapılandığını anlamak için bir Modele burada bakın.",
             "spanish": "Vea el Modelo aquí para entender cómo se construyen los textos para la tarea de escritura.",
-            "korean":"쓰기 숙제에 대한 텍스트가 어떻게 구성되는지 이해하려면 여기서 모델을 보십시오.",
+            "korean": "쓰기 숙제에 대한 텍스트가 어떻게 구성되는지 이해하려면 여기서 모델을 보십시오.",
             "chinese": "在這裡檢視模型，從而理解該寫作作業的文字是如何構建的。",
             "japanese": "ここでモデルを見て、課題文の文章がどのように構成されているかを理解します。",
-            "arabic": "راجع النموذج هنا لكي تستوعب كيف يتم بناء نصوص تخص واجب الكتابة."
+            "arabic": "أنقر هنا لكي تخفي التنقل الأيسر."
           }
         },
-        "paragraph04": {
-          "number": 4,
+        "paragraph05": {
+          "number": 5,
           "numberPosTop": 26,
           "numberPosLeft": 22,
           "text":{
@@ -163,11 +191,11 @@
             "korean": "왼쪽 내비게이션을 숨기려면 여기를 클릭하십시오.",
             "chinese": "按一下這裡隱藏左邊的導航。",
             "japanese": "左側のナビゲーションを閉じるには、こちらをクリックします。",
-            "arabic": "أنقر هنا لكي تخفي التنقل الأيسر."
+            "arabic": "إستعمل المربعات أدناه لكي ترى كيفية تنظيم التركيب الجيد للكتابة."
           }
         },
-        "paragraph05": {
-          "number": 5,
+        "paragraph06": {
+          "number": 6,
           "numberPosTop": 29,
           "numberPosLeft": 6,
           "text":{
@@ -177,11 +205,11 @@
             "korean": "구조가 잘 짜여진 쓰기가 어떻게 구성되었는지 보려면 아래 네모칸들을 이용하십시오.",
             "chinese": "使用下面的方框查看構建良好的寫作是如何組織的。",
             "japanese": "下のボックスを使って、よく構成された文章がどのように整理されているかを見ます。",
-            "arabic": "إستعمل المربعات أدناه لكي ترى كيفية تنظيم التركيب الجيد للكتابة."
+            "arabic": "أنقر هنا لكي تقرأ عن أسلوب واجب الكتابة."
           }
         },
-        "paragraph06": {
-          "number": 6,
+        "paragraph07": {
+          "number": 7,
           "numberPosTop": 32,
           "numberPosLeft": 2,
           "text":{
@@ -191,11 +219,11 @@
             "korean": "숙제 쓰기 스타일에 대해 읽으려면 여기를 클릭하십시오.",
             "chinese": "按一下這裡閱讀作業撰寫風格。",
             "japanese": "課題文のスタイルについて読むには、こちらをクリックします。",
-            "arabic": "أنقر هنا لكي تقرأ عن أسلوب واجب الكتابة."
+            "arabic": "أنقر هنا لكي ترى كيف تم تخطيط نموذج الكتابة."
           }
         },
-        "paragraph07": {
-          "number": 7,
+        "paragraph08": {
+          "number": 8,
           "numberPosTop": 35,
           "numberPosLeft": 2,
           "text":{
@@ -205,11 +233,11 @@
             "korean": "쓰기 샘플이 어떻게 계획되었는지 보려면 여기를 클릭하십시오.",
             "chinese": "按一下這裡查看範文是如何計劃的。",
             "japanese": "文章例がどのように考案されているかを見るには、こちらをクリックします。",
-            "arabic": "أنقر هنا لكي ترى كيف تم تخطيط نموذج الكتابة."
+            "arabic": "أنقر هنا لترى نموذج الكتابة."
           }
         },
-        "paragraph08": {
-          "number": 8,
+        "paragraph09": {
+          "number": 9,
           "numberPosTop": 38.5,
           "numberPosLeft": 2,
           "text":{
@@ -222,8 +250,8 @@
             "arabic": "أنقر هنا لترى نموذج الكتابة."
           }
         },
-        "paragraph09": {
-          "number": 9,
+        "paragraph10": {
+          "number": 10,
           "numberPosTop": 42,
           "numberPosLeft": 2,
           "text":{
@@ -236,13 +264,13 @@
             "arabic": "أنقر هنا لترى النموذج بأكمله."
           }
         },
-        "paragraph10": {
-          "number": 10,
+        "paragraph11": {
+          "number": 11,
           "numberPosTop": 45,
           "numberPosLeft": 6,
           "text":{
             "english": "Click the boxes below to highlight specific structures in the sample essay. Each will highlight in a different color. Click again to hide.",
-            "turkish": "Örnek yazıdaki özel yapılara dikkati çekmek için aşağıdaki kutulara tıklayın. Her biri  değişik bir renk olacaktır. Gizlemek için tekrar tıklayın.",
+            "turkish": "Örnek yazıdaki özel yapılara dikkati çekmek için aşağıdaki kutulara tıklayın. Her biri  değişik bir renk olacaktır. Gizlemek için tekrar tıklayın. ",
             "spanish": "Haga clic en las casillas a continuación para resaltar estructuras específicas en el ensayo de ejemplo. Cada una resaltará en un color diferente. Haga clic para ocultar.",
             "korean": "샘플 에세이의 특정 구조에 하이라이트 표시를 하려면 아래 네모칸을 클릭하십시오. 각 구조마다 다른 색으로 하이라이트 표시가 됩니다. 숨기기를 하려면 다시 클릭하십시오.",
             "chinese": "按一下下面的方框即可反白顯示範文中的具體結構，分別有不同的顏色。再按一下即可隱藏。",
@@ -250,8 +278,8 @@
             "arabic": "أنقر على المربعات أدناه لكي تسلط الضوء على تراكيب خاصة في نموذج المقالة. كل واحد يسلط الضوء باستعمال لون مختلف. أنقر مرة أخرى للاخفاء."
           }
         },
-        "paragraph11": {
-          "number": 11,
+        "paragraph12": {
+          "number": 12,
           "numberPosTop": 95,
           "numberPosLeft": 6,
           "text":{
@@ -259,8 +287,8 @@
             "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
             "spanish": "Haga clic aquí para regresar a la página anterior.",
             "korean": "이전 페이지로 돌아가려면 여기를 클릭하십시오.",
-            "chinese": "按一下這裡回到前一頁。",
-            "japanese": "前のページに戻るには、こちらをクリックします。",
+            "chinese": "按一下這裡回到前一頁",
+            "japanese": " 前のページに戻るには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي ترجع الى الصفحة السابقة."
           }
         }
@@ -268,11 +296,11 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "ATWT003.jpg",
+      "imgId": "ASWT003.jpg",
       "pageTitle": {
-        "english": "Write the Assignment",
+        "english": "Write The Assignment",
         "turkish": "Ödevi Yaz",
-        "spanish": "Escriba la Tarea",
+        "spanish": "Escriba la tarea ",
         "korean": "숙제 쓰기",
         "chinese": "撰寫作業",
         "japanese": "課題文を書く",
@@ -286,8 +314,8 @@
           "text":{
             "english": "Read the writing assignment prompt here.",
             "turkish": "Yazı ödevi istemini burada okuyun.",
-            "spanish": "Lea aquí el indicador de tareas de escritura.",
-            "korean": "여기서 쓰기 숙제 메시지를 읽으십시오. ",
+            "spanish": "Lea aquí el indicador de tarea de escritura.",
+            "korean": "여기서 쓰기 숙제 메시지를 읽으십시오.",
             "chinese": "在這裡閱讀寫作作業提示。",
             "japanese": "ここで課題文についての指示を読みます。",
             "arabic": "إقرأ الحث على واجب الكتابة هنا."
@@ -301,7 +329,7 @@
             "english": "Click here to view the Model for this assignment.",
             "turkish": "Bu ödevin Modelini görmek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ver el Modelo para esta tarea.",
-            "korean": "이 숙제에 대한 모델을 보려면 여기를 클릭하십시오.",
+            "korean":  "이 숙제에 대한 모델을 보려면 여기를 클릭하십시오.",
             "chinese": "按一下這裡檢視這份作業的模型。",
             "japanese": "この課題のモデルを見るには、こちらをクリックします。",
             "arabic": "أنقرهنا لمراجعة النموذج المتعلق بهذا الواجب."
@@ -329,7 +357,7 @@
             "english": "Click here to hide the left navigation.",
             "turkish": "Sol gezinmeyi gizlemek için buraya tıklayın.",
             "spanish": "Haga clic aquí para ocultar la navegación izquierda.",
-            "korean": "왼쪽 내비게이션을 숨기려면 여기를 클릭하십시오. ",
+            "korean": "왼쪽 내비게이션을 숨기려면 여기를 클릭하십시오.",
             "chinese": "按一下這裡隱藏左邊的導航。",
             "japanese": "左側のナビゲーションを閉じるには、こちらをクリックします。",
             "arabic": "أنقر هنا لكي تخفي التنقل الأيسر."
@@ -354,13 +382,13 @@
           "numberPosTop": 38,
           "numberPosLeft": 90,
           "text":{
-            "english": "Students use the writing framework below to plan, structure, and write the assignment.",
-            "turkish": "Öğrenciler ödevi planlamak, yapısını tasarlamak ve yazmak için aşağıdaki yazı çerçevesini kullanırlar.",
-            "spanish": "Los estudiantes utilizan el marco de trabajo de escritura a continuación para planificar, estructurar y escribir la tarea.",
-            "korean": "학생은 아래의 쓰기 체계를 이용하여 숙제를 계획하고 조직화하고 쓰게 됩니다.",
-            "japanese": "生徒は下のライティングフレームワークを使用して、課題文の考案、構成、執筆を行います。",
-            "chinese": "學生使用寫作架構來計劃、構建及撰寫其作業。",
-            "arabic": "يستخدم الطلاب هيكل الكتابة أدناه من أجل التخطيط، التركيب وكتابة الواجبات."
+            "english": "Use the writing framework below to plan, structure, and write the assignment.",
+            "turkish": "Aşağıdaki yazı çerçevesini yazı ödevinizi planlamak, yapısını tasarlamak ve yazmak için kullanın.",
+            "spanish": "Use el marco de trabajo de escritura a continuación para planificar, estructurar y escribir la tarea.",
+            "korean": "아래의 쓰기 체계를 이용하여 숙제를 계획하고 구조화하고 쓰십시오.",
+            "chinese": "請使用寫作架構來計劃、構建及撰寫作業。",
+            "japanese": "下のライティングフレームワークを使って、課題文の考案、構成、執筆を行います。",
+            "arabic": "إستعمل هيكل الكتابة أدناه  لغرض التخطيط للواجب وهيكله، واكتبه."
           }
         },
         "paragraph07": {
@@ -368,13 +396,13 @@
           "numberPosTop": 42,
           "numberPosLeft": 2,
           "text":{
-            "english": "Students click here to write the assignment. Click again to hide.",
-            "turkish": "Öğrenciler ödevi yazmak için buraya tıklarlar. Gizlemek için tekrar tıklayın.",
-            "spanish": "Los estudiantes hacen clic aquí para escribir la tarea. Vuelva a hacer clic para ocultar.",
-            "korean": "학생이 숙제를 쓰려면 여기를 클릭합니다. 숨기기를 하려면 다시 클릭하십시오.",
-            "chinese": "學生按一下這裡即可撰寫作業。再按一下即可隱藏。",
-            "japanese": "生徒はこちらをクリックして課題文を書きます。もう一度クリックすると非表示になります。",
-            "arabic": "ينقر الطلاب هنا لكتابة الواجب. أنقر مرة أخرى للاخفاء."
+            "english": "Click here to write the assignment. Click again to hide.",
+            "turkish": "Yazıyı yazmak için buraya tıklayın. Gizlemek için tekrar tıklayın.",
+            "spanish": "Haga clic aquí para escribir la tarea. Vuelva a hacer clic para ocultar.",
+            "korean": "숙제를 쓰려면 여기를 클릭하십시오. 숨기기를 하려면 다시 클릭하십시오.",
+            "chinese": "按一下這裡撰寫作業。再按一下即可隱藏。",
+            "japanese": "課題文を書くにはこちらをクリックします。もう一度クリックすると非表示になります。",
+            "arabic": "أنقر هنا لتكتب الواجب. أنقر مرة أخرى لإخفائه."
           }
         },
         "paragraph08": {
@@ -382,13 +410,13 @@
           "numberPosTop": 43,
           "numberPosLeft": 26,
           "text":{
-            "english": "Students write the title of the assignment here.",
-            "turkish": "Öğrenciler ödevin başlığını burada yazarlar.",
-            "spanish": "Los estudiantes escriben el título de la tarea aquí.",
-            "korean": "학생은 여기에 숙제 제목을 씁니다.",
-            "chinese": "學生在這裡撰寫作業的標題。",
-            "japanese": "生徒はここに課題文の題名を書きます。",
-            "arabic": "يكتب الطلاب عنوان الواجب هنا."
+            "english": "Write the title of your assignment here.",
+            "turkish": "Ödevinizin başlığını buraya yazın.",
+            "spanish": "Escriba el título de su tarea aquí.",
+            "korean": "여기에 숙제 제목을 쓰십시오.",
+            "chinese": "在這裡撰寫作業的標題。",
+            "japanese": "ここに課題文の題名を書きます。",
+            "arabic": "أكتب عنوان واجبك هنا."
           }
         },
         "paragraph09": {
@@ -396,13 +424,13 @@
           "numberPosTop": 80,
           "numberPosLeft": 26,
           "text":{
-            "english": "Students write the assignment here.",
-            "turkish": "Öğrenciler ödevi burada yazarlar.",
-            "spanish": "Los estudiantes escriben la tarea aquí.",
-            "korean": "학생은 여기에 숙제를 씁니다.",
-            "chinese": "學生在這裡撰寫作業。",
-            "japanese": "生徒はここに課題文を書きます。",
-            "arabic": "يكتب الطلاب الواجب هنا."
+            "english": "Write the assignment here.",
+            "turkish": "Ödevinizi burada yazın.",
+            "spanish": "Escriba la tarea aquí.",
+            "korean": "여기에 숙제를 쓰십시오",
+            "chinese": "在這裡撰寫作業。",
+            "japanese": "ここに課題文を書きます。",
+            "arabic": "كتب الواجب هنا."
           }
         },
         "paragraph10": {
@@ -410,13 +438,13 @@
           "numberPosTop": 46,
           "numberPosLeft": 2,
           "text":{
-            "english": "Students click here to plan the writing and make notes. Click again to hide.",
-            "turkish": "Öğrenciler yazıyı planlamak ve not tutmak için buraya tıklarlar. Gizlemek için tekrar tıklayın.",
-            "spanish": "Los estudiantes hacen clic aquí para planificar la escritura y tomar notas. Vuelva a hacer clic para ocultar.",
-            "korean": "쓰기 계획을 세우고 메모를 하려는 학생은 여기를 클릭합니다. 숨기기를 하려면 다시 클릭하십시오.",
-            "chinese": "學生按一下這裡即可計劃其寫作並做筆記。再按一下即可隱藏。",
-            "japanese": "生徒はこちらをクリックして、文章を考案し、メモを取ります。もう一度クリックすると非表示になります。",
-            "arabic": "ينقر الطلاب هنا لوضع خطة للكتابة وتدوين الملاحظات. أنقر مرة أخرى للاخفاء."
+            "english": "Click here to plan the writing and make notes. Click again to hide.",
+            "turkish": "Yazıyı planlamak ve not tutmak için buraya tıklayın. Gizlemek için tekrar tıklayın.",
+            "spanish": "Haga clic aquí para planificar la escritura y tomar notas. Vuelva a hacer clic para ocultar.",
+            "korean": "쓰기 계획을 세우고 메모를 하려면 여기를 클릭하십시오. 숨기기를 하려면 다시 클릭하십시오.",
+            "chinese": "按一下這裡計劃寫作並做筆記。再按一下即可隱藏。",
+            "japanese": "文章を考案し、メモを取るには、こちらをクリックします。もう一度クリックすると非表示になります。",
+            "arabic": "أنقر هنا لوضع خطة للكتابة وتدوين الملاحظات. أنقر مرة أخرى للإخفاء."
           }
         },
         "paragraph11": {
@@ -438,13 +466,13 @@
           "numberPosTop": 53,
           "numberPosLeft": 2,
           "text":{
-            "english": "Students click here to preview the writing. Click again to exit preview.",
-            "turkish": "Öğrenciler yazının ön görüntüsü için buraya tıklarlar. Ön görüntüden çıkmak için tekrar tıklayın.",
-            "spanish": "Los estudiantes hacen clic aquí para visualizar previamente la escritura. Vuelva a hacer clic para salir de la vista previa.",
-            "korean": "쓰기를 미리보기 하려는 학생은 여기를 클릭합니다. 미리보기에서 나가기를 하려면 다시 클릭하십시오.",
-            "chinese": "學生按一下這裡即可預覽其寫作。再按一下即可結束預覽。",
-            "japanese": "生徒はこちらをクリックして、文章を見直します。再度クリックすると、見直しが終了します。",
-            "arabic": "ينقر الطلاب هنا لمعاينة الكتابة. أنقر مرة أخرى للخروج من المعانة."
+            "english": "Click here to preview the writing. Click again to exit preview.",
+            "turkish": "Yazının ön görüntüsü için buraya tıklayın. Ön görüntüden çıkmak için tekrar tıklayın.",
+            "spanish": "Haga clic aquí para visualizar previamente la escritura. Vuelva a hacer clic para salir de la vista previa.",
+            "korean": "쓰기를 미리보기 하려면 여기를 클릭하십시오. 미리보기에서 나가기를 하려면 다시 클릭하십시오.",
+            "chinese": "按一下這裡預覽寫作。再按一下即可結束預覽。",
+            "japanese": "文章を見直すには、こちらをクリックします。もう一度クリックすると見直しが終了します。",
+            "arabic": "أنقر هنا لمعاينة الكتابة مسبقاً. أنقر مرة أخرى للخروج من المعاينة المسبقة."
           }
         },
         "paragraph13": {
@@ -473,6 +501,76 @@
             "chinese": "按一下這裡反白顯示寫作中的所有「牛津3000字彙」單詞。",
             "japanese": "文章内の Oxford 3000 の語句をすべてハイライトするには、こちらをクリックします。",
             "arabic": "أنقر هنا لتسليط الضوء على جميع 3000 كلمات أوكسفورد Oxford في الكتابة."
+          }
+        },
+        "paragraph15": {
+          "number": 15,
+          "numberPosTop": 68,
+          "numberPosLeft": 2,
+          "text":{
+            "english": "Click here to save your assignment in the Writing Tutor.",
+            "turkish": "Ödevinizi Özel Yazı Eğitmeninde kaydetmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para guardar su tarea en el Tutor de escritura.",
+            "korean": "쓰기 튜터에 숙제를 저장하려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡保存您的作業到寫作輔導中。",
+            "japanese": "ライティングチューターに課題文を保存するには、こちらをクリックします。",
+            "arabic": "أنقر هنا لحفظ واجباتك في معلم الكتابة الخصوصي."
+          }
+        },
+        "paragraph16": {
+          "number": 16,
+          "numberPosTop": 72,
+          "numberPosLeft": 2,
+          "text":{
+            "english": "Click here to save your assignment in the Writing Tutor and to your computer.",
+            "turkish": "Ödevinizi Özel Yazı Eğitmeninde ve kendi bilgisayarınızda kaydetmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para guardar su tarea en el Tutor de escritura y en su computadora.",
+            "korean": "쓰기 튜터에 숙제를 저장하고 컴퓨터에 전송하려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡保存您的作業到寫作輔導中和您的電腦上。",
+            "japanese": "ライティングチューターとお使いのコンピュータに課題文を保存するには、こちらをクリックします。",
+            "arabic": "أنقر هنا لحفظ واجبك فيما يخص في معلم الكتابة الخصوصي وتحفظها في حاسوبك."
+          }
+        },
+        "paragraph17": {
+          "number": 17,
+          "numberPosTop": 76,
+          "numberPosLeft": 2,
+          "text":{
+            "english": "Click here to print your assignment.",
+            "turkish": "Ödevinizi yazdırmak için buraya tıklayın.",
+            "spanish": "Haga clic aquí para imprimir su tarea.",
+            "korean": "숙제를 인쇄하려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡列印您的作業。",
+            "japanese": "課題文を印刷するには、こちらをクリックします。",
+            "arabic": "أنقر لطباعة واجبك."
+          }
+        },
+        "paragraph18": {
+          "number": 18,
+          "numberPosTop": 80,
+          "numberPosLeft": 2,
+          "text":{
+            "english": "Click here to save your assignment in the Writing Tutor and send it to your teacher. No changes can be made to your assignment after you submit it.",
+            "turkish": "Ödevinizi Özel Yazı Eğitmeninde kaydetmek ve öğretmeninize göndermek için buraya tıklayın. Gönderdikten sonra ödevinizde değişiklik yapamazsınız.",
+            "spanish": "Haga clic aquí para guardar su tarea en el Tutor de escritura y enviarla a su maestro. No se pueden realizar cambios a su tarea después de presentarla.",
+            "korean": "쓰기 튜터에 숙제를 저장하고 숙제를 교사에게 전송하려면 여기를 클릭하십시오. 제출한 숙제는 수정할 수 없습니다.",
+            "chinese": "按一下這裡保存您的作業到寫作輔導中並傳送給您的教師。您不能更改已提交的作業。",
+            "japanese": "ライティングチューターに課題文を保存して、講師に提出するには、こちらをクリックします。いったん提出すると課題文を変更することはできません。",
+            "arabic": "أنقر هنا لحفظ واجبك في معلم الكتابة الخصوصي وأرسلها إلى مدرسك. لا يمكن إجراء تغييرات في واجبك بعد أن تقدمها."
+          }
+        },
+        "paragraph19": {
+          "number": 19,
+          "numberPosTop": 94,
+          "numberPosLeft": 6,
+          "text":{
+            "english": "Click here to go back to the previous page.",
+            "turkish": "Bir önceki sayfaya dönmek üzere buraya tıklayın.",
+            "spanish": "Haga clic aquí para regresar a la página anterior.",
+            "korean": "이전 페이지로 돌아가려면 여기를 클릭하십시오.",
+            "chinese": "按一下這裡回到前一頁。",
+            "japanese": " 前のページに戻るには、こちらをクリックします。",
+            "arabic": "أنقر هنا لكي ترجع الى الصفحة السابقة."
           }
         }
       }
