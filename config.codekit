@@ -1,7 +1,16 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19033",
+"creatorBuild": "19076",
 "files": {
+	"\/app\/americanfamilyandfriends.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/americanfamilyandfriends.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/css\/app.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -76,6 +85,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/icons\/help-doc-icon-afaf2e-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104517,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-afaf2e-2x.png",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-afaf2e-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/icons\/help-doc-icon-eng-2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -131,6 +151,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/app\/icons\/help-doc-icon-ils-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13237,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-ils-2x.png",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-ils-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/icons\/help-doc-icon-od-2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -160,6 +191,17 @@
 		"initialSize": 9205,
 		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-2x.png",
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/icons\/help-doc-icon-q2e-se-2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99370,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-se-2x.jpg",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-se-2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -494,6 +536,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/ASH-ils-002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33193,
+		"inputAbbreviatedPath": "\/app\/img\/ASH-ils-002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASH-ils-002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/ASH-q2e-002.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -527,6 +580,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/ASM-ils-001.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55325,
+		"inputAbbreviatedPath": "\/app\/img\/ASM-ils-001.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASM-ils-001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASM-ils-002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51284,
+		"inputAbbreviatedPath": "\/app\/img\/ASM-ils-002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASM-ils-002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/ASM001.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -534,6 +609,39 @@
 		"initialSize": 41615,
 		"inputAbbreviatedPath": "\/app\/img\/ASM001.png",
 		"outputAbbreviatedPath": "\/app\/img\/ASM001.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASM002.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50411,
+		"inputAbbreviatedPath": "\/app\/img\/ASM002.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/ASM002.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASR-ils-002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36670,
+		"inputAbbreviatedPath": "\/app\/img\/ASR-ils-002.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASR-ils-002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/ASR-ils-006.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9217,
+		"inputAbbreviatedPath": "\/app\/img\/ASR-ils-006.png",
+		"outputAbbreviatedPath": "\/app\/img\/ASR-ils-006.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2472,6 +2580,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/inside-ls.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/inside-ls.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/js\/app.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -2626,6 +2743,50 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/app\/json\/adult-audiocenter-ils.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-audiocenter-ils.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-audiocenter-ils-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-editprofile-ils.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-editprofile-ils.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-editprofile-ils-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-home-ils.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-home-ils.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-home-ils-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-registration-ils.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-registration-ils.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-registration-ils-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
 	"\/app\/json\/adult-student-activities-q2e.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -2842,6 +3003,17 @@
 		"inputAbbreviatedPath": "\/app\/json\/adult-student-teacherfeedback-v1_0_0.json",
 		"orderOutput": 0,
 		"outputAbbreviatedPath": "\/app\/json\/adult-student-teacherfeedback-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-student-writingtutor-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-student-writingtutor-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-student-writingtutor-q2e-min.json",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
@@ -3242,6 +3414,17 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/app\/json\/adult-teacher-writingtutor-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutor-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutor-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
 	"\/app\/json\/adult-teacher-writingtutor-v1_0_0.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -3264,6 +3447,17 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/app\/json\/adult-teacher-writingtutorreport-q2e.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorreport-q2e.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorreport-q2e-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
 	"\/app\/json\/adult-teacher-writingtutorreport-v1_0_0.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -3271,6 +3465,17 @@
 		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorreport-v1_0_0.json",
 		"orderOutput": 0,
 		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorreport-v1_0_0-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/adult-videocenter-ils.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/adult-videocenter-ils.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/adult-videocenter-ils-min.json",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
@@ -3304,6 +3509,17 @@
 		"inputAbbreviatedPath": "\/app\/json\/pagelist-eng.json",
 		"orderOutput": 0,
 		"outputAbbreviatedPath": "\/app\/json\/pagelist-eng-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/pagelist-ils.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-ils.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-ils-min.json",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
@@ -3979,1402 +4195,14 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/app\/json\/adult-admin-editprofile-v1_0_0.json": {
-		"fileType": 524288,
+	"\/app\/kit\/_appIndex-noAccordion.kit": {
+		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-admin-editprofile-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-admin-editprofile-v1_0_0-min.json",
+		"inputAbbreviatedPath": "\/app\/kit\/_appIndex-noAccordion.kit",
+		"outputAbbreviatedPath": "\/app\/_appIndex-noAccordion.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-admin-home-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-admin-home-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-admin-home-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-admin-home-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-admin-home-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-admin-home-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-admin-registration-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-admin-registration-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-admin-registration-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-activities-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-activities-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-activities-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-activities-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-activities-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-activities-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-addlevel-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-addlevel-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-addlevel-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-classchange-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-classchange-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-classchange-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-classjoin-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-classjoin-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-classjoin-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-dashboard-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-dashboard-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-dashboard-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-discussionboard-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-discussionboard-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-discussionboard-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-editprofile-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-editprofile-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-editprofile-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-email-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-email-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-email-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-glossary-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-glossary-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-glossary-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-home-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-home-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-home-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-home-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-home-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-home-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-media-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-media-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-media-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-media-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-media-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-media-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-registration-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-registration-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-registration-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-reportprogress-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-reportprogress-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-reportprogress-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-reportsegment-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-reportsegment-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-reportsegment-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-reportsegment-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-reportsegment-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-reportsegment-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-resources-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-resources-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-resources-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-teacherfeedback-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-teacherfeedback-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-teacherfeedback-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-writingtutor-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-writingtutor-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-writingtutor-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-student-writingtutorreport-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-student-writingtutorreport-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-student-writingtutorreport-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-activities-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-activities-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-activities-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-activities-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-activities-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-activities-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-addclass-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-addclass-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-addclass-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-addlevel-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-addlevel-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-addlevel-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-classdetails-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-classdetails-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-classdetails-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-classeditname-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-classeditname-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-classeditname-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-contentassign-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-contentassign-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-contentassign-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-contentassign-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-contentassign-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-contentassign-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-dashboard-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-dashboard-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-dashboard-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-discussionboard-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-discussionboard-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-discussionboard-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-editprofile-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-editprofile-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-editprofile-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-email-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-email-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-email-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-enteronlinepractice-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-enteronlinepractice-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-enteronlinepractice-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-glossary-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-glossary-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-glossary-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-home-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-home-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-home-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-home-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-home-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-home-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-joininstitution-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-joininstitution-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-joininstitution-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-manageattempts-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-manageattempts-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-manageattempts-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-manageattempts-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-manageattempts-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-manageattempts-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-manageclasses-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-manageclasses-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-manageclasses-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-manageclasses-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-manageclasses-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-manageclasses-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-manualgradedactivity-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-manualgradedactivity-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-manualgradedactivity-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-media-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-media-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-media-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-media-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-media-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-media-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-registration-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-registration-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-registration-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-reportclass-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportclass-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportclass-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-reportclasssummary-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportclasssummary-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportclasssummary-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-reportsegment-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportsegment-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportsegment-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-reportsegment-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportsegment-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportsegment-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-reportstudent-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportstudent-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportstudent-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-reportstudentactivity-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportstudentactivity-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportstudentactivity-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-reportunit-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportunit-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportunit-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-reportunit-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-reportunit-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-reportunit-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-resources-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-resources-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-resources-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-writingtutor-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutor-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutor-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-writingtutorfeedback-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorfeedback-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorfeedback-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/adult-teacher-writingtutorreport-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorreport-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/adult-teacher-writingtutorreport-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/pagelist-adult-docs.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/pagelist-adult-docs.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/pagelist-adult-docs-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/pagelist-elements.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/pagelist-elements.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/pagelist-elements-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/pagelist-eng.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/pagelist-eng.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/pagelist-eng-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/pagelist-primary_docs.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/pagelist-primary_docs.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/pagelist-primary_docs-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/pagelist-primary_v1.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/pagelist-primary_v1.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/pagelist-primary_v1-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/pagelist-q2e.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/pagelist-q2e.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/pagelist-q2e-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/pagelist-t2t.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/pagelist-t2t.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/pagelist-t2t-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-admin-editprofile-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-admin-editprofile-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-admin-editprofile-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-admin-home-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-admin-home-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-admin-home-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-admin-registration-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-admin-registration-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-admin-registration-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-error.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-error.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-error-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-activities-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-activities-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-activities-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-activities-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-activities-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-activities-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-addlevel-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-addlevel-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-addlevel-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-addlevel-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-addlevel-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-addlevel-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-classchange-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-classchange-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-classchange-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-classjoin-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-classjoin-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-classjoin-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-dashboard-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-dashboard-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-dashboard-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-editprofile-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-editprofile-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-editprofile-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-email-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-email-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-email-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-forum-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-forum-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-forum-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-glossary-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-glossary-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-glossary-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-home-eng.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-home-eng.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-home-eng-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-home-t2t.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-home-t2t.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-home-t2t-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-home-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-home-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-home-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-media-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-media-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-media-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-media-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-media-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-media-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-registration-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-registration-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-registration-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-registration-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-registration-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-registration-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-reportprogress-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-reportprogress-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-reportprogress-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-reportprogress-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-reportprogress-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-reportprogress-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-reportunit-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-reportunit-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-reportunit-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-reportunit-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-reportunit-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-reportunit-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-student-resources-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-student-resources-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-student-resources-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-activities-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-activities-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-activities-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-activities-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-activities-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-activities-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-addclass-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-addclass-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-addclass-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-addlevel-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-addlevel-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-addlevel-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-classdetails-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-classdetails-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-classdetails-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-classeditname-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-classeditname-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-classeditname-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-contentassign-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-contentassign-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-contentassign-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-dashboard-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-dashboard-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-dashboard-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-editprofile-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-editprofile-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-editprofile-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-email-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-email-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-email-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-enteronlinepractice-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-enteronlinepractice-t2t.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-t2t.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-t2t-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-enteronlinepractice-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-enteronlinepractice-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-forum-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-forum-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-forum-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-glossary-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-glossary-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-glossary-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-home-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-home-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-home-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-joininstitution-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-joininstitution-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-joininstitution-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-manageclasses-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-manageclasses-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-manageclasses-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-media-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-media-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-media-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-media-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-media-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-media-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-registration-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-registration-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-registration-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-registration-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-registration-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-registration-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-reportclass-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportclass-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportclass-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-reportclasssummary-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportclasssummary-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportclasssummary-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-reportlesson-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportlesson-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportlesson-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-reportstudent-sec.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudent-sec.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudent-sec-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-reportstudent-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudent-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudent-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-reportstudentactivity-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudentactivity-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportstudentactivity-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-reportunit-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-reportunit-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-reportunit-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/primary-teacher-resources-v1_0_0.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/primary-teacher-resources-v1_0_0.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/primary-teacher-resources-v1_0_0-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputPathIsSetByUser": 0
 		},
 	"\/app\/kit\/_appIndex.kit": {
 		"fileType": 2048,
@@ -5382,6 +4210,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/_appIndex.kit",
 		"outputAbbreviatedPath": "\/app\/_appIndex.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/kit\/americanfamilyandfriends.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/kit\/americanfamilyandfriends.kit",
+		"outputAbbreviatedPath": "\/app\/americanfamilyandfriends.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -5439,6 +4276,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/app\/kit\/inside-ls.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/kit\/inside-ls.kit",
+		"outputAbbreviatedPath": "\/app\/inside-ls.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/kit\/master-adult.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -5454,6 +4300,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/master-primary.kit",
 		"outputAbbreviatedPath": "\/app\/master-primary.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/kit\/q2e-se.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/kit\/q2e-se.kit",
+		"outputAbbreviatedPath": "\/app\/q2e-se.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -5511,6 +4366,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/partials\/faq-ils.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/partials\/faq-ils.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/partials\/faq-primary.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5538,11 +4402,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/partials\/welcome-ils.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/partials\/welcome-ils.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/partials\/welcome-primary.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/partials\/welcome-primary.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/q2e-se.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/q2e-se.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6413,10 +5295,6 @@
 			}
 		},
 	"jsLintFlags2": {
-		"ass": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -6425,15 +5303,7 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"closure": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"continue": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"debug": {
+		"couch": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -6441,75 +5311,27 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"eqeq": {
+		"es6": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"evil": {
+		"eval": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"forin": {
+		"for": {
 			"active": 0,
 			"flagValue": -1
-			},
-		"indent": {
-			"active": 0,
-			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
-		"newcap": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"nomen": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"plusplus": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"properties": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"regexp": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"rhino": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sloppy": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"stupid": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sub": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"todo": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"unparam": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"vars": {
+		"this": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -6610,7 +5432,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,

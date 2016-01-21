@@ -84,94 +84,15 @@ ng-click="firstTimeSet()"
         is-open="status.open"
         >
           <!-- Use a CodeKit loop here once released -->
-          <accordion-heading ng-if="language.language == 'english'">
-            {{user.userType.english}}
+          <accordion-heading>
+          <div ng-class="{'rtl': language.language==='arabic'}">{{user.userType[language.language]}}</div>
+
             <span 
             class="accordion-toggle__arrow" 
             ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
             >
             </span>
-          </accordion-heading>
 
-          <accordion-heading ng-if="language.language == 'turkish'">
-            {{user.userType.turkish}}
-            <span 
-            class="accordion-toggle__arrow" 
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
-            >
-            </span>
-          </accordion-heading>
-
-          <accordion-heading ng-if="language.language == 'spanish'">
-            {{user.userType.spanish}}
-            <span 
-            class="accordion-toggle__arrow"
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
-            >
-            </span>
-          </accordion-heading>
-
-          <accordion-heading ng-if="language.language == 'spanish_la'">
-            {{user.userType.spanish_la}}
-            <span 
-            class="accordion-toggle__arrow"
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
-            >
-            </span>
-          </accordion-heading>
-
-          <accordion-heading ng-if="language.language == 'portuguese'">
-            {{user.userType.portuguese}}
-            <span 
-            class="accordion-toggle__arrow"
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
-            >
-            </span>
-          </accordion-heading>
-
-          <accordion-heading ng-if="language.language == 'japanese'">
-            {{user.userType.japanese}}
-            <span 
-            class="accordion-toggle__arrow"
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
-            >
-            </span>
-          </accordion-heading>
-
-          <accordion-heading ng-if="language.language == 'chinese'">
-            {{user.userType.chinese}}
-            <span 
-            class="accordion-toggle__arrow"
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
-            >
-            </span>
-          </accordion-heading>
-
-          <accordion-heading ng-if="language.language == 'thai'">
-            {{user.userType.thai}}
-            <span 
-            class="accordion-toggle__arrow"
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
-            >
-            </span>
-          </accordion-heading>
-
-          <accordion-heading ng-if="language.language == 'korean'">
-            {{user.userType.korean}}
-            <span 
-            class="accordion-toggle__arrow"
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
-            >
-            </span>
-          </accordion-heading>
-
-          <accordion-heading ng-if="language.language == 'arabic'">
-            <div class="rtl">{{user.userType.arabic}}</div>
-            <span 
-            class="accordion-toggle__arrow"
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
-            >
-            </span>
           </accordion-heading>
 
           <ul class="help-menu__user__list">
@@ -182,85 +103,13 @@ ng-click="firstTimeSet()"
 
               <!-- Use a CodeKit loop here once released -->
               <a 
-              ng-if="language.language == 'english'"
               ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
+              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id, 'rtl': language.language==='arabic'} "
               class="help-menu__option"
               >
-                {{listitem.title.english}}
+                {{listitem.title[language.language]}}
               </a>
-              <a 
-              ng-if="language.language == 'turkish'"
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option"
-              >
-                {{listitem.title.turkish}}
-              </a>
-              <a 
-              ng-if="language.language == 'spanish'"
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option"
-              >
-                {{listitem.title.spanish}}
-              </a>
-              <a 
-              ng-if="language.language == 'spanish_la'"
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option"
-              >
-                {{listitem.title.spanish_la}}
-              </a>
-              <a 
-              ng-if="language.language == 'portuguese'"
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option"
-              >
-                {{listitem.title.portuguese}}
-              </a>
-              <a 
-              ng-if="language.language == 'japanese'"
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option"
-              >
-                {{listitem.title.japanese}}
-              </a>
-              <a 
-              ng-if="language.language == 'chinese'"
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option"
-              >
-                {{listitem.title.chinese}}
-              </a>
-              <a 
-              ng-if="language.language == 'thai'"
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option"
-              >
-                {{listitem.title.thai}}
-              </a>
-              <a 
-              ng-if="language.language == 'korean'"
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option"
-              >
-                {{listitem.title.korean}}
-              </a>
-              <a 
-              ng-if="language.language == 'arabic'"
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id}"
-              class="help-menu__option rtl"
-              >
-                {{listitem.title.arabic}}
-              </a>
+              
             </li>
           </ul>
         </accordion-group>
