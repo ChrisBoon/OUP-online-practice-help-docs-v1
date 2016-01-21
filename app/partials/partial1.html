@@ -1,92 +1,21 @@
 <div class="help-doc {{language.language}}">
-  <!-- Use a CodeKit loop here once released -->
-  <h1 ng-if="language.language == 'english'" 
-      class="help-doc__title">
-    {{helpdoc.title.english}}
-  </h1>
-  <h1 ng-if="language.language == 'turkish'" 
-      class="help-doc__title">
-    {{helpdoc.title.turkish}}
-  </h1>
-  <h1 ng-if="language.language == 'spanish'"
-      class="help-doc__title">
-    {{helpdoc.title.spanish}}
-  </h1>
-  <h1 ng-if="language.language == 'spanish_la'"
-      class="help-doc__title">
-    {{helpdoc.title.spanish_la}}
-  </h1>
-  <h1 ng-if="language.language == 'portuguese'"
-      class="help-doc__title">
-    {{helpdoc.title.portuguese}}
-  </h1>
-  <h1 ng-if="language.language == 'japanese'"
-      class="help-doc__title">
-    {{helpdoc.title.japanese}}
-  </h1>
-  <h1 ng-if="language.language == 'chinese'"
-      class="help-doc__title">
-    {{helpdoc.title.chinese}}
-  </h1>
-  <h1 ng-if="language.language == 'thai'"
-      class="help-doc__title">
-    {{helpdoc.title.thai}}
-  </h1>
-  <h1 ng-if="language.language == 'korean'"
-      class="help-doc__title">
-    {{helpdoc.title.korean}}
-  </h1>
-  <h1 ng-if="language.language == 'arabic'"
-      class="help-doc__title rtl">
-    {{helpdoc.title.arabic}}
+  <h1
+     class="help-doc__title"
+     ng-class="{'rtl': language.language==='arabic'}"
+  >
+    {{helpdoc.title[language.language]}}
   </h1>
 
   <div ng-repeat="page in helpdoc.pages"
        class="help-doc__page"
        ng-controller="MyCtrl2">
 
-    <!-- Use a CodeKit loop here once released -->
-    <h2 class="help-doc__page__title"
-        ng-if="language.language == 'english'">
-      {{page.pageTitle.english}}
+    <h2
+      class="help-doc__page__title"
+      ng-class="{'rtl': language.language==='arabic'}"
+    >
+      {{page.pageTitle[language.language]}}
     </h2>
-    <h2 class="help-doc__page__title"
-        ng-if="language.language == 'turkish'">
-      {{page.pageTitle.turkish}}
-    </h2>
-    <h2 class="help-doc__page__title"
-        ng-if="language.language == 'spanish'">
-      {{page.pageTitle.spanish}}
-    </h2>
-    <h2 class="help-doc__page__title"
-        ng-if="language.language == 'spanish_la'">
-      {{page.pageTitle.spanish_la}}
-    </h2>
-    <h2 class="help-doc__page__title"
-        ng-if="language.language == 'portuguese'">
-      {{page.pageTitle.portuguese}}
-    </h2>
-    <h2 class="help-doc__page__title"
-        ng-if="language.language == 'japanese'">
-      {{page.pageTitle.japanese}}
-    </h2>
-    <h2 class="help-doc__page__title"
-        ng-if="language.language == 'chinese'">
-      {{page.pageTitle.chinese}}
-    </h2>
-    <h2 class="help-doc__page__title"
-        ng-if="language.language == 'thai'">
-      {{page.pageTitle.thai}}
-    </h2>
-    <h2 class="help-doc__page__title"
-        ng-if="language.language == 'korean'">
-      {{page.pageTitle.korean}}
-    </h2>
-    <h2 class="help-doc__page__title rtl"
-        ng-if="language.language == 'arabic'">
-      {{page.pageTitle.arabic}}
-    </h2>
-    
 
     <!-- start if screenshot -->
     <div ng-if="page.pageType == 'screenshot'"
@@ -115,46 +44,11 @@
              ng-class="{'help-doc__page__paragraph--numbered--focus': focus.focussed===para.number}">
           <div class="help-doc__page__paragraph--numbered__number">{{para.number}}</div>
 
-          <!-- Use a CodeKit loop here once released -->
-          <p ng-if="language.language == 'english'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.english}}
-          </p>
-          <p ng-if="language.language == 'turkish'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.turkish}}
-          </p>
-          <p ng-if="language.language == 'spanish'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.spanish}}
-          </p>
-          <p ng-if="language.language == 'spanish_la'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.spanish_la}}
-          </p>
-          <p ng-if="language.language == 'portuguese'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.portuguese}}
-          </p>
-          <p ng-if="language.language == 'japanese'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.japanese}}
-          </p>
-          <p ng-if="language.language == 'chinese'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.chinese}}
-          </p>
-          <p ng-if="language.language == 'thai'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.thai}}
-          </p>
-          <p ng-if="language.language == 'korean'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text">
-            {{para.text.korean}}
-          </p>
-          <p ng-if="language.language == 'arabic'"
-             class="help-doc__page__text help-doc__page__paragraph--numbered__text rtl">
-            {{para.text.arabic}}
+          <p
+            class="help-doc__page__text help-doc__page__paragraph--numbered__text"
+            ng-class="{'rtl': language.language==='arabic'}"
+          >
+            {{para.text[language.language]}}
           </p>
           
         </div>
@@ -172,54 +66,9 @@
       <div class="error-page__segment">
       <!-- Use a CodeKit loop here once released -->
 
-        <div ng-if="language.language == 'english'">
-          <p>{{page.content.thing01.text.english}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.english}}</a>
-        </div>
-
-        <div ng-if="language.language == 'turkish'">
-          <p>{{page.content.thing01.text.turkish}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.turkish}}</a>
-        </div>
-
-        <div ng-if="language.language == 'spanish'">
-          <p>{{page.content.thing01.text.spanish}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.spanish}}</a>
-        </div>
-
-        <div ng-if="language.language == 'spanish_la'">
-          <p>{{page.content.thing01.text.spanish_la}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.spanish_la}}</a>
-        </div>
-
-        <div ng-if="language.language == 'portuguese'">
-          <p>{{page.content.thing01.text.portuguese}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.portuguese}}</a>
-        </div>
-
-        <div ng-if="language.language == 'japanese'">
-          <p>{{page.content.thing01.text.japanese}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.japanese}}</a>
-        </div>
-
-        <div ng-if="language.language == 'chinese'">
-          <p>{{page.content.thing01.text.chinese}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.chinese}}</a>
-        </div>
-
-        <div ng-if="language.language == 'thai'">
-          <p>{{page.content.thing01.text.thai}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.thai}}</a>
-        </div>
-
-        <div ng-if="language.language == 'korean'">
-          <p>{{page.content.thing01.text.korean}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.korean}}</a>
-        </div>
-
-        <div ng-if="language.language == 'arabic'" class="rtl">
-          <p>{{page.content.thing01.text.arabic}}</p>
-          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text.arabic}}</a>
+        <div ng-class="{'rtl': language.language==='arabic'}">
+          <p>{{page.content.thing01.text[language.language]}}</p>
+          <a class="link-to-home" ng-click="go('')">{{page.content.thing02.text[language.language]}}</a>
         </div>
 
       </div>
