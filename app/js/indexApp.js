@@ -33,6 +33,10 @@ angular.module('helpIndex.controllers', [])
        "link": "superstars.html",
        "imgAsset": "help-doc-icon-ss-2x.png"
       },
+      {"name": "Shine On!",
+       "link": "shine_on.html",
+       "imgAsset": "help-doc-icon-so-2x.jpg"
+      },
       {"name": "Teen2Teen Plus",
        "link": "teen2teen_plus.html",
        "imgAsset": "help-doc-icon-t2t-2x.jpg"
