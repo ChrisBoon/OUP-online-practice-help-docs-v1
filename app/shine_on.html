@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Shine On! Online Practice: Help</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--Android 5.0 header/status bar color-->  
+  <meta name="theme-color" content="#002147">
+  <link rel="stylesheet" href="css/app.css"/>
+
+  <script src="js/libraries/fastclick.min.js"></script>
+ 
+  <script src="js/libraries/angular.min.js"></script>
+  <script src="js/libraries/angular-route.min.js"></script>
+  <script src="js/libraries/angular-touch.min.js"></script>
+  <script src="js/libraries/angular-animate.min.js"></script>
+
+
+  <script src="js/ui-bootstrap-custom-tpls-0.10.0.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/controllers.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <script>
+  opHelpGlobals = {
+    config:{
+      homePage:"primary",
+      bodyClass: "primary",
+      currentCourse: "so",
+      pagelist: "primary_v1",
+      currentCourseTitle: "Shine On!",
+      courseLanguages: ['English','Portuguese']    }
+  }
+
+  var runFastClick = function() {
+    FastClick.attach(document.body);
+  }
+  runFastClick();
+  </script>
+</head>
+<body 
+ng-controller="MyCtrl1"
+ng-init="getLang();firstTimeCheck()"
+class="ng-cloak course-home primary"
+ng-click="firstTimeSet()"
+>
+  <!--[if lt IE 9]>
+      <div class="oldie-message">
+        <p class="oldie-message__p">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="update-browser-link">upgrade your browser</a> to access Online Practice.</p>
+        <p class="oldie-message__p">Online Practice is supported on the following desktop browsers: Chrome 31+, Firefox 25+, Safari 7.0.2+, IE9+</p>
+        <p class="oldie-message__p">Online Practice works on mobile too - iOS6+ (Safari) and Android 4.0+ (Chrome).</p>
+      </div>
+  <![endif]-->
+  <div 
+  class="slide-out-drawer slide-out-drawer--left slide-out-drawer--nav"
+  ng-show="openDrawer.open"
+  ng-swipe-left="openDrawer.open=false"
+  >
+    <div class="help-menu">
+
+    <a 
+    ng-click="openDrawer.open=false;obj.value1='/';go('')"
+    ng-class="{'help-menu__option--active': obj.value1 === '/'}"
+    class="help-menu__option--home"
+    >
+      <span ng-if="language.language == 'english'">Welcome</span>
+      <span ng-if="language.language == 'turkish'">Hoşgeldiniz</span>
+      <span ng-if="language.language == 'spanish'">Bienvenido</span>
+      <span ng-if="language.language == 'spanish_la'">Bienvenido</span>
+      <span ng-if="language.language == 'portuguese'">Bem-vindo</span>
+      <span ng-if="language.language == 'japanese'">ようこそ</span>
+      <span ng-if="language.language == 'chinese'">歡迎</span>
+      <span ng-if="language.language == 'thai'">ยินดีต้อนรับ</span>
+      <span ng-if="language.language == 'korean'">환영합니다</span>        
+      <span ng-if="language.language == 'arabic'" class="rtl">مرحبًا بكم</span>
+    </a>
+
+      <accordion close-others="oneAtATime">
+        <accordion-group 
+        ng-repeat="user in helpmenu" 
+        ng-init="status.open = false" 
+        is-open="status.open"
+        >
+          <!-- Use a CodeKit loop here once released -->
+          <accordion-heading>
+          <div ng-class="{'rtl': language.language==='arabic'}">{{user.userType[language.language]}}</div>
+
+            <span 
+            class="accordion-toggle__arrow" 
+            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
+            >
+            </span>
+
+          </accordion-heading>
+
+          <ul class="help-menu__user__list">
+            <li
+            ng-repeat="listitem in user.docsList"
+            class="help-menu__user__list-item"
+            >
+
+              <!-- Use a CodeKit loop here once released -->
+              <a 
+              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
+              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id, 'rtl': language.language==='arabic'} "
+              class="help-menu__option"
+              >
+                {{listitem.title[language.language]}}
+              </a>
+              
+            </li>
+          </ul>
+        </accordion-group>
+      </accordion>
+    <a 
+    ng-click="openDrawer.open=false;obj.value1='/faq';go('/faq')"
+    ng-class="{'help-menu__option--active': obj.value1 === '/faq'}"
+    class="help-menu__option--home"
+    >
+      <span ng-if="language.language == 'english'">FAQ</span>
+      <span ng-if="language.language == 'turkish'">SSS</span>
+      <span ng-if="language.language == 'spanish'">Preguntas Frecuentes</span>
+      <span ng-if="language.language == 'spanish_la'">Preguntas Frecuentes</span>
+      <span ng-if="language.language == 'portuguese'">FAQ</span>
+      <span ng-if="language.language == 'japanese'">よくある質問</span>
+      <span ng-if="language.language == 'chinese'">常見問答</span>
+      <span ng-if="language.language == 'thai'">ปัญหาที่พบบ่อย</span>
+      <span ng-if="language.language == 'korean'">자주 묻는 질문</span>
+      <span ng-if="language.language == 'arabic'" class="rtl"> الأسئلة المتكررة</span>
+    </a>      
+    </div>
+  </div>
+
+  <div class="content-container">
+    <div class="site-header">
+      <div class="language-choice-container">
+        <div 
+        class="language-choice-toggle {{language.language}}"
+        ng-class="{'language-choice-toggle--open': openDrawer.openLanguage === true}"
+        ng-if="appLanguages.length > 1"
+        ng-click="openDrawer.openLanguage = !openDrawer.openLanguage"
+        >
+          <span class="language-chosen__container language-chosen__container--{{language.language}}">
+            <span class="language-chosen--english">{{language.language}}</span>
+          </span>
+        </div>
+        <div 
+        class="menu menu--language"
+        ng-show="openDrawer.openLanguage"
+        ng-if="appLanguages.length > 1"
+        >
+          <ul class="language-choice__list">
+            <li 
+            class="language-choice__list__item"
+            ng-repeat="appLang in appLanguages"
+            ng-click="language.language = appLang.toLowerCase();setLang(language.language); openDrawer.openLanguage=false;"
+            ng-class="{'language-choice__list__item--active': language.language === appLang.toLowerCase()}"
+            >
+              <span class="language-chosen__container language-chosen__container--{{appLang}}">
+                <span class="language-chosen--english">{{appLang}}</span>
+              </span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div
+      class="menu-toggle"
+      ng-class="{'menu-toggle--tray-open': openDrawer.open === true}"
+      ng-click="openDrawer.open = !openDrawer.open"
+      >
+        <span class="menu-toggle__text">Help documents</span>
+        <span class="menu-toggle__icon"></span>
+      </div><!--/menu-toggle-->
+
+    </div>
+
+    <div
+    class="first-time-message"
+    ng-if="firstTime.first === 'true'"
+    >
+      Click here to choose a help topic
+    </div><!--/first-time-message-->
+
+    <div 
+    class="content-area"
+    ng-click="openDrawer.open=false; openDrawer.openLanguage=false"
+    ng-class="{'content-area--inactive': openDrawer.open === true || openDrawer.openLanguage === true || firstTime.first === 'true'}"
+    >
+    <div ng-view class="content-area__view"></div>
+  </div>
+
+  </div><!-- /content-container -->
+  <script>
+    var runFastClick = function() {
+      FastClick.attach(document.body);
+    }
+    runFastClick();
+  </script>  
+</body>
+</html>
