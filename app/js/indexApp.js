@@ -37,6 +37,10 @@ angular.module('helpIndex.controllers', [])
        "link": "shine_on.html",
        "imgAsset": "help-doc-icon-so-2x.jpg"
       },
+      {"name": "Everybody Up 2nd Edition",
+       "link": "everybody-up-2e.html",
+       "imgAsset": "help-doc-icon-eu2e-2x.jpg"
+      },
       {"name": "Teen2Teen Plus",
        "link": "teen2teen_plus.html",
        "imgAsset": "help-doc-icon-t2t-2x.jpg"
