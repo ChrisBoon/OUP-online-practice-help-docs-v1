@@ -103,8 +103,8 @@ ng-click="firstTimeSet()"
             >
 
               <!-- Use a CodeKit loop here once released -->
-              <a 
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
+              <a
+              ng-click="openDrawer.open=false; obj.value1='/'+listitem.id; go(listitem.id)"
               ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id, 'rtl': language.language==='arabic'} "
               class="help-menu__option"
               >
