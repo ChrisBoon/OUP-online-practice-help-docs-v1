@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19076",
+"creatorBuild": "19115",
 "files": {
 	"\/app\/americanfamilyandfriends.html": {
 		"fileType": 8192,
@@ -52,6 +52,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/engage.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/everybody-up-2e.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/everybody-up-2e.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -129,6 +138,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/icons\/help-doc-icon-eu2e-2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39873,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-eu2e-2x.jpg",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-eu2e-2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/icons\/help-doc-icon-exp-2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -202,6 +222,17 @@
 		"initialSize": 99370,
 		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-se-2x.jpg",
 		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-q2e-se-2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/icons\/help-doc-icon-so-2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48863,
+		"inputAbbreviatedPath": "\/app\/icons\/help-doc-icon-so-2x.jpg",
+		"outputAbbreviatedPath": "\/app\/icons\/help-doc-icon-so-2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2699,6 +2730,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/app\/js\/v-accordion.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/js\/v-accordion.min.js",
+		"outputAbbreviatedPath": "\/app\/js\/min\/v-accordion.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/app\/json\/adult-admin-editprofile-v1_0_0.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -3524,6 +3566,28 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/app\/json\/pagelist-multitier-2.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-multitier-2.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-multitier-2-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/app\/json\/pagelist-multitier.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-multitier.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-multitier-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
 	"\/app\/json\/pagelist-primary_docs.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -4249,6 +4313,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/kit\/everybody-up-2e.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/kit\/everybody-up-2e.kit",
+		"outputAbbreviatedPath": "\/app\/everybody-up-2e.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/kit\/explorers.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -4303,6 +4376,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/kit\/q2e-multitier.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/kit\/q2e-multitier.kit",
+		"outputAbbreviatedPath": "\/app\/q2e-multitier.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/kit\/q2e-se.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -4318,6 +4400,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/kit\/q2e.kit",
 		"outputAbbreviatedPath": "\/app\/q2e.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/kit\/shine_on.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/kit\/shine_on.kit",
+		"outputAbbreviatedPath": "\/app\/shine_on.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -4416,6 +4507,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/partials\/welcome-primary.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/q2e-multitier.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/q2e-multitier.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -4742,6 +4842,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/app\/shine_on.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/shine_on.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/superstars.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -4806,13 +4915,13 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Boon, Christopher",
+"lastSavedByUser": "Chris Boon",
 "manualImportLinks": {
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "help_docs_angular-seed",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "pencil_yellow"
 	},
 "projectSettings": {
@@ -4906,8 +5015,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"no_plusplus": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -4916,6 +5033,10 @@
 			},
 		"no_tabs": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {

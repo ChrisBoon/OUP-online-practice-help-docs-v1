@@ -33,11 +33,11 @@
     }
     ul{
       list-style-type: disc;
-      padding-left:1em; 
+      padding-left:1em;
       margin-left: ($default-padding / 3);
       @at-root .rtl &{
-        padding-right:1em; 
-        margin-right: ($default-padding / 3);          
+        padding-right:1em;
+        margin-right: ($default-padding / 3);
         padding-left: 0;
         margin-left: 0;
       }
@@ -72,16 +72,16 @@
         margin-bottom: 0.4em;
         padding-bottom: 0.4em;
         border-bottom: 1px solid rgba($text-color,0.1);
-      }      
+      }
     }
     &--specs{
       &__heading{
-        font-weight: 700;
+        font-weight: 600;
       }
       .sub-segment{
         margin-bottom: 0.4em;
         padding-bottom: 0.4em;
-        border-bottom: 1px solid rgba($text-color,0.1);        
+        border-bottom: 1px solid rgba($text-color,0.1);
       }
     }
   }
@@ -91,7 +91,7 @@
   &__segment{
     &__question{
       font-size: 1.1em;
-      font-weight: 700;
+      font-weight: 600;
       margin-bottom: 0.4em;
     }
     &__answer{
@@ -102,10 +102,10 @@
       }
       ol{
         list-style:decimal;
-        padding-left:1em; 
+        padding-left:1em;
         margin-left: ($default-padding / 3);
         @at-root .rtl &{
-          padding-right:1em; 
+          padding-right:1em;
           margin-right: ($default-padding / 3);
           padding-left: 0;
           margin-left: 0;
@@ -113,11 +113,11 @@
       }
       ul{
         list-style-type: disc;
-        padding-left:1em; 
+        padding-left:1em;
         margin-left: ($default-padding / 3);
         @at-root .rtl &{
-          padding-right:1em; 
-          margin-right: ($default-padding / 3);          
+          padding-right:1em;
+          margin-right: ($default-padding / 3);
           padding-left: 0;
           margin-left: 0;
         }

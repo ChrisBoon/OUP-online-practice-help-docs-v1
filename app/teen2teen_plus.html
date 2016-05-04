@@ -7,22 +7,22 @@
   <title>Teen2Teen Plus Online Practice: Help</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!--Android 5.0 header/status bar color-->  
+  <!--Android 5.0 header/status bar color-->
   <meta name="theme-color" content="#002147">
   <link rel="stylesheet" href="css/app.css"/>
 
   <script src="js/libraries/fastclick.min.js"></script>
- 
+
   <script src="js/libraries/angular.min.js"></script>
   <script src="js/libraries/angular-route.min.js"></script>
   <script src="js/libraries/angular-touch.min.js"></script>
   <script src="js/libraries/angular-animate.min.js"></script>
 
-
+  <script src="js/v-accordion.min.js"></script>
   <script src="js/ui-bootstrap-custom-tpls-0.10.0.min.js"></script>
   <script src="js/app.js"></script>
   <script src="js/controllers.min.js"></script>
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
   <script>
   opHelpGlobals = {
     config:{
@@ -40,7 +40,7 @@
   runFastClick();
   </script>
 </head>
-<body 
+<body
 ng-controller="MyCtrl1"
 ng-init="getLang();firstTimeCheck()"
 class="ng-cloak course-home primary"
@@ -53,17 +53,17 @@ ng-click="firstTimeSet()"
         <p class="oldie-message__p">Online Practice works on mobile too - iOS6+ (Safari) and Android 4.0+ (Chrome).</p>
       </div>
   <![endif]-->
-  <div 
+  <div
   class="slide-out-drawer slide-out-drawer--left slide-out-drawer--nav"
   ng-show="openDrawer.open"
   ng-swipe-left="openDrawer.open=false"
   >
     <div class="help-menu">
 
-    <a 
+    <a
     ng-click="openDrawer.open=false;obj.value1='/';go('')"
     ng-class="{'help-menu__option--active': obj.value1 === '/'}"
-    class="help-menu__option--home"
+    class="help-menu__option"
     >
       <span ng-if="language.language == 'english'">Welcome</span>
       <span ng-if="language.language == 'turkish'">Hoşgeldiniz</span>
@@ -73,51 +73,163 @@ ng-click="firstTimeSet()"
       <span ng-if="language.language == 'japanese'">ようこそ</span>
       <span ng-if="language.language == 'chinese'">歡迎</span>
       <span ng-if="language.language == 'thai'">ยินดีต้อนรับ</span>
-      <span ng-if="language.language == 'korean'">환영합니다</span>        
+      <span ng-if="language.language == 'korean'">환영합니다</span>
       <span ng-if="language.language == 'arabic'" class="rtl">مرحبًا بكم</span>
     </a>
 
-      <accordion close-others="oneAtATime">
-        <accordion-group 
-        ng-repeat="user in helpmenu" 
-        ng-init="status.open = false" 
-        is-open="status.open"
-        >
-          <!-- Use a CodeKit loop here once released -->
-          <accordion-heading>
-          <div ng-class="{'rtl': language.language==='arabic'}">{{user.userType[language.language]}}</div>
 
-            <span 
-            class="accordion-toggle__arrow" 
-            ng-class="{'accordion-toggle__arrow--up': status.open, 'accordion-toggle__arrow--down': !status.open}"
+    <div class="new-accordion">
+      <v-accordion id="accCB" class="vAccordion--default" control="accordionCB" onexpand="expandCallback(index, id)" oncollapse="collapseCallback(index, id)">
+
+        <!-- if pagelist content exists, on each do: -->
+        <div ng-repeat = "item in helpmenu.items">
+          <!-- if its a link we do the simple link thing -->
+          <a
+            ng-if="item.link"
+            ng-click="obj.value1='/'+item.link; go(item.link)"
+            ng-class="{'help-menu__option--active': obj.value1 === '/'+item.link, 'rtl': language.language==='arabic'} "
+            class="help-menu__option help-menu__option--level-1"
             >
-            </span>
+              {{item.title[language.language]}}
+          </a>
 
-          </accordion-heading>
+          <!-- else if it should be a panel (eg 'teacher') -->
+          <v-pane ng-if="item.items" id="{{ ::item.id }}">
+            <v-pane-header id="{{ ::item.id }}-header" class="help-menu__header help-menu__header--level-1">
+              <h5>{{ item.title[language.language] }}</h5>
+            </v-pane-header>
 
-          <ul class="help-menu__user__list">
-            <li
-            ng-repeat="listitem in user.docsList"
-            class="help-menu__user__list-item"
-            >
+            <v-pane-content id="{{ ::item.id }}-content" aria-labelledby="{{ ::item.id }}-header">
+              <!--in the level 1 panel (eg 'teacher') do the same:-->
+              <!-- we needed to wrap with an accordion in case any use it - we could add checks here but it may cause bloat to the json or slow down rendering -->
+              <v-accordion id="nestedAccordionCB">
+                <div ng-repeat = "item in item.items">
+                  <!-- if its a link we do the simple link thing -->
+                  <a
+                    ng-if="item.link"
+                    ng-click="obj.value1='/'+item.link; go(item.link)"
+                    ng-class="{'help-menu__option--active': obj.value1 === '/'+item.link, 'rtl': language.language==='arabic'} "
+                    class="help-menu__option help-menu__option--level-2"
+                    >
+                      {{item.title[language.language]}}
+                  </a>
+                  <!-- if its a panel -->
+                  <v-pane ng-if="item.items" id="{{ ::item.id }}">
+                    <v-pane-header id="{{ ::item.id }}-header" class="help-menu__header help-menu__header--level-2"
+                      <h5>{{ item.title[language.language] }}</h5>
+                    </v-pane-header>
+                    <v-pane-content id="{{ ::item.id }}-content" aria-labelledby="{{ ::item.id }}-header">
+                      <div ng-repeat = "item in item.items">
+                        <a
+                          ng-if="item.link"
+                          ng-click="obj.value1='/'+item.link; go(item.link)"
+                          ng-class="{'help-menu__option--active': obj.value1 === '/'+item.link, 'rtl': language.language==='arabic'} "
+                          class="help-menu__option help-menu__option--level-3"
+                          >
+                            {{item.title[language.language]}}
+                        </a>
+                      </div>
 
-              <!-- Use a CodeKit loop here once released -->
-              <a 
-              ng-click="openDrawer.open=false;obj.value1='/'+listitem.id;go('{{listitem.id}}')"
-              ng-class="{'help-menu__option--active': obj.value1 === '/'+listitem.id, 'rtl': language.language==='arabic'} "
-              class="help-menu__option"
+                    </v-pane-content>
+
+                  </v-pane>
+                </div>
+              </v-accordion>
+
+            </v-pane-content>
+
+          </v-pane>
+        </div>
+      </v-accordion>
+    </div><!-- end new accordion -->
+
+
+<!--
+
+    <div ng-if="helpmenu.panels">
+      <v-accordion id="accordionCB" class="vAccordion--default" control="accordionCB" onexpand="expandCallback(index, id)" oncollapse="collapseCallback(index, id)">
+
+        <v-pane id="{{ ::panel.id }}" ng-repeat="panel in helpmenu.panels">
+
+          <v-pane-header id="{{ ::panel.id }}-header">
+            <h5>{{ panel.title[language.language] }}</h5>
+          </v-pane-header>
+
+          <v-pane-content id="{{ ::panel.id }}-content" aria-labelledby="{{ ::panel.id }}-header">
+
+
+            <v-accordion id="nestedAccordionCB" ng-if="panel.subpanels">
+              <v-pane id="{{ ::subpanel.id }}" ng-repeat="subpanel in panel.subpanels">
+                <v-pane-header id="{{ ::subpanel.id }}-header" aria-controls="{{ ::subpanel.id }}-header">
+                  <h5>{{ subpanel.title[language.language] }}</h5>
+                </v-pane-header>
+                <v-pane-content id="{{ ::subpanel.id }}-content">
+
+                  <ul ng-if="subpanel.items" class="help-menu__user__list">
+                    <li
+                    ng-repeat="item in subpanel.items"
+                    class="help-menu__user__list-item"
+                    >
+                      <a
+                      ng-click="obj.value1='/'+item.link; go(item.link)"
+                      ng-class="{'help-menu__option--active': obj.value1 === '/'+item.link, 'rtl': language.language==='arabic'} "
+                      class="help-menu__option"
+                      >
+                        {{item.title[language.language]}}
+                      </a>
+
+                    </li>
+                  </ul>
+
+                </v-pane-content>
+              </v-pane>
+            </v-accordion>
+
+
+            <ul ng-if="panel.items" class="help-menu__user__list">
+              <li
+              ng-repeat="item in panel.items"
+              class="help-menu__user__list-item"
               >
-                {{listitem.title[language.language]}}
-              </a>
-              
-            </li>
-          </ul>
-        </accordion-group>
-      </accordion>
-    <a 
+                <a
+                ng-click="obj.value1='/'+item.link; go(item.link)"
+                ng-class="{'help-menu__option--active': obj.value1 === '/'+item.link, 'rtl': language.language==='arabic'} "
+                class="help-menu__option"
+                >
+                  {{item.title[language.language]}}
+                </a>
+
+              </li>
+            </ul>
+
+
+
+          </v-pane-content>
+        </v-pane>
+
+      </v-accordion>
+  </div>
+  <ul ng-if="helpmenu.items" class="help-menu__user__list">
+    <li
+    ng-repeat="item in helpmenu.items"
+    class="help-menu__user__list-item"
+    >
+      <a
+      ng-click="obj.value1='/'+item.link; go(item.link)"
+      ng-class="{'help-menu__option--active': obj.value1 === '/'+item.link, 'rtl': language.language==='arabic'} "
+      class="help-menu__option"
+      >
+        {{item.title[language.language]}}
+      </a>
+
+    </li>
+  </ul>
+ -->
+
+    <a
     ng-click="openDrawer.open=false;obj.value1='/faq';go('/faq')"
     ng-class="{'help-menu__option--active': obj.value1 === '/faq'}"
-    class="help-menu__option--home"
+    class="help-menu__option"
     >
       <span ng-if="language.language == 'english'">FAQ</span>
       <span ng-if="language.language == 'turkish'">SSS</span>
@@ -129,14 +241,14 @@ ng-click="firstTimeSet()"
       <span ng-if="language.language == 'thai'">ปัญหาที่พบบ่อย</span>
       <span ng-if="language.language == 'korean'">자주 묻는 질문</span>
       <span ng-if="language.language == 'arabic'" class="rtl"> الأسئلة المتكررة</span>
-    </a>      
+    </a>
     </div>
   </div>
 
   <div class="content-container">
     <div class="site-header">
       <div class="language-choice-container">
-        <div 
+        <div
         class="language-choice-toggle {{language.language}}"
         ng-class="{'language-choice-toggle--open': openDrawer.openLanguage === true}"
         ng-if="appLanguages.length > 1"
@@ -146,13 +258,13 @@ ng-click="firstTimeSet()"
             <span class="language-chosen--english">{{language.language}}</span>
           </span>
         </div>
-        <div 
+        <div
         class="menu menu--language"
         ng-show="openDrawer.openLanguage"
         ng-if="appLanguages.length > 1"
         >
           <ul class="language-choice__list">
-            <li 
+            <li
             class="language-choice__list__item"
             ng-repeat="appLang in appLanguages"
             ng-click="language.language = appLang.toLowerCase();setLang(language.language); openDrawer.openLanguage=false;"
@@ -184,7 +296,7 @@ ng-click="firstTimeSet()"
       Click here to choose a help topic
     </div><!--/first-time-message-->
 
-    <div 
+    <div
     class="content-area"
     ng-click="openDrawer.open=false; openDrawer.openLanguage=false"
     ng-class="{'content-area--inactive': openDrawer.open === true || openDrawer.openLanguage === true || firstTime.first === 'true'}"
@@ -198,6 +310,6 @@ ng-click="firstTimeSet()"
       FastClick.attach(document.body);
     }
     runFastClick();
-  </script>  
+  </script>
 </body>
 </html>

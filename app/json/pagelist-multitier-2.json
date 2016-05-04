@@ -1,5 +1,18 @@
 {
-  "panels":[
+  "items" : [
+    {
+      "title": {
+        "english": "before Teacher",
+        "turkish": "before Teacher",
+        "spanish": "before Teacher",
+        "korean": "before Teacher",
+        "japanese": "before Teacher",
+        "chinese": "before Teacher",
+        "thai": "before Teacher",
+        "arabic": "before Teacher"
+      },
+      "link": "adult-teacher-classdetails-v1_0_0"
+    },
     {
       "id" : "id01",
       "title": {
@@ -12,7 +25,7 @@
         "thai": "ครูผู้สอน",
         "arabic": "المعلم"
       },
-      "subpanels" : [
+      "items" : [
         {
           "id" : "id01-a",
           "title" : {
@@ -55,6 +68,19 @@
           ]
         },
         {
+          "title": {
+            "english": "Teacher thing (not in a nested section)",
+            "turkish": "Teacher thing (not in a nested section)",
+            "spanish": "Teacher thing (not in a nested section)",
+            "korean": "Teacher thing (not in a nested section)",
+            "japanese": "Teacher thing (not in a nested section)",
+            "chinese": "Teacher thing (not in a nested section)",
+            "thai": "Teacher thing (not in a nested section)",
+            "arabic": "Teacher thing (not in a nested section)"
+          },
+          "link": "adult-teacher-dashboard-v1_0_0"
+        },
+        {
           "id" : "id01-b",
           "title" : {
             "english": "Reports and Feedback",
@@ -94,9 +120,7 @@
               "link": "adult-teacher-reportclass-v1_0_0"
             }
           ]
-        }
-      ],
-      "items":[
+        },
         {
           "title": {
             "english": "Teacher thing (not in a nested section)",
@@ -108,22 +132,22 @@
             "thai": "Teacher thing (not in a nested section)",
             "arabic": "Teacher thing (not in a nested section)"
           },
-          "link": "adult-teacher-registration-v1_0_0"
+          "link": "adult-teacher-reportsegment-q2e"
         }
       ]
     },
     {
       "id" : "id02",
       "title": {
-          "english": "Administrator",
-          "turkish": "Yönetici",
-          "spanish": "Administrador",
-          "korean": "교육기관 관리자 ",
-          "japanese": "管理者",
-          "chinese": "管理人",
-          "thai": "ผู้ดูแลระบบ",
-          "arabic": "مراقب النظام"
-        },
+        "english": "Administrator",
+        "turkish": "Yönetici",
+        "spanish": "Administrador",
+        "korean": "교육기관 관리자 ",
+        "japanese": "管理者",
+        "chinese": "管理人",
+        "thai": "ผู้ดูแลระบบ",
+        "arabic": "مراقب النظام"
+      },
       "items":[
         {
           "title": {
@@ -139,9 +163,7 @@
           "link": "adult-admin-registration-v1_0_0"
         }
       ]
-    }
-  ],
-  "items": [
+    },
     {
       "title": {
         "english": "Some unrelated stuff",
@@ -153,20 +175,7 @@
         "thai": "Some unrelated stuff",
         "arabic": "Some unrelated stuff"
       },
-      "link": "adult-teacher-registration-v1_0_0"
-    },
-    {
-      "title": {
-        "english": "Some more unrelated stuff",
-        "turkish": "Some more unrelated stuff",
-        "spanish": "Some more unrelated stuff",
-        "korean": "Some more unrelated stuff",
-        "japanese": "Some more unrelated stuff",
-        "chinese": "Some more unrelated stuff",
-        "thai": "Some more unrelated stuff",
-        "arabic": "Some more unrelated stuff"
-      },
-      "link": "adult-teacher-registration-v1_0_0"
+      "link": "adult-student-addlevel-v1_0_0"
     }
   ]
 }
