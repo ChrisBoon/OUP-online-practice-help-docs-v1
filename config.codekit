@@ -3610,6 +3610,17 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/app\/json\/pagelist-q2e-old.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/json\/pagelist-q2e-old.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/app\/json\/pagelist-q2e-old-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
 	"\/app\/json\/pagelist-q2e.json": {
 		"fileType": 524288,
 		"ignore": 1,
