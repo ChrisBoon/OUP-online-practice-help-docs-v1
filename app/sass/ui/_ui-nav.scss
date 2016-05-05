@@ -1,4 +1,31 @@
 $c-hover-1: rgba(243, 243, 243, 1);
+
+
+/* v-accordion Base styles
+ ***************************************/
+v-accordion {
+  display: block; }
+
+v-pane {
+  display: block; }
+  v-pane.is-expanded > v-pane-content > div {
+    display: visible; }
+  v-pane[disabled] > v-pane-header {
+    opacity: 0.6;
+    pointer-events: none; }
+
+
+v-pane-content {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  max-height: 0px; }
+  v-pane-content > div {
+    visibility: none; }
+
+/* my styles
+ ***************************************/
+
 .help-menu{
   font-size: $menu-font-size;
 
