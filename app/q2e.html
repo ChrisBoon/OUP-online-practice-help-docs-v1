@@ -86,7 +86,7 @@ ng-click="firstTimeSet()"
           <!-- if its a link we do the simple link thing -->
           <a
             ng-if="item.link"
-            ng-click="obj.value1='/'+item.link; go(item.link)"
+            ng-click="openDrawer.open=false; obj.value1='/'+item.link; go(item.link)"
             ng-class="{'help-menu__option--active': obj.value1 === '/'+item.link, 'rtl': language.language==='arabic'} "
             class="help-menu__option help-menu__option--level-1"
             >
@@ -95,7 +95,7 @@ ng-click="firstTimeSet()"
 
           <!-- else if it should be a panel (eg 'teacher') -->
           <v-pane ng-if="item.items" id="{{ ::item.id }}">
-            <v-pane-header id="{{ ::item.id }}-header" class="help-menu__header help-menu__header--level-1">
+            <v-pane-header id="{{ ::item.id }}-header" class="help-menu__header help-menu__header--level-1" ng-class="{'rtl': language.language==='arabic'}">
               <h5>{{ item.title[language.language] }}</h5>
             </v-pane-header>
 
@@ -107,26 +107,26 @@ ng-click="firstTimeSet()"
                   <!-- if its a link we do the simple link thing -->
                   <a
                     ng-if="item.link"
-                    ng-click="obj.value1='/'+item.link; go(item.link)"
+                    ng-click="openDrawer.open=false; obj.value1='/'+item.link; go(item.link)"
                     ng-class="{'help-menu__option--active': obj.value1 === '/'+item.link, 'rtl': language.language==='arabic'} "
                     class="help-menu__option help-menu__option--level-2"
                     >
-                      {{item.title[language.language]}}
+                      <h5>{{ item.title[language.language] }}</h5>
                   </a>
                   <!-- if its a panel -->
                   <v-pane ng-if="item.items" id="{{ ::item.id }}">
-                    <v-pane-header id="{{ ::item.id }}-header" class="help-menu__header help-menu__header--level-2"
+                    <v-pane-header id="{{ ::item.id }}-header" class="help-menu__header help-menu__header--level-2" ng-class="{'rtl': language.language==='arabic'}">
                       <h5>{{ item.title[language.language] }}</h5>
                     </v-pane-header>
                     <v-pane-content id="{{ ::item.id }}-content" aria-labelledby="{{ ::item.id }}-header">
                       <div ng-repeat = "item in item.items">
                         <a
                           ng-if="item.link"
-                          ng-click="obj.value1='/'+item.link; go(item.link)"
+                          ng-click="openDrawer.open=false; obj.value1='/'+item.link; go(item.link)"
                           ng-class="{'help-menu__option--active': obj.value1 === '/'+item.link, 'rtl': language.language==='arabic'} "
                           class="help-menu__option help-menu__option--level-3"
                           >
-                            {{item.title[language.language]}}
+                            <h5>{{ item.title[language.language] }}</h5>
                         </a>
                       </div>
 

@@ -117,7 +117,7 @@ $breakpoints: (
   'large':  ( max-width: 1200px ),
   'custom': ( min-height:  40em )
 );
- 
+
 @mixin breakpoint($name) {
       @if map-has-key($breakpoints, $name) {
         @media #{inspect(map-get($breakpoints, $name))} {
@@ -149,7 +149,7 @@ $breakpoints: (
   @if not map-has-key($z-layers, $layer) {
     @warn "No layer found for `#{$layer}` in $z-layers map. Property omitted.";
   }
- 
+
   @return map-get($z-layers, $layer);
 }
 
@@ -162,3 +162,11 @@ $z-layers: (
   "menu":3,
   "first-time":4
   );
+
+
+
+@mixin rtl-ui {
+  &.rtl-ui{
+    @content;
+  }
+}

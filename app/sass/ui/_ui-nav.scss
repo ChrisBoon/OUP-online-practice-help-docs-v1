@@ -48,6 +48,9 @@ v-pane-content {
     display: block;
     position: relative;
     padding: $default-padding/2 (($default-padding / 2) + ($arrowSizing * 3) ) $default-padding/2 ($default-padding / 2);
+    &.rtl{
+      padding: $default-padding/2 ($default-padding / 2) $default-padding/2 (($default-padding / 2) + ($arrowSizing * 3) );
+    }
     border-bottom: 1px solid darken(#EBEBEB,10);
     @extend %user-select-none;
     @extend %no-tap-color;
@@ -74,6 +77,10 @@ v-pane-content {
       top:($arrowSizing * 1);
       right: $arrowSizing;
       transition: transform 0.3s;
+    }
+    &.rtl:before{
+      left: $arrowSizing;
+      right: auto;
     }
     &--level-1{
     }
