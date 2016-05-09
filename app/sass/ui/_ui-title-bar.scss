@@ -8,78 +8,15 @@
   left: 0;
   top: 0px;
   height: $headerHeight;
-  background: $color-accent-contrast-light;
+  background: $color-accent-contrast;
   color: #fff;
 
-  &__heading{
-    // box-shadow: inset 0 -1px 0 0 #333;
-    color: $text-color;
-    $lineWidth: 6px;
-    $lineLength: 30px;
-    line-height: ($headerHeight - 1px);
-    float: left;
-    height: $headerHeight;
-    position: relative;
-    padding: 0 ($default-padding / 2);
-    transition: background 0.2s;
-    cursor: default;
-    &__span{
-      @include breakpoint(tiny){
-        display: none;
-      }
-    }
-    .open-tray-icon{
-      display: block;
-      background:#fff;
-      position: absolute;
-      width: $lineLength;
-      height: $lineWidth;
-      top: ($headerHeight / 2) - ($lineWidth / 2);
-      left: $mobile-padding;
-      border-radius: ($lineWidth / 2);
-      transition: width 0.4s;
-      outline: 1px solid transparent;
-      &:before, &:after{
-        content: "";
-        display: block;
-        position: absolute;
-        width: $lineLength;
-        height: $lineWidth;
-        border-radius: ($lineWidth / 2);
-        background: #fff;
-        transition: transform 0.4s;
-        outline: 1px solid transparent;
-      }
-      &:before{
-        top: 0 - ($lineLength/3);
-      }
-      &:after{
-        top: ($lineLength/3);
-      }
-    }
-    @at-root .no-touch &:hover .open-tray-icon:before{
-      transform:rotate(35deg) translate(9px, -3px);
-    }
-    @at-root .no-touch &:hover .open-tray-icon:after{
-      transform:rotate(-35deg) translate(9px, 3px);
-    }
-    @at-root .no-touch &--tray-open:hover{
-      .open-tray-icon:before{
-          transform:rotate(-35deg) translate(-8px, -3px);
-      }
-      .open-tray-icon:after{
-          transform:rotate(35deg) translate(-8px, 3px);
-      }
-    }
-  }
   .menu-toggle{
     $lineWidth: 2px;
     $lineLength: 18px;
-    float: left;
     position: relative;
     height: $headerHeight;
     line-height: $headerHeight - 1px;
-    padding: 0 $lineLength 0 (($lineLength * 2) +10px);
     font-size: $copy-font-size;
     text-transform: capitalize;
     text-align: center;
@@ -87,68 +24,97 @@
     transition: background 0.2s;
     @extend %user-select-none;
     @extend %no-tap-color;
-    background: $color-accent-contrast;
-    @at-root .no-touch &:not(.menu-toggle--tray-open):hover{
-      background: #E4AD01;
+    background: $color-grey-dark;
+
+    //when the button's tray is open:
+    &.is-tray-open{
+      background: #000;
     }
-    &:before{
-      content: "";
-      position: absolute;
-      display: block;
-      background:$color-accent-contrast;
-      border-radius: 50%;
-      width: 24px;
-      height: 24px;
-      top: ($headerHeight - 24px) / 2;
-      left: $lineLength - 3px;
-      transform: scale(0);
-      opacity:0;
-      transition: all 0.4s;
-    }
-    &--tray-open{
-      background: #333;
+
+    //just the TOC menu button:
+    &--toc{
+      float: left;
+      padding: 0 $lineLength 0 (($lineLength * 2) +10px);
+      //cicle around 'close icon' ('x') is a pseudo-element.
+      //hidden when toc is closed via transform and opacity:
       &:before{
-      transform: scale(1);
-      opacity:1;
-      }
-    }
-    &__icon{
-      display: block;
-      background:#fff;
-      position: absolute;
-      width: $lineLength;
-      height: $lineWidth;
-      top: ($headerHeight / 2) - ($lineWidth / 2);
-      left: $lineLength;
-      transition: width 0.4s;
-      outline: 1px solid transparent;
-      transition: background 0.4s;
-      &:before, &:after{
         content: "";
+        position: absolute;
         display: block;
+        background: $color-accent-contrast;
+        border-radius: 50%;
+        width: 24px;
+        height: 24px;
+        top: ($headerHeight - 24px) / 2;
+        left: $lineLength - 3px;
+        transform: scale(0);
+        opacity:0;
+        transition: all 0.4s;
+      }
+      //show the circle when the TOC is open
+      &.is-tray-open:before{
+        transform: scale(1);
+        opacity:1;
+      }
+
+      //the hamburger menu is created from a span and pseudo elements:
+      &__icon{
+        display: block;
+        background:#fff;
         position: absolute;
         width: $lineLength;
         height: $lineWidth;
-        top:0;
-        background: #fff;
-        transition: all 0.4s;
+        top: ($headerHeight / 2) - ($lineWidth / 2);
+        left: $lineLength;
+        transition: width 0.4s;
         outline: 1px solid transparent;
+        transition: background 0.4s;
+        &:before, &:after{
+          content: "";
+          display: block;
+          position: absolute;
+          width: $lineLength;
+          height: $lineWidth;
+          top:0;
+          background: #fff;
+          transition: all 0.4s;
+          outline: 1px solid transparent;
+        }
+        &:before{
+          transform: translate(0,-8px);
+        }
+        &:after{
+          transform: translate(0,8px);
+        }
       }
-      &:before{
-        transform: translate(0,-8px);
+      //when the TOC menu is open we hide th middle line of the hamburger:
+      &.is-tray-open .menu-toggle--toc__icon{
+        background: none;
+        // and rotate the other two ines to form the 'x' icon.
+        &:before{
+          transform: rotate(45deg);
+        }
+        &:after{
+          transform: rotate(-45deg);
+        }
       }
-      &:after{
-        transform: translate(0,8px);
-      }      
     }
-    &--tray-open .menu-toggle__icon{
-      background: none;
+    //end TOC specific stuff
+    &--language{
+      float: right;
+      padding: 0 $lineLength 0 (($lineLength * 2) +20px);
       &:before{
-        transform: rotate(45deg);
-      }
-      &:after{
-        transform: rotate(-45deg);
+        position: absolute;
+        display: block;
+        content: "";
+        width: 30px;
+        height: 30px;
+        top: ($headerHeight - 30px) / 2;
+        left: $lineLength - 4px;
+        background: url('../ui-img/language-icon.svg') no-repeat center;
+        background-size: 30px;
       }
     }
+
   }
 }
