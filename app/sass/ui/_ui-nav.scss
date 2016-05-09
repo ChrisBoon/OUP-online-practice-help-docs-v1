@@ -63,16 +63,14 @@ v-pane-content {
     &:before{
       position: absolute;
       display: block;
-      content: "\e60b";
-      font-family: 'icomoon';
-      @include smooth-text;
-      font-size: ($arrowSizing * 2);
-      text-align: center;
-      line-height: ($arrowSizing * 3.4);
+      content: "";
       width: ($arrowSizing * 3);
       height: ($arrowSizing * 3);
-      color: #fff;
       background-color: rgba(#000,0.6);
+      background-image: url('../ui-img/arrow-down.svg');
+      background-size: 12px;
+      background-repeat: no-repeat;
+      background-position: 50%;
       border-radius: 50%;
       top:($arrowSizing * 1);
       right: $arrowSizing;
