@@ -28,7 +28,7 @@
     .index-page__search__toggle__icon {
       opacity: 0.75;
       transition: opacity 0.2s; }
-    .no-touch .index-page__search__toggle:not(.index-page__search__toggle--active):hover {
+    .index-page__search__toggle:not(.index-page__search__toggle--active):hover {
       background: #E4AD01; }
     .index-page__search__toggle--active {
       background: #333; }

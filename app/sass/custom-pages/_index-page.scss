@@ -33,7 +33,7 @@
         opacity: 0.75;
         transition:opacity 0.2s;
       }
-      @at-root .no-touch &:not(.index-page__search__toggle--active):hover{
+      &:not(.index-page__search__toggle--active):hover{
         background: #E4AD01;
       }
 

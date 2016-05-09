@@ -83,21 +83,6 @@
   -webkit-font-smoothing: antialiased;
 }
 
-//hover only on .no-touch (means modernizr is required or no over states will ever appear)
-@mixin hover(){
-  .no-touch &:not(.active):hover{
-    cursor: pointer;
-    @content;
-  }
-}
-
-@mixin active(){
-  .no-touch &:not(.active):active,
-  .touch &:not(.active):active{
-    @content;
-  }
-}
-
 
 //tint - stolen from Bourbon
 @function tint($color, $percent){
