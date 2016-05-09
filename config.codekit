@@ -4248,15 +4248,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/app\/kit\/_appIndex-noAccordion.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/kit\/_appIndex-noAccordion.kit",
-		"outputAbbreviatedPath": "\/app\/_appIndex-noAccordion.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/app\/kit\/_appIndex.kit": {
 		"fileType": 2048,
 		"ignore": 1,

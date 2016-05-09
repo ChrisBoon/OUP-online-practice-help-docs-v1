@@ -1,37 +1,34 @@
 {
-  "item01":{
-    "order":1,
-    "title": {
-      "english": "Registration"
+  "items" : [
+    {
+      "title": {
+        "english": "Registration"
+      },
+      "link": "adult-registration-ils"
     },
-    "id": "adult-registration-ils"
-  },
-  "item02":{
-    "order":2,
-    "title": {
-      "english": "Home"
+    {
+      "title": {
+        "english": "Home"
+      },
+      "link": "adult-home-ils"
     },
-    "id": "adult-home-ils"
-  },
-  "item03":{
-    "order":3,
-    "title": {
-      "english": "Edit Profile"
+    {
+      "title": {
+        "english": "Edit Profile"
+      },
+      "link": "adult-editprofile-ils"
     },
-    "id": "adult-editprofile-ils"
-  },
-  "item04":{
-    "order":4,
-    "title": {
-      "english": "Audio Center"
+    {
+      "title": {
+        "english": "Audio Center"
+      },
+      "link": "adult-audiocenter-ils"
     },
-    "id": "adult-audiocenter-ils"
-  },
-  "item05":{
-    "order":5,
-    "title": {
-      "english": "Video Center"
-    },
-    "id": "adult-videocenter-ils"
-  }
+    {
+      "title": {
+        "english": "Video Center"
+      },
+      "link": "adult-videocenter-ils"
+    }
+  ]
 }
