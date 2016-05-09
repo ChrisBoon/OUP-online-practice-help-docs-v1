@@ -2719,12 +2719,12 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/app\/js\/v-accordion.min.js": {
+	"\/app\/js\/libraries\/v-accordion.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/js\/v-accordion.min.js",
-		"outputAbbreviatedPath": "\/app\/js\/min\/v-accordion.min-min.js",
+		"inputAbbreviatedPath": "\/app\/js\/libraries\/v-accordion.min.js",
+		"outputAbbreviatedPath": "\/app\/js\/libraries\/min\/v-accordion.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
