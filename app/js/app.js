@@ -5,7 +5,6 @@ angular.module('myApp', [
   'ngAnimate',
   'ngTouch',
   'myApp.controllers',
-  'ui.bootstrap',
   'vAccordion'
 ]).
 config(['$routeProvider', function($routeProvider) {

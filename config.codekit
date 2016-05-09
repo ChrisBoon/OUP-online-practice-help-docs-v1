@@ -2719,17 +2719,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/app\/js\/ui-bootstrap-custom-tpls-0.10.0.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/js\/ui-bootstrap-custom-tpls-0.10.0.min.js",
-		"outputAbbreviatedPath": "\/app\/js\/min\/ui-bootstrap-custom-tpls-0.10.0.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/app\/js\/v-accordion.min.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -3606,17 +3595,6 @@
 		"inputAbbreviatedPath": "\/app\/json\/pagelist-primary_v1.json",
 		"orderOutput": 0,
 		"outputAbbreviatedPath": "\/app\/json\/pagelist-primary_v1-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/app\/json\/pagelist-q2e-old.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/json\/pagelist-q2e-old.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/app\/json\/pagelist-q2e-old-min.json",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
