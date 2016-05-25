@@ -8,3 +8,4 @@ tmp
 .sass-cache/
 /concept work/
 app/css/
+dist/
