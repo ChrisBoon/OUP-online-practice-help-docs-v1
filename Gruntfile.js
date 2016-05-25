@@ -114,6 +114,15 @@ module.exports = function(grunt) {
 
         },
 
+        //JSON
+        ////DIST
+        /////Minify JSON (After copying to dist)
+        'json-minify': {
+          build: {
+            files: 'dist/json/*.json'
+          }
+        },
+
         ////DIST TASK
         ////helper for copying files to dist folders - icons and json
         copy: {
@@ -210,6 +219,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-jshint');
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-newer');
+    grunt.loadNpmTasks('grunt-json-minify');
 
     // 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
     grunt.registerTask('default', [
@@ -223,6 +233,7 @@ module.exports = function(grunt) {
         'postcss',
         'htmlmin',
         'uglify',
+        'json-minify',
         'newer:imagemin',
         'connect:dist'
     ]);
