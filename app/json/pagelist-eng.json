@@ -1,29 +1,28 @@
 {
-  "01_teacher": {
-    "order": 1,
-    "userType": {
-      "english": "Teacher",
-      "spanish_la": "Profesor",
-      "japanese": "先生",
-      "chinese": "教師",
-      "thai": "ครูผู้สอน",
-      "portuguese": "Professor"
-    },
-    "docsList":{
-      "item01":{
-        "order":1,
-        "title": {
-          "english": "Registration",
-          "spanish_la": "Registro",
-          "japanese": "登録",
-          "chinese": "註冊",
-          "thai": "ลงทะเบียน",
-          "portuguese": "Cadastro"
-        },
-        "id": "primary-teacher-registration-sec"
+  "items": [
+    {
+      "id": "id01",
+      "title": {
+        "english": "Teacher",
+        "spanish_la": "Profesor",
+        "japanese": "先生",
+        "chinese": "教師",
+        "thai": "ครูผู้สอน",
+        "portuguese": "Professor"
       },
-      "item02":{
-        "order":2,
+      "items": [
+        {
+          "title": {
+            "english": "Registration",
+            "spanish_la": "Registro",
+            "japanese": "登録",
+            "chinese": "註冊",
+            "thai": "ลงทะเบียน",
+            "portuguese": "Cadastro"
+          },
+          "link": "primary-teacher-registration-sec"
+        },
+      {
         "title": {
           "english": "Home",
           "spanish_la": "Inicio",
@@ -32,10 +31,9 @@
           "thai": "หน้าหลัก",
           "portuguese": "Início"
         },
-        "id": "primary-teacher-home-v1_0_0"
+        "link": "primary-teacher-home-v1_0_0"
       },
-      "item03":{
-        "order":3,
+      {
         "title": {
           "english": "Manage Classes",
           "spanish_la": "Administrar Clases",
@@ -44,10 +42,9 @@
           "thai": "การจัดการห้องเรียน",
           "portuguese": "Gerenciar turmas"
         },
-        "id": "primary-teacher-manageclasses-v1_0_0"
+        "link": "primary-teacher-manageclasses-v1_0_0"
       },
-      "item04":{
-        "order":4,
+      {
         "title": {
           "english": "Class Details",
           "spanish_la": "Detalles de la Clase",
@@ -56,10 +53,9 @@
           "thai": "รายละเอียดห้องเรียน",
           "portuguese": "Dados da turma"
         },
-        "id": "primary-teacher-classdetails-v1_0_0"
+        "link": "primary-teacher-classdetails-v1_0_0"
       },
-      "item05":{
-        "order":5,
+      {
         "title": {
           "english": "Edit Class Name",
           "spanish_la": "Editar Nombre de la Clase",
@@ -68,10 +64,9 @@
           "thai": "แก้ไขชื่อห้องเรียน",
           "portuguese": "Editar o nome da turma"
         },
-        "id": "primary-teacher-classeditname-v1_0_0"
+        "link": "primary-teacher-classeditname-v1_0_0"
       },
-      "item06":{
-        "order":6,
+      {
         "title": {
           "english": "Join an Institution",
           "spanish_la": "Unirse a una Institución",
@@ -80,10 +75,9 @@
           "thai": "เข้าร่วมสถาบัน",
           "portuguese": "Associe-se a uma instituição"
         },
-        "id": "primary-teacher-joininstitution-v1_0_0"
+        "link": "primary-teacher-joininstitution-v1_0_0"
       },
-      "item07":{
-        "order":7,
+      {
         "title": {
           "english": "Hide Units and Lessons",
           "spanish_la": "Ocultar Unidades y Lecciones",
@@ -92,10 +86,9 @@
           "thai": "ซ่อนหัวข้อและบทเรียน",
           "portuguese": "Ocultar unidades e lições"
         },
-        "id": "primary-teacher-contentassign-v1_0_0"
+        "link": "primary-teacher-contentassign-v1_0_0"
       },
-      "item08":{
-        "order":8,
+      {
         "title": {
           "english": "Add a New Class",
           "spanish_la": "Añadir una Nueva Clase",
@@ -104,10 +97,9 @@
           "thai": "เพิ่มห้องเรียนใหม่",
           "portuguese": "Adicione uma nova turma"
         },
-        "id": "primary-teacher-addclass-v1_0_0"
+        "link": "primary-teacher-addclass-v1_0_0"
       },
-      "item09":{
-        "order":9,
+      {
         "title": {
           "english": "Class Summary Report",
           "spanish_la": "Informe de Resumen de la Clase",
@@ -116,10 +108,9 @@
           "thai": "รายงานสรุปประจำชั้น",
           "portuguese": "Relatório resumido da turma"
         },
-        "id": "primary-teacher-reportclasssummary-v1_0_0"
+        "link": "primary-teacher-reportclasssummary-v1_0_0"
       },
-      "item10":{
-        "order":10,
+      {
         "title": {
           "english": "Class Report",
           "spanish_la": "Informe de la Clase",
@@ -128,10 +119,9 @@
           "thai": "รายงานประจำห้อง",
           "portuguese": "Relatório de turma"
         },
-        "id": "primary-teacher-reportclass-v1_0_0"
+        "link": "primary-teacher-reportclass-v1_0_0"
       },
-      "item11":{
-        "order":11,
+      {
         "title": {
           "english": "Student Report",
           "spanish_la": "Informe del Estudiante",
@@ -140,10 +130,9 @@
           "thai": "รายงานของนักเรียน",
           "portuguese": "Relatório do aluno"
         },
-        "id": "primary-teacher-reportstudent-sec"
+        "link": "primary-teacher-reportstudent-sec"
       },
-      "item12":{
-        "order":12,
+      {
         "title": {
           "english": "Unit Report",
           "spanish_la": "Informe de la Unidad",
@@ -152,10 +141,9 @@
           "thai": "สรุปรายงานประจำหน่วยบทเรียน",
           "portuguese": "Relatório de unidade"
         },
-        "id": "primary-teacher-reportunit-v1_0_0"
+        "link": "primary-teacher-reportunit-v1_0_0"
       },
-      "item13":{
-        "order":13,
+      {
         "title": {
           "english": "Lesson Report",
           "spanish_la": "Informe de la Lección",
@@ -164,10 +152,9 @@
           "thai": "รายงานประจำบทเรียน",
           "portuguese": "Relatório da lição"
         },
-        "id": "primary-teacher-reportlesson-v1_0_0"
+        "link": "primary-teacher-reportlesson-v1_0_0"
       },
-      "item14":{
-        "order":14,
+      {
         "title": {
           "english": "Student Activity Report",
           "spanish_la": "Informe de Actividades del Estudiante",
@@ -176,10 +163,9 @@
           "thai": "รายงานกิจกรรมของนักเรียน",
           "portuguese": "Relatório da atividade do aluno"
         },
-        "id": "primary-teacher-reportstudentactivity-v1_0_0"
+        "link": "primary-teacher-reportstudentactivity-v1_0_0"
       },
-      "item15":{
-        "order":15,
+      {
         "title": {
           "english": "Enter Online Practice",
           "spanish_la": "Ingresar a Práctica Online",
@@ -188,10 +174,9 @@
           "thai": "เพิ่มแบบฝึกหัดออนไลน์",
           "portuguese": "Acessar o Online Practice"
         },
-        "id": "primary-teacher-enteronlinepractice-sec"
+        "link": "primary-teacher-enteronlinepractice-sec"
       },
-      "item16":{
-        "order":16,
+      {
         "title": {
           "english": "Activities",
           "spanish_la": "Actividades",
@@ -200,10 +185,9 @@
           "thai": "กิจกรรมการเรียนรู้",
           "portuguese": "Atividades"
         },
-        "id": "primary-teacher-activities-sec"
+        "link": "primary-teacher-activities-sec"
       },
-      "item17":{
-        "order":17,
+      {
         "title": {
           "english": "Glossary",
           "spanish_la": "Glosario",
@@ -212,10 +196,9 @@
           "thai": "อภิธานศัพท์",
           "portuguese": "Glossário"
         },
-        "id": "primary-teacher-glossary-v1_0_0"
+        "link": "primary-teacher-glossary-v1_0_0"
       },
-      "item18":{
-        "order":18,
+      {
         "title": {
           "english": "Resources",
           "spanish_la": "Recursos",
@@ -224,10 +207,9 @@
           "thai": "ศูนย์ทรัพยากรการเรียนรู้",
           "portuguese": "Recursos"
         },
-        "id": "primary-teacher-resources-v1_0_0"
+        "link": "primary-teacher-resources-v1_0_0"
       },
-      "item19":{
-        "order":19,
+      {
         "title": {
           "english": "Media Center",
           "spanish_la": "Centro de Medios",
@@ -236,10 +218,9 @@
           "thai": "ศูนย์รวมมัลติมีเดีย",
           "portuguese": "Centro de mídia"
         },
-        "id": "primary-teacher-media-sec"
+        "link": "primary-teacher-media-sec"
       },
-      "item20":{
-        "order":20,
+      {
         "title": {
           "english": "Add a Level",
           "spanish_la": "Añadir un Nivel",
@@ -248,10 +229,9 @@
           "thai": "เพิ่มระดับชั้นเรียน",
           "portuguese": "Adicionar um nível"
         },
-        "id": "primary-teacher-addlevel-v1_0_0"
+        "link": "primary-teacher-addlevel-v1_0_0"
       },
-      "item21":{
-        "order":21,
+      {
         "title": {
           "english": "Email",
           "spanish_la": "Correo electrónico",
@@ -260,10 +240,9 @@
           "thai": "อีเมล",
           "portuguese": "E-mail"
         },
-        "id": "primary-teacher-email-v1_0_0"
+        "link": "primary-teacher-email-v1_0_0"
       },
-      "item22":{
-        "order":22,
+      {
         "title": {
           "english": "Forum",
           "spanish_la": "Foro",
@@ -272,10 +251,9 @@
           "thai": "กระดานสนทนา",
           "portuguese": "Fórum"
         },
-        "id": "primary-teacher-forum-v1_0_0"
+        "link": "primary-teacher-forum-v1_0_0"
       },
-      "item23":{
-        "order":23,
+      {
         "title": {
           "english": "Edit Profile",
           "spanish_la": "Editar Perfil",
@@ -284,13 +262,13 @@
           "thai": "แก้ไขข้อมูลส่วนตัว",
           "portuguese": "Editar perfil"
         },
-        "id": "primary-teacher-editprofile-v1_0_0"
-      }
-    }
-  },
-  "02_student": {
-    "order": 2,
-    "userType": {
+        "link": "primary-teacher-editprofile-v1_0_0"
+        }
+      ]
+    },
+    {
+      "id": "id02",
+      "title": {
         "english": "Student",
         "spanish_la": "Estudiante",
         "japanese": "生徒",
@@ -298,9 +276,8 @@
         "thai": "นักเรียน",
         "portuguese": "Aluno"
       },
-    "docsList":{
-      "item01":{
-        "order":1,
+      "items": [
+      {
         "title": {
           "english": "Registration",
           "spanish_la": "Registro",
@@ -309,10 +286,9 @@
           "thai": "ลงทะเบียน",
           "portuguese": "Cadastro"
         },
-        "id": "primary-student-registration-sec"
+        "link": "primary-student-registration-sec"
       },
-      "item02":{
-        "order":2,
+      {
         "title": {
           "english": "Home",
           "spanish_la": "Inicio",
@@ -321,10 +297,9 @@
           "thai": "หน้าหลัก",
           "portuguese": "Início"
         },
-        "id": "primary-student-home-eng"
+        "link": "primary-student-home-eng"
       },
-      "item03":{
-        "order":3,
+      {
         "title": {
           "english": "Add a Level",
           "spanish_la": "Añadir un Nivel",
@@ -333,10 +308,9 @@
           "thai": "เพิ่มระดับชั้นเรียน",
           "portuguese": "Adicionar um nível"
         },
-        "id": "primary-student-addlevel-sec"
+        "link": "primary-student-addlevel-sec"
       },
-      "item04":{
-        "order":4,
+      {
         "title": {
           "english": "Activities",
           "spanish_la": "Actividades",
@@ -345,10 +319,9 @@
           "thai": "กิจกรรมการเรียนรู้",
           "portuguese": "Atividades"
         },
-        "id": "primary-student-activities-sec"
+        "link": "primary-student-activities-sec"
       },
-      "item05":{
-        "order":5,
+      {
         "title": {
           "english": "Glossary",
           "spanish_la": "Glosario",
@@ -357,10 +330,9 @@
           "thai": "อภิธานศัพท์",
           "portuguese": "Glossário"
         },
-        "id": "primary-student-glossary-v1_0_0"
+        "link": "primary-student-glossary-v1_0_0"
       },
-      "item06":{
-        "order":6,
+      {
         "title": {
           "english": "Report",
           "spanish_la": "Informe",
@@ -369,10 +341,9 @@
           "thai": "รายงาน",
           "portuguese": "Relatório"
         },
-        "id": "primary-student-reportprogress-sec"
+        "link": "primary-student-reportprogress-sec"
       },
-      "item07":{
-        "order":7,
+      {
         "title": {
           "english": "Unit Report",
           "spanish_la": "Informe de la Unidad",
@@ -381,10 +352,9 @@
           "thai": "รายงานนักเรียนประจำหน่วยบทเรียน",
           "portuguese": "Relatório de unidade"
         },
-        "id": "primary-student-reportunit-sec"
+        "link": "primary-student-reportunit-sec"
       },
-      "item08":{
-        "order":8,
+      {
         "title": {
           "english": "Email",
           "spanish_la": "Correo electrónico",
@@ -393,10 +363,9 @@
           "thai": "อีเมล",
           "portuguese": "E-mail"
         },
-        "id": "primary-student-email-v1_0_0"
+        "link": "primary-student-email-v1_0_0"
       },
-      "item09":{
-        "order":9,
+      {
         "title": {
           "english": "Forum",
           "spanish_la": "Foro",
@@ -405,10 +374,9 @@
           "thai": "กระดานสนทนา",
           "portuguese": "Fórum"
         },
-        "id": "primary-student-forum-v1_0_0"
+        "link": "primary-student-forum-v1_0_0"
       },
-      "item10":{
-        "order":10,
+      {
         "title": {
           "english": "Media Center",
           "spanish_la": "Centro de Medios",
@@ -417,10 +385,9 @@
           "thai": "ศูนย์รวมมัลติมีเดีย",
           "portuguese": "Centro de mídia"
         },
-        "id": "primary-student-media-sec"
+        "link": "primary-student-media-sec"
       },
-      "item11":{
-        "order":11,
+      {
         "title": {
           "english": "Join a Class",
           "spanish_la": "Inscribirse a una Clase",
@@ -429,10 +396,9 @@
           "thai": "เข้าร่วมชั้นเรียน",
           "portuguese": "Participe de uma turma"
         },
-        "id": "primary-student-classjoin-v1_0_0"
+        "link": "primary-student-classjoin-v1_0_0"
       },
-      "item12":{
-        "order":12,
+      {
         "title": {
           "english": "Change Class",
           "spanish_la": "Cambio de Clase",
@@ -441,10 +407,9 @@
           "thai": "เปลี่ยนห้องเรียน",
           "portuguese": "Alterar turma"
         },
-        "id": "primary-student-classchange-v1_0_0"
+        "link": "primary-student-classchange-v1_0_0"
       },
-      "item13":{
-        "order":13,
+      {
         "title": {
           "english": "Edit Profile",
           "spanish_la": "Editar Perfil",
@@ -453,13 +418,13 @@
           "thai": "แก้ไขข้อมูลส่วนตัว",
           "portuguese": "Editar perfil"
         },
-        "id": "primary-student-editprofile-v1_0_0"
-      }
-    }
-  },
-  "03_admin": {
-    "order": 3,
-    "userType": {
+          "link": "primary-student-editprofile-v1_0_0"
+        }
+      ]
+    },
+    {
+      "id": "id03",
+      "title": {
         "english": "Administrator",
         "spanish_la": "Administrador",
         "japanese": "管理者",
@@ -467,21 +432,19 @@
         "thai": "ผู้ดูแลระบบ",
         "portuguese": "Administrador"
       },
-    "docsList":{
-      "item01":{
-        "order":1,
-        "title": {
-          "english": "Registration",
+      "items":[
+        {
+          "title": {
+            "english": "Registration",
           "spanish_la": "Registro",
           "japanese": "登録",
           "chinese": "註冊",
           "thai": "ลงทะเบียน",
           "portuguese": "Cadastro"
         },
-        "id": "primary-admin-registration-v1_0_0"
+        "link": "primary-admin-registration-v1_0_0"
       },
-      "item02":{
-        "order":2,
+      {
         "title": {
           "english": "Home",
           "spanish_la": "Inicio",
@@ -490,10 +453,9 @@
           "thai": "หน้าหลัก",
           "portuguese": "Início"
         },
-        "id": "primary-admin-home-v1_0_0"
+        "link": "primary-admin-home-v1_0_0"
       },
-      "item03":{
-        "order":3,
+      {
         "title": {
           "english": "Edit Profile",
           "spanish_la": "Editar Perfil",
@@ -502,8 +464,9 @@
           "thai": "แก้ไขข้อมูลส่วนตัว",
           "portuguese": "Editar perfil"
         },
-        "id": "primary-admin-editprofile-v1_0_0"
-      }
+        "link": "primary-admin-editprofile-v1_0_0"
+        }
+      ]
     }
-  }
+  ]
 }

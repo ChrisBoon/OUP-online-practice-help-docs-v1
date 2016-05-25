@@ -638,19 +638,6 @@
             },
             {
               "title": {
-                "english": "Writing Tutor Reports",
-                "turkish": "Özel Yazı Eğitmeni Raporları",
-                "spanish": "Informes del Tutor de escritura",
-                "korean": "쓰기 튜터 보고서",
-                "japanese": "ライティングチューターレポート",
-                "chinese": "寫作輔導報告",
-                "thai": "-",
-                "arabic": "تقارير معلم الكتابة الخصوصي"
-              },
-              "link": "adult-student-writingtutorreport-v1_0_0"
-            },
-            {
-              "title": {
                 "english": "Resources",
                 "turkish": "Kaynaklar",
                 "spanish": "Recursos",
