@@ -4,8 +4,9 @@ module.exports = function(grunt) {
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
 
-
-        ////output converted scss as css (default)
+        //CSS
+        ////BUILD TASK
+        //////output converted scss as css (default)
         sass: {
             build: {
                 options: {
@@ -20,28 +21,9 @@ module.exports = function(grunt) {
                 }]
             }
         },
-        ////////NOT YET UPDATED FOR HELP DOCS////////
-        ////helper for copying files to dist folders (dist)
-        copy: {
-            css: {
-                files: [{
-                    expand: true,
-                    flatten: true,
-                    src: ['app/course/<%= pkg.currentCourse %>/css/*.css'],
-                    dest: 'dist/course/<%= pkg.currentCourse %>/css/'
-                }],
-            },
-            img: {
-                files: [{
-                    expand: true,
-                    flatten: true,
-                    src: ['app/course/<%= pkg.currentCourse %>/img/*.{png,jpg,gif,svg}'],
-                    dest: 'dist/course/<%= pkg.currentCourse %>/img/'
-                }]
-            }
-        },
 
-        ////css optimizations (dist)
+        ////DIST TASK
+        //////css optimizations
         postcss: {
             options: {
                 map: false,
@@ -52,11 +34,14 @@ module.exports = function(grunt) {
                 ]
             },
             dist: {
-                src: 'app/css/*.css'
+                src: 'dist/css/*.css'
             }
         },
 
-        ////create index.html file for course (default)
+
+        //HTML
+        ////BUILD TASK
+        //////create index.html file for course (default)
         codekit: {
             build: {
                 files: [{
@@ -68,8 +53,9 @@ module.exports = function(grunt) {
                 }]
             },
         },
-        ////////NOT YET UPDATED FOR HELP DOCS////////
-        ////make minified copy in dist folder
+
+        ////DIST TASK
+        //////make minified copy in dist folder
         htmlmin: {
             dist: {
                 options: {
@@ -78,26 +64,102 @@ module.exports = function(grunt) {
                 },
                 files: [{
                     expand: true,
-                    flatten: true,
-                    src: ['app/course/<%= pkg.currentCourse %>/*.html'],
-                    dest: 'dist/course/<%= pkg.currentCourse %>'
+                    cwd: 'app/',
+                    src: ['**/*.html'],
+                    dest: 'dist/'
                 }]
             }
         },
 
-        //--Images--//
-        ////output losslessly compressed images from generic folder to each course
-        imagemin: {
+        //JS
+        ////BUILD TASK
+        //////Check for errors
+        jshint: {
+            myFiles: ['app/js/*.js']
+        },
+        ////DIST TASK
+        //////TODO: add concat steps to reduce http requests
+        //////uglify
+        uglify: {
             dist: {
+                files: [{
+                    expand: true,
+                    cwd: 'app/',
+                    src: 'js/*.js',
+                    dest: 'dist/'
+                }]
+            }
+        },
+
+        //IMAGES
+        ////DIST TASK
+        //////output losslessly compressed images from generic folder to each course
+        imagemin: {
+            content: {
                 files: [{
                     expand: true,
                     src: ['app/img/**/*.{png,jpg,gif,svg}'],
                     flatten: true,
                     dest: 'dist/img/'
                 }]
-            }
+            },
+            ui: {
+                files: [{
+                    expand: true,
+                    src: ['app/ui-img/**/*.{png,jpg,gif,svg}'],
+                    flatten: true,
+                    dest: 'dist/ui-img/'
+                }]
+            },
 
         },
+
+        //JSON
+        ////DIST
+        /////Minify JSON (After copying to dist)
+        'json-minify': {
+          build: {
+            files: 'dist/json/*.json'
+          }
+        },
+
+        ////DIST TASK
+        ////helper for copying files to dist folders - icons and json
+        copy: {
+            json: {
+                files: [{
+                    expand: true,
+                    flatten: true,
+                    src: ['app/json/*.json'],
+                    dest: 'dist/json/'
+                }]
+            },
+            icons: {
+                files: [{
+                    expand: true,
+                    flatten: true,
+                    src: ['app/icons/*.{png,jpg,gif,svg}'],
+                    dest: 'dist/icons/'
+                }]
+            },
+            css: {
+                files: [{
+                    expand: true,
+                    flatten: true,
+                    src: ['app/css/*.css'],
+                    dest: 'dist/css/'
+                }]
+            },
+            js: {
+                files: [{
+                    expand: true,
+                    flatten: true,
+                    src: ['app/js/libraries/*.js'],
+                    dest: 'dist/js/libraries/'
+                }]
+            }
+        },
+
 
         //--Server--//
         ////run a local server to test development
@@ -154,14 +216,26 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-contrib-copy');
     grunt.loadNpmTasks('grunt-newer');
-
-
+    grunt.loadNpmTasks('grunt-contrib-jshint');
+    grunt.loadNpmTasks('grunt-contrib-uglify');
+    grunt.loadNpmTasks('grunt-newer');
+    grunt.loadNpmTasks('grunt-json-minify');
 
     // 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
     grunt.registerTask('default', [
         'sass',
         'codekit',
         'connect:build',
+    ]);
+
+    grunt.registerTask('dist', [
+        'copy',
+        'postcss',
+        'htmlmin',
+        'uglify',
+        'json-minify',
+        'newer:imagemin',
+        'connect:dist'
     ]);
 
 };
