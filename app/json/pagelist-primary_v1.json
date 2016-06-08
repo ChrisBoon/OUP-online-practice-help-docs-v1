@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "ids": "id01",
+      "id": "id01",
       "title": {
       "english": "Teacher",
       "turkish": "Öğretmen",
@@ -11,6 +11,7 @@
       "japanese": "先生",
       "chinese": "教師",
       "thai": "ครูผู้สอน",
+      "Indonesian": "",
       "arabic": "المعلم"
       },
       "items": [
@@ -24,6 +25,7 @@
             "japanese": "登録",
             "chinese": "註冊",
             "thai": "ลงทะเบียน",
+            "Indonesian": "",
             "arabic": "التسجيل"
           },
           "link": "primary-teacher-registration-v1_0_0"
@@ -38,6 +40,7 @@
             "japanese": "ホーム",
             "chinese": "首頁",
             "thai": "หน้าหลัก",
+            "Indonesian": "",
             "arabic": "الصفحة الرئيسية"
           },
           "link": "primary-teacher-home-v1_0_0"
@@ -52,6 +55,7 @@
             "japanese": "クラスの管理",
             "chinese": "管理班級",
             "thai": "การจัดการห้องเรียน",
+            "Indonesian": "",
             "arabic": "إدارة الفصول"
           },
           "link": "primary-teacher-manageclasses-v1_0_0"
@@ -66,6 +70,7 @@
             "japanese": "クラスの詳細",
             "chinese": "班級資料",
             "thai": "รายละเอียดห้องเรียน",
+            "Indonesian": "",
             "arabic": "تفاصيل الفصل"
           },
           "link": "primary-teacher-classdetails-v1_0_0"
@@ -80,6 +85,7 @@
             "japanese": "クラス名の編集",
             "chinese": "編輯班級名稱",
             "thai": "แก้ไขชื่อห้องเรียน",
+            "Indonesian": "",
             "arabic": "تحرير اسم الفصل"
           },
           "link": "primary-teacher-classeditname-v1_0_0"
@@ -94,6 +100,7 @@
             "japanese": "学校・団体への参加登録",
             "chinese": "加入機關單位",
             "thai": "เข้าร่วมสถาบัน",
+            "Indonesian": "",
             "arabic": "الانضمام إلى مؤسسة"
           },
           "link": "primary-teacher-joininstitution-v1_0_0"
@@ -108,6 +115,7 @@
             "japanese": "ユニットとレッスンを非表示にする",
             "chinese": "隱藏單元與課程",
             "thai": "ซ่อนหัวข้อและบทเรียน",
+            "Indonesian": "",
             "arabic": "إخفاء الوحدات والدروس"
           },
           "link": "primary-teacher-contentassign-v1_0_0"
@@ -122,6 +130,7 @@
             "japanese": "クラスの追加",
             "chinese": "新增班級",
             "thai": "เพิ่มห้องเรียนใหม่",
+            "Indonesian": "",
             "arabic": "إضافة فصل جديد"
           },
           "link": "primary-teacher-addclass-v1_0_0"
@@ -136,6 +145,7 @@
             "japanese": "クラスサマリーレポート",
             "chinese": "班級簡要報告",
             "thai": "รายงานสรุปประจำชั้น",
+            "Indonesian": "",
             "arabic": "تقرير موجز الفصل"
           },
           "link": "primary-teacher-reportclasssummary-v1_0_0"
@@ -150,6 +160,7 @@
             "japanese": "クラスレポート",
             "chinese": "班級報告",
             "thai": "รายงานประจำห้อง",
+            "Indonesian": "",
             "arabic": "التقرير الخاص بالفصل"
           },
           "link": "primary-teacher-reportclass-v1_0_0"
@@ -164,6 +175,7 @@
             "japanese": "生徒レポート",
             "chinese": "學生報告",
             "thai": "รายงานของนักเรียน",
+            "Indonesian": "",
             "arabic": "تقرير عن الطالب"
           },
           "link": "primary-teacher-reportstudent-v1_0_0"
@@ -178,6 +190,7 @@
             "japanese": "成績表",
             "chinese": "學習成果",
             "thai": "ผลการเรียนรู้",
+            "Indonesian": "",
             "arabic": "التحصيل"
           },
           "link": "primary-teacher-dashboard-v1_0_0"
@@ -192,6 +205,7 @@
             "japanese": "ユニットレポート",
             "chinese": "單元報告",
             "thai": "สรุปรายงานประจำหน่วยบทเรียน",
+            "Indonesian": "",
             "arabic": "تقرير الوحدة"
           },
           "link": "primary-teacher-reportunit-v1_0_0"
@@ -206,6 +220,7 @@
             "japanese": "レッスンレポート",
             "chinese": "課程報告",
             "thai": "รายงานประจำบทเรียน",
+            "Indonesian": "",
             "arabic": "تقرير عن الدرس"
           },
           "link": "primary-teacher-reportlesson-v1_0_0"
@@ -220,6 +235,7 @@
             "japanese": "生徒のアクティビティレポート",
             "chinese": "學生學習活動報告",
             "thai": "รายงานกิจกรรมของนักเรียน",
+            "Indonesian": "",
             "arabic": "تقرير نشاط الطالب"
           },
           "link": "primary-teacher-reportstudentactivity-v1_0_0"
@@ -234,6 +250,7 @@
             "japanese": "Online Practiceへのアクセス",
             "chinese": "進入線上練習",
             "thai": "เพิ่มแบบฝึกหัดออนไลน์",
+            "Indonesian": "",
             "arabic": "إدخال الممارسة على الإنترنت"
           },
           "link": "primary-teacher-enteronlinepractice-v1_0_0"
@@ -248,6 +265,7 @@
             "japanese": "アクティビティ",
             "chinese": "學習活動",
             "thai": "กิจกรรมการเรียนรู้",
+            "Indonesian": "",
             "arabic": "أنشطة"
           },
           "link": "primary-teacher-activities-v1_0_0"
@@ -262,6 +280,7 @@
             "japanese": "グロッサリー",
             "chinese": "詞庫",
             "thai": "อภิธานศัพท์",
+            "Indonesian": "",
             "arabic": "المسرد"
           },
           "link": "primary-teacher-glossary-v1_0_0"
@@ -276,6 +295,7 @@
             "japanese": "リソース",
             "chinese": "教學資源",
             "thai": "ศูนย์ทรัพยากรการเรียนรู้",
+            "Indonesian": "",
             "arabic": "الموارد"
           },
           "link": "primary-teacher-resources-v1_0_0"
@@ -290,6 +310,7 @@
             "japanese": "メディアセンター",
             "chinese": "媒體中心",
             "thai": "ศูนย์รวมมัลติมีเดีย",
+            "Indonesian": "",
             "arabic": "مركز الوسائط"
           },
           "link": "primary-teacher-media-v1_0_0"
@@ -304,6 +325,7 @@
             "japanese": "レベルの追加",
             "chinese": "新增級數",
             "thai": "เพิ่มระดับชั้นเรียน",
+            "Indonesian": "",
             "arabic": "إضافة مستوى"
           },
           "link": "primary-teacher-addlevel-v1_0_0"
@@ -318,6 +340,7 @@
             "japanese": "メール",
             "chinese": "電子郵件",
             "thai": "อีเมล",
+            "Indonesian": "",
             "arabic": "البريد الإلكتروني"
           },
           "link": "primary-teacher-email-v1_0_0"
@@ -332,6 +355,7 @@
             "japanese": "フォーラム",
             "chinese": "討論區",
             "thai": "กระดานสนทนา",
+            "Indonesian": "",
             "arabic": "المنتدى"
           },
           "link": "primary-teacher-forum-v1_0_0"
@@ -346,6 +370,7 @@
             "japanese": "プロフィールの編集",
             "chinese": "編輯個人檔案",
             "thai": "แก้ไขข้อมูลส่วนตัว",
+            "Indonesian": "",
             "arabic": "تحرير الملف الشخصي"
           },
           "link": "primary-teacher-editprofile-v1_0_0"
@@ -363,6 +388,7 @@
         "japanese": "生徒",
         "chinese": "學生",
         "thai": "นักเรียน",
+        "Indonesian": "",
         "arabic": "الطالب"
       },
       "items": [
@@ -376,6 +402,7 @@
             "japanese": "登録",
             "chinese": "註冊",
             "thai": "ลงทะเบียน",
+            "Indonesian": "",
             "arabic": "التسجيل"
           },
           "link": "primary-student-registration-v1_0_0"
@@ -390,6 +417,7 @@
             "japanese": "ホーム",
             "chinese": "首頁",
             "thai": "หน้าหลัก",
+            "Indonesian": "",
             "arabic": "الصفحة الرئيسية"
           },
           "link": "primary-student-home-v1_0_0"
@@ -404,6 +432,7 @@
             "japanese": "レベルの追加",
             "chinese": "新增級數",
             "thai": "เพิ่มระดับชั้นเรียน",
+            "Indonesian": "",
             "arabic": "إضافة مستوى"
           },
           "link": "primary-student-addlevel-v1_0_0"
@@ -418,6 +447,7 @@
             "japanese": "アクティビティ",
             "chinese": "學習活動",
             "thai": "กิจกรรมการเรียนรู้",
+            "Indonesian": "",
             "arabic": "أنشطة"
           },
           "link": "primary-student-activities-v1_0_0"
@@ -432,6 +462,7 @@
             "japanese": "グロッサリー",
             "chinese": "詞庫",
             "thai": "อภิธานศัพท์",
+            "Indonesian": "",
             "arabic": "المسرد"
           },
           "link": "primary-student-glossary-v1_0_0"
@@ -446,6 +477,7 @@
             "japanese": "リソース",
             "chinese": "學習資源",
             "thai": "ศูนย์ทรัพยากรการเรียนรู้",
+            "Indonesian": "",
             "arabic": "الموارد"
           },
           "link": "primary-student-resources-v1_0_0"
@@ -460,6 +492,7 @@
             "japanese": "アチーブメント",
             "chinese": "學習成果",
             "thai": "ผลการเรียนรู้",
+            "Indonesian": "",
             "arabic": "التحصيل"
           },
           "link": "primary-student-dashboard-v1_0_0"
@@ -474,6 +507,7 @@
             "japanese": "レポート",
             "chinese": "學習報告",
             "thai": "รายงาน",
+            "Indonesian": "",
             "arabic": "التقرير"
           },
           "link": "primary-student-reportprogress-v1_0_0"
@@ -488,6 +522,7 @@
             "japanese": "ユニットレポート",
             "chinese": "單元報告",
             "thai": "รายงานนักเรียนประจำหน่วยบทเรียน",
+            "Indonesian": "",
             "arabic": "تقرير الوحدة"
           },
           "link": "primary-student-reportunit-v1_0_0"
@@ -502,6 +537,7 @@
             "japanese": "メール",
             "chinese": "電子郵件",
             "thai": "อีเมล",
+            "Indonesian": "",
             "arabic": "البريد الإلكتروني"
           },
           "link": "primary-student-email-v1_0_0"
@@ -516,6 +552,7 @@
             "japanese": "フォーラム",
             "chinese": "討論區",
             "thai": "กระดานสนทนา",
+            "Indonesian": "",
             "arabic": "المنتدى"
           },
           "link": "primary-student-forum-v1_0_0"
@@ -530,6 +567,7 @@
             "japanese": "メディアセンター",
             "chinese": "媒體中心",
             "thai": "ศูนย์รวมมัลติมีเดีย",
+            "Indonesian": "",
             "arabic": "مركز الوسائط"
           },
           "link": "primary-student-media-v1_0_0"
@@ -544,6 +582,7 @@
             "japanese": "クラスへの参加登録",
             "chinese": "加入班級",
             "thai": "เข้าร่วมชั้นเรียน",
+            "Indonesian": "",
             "arabic": "الانضمام إلى فصل"
           },
           "link": "primary-student-classjoin-v1_0_0"
@@ -558,6 +597,7 @@
             "japanese": "クラスの変更",
             "chinese": "更改班級",
             "thai": "เปลี่ยนห้องเรียน",
+            "Indonesian": "",
             "arabic": "تغيير الفصل"
           },
           "link": "primary-student-classchange-v1_0_0"
@@ -572,6 +612,7 @@
             "japanese": "プロフィールの編集",
             "chinese": "編輯個人檔案",
             "thai": "แก้ไขข้อมูลส่วนตัว",
+            "Indonesian": "",
             "arabic": "تحرير الملف الشخصي"
           },
           "link": "primary-student-editprofile-v1_0_0"
@@ -589,6 +630,7 @@
         "japanese": "管理者",
         "chinese": "管理人",
         "thai": "ผู้ดูแลระบบ",
+        "Indonesian": "",
         "arabic": "مراقب النظام"
       },
       "items":[
@@ -602,6 +644,7 @@
           "japanese": "登録",
           "chinese": "註冊",
           "thai": "ลงทะเบียน",
+          "Indonesian": "",
           "arabic": "التسجيل"
         },
         "link": "primary-admin-registration-v1_0_0"
@@ -616,6 +659,7 @@
           "japanese": "ホーム",
           "chinese": "首頁",
           "thai": "หน้าหลัก",
+          "Indonesian": "",
           "arabic": "الصفحة الرئيسية"
         },
         "link": "primary-admin-home-v1_0_0"
@@ -630,6 +674,7 @@
           "japanese": "プロフィールの編集",
           "chinese": "編輯個人檔案",
           "thai": "แก้ไขข้อมูลส่วนตัว",
+          "Indonesian": "",
           "arabic": "تحرير الملف الشخصي"
         },
           "link": "primary-admin-editprofile-v1_0_0"
