@@ -1,0 +1,157 @@
+{
+ "title": {
+    "english": "Achievements",
+    "turkish": "Başarılar",
+    "spanish": "Logros",
+    "korean": "성과",
+    "chinese": "學習活動",
+    "japanese": "成績表",
+    "arabic": "التحصيل"
+  },
+ "segment": "primary",
+ "userType": ["adult"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ASD-q2e-001.png",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "korean": "", 
+        "chinese": "",
+        "japanese": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 0,
+          "numberPosLeft": 80,
+          "text":{
+            "english": "Click here to see your Reports.",
+            "turkish": "Raporlarınızı görmek için buraya tıklayın.",
+            "spanish": "Haga clic aquí para ver sus Informes.",
+            "korean": "보고서를 확인하려면 여기를 클릭하십시오. ",
+            "chinese": "點此處觀看您的學習報告。",
+            "japanese": "レポートを表示するには、こちらをクリックします。",
+            "arabic": "انقر هنا لرؤية تقاريرك."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 12,
+          "numberPosLeft": 1,
+          "text":{
+            "english": "As you complete activities in each unit of your level of Online Practice you can collect stars. The more points you score, the more stars you collect!",
+            "turkish": "Çevrim İçi Uygulama seviyenizin her bir ünitesindeki aktiviteleri tamamladığınızda yıldız kazanırsınız. Puanlarınız arttıkça aldığınız yıldızlar da artar!",
+            "spanish": "Al ir realizando las actividades en cada unidad de su nivel de Práctica Online podrá recolectar estrellas. Cuantos más puntos anote, mayor número de estrellas obtendrá.",
+            "korean": "온라인 실습의 본인 레벨에서 각 단원 활동을 완료하면 별을 받을 수 있습니다. 점수가 높아지면 더 많은 별이 모입니다!", 
+             "chinese": "當您在您的線上學習等級當中的各個單元裡面，每完成一個活動，就可以收集星星，得到越高分可以獲得越多星星！每個線上練習的學習活動，您可以嘗試三次，三次當中的最高分會被記錄下來，做為您的最高得分。",
+            "japanese": "Online Practiceのそのレベルの各ユニットのアクティビティを完了すると、星印を集めることができます。スコアが高いほど、星印の数が増えます！Online Practiceのアクティビティは3回まで取り組むことができます。そのうちの最も高いスコアが最終的なレポートに記録されます。",
+            "arabic": "عندما تكمل نشاطات في كل وحدة من مستواك في الممارسة عبر شبكة الإنترنت يمكنك أن تجمع نجوم. وكلما تسجل مزيداً من الدرجات كلما تجمع المزيد من النجوم!"
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 70,
+          "numberPosLeft": 2,
+          "text":{
+            "english": "If you score 30% of the total possible points in a unit, you will be awarded a star.",
+            "turkish": "Bir ünite için mümkün toplam puanın %30’unu aldığınızda bir yıldız kazanırsınız.",
+            "spanish": "Si anota un 30% del total de puntos posibles en una unidad se le otorgará una estrella.",
+            "korean": "단원에서 총점의 30%를 받으면 별을 하나 받습니다.", 
+            "chinese": "如果您在一個單元當中，獲得全部分數的30%，您會獲得一顆銅星星做為獎勵。",
+            "japanese": "スコアがそのユニットの総得点の30%だった場合は、ブロンズの星印がつきます。",
+            "arabic": "إذا سجّلت 30٪ من مجموع النقاط الممكنة في وحدة ما فإنك سوف تُمنح نجماً واحداً."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 52,
+          "numberPosLeft": 9,
+          "text":{
+            "english": "If you score 70% of the total possible points in a unit, you will be awarded two stars.",
+            "turkish": "Bir ünite için mümkün toplam puanın %70’ini aldığınızda iki yıldız kazanırsınız.",
+            "spanish": "Si anota un 70% del total de puntos posibles en una unidad se le otorgarán dos estrellas.",
+            "korean": "단원에서 총점의 70%를 받으면 별을 두 개 받습니다.", 
+            "chinese": "如果您在一個單元當中，獲得全部分數的70%，您會獲得一顆銀星星做為獎勵。",
+            "japanese": "スコアがそのユニットの総得点の70%だった場合は、シルバーの星印がつきます。",
+            "arabic": "إذا سجّلت 70٪ من مجموع النقاط الممكنة في وحدة ما فإنك سوف تُمنح نجمتان."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 35,
+          "numberPosLeft": 16,
+          "text":{
+            "english": "If you score 90% of the total possible points in a unit, you will be awarded three stars.",
+            "turkish": "Bir ünite için mümkün toplam puanın %90’ını aldığınızda üç yıldız kazanırsınız.",
+            "spanish": "Si anota un 90% del total de puntos posibles en una unidad se le otorgarán tres estrellas.",
+            "korean": "단원에서 총점의 90%를 받으면 별을 세 개 받습니다.",
+            "chinese": "如果您在一個單元當中，獲得全部分數的90%，您會獲得一顆金星星做為獎勵。",
+            "japanese": "スコアがそのユニットの総得点の90%だった場合は、ゴールドの星印がつきます。",
+            "arabic": "إذا سجّلت 90٪ من مجموع النقاط الممكنة في وحدة ما فإنك سوف تُمنح ثلاثة نجوم."
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 17,
+          "numberPosLeft": 21,
+          "text":{
+            "english": "If you score 100% of the total possible points in a unit, you will be awarded a bonus trophy.",
+            "turkish": "Bir ünitede toplam olası puanların %100’ünü alırsanız kupayla ödüllendirilirsiniz.",
+            "spanish": "Si obtiene el 100% del total de puntos posibles en una unidad, se le otorgará un trofeo extra.",
+            "korean": "단원에서 총점의 100%를 받으면 보너스 트로피를 받습니다.",
+            "chinese": "如果您在一個單元當中，獲得全部分數的100%，您會獲得一座加分獎盃做為獎勵。",
+            "japanese": "スコアがそのユニットの総得点の100%だった場合は、ボーナストロフィがつきます。",
+            "arabic": "إذا سجّلت 100% من مجموع النقاط الممكنة في وحدة ما, فسوف يتم منحك ميداليةمكافأة."
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 14,
+          "numberPosLeft": 63,
+          "text":{
+            "english": "This is your Dashboard. It shows your progress and average score by area or learning category like Writing, Reading and Vocabulary.",
+            "turkish": "Bu, Gösterge Panonuzdur. Kaydettiğiniz ilerlemeyi ve ortalama puanınızı Yazma, Okuma ve Kelime Hazinesi gibi alan ya da öğrenim kategorisine göre gösterir.",
+            "spanish": "Este es su Tablero. Le muestra su avance y puntuación promedio por área o categoría de aprendizaje como Escritura, Lectura y Vocabulario.",
+            "korean": "이곳은 대시보드입니다. 귀하의 진행도, 그리고 영역 또는 쓰기, 읽기, 어휘 등의 학습 분류별 평균점수를 나타냅니다.",
+            "chinese": "這是您的Dashboard（控制板）。7 它按諸如「寫作」、「閱讀」及「詞彙」等方面或學習類別顯示您的進度和平均分數。",
+            "japanese": "これはダッシュボードです。ライティング、リーディング、語彙などの分野や学習カテゴリーごとの進捗状況や平均得点を表示します。",
+            "arabic": "هذه لوحة البيانات العائدة لك والتي تبيّن مدى تقدمك ومعدل النقاط التي سجلتها في مجال الدراسة أو فئة التعلم مثل الكتابة والقراءة ومفردات الكلمات."
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 21,
+          "numberPosLeft": 75,
+          "text":{
+            "english": "The percentage is your average score for completed activities in the learning category.",
+            "turkish": "Verilen yüzde, öğrenim kategorisinde tamamladığınız aktivitelerden aldığınız ortalama puandır.",
+            "spanish": "El porcentaje es su puntuación promedio para las actividades completadas en la categoría aprendizaje.",
+            "korean": "퍼센트는 학습 분류에서 완료한 활동에 대한 귀하의 평균점수입니다.",
+            "chinese": "該百分比是您在該學習類別中已完成活動的平均分數。",
+            "japanese": "パーセンテージは学習カテゴリーで完了したアクティビティの平均得点です。",
+            "arabic": "النسبة المئوية هي معدل النقاط التي سجلتها للأنشطة المكتملة في فئة التعلم."
+          }
+        },
+        "paragraph9": {
+          "number": 9,
+          "numberPosTop": 56,
+          "numberPosLeft": 92,
+          "text":{
+            "english": "The progress bar shows the number of activities completed in the learning category.",
+            "turkish": "İlerleme çubuğu, öğrenim kategorisinde tamamlanan aktivite sayısını gösterir.",
+            "spanish": "La barra de avance muestra el número de actividades completadas en la categoría de aprendizaje.",
+            "korean": "진행 막대는 학습 분류에서 완료한 활동의 숫자를 나타냅니다.",
+            "chinese": "進度條顯示了在該學習類別中已完成活動的數目。",
+            "japanese": "進捗バーは学習カテゴリーで完了したアクティビティ数を示します。",
+            "arabic": "يبين لك شريط التقدم عدد من الأنشطة المكتملة في فئة التعلم."
+          }
+        }
+      }
+    }
+  }
+}
