@@ -111,7 +111,7 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 23,
+          "numberPosTop": 21,
           "numberPosLeft": 72,
           "text":{
             "english": "This is the Student Dashboard. It shows the student’s progress and average score by area or learning category like Writing, Reading and Vocabulary.",
@@ -125,7 +125,7 @@
         },
         "paragraph08": {
           "number": 8,
-          "numberPosTop": 48,
+          "numberPosTop": 30,
           "numberPosLeft": 74,
           "text":{
             "english": "The percentage is the student’s average score for activities completed in the learning category.",
@@ -139,7 +139,7 @@
         },
         "paragraph09": {
           "number": 9,
-          "numberPosTop": 48,
+          "numberPosTop": 30,
           "numberPosLeft": 90,
           "text":{
             "english": "The progress bar shows the number of activities students completed in the learning category.",

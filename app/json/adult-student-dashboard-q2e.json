@@ -111,8 +111,8 @@
         },
         "paragraph07": {
           "number": 7,
-          "numberPosTop": 14,
-          "numberPosLeft": 63,
+          "numberPosTop": 12.5,
+          "numberPosLeft": 82,
           "text":{
             "english": "This is your Dashboard. It shows your progress and average score by area or learning category like Writing, Reading and Vocabulary.",
             "turkish": "Bu, Gösterge Panonuzdur. Kaydettiğiniz ilerlemeyi ve ortalama puanınızı Yazma, Okuma ve Kelime Hazinesi gibi alan ya da öğrenim kategorisine göre gösterir.",
