@@ -1,0 +1,157 @@
+{
+ "title": {
+    "english": "Achievements",
+    "turkish": "Başarılar",
+    "spanish": "Logros",
+    "korean": "성과", 
+    "chinese":"學習成果",
+    "japanese": "成績表",
+    "arabic": "التحصيل"
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pageCount": 1,
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATD-q2e-001.png",
+      "pageTitle": {
+        "english": "Trophy Room",
+        "turkish": "Ödül Odası",
+        "spanish": "Sala de Trofeos",
+        "korean": "트로피 방", 
+        "chinese": "獎盃陳列室",
+        "japanese": "トロフィールーム",
+        "arabic": "غرفة الميداليات"
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 8,
+          "numberPosLeft": 67,
+          "text":{
+            "english": "This is the Trophy Room. You can see each of your students’ Trophy Room areas by clicking on “Achievements” in the Student Report area.",
+            "turkish": "Burası Ödül Odasıdır. Öğrenci Rapor alanında “Achievements” seçeneğine tıklayarak her öğrencinin Ödül Odası alanını görebilirsiniz.",
+            "spanish": "Esta es la Sala de Trofeos. Puede ver las áreas de la Sala de Trofeos de cada uno de sus estudiantes haciendo clic en \"Achievements\", en el área de Informes de Estudiantes.",
+            "korean": "여기는 트로피 방입니다. 학생 보고서 영역에서 “성과\"를 클릭하면 각 학생의 트로피 방 영역을 볼 수 있습니다.", 
+            "chinese": "這是獎盃陳列室。在學生報告區點擊 Achievements（學習成果），您可以觀看每位學生的獎盃陳列室。",
+            "japanese": "このページはトロフィールームを表示します。生徒のレポートエリアのAchievements[成績表]をクリックすると、各生徒のトロフィールームを表示できます。",
+            "arabic": "هذه هي غرفة الميداليات. يمكنك أن ترى كل مناطق غرفة الميداليات الخاصة بطلابك بالضغط على “Achievements” (\"التحصيل\") في منطقة تقرير الطالب."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 22,
+          "numberPosLeft": 3,
+          "text":{
+            "english": "Stars are awarded in the Trophy Room for the number of points a student has scored across the activities in a level.",
+            "turkish": "Bir seviyedeki aktivitelerde öğrencinin aldığı puanlar için Zafer Odasında yıldız ödülleri verilir.",
+            "spanish": "Las estrellas se otorgarán en la Sala de Trofeos según el número de puntos que un estudiante haya alcanzado en todas las actividades en un nivel.",
+            "korean": "학생이 레벨의 활동을 통해 얻은 점수에 따라 트로피 방에 별이 주어집니다.", 
+            "chinese":"按照學生在所學層級之活動中獲得的分數，在獎盃室頒發獎星。",
+            "japanese": "トロフィールームでは、生徒がレベル内のアクティビティで獲得したポイント数に対して星が授与されます。",
+            "arabic": "تمنح النجوم في غرفة المدالية لعدد من النقاط التي سجلها الطالب عبر نشاطات في مستوى ما."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 76,
+          "numberPosLeft": 3,
+          "text":{
+            "english": "If a student has scored 30% of the total possible points in a unit, they are awarded a star.",
+            "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %30’unu aldığında bir yıldız kazanır.",
+            "spanish": "Si un estudiante alcanza una puntuación del 30% del total de puntos posibles en una unidad, se le otorgará una estrella.",
+            "korean": "학생이 단원에서 총점의 30%를 받으면 별을 하나 받습니다.", 
+            "chinese": "獲得單元總分之30%的學生將獲頒一顆獎星。",
+            "japanese": "満点の30%を獲得した生徒には、星が1つ授与されます。",
+            "arabic": "إذا سجّل الطالب 30٪  من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط تُمنح نجمة واحدة."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 61,
+          "numberPosLeft": 3,
+          "text":{
+            "english": "If a student has scored 70% of the total possible points in a unit, they are awarded two stars.",
+            "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %70’ini aldığında iki yıldız kazanır.",
+            "spanish": "Si un estudiante alcanza una puntuación del 70% del total de puntos posibles en una unidad, se le otorgará dos estrellas.",
+            "korean": "학생이 단원에서 총점의 70%를 받으면 별을 두 개 받습니다.", 
+            "chinese": "獲得單元總分之70%的學生將獲頒兩顆獎星。",
+            "japanese": "満点の70%を獲得した生徒には、星が2つ授与されます。",
+            "arabic": "إذا سجّل  الطالب 70٪  من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط  تُمنح نجمتين."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 45,
+          "numberPosLeft": 3,
+          "text":{
+            "english": "If a student has scored 90% of the total possible points in a unit, they are awarded three stars.",
+            "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %90’ını aldığında üç yıldız kazanır.",
+            "spanish": "Si un estudiante alcanza una puntuación del 90% del total de puntos posibles en una unidad, se le otorgará tres estrellas.",
+            "korean": "학생이 단원에서 총점의 90%를 받으면 별을 세 개 받습니다.", 
+            "chinese": "獲得單元總分之90%的學生將獲頒三顆獎星。",
+            "japanese": "満点の90%を獲得した生徒には、星が3つ授与されます。",
+            "arabic": "إذا سجّل الطالب 90٪ من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط  تُمنح ثلاثة نجوم."
+          }
+        },
+        "paragraph06": {
+          "number": 6,
+          "numberPosTop": 30,
+          "numberPosLeft": 3,
+          "text":{
+            "english": "If a student has scored 100% of the total possible points in a unit, they are awarded a trophy.",
+            "turkish": "Öğrenci, bir ünite için mümkün toplam puanın %100’ünü aldığında bonus kazanır.",
+            "spanish": "Si un estudiante alcanza una puntuación del 100% del total de puntos posibles en una unidad, se le otorgará un trofeo.",
+            "korean": "학생이 단원에서 총점의 100%를 받으면 트로피를 받습니다.", 
+            "chinese": "獲得單元總分之滿分的學生將獲頒一座獎盃。",
+            "japanese": "満点を獲得した生徒には、トロフィーが授与されます。",
+            "arabic": "إذا كان الطالب قد سجّل  100٪  من مجموع النقاط المتوفرة في وحدة ما، فان هذه النقاط  تٌمنح بمدالية تذكار."
+          }
+        },
+        "paragraph07": {
+          "number": 7,
+          "numberPosTop": 21,
+          "numberPosLeft": 72,
+          "text":{
+            "english": "This is the Student Dashboard. It shows the student’s progress and average score by area or learning category like Writing, Reading and Vocabulary.",
+            "turkish": "Bu, Öğrenci Gösterge Panosudur. Öğrencinin kaydettiği ilerlemeyi ve ortalama puanını Yazma, Okuma ve Kelime Hazinesi gibi alan ya da öğrenim kategorisine göre gösterir.",
+            "spanish": "Este es el Tablero del estudiante. Este muestra el avance y la puntuación promedio por área o categoría de aprendizaje como Escritura, Lectura y Vocabulario.",
+            "korean": "이곳은 학생 대시보드입니다. 학생의 진행도, 그리고 영역 또는 쓰기, 읽기, 어휘 등의 학습 분류별 평균점수를 나타냅니다.",
+            "chinese": "這是學生Dashboard（控制板）。它按諸如「寫作」、「閱讀」及「詞彙」等方面或學習類別顯示該學生的進度和平均分數。",
+            "japanese": "これは生徒のダッシュボードです。ライティング、リーディング、語彙などの分野や学習カテゴリーごとの生徒の進捗状況や平均３得点を表示します。",
+            "arabic": "هذه هي لوحة بيانات الطالب التي تُبين تقدم الطالب ومعدل النقاط المسجلة حسب مجال الدراسة أو فئة التعلم مثل الكتابة والقراءة ومفردات الكلمات."
+          }
+        },
+        "paragraph08": {
+          "number": 8,
+          "numberPosTop": 30,
+          "numberPosLeft": 74,
+          "text":{
+            "english": "The percentage is the student’s average score for activities completed in the learning category.",
+            "turkish": "Verilen yüzde, öğrencinin öğrenim kategorisinde tamamladığı aktivitelerden aldığı ortalama puandır.",
+            "spanish": "El porcentaje es su puntuación promedio para las actividades completadas en la categoría aprendizaje.",
+            "korean": "퍼센트는 학습 분류에서 완료한 활동에 대한 학생의 평균점수입니다.",
+            "chinese": "該百分比是該學生在該學習類別中已完成活動的平均分數。",
+            "japanese": "パーセンテージはこの生徒が学習カテゴリーで完了したアクティビティの平均得点です。",
+            "arabic": "النسبة المئوية هي معدل النقاط المسجلة للطالب عن النشاطات المكتملة في فئة التعلم."
+          }
+        },
+        "paragraph09": {
+          "number": 9,
+          "numberPosTop": 30,
+          "numberPosLeft": 90,
+          "text":{
+            "english": "The progress bar shows the number of activities students completed in the learning category.",
+            "turkish": "İlerleme çubuğu, öğrencilerin öğrenim kategorisinde tamamladığı aktivite sayısını gösterir.",
+            "spanish": "La barra de avance muestra el número de actividades completadas por los estudiantes en la categoría de aprendizaje.",
+            "korean": "진행 막대는 학습 분류에서 학생이 완료한 활동의 숫자를 나타냅니다.",
+            "chinese": "進度條顯示了學生在該學習類別中已完成活動的數目。",
+            "japanese": "進捗バーは生徒が学習カテゴリーで完了したアクティビティ数を示しています。",
+            "arabic": "يُبين لك شريط التقدم عدد الأنشطة التي استكملها الطلاب في فئة التعلم."
+          }
+        }
+      }
+    }
+  }
+}

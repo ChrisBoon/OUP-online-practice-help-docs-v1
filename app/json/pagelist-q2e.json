@@ -9,7 +9,6 @@
         "korean": "교사",
         "japanese": "先生",
         "chinese": "教師",
-        "thai": "ครูผู้สอน",
         "arabic": "المعلم"
       },
       "items" : [
@@ -17,13 +16,12 @@
           "id" : "id01-a",
           "title" : {
             "english": "Administration",
-            "turkish": "Administration",
-            "spanish": "Administration",
-            "korean": "Administration",
-            "japanese": "Administration",
-            "chinese": "Administration",
-            "thai": "Administration",
-            "arabic": "Administration"
+            "turkish": "Yönetim",
+            "spanish": "Administración",
+            "korean": "관리",
+            "japanese": "管理",
+            "chinese": "管理",
+            "arabic": "الإدارة"
           },
           "items" : [
             {
@@ -34,7 +32,6 @@
                 "korean": "교사 등록",
                 "japanese": "登録",
                 "chinese": "註冊",
-                "thai": "ลงทะเบียน",
                 "arabic": "التسجيل"
               },
               "link": "adult-teacher-registration-v1_0_0"
@@ -47,7 +44,6 @@
                 "korean": "(교사) 홈",
                 "japanese": "ホーム",
                 "chinese": "首頁",
-                "thai": "หน้าหลัก",
                 "arabic": "الصفحة الرئيسية"
               },
               "link": "adult-teacher-home-q2e"
@@ -60,7 +56,6 @@
                 "korean": "(교사) 수업 관리",
                 "japanese": "クラスの管理",
                 "chinese": "管理班級",
-                "thai": "การจัดการห้องเรียน",
                 "arabic": "إدارة الفصول"
               },
               "link": "adult-teacher-manageclasses-q2e"
@@ -73,7 +68,6 @@
                 "korean": "(교사) 시도 관리",
                 "japanese": "試みの管理-",
                 "chinese": "管理嘗試",
-                "thai": "-",
                 "arabic": "إدارة المحاولات"
               },
               "link": "adult-teacher-manageattempts-q2e"
@@ -86,7 +80,6 @@
                 "korean": "수업 세부사항",
                 "japanese": "クラスの詳細",
                 "chinese": "班級資料",
-                "thai": "รายละเอียดห้องเรียน",
                 "arabic": "تفاصيل الفصل"
               },
               "link": "adult-teacher-classdetails-v1_0_0"
@@ -99,7 +92,6 @@
                 "korean": "수업명 편집",
                 "japanese": "クラス名の編集",
                 "chinese": "編輯班級名稱",
-                "thai": "แก้ไขชื่อห้องเรียน",
                 "arabic": "تحرير اسم الفصل"
               },
               "link": "adult-teacher-classeditname-v1_0_0"
@@ -112,7 +104,6 @@
                 "korean": "교육기관 가입",
                 "japanese": "学校・団体への参加登録",
                 "chinese": "加入機關單位",
-                "thai": "เข้าร่วมสถาบัน",
                 "arabic": "الانضمام إلى مؤسسة"
               },
               "link": "adult-teacher-joininstitution-v1_0_0"
@@ -125,7 +116,6 @@
                 "korean": "(교사) 컨텐츠 숨기기/배정 ",
                 "japanese": "ユニットとレッスンを非表示にする",
                 "chinese": "隱藏或顯示內容",
-                "thai": "",
                 "arabic": "تحديد المحتوى /إخفاء"
               },
               "link": "adult-teacher-contentassign-q2e"
@@ -138,7 +128,6 @@
                 "korean": "새 수업 추가",
                 "japanese": "クラスの追加",
                 "chinese": "新增班級",
-                "thai": "เพิ่มห้องเรียนใหม่",
                 "arabic": "إضافة فصل جديد"
               },
               "link": "adult-teacher-addclass-v1_0_0"
@@ -151,7 +140,6 @@
                 "korean": "레벨 추가 ",
                 "japanese": "レベルの追加",
                 "chinese": "新增等級",
-                "thai": "เพิ่มระดับชั้นเรียน",
                 "arabic": "إضافة مستوى"
               },
               "link": "adult-teacher-addlevel-v1_0_0"
@@ -164,7 +152,6 @@
                 "korean": "프로필 편집 ",
                 "japanese": "プロフィールの編集",
                 "chinese": "編輯個人檔案",
-                "thai": "แก้ไขข้อมูลส่วนตัว",
                 "arabic": "تحرير الملف الشخصي"
               },
               "link": "adult-teacher-editprofile-v1_0_0"
@@ -175,13 +162,12 @@
           "id" : "id01-b",
           "title" : {
             "english": "Reports and Feedback",
-            "turkish": "Reports and Feedback",
-            "spanish": "Reports and Feedback",
-            "korean": "Reports and Feedback",
-            "japanese": "Reports and Feedback",
-            "chinese": "Reports and Feedback",
-            "thai": "Reports and Feedback",
-            "arabic": "Reports and Feedback"
+            "turkish": "Raporlar ve Geri Bildirim",
+            "spanish": "Informes y comentarios",
+            "korean": "보고서 및 피드백",
+            "japanese": "レポートおよびフィードバック",
+            "chinese": "報告與回饋",
+            "arabic": "التقارير والملاحظات"
           },
           "items" : [
             {
@@ -192,7 +178,6 @@
                 "korean": "수업 요약 보고서",
                 "japanese": "クラスサマリーレポート",
                 "chinese": "班級簡要報告",
-                "thai": "รายงานสรุปประจำชั้น",
                 "arabic": "تقرير موجز الفصل"
               },
               "link": "adult-teacher-reportclasssummary-v1_0_0"
@@ -205,7 +190,6 @@
                 "korean": "수업 보고서",
                 "japanese": "クラスレポート",
                 "chinese": "班級報告",
-                "thai": "รายงานของชั้นเรียน",
                 "arabic": "التقرير الخاص بالفصل"
               },
               "link": "adult-teacher-reportclass-v1_0_0"
@@ -218,7 +202,6 @@
                 "korean": "학생 보고서",
                 "japanese": "生徒レポート",
                 "chinese": "學生報告",
-                "thai": "รายงานของนักเรียน",
                 "arabic": "تقرير عن الطالب"
               },
               "link": "adult-teacher-reportstudent-v1_0_0"
@@ -231,10 +214,9 @@
                 "korean": "성과 ",
                 "japanese": "成績表",
                 "chinese": "學習成果",
-                "thai": "ความสำเร็จ",
                 "arabic": "التحصيل"
               },
-              "link": "adult-teacher-dashboard-v1_0_0"
+              "link": "adult-teacher-dashboard-q2e"
             },
             {
               "title": {
@@ -244,10 +226,21 @@
                 "korean": "(교사) 세그먼트 보고서 ",
                 "japanese": "セグメントレポート",
                 "chinese": "部分報告",
-                "thai": "-",
                 "arabic": "تقريرالطالب الجزئي"
               },
               "link": "adult-teacher-reportsegment-q2e"
+            },
+            {
+              "title": {
+                "english": "Modify Report",
+                "turkish": "Raporda Değişiklik Yap",
+                "spanish": "Modificar Informe",
+                "korean": "보고서 수정",
+                "japanese": "レポートの変更",
+                "chinese": "修改報告",
+                "arabic": "قم بتعديل تقرير"
+              },
+              "link": "adult-teacher-reportmodify-q2e"
             },
             {
               "title": {
@@ -257,7 +250,6 @@
                 "korean": "(교사) 단원 보고서",
                 "japanese": "ユニットレポート",
                 "chinese": "單元報告",
-                "thai": "รายงานของหัวข้อในบทเรียน",
                 "arabic": "تقرير الوحدة"
               },
               "link": "adult-teacher-reportunit-q2e"
@@ -270,7 +262,6 @@
                 "korean": "학생 활동 보고서 ",
                 "japanese": "生徒のアクティビティレポート",
                 "chinese": "學生學習活動報告",
-                "thai": "รายงานกิจกรรมของนักเรียน",
                 "arabic": "تقرير نشاط الطالب"
               },
               "link": "adult-teacher-reportstudentactivity-v1_0_0"
@@ -283,7 +274,6 @@
                 "korean": "교사가 평가한 활동",
                 "japanese": "講師が採点するアクティビティ",
                 "chinese": "單元報告",
-                "thai": "-",
                 "arabic": "النشاطات التي منحها المدرس درجة"
               },
               "link": "adult-teacher-manualgradedactivity-v1_0_0"
@@ -296,7 +286,6 @@
                 "korean": "쓰기 튜터 보고서",
                 "japanese": "ライティングチューターレポート",
                 "chinese": "寫作輔導報告",
-                "thai": "-",
                 "arabic": " تقارير مدرس الكتابة الخصوصي"
               },
               "link": "adult-teacher-writingtutorreport-q2e"
@@ -309,7 +298,6 @@
                 "korean": "쓰기 튜터 교사 피드백",
                 "japanese": "ライティングチューターの講師フィードバック",
                 "chinese": "寫作輔導教師回饋",
-                "thai": "-",
                 "arabic": "ملاحظات المدرس إلى معلم الكتابة الخصوصي"
               },
               "link": "adult-teacher-writingtutorfeedback-v1_0_0"
@@ -320,13 +308,12 @@
           "id" : "id01-c",
           "title" : {
             "english": "Content and Communication",
-            "turkish": "Content and Communication",
-            "spanish": "Content and Communication",
-            "korean": "Content and Communication",
-            "japanese": "Content and Communication",
-            "chinese": "Content and Communication",
-            "thai": "Content and Communication",
-            "arabic": "Content and Communication"
+            "turkish": "İçerik ve İletişim",
+            "spanish": "Contenido y comunicación",
+            "korean": "내용 및 커뮤니케이션",
+            "japanese": "内容および通信",
+            "chinese": "內容與交流",
+            "arabic": "المحتوى والاتصالات"
           },
           "items" : [
             {
@@ -337,7 +324,6 @@
                 "korean": "활동 및 자료",
                 "japanese": "アクティビティとリソース",
                 "chinese": "活動與資源",
-                "thai": "-",
                 "arabic": "أنشطة و الموارد"
               },
               "link": "adult-teacher-enteronlinepractice-v1_0_0"
@@ -350,7 +336,6 @@
                 "korean": "(교사) 활동",
                 "japanese": "アクティビティ",
                 "chinese": "學習活動",
-                "thai": "กิจกรรม",
                 "arabic": "أنشطة"
               },
               "link": "adult-teacher-activities-q2e"
@@ -363,7 +348,6 @@
                 "korean": "쓰기 튜터",
                 "japanese": "ライティングチューター",
                 "chinese": "寫作輔導",
-                "thai": "-",
                 "arabic": "معلم الكتابة الخصوصي"
               },
               "link": "adult-teacher-writingtutor-q2e"
@@ -376,7 +360,6 @@
                 "korean": "자료",
                 "japanese": "リソース",
                 "chinese": "教學資源",
-                "thai": "ศูนย์ทรัพยากรการเรียนรู้",
                 "arabic": "الموارد"
               },
               "link": "adult-teacher-resources-v1_0_0"
@@ -389,7 +372,6 @@
                 "korean": "(교사) 미디어 센터",
                 "japanese": "メディアセンター",
                 "chinese": "媒體中心",
-                "thai": "ศูนย์รวมมัลติมีเดีย",
                 "arabic": "مركز الوسائط"
               },
               "link": "adult-teacher-media-q2e"
@@ -402,7 +384,6 @@
                 "korean": "이메일",
                 "japanese": "メール",
                 "chinese": "電子郵件",
-                "thai": "อีเมล",
                 "arabic": "البريد الإلكتروني"
               },
               "link": "adult-teacher-email-v1_0_0"
@@ -415,7 +396,6 @@
                 "korean": "게시판",
                 "japanese": "ディスカッションボード",
                 "chinese": "討論區",
-                "thai": "-",
                 "arabic": "المناقشة لوحة"
               },
               "link": "adult-teacher-discussionboard-v1_0_0"
@@ -433,7 +413,6 @@
         "korean": "학생",
         "japanese": "生徒",
         "chinese": "學生",
-        "thai": "นักเรียน",
         "arabic": "الطالب"
       },
       "items" : [
@@ -441,13 +420,12 @@
           "id" : "id02-a",
           "title" : {
             "english": "Administration",
-            "turkish": "Administration",
-            "spanish": "Administration",
-            "korean": "Administration",
-            "japanese": "Administration",
-            "chinese": "Administration",
-            "thai": "Administration",
-            "arabic": "Administration"
+            "turkish": "Yönetim",
+            "spanish": "Administración",
+            "korean": "관리",
+            "japanese": "管理",
+            "chinese": "管理",
+            "arabic": "الإدارة"
           },
           "items" : [
             {
@@ -458,7 +436,6 @@
                 "korean": "등록",
                 "japanese": "登録",
                 "chinese": "註冊",
-                "thai": "ลงทะเบียน",
                 "arabic": "التسجيل"
               },
               "link": "adult-student-registration-v1_0_0"
@@ -471,7 +448,6 @@
                 "korean": "(학생) 홈",
                 "japanese": "ホーム",
                 "chinese": "首頁",
-                "thai": "หน้าหลัก",
                 "arabic": "الصفحة الرئيسية"
               },
               "link": "adult-student-home-q2e"
@@ -484,7 +460,6 @@
                 "korean": "레벨 추가 ",
                 "japanese": "レベルの追加",
                 "chinese": "新增等級",
-                "thai": "เพิ่มระดับชั้นเรียน",
                 "arabic": "إضافة مستوى"
               },
               "link": "adult-student-addlevel-v1_0_0"
@@ -497,7 +472,6 @@
                 "korean": "수업 참여",
                 "japanese": "クラスへの参加登録",
                 "chinese": "加入班級",
-                "thai": "เข้าร่วมชั้นเรียน",
                 "arabic": "الانضمام إلى فصل"
               },
               "link": "adult-student-classjoin-v1_0_0"
@@ -510,7 +484,6 @@
                 "korean": "수업 변경",
                 "japanese": "クラスの変更",
                 "chinese": "更改班級",
-                "thai": "เปลี่ยนห้องเรียน",
                 "arabic": "تغيير الفصل"
               },
               "link": "adult-student-classchange-v1_0_0"
@@ -523,7 +496,6 @@
                 "korean": "프로필 편집 ",
                 "japanese": "プロフィールの編集",
                 "chinese": "編輯個人檔案",
-                "thai": "แก้ไขข้อมูลส่วนตัว",
                 "arabic": "تحرير الملف الشخصي"
               },
               "link": "adult-student-editprofile-v1_0_0"
@@ -534,13 +506,12 @@
           "id" : "id02-b",
           "title" : {
             "english": "Reports and Feedback",
-            "turkish": "Reports and Feedback",
-            "spanish": "Reports and Feedback",
-            "korean": "Reports and Feedback",
-            "japanese": "Reports and Feedback",
-            "chinese": "Reports and Feedback",
-            "thai": "Reports and Feedback",
-            "arabic": "Reports and Feedback"
+            "turkish": "Raporlar ve Geri Bildirim",
+            "spanish": "Informes y comentarios",
+            "korean": "보고서 및 피드백",
+            "japanese": "レポートおよびフィードバック",
+            "chinese": "報告與回饋",
+            "arabic": "التقارير والملاحظات"
           },
           "items" : [
             {
@@ -551,10 +522,9 @@
                 "korean": "성과 ",
                 "japanese": "アチーブメント",
                 "chinese": "學習成果",
-                "thai": "ความสำเร็จ",
                 "arabic": "التحصيل"
               },
-              "link": "adult-student-dashboard-v1_0_0"
+              "link": "adult-student-dashboard-q2e"
             },
             {
               "title": {
@@ -564,7 +534,6 @@
                 "korean": "보고서",
                 "japanese": "レポート",
                 "chinese": "學習報告",
-                "thai": "รายงาน",
                 "arabic": "التقرير"
               },
               "link": "adult-student-reportprogress-v1_0_0"
@@ -577,7 +546,6 @@
                 "korean": "세그먼트 보고서",
                 "japanese": "セグメントレポート",
                 "chinese": "部分報告",
-                "thai": "-",
                 "arabic": "تقريرالطالب الجزئي"
               },
               "link": "adult-student-reportsegment-q2e"
@@ -590,7 +558,6 @@
                 "korean": "쓰기 튜터 보고서",
                 "japanese": "ライティングチューターレポート",
                 "chinese": "寫作輔導報告",
-                "thai": "-",
                 "arabic": "تقارير معلم الكتابة الخصوصي"
               },
               "link": "adult-student-writingtutorreport-v1_0_0"
@@ -603,7 +570,6 @@
                 "korean": "(학생) 교사 피드백",
                 "japanese": "ライティングチューターの講師フィードバック",
                 "chinese": "寫作輔導教師回饋",
-                "thai": "-",
                 "arabic": "ملاحظات المدرس"
               },
               "link": "adult-student-teacherfeedback-v1_0_0"
@@ -614,13 +580,12 @@
           "id" : "id02-c",
           "title" : {
             "english": "Content and Communication",
-            "turkish": "Content and Communication",
-            "spanish": "Content and Communication",
-            "korean": "Content and Communication",
-            "japanese": "Content and Communication",
-            "chinese": "Content and Communication",
-            "thai": "Content and Communication",
-            "arabic": "Content and Communication"
+            "turkish": "İçerik ve İletişim",
+            "spanish": "Contenido y comunicación",
+            "korean": "내용 및 커뮤니케이션",
+            "japanese": "内容および通信",
+            "chinese": "內容與交流",
+            "arabic": "المحتوى والاتصالات"
           },
           "items" : [
             {
@@ -631,7 +596,6 @@
                 "korean": "(학생) 활동",
                 "japanese": "アクティビティ",
                 "chinese": "學習活動",
-                "thai": "กิจกรรม",
                 "arabic": "أنشطة"
               },
               "link": "adult-student-activities-q2e"
@@ -644,7 +608,6 @@
                 "korean": "자료",
                 "japanese": "リソース",
                 "chinese": "學習資源",
-                "thai": "ศูนย์ทรัพยากรการเรียนรู้",
                 "arabic": "الموارد"
               },
               "link": "adult-student-resources-v1_0_0"
@@ -657,7 +620,6 @@
                 "japanese": "メール",
                 "korean": "이메일",
                 "chinese": "電子郵件",
-                "thai": "อีเมล",
                 "arabic": "البريد الإلكتروني"
               },
               "link": "adult-student-email-v1_0_0"
@@ -670,7 +632,6 @@
                 "korean": "게시판",
                 "japanese": "ディスカッションボード",
                 "chinese": "討論區",
-                "thai": "-",
                 "arabic": "المناقشة لوحة"
               },
               "link": "adult-student-discussionboard-v1_0_0"
@@ -683,7 +644,6 @@
                 "korean": "(학생) 미디어 센터",
                 "japanese": "メディアセンター",
                 "chinese": "媒體中心",
-                "thai": "ศูนย์รวมมัลติมีเดีย",
                 "arabic": "مركز الوسائط"
               },
               "link": "adult-student-media-q2e"
@@ -701,7 +661,6 @@
         "korean": "교육기관 관리자 ",
         "japanese": "管理者",
         "chinese": "管理人",
-        "thai": "ผู้ดูแลระบบ",
         "arabic": "مراقب النظام"
       },
       "items" : [
@@ -713,7 +672,6 @@
             "korean": "등록",
             "japanese": "登録",
             "chinese": "註冊",
-            "thai": "ลงทะเบียน",
             "arabic": "التسجيل"
           },
           "link" : "adult-admin-registration-v1_0_0"
@@ -726,7 +684,6 @@
             "korean": "(교육기관 관리자) 홈",
             "japanese": "ホーム",
             "chinese": "首頁",
-            "thai": "หน้าหลัก",
             "arabic": "الصفحة الرئيسية"
           },
           "link" : "adult-admin-home-q2e"
@@ -739,7 +696,6 @@
             "korean": "프로필 편집",
             "japanese": "プロフィールの編集",
             "chinese": "編輯個人檔案",
-            "thai": "แก้ไขข้อมูลส่วนตัว",
             "arabic": "تحرير الملف الشخصي"
           },
           "link": "adult-admin-editprofile-v1_0_0"
