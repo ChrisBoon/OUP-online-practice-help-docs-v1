@@ -202,12 +202,12 @@
           "numberPosLeft": 7,
           "text":{
             "english": "The same instructions apply to both the practice and the test segments.",
-            "turkish": "_",
-            "spanish": "_",
-            "korean": "_",
-            "chinese": "_",
-            "japanese": "_",
-            "arabic": "_"
+            "turkish": "Hem uygulama hem de test bölümleri için aynı talimat geçerlidir.",
+            "spanish": "Las mismas instrucciones se aplican a los segmentos de práctica y del examen.",
+            "korean": "실습 및 테스트 부분에 동일한 지침이 적용됩니다.",
+            "chinese": "這些說明同時適用於練習和測驗部分。",
+            "japanese": "練習セグメントとテストセグメントの両方で、同じ手順を使用します。",
+            "arabic": "تطبق نفس التعليمات على التمرين ومقاطع الاختبار."
           }
         }
       }

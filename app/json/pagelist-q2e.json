@@ -16,12 +16,12 @@
           "id" : "id01-a",
           "title" : {
             "english": "Administration",
-            "turkish": "Administration",
-            "spanish": "Administration",
-            "korean": "Administration",
-            "japanese": "Administration",
-            "chinese": "Administration",
-            "arabic": "Administration"
+            "turkish": "Yönetim",
+            "spanish": "Administración",
+            "korean": "관리",
+            "japanese": "管理",
+            "chinese": "管理",
+            "arabic": "الإدارة"
           },
           "items" : [
             {
@@ -162,12 +162,12 @@
           "id" : "id01-b",
           "title" : {
             "english": "Reports and Feedback",
-            "turkish": "Reports and Feedback",
-            "spanish": "Reports and Feedback",
-            "korean": "Reports and Feedback",
-            "japanese": "Reports and Feedback",
-            "chinese": "Reports and Feedback",
-            "arabic": "Reports and Feedback"
+            "turkish": "Raporlar ve Geri Bildirim",
+            "spanish": "Informes y comentarios",
+            "korean": "보고서 및 피드백",
+            "japanese": "レポートおよびフィードバック",
+            "chinese": "報告與回饋",
+            "arabic": "التقارير والملاحظات"
           },
           "items" : [
             {
@@ -308,12 +308,12 @@
           "id" : "id01-c",
           "title" : {
             "english": "Content and Communication",
-            "turkish": "Content and Communication",
-            "spanish": "Content and Communication",
-            "korean": "Content and Communication",
-            "japanese": "Content and Communication",
-            "chinese": "Content and Communication",
-            "arabic": "Content and Communication"
+            "turkish": "İçerik ve İletişim",
+            "spanish": "Contenido y comunicación",
+            "korean": "내용 및 커뮤니케이션",
+            "japanese": "内容および通信",
+            "chinese": "內容與交流",
+            "arabic": "المحتوى والاتصالات"
           },
           "items" : [
             {
@@ -420,12 +420,12 @@
           "id" : "id02-a",
           "title" : {
             "english": "Administration",
-            "turkish": "Administration",
-            "spanish": "Administration",
-            "korean": "Administration",
-            "japanese": "Administration",
-            "chinese": "Administration",
-            "arabic": "Administration"
+            "turkish": "Yönetim",
+            "spanish": "Administración",
+            "korean": "관리",
+            "japanese": "管理",
+            "chinese": "管理",
+            "arabic": "الإدارة"
           },
           "items" : [
             {
@@ -506,12 +506,12 @@
           "id" : "id02-b",
           "title" : {
             "english": "Reports and Feedback",
-            "turkish": "Reports and Feedback",
-            "spanish": "Reports and Feedback",
-            "korean": "Reports and Feedback",
-            "japanese": "Reports and Feedback",
-            "chinese": "Reports and Feedback",
-            "arabic": "Reports and Feedback"
+            "turkish": "Raporlar ve Geri Bildirim",
+            "spanish": "Informes y comentarios",
+            "korean": "보고서 및 피드백",
+            "japanese": "レポートおよびフィードバック",
+            "chinese": "報告與回饋",
+            "arabic": "التقارير والملاحظات"
           },
           "items" : [
             {
@@ -580,12 +580,12 @@
           "id" : "id02-c",
           "title" : {
             "english": "Content and Communication",
-            "turkish": "Content and Communication",
-            "spanish": "Content and Communication",
-            "korean": "Content and Communication",
-            "japanese": "Content and Communication",
-            "chinese": "Content and Communication",
-            "arabic": "Content and Communication"
+            "turkish": "İçerik ve İletişim",
+            "spanish": "Contenido y comunicación",
+            "korean": "내용 및 커뮤니케이션",
+            "japanese": "内容および通信",
+            "chinese": "內容與交流",
+            "arabic": "المحتوى والاتصالات"
           },
           "items" : [
             {
