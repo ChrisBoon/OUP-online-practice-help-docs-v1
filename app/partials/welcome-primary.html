@@ -504,3 +504,171 @@ ng-if="language.language == 'thai'"
   </div><!--/welcome-page__container-->
 
 </div><!--/welcome-page THAI-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'korean'"
+>
+
+  <h1 class="welcome-page__heading">{{courseName}} 온라인 실습 도움에 오신 것을 환영합니다.</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">온라인 실습 도움 이용</h2>
+      <p>학생, 교사, 교육 관리자를 위한 온라인 실습 과정의 여러 부분을 이용하며 왼쪽 슬라이드 메뉴를 이용하여 도움말과 안내를 확인하십시오.</p>
+      <p>각 도움 항목의 텍스트를 클릭하시면 스크린 샷에서 관련 번호의 하이라이트를 볼 수 있습니다.</p>
+      <p ng-if="appLanguages.length > 1">온라인 실습 도움 영역의 우측 메뉴를 이용하여 여러 언어를 볼 수 있습니다.</p>
+    </div>
+    
+    <div class="welcome-page__segment welcome-page__segment--support">
+      <h2 class="welcome-page__segment__heading">ELT Support</h2>
+     <p>추가 지원이 필요하시면 ELTsupport@oup.com으로 이메일을 보내주십시오<a class="external-link" href="mailto:ELTsupport@oup.com?subject= {{courseName}} query">ELTsupport@oup.com</a>. 이메일에 다음 정보를 넣어주십시오:</p>
+        <ul>
+          <li>컴퓨터의 유형 (예:  PC 또는 Mac)</li>
+          <li>운영체제(예: Windows 8)</li>
+          <li>브라우저 (예: Firefox 17.0.5)</li>
+          <li>문제가 발생하기 전에 했던 활동을 포함한 문제에 대한 설명</li>
+        </ul>
+    </div>
+    
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">권장 브라우저 및 지원 장치</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Windows®:</h3>
+        <p>Internet Explorer 9+, Firefox, Chrome</p>
+        <p>활동을 기록하려면 Flash Player 11+ 플러그인이 필요합니다.</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Mac® OS X:</h3>
+        <p>Firefox, Safari 7.0.2+, Chrome</p>
+        <p>활동을 기록하려면 Flash Player 11+ 플러그인이 필요합니다.</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Android®:</h3>
+        <p>OS는 4.0 이상이어야 하며 지원 브라우저는 Google® Chrome입니다.</p>
+        <p>다음 장치에서 시험을 실시하였으며 지원이 가능합니다. 삼성® Galaxy Tab v2 & v3, 삼성® Galaxy Note 10.1 7” & 10”, Google® Nexus 7, Google® Nexus 10</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">iOS®:</h3>
+        <p>OS는 iOS®6 이후 버전이어야 하며 지원 브라우저는 Safari입니다.</p>
+        <p>iPad® 2 이후, iPad® Mini, iPad® Air 장치에서 시험을 실시하였으며 지원이 가능합니다.</p>
+      </div>
+      <p class="small-text">* Windows® 및 Mac® OSX 활동 기록을 위해 Flash Player 11+ 플러그인이 필요합니다. http://get.adobe.com/flashplayer/에서 최신 Flash Player를 다운로드하십시오. <a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a></p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page KOREAN-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'vietnamese'"
+>
+
+  <h1 class="welcome-page__heading">Chào mừng bạn đến với phần Trợ giúp Thực hành Qua mạng cho khóa học {{courseName}}</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">Sử dụng phần Trợ giúp Thực hành Qua mạng</h2>
+      <p>Dùng trình đơn trượt ngang ở bên trái để tìm thông tin trợ giúp và hướng dẫn dành cho học sinh, giáo viên và quản trị viên về cách sử dụng các phần khác nhau của khóa học Thực hành Qua mạng của bạn.</p>
+      <p>Ở mỗi phần Trợ giúp, bạn có thể nhấp chuột vào bất kỳ nội dung nào và một con số tương ứng được tô sáng sẽ hiển thị trên hình chụp màn hình.</p>
+      <p ng-if="appLanguages.length > 1">Dùng trình đơn ở bên phải để sử dụng phần Trợ giúp Thực hành Qua mạng bằng một ngôn ngữ khác.</p>
+    </div>
+    
+    <div class="welcome-page__segment welcome-page__segment--support">
+      <h2 class="welcome-page__segment__heading">ELT Support</h2>
+     <p>Để được trợ giúp thêm, hãy gửi email <a class="external-link" href="mailto:ELTsupport@oup.com?subject= {{courseName}} query">ELTsupport@oup.com</a>. Vui lòng gửi kèm các thông tin sau trong email của bạn:</p>
+        <ul>
+          <li>Loại máy tính của bạn (ví dụ, PC hay Mac)</li>
+          <li>Hệ điều hành của bạn (ví dụ, Windows 8)</li>
+          <li>Trình duyệt của bạn (ví dụ, Firefox 17.0.5)</li>
+          <li>Môtảvềvấnđề,gồmcảbấtkỳviệclàmcụthểnàođãthựchiện trước khi vấn đề xảy ra</li>
+        </ul>
+    </div>
+    
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">Các Trình duyệt Khuyến nghị và Thiết bị được Hỗ trợ</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Windows®:</h3>
+        <p>Internet Explorer 9+, Firefox, Chrome</p>
+        <p>Cần có phần mềm Flash Player 11+ plug-in cho các Hoạt Động thu âm</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Mac® OS X:</h3>
+        <p>Firefox, Safari 7.0.2+, Chrome</p>
+        <p>Cần có phần mềm Flash Player 11+ plug-in cho các Hoạt Động thu âm</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Android®:</h3>
+        <p>Hệ điều hành OS phải là 4.0 hoặc cao hơn và trình duyệt được hỗ trợ là Google® Chrome</p>
+        <p>Đã được thử nghiệm và hỗ trợ trên các thiết bị sau: Samsung® Galaxy Tab v2 & v3, Samsung® Galaxy Note 10.1 7” & 10”, Google® Nexus 7, Google® Nexus 10</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">iOS®:</h3>
+        <p>Hệ điều hành OS phải là iOS®6 hoặc cao hơn và trình duyệt được hỗ trợ là Safari</p>
+        <p>Đã được thử nghiệm và hỗ trợ trên các thiết bị sau: iPad® 2 hoặc đời mới hơn, iPad® Mini, iPad® Air</p>
+      </div>
+      <p class="small-text">* Việc thu âm trên hệ điều hành Windows® và Mac® OSX cần có Flash Player 11+ plug-in. Hãy vào trang web sau để tải về phiên bản mới nhất của Flash Player: <a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a></p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page VIETNAMESE-->
+
+<div 
+class="welcome-page"
+ng-if="language.language == 'indonesian'"
+>
+
+  <h1 class="welcome-page__heading">Selamat Datang di Layar Bantu Praktik Online {{courseName}}</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">Menggunakan Halaman Bantu Praktik Online</h2>
+      <p>Gunakanlah menu geser di sebelah kiri ini untuk memperoleh bantuan dan pedoman tentang bagaimana menggunakan area-area yang berbeda dari kursus Praktik Online anda untuk para murid, guru dan administratur.</p>
+      <p>Klik setiap bagian teks di setiap bagian Layar Bantu untuk melihat angka yang berhubungan yang terpajang di screen shot.</p>
+      <p ng-if="appLanguages.length > 1">Gunakan menu di sebelah kanan untuk menggunakan area Layar Bantu Praktik Online dalam suatu bahasa yang lain.</p>
+    </div>
+    
+    <div class="welcome-page__segment welcome-page__segment--support">
+      <h2 class="welcome-page__segment__heading">ELT Support</h2>
+     <p>Untuk bantuan tambahan, kirimlah email ke <a class="external-link" href="mailto:ELTsupport@oup.com?subject= {{courseName}} query">ELTsupport@oup.com</a>. Harap mencakup informasi sebagai berikut di dalam email anda:</p>
+        <ul>
+          <li>Tipe komputer anda (misalnya, PC atau Mac)</li>
+          <li>Sistem operasi anda (misalnya, Windows 8)</li>
+          <li>Peramban anda (misalnya, Firefox 17.0.5)</li>
+          <li>Suatu deskripsi atas masalahnya, termasuk tindakan-tindakan tertentu yang anda lakukan sebelum masalah terjadi</li>
+        </ul>
+    </div>
+    
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">Peramban dan Perangkat Pembantu yang Disarankans</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Windows®:</h3>
+        <p>Internet Explorer 9+, Firefox, Chrome</p>
+        <p>Flash Player 11+ plug-in diperlukan untuk dapat merekam Aktivitas-aktivitas</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Mac® OS X:</h3>
+        <p>Firefox, Safari 7.0.2+, Chrome</p>
+        <p>Flash Player 11+ plug-in diperlukan untuk dapat merekam Aktivitas-akti</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Android®:</h3>
+        <p>OS must be 4.0 atau lebih baru dan peramban yang didukung ialah Google® Chromee</p>
+        <p>Sudah diuji dan didukung di berbagai perangkat sebagai berikut:Samsung® Galaxy Tab v2 & v3, Samsung® Galaxy Note 10.1 7” & 10”, Google® Nexus 7, Google® Nexus 10</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">iOS®:</h3>
+        <p>OS harus iOS®6 atau lebih baru dan peramban yang didukung ialah Safari</p>
+        <p>Sudah diuji dan didukung di berbagai perangkat sebagai berikut: iPad® 2 atau lebih baru, iPad® Mini, iPad® Air</p>
+      </div>
+      <p class="small-text">* Merekam aktivitas-aktivitas di Windows® dan Mac® OSX memerlukan Flash Player 11+ plug-in. Kunjungilah situs berikut untuk mengunduh versi Flash Player yang paling baru: <a class="external-link" href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a></p>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page INDONESIAN-->

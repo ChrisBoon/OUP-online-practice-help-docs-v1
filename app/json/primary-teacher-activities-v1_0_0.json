@@ -8,6 +8,9 @@
     "japanese": "アクティビティ",
     "chinese": "學習活動",
     "thai": "กิจกรรมการเรียนรู้",
+    "indonesian":"Aktivitas-aktivitas",
+    "korean":"활동",
+    "vietnamese":"Các Hoạt động",
     "arabic": "أنشطة"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "indonesian":"",
+        "korean":"",
+        "vietnamese":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "ユニットとレッスンはこちらのメニューから選択します。ユニットとレッスンを選択すると、そのレッスンの最初のアクティビティが表示されます。",
             "chinese": "請使用本選單來選擇單元與課程。當您選擇一個單元與課程，您將前往該課程裡的第一個學習活動。",
             "thai": "เมนูนี้สำหรับเลือกหัวข้อและบทเรียน  เมื่อเลือกหัวข้อและบทเรียนที่ต้องการ ระบบจะนำไปที่หน้าแรกของกิจกรรม",
+            "indonesian":"Gunakan menu ini untuk memilih suatu unit dan pelajaran. Bila anda memilih suatu unit dan pelajaran anda akan dibawa ke aktivitas pertama di dalam suatu pelajaran.",
+            "korean":"이 메뉴를 이용하여 단원을 선택하십시오. 단원을 선택하시면 단원 내 첫 번째 활동으로 이동합니다.",
+            "vietnamese":"Dùng trình đơn này để chọn bài học và bài tập. Khi bạn chọn bài học và bài tập, bạn sẽ được chuyển đến hoạt động đầu tiên trong bài tập đó.",
             "arabic": "استخدم هذه القائمة لاختيار وحدة ودرس. عند اختيار وحدة ودرس سيتم نقلك إلى النشاط الأول ضمن الدرس."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "このレッスンのアクティビティはこちらのメニューから選択します。",
             "chinese": "請使用本選單來選擇課程內的一項學習活動。",
             "thai": "เมนูนี้สำหรับเลือกกิจกรรมภายในบทเรียน",
+            "indonesian":"Gunakan menu ini untuk memilih suatu aktivitas di dalam suatu pelajaran.",
+            "korean":"이 메뉴를 이용하여 단원 내의 활동을 선택하십시오.",
+            "vietnamese":"Dùng trình đơn này để chọn một hoạt động trong bài tập.",
             "arabic": "استخدم هذه القائمة لاختيار النشاط من خلال الدرس."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "アクティビティを順番に進めるには、Previous[前に]とNext[次へ]ボタンをクリックします。",
             "chinese": "請使用 Previous（往前）與 Next（往後）按鈕，即可依序瀏覽各項活動。",
             "thai": "ใช้ปุ่ม “Previous” และ “Next” สำหรับนำทางในกิจกรรมตามลำดับ ",
+            "indonesian":"Gunakan tombol-tombol \"Sebelum\" dan \"Sesudah\" untuk menjelajahi berbagai aktivitas secara urut.",
+            "korean":"\"Previous(이전)\"와 \"Next(다음)\"버튼을 이용하여 순서대로 활동을 이동하십시오.",
+            "vietnamese":"Dùng các nút “Trở lại” và “Tiếp tục” để thực hiện các hoạt động theo trình tự.",
             "arabic": "استخدم الزرينِ “Next” (\"التالي\")و“Previous”(\"السابق\") للتنقل خلال الأنشطة في تسلسل."
           }
         },
@@ -90,6 +105,9 @@
             "japanese": "Online Practiceのアクティビティは、このエリアに表示されます。",
             "chinese": "線上練習的學習活動在此區展示。",
             "thai": "กิจกรรมของแบบฝึกหัดออนไลน์  จะถูกแสดงที่นี่",
+            "indonesian":"Aktivitas-aktivitas Praktik Online diperagakan dalam area ini.",
+            "korean":"온라인 실습 활동은 여기에 표시됩니다.",
+            "vietnamese":"Các hoạt động Thực hành Qua mạng được hiển thị ở phần này.",
             "arabic": "يتم عرض أنشطة الممارسة عبر شبكةالإنترنت في هذه المنطقة."
           }
         },
@@ -106,6 +124,9 @@
             "japanese": "この生徒の現在のアクティビティの得点はこちらに表示されます。",
             "chinese": "學生目前的學習活動得分在此顯示。",
             "thai": "คะแนนการทำกิจกรรมของนักเรียน จะถูกแสดงที่นี่",
+            "indonesian":"Skor aktivitas seorang murid yang terkini diperagakan di sini.",
+            "korean":"학생의 현재 활동 점수는 여기에 표시됩니다.",
+            "vietnamese":"Điểm số hoạt động hiện tại của học sinh được thể hiện tại đây.",
             "arabic": "تظهر درجة النشاط الحالي للطالب هنا."
           }
         },
@@ -122,6 +143,9 @@
             "japanese": "アクティビティは3回まで取り組むことができます。そのうちの1番高い得点が生徒用レポートに記録されます。",
             "chinese": "學生可以嘗試一項學習活動三次，當中的最高分會紀錄在該學生的學習報告。",
             "thai": "นักเรียนสามารถทำกิจกรรมได้ไม่เกินสามครั้งต่อหนึ่งกิจกรรม ระบบจะบันทึกคะแนนที่ได้สูงที่สุดไว้ที่ฐานข้อมูล",
+            "indonesian":"Seorang murid dapat mencoba suatu aktivitas sebanyak tiga kali. Skor paling tinggi dari semua percobaan itu direkam dalam rapor murid.",
+            "korean":"학생은 활동을 세 번 시도할 수 있습니다. 그 중 최고 점수가 학생 보고서에 기록됩니다.",
+            "vietnamese":"Học sinh có thể làm thử hoạt động tối đa ba lần. Điểm số cao nhất trong các lần thử của học sinh được ghi lại trong báo cáo của học sinh.",
             "arabic": "يمكن للطالب أن يحاول في نشاط ما ثلاث مرات. يتم تسجيل أعلى درجة لمحاولاتهم في تقرير الطالب."
           }
         },
@@ -138,6 +162,9 @@
             "japanese": "アクティビティを完了させるための手引きとしてQuick Tipのポップアップを見るには、こちらをクリックします。",
             "chinese": "點此處會彈出小訣竅視窗，指引學生如何完成一項學習活動。。",
             "thai": "อ่านข้อแนะนำในการทำกิจกรรมให้ประสบความสำเร็จได้ที่นี่",
+            "indonesian":"Klik di sini untuk melihat suatu pop-up Tip Singkat dengan panduan untuk menyelesaikan suatu aktivitas.",
+            "korean":"활동 완료 안내와 함께 퀵팁 팝업을 보려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây và một cửa sổ Mẹo Nhanh sẽ bật lên với hướng dẫn để hoàn thành một hoạt động.",
             "arabic": "انقر هنا لرؤية نصيحة سريعة منبثقة مع توجيهات بشأن استكمال النشاط."
           }
         },
@@ -154,6 +181,9 @@
             "japanese": "アクティビティに添付ファイルがある場合は、こちらにアイコンが表示されます。添付ファイルをクリックすると、ダウンロードまたは表示できます。",
             "chinese": "如果學習活動有附件，此處會有圖示，點擊圖示可以下載或顯示附件。",
             "thai": "หากในกิจกรรมมีเอกสารแนบ ระบบจะแสดงสัญลักษณ์ที่นี่  คลิกเพื่อดาวน์โหลด หรือแสดงเอกสารแนบ",
+            "indonesian":"Jika suatu aktivitas memiliki lampiran, suatu ikon akan muncul di sini. Klik untuk mengunduh atau memperagakan lampiran yang bersangkutan.",
+            "korean":"활동에 첨부물이 있는 경우 여기에 아이콘이 나타납니다. 아이콘을 클릭하여 첨부물을 다운로드하거나 표시하십시오.",
+            "vietnamese":"Nếu một hoạt động có tập tin đính kèm thì sẽ có biểu tượng xuất hiện tại đây. Nhấp chuột vào để tải về hoặc hiển thị tập tin đính kèm.",
             "arabic": "في حالة احتواء النشاط على مرفق، فستظهر أيقونة هنا. انقر لتحميل أو عرض المرفق."
           }
         },
@@ -170,6 +200,9 @@
             "japanese": "アクティビティの全ての問題に答えると、答え合わせをすることができます。",
             "chinese": "當學生答完一項學習活動中的全部問題，他們可以檢查自己的答案。",
             "thai": "นักเรียนสามารถดูเฉลยได้  หลังจากตอบคำถามครบทุกกิจกรรมแล้ว",
+            "indonesian":"Anda dapat memeriksa jawaban-jawaban mereka bila mereka sudah menjawab semua pertanyaan-pertanyaan dalam suatu aktivitas.",
+            "korean":"활동에서 모든 질문에 답변을 한 경우 학생은 답변을 확인할 수 있습니다.",
+            "vietnamese":"Học sinh có thể kiểm tra các câu trả lời của mình khi đã trả lời tất cả các câu hỏi trong một hoạt động.",
             "arabic": "يمكن للطالب مراجعة إجاباتهم عندما يجيبون على جميع الأسئلة في نشاط ما."
           }
         },
@@ -186,6 +219,9 @@
             "japanese": "不正解があった場合は、もう一度挑戦できます。1つのアクティビティは3回まで取り組むことができます。",
             "chinese": "如果學生答錯一些問題，可以再次嘗試這項學習活動，有三次機會可以嘗試。",
             "thai": "ในกรณีที่ตอบผิด นักเรียนสามารถแก้ไขคำตอบได้ไม่เกินสามครั้งต่อหนึ่งกิจกรรม ",
+            "indonesian":"Seorang murid dapat mencoba suatu aktivitas lagi jika ia menjawab beberapa pertanyaan dengan tidak tepat. Mereka dapat mencoba suatu aktivitas sebanyak tiga kali.",
+            "korean":"몇 가지 질문에 틀린 답변을 한 경우 학생은 다시 시도할 수 있습니다. 학생은 활동을 세 번 시도할 수 있습니다.",
+            "vietnamese":"Học sinh có thể thử làm lại lần nữa nếu trả lời sai vài câu hỏi. Với mỗi hoạt động học sinh có ba lần thử.",
             "arabic": "يمكن للطالب المحاول مرة أخرى في حالة الإجابة على بعض الأسئلة بشكل غير صحيح. يمكنهم أن يحاول في نشاط ما ثلاث مرات."
           }
         },
@@ -202,6 +238,9 @@
             "japanese": "不正解があった場合は、正解を見ることができます。",
             "chinese": "如果學生有答錯問題，他們可以看正確答案。",
             "thai": "ในกรณีที่นักเรียนตอบผิด ระบบจะเฉลยคำตอบที่ถูกต้อง  ",
+            "indonesian":"Jika seorang murid menjawab beberapa pertanyaan dengan tidak tepat, mereka dapat melihat jawaban-jawaban yang tepat.",
+            "korean":"몇 가지 질문에 틀린 답변을 한 경우 학생은 정답을 확인할 수 있습니다.",
+            "vietnamese":"Nếu một học sinh trả lời sai vài câu hỏi thì học sinh đó có thể xem các câu trả lời đúng.",
             "arabic": "إذا أجاب الطالب على بعض الأسئلة بشكل غير صحيح فبإمكانه رؤية الإجابات الصحيحة."
           }
         },
@@ -218,6 +257,9 @@
             "japanese": "先生用のサポートリソースがある場合は、こちらから見ることができます。",
             "chinese": "教師可以在此處找到可用的教學輔助資源（若有提供）。",
             "thai": "ครูผู้สอนสามารถศึกษาข้อมูลเพิ่มเติมเพื่อช่วยในการเรียนการสอนได้ที่นี่  (ถ้ามี)",
+            "indonesian":"Para guru dapat menemukan Sumber-sumber daya pendukung di sini, jika tersedia.",
+            "korean":"보조 자료의 이용이 가능한 경우 교사들은 여기에서 볼 수 있습니다.",
+            "vietnamese":"Giáo viên có thể tìm thấy Các Nguồn Trợ giúp tại đây, nếu có.",
             "arabic": "يمكن للمعلمين العثور على المراجع المساعدة هنا، إن وجدت."
           }
         },
@@ -234,6 +276,9 @@
             "japanese": "Picture Glossaryがある場合には、こちらからアクセスできます。Picture Glossaryには主なボキャブラリーが掲載されています。",
             "chinese": "在此處可以進入圖片詞庫（若有提供），圖片詞庫包含此等級的核心字彙。",
             "thai": "ถ้าต้องการหาความหมายเพิ่มเติมของคำศัพท์สำคัญ สามารถเข้าหน้าอภิธานศัพท์ได้ที่นี่ (ถ้ามี)",
+            "indonesian":"Suatu Glosarium Bergambar dapat diakses di sini, jika tersedia. Glosarium Bergambar mencakup semua kosa kata inti dalam suatu tingkat.",
+            "korean":"사진 용어집이 이용 가능한 경우 여기에서 이용할 수 있습니다. 사진 용어집에는 핵심 레벨의 어휘가 들어 있습니다.",
+            "vietnamese":"Bạn có thể tìm thấy một Bảng Từ vựng Hình ảnh ở đây, nếu có. Bảng Từ vựng Hình ảnh có các từ vựng cơ bản.",
             "arabic": "يمكن الدخول إلى مسرد الصور من هنا، إن وجد. يحتوي مسرد الصور على المفردات الأساسية الخاصة بمستوى ما."
           }
         },
@@ -250,6 +295,9 @@
             "japanese": "生徒は成績表とレポートにこちらからアクセスできます。先生はホームページから生徒のレポートにアクセスする必要があります。",
             "chinese": "學生可由此處進入他們的學習成果與學習報告區。教師必須由首頁進入以觀看學生報告。",
             "thai": "นักเรียนเข้าอ่านรายงานความสำเร็จได้ที่นี่ หากครูผู้สอนต้องการดูรายงานของนักเรียน ต้องเข้าจากหน้าหลัก",
+            "indonesian":"Para murid dapat mengakses area Prestasi dan Rapor mereka di sini. Para guru harus mengakses Rapor para murid dari halaman Laman.",
+            "korean":"학생들은 여기에서 자신의 성과 영역과 보고서에 접속할 수 있습니다. 교사들은 반드시 홈페이지에서 학생 보고서에 접속해야 합니다.",
+            "vietnamese":"Các học sinh có thể vào xem Các Thành tích và Báo cáo của mình tại đây. Các giáo viên phải truy cập vào Các Báo cáo của học sinh từ Trang chủ.",
             "arabic": "يمكن للطلاب الوصول إلى تقارير ومجالات التحصيل الخاصة بهم من هنا. يجب على المعلمين الدخول إلى تقارير الطلاب من الصفحة الرئيسية."
           }
         }

@@ -8,6 +8,9 @@
     "japanese": "クラスの管理",
     "chinese": "管理班級",
     "thai": "จัดการห้องเรียน",
+    "korean":"수업 관리",
+    "vietnamese":"Quản lý Lớp học",
+    "indonesian":"Mengelola Kelas-kelas",
     "arabic": "إدارة الفصول"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "korean":"",
+        "vietnamese":"",
+        "indonesian":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "この画面は、登録された全クラスを表示します。",
             "chinese": "本畫面顯示您創建的全部班級。",
             "thai": "ข้อมูลห้องเรียนทั้งหมดที่คุณสร้างขึ้น",
+            "korean":"이 화면은 생성하신 모든 수업을 표시합니다.",
+            "vietnamese":"Màn hình này hiển thị tất cả các lớp học mà bạn đã tạo ra.",
+            "indonesian":"Layar ini menunjukkan semua kelas-kelas yang sudah anda ciptakan.",
             "arabic": "تُظهِر هذه الشاشة جميع الفصول التي قمت بإنشائها."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "クラスの詳細を表示するには、こちらをクリックします。生徒やクラスIDコードの表示、クラス名の変更、生徒アカウントの削除、また学校・団体へ登録することもできます。",
             "chinese": "點此處觀看班級詳細資料，您可以觀看您的學生、您的班級代碼、更改班級名稱、刪除學生帳號或加入機關單位。",
             "thai": "คลิกที่นี่  เพื่อดูรายละเอียดทั้งหมดของห้องเรียน  คุณสามารถดูข้อมูลของนักเรียนแต่ละคน  สร้างรหัสห้องเรียน แก้ไขชื่อห้องเรียน ลบชื่อนักเรียน หรือเข้าร่วมสถาบันการศึกษาได้จากที่นี่   ",
+            "korean":"수업 세부사항을 보려면 여기를 클릭하십시오. 학생과 수업 ID 코드를 보고 이 수업의 이름을 변경할 수 있으며 학생의 계정을 삭제하거나 교육기관에 가입하실 수 있습니다.",
+            "vietnamese":"Nhấp chuột vào đây để xem thông tin chi tiết về một lớp học. Bạn có thể xem danh sách học sinh và mã ID lớp học của mình, thay đổi tên lớp học, xóa tài khoản của học sinh, hoặc liên kết với một tổ chức.",
+            "indonesian":"Klik di sini untuk melihat rincian suatu kelas. Anda dapat melihat para murid anda, melihat kode identitas kelas anda, mengubah nama dari kelas ini, menghapus akun-akun para murid, atau bergabung dengan suatu lembaga.",
             "arabic": "انقر هنا لعرض التفاصيل عن فصل ما. يمكنك عرض طلابك أو عرض رمز مُعرِّف الفصل الخاص بك أو تغيير اسم هذا الفصل أو حذف حسابات الطلاب أو الانضمام لإحدى المؤسسات."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "ユニットやレッスンを表示しない場合は、こちらをクリックします。",
             "chinese": "點此處隱藏單元或課程，不讓您的班級看到。",
             "thai": "คลิกที่นี่  เพื่อซ่อนหัวข้อบทเรียน",
+            "korean":"수업의 단원이나 학과를 숨기려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để ẩn đi các bài học hay bài tập cho lớp học của bạn.",
+            "indonesian":"Klik di sini untuk menyembunyikan berbagai unit atau pelajaran untuk kelas anda.",
             "arabic": "انقر هنا لإخفاء الوحدات أو الدروس الخاصة بالفصل الخاص بك."
           }
         },
@@ -90,6 +105,9 @@
             "japanese": "クラスや生徒のレポートを表示するには、こちらをクリックします。",
             "chinese": "點此處觀看您的班級報告和學生報告。",
             "thai": "คลิกที่นี่  เพื่ออ่านรายงานการเรียนการสอน และรายงานของนักเรียน",
+            "korean":"수업과 학생 보고서를 보려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để xem các báo cáo về lớp học và học sinh của bạn.",
+            "indonesian":"Klik di sini untuk melihat rapor kelas dan murid anda.",
             "arabic": "انقر هنا لعرض التقارير الخاصة بفصلك وطلابك."
           }
         },
@@ -106,6 +124,9 @@
             "japanese": "クラスを削除する場合は、こちらをクリックします。",
             "chinese": "點此處刪除一個班級。",
             "thai": "คลิกที่นี่  เพื่อลบห้องเรียน",
+            "korean":"수업을 삭제하려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để xóa một lớp học.",
+            "indonesian":"Klik di sini untuk menghapus suatu kelas.",
             "arabic": "انقر هنا لحذف أحد الفصول."
           }
         },
@@ -122,6 +143,9 @@
             "japanese": "新しいクラスを作成する場合は、こちらをクリックします（新しいレベルを追加する場合には、ホームページにアクセスして、Add a Level[レベルを追加]をクリックします）。",
             "chinese": "點處創建一個新班級。（如需新增級數，請前往您的首頁並點擊 Add a Level（新增級數）。）",
             "thai": "คลิกที่นี่  เพื่อสร้างห้องเรียนใหม่  (หากต้องการเพิ่มระดับชั้นเรียนใหม่  ไปที่ “หน้าหลัก” เลือก “Add a Level”)",
+            "korean":"새로운 수업을 생성하려면 여기를 클릭하십시오. (새로운 레벨을 추가하려면 홈페이지에서 [레벨 추가]를 클릭하십시오.)",
+            "vietnamese":"Nhấp chuột vào đây để tạo một lớp học mới. (Để thêm một trình độ mới, vào Trang chủ của bạn và chọn “Thêm một Trình độ”.)",
+            "indonesian":"Klik di sini untuk menciptakan suatu kelas baru. (Untuk menambahkan suatu tingkat baru, pergilah ke halaman Laman anda dan klik \"Tambahkan suatu Tingkat\".)",
             "arabic": "انقر هنا لإنشاء فصل جديد. (لإضافة مستوى جديد؛ انتقل إلى الصفحة الرئيسية وانقر“Add a Level”( \"إضافة مستوى\").)"
           }
         }

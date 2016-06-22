@@ -8,6 +8,9 @@
     "japanese": "学校・団体への参加登録",
     "chinese": "加入機關單位",
     "thai": "เข้าร่วมสถาบัน",
+    "korean":"교육기관 가입",
+    "vietnamese":"Liên kết với một Tổ chức",
+    "indonesian":"Bergabung dengan suatu Lembaga",
     "arabic": "الانضمام إلى مؤسسة"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "korean":"",
+        "vietnamese":"",
+        "indonesian":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "学校・団体のIDコードをお持ちの場合は、こちらに入力します。このコードは管理者から渡されるものです。このコードは学校・団体とクラス用のレポートをリンクします。管理者はOnline Practiceの学校・団体に所属する全ての教師のクラスのレポートを見ることができます。学校・団体IDコードをお持ちでない場合は、Cencel[キャンセル]をクリックします。",
             "chinese": "如果您有機關單位代碼，請在此輸入。機關單位代碼由您的管理人提供，此代碼將您的班級報告連結到您的學校或機關單位，管理人將能夠看到所有加入機關單位教師的線上練習班級報告。如果您沒有機關單位代碼，請點擊 Cancel（取消）。",
             "thai": "ใส่รหัสสถาบันที่นี่ หากไม่ทราบคลิก “ยกเลิก” คุณสามารถขอรหัสสถาบันได้จากผู้ดูแลระบบ  รหัสจะเชื่อมต่อข้อมูลการเรียนการสอนในห้องเรียนของคุณเข้ากับโรงเรียนหรือสถาบันการศึกษา  เพื่อให้ผู้ดูแลระบบสามารถมองเห็นรายงานของห้องเรียนออนไลน์ทั้งหมด",
+            "korean":"교육기관 ID 코드가 있다면 여기에 입력하십시오. 이 코드는 교육기관 관리자가 제공할 수 있습니다. 이 코드는 수업 기록과 학교, 교육기관을 연결합니다. 교육기관 관리자는 온라인 실습 교육기관에 참여한 모든 교사의 온라인 실습 수업에 관한 보고서를 볼 수 있습니다. 교육기관 ID 코드가 없다면 [취소]를 클릭하십시오.",
+            "vietnamese":"Nếu bạn có một mã ID tổ chức, hãy nhập vào đây. Đây là một mã số mà quản trị viên của bạn có thể cung cấp cho bạn. Mã số này sẽ liên kết hồ sơ lớp học của bạn với trường học hoặc tổ chức của bạn. Quản trị viên sẽ có thể xem được báo cáo về các lớp học Thực hành Qua mạng của tất cả các giáo viên đã liên kết với một tổ chức tham gia chương trình Thực hành Qua mạng. Nếu bạn không có một mã ID của tổ chức, hãy nhấp chuột vào “Hủy bỏ”.",
+            "indonesian":"Jika anda memiliki suatu kode identitas lembaga, masukkan di sini. Inilah suatu kode yang dapat diberikan oleh administratur anda kepada anda.  Kode ini mengaitkan rapor kelas anda dengan sekolah atau lembaga anda. Administratur akan dapat melihat rapor-rapor untuk kelas-kelas Praktik Online dari semua guru yang sudah bergabung dengan lembaga Praktik Online.  Jika anda tidak memiliki suatu kode identitas lembaga, klik \"Batalkan\".",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فأدخله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. وسيتمكن المدير من رؤية التقارير الخاصة بفصول الممارسةعبر شبكة الإنترنت والخاصة بكافة المعلمين الذين انضموا إلى مؤسسة الممارسة عبر شبكة الإنترنت. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Cancel”(\"إلغاء\")."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "学校・団体のIDコードを送信してクラスの詳細ページに戻るには。こちらをクリックします。",
             "chinese": "點此處送出您的機關單位代碼，並回到班級資料頁面。",
             "thai": "คลิกที่นี่  เพื่อยืนยันรหัสสถาบัน และกลับสู่หน้ารายละเอียดห้องเรียน",
+            "korean":"교육기관 ID 코드를 제출하고 수업 세부사항 페이지로 돌아가려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để đăng nộp mã ID tổ chức của bạn và quay trở lại trang Thông tin Chi tiết Lớp học.",
+            "indonesian":"Klik di sini untuk menyerahkan kode identitas lembaga anda dan kembali ke halaman Rincian Kelas.",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاص بك والعودة إلى صفحة التفاصيل الخاصة بالفصل."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "学校・団体のIDコードをお持ちでない場合は、こちらをクリックします。",
             "chinese": "如果您沒有機關單位代碼，請點此處。",
             "thai": "คลิกที่นี่  ถ้าคุณไม่มีรหัสสถาบัน",
+            "korean":"교육기관 ID 코드가 없다면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây nếu bạn không có một mã ID tổ chức.",
+            "indonesian":"Klik di sini jika anda tidak memiliki suatu kode identitas lembaga.",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         }

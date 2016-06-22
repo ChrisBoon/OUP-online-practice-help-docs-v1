@@ -8,6 +8,9 @@
     "japanese": "プロフィールの編集",
     "chinese": "編輯個人檔案",
     "thai": "แก้ไขข้อมูลส่วนตัว",
+    "indonesian":"Mengedit Profil",
+    "korean":"로필 편집",
+    "vietnamese":"Chỉnh sửa Thông tin Cá nhân",
     "arabic": "تحريرالملف الشخصي"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "indonesian":"",
+        "korean":"",
+        "vietnamese":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "名前（名）の変更は、こちらをクリックします。",
             "chinese": "點此處更改您的名字。",
             "thai": "คลิกที่นี่ เพื่อเปลี่ยนชื่อ",
+            "indonesian":"Klik di sini untuk mengubah nama depan anda.",
+            "korean":"여기를 클릭하여 이름을 변경하세요.",
+            "vietnamese":"Nhấp chuột vào đây để thay đổi tên của bạn.",
             "arabic": "انقر هنا لتغيير اسمك الأول."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "名前（姓）の変更は、こちらをクリックします。",
             "chinese": "點此處更改您的姓氏。",
             "thai": "คลิกที่นี่ เพื่อเปลี่ยนนามสกุล",
+            "indonesian":"Klik di sini untuk mengubah nama belakang anda (nama keluarga).",
+            "korean":"여기를 클릭하여 성을 변경하세요.",
+            "vietnamese":"Nhấp chuột vào đây để thay đổi họ của bạn.",
             "arabic": "انقر هنا لتغيير اسمك الأخير (اسم العائلة)."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "メールアドレスの変更は、こちらをクリックします。",
             "chinese": "點此處更改您的電子郵件。",
             "thai": "คลิกที่นี่ เพื่อเปลี่ยนอีเมล",
+            "indonesian":"Klik di sini untuk mengubah alamat email anda.",
+            "korean":"여기를 클릭하여 이메일 주소를 변경하세요.",
+            "vietnamese":"Nhấp chuột vào đây để thay đổi địa chỉ email của bạn.",
             "arabic": "انقر هنا لتغيير عنوان بريدك الإلكتروني."
           }
         },
@@ -90,6 +105,9 @@
             "japanese": "新しいメールアドレスの確認は、こちらをクリックします。",
             "chinese": "點此處確認您的新電子郵件。",
             "thai": "คลิกที่นี่ เพื่อยืนยันอีเมล",
+            "indonesian":"Klik di sini untuk mengonfirmasi alamat email anda yang baru.",
+            "korean":"여기를 클릭하여 새 이메일 주소를 확인하세요.",
+            "vietnamese":"Nhấp chuột vào đây để xác nhận địa chỉ email mới của bạn.",
             "arabic": "انقر هنا لتأكيد عنوان بريدك الإلكتروني الجديد."
           }
         },
@@ -106,6 +124,9 @@
             "japanese": "パスワードの変更は、こちらをクリックします。",
             "chinese": "點此處更改您的密碼。",
             "thai": "คลิกที่นี่ เพื่อเปลี่ยนรหัสผ่าน",
+            "indonesian":"Klik di sini untuk mengubah kata sandi anda.",
+            "korean":"패스워드를 변경하려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để thay đổi mật khẩu của bạn.",
             "arabic": "انقر هنا لتغيير كلمة المرور الخاصة بك."
           }
         },
@@ -122,6 +143,9 @@
             "japanese": "新しいパスワードの確認は、こちらをクリックします。",
             "chinese": "點此處確認您的新密碼。",
             "thai": "คลิกที่นี่ เพื่อยืนยันรหัสผ่าน",
+            "indonesian":"Klik di sini untuk mengonfirmasi kata sandi anda yang baru.",
+            "korean":"여기를 클릭하여 새 패스워드를 확인하세요.",
+            "vietnamese":"Nhấp chuột vào đây để xác nhận mật khẩu mới của bạn.",
             "arabic": "انقر هنا لتأكيد كلمة المرور الجديدة الخاصة بك."
           }
         },
@@ -138,6 +162,9 @@
             "japanese": "変更内容の保存は、こちらをクリックします。",
             "chinese": "點此處儲存您做的變更。",
             "thai": "คลิกที่นี่ เพื่อยืนยันการแก้ไขข้อมูล",
+            "indonesian":"Klik di sini untuk merekam berbagai perubahan anda.",
+            "korean":"변경사항을 저장하려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để lưu lại các thay đổi của bạn.",
             "arabic": "اانقر هنا لحفظ كلمة المرور الخاصة بك."
           }
         },
@@ -154,6 +181,9 @@
             "japanese": "変更内容を保存せずにキャンセルするには、こちらをクリックします。",
             "chinese": "點此處取消，不儲存任何變更。",
             "thai": "คลิกที่นี่ เพื่อยกเลิก การแก้ไขข้อมูล",
+            "indonesian":"Klik di sini untuk membatalkan tanpa merekam perubahan apapun.",
+            "korean":"여기를 클릭하면 변경사항을 저장하지 않고 취소합니다.",
+            "vietnamese":"Nhấp chuột vào đây để hủy bỏ mà không lưu lại các thay đổi.",
             "arabic": "انقر هنا للإلغاء بدون حفظ أي تغييرات."
           }
         }

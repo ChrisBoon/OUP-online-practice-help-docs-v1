@@ -8,6 +8,9 @@
     "japanese": "フォーラム",
     "chinese": "討論區",
     "thai": "กระดานสนทนา",
+    "indonesian":"Forum",
+    "korean":"포럼",
+    "vietnamese":"Diễn đàn",
     "arabic": "المنتدى"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "投稿する",
         "chinese": "寫一篇文章",
         "thai": "ตั้งกระทู้ใหม่",
+        "indonesian":"Menulis suatu posting",
+        "korean":"게시물 쓰기",
+        "vietnamese":"Đăng bài",
         "arabic": "كتابة منشور"
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "Create New Post[新規投稿]欄に書き込むことによって、新しく投稿することができます。Post[投稿]ボタンをクリックすると、Discussions and Commentリストの中に表示されます。Online Practiceのクラス内の先生と生徒ならだれでも掲示板を見て、返信することができます。",
             "chinese": "您可以在Create New Post（創建新文章）欄位建立一篇新的文章，當您點擊Post（發布）按鈕，此文章會出現在討論與評論清單。您的教師以及線上練習的同班同學可以觀看與回覆您的文章。",
             "thai": "คุณสามารถตั้งกระทู้สนทนาได้ด้วยการพิมพ์ข้อความในช่องตั้งกระทู้ใหม่ คลิก “Post” หัวข้อกระทู้จะปรากฏขึ้นในหน้ากระดานสนทนาทันที  ครูผู้สอนและเพื่อนร่วมชั้นจะมองเห็นข้อความและโต้ตอบกับคุณ",
+            "indonesian":"Anda dapat menulis suatu posting baru dengan menulis dalam kolom Menulis Posting Baru. Bila anda mengklik tombol \"Posting\" tulisan anda akan muncul di daftar Diskusi dan Komentar. Guru anda dan setiap murid dalam kelas Praktik Online anda dapat melihat posting anda dan menjawabnya.",
+            "korean":"새 게시물 생성 난에 입력하여 새 게시물을 생성할 수 있습니다. “게시물” 버튼을 클릭하면 게시물이 토론 및 댓글 목록에 나타납니다. 온라인 실습 수업의 교사와 학생은 게시물과 그 답변을 볼 수 있습니다.",
+            "vietnamese":"Bạn có thể tạo một bài viết mới để đăng bằng cách viết vào cột Viết Bài đăng Mới. Khi bạn nhấp chuột vào nút “Đăng bài” thì bài viết sẽ xuất hiện ở danh sách Thảo luận và Góp ý kiến. Giáo viên của bạn và bất kỳ học sinh nào trong lớp học Thực hành Qua mạng của bạn đều có thể nhìn thấy và trả lời bài đăng của bạn.",
             "arabic": "يمكنك عمل منشور جديد عن طريق الكتابة في عمود إنشاء منشور جديد. عند النقر على زر“Post” (\"نشر\"), سوف تظهر في قائمة المناقشات والتعليقات. يمكن لمعلمك ولأي طالب مشترك في الممارسة الخاصة بك على الإنترنت أن يرى منشورك ويرد عليه."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "フォーマットボタンの下にある空白のテキストエリアにメッセージを書きます。",
             "chinese": "在格式按鈕底下的空白文字區填寫您的訊息。",
             "thai": "พิมพ์เนื้อหาที่ต้องการลงในช่องว่างใต้คำสั่งรูปแบบต่างๆ",
+            "indonesian":"Tulislah pesan anda di area yang kosong di bawah tombol-tombol untuk formatting.",
+            "korean":"형식 버튼 아래 빈 텍스트 영역에 메시지를 입력하십시오.",
+            "vietnamese":"Viết bài của bạn vào vùng văn bản để trống bên dưới các nút định dạng.",
             "arabic": "اكتب رسالتك في المنطقة الفارغة تحت أزرار التنسيق."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "この画面には現在のすべての投稿が表示され、返信することができます。",
             "chinese": "在此處您可以觀看並且回覆目前的全部文章。",
             "thai": "คุณสามารถอ่านและตอบกระทู้ทั้งหมดได้ที่นี่",
+            "indonesian":"Di sinilah di mana anda dapat melihat dan menjawab semua posting yang terkini.",
+            "korean":"여기에서 모든 현재 게시물을 보고 답변을 할 수 있습니다.",
+            "vietnamese":"Đây là nơi mà bạn có thể xem và trả lời cho tất cả các bài đăng hiện tại.",
             "arabic": "هذا هو المكان الذي يمكنك من خلاله عرض والرد على جميع المنشورات الحالية."
           }
         },
@@ -90,6 +105,9 @@
             "japanese": "右側の欄に投稿を追加するには、Post[投稿]をクリックします。",
             "chinese": "點擊Post（發布），可把文章新增到右邊的欄位。",
             "thai": "คลิก “Post” เพื่อเพิ่มหัวข้อสนทนาใหม่",
+            "indonesian":"Klik \"Posting\" untuk menambahkan posting tersebut ke kolom di sebelah kanan.",
+            "korean":"오른쪽 난에 게시물을 추가하려면 \"게시물\"을 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào “Đăng bài” để thêm một bài đăng vào cột ở bên phải.",
             "arabic": "انقر على “Post” (\"نشر\") لإضافة المنشور إلى العمود الواقع على اليمين."
           }
         },
@@ -106,6 +124,9 @@
             "japanese": "他の生徒の返信を表示するには、Show[表示]をクリックします。",
             "chinese": "點擊Show（顯示），可觀看其他同學的回覆。",
             "thai": "คลิก “Show” เพื่ออ่านความคิดเห็นทั้งหมด",
+            "indonesian":"Klik \"Perlihatkan\" untuk melihat jawaban-jawaban para murid yang lain.",
+            "korean":"다른 학생의 답변을 보려면 \"보이기\"를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào “Hiển thị” để xem các câu trả lời của các học sinh khác.",
             "arabic": "اانقر على “Show”(\"إظهار\") لعرض ردود الطلاب الآخرين."
           }
         },
@@ -122,6 +143,9 @@
             "japanese": "返信を表示しないようにするには、Hide[非表示]をクリックします。",
             "chinese": "點擊Hide（隱藏），可將回覆隱藏起來。",
             "thai": "คลิก “Hide” เพื่อปิดการแสดงไม่ให้มีการตอบกลับในหัวข้อนั้น",
+            "indonesian":"Klik \"Sembunyikan\" untuk menyembunyikan jawaban-jawabannya.",
+            "korean":"답변을 가리려면 \"숨기기\"를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào “Ẩn” để ẩn đi các câu trả lời.",
             "arabic": "انقر على “Hide” (\"إخفاء\") لإخفاء الردود."
           }
         },
@@ -138,6 +162,9 @@
             "japanese": "投稿に返信するには、Reply[返信]をクリックします。",
             "chinese": "點擊Reply（回覆），可回覆一篇文章。",
             "thai": "คลิก “Reply” เพื่อแสดงความคิดเห็นในกระทู้นั้น",
+            "indonesian":"Klik \"Jawab\" untuk menjawab suatu posting.",
+            "korean":"게시물에 답변을 달려면 \"답변\"을 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào “Trả lời” để trả lời một bài đăng.",
             "arabic": "انقر على “Reply” (\"رد\") للرد على المنشور."
           }
         }
@@ -155,6 +182,9 @@
         "japanese": "投稿に返信する",
         "chinese": "回覆一則文章",
         "thai": "ตอบกระทู้",
+        "indonesian":"Menjawab suatu posting",
+        "korean":"게시물에 대한 답변",
+        "vietnamese":"Trả lời bài đăng",
         "arabic": "الرد على منشور"
       },
       "paragraphs":{
@@ -171,6 +201,9 @@
             "japanese": "Reply[返信]をクリックすると、返信する投稿の下にテキストボックスが表示されます。返信メッセージは、ディスカッション内で直接入力することができます。",
             "chinese": "如果您點擊Reply（回覆），您要回覆的文章下面會打開一個文字區塊，您可以在討論串裡直接輸入您的回覆。",
             "thai": "เมื่อคลิก “Reply” จะปรากฏกล่องข้อความขึ้นใต้หัวข้อของกระทู้ที่ต้องการตอบ คุณสามารถแสดงความคิดเห็นของคุณได้ทันที",
+            "indonesian":"Jika anda mengklik \"Jawab\", suatu kotak teks akan terbuka di bawah posting yang hendak anda jawab. Anda dapat memasukkan jawaban anda secara langsung di dalam diskusi yang bersangkutan.",
+            "korean":"“답변”을 클릭하면 답변하려는 게시물 하단에 텍스트 상자가 열립니다. 토론 내에서 답변을 직접 입력할 수 있습니다.",
+            "vietnamese":"Nếu bạn nhấp chuột vào “Trả lồi”, một hộp văn bản sẽ mở ra bên dưới bài đăng mà bạn muốn trả lời. Bạn có thể nhập vào câu trả lời trực tiếp cho chủ đề thảo luận này.",
             "arabic": "في حالة النقر على “Reply” (\"رد\")، سيفتح مربع حواري تحت المنشور الذي ترد عليه. يمكنك إدخال ردك مباشرةً في المناقشة."
           }
         },
@@ -187,6 +220,9 @@
             "japanese": "ディスカッションに返信メッセージを投稿するには、Post[投稿]をクリックします。",
             "chinese": "點擊Post（發布）就可以將您的回覆貼到討論串裡面。",
             "thai": "คลิก “Post” เพื่อยืนยันส่งข้อความลงในกระทู้",
+            "indonesian":"Klik \"Posting\" untuk memasukkan jawaban anda di dalam diskusi.",
+            "korean":"\"게시\"를 클릭하면 토론에 답변을 달 수 있습니다.",
+            "vietnamese":"Nhấp chuột vào “Đăng bài” để đăng câu trả lời của bạn trong thảo luận này.",
             "arabic": "انقر على “Post”(\"نشر\") لنشر ردك على المناقشة."
           }
         },
@@ -203,6 +239,9 @@
             "japanese": "返信したくない時は、Cancel[キャンセル]をクリックします。",
             "chinese": "如果您不想發布您的回覆，請點擊Cancel（取消）。",
             "thai": "คลิก “Cancel” หากไม่ต้องการแสดงความคิดเห็นของคุณในหัวข้อนั้น",
+            "indonesian":"Klik \"Batalkan\" jika anda tidak jadi hendak memasukkan jawaban anda.",
+            "korean":"답변을 게시하지 않으려면 \"취소\"를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào “Hủy bỏ” nếu bạn không muốn đăng câu trả lời của bạn.",
             "arabic": "انقر على “Cancel” (\"إلغاء\") إذا كنت لا تريد نشر ردك."
           }
         }

@@ -8,6 +8,9 @@
     "japanese": "新しいクラスの追加",
     "chinese": "新增班級",
     "thai": "เพิ่มห้องเรียนใหม่",
+    "korean":"새 수업 추가",
+    "vietnamese":"Thêm vào một Lớp học Mới",
+    "indonesian":"Menambahkan suatu Kelas Baru",
     "arabic": "إضافة فصل جديد"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "レベルの選択",
         "chinese": "選擇級數",
         "thai": "เลือกระดับ",
+        "korean":"레벨 선택",
+        "vietnamese":"Chọn trình độ",
+        "indonesian":"Memilih suatu tingkat",
         "arabic": "حدد مستوى"
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "新しいクラスのレベルを選択します。",
             "chinese": "請為您的新班級選擇一個級數。",
             "thai": "เลือกระดับสำหรับห้องเรียนใหม่ของคุณ",
+            "korean":"새 수업의 레벨 선택",
+            "vietnamese":"Chọn một trình độ cho lớp học mới của bạn.",
+            "indonesian":"Pilihlah suatu tingkat untuk kelas anda yang baru.",
             "arabic": "حدد مستوى لفصلك الجديد."
           }
         }
@@ -59,6 +68,9 @@
         "japanese": "学校・団体コードの入力",
         "chinese": "輸入您的機關單位代碼",
         "thai": "ใส่รหัสสถาบันของคุณ (Institution Code)",
+        "korean":"교육기관 코드 입력",
+        "vietnamese":"Nhập vào mã tổ chức của bạn",
+        "indonesian":"Memasukkan kode lembaga anda",
         "arabic": "أدخل رمز المؤسسة الخاص"
       },
       "paragraphs":{
@@ -75,6 +87,9 @@
             "japanese": "学校・団体IDコードをお持ちの場合は、こちらに入力します。このコードは管理者から渡されるものです。このコードは学校・団体とクラス用のレポートをリンクします。学校・団体IDコードをお持ちでない場合は、Skip[スキップ]をクリックします。学校・団体コードを後から入力するには、クラスの詳細ページからJoin an Institution　[学校・団体への参加登録]をクリックします。",
             "chinese": "如果您有機關單位代碼，請在此輸入。機關單位代碼由您的管理人提供，此代碼將您的班級紀錄連結到您的學校或機關單位。如果您沒有機關單位代碼，請點擊 skip（略過）。您也可以之後再輸入機關單位代碼，從您的班級資料頁面點擊 Join an Institution（加入機關單位）即可。",
             "thai": "ใส่รหัสสถาบันที่นี่  คุณสามารถขอรหัสนี้ได้จากผู้ดูแลระบบ รหัสนี้จะเชื่อมต่อข้อมูลการเรียนการสอนในห้องเรียนของคุณเข้ากับโรงเรียนหรือสถาบันการศึกษา ถ้าคุณไม่มีรหัสสถาบัน คลิก “Skip” สามารถใส่รหัสสถาบันในภายหลังได้ โดยการคลิก “Join an Institution” จากหน้ารายละเอียดห้องเรียน",
+            "korean":"교육기관 ID 코드가 있다면 여기에 입력하십시오. 이 코드는 교육기관 관리자가 제공할 수 있습니다. 이 코드는 수업 기록과 학교, 교육기관을 연결합니다. 교육기관 ID 코드가 없다면 [건너뛰기]를 클릭하십시오. 교육기관 ID 코드는 나중에 수업 세부사항 페이지에서 [교육기관 가입]을 클릭하여 입력할 수 있습니다.",
+            "vietnamese":"Nếu bạn có một mã ID tổ chức, hãy nhập vào đây. Đây là một mã số mà quản trị viên của bạn có thể cung cấp cho bạn. Mã số này sẽ liên kết hồ sơ lớp học của bạn với trường học hoặc tổ chức của bạn. Nếu bạn không có một mã ID tổ chức, hãy chọn “Bỏ qua”. Bạn có thể nhập vào một mã ID tổ chức sau này bằng cách chọn “Liên kết với một Tổ chức” từ trang Thông tin Chi tiết Lớp học của bạn.",
+            "indonesian":"Jika anda memiliki suatu kode identitas lembaga, masukkan di sini. Inilah suatu kode yang diberikan oleh administratur anda kepada anda.  Kode ini mengaitkan rapor kelas anda dengan sekolah atau lembaga anda. Jika anda tidak memiliki suatu kode identitas lembaga, klik \"Lompati\". Anda dapat memasukkan suatu kode identitas lembaga kelak dengan mengklik \"Bergabung dengan suatu Lembaga\" dari halaman Rincian Kelas anda.",
             "arabic": "إذا كان لديك رمز مُعرِّف خاص بإحدى المؤسسات، فقم بإدخاله هنا. فهذا هو الرمز الذي سوف يعطيك إياه مديرك. ويربط هذا الرمز سجلات الفصل الخاص بك مع مدرستك أو مؤسستك. إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات، فانقر“Skip”(\"تخطي\"). يمكنك إدخال رمز مُعرِّف المؤسسة الخاصة بك في وقت لاحق عن طريق النقر على “Join an Institution”(\"الانضمام إلى مؤسسة\") من صفحة التفاصيل الخاصة بفصلك."
           }
         },
@@ -91,6 +106,9 @@
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
             "thai": "คลิกที่นี่ เพื่อกลับหน้าที่แล้ว",
+            "korean":"여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "vietnamese":"Nhấp chuột vào đây để quay trở lại trang trước.",
+            "indonesian":"Klik di sini untuk kembali ke halaman sebelumnya.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -107,6 +125,9 @@
             "japanese": "学校・団体IDコードをお持ちでない場合は、こちらをクリックします。",
             "chinese": "如果您沒有機關單位代碼，請點此處。",
             "thai": "คลิกที่นี่ ถ้าไม่ทราบรหัสสถาบัน",
+            "korean":"교육기관 ID 코드가 없다면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây nếu bạn không có một mã ID tổ chức.",
+            "indonesian":"Klik di sini jika anda tidak memiliki suatu kode identitas lembaga.",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بإحدى المؤسسات."
           }
         },
@@ -123,6 +144,9 @@
             "japanese": "学校・団体IDコードを送信して次のページに進むには、こちらをクリックします。",
             "chinese": "點此處送出您的機關單位代碼，並前往下一頁。",
             "thai": "คลิกที่นี่ เพื่อยืนยันรหัสสถาบันของคุณ  และไปสู่หน้าถัดไป",
+            "korean":"교육기관 ID 코드를 제출하고 다음 페이지로 가려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để đăng nộp mã ID tổ chức của bạn và chuyển sang trang tiếp theo.",
+            "indonesian":"Klik di sini untuk menyerahkan kode identitas lembaga anda dan menuju ke halaman yang berikutnya.",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف المؤسسة الخاص بك وانتقل إلى الصفحة التالية."
           }
         }
@@ -140,6 +164,9 @@
         "japanese": "クラス名の作成",
         "chinese": "創建班級名稱",
         "thai": "ตั้งชื่อห้องเรียน",
+        "korean":"수업 이름 생성",
+        "vietnamese":"Tạo tên lớp học",
+        "indonesian":"Menciptakan suatu nama kelas",
         "arabic": "إنشاء اسم للفصل"
       },
       "paragraphs":{
@@ -156,6 +183,9 @@
             "japanese": "新しいクラス名をこちらに入力します。",
             "chinese": "請在此輸入您的班級名稱。",
             "thai": "ใส่ชื่อห้องเรียนของคุณที่นี่",
+            "korean":"수업의 이름을 여기에 입력하십시오.",
+            "vietnamese":"Nhập tên cho lớp học của bạn tại đây.",
+            "indonesian":"Masukkan suatu nama untuk kelas anda di sini.",
             "arabic": "أدخل اسمًا لفصلك هنا."
           }
         }
@@ -173,6 +203,9 @@
         "japanese": "クラスIDコードの保存",
         "chinese": "儲存您的班級代碼",
         "thai": "บันทึกรหัสห้องเรียนของคุณ",
+        "korean":"수업 ID 코드 저장",
+        "vietnamese":"Lưu lại mã ID lớp học của bạn",
+        "indonesian":"Merekam kode identitas kelas anda",
         "arabic": "احفظ رمز مُعرِّف الفصل الخاص بك."
       },
       "paragraphs":{
@@ -189,6 +222,9 @@
             "japanese": "今回登録した新しいクラスIDコードが決まりました。このコードを保存し、生徒に配布してください。生徒は新しいクラスに参加登録ができ、先生は生徒の学習状況を確認できます。",
             "chinese": "這是您的新班級的代碼。請儲存代碼並發送給您的學生，他們將能使用這個新代碼加入您的班級，而您將能觀看他們的學習報告。",
             "thai": "นี่คือรหัสสำหรับห้องเรียนใหม่  บันทึกรหัส และแจ้งกับนักเรียนของคุณ  เพื่อให้พวกเขาสามารถเข้าร่วมห้องเรียนได้  และคุณสามารถอ่านรายงานทั้งหมดของนักเรียนได้",
+            "korean":"이것은 새로운 수업의 ID 코드입니다. 코드를 저장하고 학생들에게 배포하십시오. 학생들은 새로운 코드를 이용하여 수업에 참여하고 귀하께서는 학생의 보고서를 보실 수 있습니다.",
+            "vietnamese":"Đây là mã ID cho lớp học mới của bạn. Lưu lại mã này và cung cấp cho học sinh của bạn. Các em có thể tham gia vào lớp học của bạn với mã số mới và bạn sẽ có khả năng nhìn thấy báo cáo của các em.",
+            "indonesian":"Inilah kode identitas untuk kelas anda yang baru. Rekamlah kodenya dan bagikanlah kepada para murid anda. Mereka akan dapat bergabung dengan kelas anda dengan menggunakan kode yang baru ini dan anda akan dapat melihat rapor mereka.",
             "arabic": "هذا هو رمز مُعرِّف الفصل الجديد الخاص بك. احفظ الرمز ووزعه على طلابك. سوف يكون بإمكانهم الانضمام إلى فصلك من خلال الرمز الجديد، وسوف تكون قادرًا على رؤية تقاريرهم."
           }
         }

@@ -8,6 +8,9 @@
     "japanese": "クラス名の編集",
     "chinese": "編輯班級名稱",
     "thai": "แก้ไขชื่อห้องเรียน",
+    "korean":"수업명 편집",
+    "vietnamese":"Sửa tên Lớp học",
+    "indonesian":"Mengedit Nama Kelas",
     "arabic": "تحرير اسم الفصل"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "korean":"",
+        "vietnamese":"",
+        "indonesian":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "新しいクラス名を入力します。その後、Save[保存]をクリックします。クラス名を変更しない場合は、Cancel[キャンセル]をクリックします。",
             "chinese": "為您的班級輸入新的名稱，然後點擊「儲存」。如果您不想更改您的班級名稱，請點擊「取消」。",
             "thai": "ใส่ชื่อห้องเรียนใหม่คลิก ”บันทึก” ถ้าไม่ต้องการเปลี่ยนชื่อห้องเรียน  คลิก ”ยกเลิก”",
+            "korean":"수업의 새 이름을 입력하십시오. 그 다음으로 [저장]을 클릭하십시오. 수업 이름을 변경하지 않으시려면 [취소]를 클릭하십시오.",
+            "vietnamese":"Nhập vào tên mới cho lớp học của bạn. Sau đó nhấp chuột vào “Lưu lại”. Nếu bạn không muốn thay đổi tên của lớp học của mình, nhấp chuột vào “Hủy bỏ”.",
+            "indonesian":"Masukkan nama yang baru untuk kelas anda. Lalu klik \"Rekam\". Jika anda tidak hendak mengubah nama kelas anda, klik \"Batalkan\".",
             "arabic": "أدخل الاسم الجديد لفصلك. ثم انقر على “Save”(\"حفظ\"). إذا كنت لا ترغب في تغيير اسم فصلك، فانقر على “Cancel”(\"إلغاء\")."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "クラス名を保存しクラスの詳細ページに戻るには、こちらをクリックします。",
             "chinese": "點此處儲存您的班級名稱，並回到班級資料頁面。",
             "thai": "คลิกที่นี่  เพื่อบันทึกชื่อห้องเรียนใหม่  และกลับหน้ารายละเอียดห้องเรียน",
+            "korean":"수업명을 저장하고 수업 세부사항 페이지로 돌아가려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để lưu lại tên lớp học của bạn và quay lại trang Thông tin Chi tiết Lớp học.",
+            "indonesian":"Klik di sini untuk merekam nama kelas anda dan kembali ke halaman Rincian Kelas.",
             "arabic": "انقر هنا لحفظ اسم فصلك والعودة إلى صفحة التفاصيل الخاصة بالفصل."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "変更内容を保存しないでクラスの詳細ページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到班級資料頁面，不做任何變更。",
             "thai": "คลิกที่นี่  เพื่อกลับหน้ารายละเอียดห้องเรียน  โดยไม่บันทึกการเปลี่ยนแปลงใดๆ",
+            "korean":"변경사항을 저장하지 않고 수업 세부사항 페이지로 돌아가려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để trở về trang Thông tin Chi tiết Lớp học mà không lưu lại bất kỳ thay đổi nào.",
+            "indonesian":"Klik di sini untuk kembali ke halaman Rincian Kelas tanpa merekam perubahan apapun.",
             "arabic": "انقر هنا للعودة إلى صفحة تفاصيل الفصل دون حفظ أي تغييرات."
           }
         }

@@ -8,6 +8,9 @@
     "japanese": "生徒のユニットレポート",
     "chinese": "學生的單元學習報告",
     "thai": "รายงานประจำบท",
+    "indonesian":"Rapor Unit Murid",
+    "korean":"학생 단원 보고서",
+    "vietnamese":"Báo cáo về Bài học của Học sinh",
     "arabic": "تقرير وحدة الطالب"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "indonesian":"",
+        "korean":"",
+        "vietnamese":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "全ユニットのレポート、または特定のユニットのレポートを表示するには、このメニューを使用します。",
             "chinese": "使用此選單可以顯示全部單元的學習報告，或顯示個別單元的學習報告。",
             "thai": "ใช้เมนูนี้สำหรับการแสดงรายงานในทุกหัวข้อ หรือแสดงแยกในแต่ละหัวข้อ",
+            "indonesian":"Gunakan menu ini untuk memperagakan rapor-rapor semua unit atau memperagakan rapor-rapor untuk unit-unit yang terpisah.",
+            "korean":"이 메뉴를 사용하여 전체 단원에 대한 보고서 또는 별도의 단원들에 대한 보고서를 표시하십시오.",
+            "vietnamese":"Dùng trình đơn này để xem báo cáo tổng hợp tất cả các bài học hoặc xem các báo cáo riêng cho từng bài học.",
             "arabic": "استخدم هذه القائمة لعرض تقارير لجميع الوحدات أو لعرض تقارير لوحدات منفصلة."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "この行は、このレッスンの各アクティビティに対する得点を表します。これは、そのアクティビティで取得できるポイントのうち何点獲得できたかを表しています。",
             "chinese": "這一行顯示每一課裡面，嘗試過的學習活動總分。此總分來自本課學習活動所得到的分數加總。",
             "thai": "คะแนนการทำกิจกรรมในแต่ละบท จะถูกแสดงที่นี่ โดยไม่เทียบกับผลคะแนนรวม",
+            "indonesian":"Baris ini menunjukkan skor untuk setiap aktivitas dalam suatu pelajaran. Skor yang ditunjukkan ini berasal dari jumlah total poin-poin yang mungkin dalam suatu aktivitas.",
+            "korean":"이 행은 한 학과의 활동별 점수를 보여 줍니다. 이 점수는 한 활동에 대해 가능한 총점에서 나옵니다.",
+            "vietnamese":"Dòng này cho thấy điểm số cho mỗi hoạt động trong bài tập này. Điểm số là số điểm đạt được trên tổng số điểm có thể đạt được trong một hoạt động.",
             "arabic": "يبين هذا الصف درجات كل نشاط في درس ما. يتم عرض درجة الرقم الإجمالي للنقاط الممكنة في نشاط ما."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "この行は、このレッスンの各アクティビティに取り組んだ回数を表します。",
             "chinese": "這一行顯示每一課裡面，每一個學習活動的嘗試次數。",
             "thai": "จำนวนกิจกรรมที่ทำสำเร็จแล้วของแต่ละบทเรียน จะถูกแสดงที่นี่",
+            "indonesian":"Baris ini menunjukkan jumlah dari percobaan setiap aktivitas dalam setiap pelajaran.",
+            "korean":"이 행은 한 학과의 활동별 시도 횟수를 보여 줍니다.",
+            "vietnamese":"Dòng này cho thấy số lần thử đối với mỗi hoạt động trong một bài tập.",
             "arabic": "يُظهِر هذا الصف عدد المحاولات الخاصة بكل نشاط في درس ما."
           }
         },
@@ -90,6 +105,9 @@
             "japanese": "この行は、このレッスンの各アクティビティに対する全取り組みにかかった時間を表します。",
             "chinese": "這一行顯示每一課裡面，每一個學習活動的嘗試時數。",
             "thai": "เวลาที่ใช้ในการทำกิจกรรมของแต่ละบทเรียน จะถูกแสดงที่นี่",
+            "indonesian":"Baris ini menunjukkan waktu yang dihabiskan untuk semua percobaan dari setiap aktivitas dalam suatu pelajaran.",
+            "korean":"이 행은 한 학과의 활동별 전체 시도에 소요된 시간을 보여 줍니다.",
+            "vietnamese":"Dòng này cho thấy thời gian đã dành cho tất cả những lần làm thử mỗi hoạt động trong một bài tập.",
             "arabic": "يُظهِر هذا الصف الوقت المُستغرَق في كل المحاولات الخاصة بكل نشاط في درس ما."
           }
         },
@@ -106,6 +124,9 @@
             "japanese": "ここには、このレッスンの合計得点が表示されます。",
             "chinese": "此處顯示每一課的總得分。",
             "thai": "คะแนนรวมทั้งหมดของทุกบทเรียน จะถูกแสดงที่นี่",
+            "indonesian":"Skor total untuk suatu pelajaran ditunjukkan di sini.",
+            "korean":"한 학과의 총점은 여기에 표시됩니다.",
+            "vietnamese":"Tổng điểm số của một bài tập được thể hiện tại đây.",
             "arabic": "يتم عرض الدرجة الإجمالية للدرس هنا."
           }
         },
@@ -122,6 +143,9 @@
             "japanese": "ここには、このレッスンで取り組んだアクティビティの合計回数が表示されます。",
             "chinese": "每一課的學習活動嘗試總次數顯示在此處。",
             "thai": "จำนวนกิจกรรมที่ทำแล้วทั้งหมดในหนึ่งบทเรียน จะถูกแสดงที่นี่",
+            "indonesian":"Angka total dari percobaan aktivitas di dalam suatu pelajaran ditunjukkan di sini.",
+            "korean":"한 학과의 총 활동 시도 횟수는 여기에 표시됩니다.",
+            "vietnamese":"Tổng số lần đã làm thử các hoạt động trong một bài tập được thể hiện tại đây.",
             "arabic": "يتم عرض العدد الإجمالي لمحاولات النشاط الخاصة بدرس ما هنا."
           }
         },
@@ -138,6 +162,9 @@
             "japanese": "ここには、このレッスンのすべてのアクティビティに費やした合計時間が表示されます。",
             "chinese": "每一課的學習活動嘗試總時數顯示在此處。",
             "thai": "เวลาที่ใช้ในการทำกิจกรรมทั้งหมด ของแต่ละบทเรียน จะถูกแสดงที่นี่",
+            "indonesian":"Waktu total yang diperlukan untuk semua aktivitas di dalam suatu pelajaran ditunjukkan di sini.",
+            "korean":"한 학과의 전체 활동에 소요된 총 시간은 여기에 표시됩니다.",
+            "vietnamese":"Tổng thời gian đã dành cho tất cả các hoạt động trong một bài tập được thể hiện tại đây.",
             "arabic": "يتم عرض إجمالي الوقت المُستغرَق في كل الأنشطة الخاصة بدرس ماهنا."
           }
         }

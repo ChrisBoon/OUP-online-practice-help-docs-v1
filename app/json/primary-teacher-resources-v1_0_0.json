@@ -8,6 +8,9 @@
     "japanese": "ソース",
     "chinese": "教學資源",
     "thai": "ศูนย์ทรัพยากรการเรียนรู้",
+    "korean":"자료",
+    "vietnamese":"Các Nguồn Trợ giúp",
+    "indonesian":"Sumber-sumber Daya",
     "arabic": "الموارد"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "korean":"",
+        "vietnamese":"",
+        "indonesian":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "この画面は、ティーチャーリソースのエリアを表示しています。Online Practiceをお使いになっている先生と生徒のためのサポート用の教材がある場合は、このエリアで表示されます。先生用に表示されているリソースは、生徒用のものと異なることがあります。",
             "chinese": "這裡是教學資源區。本區將為您與學生提供可用的輔助教材，幫助您使用線上練習。顯示給教師的資源與顯示給學生使用的資源可能有所不同。",
             "thai": "ศูนย์ทรัพยากรการเรียนรู้  คือ ศูนย์รวมข้อมูลสำคัญที่ช่วยสนับสนุนการเรียนการสอนของคุณและนักเรียน ข้อมูลทั้งหมดจะถูกแสดงที่นี่ (ข้อมูลที่แสดงสำหรับครูผู้สอนอาจแตกต่างจากของนักเรียน)",
+            "korean":"이곳은 교사 자료 영역입니다. 이 영역을 이용할 수 있는 경우 교사와 학생에게 온라인 실습 이용 시 보조 자료가 제공됩니다. 교사를 대상으로 표시되는 자료는 학생 자료와 다를 수 있습니다.",
+            "vietnamese":"Đây là phần Các Nguồn Trợ giúp Giáo viên. Nếu có sẵn, phần này sẽ cung cấp tài liệu trợ giúp cho bạn và các học sinh của bạn khi sử dụng chương trình Thực hành Qua mạng. Các nguồn trợ giúp được hiển thị cho giáo viên có thể khác với các nguồn trợ giúp cho học sinh.",
+            "indonesian":"Inilah area Sumber-sumber daya untuk Guru. Di mana tersedia, area ini akan memberikan bahan-bahan pembantu untuk anda dan para murid anda bila menggunakan Praktik Online. Sumber-sumber daya yang diperagakan untuk para guru mungkin berbeda dari pada sumber-sumber daya untuk para murid.",
             "arabic": "هذه هي منطقة موارد المعلم وعندما تكون متاحة، تقدم هذه المنطقة موادًا داعمةً لك ولطلابك عند استخدام الممارسة عبر شبكة الإنترنت. وقد تكون الموارد المعروضة الخاصة بالمعلمين مختلفة عن تلك الخاصة بالطلاب."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "リソースを表示するには、タイトルまたはアイコンをクリックしてください。PDFファイルと文書は新しいタブで表示されるか、またはブラウザの設定によってはコンピュータにダウンロードされます。",
             "chinese": "點擊標題或圖示可以打開一個學習資源。PDF檔案與文件，將依照您的瀏覽器設定情況，在新頁面打開，或下載到您的電腦或裝置。",
             "thai": "คลิกที่ ชื่อเรื่อง หรือ สัญลักษณ์ ระบบจะแสดงหน้าต่างใหม่ให้คุณได้อ่าน หรือบันทึก (เอกสารอยู่ในรูปแบบไฟล์ PDF)",
+            "korean":"제목이나 아이콘을 클릭하여 자료를 여십시오. PDF 파일과 문서가 새로운 탭에서 열리거나 브라우저 설정에 따라 컴퓨터 또는 기타 장치로 다운로드됩니다.",
+            "vietnamese":"Nhấp chuột vào một tiêu đề hoặc biểu tượng để mở một nguồn trợ giúp. Các tệp tin dạng PDF và các tài liệu sẽ được mở ở một trang tab mới hoặc tải về máy tính hay thiết bị của bạn, tùy theo các thiết lập trong trình duyệt của bạn.",
+            "indonesian":"Klik pada suatu judul atau ikon untuk membuka suatu sumber daya. Berkas-berkas dan dokumen-dokumen PDF akan terbuka di suatu tab baru atau unduhlah ke komputer atau perangkat anda tergantung dari setelan pada peramban anda.",
             "arabic": "اانقر على عنوان أو أيقونة ما لفتح أحد الموارد. وسوف يتم فتح ملفات PDF والوثائق في علامة تبويب جديدة أو تنزيلها على الحاسب أو الجهاز الخاص بك حسب إعدادات المتصفح الخاص بك."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "ブラウザでファイルを再生するには、音声トラックのタイトルをクリックします。再生、一時停止、音量調節にはコントロール機能を使用してください。",
             "chinese": "點擊錄音檔的曲目標題，可在瀏覽器播放錄音檔。請操作控制面板來播放、暫停以及調整音量。",
             "thai": "คลิกที่ ชื่อไฟล์เสียงในการเล่นคลิปเสียงให้ใช้แถบควบคุมเพื่อควบคุมการเล่น หรือหยุด รวมถึงปรับระดับเสียง",
+            "korean":"브라우저에서 파일을 재생하려면 오디오 트랙 제목을 클릭하십시오. 제어장치를 이용하여 재생, 정지시키거나 음량을 조절하십시오.",
+            "vietnamese":"Nhấp chuột vào một tiêu đề tập tin âm thanh để mở tập tin trong trình duyệt của bạn. Sử dụng các nút điều khiển để mở, tạm dừng và điều chỉnh âm lượng.",
+            "indonesian":"Klik pada suatu judul jalur audio untuk memainkan berkas yang bersangkutan di peramban anda. Gunakan kontrol-kontrol untuk memainkan, menghentikan dan menyesuaikan volume suara.",
             "arabic": "اانقر على عنوان المسار الصوتي لتشغيل الملف داخل المتصفح الخاص بك. استخدم مفاتيح التحكم لتشغيل مستوى جهارة الصوت وإيقافه وضبطه."
           }
         }

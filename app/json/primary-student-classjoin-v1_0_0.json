@@ -8,6 +8,9 @@
     "japanese": "クラスへの参加登録",
     "chinese": "加入班級",
     "thai": "เข้าร่วมห้องเรียน",
+    "indonesian":"Bergabung dengan suatu Kelas",
+    "korean":"수업 참여",
+    "vietnamese":"Tham gia một Lớp học",
     "arabic": "الانضمام إلى فصل"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "indonesian":"",
+        "korean":"",
+        "vietnamese":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "こちらにクラスIDコードを入力し、Save[保存]をクリックします。このコードは、先生から渡されるものです。このコードは学習状況とクラスをリンクして、先生が確認できるようにするものです。",
             "chinese": "在此處輸入您的班級代碼，然後點擊Save（儲存）。班級代碼由您的教師提供，將您的課業連結到您的班級，讓您的教師可以看到。",
             "thai": "ใส่รหัสห้องเรียนและคลิก “Save” รหัสจะช่วยให้ครูผู้สอนเห็นงานที่คุณทำ หากไม่ทราบรหัสสามารถขอได้จากครูผู้สอน ",
+            "indonesian":"Masukkan kode identitas kelas anda di sini dan lalu klik \"Rekam\". Suatu kode identitas kelas ialah kode yang dapat diberikan oleh guru anda pada anda. Kode ini mengaitkan pekerjaan anda dengan kelas anda agar guru anda dapat melihatnya.",
+            "korean":"수업 ID 코드를 여기에 입력하고 \"저장\"을 클릭하십시오. 수업 ID 코드는 교사가 제공할 수 있는 코드입니다. 이 코드는 본인의 학습을 수업에 연결하여 교사가 볼 수 있도록 합니다.",
+            "vietnamese":"Nhập mã ID lớp học của bạn vào đây rồi nhấp chuột vào nút “Lưu lại”. Mã ID lớp học là một mã số mà giáo viên của bạn có thể cung cấp cho bạn. Nó liên kết bài làm với lớp học của bạn để giáo viên có thể xem bài làm của bạn.",
             "arabic": "أأدخل رمز مُعرِّف الفصل الخاص بك هنا ثم انقر على “Save”(\"حفظ\"). يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "クラスIDコードを送信してホームページに戻るには、こちらをクリックします。",
             "chinese": "點此處送出您的班級代碼，並回到首頁。",
             "thai": "คลิกที่นี่ เพื่อยืนยันรหัสและกลับหน้าหลัก",
+            "indonesian":"Klik di sini untuk memberikan kode identitas kelas anda dan kembali ke halaman Laman anda.",
+            "korean":"수업 ID 코드를 제출하고 홈페이지로 돌아가려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để đăng nộp mã ID lớp học rồi trở lại Trang chủ của bạn.",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وعُد لصفحتك الرئيسية."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "クラスに参加登録しないで前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁，不加入班級。",
             "thai": "คลิกที่นี่ เพื่อยกเลิกและกลับหน้าที่แล้ว",
+            "indonesian":"Klik di sini untuk kembali ke halaman sebelumnya tanpa bergabung dengan suatu kelas.",
+            "korean":"여기를 클릭하면 수업에 참여하지 않고 이전 페이지로 돌아갑니다.",
+            "vietnamese":"Nhấp chuột vào đây để quay trở lại trang trước mà không tham gia một lớp học.",
             "arabic": "انقر هنا للرجوع إلى الصفحة السابقة بدون الانضمام إلى أحد الفصول."
           }
         }

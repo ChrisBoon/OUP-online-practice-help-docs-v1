@@ -8,6 +8,9 @@
     "japanese": "メディアセンター",
     "chinese": "媒體中心",
     "thai": "ศูนย์รวมมัลติมีเดีย",
+    "indonesian":"Pusat Media",
+    "korean":"미디어 센터",
+    "vietnamese":"Trung tâm Truyền thông",
     "arabic": "مركز الوسائط"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "音声",
         "chinese": "錄音檔案",
         "thai": "เสียง",
+        "indonesian":"",
+        "korean":"음성",
+        "vietnamese":"Âm thanh",
         "arabic": "الصوت"
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "クラス用の音声ファイルとビデオファイルが視聴可能な場合は、メディアセンターからアクセスすることができます。",
             "chinese": "媒體中心為您提供目前可以使用的課程錄音以及影片檔案。",
             "thai": "ศูนย์รวมมัลติมีเดีย จะรวมไฟล์เสียง และคลิปวิดีโอสำหรับใช้ประกอบการเรียนให้คุณได้ใช้งาน (ถ้ามี)",
+            "indonesian":"Pusat Media menyediakan berkas-berkas audio dan video kelas untuk digunakan oleh anda, jika tersedia.",
+            "korean":"미디어 센터는 이용가능한 경우 수업 음성 및 영상 파일을 제공합니다.",
+            "vietnamese":"Trung tâm Truyền thông cung cấp các tập tin âm thanh và video cho bạn sử dụng, nếu có.",
             "arabic": "يقدم لك مركز الوسائط ملفات صوتية وملفات فيديو خاصة بالفصل لاستخدامها، إذا كانت متوفرة."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "音声ファイルのタイトルをクリックします。オーディオプレーヤーが表示され、音声を再生します。矢印のボタンを使うと、再生や一時停止ができます。トラック間の移動や音量の調節にはコントロール機能を使用してください。",
             "chinese": "點擊一個錄音檔案標題，播放程式會自動出現並播放此錄音檔案。使用箭號按鈕來播放與暫停該曲目，使用控制面板來變換曲目以及調整音量。",
             "thai": "คลิกที่ชื่อไฟล์เสียง ระบบจะปรากฏแถบควบคุมการเล่น และเล่นไฟล์ที่คุณเลือก คลิกที่ลูกศรเพื่อเล่นหรือหยุดชั่วคราว สามารถใช้แถบควบคุมเพื่อเล่นไฟล์ถัดไป หรือปรับระดับเสียง  ",
+            "indonesian":"Klik pada suatu judul berkas audio. Suatu pemutar audio akan muncul dan memainkan audio yang bersangkutan. Gunakan tombol panah untuk memainkan dan menghentikan jalurnya. Gunakan berbagai kontrol untuk melintasi berbagai jalur dan mengubah volume.",
+            "korean":"음성 파일 제목을 클릭하십시오. 오디오 플레이어가 나타나 음성 파일을 재생합니다. 화살표 버튼을 이용하여 트랙을 재생하고 멈추십시오. 제어장치를 이용하여 트랙을 이동하거나 음량을 조절하십시오.",
+            "vietnamese":"Nhấp chuột vào tiêu đề một tập tin âm thanh. Một ứng dụng phát âm thanh sẽ xuất hiện và mở tập tin âm thanh. Dùng nút hình mũi tên để mở và tạm dừng đoạn thu âm. Dùng các nút điều khiển để di chuyển tới lui trong đoạn thu âm và thay đổi âm lượng.",
             "arabic": "اانقر فوق عنوان أحد الملفاتالصوتية. سوف يظهر مشغل الصوت ويقوم بتشغيل مقطع الفيديو. استخدم زر السهم لتشغيل وإيقاف المسار. استخدم مفاتيح التحكم للتحرك من خلال المسار وتغيير مستوى جهارة الصوت."
           }
         }
@@ -75,6 +87,9 @@
         "japanese": "ビデオ",
         "chinese": "影片",
         "thai": "วิดีโอ",
+        "indonesian":"Video",
+        "korean":"비디오",
+        "vietnamese":"Video",
         "arabic": "الفيديو"
       },
       "paragraphs":{
@@ -91,6 +106,9 @@
             "japanese": "ビデオのタイトルをクリックして、ビデオファイルを再生します。ブラウザの新しいタブで再生します。",
             "chinese": "點擊一個影片標題，播放影片檔案。影片將會在您的瀏覽器新開一個頁面來播放。",
             "thai": "คลิกที่ชื่อไฟล์ ระบบจะเปิดหน้าต่างใหม่เพื่อเล่นคลิปวิดีโอ ",
+            "indonesian":"Klik pada suatu judul video untuk memainkan suatu berkas video. Video akan diputar di suatu tab baru dalam peramban anda.",
+            "korean":"비디오 파일을 재생하려면 비디오 제목을 클릭하십시오. 브라우저의 새 탭에서 재생됩니다.",
+            "vietnamese":"Nhấp chuột vào một tiêu đề video để mở một tập tin video. Tập tin này sẽ được mở ở một tab mới trên cửa sổ trình duyệt của bạn.",
             "arabic": "انقر فوق عنوان مقطع الفيديو لتشغيل ملف الفيديو. سوف يقوم بتشغيل علامة تبويب جديدة في المتصفح الخاص بك."
           }
         }
@@ -108,6 +126,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "indonesian":"",
+        "korean":"",
+        "vietnamese":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -124,6 +145,9 @@
             "japanese": "再生や一時停止、音量調節や全画面表示をするには、コントロール機能を使用してください。",
             "chinese": "使用控制面板來播放與暫停影片、調整音量以及用全螢幕模式觀看影片。",
             "thai": "ให้ใช้แถบแถบควบคุมเพื่อเล่นหรือหยุดชั่วคราว คุณสามารถปรับระดับเสียง หรือเลือกการแสดงภาพแบบเต็มจอได้จากแถบควบคุม",
+            "indonesian":"Gunakan berbagai kontrol untuk memainkan dan menghentikan video, mengubah volume dan memilih pandangan layar penuh.",
+            "korean":"제어장치를 이용하여 비디오를 재생 또는 정지시키고 음량을 조절하거나 전체화면 보기로 시청하십시오.",
+            "vietnamese":"Dùng các nút điều khiển để mở và tạm dừng đoạn phim, thay đổi âm lượng và xem ở chế độ toàn màn hình.",
             "arabic": "استخدم مفاتيح التحكم لتشغيل وإيقاف مقطع الفيديو وتغيير مستوى جهارة الصوت وإدخال المنظر بملء الشاشة."
           }
         }

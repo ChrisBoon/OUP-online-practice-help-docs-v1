@@ -8,6 +8,9 @@
     "japanese": "クラス用サマリーレポート",
     "chinese": "班級簡要報告",
     "thai": "รายงานสรุปประจำชั้น",
+    "korean":"수업 요약 보고서",
+    "vietnamese":"Báo cáo Tóm tắt các Lớp học",
+    "indonesian":"Rapor Ikhtisar Kelas",
     "arabic": "تقرير موجز الفصل"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "korean":"",
+        "vietnamese":"",
+        "indonesian":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "特定のクラスのクラスレポートに進む場合は、このメニューを使用します（クラス内の特定の生徒の学習状況を表示することができます）。",
             "chinese": "請使用選單前往特定班級的班級報告（您可以觀看班級裡面特定學生的表現）。",
             "thai": "เมนูนี้ สำหรับอ่านรายงานของห้องเรียนที่ต้องการ  (คุณสามารถอ่านรายงานของนักเรียนแต่ละคนในห้องเรียนได้ด้วย)",
+            "korean":"메뉴를 이용하여 특정 수업의 수업 보고서로 이동할 수 있습니다 (수업에 참여한 특정 학생의 학습을 볼 수 있습니다).",
+            "vietnamese":"Dùng trình đơn để mở Báo cáo về Lớp học cho một lớp học nào đó (bạn có thể xem các hoạt động của những học sinh cụ thể trong một lớp học).",
+            "indonesian":"Gunakan menu untuk menuju Rapor Kelas untuk suatu kelas yang tertentu (anda dapat melihat pekerjaan murid-murid tertentu dalam suatu kelas).",
             "arabic": "استخدم القائمة للذهاب إلى تقرير الفصل الخاص بفصل معين (يمكنك استعراض أعمال طلاب محددين في فصل ما)."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "クラスのタイトルをクリックしても、クラスレポートを表示することができます。",
             "chinese": "您也可以點擊班級的標題，觀看班級報告。",
             "thai": "คลิกที่ ชื่อห้องเรียน เพื่ออ่านรายงานประจำห้อง",
+            "korean":"또한 수업 제목을 클릭하여 수업 보고서를 볼 수 있습니다.",
+            "vietnamese":"Bạn cũng có thể chọn tên một lớp học để xem báo cáo của lớp học đó.",
+            "indonesian":"Anda juga dapat mengklik suatu judul kelas untuk melihat rapor kelas.",
             "arabic": "يمكنك أيضًا النقر علىعنوانفصل ما لعرض التقرير الخاص به."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "ユニットレポートを表示するには、こちらをクリックします。生徒のそのユニットの全レッスンの得点を見ることができます。",
             "chinese": "點此處，可觀看單元報告。您可以看到學生在同一單元當中，全部課程的得分。",
             "thai": "คลิกที่นี่  เพื่ออ่านรายงานตามหัวข้อการสอน  คุณสามารถดูคะแนนของนักเรียน ในทุกหน่วยบทเรียน",
+            "korean":"단원 보고서를 보려면 여기를 클릭하십시오. 해당 단원의 전체 학과에 대한 학생들의 점수를 볼 수 있습니다.",
+            "vietnamese":"Nhấp chuột vào đây để xem Báo cáo Bài học. Bạn có thể xem điểm số của học sinh cho tất cả các bài tập trong bài học đó.",
+            "indonesian":"Klik di sini untuk melihat suatu Rapor Unit. Anda dapat melihat skor para murid untuk semua pelajaran dalam suatu unit.",
             "arabic": "انقر هنا لعرض تقرير وحدة ما. يمكنك أن ترى درجات الطلاب لجميع الدروس في الوحدة."
           }
         },
@@ -90,6 +105,9 @@
             "japanese": "この行は、このクラスが各ユニットで完了したアクティビティの平均数を表します。例えば、その数が8/9だとすれば、8はそのユニットで完了したアクティビティの平均数であり、9はそのユニットのアクティビティの合計数です。",
             "chinese": "這一行顯示本班學生在每個單元所完成的學習活動平均數目。例如，如果數字是8/9，8代表在這個單元完成的學習活動平均數目，9代表這個單元裡面全部的活動總數。",
             "thai": "จำนวนกิจกรรมที่ทำเสร็จแล้วโดยเฉลี่ยของทั้งห้องเรียนแยกตามหัวข้อ เช่น   ถ้าตัวเลขแสดงที่ 8/9 เลข 8 คือจำนวนโดยเฉลี่ยของนักเรียนที่ทำกิจกรรมเสร็จแล้ว  ส่วนเลข 9 คือ จำนวนของกิจกรรมทั้งหมดที่นักเรียนต้องทำ",
+            "korean":"이 행은 이 수업의 단원별로 완료된 평균 활동 수를 보여 줍니다. 예를 들어, 그 수가 8/9이면 8은 그 단원에서 이루어진 평균 활동 수이고, 9는 그 단원의 총 활동 수입니다.",
+            "vietnamese":"Dòng này cho thấy số hoạt động trung bình mà lớp học này đã hoàn thành trong mỗi bài học. Ví dụ, nếu con số là 8/9, 8 là số trung bình của các hoạt động đã hoàn thành trong bài học, và 9 là tổng số các hoạt động trong bài học.",
+            "indonesian":"Baris ini menunjukkan jumlah rata-rata dari aktivitas-aktivitas yang dilakukan di setiap unit untuk kelas ini. Misalnya, bila angkanya 8/9, berarti bahwa 8 adalah angka rata-rata untuk aktivitas-aktivitas yang dilakukan dalam unit ini, dan 9 adalah jumlah total aktivitas-aktivitas dalam unit yang bersangkutan.",
             "arabic": "يبين هذا الصف متوسط عدد الأنشطة المُنجَزة في كل وحدة لهذا الفصل. على سبيل المثال: إذا كان العدد هو8/9، فإن 8 هو متوسط عدد الأنشطة المُنجَزة في الوحدة، و9 هو إجمالي الأنشطة في الوحدة."
           }
         },
@@ -106,6 +124,9 @@
             "japanese": "この行は、このクラスの各ユニットの平均点を表します。",
             "chinese": "這一行顯示本班學生在這個單元所得到的平均分數。",
             "thai": "ค่าเฉลี่ยของคะแนนทั้งห้องเรียน  แบ่งตามหัวข้อ",
+            "korean":"이 행은 이 수업의 단원별 평균 점수를 보여 줍니다.",
+            "vietnamese":"Dòng này cho thấy điểm trung bình cho mỗi bài học của lớp học này.",
+            "indonesian":"Baris ini menunjukkan skor rata-rata dalam setiap unit untuk kelas ini.",
             "arabic": "يبين هذا الصف متوسط الدرجةفي كل وحدة لهذا الفصل."
           }
         },
@@ -122,6 +143,9 @@
             "japanese": "この行は、このクラスの生徒が各ユニットの学習に費やした平均時間を表します。",
             "chinese": "這一行顯示本班學生在每個單元所花費的平均時間。",
             "thai": "เวลาโดยเฉลี่ยที่นักเรียนใช้ในการทำกิจกรรมแต่ละหัวข้อ",
+            "korean":"이 행은 이 수업에 참여한 학생들이 각 단원에서 활동한 평균 시간량을 보여 줍니다.",
+            "vietnamese":"Dòng này cho thấy mức thời gian trung bình mà học sinh trong lớp học này đã dành cho mỗi bài học.",
+            "indonesian":"Baris ini menunjukkan jumlah waktu rata-rata yang diperlukan para murid dalam kelas ini untuk melakukan setiap unit.",
             "arabic": "يُظهِر هذا الصف متوسط مقدار الوقت الذي قضاه الطالب في هذا الفصل بالعمل في كل وحدة."
           }
         },
@@ -138,6 +162,9 @@
             "japanese": "これは、このクラスのそのレベル全体のアクティビティに対する、完了したアクティビティの平均数です。例えば、その数が80/90だとすれば。80は完了したアクティビティの平均数であり、90はそのレベルのアクティビティの合計数です。",
             "chinese": "這是本班學生在整個級數所完成的學習活動平均數目總和。例如，如果數字是80/90，80代表學生在各單元所完成的學習活動平均數目總和，而90代表此級數中全部的學習活動數目總和。",
             "thai": "ค่าเฉลี่ยของจำนวนกิจกรรมที่ทำเสร็จทั้งระดับชั้น ถ้าตัวเลขแสดงที่ 80/90 เลข 80 คือ จำนวนโดยเฉลี่ยของกิจกรรมที่ทำเสร็จแล้วในทุกหัวข้อ  และ 90 คือ จำนวนกิจกรรมทั้งหมดที่นักเรียนต้องทำ",
+            "korean":"이것은 이 수업의 전체 레벨에서 완료된 평균 활동 수의 합계입니다. 예를 들어, 그 수가 80/90이면 80은 전체 단원에서 완료된 평균 활동 수의 합계이고, 90은 그 레벨의 총 활동 수입니다.",
+            "vietnamese":"Đây là tổng số hoạt động trung bình mà lớp học đã hoàn thành đối với toàn bộ trình độ này. Ví dụ, nếu con số là 80/90, 80 là tổng số trung bình của các hoạt động đã hoàn thành trong tất cả các bài học, và 90 là tổng số các hoạt động ở trình độ này.",
+            "indonesian":"Baris ini menunjukkan jumlah rata-rata dari aktivitas-aktivitas yang dilakukan di seluruh tingkat untuk kelas ini. Misalnya, bila angkanya 80/90, berarti bahwa 80 adalah angka rata-rata untuk aktivitas-aktivitas yang dilakukan di semua unit-unit, dan 90 adalah jumlah total aktivitas-aktivitas dalam tingkat yang bersangkutan.",
             "arabic": "هذا هو إجمالي متوسط عدد الأنشطة المُنجَزة في مستوى كامل لهذا الفصل. على سبيل المثال: إذا كان الرقم 80/90، فإن 80 هو إجمالي متوسط عدد الأنشطة المُنجَزة في الوحدة، و90 هو إجمالي الأنشطة في المستوى."
           }
         },
@@ -154,6 +181,9 @@
             "japanese": "これは、そのレベルのユニット全体の平均点です。",
             "chinese": "這是同一級數中各單元的平均分數。",
             "thai": "ค่าเฉลี่ยของคะแนนแยกตามบทเรียนของทั้งระดับ",
+            "korean":"이것은 해당 레벨에서 전체 단원의 평균 점수입니다.",
+            "vietnamese":"Đây là điểm trung bình cho các bài học ở trình độ này.",
+            "indonesian":"Inilah skor rata-rata untuk semua unit-unit di tingkat ini.",
             "arabic": "هذا هو متوسط الدرجة عبر الوحدات في المستوى."
           }
         },
@@ -170,6 +200,9 @@
             "japanese": "これは、生徒がそのレベル全体のアクティビティに費やした各ユニットの平均時間の合計です。",
             "chinese": "這是學生在同一級數中，各單元學習活動所花費的平均時間總和。",
             "thai": "เวลาโดยเฉลี่ยที่นักเรียนใช้ในการทำกิจกรรม",
+            "korean":"이것은 학생이 레벨 전체에서 활동에 사용한 단원별 평균 시간의 합계입니다.",
+            "vietnamese":"Đây là tổng thời gian trung bình mà các học sinh đã dành cho các hoạt động của mỗi bài học ở trình độ này.",
+            "indonesian":"Inilah jumlah waktu total rata-rata di setiap unit yang dihabiskan para murid untuk melakukan aktivitas-aktivitas di seluruh tingkat.",
             "arabic": "هذا هو إجمالي متوسط الوقت في كل وحدة والذي يقضيه الطلاب في الأنشطة خلال المستوى."
           }
         },
@@ -186,6 +219,9 @@
             "japanese": "このレポートをMicrosoft Excel™にエクスポートするには。こちらをクリックします。",
             "chinese": "點此處用Microsoft Excel格式輸出這份報告。",
             "thai": "คลิกที่นี่  เพื่อบันทึกรายงานเป็นไฟล์ Microsoft Excel™",
+            "korean":"이 보고서를 Microsoft Excel™로 내보내려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để xuất báo cáo này ra bảng Microsoft ExcelTM.",
+            "indonesian":"Klik di sini untuk mengekspor rapor ini ke Microsoft Excel™.",
             "arabic": "انقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         },
@@ -202,6 +238,9 @@
             "japanese": "このレポートを印刷するには、こちらをクリックします。",
             "chinese": "點此處列印這份報告。",
             "thai": "คลิกที่นี่ เพื่อพิมพ์หน้านี้",
+            "korean":"이 보고서를 인쇄하려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để in báo cáo này.",
+            "indonesian":"Klik di sini untuk mencetak rapor ini.",
             "arabic": "اانقر هنا لطباعة هذا التقرير."
           }
         }

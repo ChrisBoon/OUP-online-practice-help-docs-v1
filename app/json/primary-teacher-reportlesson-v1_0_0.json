@@ -8,6 +8,9 @@
     "japanese": "レッスンレポート",
     "chinese": "課程報告",
     "thai": "รายงานประจำบทเรียน",
+    "korean":"학과 보고서",
+    "vietnamese":"Báo cáo Bài tập",
+    "indonesian":"Rapor Pelajaran",
     "arabic": "تقرير عن الدرس"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "korean":"",
+        "vietnamese":"",
+        "indonesian":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "クラスのサマリーレポート（全クラスの平均得点）を表示するには、こちらをクリックします。",
             "chinese": "點此處觀看班級簡要報告（您全部班級的平均分數）。",
             "thai": "คลิกที่นี่  เพื่อดูคะแนนโดยรวมของทุกห้องเรียน (คะแนนเฉลี่ยในทุกห้องเรียนของคุณ)  ",
+            "korean":"수업 요약 보고서(전체 수업의 평균 점수)를 보려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để xem Báo cáo Tóm tắt các Lớp học (điểm trung bình cho tất cả các lớp học của bạn).",
+            "indonesian":"Klik di sini untuk melihat Rapor Ikhtisar Kelas (skor rata-rata untuk semua dari kelas-kelas anda).",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (معدلات الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "クラスレポートを表示するには、こちらをクリックします。",
             "chinese": "點此處觀看班級報告。",
             "thai": "คลิกที่นี่  เพื่อดูรายงานทั้งชั้นเรียน",
+            "korean":"수업 보고서를 보려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để xem Báo cáo về Lớp học.",
+            "indonesian":"Klik di sini untuk melihat Rapor Kelas.",
             "arabic": "انقر هنا لعرض التقرير عن الفصل."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "別のクラスのユニットレポートを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看不同班級的單元報告。",
             "thai": "ใช้เมนูนี้ เพื่อดูรายงานแยกตามห้องเรียน",
+            "korean":"이 메뉴를 이용하여 다른 수업의 단원 보고서를 보십시오.",
+            "vietnamese":"Dùng trình đơn này để xem Báo cáo Bài học của một lớp học khác.",
+            "indonesian":"Gunakan menu ini untuk melihat suatu Rapor Unit untuk kelas yang berbeda.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لفصل مختلف."
           }
         },
@@ -90,6 +105,9 @@
             "japanese": "別の生徒のユニットレポートを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看不同學生的單元報告。",
             "thai": "ใช้เมนูนี้  เพื่อดูรายงานของนักเรียนแต่ละคน",
+            "korean":"이 메뉴를 이용하여 다른 학생의 단원 보고서를 보십시오.",
+            "vietnamese":"Dùng trình đơn này để xem một Báo cáo Bài học cho một học sinh khác.",
+            "indonesian":"Gunakan menu ini untuk melihat suatu Rapor Unit untuk seorang murid yang berbeda.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لطالب مختلف."
           }
         },
@@ -106,6 +124,9 @@
             "japanese": "別のユニットのユニットレポートを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看不同單元的單元報告。",
             "thai": "ใช้เมนูนี้ เพื่อดูรายงานแยกตามหัวข้อของบทเรียน",
+            "korean":"이 메뉴를 이용하여 다른 단원의 단원 보고서를 보십시오.",
+            "vietnamese":"Dùng trình đơn này để xem Báo cáo Bài học cho một bài học khác.",
+            "indonesian":"Gunakan menu ini untuk melihat Rapor Unit untuk suatu unit yang berbeda.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لوحدة مختلفة."
           }
         },
@@ -122,6 +143,9 @@
             "japanese": "別のレッスンのユニットレポートを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看不同課程的單元報告。",
             "thai": "ใช้เมนูนี้  เพื่อดูรายงานแยกตามบทเรียน",
+            "korean":"이 메뉴를 이용하여 다른 학과의 단원 보고서를 보십시오.",
+            "vietnamese":"Dùng trình đơn này để xem Báo cáo Bài học cho một bài tập khác.",
+            "indonesian":"Gunakan menu ini untuk melihat Rapor Unit untuk suatu pelajaran yang berbeda.",
             "arabic": "استخدم هذه القائمة لعرض تقرير عن الوحدة لدرس مختلف."
           }
         },
@@ -138,6 +162,9 @@
             "japanese": "この行は、このレッスンの各アクティビティに対するこの生徒の得点を表します。これは、その生徒によるこのアクティビティに対する一番最近の取り組みを表示しています。例えば、その得点が8/10だとすれば、8はその生徒が正しく答えた質問の数であり、10はそのアクティビティの質問の合計数です。.のマークは、アクティビティに得点がないことを意見します。",
             "chinese": "這一行顯示這位學生在這堂課當中每個學習活動的得分，此得分來自於學生對於這個學習活動最近一次的嘗試。例如，如果分數是8/10，8代表學生答對的題目數量，而10代表此活動裡面全部的題目數量。圓點符號「.」代表這項學習活動並沒有分數。",
             "thai": "บรรทัดนี้แสดงคะแนนในการทำกิจกรรมของนักเรียน โดยระบบจะแสดงคะแนนครั้งสุดท้ายที่นักเรียนได้ทำไว้ เช่น  ถ้าคะแนนที่แสดงคือ 8/10 เลข 8 คือ จำนวนข้อที่นักเรียนตอบถูก  และเลข 10 คือ จำนวนของคำถามทั้งหมด สัญลักษณ์ . แปลว่า กิจกรรมนั้นยังไม่มีคะแนน  ",
+            "korean":"이 행은 이 학과에 대한 이 학생의 활동별 점수를 보여 줍니다. 이것은 학생의 최종 활동 시도 점수를 보여 줍니다. 예를 들어, 점수가 8/10이면 8은 학생이 정답을 맞춘 항목(질문)의 수이고 10은 그 활동의 총 항목 수입니다. 기호 .는 활동에 점수가 없다는 것을 의미합니다.",
+            "vietnamese":"Dòng này cho thấy điểm của học sinh này cho mỗi hoạt động trong bài tập này. Đây là điểm của lần cuối cùng học sinh thử làm hoạt động này. Ví dụ, nếu điểm là 8/10, 8 là số lượng các mục (các câu hỏi) mà học sinh đã trả lời đúng, và 10 là tổng số các mục trong hoạt động này. Ký hiệu . nghĩa là hoạt động này không có điểm.",
+            "indonesian":"Baris ini menunjukkan skor seorang murid untuk setiap aktivitas dalam pelajaran ini. Baris ini menunjukkan skor untuk percobaan seorang murid yang terakhir dalam suatu aktivitas. Misalnya, jika skornya 8/10, maka 8 adalah jumlah dari artikel-artikel (pertanyaan-pertanyaan) yang dijawab murid itu dengan tepat, dan 10 adalah jumlah total dari artikel-artikel dalam aktivitas tersebut. Simbol (.) berarti bahwa aktivitas itu tidak memiliki skor.",
             "arabic": "يُظهِر هذا الصف درجات هذا الطالب في كل نشاط في هذا الدرس. ويوضح الدرجةالخاصة بآخر محاولة للطالب في النشاط. فعلى سبيل المثال، إذا كانت الدرجةهي 8/10، فإن الرقم 8 هو عدد البنود (الأسئلة) التي أجاب عنها الطالب إجابة صحيحة، والرقم 10 هو العدد الإجمالي للبنود في النشاط. يُقصَد بالرمز . أن النشاط ليست عليه أية درجة."
           }
         },
@@ -154,6 +181,9 @@
             "japanese": "この行は、このレッスンにおいて各アクティビティに取り組んだ回数を表します。",
             "chinese": "這一行顯示該課程當中，每項學習活動被嘗試的次數。",
             "thai": "บรรทัดนี้แสดงถึงจำนวนครั้งที่นักเรียนใช้ในการทำกิจกรรม",
+            "korean":"이 행은 이 학과의 활동별 시도 횟수를 보여 줍니다.",
+            "vietnamese":"Dòng này cho thấy số lần thử đối với mỗi hoạt động trong bài tập này.",
+            "indonesian":"Baris ini menunjukkan jumlah dari percobaan untuk setiap aktivitas dalam pelajaran ini.",
             "arabic": "يُظهِر هذا الصف عدد المحاولات الخاصة بكل نشاط في هذا الدرس."
           }
         },
@@ -170,6 +200,9 @@
             "japanese": "この行は、各アクティビティの学習に費やした合計時間です。",
             "chinese": "這一行顯示該課程當中，每項學習活動被嘗試的時間總和。",
             "thai": " บรรทัดนี้แสดงระยะเวลาทั้งหมดที่ใช้ในการทำกิจกรรม",
+            "korean":"이 행은 각 활동에서 전체 시도에 소요된 총 시간을 보여 줍니다.",
+            "vietnamese":"Dòng này cho thấy tổng số thời gian dành cho tất cả các lần thử ở mỗi hoạt động.",
+            "indonesian":"Baris ini menunjukkan jumlah waktu total yang diperlukan untuk melakukan semua percobaan di setiap aktivitas.",
             "arabic": "يظهر هذا النشاط مقدار الوقت المُستغرَق في كافة المحاولة لكل نشاط."
           }
         },
@@ -186,6 +219,9 @@
             "japanese": "これは、その生徒のこのレッスンにおける合計得点です。",
             "chinese": "這是學生在此課程得到的總分。",
             "thai": "บรรทัดนี้แสดงระยะเวลาทั้งหมดที่นักเรียนใช้ในการทำกิจกรรม",
+            "korean":"이것은 이 학과에 대한 학생의 총점입니다.",
+            "vietnamese":"Đây là tổng điểm của học sinh cho bài tập này.",
+            "indonesian":"Inilah skor total seorang murid untuk pelajaran ini.",
             "arabic": "هذه هي النتيجة الإجمالية للطالب بالنسبة لهذا الدرس."
           }
         },
@@ -202,6 +238,9 @@
             "japanese": "これは、その生徒がこのレッスンの全てのアクティビティに費やした合計回数です。",
             "chinese": "這是這位學生在此課程所有學習活動嘗試次數的總和。",
             "thai": "นี่คือจำนวนครั้งที่นักเรียนได้ทำกิจกรรม ในบทเรียนนี้",
+            "korean":"이것은 이 학생이 이 학과에서 전체 활동을 시도한 총 횟수입니다.",
+            "vietnamese":"Đây là tổng số lần thử mà học sinh này đã thực hiện đối với tất cả các hoạt động trong bài tập này.",
+            "indonesian":"Inilah jumlah total berapa kali murid ini mencoba melakukan semua aktivitas dalam pelajaran ini.",
             "arabic": "هذا هو العدد الإجمالي للأوقات التي حاول فيها هذا الطالب القيام بجميع الأنشطة في هذا الدرس."
           }
         },
@@ -218,6 +257,9 @@
             "japanese": "これは、その生徒がこのレッスンに費やした合計時間です。",
             "chinese": "這是這位學生在此課程花費時間的總和。",
             "thai": "นี่คือระยะเวลาทั้งหมดที่นักเรียนได้ใช้ในบทเรียนนี้",
+            "korean":"이것은 학생이 이 학과에서 사용한 총 시간입니다.",
+            "vietnamese":"Đây là tổng lượng thời gian học sinh này đã dành cho bài tập này.",
+            "indonesian":"Inilah jumlah waktu total yang diperlukan murid ini untuk pelajaran ini.",
             "arabic": "هذا هو مقدار الوقت الإجمالي الذي قضاه الطالب في هذا الدرس."
           }
         },
@@ -234,6 +276,9 @@
             "japanese": "この生徒の取り組む回数を増やすには、+マークをクリックします。1回増やすごとにその生徒はさらに3回取り組むことができます。",
             "chinese": "點擊「+」符號可以增加這位學生的嘗試次數，每次增加將會提供學生三次嘗試機會。",
             "thai": "คลิกที่เครื่องหมาย + เพื่อเพิ่มจำนวนในการทำกิจกรรม การกดหนึ่งครั้งจะให้สิทธิ์นักเรียนในการทำกิจกรรมเพิ่มสามครั้ง",
+            "korean":"학생의 시도 횟수를 증가시키려면 기호 +를 클릭하십시오. 한 번 증가시킬 때마다 학생은 세 번 더 시도할 수 있습니다.",
+            "vietnamese":"Nhấp chuột vào biểu tượng + để tăng số lần thử dành cho học sinh này. Học sinh sẽ có thêm ba lần thử với mỗi lần tăng.",
+            "indonesian":"Klik pada simbol + untuk menaikkan jumlah percobaan murid ini. Setiap kenaikan akan memberikan murid ini tiga kali percobaan lebih banyak.",
             "arabic": "انقر فوق رمز + لزيادة عدد محاولات هذا الطالب. وستعطي كل زيادة الطالب ثلاث محاولات إضافية."
           }
         },
@@ -250,6 +295,9 @@
             "japanese": "このレポートを印刷するには、こちらをクリックします。",
             "chinese": "點此處列印這份報告。",
             "thai": "คลิกที่นี่  เพื่อพิมพ์หน้านี้",
+            "korean":"이 보고서를 인쇄하려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để in báo cáo này.",
+            "indonesian":"Klik di sini untuk mencetak rapor ini.",
             "arabic": "انقر هنا لطباعة هذا التقرير."
           }
         },
@@ -266,6 +314,9 @@
             "japanese": "このレポートをMicrosoft Excel™にエクスポートするには、こちらをクリックします。",
             "chinese": "點此處用Microsoft Excel™格式輸出這份報告。",
             "thai": "คลิกที่นี่  เพื่อบันทึกข้อมูลในรูปแบบไฟล์ Microsoft Excel™",
+            "korean":"이 보고서를Microsoft Excel™로 내보내려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để xuất báo cáo này ra bảng Microsoft ExcelTM.",
+            "indonesian":"Klik di sini untuk mengekspor rapor ini ke Microsoft Excel™.",
             "arabic": "اانقر هنا لتصدير هذا التقرير إلى Microsoft Excel™."
           }
         }

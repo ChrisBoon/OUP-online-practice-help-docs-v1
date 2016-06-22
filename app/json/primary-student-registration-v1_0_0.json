@@ -8,6 +8,9 @@
     "japanese": "生徒の登録",
     "chinese": "學生註冊",
     "thai": "การลงทะเบียนของนักเรียน",
+    "indonesian":"Pendaftaran Murid",
+    "korean":"학생 등록",
+    "vietnamese":"Đăng ký Học sinh",
     "arabic": "تسجيل الطلاب"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "indonesian":"",
+        "korean":"",
+        "vietnamese":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "はじめてご利用になる場合は、Register[登録]をクリックします。",
             "chinese": "如果您第一次使用，請點擊「註冊」。",
             "thai": "ถ้าใช้งานครั้งแรก  คลิกที่ ”ลงทะเบียน”",
+            "indonesian":"Jika anda seorang pengguna pertama kali klik \"Mendaftar\".",
+            "korean":"처음으로 이용하시는 경우 [등록]을 클릭하십시오.",
+            "vietnamese":"Nếu đây là lần đầu bạn sử dụng trang web này, hãy nhấp chuột vào nút “Đăng ký”.",
             "arabic": "إذا كنت مستخدمًا لأول مرة,فانقر على“Register”(\"تسجيل\")."
           }
         }
@@ -59,6 +68,9 @@
         "japanese": "利用規約への同意",
         "chinese": "同意使用條款",
         "thai": "ยอมรับเงื่อนไขการใช้งาน",
+        "indonesian":"Menyetujui Syarat-syarat Penggunaan",
+        "korean":"이용약관 동의",
+        "vietnamese":"Chấp nhận các Điều khoản Sử dụng",
         "arabic": "وافق على شروط الاستخدام"
       },
       "paragraphs":{
@@ -75,6 +87,9 @@
             "japanese": "このページは利用規約を説明しています。Online Practiceに登録するには、利用規約に同意する必要があります。",
             "chinese": "本頁面說明使用條款，為了註冊線上練習，您必須同意這些條款。",
             "thai": "หน้านี้อธิบายเงื่อนไขการใช้งาน คุณต้องยอมรับเงื่อนไขการใช้งานทั้งหมด  ก่อนเข้าใช้ระบบแบบฝึกหัดออนไลน์",
+            "indonesian":"Halaman ini menjelaskan Syarat-syarat Penggunaan. Anda harus setuju terhadap syarat-syarat ini agar dapat mendaftarkan diri untuk Praktik Online.",
+            "korean":"이 페이지는 이용약관을 설명합니다. 온라인 실습을 등록하시려면 약관에 동의하셔야 합니다.",
+            "vietnamese":"Trang này giải thích Các Điều khoản Sử dụng. Bạn phải đồng ý với các điều khoản để có thể đăng ký vào chương trình Thực hành Qua mạng.",
             "arabic": "تشرح هذه الصفحة شروط الاستخدام. يجب عليك الموافقة على الشروط لكي تقوم بالتسجيل الخاص بالممارسة عبر شبكة الإنترنت."
           }
         },
@@ -91,6 +106,9 @@
             "japanese": "利用規約への同意を表明するには、ボックスにチェックマークを入れます。",
             "chinese": "勾選方框以表示您同意使用條款。",
             "thai": "คลิกที่ช่องสี่เหลี่ยม  หากยอมรับเงื่อนไขการใช้งาน",
+            "indonesian":"Tandai kotak ini untuk menunjukkan bahwa anda setuju terhadap Syarat-syarat Penggunaan.",
+            "korean":"박스에 체크하여 이용약관에 동의함을 표시하십시오.",
+            "vietnamese":"Đánh dấu vào ô vuông để xác nhận rằng bạn chấp nhận các Điều khoản Sử dụng.",
             "arabic": "ضع علامة في المربع لإظهار موافقتك على شروط الاستخدام."
           }
         },
@@ -107,6 +125,9 @@
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
             "thai": "คลิกที่นี่ เพื่อย้อนกลับหน้าที่แล้ว ",
+            "indonesian":"Klik di sini untuk kembali ke halaman sebelumnya.",
+            "korean":"여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "vietnamese":"Nhấp chuột vào đây để quay trở lại trang trước.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
@@ -124,6 +145,9 @@
         "japanese": "アクセスコードの入力",
         "chinese": "輸入您的使用密碼",
         "thai": "ใส่รหัสการเข้าถึง (Access Code)",
+        "indonesian":"Memasukkan kode akses anda",
+        "korean":"접속 코드 입력",
+        "vietnamese":"Nhập vào mã truy cập của bạn",
         "arabic": "أدخل رمز الدخول الخاص بك"
       },
       "paragraphs":{
@@ -140,6 +164,9 @@
             "japanese": "アクセスコードを入力します。アクセスコードは、生徒用アクセスコードカードに掲載記載されています。",
             "chinese": "請輸入您的學生使用密碼卡片上面的使用密碼。",
             "thai": "พิมพ์รหัสการเข้าถึง ดูได้จากบัตรรหัสของนักเรียน",
+            "indonesian":"Masukkan kode akses yang tercantum di kartu kode Akses Murid anda.",
+            "korean":"학생 접속 코드 카드에 있는 접속 코드를 입력하십시오.",
+            "vietnamese":"Nhập vào mã truy cập in trên Thẻ Mã truy cập Dành cho Học sinh của bạn.",
             "arabic": "أأدخل رمز الدخول الموجود على بطاقة رمز دخول الطالب الخاصة بك."
           }
         },
@@ -156,6 +183,9 @@
             "japanese": "Enter[エンター]をクリックします。",
             "chinese": "點擊Enter（輸入）。",
             "thai": "คลิก ”ตกลง”",
+            "indonesian":"Klik \"Masuk\".",
+            "korean":"\"입력\"을 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào nút “Nhập”.",
             "arabic": "انقر “Enter”(\"إدخال\")"
           }
         }
@@ -173,6 +203,9 @@
         "japanese": "詳細情報の入力",
         "chinese": "輸入您的詳細資料",
         "thai": "ใส่รายละเอียดส่วนตัว",
+        "indonesian":"Memasukkan perincian anda",
+        "korean":"세부사항 입력",
+        "vietnamese":"Nhập vào các thông tin chi tiết của bạn",
         "arabic": "أدخل التفاصيل الخاصة بك"
       },
       "paragraphs":{
@@ -189,6 +222,9 @@
             "japanese": "名前（名）を入力します。",
             "chinese": "輸入您的名字。",
             "thai": "ชื่อจริง",
+            "indonesian":"Masukkan nama depan anda (nama panggilan).",
+            "korean":"이름을 입력하십시오.",
+            "vietnamese":"Nhập vào tên của bạn.",
             "arabic": "أدخل اسمك الأول (الاسم المُعطَى)."
           }
         },
@@ -205,6 +241,9 @@
             "japanese": "名前（姓）を入力します。",
             "chinese": "輸入您的姓氏。",
             "thai": "นามสกุล",
+            "indonesian":"Masukkan nama keluarga anda.",
+            "korean":"성을 입력하십시오.",
+            "vietnamese":"Nhập vào họ của bạn.",
             "arabic": "أدخل اسمك الأخير (اسم العائلة)."
           }
         },
@@ -221,6 +260,9 @@
             "japanese": "メールアドレスを入力します。",
             "chinese": "輸入您的電子郵件地址。",
             "thai": "อีเมล",
+            "indonesian":"Masukkan alamat email anda.",
+            "korean":"이메일 주소를 입력하십시오.",
+            "vietnamese":"Nhập vào địa chỉ email của bạn.",
             "arabic": "أدخل عنوان بريدك الإلكتروني."
           }
         },
@@ -237,6 +279,9 @@
             "japanese": "メールアドレスをもう一度入力します。",
             "chinese": "請再輸入一次電子郵件地址。",
             "thai": "ยืนยันอีเมลอีกครั้ง",
+            "indonesian":"Ketiklah alamat email anda sekali lagi.",
+            "korean":"이메일 주소를 다시 입력하십시오.",
+            "vietnamese":"Gõ lại địa chỉ email của bạn một lần nữa.",
             "arabic": "اطبع عنوان بريدك الإلكتروني مرةً أخرى."
           }
         },
@@ -253,6 +298,9 @@
             "japanese": "希望のパスワードを入力します。",
             "chinese": "選擇一個密碼。",
             "thai": "รหัสผ่าน",
+            "indonesian":"Pilihlah suatu kata sandi.",
+            "korean":"패스워드를 선택하십시오.",
+            "vietnamese":"Chọn một mật khẩu.",
             "arabic": "حدد كلمة مرور."
           }
         },
@@ -269,6 +317,9 @@
             "japanese": "パスワードをもう一度入力します。",
             "chinese": "再輸入一次您的密碼。",
             "thai": "ยืนยันรหัสผ่านอีกครั้ง",
+            "indonesian":"Ketiklah kata sandi anda sekali lagi.",
+            "korean":"패스워드를 다시 입력하십시오.",
+            "vietnamese":"Gõ lại mật khẩu của bạn một lần nữa.",
             "arabic": "قم بطباعة كلمة المرور مرة أخرى."
           }
         },
@@ -285,6 +336,9 @@
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
             "thai": "คลิกเพื่อกลับหน้าที่แล้ว",
+            "indonesian":"Klik di sini untuk kembali ke halaman sebelumnya.",
+            "korean":"여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "vietnamese":"Nhấp chuột vào đây để quay trở lại trang trước.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -301,6 +355,9 @@
             "japanese": "情報を送信し次のページに進むには、こちらをクリックします。",
             "chinese": "點此處以送出您的資料，並前往下一頁。",
             "thai": "คลิกเพื่อยืนยันข้อมูล  และไปหน้าถัดไป ",
+            "indonesian":"Klik di sini untuk menyerahkan informasi anda dan menuju ke halaman yang berikutnya.",
+            "korean":"여기를 클릭하여 정보를 제출하고 다음 페이지로 가십시오.",
+            "vietnamese":"Nhấp chuột vào đây để đăng nộp thông tin của bạn và chuyển sang trang tiếp theo.",
             "arabic": "انقر هنا لإرسال المعلومات الخاصة بك وانتقل للصفحة التالية."
           }
         }
@@ -318,6 +375,9 @@
         "japanese": "レベルの選択",
         "chinese": "選擇一個級數",
         "thai": "เลือกระดับชั้นเรียน",
+        "indonesian":"Memilih suatu tingkat",
+        "korean":"레벨 선택",
+        "vietnamese":"Chọn một trình độ",
         "arabic": "حدد مستوى"
       },
       "paragraphs":{
@@ -333,7 +393,10 @@
             "portuguese": "Clique na capa do seu livro para selecionar o seu nível. É muito importante escolher o nível que você está utilizando. Verifique o título e a capa para assegurar-se de que o nível selecionado seja o nível correto. Caso você esteja utilizando mais de um nível, é possível adicionar outro nível posteriormente clicando em “Add a level” na sua página inicial (você vai precisar de um novo código de acesso para adicionar um novo nível).",
             "japanese": "テキストの表紙をクリックしてレベルを選択します。お使いのレベルを選択することが重要です。タイトルをチェックして正しくレベルが選択されているか確認してください。12つ以上のレベルのテキストを使用する場合は、ホーム画面にあるAdd a level[新しいレベルを追加]を選択することで、後から追加することができます。（新しいアクセスコードが必要になります）。",
             "chinese": "點擊您的課本封面來選擇您的級數。選擇您現在使用的級數非常重要，請檢查書名和封面，確認是您現在的級數。如果您使用超過一個級數，您可以在首頁選擇 Add a level（新增級數）來增加其他級數（您將會需要另一個使用密碼來新增級數）。",
-            "thai": "คลิกที่หน้าปกหนังสือที่คุณใช้เรียนอยู่ เพื่อเลือกระดับชั้นเรียน  ตรวจสอบหน้าปกหนังสืออีกครั้งเพื่อให้แน่ใจว่าระดับที่เลือกถูกต้อง  หากเรียนอยู่มากกว่าหนึ่งระดับ คุณสามารถเพิ่มระดับชั้นเรียนได้ในภายหลัง  โดยคลิกที่เมนู “เพิ่มระดับชั้นเรียน” ในหน้าหลัก (คุณต้องมีรหัสการเข้าถึงของระดับชั้นที่ต้องการเพิ่มด้วย)",
+            "thai":"คลิกที่หน้าปกหนังสือที่คุณใช้เรียนอยู่ เพื่อเลือกระดับชั้นเรียน  ตรวจสอบหน้าปกหนังสืออีกครั้งเพื่อให้แน่ใจว่าระดับที่เลือกถูกต้อง  หากเรียนอยู่มากกว่าหนึ่งระดับ คุณสามารถเพิ่มระดับชั้นเรียนได้ในภายหลัง  โดยคลิกที่เมนู “เพิ่มระดับชั้นเรียน” ในหน้าหลัก(คุณต้องมีรหัสการเข้าถึงของระดับชั้นที่ต้องการเพิ่มด้วย)",
+            "indonesian":"Klik pada sampul buku anda untuk memilih tingkat anda. Sangat penting untuk memilih suatu tingkat yang hendak anda lakukan. Tandai judul dan sampulnya untuk memastikan bahwa itulah tingkat anda. Jika anda sedang melakukan lebih dari satu tingkat, anda dapat menambahkant,ingkat lain dengan memilih \"Tambahkan suatu Tingkat\" dari halaman Laman anda (anda akan memerlukan suatu kode akses yang baru untuk menambahkan suatu tingkat).",
+            "korean":"책 커버를 클릭하여 레벨을 선택하십시오. 본인이 이용 중인 레벨을 선택하는 것이 중요합니다. 제목과 커버가 본인의 레벨에 해당하는지 확인하십시오. 여러 레벨을 이용하는 경우 홈페이지에서 [레벨 추가]를 선택하여 다른 레벨을 나중에 추가할 수 있습니다 (레벨을 추가하려면 새로운 접속 코드가 필요합니다).",
+            "vietnamese":"Nhấp chuột vào bìa sách để chọn trình độ của bạn. Điều rất quan trọng là phải chọn trình độ mà bạn đang sử dụng. Kiểm tra tiêu đề và bìa sách để đảm bảo đó là trình độ của bạn. Nếu bạn đang sử dụng nhiều hơn một trình độ, bạn có thể thêm một trình độ khác sau này bằng cách chọn “Thêm một trình độ” từ màn hình Trang chủ của bạn (bạn cần có một mã truy cập mới để thêm trình độ).",
             "arabic": "اانقر فوق غلاف الكتاب الخاص بك لتحديد مستواك. من الأهمية بمكان أن تحدد المستوى الذي تستخدمه. تحقق من العنوان والغلاف لتتأكد أنه المستوى الخاص بك. إذا كنت تستخدم أكثر من مستوى، يمكنك إضافة مستوى آخر في وقت لاحق عن طريق اختيار“Add a level” (\"أضف مستوى\") من صفحتك الرئيسية (سوف تحتاج إلى رمز دخول جديد لإضافة مستوى)."
           }
         },
@@ -350,6 +413,9 @@
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
             "thai": "คลิกที่นี่ เพื่อย้อนกลับหน้าที่แล้ว",
+            "indonesian":"Klik di sini untuk kembali ke halaman sebelumnya.",
+            "korean":"여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "vietnamese":"Nhấp chuột vào đây để quay trở lại trang trước.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         }
@@ -367,6 +433,9 @@
         "japanese": "クラスコードの入力",
         "chinese": "輸入您的班級代碼",
         "thai": "ใส่รหัสห้องเรียน",
+        "indonesian":"Memasukkan kode kelas anda",
+        "korean":"수업 코드 입력",
+        "vietnamese":"Nhập vào mã lớp học của bạn",
         "arabic": "أدخل رمز الفصل الخاص بك."
       },
       "paragraphs":{
@@ -383,6 +452,9 @@
             "japanese": "クラスIDコードをお持ちの場合は、こちらに入力します。このコードは先生から渡されるものです。このコードは学習状況と所属クラスをリンクさせ、先生が学習状況を確認できるようにします。クラスコードをお持ちでない場合は、Skip[スキップ]をクリックします。このコードを後から入力するには、ホームページからJoin a Class[クラスへの参加登録]を選択します。",
             "chinese": "如果您有班級代碼，請在此輸入。班級代碼由您的教師提供，將您的課業連結到您的班級，讓您的教師可以看到。如果您沒有班級代碼，請點擊Skip（略過）。如果您之後想輸入代碼，請由首頁選擇Join a Class（加入班級）。",
             "thai": "ถ้ามีรหัสห้องเรียนแล้ว  ใส่ที่นี่ หากไม่มีรหัสห้องเรียน คลิก ”ข้าม” คุณสามารถขอรหัสห้องเรียนได้จากครูผู้สอน  การใช้รหัสห้องเรียนทำให้ครูผู้สอนสามารถอ่านรายงานและติดตามการทำกิจกรรมของคุณได้  หากต้องการใส่รหัสภายหลัง คลิกที่เมนู “เข้าร่วมชั้นเรียน” จากหน้าหลัก",
+            "indonesian":"Jika anda memiliki suatu kode identitas kelas, masukkan di sini. Suatu kode identitas kelas ialah kode yang dapat diberikan oleh guru anda pada anda. Kode ini mengaitkan pekerjaan anda dengan kelas anda agar guru anda dapat melihatnya. Jika anda tidak memiliki suatu kode i,dentitas kelas, klik \"Lompati\". Untuk memasukkan kode ini di waktu mendatang, pilihlah \"Bergabung dengan suatu Kelas\" dari halaman Laman anda.",
+            "korean":"업 ID 코드가 있다면 여기에 입력하십시오. 수업 ID 코드는 교사가 제공할 수 있는 코드입니다. 이 코드는 본인의 학습을 수업에 연결하여 교사가 볼 수 있도록 합니다. 수업 ID 코드가 없다면 \"건너뛰기\"를 클릭하십시오. 나중에 이 코드를 입력하려면 홈페이지에서 \"수업 참여\"를 선택하십시오.",
+            "vietnamese":"Nếu bạn có một mã ID lớp học, hãy nhập vào đây. Đây là một mã số mà giáo viên của bạn có thể cung cấp cho bạn. Nó liên kết bài làm với lớp học của bạn để giáo viên có thể xem bài làm của bạn. Nếu bạn không có một mã ID lớp học, hãy chọn “Bỏ qua”. Để nhập mã số này vào lúc khác, hãy chọn “Tham gia một Lớp học” từ Trang chủ của bạn.",
             "arabic": "إإذا كان لديك رمز مُعرِّف خاص بأحد الفصول، فقم بإدخاله هنا. يُعتبَر رمز مُعرِّف الفصل هو الرمز الذي يمكن للمعلم إعطائه لك. وهو يربط عملك بالفصل لكي يستطيع المعلم أن يراه. إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول، فانقر على “Skip”(\"تخطي\"). لإدخال هذا الرمز في وقت لاحق؛ اختر “Join a Class” (\"الانضمام إلى أحد الفصول\") من الصفحة الرئيسية."
           }
         },
@@ -399,6 +471,9 @@
             "japanese": "前のページに戻るには、こちらをクリックします。",
             "chinese": "點此處回到上一頁。",
             "thai": "คลิกที่นี่  เพื่อย้อนกลับไหน้าที่แล้ว",
+            "indonesian":"Klik di sini untuk kembali ke halaman sebelumnya.",
+            "korean":"여기를 클릭하여 이전 페이지로 돌아가십시오.",
+            "vietnamese":"Nhấp chuột vào đây để quay trở lại trang trước.",
             "arabic": "انقر هنا للعودة إلى الصفحة السابقة."
           }
         },
@@ -415,6 +490,9 @@
             "japanese": "クラスIDコードをお持ちでない場合は、こちらをクリックします。",
             "chinese": "如果您沒有班級代碼，請點此處。",
             "thai": "คลิกที่นี่ หากไม่ต้องการเข้าร่วม",
+            "indonesian":"Klik di sini jika anda tidak memiliki suatu kode identitas kelas.",
+            "korean":"수업 ID 코드가 없다면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây nếu bạn không có một mã ID lớp học.",
             "arabic": "انقر هنا إذا لم يكن لديك رمز مُعرِّف خاص بأحد الفصول."
           }
         },
@@ -431,6 +509,9 @@
             "japanese": "クラスIDコードを送信して次のページに進むには、こちらをクリックします。",
             "chinese": "點此處送出您的班級代碼並前往下一頁。",
             "thai": "คลิกที่นี่ เพื่อยืนยันและไปหน้าถัดไป ",
+            "indonesian":"Klik di sini untuk memberikan kode identitas kelas anda dan menuju ke halaman berikut.",
+            "korean":"수업 ID 코드를 제출하고 다음 페이지로 가려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để đăng nộp mã ID lớp học của bạn và chuyển sang trang tiếp theo.",
             "arabic": "انقر هنا لإرسال رمز مُعرِّف الفصل الخاص بك وانتقل للصفحة التالية."
           }
         }
@@ -448,6 +529,9 @@
         "japanese": "登録情報の保存",
         "chinese": "儲存您的註冊資料",
         "thai": "บันทึกข้อมูลการลงทะเบียน ",
+        "indonesian":"Merekam informasi pendaftaran anda",
+        "korean":"귀하의 등록 정보 저장",
+        "vietnamese":"Lưu lại thông tin đăng ký của bạn",
         "arabic": "قم حفظ معلومات التسجيل الخاصة بك."
       },
       "paragraphs":{
@@ -464,6 +548,9 @@
             "japanese": "このページは登録情報を表示します。必要に応じてこの画面を印刷してください。情報を変更する場合は、ログイン後に右上にあるEdit Profile[プロフィールの編集]をクリックします。",
             "chinese": "本頁面顯示您的註冊資料，您可以列印本頁面做為參考。如果您想更改這些資料，請您在登入以後，選擇Edit Profile（編輯個人檔案）（將會顯示在畫面右上角）。",
             "thai": "คุณอาจต้องการพิมพ์หน้านี้เพื่อเป็นข้อมูลอ้างอิง หากต้องการเปลี่ยนแปลงข้อมูล หลังจากล็อกอินเข้าใช้งาน คลิก “แก้ไขข้อมูลส่วนตัว”  ",
+            "indonesian":"Halaman ini menunjukkan informasi pendaftaran anda.  Anda mungkin hendak mencetak halaman ini sebagai rujukan. Untuk mengubah informasi ini, pilihlah Mengedit Profil sesudah anda mendaftar masuk (terletak di sebelah kanan atas dari layar).",
+            "korean":"이 페이지는 귀하의 등록 정보를 표시합니다. 참조용으로 이 페이지를 인쇄하실 수 있습니다. 이 정보를 변경하려면 로그인하신 다음 프로필 편집을 선택하십시오 (화면 우측 상단에 표시됩니다).",
+            "vietnamese":"Trang này cho thấy thông tin đăng ký của bạn. Có lẽ bạn sẽ muốn in trang này để tham khảo sau. Để thay đổi thông tin này, chọn “Chỉnh sửa Thông tin Cá nhân” sau khi bạn đăng nhập (mục này nằm ở góc trên bên phải màn hình).",
             "arabic": "تُظهِر هذه الصفحة معلومات التسجيل الخاصة بك. وقد ترغب في طباعة هذه الصفحة كمرجع. لتغيير هذه المعلومات؛ حدد Edit Profile(\"تحرير الملف الشخصي\") بعد تسجيل الدخول (سيوجد في أعلى يمين الشاشة)."
           }
         },
@@ -480,6 +567,9 @@
             "japanese": "登録情報を印刷するには、こちらをクリックします。",
             "chinese": "點此處列印您的註冊資料。",
             "thai": "คลิกที่นี่ เพื่อพิมพ์ข้อมูลการลงทะเบียนทั้งหมด",
+            "indonesian":"Klik di sini untuk mencetak informasi pendaftaran anda.",
+            "korean":"여기를 클릭하여 등록 정보를 변경하세요.",
+            "vietnamese":"Nhấp chuột vào đây để in thông tin đăng ký của bạn.",
             "arabic": "انقر هنا لطباعة معلومات التسجيل الخاصة بك."
           }
         },
@@ -496,6 +586,9 @@
             "japanese": "登録を完了してOnline Practiceにログインするには、こちらをクリックします。",
             "chinese": "點此處完成註冊並登入您的線上練習。",
             "thai": "คลิกที่นี่  เพื่อยืนยันการลงทะเบียนและล็อกอินเข้าระบบแบบฝึกหัดออนไลน์",
+            "indonesian":"Klik di sini untuk melengkapi pendaftaran dan mendaftar masuk ke Praktik Online anda.",
+            "korean":"등록을 완료하고 온라인 실습에 로그인하려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để hoàn thành việc đăng ký và đăng nhập vào chương trình Thực hành Qua mạng.",
             "arabic": "انقر هنا لإكمال التسجيل وتسجيل الدخول في الممارسة الخاصة بك عبر شبكة الإنترنت."
           }
         }

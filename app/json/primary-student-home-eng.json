@@ -6,7 +6,8 @@
     "japanese": "ホーム",
     "chinese": "首頁",
     "thai": "หน้าหลัก",
-    "portuguese": "Início"
+    "portuguese": "Início",
+    "korean":"홈"
   },
  "segment": "primary",
  "userType": ["student"],
@@ -22,7 +23,8 @@
         "japanese": "レベルの選択",
         "chinese": "選擇級數",
         "thai": "เลือกระดับชั้นเรียนของคุณ",
-        "portuguese": "Escolha o seu nível"
+        "portuguese": "Escolha o seu nível",
+        "korean":"레벨 선택"
       },
       "paragraphs":{
         "paragraph01": {
@@ -36,7 +38,8 @@
             "japanese": "Online Practiceにアクセスするか、画面上部のホームアイコンをクリックすると、コースのレベルが表示されます。",
             "chinese": "當您進入線上練習或點擊螢幕上端的首頁圖示時，在此處您將會看到課程的級數。",
             "thai": "เมื่อเข้าระบบแบบฝึกหัดออนไลน์ หรือ คลิกปุ่ม Home บริเวณส่วนบนของหน้าจอ คุณจะเห็นระดับหลักสูตรของคุณ",
-            "portuguese": "Quando você acessar o Online Practice ou clicar no ícone “Home” na parte superior da tela, você visualizará os níveis de seu curso."
+            "portuguese": "Quando você acessar o Online Practice ou clicar no ícone “Home” na parte superior da tela, você visualizará os níveis de seu curso.",
+            "korean":"온라인 실습에 들어가거나 화면 상단의 홈 아이콘을 클릭하면 여기에서 본인 과정의 레벨을 볼 수 있습니다."
           }
         },
         "paragraph02": {
@@ -50,7 +53,8 @@
             "japanese": "アクセスコードがあれば、Add a Level[レベルの追加]をクリックすると別のレベルを追加することができます。",
             "chinese": "點點擊 Add a level（新增級數），如果您有使用密碼，可以增加另一個級數。",
             "thai": "คลิกที่ “Add a level” ถ้าคุณมีรหัสการเข้าถึง (Access Code)",
-            "portuguese": "Clique em “Add a level” para adicionar outro nível, caso você tenha um código de acesso."
+            "portuguese": "Clique em “Add a level” para adicionar outro nível, caso você tenha um código de acesso.",
+            "korean":"액세스 코드가 있다면 \"레벨 추가\"를 클릭하여 다른 레벨을 추가하십시오."
           }
         },
         "paragraph03": {
@@ -64,7 +68,8 @@
             "japanese": "アクセスしたいレベルを選択します。",
             "chinese": "選擇您想要進入的級數。",
             "thai": "เลือกระดับชั้นเรียนที่ต้องการใช้งาน",
-            "portuguese": "Escolha o nível que você deseja inserir."
+            "portuguese": "Escolha o nível que você deseja inserir.",
+            "korean":"들어가고자 하는 레벨을 선택하십시오."
           }
         }
       }
@@ -79,7 +84,8 @@
         "japanese": "Online Practice のエリアの選択",
         "chinese": "選擇線上練習功能",
         "thai": "เลือกพื้นที่แบบฝึกหัดออนไลน์",
-        "portuguese": "Escolha uma seção do Online Practice"
+        "portuguese": "Escolha uma seção do Online Practice",
+        "korean":"온라인 실습 영역 선택"
       },
       "paragraphs":{
         "paragraph01": {
@@ -93,7 +99,8 @@
             "japanese": "別のレベルに変更するには、こちらをクリックします。",
             "chinese": "點此處更改為不同級數。",
             "thai": "คลิกที่นี่ เพื่อไประดับชั้นเรียนอื่น",
-            "portuguese": "Clique aqui para alterar para um nível diferente."
+            "portuguese": "Clique aqui para alterar para um nível diferente.",
+            "korean":"여기를 클릭하여 다른 레벨로 변경하십시오."
           }
         },
         "paragraph02": {
@@ -107,7 +114,8 @@
             "japanese": "Online Practice Activityのエリアにアクセスするには、こちらをクリックします。",
             "chinese": "點此處進入線上練習的學習活動區。",
             "thai": "คลิกที่นี่ เพื่อเข้าพื้นที่กิจกรรมของแบบฝึกหัดออนไลน์",
-            "portuguese": "Clique aqui para entrar na área “Activity” do Online Practice."
+            "portuguese": "Clique aqui para entrar na área “Activity” do Online Practice.",
+            "korean":"온라인 실습 활동 영역으로 들어가려면 여기를 클릭하십시오."
           }
         },
         "paragraph03": {
@@ -121,7 +129,8 @@
             "japanese": "レポート、トロフィルーム、スキルズダッシュボードを表示するにはこちらをクリックします。これらの画面では、そのレベルの全アクティビティに対しての成績表や進歩状況が表示されます。",
             "chinese": "點此處觀看您的學習報告、獎盃陳列室以及技能展示板。這些會顯示您在此級數當中，所有活動的學習成果以及學習進展。",
             "thai": "คลิกที่นี่ เพื่อดูรายงานผลเรียน, เข้าห้องเก็บถ้วยรางวัล, ดูหน้าแสดงทักษะความสามารถเพื่อดูความสำเร็จ และความคืบหน้าในการทำกิจกรรมของคุณจากที่นี่",
-            "portuguese": "Clique aqui para visualizer o seu painel de habilidades. Ele exibe suas realizações e seu progresso relacionado a todas as atividades deste nível."
+            "portuguese": "Clique aqui para visualizer o seu painel de habilidades. Ele exibe suas realizações e seu progresso relacionado a todas as atividades deste nível.",
+            "korean":"보고서, 트로피 방 그리고 기술 대시보드를 보려면 여기를 클릭하십시오. 여기서는 이 레벨에서 이루어진 모든 활동의 성과와 진행상태를 보여줍니다."
           }
         },
         "paragraph04": {
@@ -135,7 +144,8 @@
             "japanese": "メールエリアの使用は、こちらをクリックします。自分のOnline Practiceのクラスの先生や生徒にメッセージを送ることができます。クラスに参加登録すると、こちらにメールアイコンが表示されます。",
             "chinese": "點此處使用電子郵件功能，您可以傳送訊息給您的教師以及線上練習班級的同班同學。當您加入一個班級時，電子郵件圖示會顯示在此處。",
             "thai": "คลิกที่นี่ เพื่อเข้าใช้งานอีเมล คุณสามารถส่งอีเมลหาครูผู้สอน และเพื่อนร่วมชั้นคนอื่นได้ สัญลักษณ์อีเมลจะปรากฏขึ้นเมื่อคุณได้เข้าเรียนแล้ว",
-            "portuguese": "Clique aqui para usar a área de e-mail. Você pode enviar mensagens para o seu professor e para os outros alunos com os quais você compartilha sua turma no Online Practice. O ícone “E-mail” aparecerá aqui quando você estiver participando de uma turma."
+            "portuguese": "Clique aqui para usar a área de e-mail. Você pode enviar mensagens para o seu professor e para os outros alunos com os quais você compartilha sua turma no Online Practice. O ícone “E-mail” aparecerá aqui quando você estiver participando de uma turma.",
+            "korean":"이메일 영역을 이용하려면 여기를 클릭하십시오. 온라인 실습 수업의 교사와 다른 학생들에게 메시지를 보낼 수 있습니다. 수업에 참여하면 여기에 이메일 아이콘이 표시됩니다."
           }
         },
         "paragraph05": {
@@ -149,7 +159,8 @@
             "japanese": "フォーラムの使用は、こちらをクリックします。自分のOnline Practiceのクラスの先生や生徒とのディスカッションに加わることができます。クラスに参加登録すると、こちらにフォーラムのアイコンが表示されます。",
             "chinese": "點此處使用討論區，您可以加入教師及同學的討論。當您加入一個班級時，討論區圖示會顯示在此處。",
             "thai": "คลิกที่นี่ เพื่อเข้าใช้กระดานสนทนา คุณสามารถเข้าร่วมแลกเปลี่ยนความคิดเห็นกับครูผู้สอน และเพื่อนร่วมชั้นคนอื่นได้ สัญลักษณ์กระดานสนทนา จะปรากฏขึ้นเมื่อคุณได้เข้าเรียนแล้ว",
-            "portuguese": "Clique aqui para usar o fórum. Você pode participar de discussões com o seu professor e com os outros alunos presentes em sua turma no Online Practice. O ícone do “Forum” aparecerá aqui quando você estiver participando de uma turma."
+            "portuguese": "Clique aqui para usar o fórum. Você pode participar de discussões com o seu professor e com os outros alunos presentes em sua turma no Online Practice. O ícone do “Forum” aparecerá aqui quando você estiver participando de uma turma.",
+            "korean":"포럼을 이용하려면 여기를 클릭하세요. 온라인 실습 수업의 교사 및 다른 학생들과 토론에 참여할 수 있습니다. 수업에 참여하면 여기에 포럼 아이콘이 표시됩니다."
           }
         },
         "paragraph06": {
@@ -163,7 +174,8 @@
             "japanese": "音声やビデオが視聴可能な場合は、こちらをクリックするとメディアセンターにアクセスできます。",
             "chinese": "點此處通往媒體中心，收聽目前可用的課程錄音檔，也可以觀看影片。",
             "thai": "คลิกที่นี่ เพื่อเข้าห้องมัลติมีเดีย คุณสามารถฟังไฟล์เสียงจากห้องเรียนการฟัง หรือดูคลิปวิดีโอ (ถ้ามี)",
-            "portuguese": "Clique aqui para acessar o centro de mídia para escutar o áudio da aula e assistir vídeos, caso disponíveis."
+            "portuguese": "Clique aqui para acessar o centro de mídia para escutar o áudio da aula e assistir vídeos, caso disponíveis.",
+            "korean":"미디어 센터에서 이용 가능한 음성 수업을 듣거나 영상 수업을 보려면 여기를 클릭하십시오."
           }
         },
         "paragraph07": {
@@ -177,7 +189,8 @@
             "japanese": "Online Practiceのクラスへの参加登録またはクラスの変更は、こちらをクリックします。これを行うには、先生からのクラスコードが必要となります。",
             "chinese": "點此處加入線上練習班級或更改班級，您將需要教師提供的班級代碼以完成加入或更改班級。",
             "thai": "คลิกที่นี่ เพื่อเข้าร่วมชั้นเรียนออนไลน์ หรือ เพื่อเปลี่ยนห้องเรียน  คุณต้องมีรหัสห้องเรียนใหม่ในการทำหัวข้อนี้",
-            "portuguese": "Clique aqui para participar de uma turma do Online Practice ou para alterar a turma. Você precisará de um código de turma fornecido pelo seu professor para fazer isso."
+            "portuguese": "Clique aqui para participar de uma turma do Online Practice ou para alterar a turma. Você precisará de um código de turma fornecido pelo seu professor para fazer isso.",
+            "korean":"온라인 실습 수업에 참여하거나 수업을 변경하려면 여기를 클릭하십시오. 이 작업을 수행하려면 담당 교사로부터 수업 코드를 받아야 합니다."
           }
         }
       }

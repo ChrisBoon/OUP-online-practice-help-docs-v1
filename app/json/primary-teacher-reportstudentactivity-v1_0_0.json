@@ -8,6 +8,9 @@
     "japanese": "生徒のアクティビティレポート",
     "chinese": "學生學習活動報告",
     "thai": "รายงานกิจกรรมของนักเรียน",
+    "korean":"학생 활동 보고서",
+    "vietnamese":"Báo cáo Hoạt động của Học sinh",
+    "indonesian":"Rapor Aktivitas Murid",
     "arabic": "تقرير نشاط الطالب"
   },
  "segment": "primary",
@@ -26,6 +29,9 @@
         "japanese": "",
         "chinese": "",
         "thai": "",
+        "korean":"",
+        "vietnamese":"",
+        "indonesian":"",
         "arabic": ""
       },
       "paragraphs":{
@@ -42,6 +48,9 @@
             "japanese": "クラスのサマリーレポート（全クラスの平均得点）を表示するには、こちらをクリックします。",
             "chinese": "點此處觀看班級簡要報告（您全部班級的平均分數）。",
             "thai": "คลิกที่นี่  เพื่อดูภาพรวมของทุกห้องเรียน (คะแนนเฉลี่ยของทุกห้องเรียน)  ",
+            "korean":"수업 요약 보고서를 보려면 여기를 클릭하십시오 (전체 수업의 평균 점수).",
+            "vietnamese":"Nhấp chuột vào đây để xem Báo cáo Tóm tắt các Lớp học (điểm trung bình cho tất cả các lớp học của bạn).",
+            "indonesian":"Klik di sini untuk melihat Rapor Ikhtisar Kelas (skor rata-rata untuk semua dari kelas-kelas anda).",
             "arabic": "انقر هنا لعرض التقرير الموجز عن الفصل (متوسط الدرجات الخاصة بجميع فصولك الدراسية)."
           }
         },
@@ -58,6 +67,9 @@
             "japanese": "右上に選択されたクラスのクラスレポートを表示するには、こちらをクリックします。",
             "chinese": "點此處觀看右邊所顯示的班級的個別班級報告。",
             "thai": "คลิกที่นี่  เพื่อดูรายงานเฉพาะห้อง",
+            "korean":"우측에 표시된 수업의 수업 보고서를 보려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để xem Báo cáo về Lớp học cho lớp học có tên ở bên phải.",
+            "indonesian":"Klik di sini untuk melihat Rapor kelas untuk kelas yang ditunjukkan di sebelah kanan.",
             "arabic": "انقر هنا لعرض تقرير الفصل الخاص بالفصل المعروض على اليمين."
           }
         },
@@ -74,6 +86,9 @@
             "japanese": "この生徒のユニットレポートを表示するには、こちらをクリックします。",
             "chinese": "點此處觀看這位學生的單元報告。",
             "thai": " คลิกที่นี่  เพื่อดูรายงานของนักเรียนแยกตามหัวข้อในบทเรียน  ",
+            "korean":"이 학생의 단원 보고서를 보려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để xem Báo cáo Bài học cho học sinh này.",
+            "indonesian":"Klik di sini untuk melihat Rapor Unit untuk murid ini.",
             "arabic": "انقر هنا لعرض تقرير الوحدة لهذا الطالب."
           }
         },
@@ -89,7 +104,10 @@
             "portuguese": "Clique aqui para visualizar o relatório de lição deste aluno.",
             "japanese": "この生徒のレッスンレポートを表示するには、こちらをクリックします。",
             "chinese": "點此處觀看這位學生的課程報告。",
-            "thai": "คลิกที่นี่  เพื่อดูรายงานของนักเรียนแยกตามบทเรียน   ",
+            "thai": "คลิกที่นี่  เพื่อดูรายงานของนักเรียนแยกตามบทเรียน",
+            "korean":"이 학생의 학과 보고서를 보려면 여기를 클릭하십시오.",
+            "vietnamese":"Nhấp chuột vào đây để xem Báo cáo Bài tập cho học sinh này.",
+            "indonesian":"Klik di sini untuk melihat Rapor Pelajaran untuk murid ini.",
             "arabic": "انقر هنا لعرض تقرير الدرس لهذا الطالب."
           }
         },
@@ -106,6 +124,9 @@
             "japanese": "別のクラスの生徒の学習状況を表示するには、こちらをクリックします。クラスのサマリーレポートへ進むには、All Classes[すべてのクラス]を選択します。",
             "chinese": "使用此選單來觀看一位學生在其他班級的表現。選擇 All Classes（全部班級）可前往班級簡要報告。",
             "thai": "ใช้เมนูนี้สำหรับดูผลงานของนักเรียนในห้องเรียนอื่น  เลือก ”ห้องเรียนทั้งหมด” เพื่อดูรายงานโดยรวมของทุกห้องเรียน",
+            "korean":"다른 수업에서 학생의 학습을 보려면 이 메뉴를 이용하십시오. [모든 수업]을 선택하면 수업 요약 보고서로 이동합니다.",
+            "vietnamese":"Dùng trình đơn này để xem bài làm của một học sinh ở lớp khác. Chọn “Tất cả các Lớp học” để xem Báo cáo Tóm tắt các Lớp học.",
+            "indonesian":"Gunakan menu ini untuk melihat pekerjaan seorang murid di kelas lain. Pilihlah \"Semua Kelas-kelas\" untuk menuju Rapor Ikhtisar kelas.",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب ما في فصل أخرى. حدد “All Classes”  (\"جميع الفصول\") للانتقال إلى التقرير الموجز عن الفصل."
           }
         },
@@ -122,6 +143,9 @@
             "japanese": "このアクティビティに対する別の生徒の学習状況を表示するには、こちらをクリックします。",
             "chinese": "使用此選單來觀看不同學生在此學習活動的表現。",
             "thai": "ใช้เมนูนี้สำหรับดูผลงานของนักเรียนคนอื่นที่ทำกิจกรรมนี้",
+            "korean":"이 활동에 대한 다른 학생의 학습을 보려면 이 메뉴를 이용하십시오.",
+            "vietnamese":"Dùng trình đơn này để xem bài làm của một học sinh khác cho hoạt động này.",
+            "indonesian":"Gunakan menu ini untuk melihat pekerjaan seorang murid yang berbeda untuk aktivitas ini.",
             "arabic": "استخدم هذه القائمة لعرض عمل طالب مختلف لهذا النشاط."
           }
         },
@@ -138,6 +162,9 @@
             "japanese": "別のユニットを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看不同的單元。",
             "thai": "ใช้เมนูนี้  เพื่อดูรายงานในหัวข้ออื่น",
+            "korean":"이 메뉴를 이용하여 다른 단원을 보십시오.",
+            "vietnamese":"Dùng trình đơn này để xem một bài học khác.",
+            "indonesian":"Gunakan menu ini untuk melihat suatu unit yang berbeda.",
             "arabic": "استخدم هذه القائمة لعرض وحدة مختلفة."
           }
         },
@@ -154,6 +181,9 @@
             "japanese": "別のレッスンを表示するには、このメニューを使用します。",
             "chinese": "使用此選單來觀看不同的課程。",
             "thai": "ใช้เมนูนี้  เพื่อดูรายงานในบทเรียนอื่น",
+            "korean":"이 메뉴를 이용하여 다른 학과를 보십시오.",
+            "vietnamese":"Dùng trình đơn này để xem một bài tập khác.",
+            "indonesian":"Gunakan menu ini untuk melihat suatu pelajaran yang berbeda.",
             "arabic": "استخدم هذه القائمة لعرض درس مختلف."
           }
         },
@@ -170,6 +200,9 @@
             "japanese": "この得点は、選択した生徒によるこのアクティビティに対する一番最近の取り組みを表します。音声を録音するスピーキングアクティビティについては、生徒の録音は保存されていませんのでご注意ください。",
             "chinese": "這個分數顯示被選到的學生對於此學習活動最近一次的嘗試，請注意，包含錄音功能的口語學習活動，學生的錄音不會被儲存下來。",
             "thai": "ผลคะแนนที่ได้จากการทำกิจกรรมครั้งสุดท้ายของนักเรียน โปรดทราบว่า กิจกรรมการพูด และการบันทึกเสียงของนักเรียนจะไม่มีการบันทึกข้อมูล",
+            "korean":"이 점수는 이 활동에 대해 선택한 학생의 최근 시도를 보여 줍니다. 음성 녹음 기능이 들어간 말하기 활동의 경우 그 학생의 녹음내용이 저장되지 않는다는 사실에 주의하십시오.",
+            "vietnamese":"Điểm số này là kết quả của học sinh được chọn trong lần làm hoạt động cuối cùng. Vui lòng lưu ý rằng đối với các hoạt động tập nói mà có bao gồm việc thu âm giọng nói, các bản ghi âm của học sinh không được lưu lại.",
+            "indonesian":"Skor ini menunjukkan percobaan yang paling terkini dalam aktivitas ini oleh murid yang terpilih. Harap maklum bahwa untuk aktivitas-aktivitas berbicara yang mencakup fitur suara yang direkam, rekaman murid ini tidak direkam.",
             "arabic": "تُظهِر هذه الدرجة أحدث محاولة في هذا النشاط من قِبل الطالب المحدد. يُرجَى ملاحظة أنه لأنشطة التحدث التي تتضمن ميزة تسجيل الصوت، لا يتم حفظ تسجيلات الطالب."
           }
         },
@@ -186,6 +219,9 @@
             "japanese": "これは、その生徒がこのアクティビティに取り組んだ回数を表します。",
             "chinese": "這裡顯示學生對於此學習活動的嘗試次數。",
             "thai": "จำนวนครั้ง ที่นักเรียนได้เข้าทำกิจกรรมนี้",
+            "korean":"이것은 한 학생이 이 활동을 시도한 횟수를 보여 줍니다.",
+            "vietnamese":"Đây là số lần thử mà học sinh đã thực hiện cho hoạt động này.",
+            "indonesian":"Hal ini menunjukkan berapa kali seorang murid sudah mencoba aktivitas ini.",
             "arabic": "يُظهِر هذا عدد المرات التي حاول فيها طالب ما في هذا النشاط."
           }
         }
