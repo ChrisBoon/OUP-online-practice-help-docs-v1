@@ -7,6 +7,9 @@
     "portuguese": "Tente novamente! Não existe uma página com o endereço que você escolheu.",
     "japanese": "もう一度お試しください。選択されたアドレスにはお探しのページが見つかりません。",
     "chinese": "再試一次！您選擇的網頁不存在。",
+    "korean": "NEED TO ADD THIS STILL",
+    "vietnamese": "Xin hãy thử lại! Không có trang nào ở địa chỉ bạn chọn.",
+    "indonesian": "Cobalah lagi! Tidak ada suatu halaman di alamat yang anda pilih.",
     "arabic": "حاول مرة أخرى! لا توجد صفحة في العنوان الذي اخترته."
   },
   "segment": "all",
@@ -26,6 +29,9 @@
             "portuguese": "Utilize o menu deslizante para encontrar a página que você estava procurando, ou acesse o menu de:",
             "japanese": "スライドメニューから探すか、Online Practice のヘルプにお問い合わせください：",
             "chinese": "請使用滑出式選單來尋找您需要的網頁，或前往：",
+            "korean": "NEED TO ADD THIS STILL",
+            "vietnamese": "Dùng trình đơn trượt ngang để đến trang mà bạn đang tìm kiếm, hoặc vào mục:",
+            "indonesian": "Gunakanlah menu geser untuk menemukan halaman yang sedang anda cari, atau pergilah ke:",
             "arabic": "استعمل قائمة الشرائح الخارجية للعثور على الصفحة التي تبحث عنها، أو انتقل إلى:"
           }
         },
@@ -38,6 +44,9 @@
             "portuguese": "ajuda do Online Practice.",
             "japanese": "Online Practice のヘルプ",
             "chinese": "線上練習使用說明。",
+            "korean": "NEED TO ADD THIS STILL",
+            "vietnamese": "Trợ giúp Thực hành Qua mạng.",
+            "indonesian": "Halaman Bantu Praktik Online.",
             "arabic": "المساعدة الخاصة بالممارسة عبر شبكة الإنترنت."
           }
         }
