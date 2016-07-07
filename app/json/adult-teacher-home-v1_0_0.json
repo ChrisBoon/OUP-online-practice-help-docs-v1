@@ -41,8 +41,8 @@
         },
         "paragraph02": {
           "number": 2,
-          "numberPosTop": 17,
-          "numberPosLeft": 53,
+          "numberPosTop": 33,
+          "numberPosLeft": 7,
           "text":{
             "english": "Click here to view scores and reports on your students’ progress.",
             "turkish": "Öğrencilerinin ilerleyişi ile ilgili puanları ve raporları görmek için buraya tıklayın.",
@@ -55,7 +55,7 @@
         },
         "paragraph03": {
           "number": 3,
-          "numberPosTop": 33,
+          "numberPosTop": 50,
           "numberPosLeft": 7,
           "text":{
             "english": "Click here to enter the Online Practice activity area and to access different resources.",
@@ -69,8 +69,8 @@
         },
         "paragraph04": {
           "number": 4,
-          "numberPosTop": 33,
-          "numberPosLeft": 53,
+          "numberPosTop": 66,
+          "numberPosLeft": 7,
           "text":{
             "english": "Click here to add another level of your Online Practice course.",
             "turkish": "Online Uygulama kursunuza başka bir seviye eklemek için buraya tıklayın.",
@@ -83,8 +83,8 @@
         },
         "paragraph05": {
           "number": 5,
-          "numberPosTop": 50,
-          "numberPosLeft": 7,
+          "numberPosTop": 33,
+          "numberPosLeft": 53,
           "text":{
             "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
             "turkish": "E-posta alanını kullanmak ve öğrencilerinize mesaj göndermek için buraya tıklayın. Yeni mesajınız olduğunda, mesajların sayısı burada görüntülenir.",
