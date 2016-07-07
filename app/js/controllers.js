@@ -90,19 +90,19 @@ angular.module('myApp.controllers', [])
       //by default no item should be active. In html file the click statement will update this number.
       $scope.focus = {"focussed":0};
       $scope.clickNumber = function (para) {
-        if (para.numberPosTop) {
+        if (para.numberPosTop|| para.numberPosTop === 0) {
           $scope.focus.focussed=para.number;
         }
       };
       $scope.clickableCheck = function (para) {
-        if (para.numberPosTop) {
+        if (para.numberPosTop|| para.numberPosTop === 0) {
           return true;
         }
       };
 
-      //function to position the numbers on the image. Usin g expressions directly in the style tag doesn't work in IE9 so have to run a function instead.
+      //function to position the numbers on the image. Using expressions directly in the style tag doesn't work in IE9 so have to run a function instead.
       $scope.itemStyle = function (para) {
-        if (! para.numberPosTop) {
+        if ( para.numberPosTop === undefined) {
           return {display: "none"};
         }
         return { top: para.numberPosTop + '%', left: para.numberPosLeft + '%' };
