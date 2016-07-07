@@ -1,4 +1,4 @@
-<div class="help-doc {{language.language}}">
+<div class="help-doc help-doc--{{helpdoc.documentType || 'default'}} {{language.language}}">
   <h1
      class="help-doc__title"
      ng-class="{'rtl': language.language==='arabic'}"
@@ -40,8 +40,8 @@
       <div class="help-doc__page__scaffold--screenshot__text-frame">
         <div ng-repeat="para in page.paragraphs"
              class="help-doc__page__paragraph help-doc__page__paragraph--numbered"
-             ng-click="focus.focussed=para.number"
-             ng-class="{'help-doc__page__paragraph--numbered--focus': focus.focussed===para.number}">
+             ng-click="clickNumber(para)"
+             ng-class="{'help-doc__page__paragraph--numbered--focus': focus.focussed===para.number, 'help-doc__page__paragraph--clickable': clickableCheck(para)}">
           <div class="help-doc__page__paragraph--numbered__number">{{para.number}}</div>
 
           <p

@@ -1,0 +1,76 @@
+{
+  "items" : [
+    {
+      "title": {
+        "english": "Navigating On The Move"
+      },
+      "link": "otm-app-overview-v1"
+    },
+    {
+      "title": {
+        "english": "Activities Menu"
+      },
+      "link": "otm-activities-menu-v1"
+    },
+    {
+      "title": {
+        "english": "Activity Types"
+      },
+      "link": "otm-activity-types-v1"
+    },
+    {
+      "title": {
+        "english": "Activity Scores"
+      },
+      "link": "otm-activity-scores-v1"
+    },
+    {
+      "title": {
+        "english": "Media Player"
+      },
+      "link": "otm-media-player-v1"
+    },
+    {
+      "title": {
+        "english": "Student Registration"
+      },
+      "link": "otm-student-registration-v1"
+    },
+    {
+      "title": {
+        "english": "Teacher Registration"
+      },
+      "link": "otm-teacher-registration-v1"
+    },
+    {
+      "title": {
+        "english": "Administrator Registration"
+      },
+      "link": "otm-administrator-registration-v1"
+    },
+    {
+      "title": {
+        "english": "Add a Level"
+      },
+      "link": "otm-add-a-level-v1"
+    },
+    {
+      "title": {
+        "english": "Join a Class"
+      },
+      "link": "otm-join-a-class-v1"
+    },
+    {
+      "title": {
+        "english": "Join an Institution"
+      },
+      "link": "otm-join-an-institution-v1"
+    },
+    {
+      "title": {
+        "english": "Get an access card"
+      },
+      "link": "otm-get-an-access-card-v1"
+    }
+  ]
+}

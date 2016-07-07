@@ -75,7 +75,7 @@ module.exports = function(grunt) {
         ////BUILD TASK
         //////Check for errors
         jshint: {
-            myFiles: ['app/js/*.js']
+            myFiles: ['app/js/controllers.js']
         },
         ////DIST TASK
         //////TODO: add concat steps to reduce http requests
@@ -115,7 +115,17 @@ module.exports = function(grunt) {
         },
 
         //JSON
-        ////DIST
+        ////BUILD TASK
+        jsonlint: {
+          build: {
+            src: [ 'app/json/*.json' ],
+            options: {
+              formatter: 'prose'
+            }
+          }
+        },
+
+        ////DIST TASK
         /////Minify JSON (After copying to dist)
         'json-minify': {
           build: {
@@ -197,7 +207,22 @@ module.exports = function(grunt) {
                     spawn: false,
                     livereload: true
                 }
-            }
+            },
+            json: {
+                files: ['app/json/*.json'],
+                tasks: ['newer:jsonlint'],
+                options: {
+                    livereload: true
+                }
+            },
+            js: {
+                files: ['app/js/*.js'],
+                tasks: [],
+                options: {
+                    spawn: false,
+                    livereload: true
+                }
+            }            
         },
         clean: {
             dist: ['dist/']
@@ -220,6 +245,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-newer');
     grunt.loadNpmTasks('grunt-json-minify');
+    grunt.loadNpmTasks('grunt-jsonlint');
 
     // 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
     grunt.registerTask('default', [

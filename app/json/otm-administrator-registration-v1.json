@@ -1,0 +1,83 @@
+{
+  "title": {
+    "english": "Administrator Registration"
+  },
+  "documentType": "OTM",
+  "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "OTM-TR-001.png",
+      "pageTitle": {
+        "english": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "text":{
+            "english": "If you are a first-time user, select “Register with your Access Code.”"
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "OTM-TR-001.png",
+      "pageTitle": {
+        "english": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 2,
+          "text":{
+            "english": "Select “I Agree” to the terms and conditions of use."
+          }
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "OTM-TR-001.png",
+      "pageTitle": {
+        "english": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 3,
+          "text":{
+            "english": "Select account type “Administrator” and enter your access code."
+          }
+        }
+      }
+    },
+    "page04": {
+      "pageType": "screenshot",
+      "imgId": "OTM-TR-001.png",
+      "pageTitle": {
+        "english": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 4,
+          "text":{
+            "english": "Enter your details and your institution name."
+          }
+        }
+      }
+    },
+    "page05": {
+      "pageType": "screenshot",
+      "imgId": "OTM-TR-001.png",
+      "pageTitle": {
+        "english": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 5,
+          "text":{
+            "english": "Sign-up is complete. Give the Institution Code to your teachers so they can link their class records to your institution."
+          }
+        }
+      }
+    }
+  }
+}

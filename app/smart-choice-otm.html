@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title><!--$courseTitle--> Online Practice: Help</title>
+  <title>Smart Choice On The Move Online Practice: Help</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!--Android 5.0 header/status bar color-->
@@ -25,13 +25,12 @@
   <script>
   opHelpGlobals = {
     config:{
-      homePage:"<!--$homePage-->",
-      bodyClass: "<!--$bodyClass-->",
-      currentCourse: "<!--$coursePrefix-->",
-      pagelist: "<!--$pagelist-->",
-      currentCourseTitle: "<!--$courseTitle-->",
-      courseLanguages: <!--$courseLanguages-->
-    }
+      homePage:"adult",
+      bodyClass: "adult",
+      currentCourse: "sc3e",
+      pagelist: "otm-v1",
+      currentCourseTitle: "Smart Choice On The Move",
+      courseLanguages: ['English']    }
   }
 
   var runFastClick = function() {
@@ -43,7 +42,7 @@
 <body
 ng-controller="MyCtrl1"
 ng-init="getLang();firstTimeCheck()"
-class="ng-cloak course-home <!--$bodyClass-->"
+class="ng-cloak course-home adult"
 ng-click="firstTimeSet()"
 >
   <!--[if lt IE 9]>

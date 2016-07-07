@@ -1,0 +1,53 @@
+{
+  "title": {
+    "english": "Activity Scores"
+  },
+  "documentType": "OTM",
+  "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "OTM-TR-001.png",
+      "pageTitle": {
+        "english": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "text":{
+            "english": "For every activity you complete you get a score and an achievement – bronze star, silver star, gold star, or trophy."
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "OTM-TR-001.png",
+      "pageTitle": {
+        "english": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 2,
+          "text":{
+            "english": "Try activities again and again to improve your high score."
+          }
+        }
+      }
+    },
+    "page03": {
+      "pageType": "screenshot",
+      "imgId": "OTM-TR-001.png",
+      "pageTitle": {
+        "english": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 3,
+          "text":{
+            "english": "When you complete an activity, select “Show Answers” to see feedback."
+          }
+        }
+      }
+    }
+  }
+}
