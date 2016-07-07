@@ -65,9 +65,13 @@ angular.module('helpIndex.controllers', [])
        "link": "inside-ls.html",
        "imgAsset": "help-doc-icon-ils-2x.png"
       },
-      {"name": "Smart Choice 3rd Edition",
+      {"name": "Smart Choice 3rd Edition: Online Practice",
        "link": "smart-choice.html",
        "imgAsset": "help-doc-icon-sc3e-2x.png"
+      },
+      {"name": "Smart Choice 3rd Edition: On the Move",
+       "link": "smart-choice-otm.html",
+       "imgAsset": "help-doc-icon-sc3e-otm-2x.png"
       },
       {"name": "Generic Primary: all languages",
        "link": "master-primary.html",
