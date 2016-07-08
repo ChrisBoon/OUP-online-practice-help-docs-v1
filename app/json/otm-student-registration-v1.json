@@ -6,7 +6,7 @@
   "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-AR-001.jpg",
       "pageTitle": {
         "english": ""
       },
@@ -21,7 +21,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-AR-002.png",
       "pageTitle": {
         "english": ""
       },
@@ -36,7 +36,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-SR-003.png",
       "pageTitle": {
         "english": ""
       },
@@ -51,7 +51,7 @@
     },
     "page04": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-AR-004.png",
       "pageTitle": {
         "english": ""
       },
@@ -66,7 +66,7 @@
     },
     "page05": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-SR-005.jpg",
       "pageTitle": {
         "english": ""
       },
@@ -81,7 +81,7 @@
     },
     "page06": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-SR-006.jpg",
       "pageTitle": {
         "english": ""
       },
@@ -96,7 +96,7 @@
     },
     "page07": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-SR-007.jpg",
       "pageTitle": {
         "english": ""
       },

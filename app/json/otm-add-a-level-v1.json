@@ -6,7 +6,7 @@
   "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-AL-001.jpg",
       "pageTitle": {
         "english": ""
       },
@@ -21,7 +21,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-AL-002.jpg",
       "pageTitle": {
         "english": ""
       },
@@ -36,7 +36,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-AL-003.jpg",
       "pageTitle": {
         "english": ""
       },
@@ -51,7 +51,7 @@
     },
     "page04": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-AL-004.jpg",
       "pageTitle": {
         "english": ""
       },
@@ -59,7 +59,7 @@
         "paragraph01": {
           "number": 4,
           "text":{
-            "english": "Students: enter your class code if your teacher gave you one. Teachers: enter your institution ID code if your administrator gave you one."
+            "english": "Students: enter your class code if your teacher gave you one. Teachers: enter your institution ID code if your administrator gave you  jpg."
           }
         }
       }

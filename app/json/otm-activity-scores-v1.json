@@ -6,7 +6,7 @@
   "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-AS-001.png",
       "pageTitle": {
         "english": ""
       },
@@ -21,7 +21,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-AS-002.JPG",
       "pageTitle": {
         "english": ""
       },
@@ -36,7 +36,7 @@
     },
     "page03": {
       "pageType": "screenshot",
-      "imgId": "OTM-TR-001.png",
+      "imgId": "OTM-AS-003.png",
       "pageTitle": {
         "english": ""
       },
