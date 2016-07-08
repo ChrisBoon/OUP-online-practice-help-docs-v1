@@ -5,7 +5,8 @@ angular.module('myApp', [
   'ngAnimate',
   'ngTouch',
   'myApp.controllers',
-  'vAccordion'
+  'vAccordion',
+  'ngSanitize'
 ]).
 config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/', {templateUrl: 'partials/welcome-'+ opHelpGlobals.config.homePage +'.html', controller: 'MyCtrl1'});

@@ -47,8 +47,8 @@
           <p
             class="help-doc__page__text help-doc__page__paragraph--numbered__text"
             ng-class="{'rtl': language.language==='arabic'}"
+            ng-bind-html="para.text[language.language]"
           >
-            {{para.text[language.language]}}
           </p>
           
         </div>
