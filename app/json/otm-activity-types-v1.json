@@ -104,7 +104,7 @@
         "paragraph01": {
           "number": 7,
           "text":{
-            "english": "Activities with this symbol are Timed. Complete them before the time runs out. Get an answer wrong and lose 5 seconds!"
+            "english": "Activities with this symbol <span class='help-docs-inline-icon help-docs-inline-icon--OTM-timed'></span> are Timed. Complete them before the time runs out. Get an answer wrong and lose 5 seconds!"
           }
         }
       }
