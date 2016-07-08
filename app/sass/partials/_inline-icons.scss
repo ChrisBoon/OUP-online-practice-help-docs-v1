@@ -1,0 +1,14 @@
+.help-docs-inline-icon{
+	display: inline-block;
+	height: 1.4em;
+	vertical-align: bottom;
+
+	&--OTM-timed{
+		width: 60px;
+		background-image: url(../ui-img/inline-icon--OTM-timed.svg);
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: 50%;
+
+	}
+}
