@@ -1,0 +1,42 @@
+<div 
+class="welcome-page"
+ng-if="language.language == 'english'"
+>
+
+  <h1 class="welcome-page__heading">Welcome to {{courseName}} Help</h1>
+  
+  <div class="welcome-page__container">
+  
+    <div class="welcome-page__segment welcome-page__segment--intro">
+      <h2 class="welcome-page__segment__heading">Using On The Move Help</h2>
+      <p>Use the slide-out menu on the left to find help and guidance on using the different areas of your Online Practice course for students, teachers, and administrators.</p>
+      <p>Click any piece of text in each Help section to see the related number highlight on the screen shots.</p>
+      <p ng-if="appLanguages.length > 1">Use the menu on the right to use the Online Practice Help area in a different language.</p>
+    </div>
+    
+    <div class="welcome-page__segment welcome-page__segment--support">
+      <h2 class="welcome-page__segment__heading">ELT Support</h2>
+     <p>For additional support, email <a class="external-link" href="mailto:ELTsupport@oup.com?subject= {{courseName}} query">ELTsupport@oup.com</a>. Please include the following information in your email:</p>
+        <ul>
+          <li>Your type of device (for example, iPad or Samsung Galaxy S6)</li>
+          <li>Your operating system (for example, iOS9)</li>
+          <li>Your browser (for example, Safari)</li>
+          <li>A description of the problem, including any specific actions that were taken before the problem occurred.</li>
+        </ul>
+    </div>
+
+    <div class="welcome-page__segment welcome-page__segment--specs">
+      <h2 class="welcome-page__segment__heading">Supported OS and Browsers</h2>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">Android®:</h3>
+        <p>OS must be 4.4 or higher and supported browser is Google® Chrome</p>
+      </div>
+      <div class="sub-segment">
+        <h3 class="welcome-page__segment--specs__heading">iOS®:</h3>
+        <p>OS must be iOS®9 or higher and the supported browser is Safari</p>
+      </div>
+    </div>
+
+  </div><!--/welcome-page__container-->
+
+</div><!--/welcome-page ENGLISH-->
