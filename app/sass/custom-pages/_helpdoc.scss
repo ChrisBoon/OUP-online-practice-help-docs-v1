@@ -157,4 +157,10 @@
       }
     }
   }
+  .external-link{
+    color: $color-external-link;
+    &:hover{
+      border-bottom: 1px solid $color-external-link;
+    }
+  }  
 }
