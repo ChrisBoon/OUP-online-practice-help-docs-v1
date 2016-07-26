@@ -1,6 +1,6 @@
 {
   "title": {
-    "english": "Teacher registration"
+    "english": "Teacher Registration"
   },
   "documentType": "OTM",
   "pages": {
@@ -74,7 +74,7 @@
         "paragraph01": {
           "number": 5,
           "text":{
-            "english": "Choose your level. Check the title and the cover to make sure it is the correct level that you are using in class. If you are using more than one level, you can add another level later by choosing “Add a level” from your Home screen."
+            "english": "Choose your level. Check the title and the cover to make sure it is the correct level that you are using in class. If you are using more than one level, you can add another level later by choosing “Add another level” from your Home screen."
           }
         }
       }

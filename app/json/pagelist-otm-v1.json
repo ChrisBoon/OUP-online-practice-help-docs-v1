@@ -7,70 +7,100 @@
       "link": "otm-app-overview-v1"
     },
     {
+      "id" : "id02",
       "title": {
-        "english": "Activities Menu"
+        "english": "Registration"
       },
-      "link": "otm-activities-menu-v1"
+      "items" : [
+        {
+          "title": {
+            "english": "for Students"
+          },
+          "link": "otm-student-registration-v1"
+        },
+        {
+          "title": {
+            "english": "for Teachers"
+          },
+          "link": "otm-teacher-registration-v1"
+        },
+        {
+          "title": {
+            "english": "for Administrators"
+          },
+          "link": "otm-administrator-registration-v1"
+        }
+      ]
     },
     {
+      "id" : "id03",
       "title": {
-        "english": "Activity Types"
+        "english": "Adding and Joining"
       },
-      "link": "otm-activity-types-v1"
+      "items" : [
+        {
+          "title": {
+            "english": "Add a Level"
+          },
+          "link": "otm-add-a-level-v1"
+        },
+        {
+          "title": {
+            "english": "Renew an Expired Book"
+          },
+          "link": "otm-renew-an-expired-book-v1"
+        },
+        {
+          "title": {
+            "english": "Join a Class"
+          },
+          "link": "otm-join-a-class-v1"
+        },
+        {
+          "title": {
+            "english": "Join an Institution"
+          },
+          "link": "otm-join-an-institution-v1"
+        },
+        {
+          "title": {
+            "english": "Get an access card"
+          },
+          "link": "otm-get-an-access-card-v1"
+        }
+      ]
     },
     {
+      "id" : "id04",
       "title": {
-        "english": "Activity Scores"
+        "english": "Activities"
       },
-      "link": "otm-activity-scores-v1"
-    },
-    {
-      "title": {
-        "english": "Media Player"
-      },
-      "link": "otm-media-player-v1"
-    },
-    {
-      "title": {
-        "english": "Student Registration"
-      },
-      "link": "otm-student-registration-v1"
-    },
-    {
-      "title": {
-        "english": "Teacher Registration"
-      },
-      "link": "otm-teacher-registration-v1"
-    },
-    {
-      "title": {
-        "english": "Administrator Registration"
-      },
-      "link": "otm-administrator-registration-v1"
-    },
-    {
-      "title": {
-        "english": "Add a Level"
-      },
-      "link": "otm-add-a-level-v1"
-    },
-    {
-      "title": {
-        "english": "Join a Class"
-      },
-      "link": "otm-join-a-class-v1"
-    },
-    {
-      "title": {
-        "english": "Join an Institution"
-      },
-      "link": "otm-join-an-institution-v1"
-    },
-    {
-      "title": {
-        "english": "Get an access card"
-      },
-      "link": "otm-get-an-access-card-v1"
+      "items" : [
+        {
+          "title": {
+            "english": "Menu"
+          },
+          "link": "otm-activities-menu-v1"
+        },
+        {
+          "title": {
+            "english": "Types"
+          },
+          "link": "otm-activity-types-v1"
+        },
+        {
+          "title": {
+            "english": "Scores"
+          },
+          "link": "otm-activity-scores-v1"
+        },
+        {
+          "title": {
+            "english": "Media Player"
+          },
+          "link": "otm-media-player-v1"
+        }
+      ]
     }
   ]
 }

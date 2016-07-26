@@ -1,6 +1,6 @@
 {
   "title": {
-    "english": "Student registration"
+    "english": "Student Registration"
   },
   "documentType": "OTM",
   "pages": {
@@ -81,7 +81,7 @@
     },
     "page06": {
       "pageType": "screenshot",
-      "imgId": "OTM-SR-006.jpg",
+      "imgId": "OTM-SR-006.png",
       "pageTitle": {
         "english": ""
       },

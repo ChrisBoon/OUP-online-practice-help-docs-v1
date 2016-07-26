@@ -51,7 +51,7 @@
     },
     "page04": {
       "pageType": "screenshot",
-      "imgId": "OTM-AL-004.jpg",
+      "imgId": "OTM-AL-004.png",
       "pageTitle": {
         "english": ""
       },
@@ -59,7 +59,7 @@
         "paragraph01": {
           "number": 4,
           "text":{
-            "english": "Students: enter your class code if your teacher gave you one. Teachers: enter your institution ID code if your administrator gave you  jpg."
+            "english": "<strong>Students:</strong> enter your class code if your teacher gave you one. <br/><strong>Teachers:</strong> enter your institution ID code if your administrator gave you one."
           }
         }
       }
