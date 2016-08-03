@@ -250,14 +250,14 @@ module.exports = function(grunt) {
     // 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
     grunt.registerTask('default', [
         'sass',
-        'codekit',
+        'newer:codekit',
         'connect:build',
     ]);
 
     grunt.registerTask('dist', [
-        'copy',
+        'newer:copy',
         'postcss',
-        'htmlmin',
+        'newer:htmlmin',
         'uglify',
         'json-minify',
         'newer:imagemin',
