@@ -532,18 +532,6 @@
             },
             {
               "title": {
-                "english": "Resources",
-                "turkish": "Kaynaklar",
-                "spanish": "Recursos",
-                "korean": "자료",
-                "japanese": "リソース",
-                "chinese": "學習資源",
-                "arabic": "الموارد"
-              },
-              "link": "adult-student-resources-v1_0_0"
-            },            
-            {
-              "title": {
                 "english": "Email",
                 "turkish": "E-posta",
                 "spanish": "Correo electrónico",
