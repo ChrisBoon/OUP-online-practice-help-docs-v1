@@ -46,6 +46,12 @@
           "text":{
             "english": "When you complete an activity, select “Show Answers” to see feedback."
           }
+        },
+        "paragraph02": {
+          "number": 4,
+          "text":{
+            "english": "<strong>Teachers</strong>: if you complete any student activities, your scores won’t be saved."
+          }
         }
       }
     }
