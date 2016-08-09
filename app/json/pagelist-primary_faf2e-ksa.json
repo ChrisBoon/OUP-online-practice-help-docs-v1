@@ -1,0 +1,758 @@
+{
+  "items": [
+    {
+      "id": "id01",
+      "title": {
+      "english": "Teacher",
+      "turkish": "Öğretmen",
+      "spanish": "Profesor",
+      "spanish_la": "Profesor",
+      "portuguese": "Professor",
+      "japanese": "先生",
+      "chinese": "教師",
+      "thai": "ครูผู้สอน",
+      "indonesian": "Guru",
+      "korean":"교사",
+      "vietnamese":"Giáo viên",
+      "arabic": "المعلم"
+      },
+      "items": [
+        {
+          "title": {
+            "english": "Registration",
+            "turkish": "Kayıt",
+            "spanish": "Registro",
+            "spanish_la": "Registro",
+            "portuguese": "Cadastro",
+            "japanese": "登録",
+            "chinese": "註冊",
+            "thai": "ลงทะเบียน",
+            "indonesian": "Pendaftaran",
+            "korean":"교사 등록",
+            "vietnamese":"Đăng ký",
+            "arabic": "التسجيل"
+          },
+          "link": "primary-teacher-registration-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Home",
+            "turkish": "Anasayfa",
+            "spanish": "Inicio",
+            "spanish_la": "Inicio",
+            "portuguese": "Início",
+            "japanese": "ホーム",
+            "chinese": "首頁",
+            "thai": "หน้าหลัก",
+            "indonesian": "Laman",
+            "korean":"(교사) 홈",
+            "vietnamese":"Trang chủ",
+            "arabic": "الصفحة الرئيسية"
+          },
+          "link": "primary-teacher-home-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Manage Classes",
+            "turkish": "Sınıfları Yönet",
+            "spanish": "Administrar Clases",
+            "spanish_la": "Administrar Clases",
+            "portuguese": "Gerenciar turmas",
+            "japanese": "クラスの管理",
+            "chinese": "管理班級",
+            "thai": "การจัดการห้องเรียน",
+            "indonesian": "Mengelola Kelas",
+            "korean":"(교사) 수업 관리",
+            "vietnamese":"Quản lý Lớp học",
+            "arabic": "إدارة الفصول"
+          },
+          "link": "primary-teacher-manageclasses-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Class Details",
+            "turkish": "Sınıf Bilgileri ",
+            "spanish": "Detalles de la Clase",
+            "spanish_la": "Detalles de la Clase",
+            "portuguese": "Dados da turma",
+            "japanese": "クラスの詳細",
+            "chinese": "班級資料",
+            "thai": "รายละเอียดห้องเรียน",
+            "indonesian": "Rincian Kelas",
+            "korean":"수업 세부사항",
+            "vietnamese":"Thông tin Chi tiết Lớp học",
+            "arabic": "تفاصيل الفصل"
+          },
+          "link": "primary-teacher-classdetails-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Edit Class Name",
+            "turkish": "Sınıf Adını Değiştir",
+            "spanish": "Editar Nombre de la Clase",
+            "spanish_la": "Editar Nombre de la Clase",
+            "portuguese": "Editar o nome da turma",
+            "japanese": "クラス名の編集",
+            "chinese": "編輯班級名稱",
+            "thai": "แก้ไขชื่อห้องเรียน",
+            "indonesian": "Mengedit Nama Kelas",
+            "korean":"수업명 편집",
+            "vietnamese":"Sửa tên Lớp học",
+            "arabic": "تحرير اسم الفصل"
+          },
+          "link": "primary-teacher-classeditname-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Join an Institution",
+            "turkish": "Bir Kuruma Katıl",
+            "spanish": "Unirse a una Institución",
+            "spanish_la": "Unirse a una Institución",
+            "portuguese": "Associe-se a uma instituição",
+            "japanese": "学校・団体への参加登録",
+            "chinese": "加入機關單位",
+            "thai": "เข้าร่วมสถาบัน",
+            "indonesian": "Bergabung dengan suatu Lembaga",
+            "korean":"교육기관 가입",
+            "vietnamese":"Liên kết với một Tổ chức",
+            "arabic": "الانضمام إلى مؤسسة"
+          },
+          "link": "primary-teacher-joininstitution-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Hide Units and Lessons",
+            "turkish": "Üniteleri ve Dersleri Gizle",
+            "spanish": "Ocultar Unidades y Lecciones",
+            "spanish_la": "Ocultar Unidades y Lecciones",
+            "portuguese": "Ocultar unidades e lições",
+            "japanese": "ユニットとレッスンを非表示にする",
+            "chinese": "隱藏單元與課程",
+            "thai": "ซ่อนหัวข้อและบทเรียน",
+            "indonesian": "Menyembunyikan Berbagai Unit dan Pelajaran",
+            "korean":"(교사) 컨텐츠 숨기기/배정",
+            "vietnamese":"Để ẩn các Bài học và Bài tập",
+            "arabic": "إخفاء الوحدات والدروس"
+          },
+          "link": "primary-teacher-contentassign-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Add a New Class",
+            "turkish": "Yeni Sınıf Ekle",
+            "spanish": "Añadir una Nueva Clase",
+            "spanish_la": "Añadir una Nueva Clase",
+            "portuguese": "Adicione uma nova turma",
+            "japanese": "クラスの追加",
+            "chinese": "新增班級",
+            "thai": "เพิ่มห้องเรียนใหม่",
+            "indonesian": "Menambahkan Kelas Baru",
+            "korean":"새 수업 추가",
+            "vietnamese":"Thêm vào một Lớp học Mới",
+            "arabic": "إضافة فصل جديد"
+          },
+          "link": "primary-teacher-addclass-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Class Summary Report",
+            "turkish": "Sınıf Özet Raporu",
+            "spanish": "Informe de Resumen de la Clase",
+            "spanish_la": "Informe de Resumen de la Clase",
+            "portuguese": "Relatório resumido da turma",
+            "japanese": "クラスサマリーレポート",
+            "chinese": "班級簡要報告",
+            "thai": "รายงานสรุปประจำชั้น",
+            "indonesian": "Rapor Ikhtisar Kelas",
+            "korean":"수업 요약 보고서",
+            "vietnamese":"Báo cáo Tóm tắt các Lớp học",
+            "arabic": "تقرير موجز الفصل"
+          },
+          "link": "primary-teacher-reportclasssummary-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Class Report",
+            "turkish": "Sınıf Raporu",
+            "spanish": "Informe de la Clase",
+            "spanish_la": "Informe de la Clase",
+            "portuguese": "Relatório de turma",
+            "japanese": "クラスレポート",
+            "chinese": "班級報告",
+            "thai": "รายงานประจำห้อง",
+            "indonesian": "Rapor Ikhtisar Kelas",
+            "korean":"수업 보고서",
+            "vietnamese":"Báo cáo về Lớp học",
+            "arabic": "التقرير الخاص بالفصل"
+          },
+          "link": "primary-teacher-reportclass-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Student Report",
+            "turkish": "Öğrenci Raporu",
+            "spanish": "Informe del Estudiante",
+            "spanish_la": "Informe del Estudiante",
+            "portuguese": "Relatório do aluno",
+            "japanese": "生徒レポート",
+            "chinese": "學生報告",
+            "thai": "รายงานของนักเรียน",
+            "indonesian": "Rapor Kelas",
+            "korean":"학생 보고서",
+            "vietnamese":"Báo cáo về Học sinh",
+            "arabic": "تقرير عن الطالب"
+          },
+          "link": "primary-teacher-reportstudent-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Achievements",
+            "turkish": "Başarılar",
+            "spanish": "Logros",
+            "spanish_la": "Logros",
+            "portuguese": "Progressos",
+            "japanese": "成績表",
+            "chinese": "學習成果",
+            "thai": "ผลการเรียนรู้",
+            "indonesian": "Prestasi",
+            "korean":"성과",
+            "vietnamese":"Các Thành tích",
+            "arabic": "التحصيل"
+          },
+          "link": "primary-teacher-dashboard-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Unit Report",
+            "turkish": "Ünite Raporu",
+            "spanish": "Informe de la Unidad",
+            "spanish_la": "Informe de la Unidad",
+            "portuguese": "Relatório de unidade",
+            "japanese": "ユニットレポート",
+            "chinese": "單元報告",
+            "thai": "สรุปรายงานประจำหน่วยบทเรียน",
+            "indonesian": "Rapor Unit",
+            "korean":"(교사) 단원 보고서",
+            "vietnamese":"Báo cáo Bài học",
+            "arabic": "تقرير الوحدة"
+          },
+          "link": "primary-teacher-reportunit-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Lesson Report",
+            "turkish": "Ders Raporu",
+            "spanish": "Informe de la Lección",
+            "spanish_la": "Informe de la Lección",
+            "portuguese": "Relatório da lição",
+            "japanese": "レッスンレポート",
+            "chinese": "課程報告",
+            "thai": "รายงานประจำบทเรียน",
+            "indonesian": "Rapor Pelajaran",
+            "korean":"(교사) 세그먼트 보고서",
+            "vietnamese":"Báo cáo Bài tập",
+            "arabic": "تقرير عن الدرس"
+          },
+          "link": "primary-teacher-reportlesson-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Student Activity Report",
+            "turkish": "Öğrenci Aktivite Raporu",
+            "spanish": "Informe de Actividades del Estudiante",
+            "spanish_la": "Informe de Actividades del Estudiante",
+            "portuguese": "Relatório da atividade do aluno",
+            "japanese": "生徒のアクティビティレポート",
+            "chinese": "學生學習活動報告",
+            "thai": "รายงานกิจกรรมของนักเรียน",
+            "indonesian": "Rapor Aktivitas Murid",
+            "korean":"학생 활동 보고서",
+            "vietnamese":"Báo cáo Hoạt động của Học sinh",
+            "arabic": "تقرير نشاط الطالب"
+          },
+          "link": "primary-teacher-reportstudentactivity-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Enter Online Practice",
+            "turkish": "Online Uygulamaya Gir",
+            "spanish": "Ingresar a Práctica Online",
+            "spanish_la": "Ingresar a Práctica Online",
+            "portuguese": "Acessar o Online Practice",
+            "japanese": "Online Practiceへのアクセス",
+            "chinese": "進入線上練習",
+            "thai": "เพิ่มแบบฝึกหัดออนไลน์",
+            "indonesian": "Memasuki Praktik Online",
+            "korean":"",
+            "vietnamese":"Truy cập chương trình Thực hành Qua mạng",
+            "arabic": "إدخال الممارسة على الإنترنت"
+          },
+          "link": "primary-teacher-enteronlinepractice-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Activities",
+            "turkish": "Aktiviteler",
+            "spanish": "Actividades",
+            "spanish_la": "Actividades",
+            "portuguese": "Atividades",
+            "japanese": "アクティビティ",
+            "chinese": "學習活動",
+            "thai": "กิจกรรมการเรียนรู้",
+            "indonesian": "Aktivitas",
+            "korean":"(교사) 활동",
+            "vietnamese":"Hoạt Động",
+            "arabic": "أنشطة"
+          },
+          "link": "primary-teacher-activities-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Glossary",
+            "turkish": "Sözlük",
+            "spanish": "Glosario",
+            "spanish_la": "Glosario",
+            "portuguese": "Glossário",
+            "japanese": "グロッサリー",
+            "chinese": "詞庫",
+            "thai": "อภิธานศัพท์",
+            "indonesian": "Glosarium",
+            "korean":"용어집",
+            "vietnamese":"Bảng Từ vựng",
+            "arabic": "المسرد"
+          },
+          "link": "primary-teacher-glossary-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Resources",
+            "turkish": "Kaynaklar",
+            "spanish": "Recursos",
+            "spanish_la": "Recursos",
+            "portuguese": "Recursos",
+            "japanese": "リソース",
+            "chinese": "教學資源",
+            "thai": "ศูนย์ทรัพยากรการเรียนรู้",
+            "indonesian": "Sumber-sumber Daya",
+            "korean":"자료",
+            "vietnamese":"Các Nguồn Trợ giúp",
+            "arabic": "الموارد"
+          },
+          "link": "primary-teacher-resources-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Media Centre",
+            "turkish": "Medya Merkezi",
+            "spanish": "Centro de Medios",
+            "spanish_la": "Centro de Medios",
+            "portuguese": "Centro de mídia",
+            "japanese": "メディアセンター",
+            "chinese": "媒體中心",
+            "thai": "ศูนย์รวมมัลติมีเดีย",
+            "indonesian": "Pusat Media",
+            "korean":"(교사) 미디어 센터",
+            "vietnamese":"Trung tâm Truyền thông",
+            "arabic": "مركز الوسائط"
+          },
+          "link": "primary-teacher-media-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Add a Level",
+            "turkish": "Seviye Ekle",
+            "spanish": "Añadir un Nivel",
+            "spanish_la": "Añadir un Nivel",
+            "portuguese": "Adicionar um nível",
+            "japanese": "レベルの追加",
+            "chinese": "新增級數",
+            "thai": "เพิ่มระดับชั้นเรียน",
+            "indonesian": "Menambahkan suatu Tingkat",
+            "korean":"레벨 추가",
+            "vietnamese":"Thêm một Trình độ",
+            "arabic": "إضافة مستوى"
+          },
+          "link": "primary-teacher-addlevel-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Email",
+            "turkish": "E-posta",
+            "spanish": "Correo electrónico",
+            "spanish_la": "Correo electrónico",
+            "portuguese": "E-mail",
+            "japanese": "メール",
+            "chinese": "電子郵件",
+            "thai": "อีเมล",
+            "indonesian": "Email",
+            "korean":"이메일",
+            "vietnamese":"Email",
+            "arabic": "البريد الإلكتروني"
+          },
+          "link": "primary-teacher-email-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Forum",
+            "turkish": "Forum",
+            "spanish": "Foro",
+            "spanish_la": "Foro",
+            "portuguese": "Fórum",
+            "japanese": "フォーラム",
+            "chinese": "討論區",
+            "thai": "กระดานสนทนา",
+            "indonesian": "Forum",
+            "korean":"포럼",
+            "vietnamese":"Diễn đàn",
+            "arabic": "المنتدى"
+          },
+          "link": "primary-teacher-forum-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Edit Profile",
+            "turkish": "Profili Düzenle",
+            "spanish": "Editar Perfil",
+            "spanish_la": "Editar Perfil",
+            "portuguese": "Editar perfil",
+            "japanese": "プロフィールの編集",
+            "chinese": "編輯個人檔案",
+            "thai": "แก้ไขข้อมูลส่วนตัว",
+            "indonesian": "Mengedit Profil",
+            "korean":"프로필 편집",
+            "vietnamese":"Chỉnh sửa Thông tin Cá nhân",
+            "arabic": "تحرير الملف الشخصي"
+          },
+          "link": "primary-teacher-editprofile-v1_0_0"
+        }
+      ]
+    },
+    {
+      "id": "id02",
+      "title": {
+        "english": "Student",
+        "turkish": "Öğrenci",
+        "spanish": "Estudiante",
+        "spanish_la": "Estudiante",
+        "portuguese": "Aluno",
+        "japanese": "生徒",
+        "chinese": "學生",
+        "thai": "นักเรียน",
+        "indonesian": "Murid",
+        "korean":"학생",
+        "vietnamese":"Học sinh",
+        "arabic": "الطالب"
+      },
+      "items": [
+        {
+          "title": {
+            "english": "Registration",
+            "turkish": "Kayıt",
+            "spanish": "Registro",
+            "spanish_la": "Registro",
+            "portuguese": "Cadastro",
+            "japanese": "登録",
+            "chinese": "註冊",
+            "thai": "ลงทะเบียน",
+            "indonesian": "Pendaftaran",
+            "korean":"등록",
+            "vietnamese":"Đăng ký",
+            "arabic": "التسجيل"
+          },
+          "link": "primary-student-registration-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Home",
+            "turkish": "Anasayfa",
+            "spanish": "Inicio",
+            "spanish_la": "Inicio",
+            "portuguese": "Início",
+            "japanese": "ホーム",
+            "chinese": "首頁",
+            "thai": "หน้าหลัก",
+            "indonesian": "Laman",
+            "korean":"(학생) 홈",
+            "vietnamese":"Trang chủ",
+            "arabic": "الصفحة الرئيسية"
+          },
+          "link": "primary-student-home-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Add a Level",
+            "turkish": "Seviye Ekle",
+            "spanish": "Añadir un Nivel",
+            "spanish_la": "Añadir un Nivel",
+            "portuguese": "Adicionar um nível",
+            "japanese": "レベルの追加",
+            "chinese": "新增級數",
+            "thai": "เพิ่มระดับชั้นเรียน",
+            "indonesian": "Menambahkan suatu Tingkat",
+            "korean":"레벨 추가",
+            "vietnamese":"Thêm một Trình độ",
+            "arabic": "إضافة مستوى"
+          },
+          "link": "primary-student-addlevel-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Activities",
+            "turkish": "Aktiviteler",
+            "spanish": "Actividades",
+            "spanish_la": "Actividades",
+            "portuguese": "Atividades",
+            "japanese": "アクティビティ",
+            "chinese": "學習活動",
+            "thai": "กิจกรรมการเรียนรู้",
+            "indonesian": "Aktivitas",
+            "korean":"(학생) 활동",
+            "vietnamese":"Hoạt Động",
+            "arabic": "أنشطة"
+          },
+          "link": "primary-student-activities-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Glossary",
+            "turkish": "Sözlük",
+            "spanish": "Glosario",
+            "spanish_la": "Glosario",
+            "portuguese": "Glossário",
+            "japanese": "グロッサリー",
+            "chinese": "詞庫",
+            "thai": "อภิธานศัพท์",
+            "indonesian": "Glosarium",
+            "korean":"용어집",
+            "vietnamese":"Bảng Từ vựng",
+            "arabic": "المسرد"
+          },
+          "link": "primary-student-glossary-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Achievements",
+            "turkish": "Başarılar",
+            "spanish": "Logros",
+            "spanish_la": "Logros",
+            "portuguese": "Progressos",
+            "japanese": "アチーブメント",
+            "chinese": "學習成果",
+            "thai": "ผลการเรียนรู้",
+            "indonesian": "Prestasi",
+            "korean":"성과",
+            "vietnamese":"Các Thành tích",
+            "arabic": "التحصيل"
+          },
+          "link": "primary-student-dashboard-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Report",
+            "turkish": "Rapor",
+            "spanish": "Informe",
+            "spanish_la": "Informe",
+            "portuguese": "Relatório",
+            "japanese": "レポート",
+            "chinese": "學習報告",
+            "thai": "รายงาน",
+            "indonesian": "Rapor",
+            "korean":"보고서",
+            "vietnamese":"Các Báo cáo",
+            "arabic": "التقرير"
+          },
+          "link": "primary-student-reportprogress-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Unit Report",
+            "turkish": "Ünite Raporu",
+            "spanish": "Informe de la Unidad",
+            "spanish_la": "Informe de la Unidad",
+            "portuguese": "Relatório de unidade",
+            "japanese": "ユニットレポート",
+            "chinese": "單元報告",
+            "thai": "รายงานนักเรียนประจำหน่วยบทเรียน",
+            "indonesian": "Rapor Unit",
+            "korean":"(학생) 단원 보고서",
+            "vietnamese":"Báo cáo Bài học",
+            "arabic": "تقرير الوحدة"
+          },
+          "link": "primary-student-reportunit-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Email",
+            "turkish": "E-posta",
+            "spanish": "Correo electrónico",
+            "spanish_la": "Correo electrónico",
+            "portuguese": "E-mail",
+            "japanese": "メール",
+            "chinese": "電子郵件",
+            "thai": "อีเมล",
+            "indonesian": "Email",
+            "korean":"이메일",
+            "vietnamese":"Email",
+            "arabic": "البريد الإلكتروني"
+          },
+          "link": "primary-student-email-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Forum",
+            "turkish": "Forum",
+            "spanish": "Foro",
+            "spanish_la": "Foro",
+            "portuguese": "Fórum",
+            "japanese": "フォーラム",
+            "chinese": "討論區",
+            "thai": "กระดานสนทนา",
+            "indonesian": "Forum",
+            "korean":"포럼",
+            "vietnamese":"Diễn đàn",
+            "arabic": "المنتدى"
+          },
+          "link": "primary-student-forum-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Media Centre",
+            "turkish": "Medya Merkezi",
+            "spanish": "Centro de Medios",
+            "spanish_la": "Centro de Medios",
+            "portuguese": "Centro de mídia",
+            "japanese": "メディアセンター",
+            "chinese": "媒體中心",
+            "thai": "ศูนย์รวมมัลติมีเดีย",
+            "indonesian": "Pusat Media",
+            "korean":"(학생) 미디어 센터",
+            "vietnamese":"Trung tâm Truyền thông",
+            "arabic": "مركز الوسائط"
+          },
+          "link": "primary-student-media-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Join a Class",
+            "turkish": "Bir Sınıfa Katıl",
+            "spanish": "Inscribirse a una Clase",
+            "spanish_la": "Inscribirse a una Clase",
+            "portuguese": "Participe de uma turma",
+            "japanese": "クラスへの参加登録",
+            "chinese": "加入班級",
+            "thai": "เข้าร่วมชั้นเรียน",
+            "indonesian": "Bergabung dengan suatu Kelas",
+            "korean":"수업 참여",
+            "vietnamese":"Tham gia một Lớp học",
+            "arabic": "الانضمام إلى فصل"
+          },
+          "link": "primary-student-classjoin-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Change Class",
+            "turkish": "Sınıf Değiştir",
+            "spanish": "Cambio de Clase",
+            "spanish_la": "Cambio de Clase",
+            "portuguese": "Alterar turma",
+            "japanese": "クラスの変更",
+            "chinese": "更改班級",
+            "thai": "เปลี่ยนห้องเรียน",
+            "indonesian": "Mengubah Kelas",
+            "korean":"수업 변경",
+            "vietnamese":"Đổi Lớp học",
+            "arabic": "تغيير الفصل"
+          },
+          "link": "primary-student-classchange-v1_0_0"
+        },
+        {
+          "title": {
+            "english": "Edit Profile",
+            "turkish": "Profili Düzenle",
+            "spanish": "Editar Perfil",
+            "spanish_la": "Editar Perfil",
+            "portuguese": "Editar perfil",
+            "japanese": "プロフィールの編集",
+            "chinese": "編輯個人檔案",
+            "thai": "แก้ไขข้อมูลส่วนตัว",
+            "indonesian": "Mengedit Profil",
+            "korean":"프로필 편집",
+            "vietnamese":"Chỉnh sửa Thông tin Cá nhân",
+            "arabic": "تحرير الملف الشخصي"
+          },
+          "link": "primary-student-editprofile-v1_0_0"
+        }
+      ]
+    },
+    {
+      "id": "id03",
+      "title": {
+        "english": "Administrator",
+        "turkish": "Yönetici",
+        "spanish": "Administrador",
+        "spanish_la": "Administrador",
+        "portuguese": "Administrador",
+        "japanese": "管理者",
+        "chinese": "管理人",
+        "thai": "ผู้ดูแลระบบ",
+        "indonesian": "Administratur",
+        "korean":"교육기관 관리자",
+        "vietnamese":"Quản trị viên",
+        "arabic": "مراقب النظام"
+      },
+      "items":[
+        {
+          "title": {
+          "english": "Registration",
+          "turkish": "Kayıt",
+          "spanish": "Registro",
+          "spanish_la": "Registro",
+          "portuguese": "Cadastro",
+          "japanese": "登録",
+          "chinese": "註冊",
+          "thai": "ลงทะเบียน",
+          "indonesian": "Pendaftaran",
+          "korean":"등록",
+          "vietnamese":"Đăng ký",
+          "arabic": "التسجيل"
+        },
+        "link": "primary-admin-registration-v1_0_0"
+      },
+      {
+        "title": {
+          "english": "Home",
+          "turkish": "Anasayfa",
+          "spanish": "Inicio",
+          "spanish_la": "Inicio",
+          "portuguese": "Início",
+          "japanese": "ホーム",
+          "chinese": "首頁",
+          "thai": "หน้าหลัก",
+          "indonesian": "Laman",
+          "korean":"(교육기관 관리자) 홈",
+          "vietnamese":"Trang chủ",
+          "arabic": "الصفحة الرئيسية"
+        },
+        "link": "primary-admin-home-v1_0_0"
+      },
+      {
+        "title": {
+          "english": "Edit Profile",
+          "turkish": "Profili Düzenle",
+          "spanish": "Editar Perfil",
+          "spanish_la": "Editar Perfil",
+          "portuguese": "Editar perfil",
+          "japanese": "プロフィールの編集",
+          "chinese": "編輯個人檔案",
+          "thai": "แก้ไขข้อมูลส่วนตัว",
+          "indonesian": "Mengedit Profil",
+          "korean":"프로필 편집",
+          "vietnamese":"Chỉnh sửa Thông tin Cá nhân",
+          "arabic": "تحرير الملف الشخصي"
+        },
+          "link": "primary-admin-editprofile-v1_0_0"
+        }
+      ]
+    }
+  ]
+}
