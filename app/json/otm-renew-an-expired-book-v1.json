@@ -6,7 +6,7 @@
   "pages": {
     "page01": {
       "pageType": "screenshot",
-      "imgId": "OTM-REB-001.png",
+      "imgId": "OTM-REB-001.jpg",
       "pageTitle": {
         "english": ""
       },
@@ -21,7 +21,7 @@
     },
     "page02": {
       "pageType": "screenshot",
-      "imgId": "OTM-REB-002.png",
+      "imgId": "OTM-REB-002.jpg",
       "pageTitle": {
         "english": ""
       },
