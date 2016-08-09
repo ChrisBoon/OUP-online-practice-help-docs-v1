@@ -29,7 +29,13 @@
             "english": "for Administrators"
           },
           "link": "otm-administrator-registration-v1"
-        }
+        },
+        {
+          "title": {
+            "english": "Smart Choice ID"
+          },
+          "link": "otm-smart-choice-id-v1"
+        }        
       ]
     },
     {

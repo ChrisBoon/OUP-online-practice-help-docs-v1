@@ -1,0 +1,29 @@
+{
+  "title": {
+    "english": "Smart Choice ID"
+  },
+  "documentType": "OTM",
+  "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "OTM-AR-001.jpg",
+      "pageTitle": {
+        "english": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "text":{
+            "english": "If you haven’t signed up for Online Practice yet, you can create your Smart Choice ID in On The Move. Then use the same Email and Password for Online Practice."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "text":{
+            "english": "If you have already signed up for Online Practice, use the same Smart Choice ID for On The Move."
+          }
+        }
+      }
+    }
+  }
+}
