@@ -325,23 +325,6 @@
         },
         {
           "title": {
-            "english": "Resources",
-            "turkish": "Kaynaklar",
-            "spanish": "Recursos",
-            "spanish_la": "Recursos",
-            "portuguese": "Recursos",
-            "japanese": "リソース",
-            "chinese": "教學資源",
-            "thai": "ศูนย์ทรัพยากรการเรียนรู้",
-            "indonesian": "Sumber-sumber Daya",
-            "korean":"자료",
-            "vietnamese":"Các Nguồn Trợ giúp",
-            "arabic": "الموارد"
-          },
-          "link": "primary-teacher-resources-v1_0_0"
-        },
-        {
-          "title": {
             "english": "Media Centre",
             "turkish": "Medya Merkezi",
             "spanish": "Centro de Medios",
