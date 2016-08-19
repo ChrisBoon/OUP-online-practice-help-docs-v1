@@ -77,6 +77,10 @@ angular.module('helpIndex.controllers', [])
        "link": "smart-choice-otm.html",
        "imgAsset": "help-doc-icon-sc3e-otm-2x.png"
       },
+      {"name": "Headway Plus Special Edition",
+       "link": "headway-plus-se.html",
+       "imgAsset": "help-doc-icon-hpse-2x.jpg"
+      },
       {"name": "Generic Primary: all languages",
        "link": "master-primary.html",
        "imgAsset": "help-doc-icon-primary-2x.png"
