@@ -1,0 +1,65 @@
+{
+ "title": {
+    "english": "Home",
+    "arabic": "الصفحة الرئيسية "
+  },
+ "segment": "adult",
+ "userType": ["teacher"],
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATH-hpse-001.png",
+      "pageTitle": {
+        "english": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 17,
+          "numberPosLeft": 7,
+          "text":{
+            "english": "Click here to manage your Online Practice classes. You can view the details of your classes, delete students’ accounts, add new classes, delete classes, or join an institution.",
+            "arabic": "انقر هنا لإدارة فصول الممارسة الخاصة بك عبر شبكة الإنترنت. يمكنك عرض التفاصيل المتعلقة بالفصول الخاصة بك أو حذف حسابات الطلاب أو إضافة فصول جديدة أو حذف الفصول أو الانضمام لإحدى المؤسسات."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 34,
+          "numberPosLeft": 7,
+          "text":{
+            "english": "Click here to view scores and reports on your students’ progress.",
+            "arabic": "انقر هنا لعرض الدرجات والتقارير حول تقدم الطلاب التابعين لك."
+          }
+        },
+        "paragraph03": {
+          "number": 3,
+          "numberPosTop": 50,
+          "numberPosLeft": 7,
+          "text":{
+            "english": "Click here to enter the Online Practice activity area and to access different resources.",
+            "arabic": "أنقر هنا لكي تشارك في مجال نشاط الممارسة عبر شبكة الإنترنت ومن أجل الوصول الى موارد مختلفة."
+          }
+        },
+        "paragraph04": {
+          "number": 4,
+          "numberPosTop": 17,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Click here to add another level of your Online Practice course.",
+            "arabic": "انقر هنا لإضافة مستوى آخر لمقرر الممارسة الخاصة بك عبر شبكة الإنترنت."
+          }
+        },
+        "paragraph05": {
+          "number": 5,
+          "numberPosTop": 34,
+          "numberPosLeft": 54,
+          "text":{
+            "english": "Click here to use the Email area and send messages to your students. If you have new messages, the number of messages will appear here.",
+            "arabic": "انقر هنا لاستخدام منطقة البريد الإلكتروني وإرسال الرسائل إلى طلابك. إذا كانت لديك رسائل جديدة، فإن عدد الرسائل سيظهر هنا."
+          }
+        }
+      }
+    }
+  }
+}

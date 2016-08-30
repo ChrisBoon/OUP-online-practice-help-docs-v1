@@ -1,0 +1,76 @@
+{
+ "title": {
+    "english": "Media Centre",
+    "arabic": "مركز الوسائط"
+  },
+ "userType": ["teacher"],
+ "pages": {
+    "page01": {
+      "pageType": "screenshot",
+      "imgId": "ATM-hpse-001.png",
+      "pageTitle": {
+        "english": "",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 1,
+          "numberPosTop": 4,
+          "numberPosLeft": 27,
+          "text":{
+            "english": "The Media Centre provides class audio and video files for you and your students to use, if available.",
+            "arabic": "يقدم مركز الوسائط للصف ملفات صوتية وملفات فيديو لك ولطلابك لاستخدامها، إذا كانت متوفرة."
+          }
+        },
+        "paragraph02": {
+          "number": 2,
+          "numberPosTop": 56,
+          "numberPosLeft": 26,
+          "text":{
+            "english": "Click on a video title to play a video file. It will play in a new tab in your browser.",
+            "arabic": "انقر فوق عنوان مقطع الفيديو لتشغيل ملف الفيديو. سوف يقوم بتشغيل علامة تبويب جديدة في المتصفح الخاص بك."
+          }
+        }
+      }
+    },
+    "page02": {
+      "pageType": "screenshot",
+      "imgId": "PTM003.jpg",
+      "pageTitle": {
+        "english": "",
+        "turkish": "",
+        "spanish": "",
+        "portuguese": "",
+        "spanish_la": "",
+        "japanese": "",
+        "chinese": "",
+        "thai": "",
+        "korean":"",
+        "vietnamese":"",
+        "indonesian":"",
+        "arabic": ""
+      },
+      "paragraphs":{
+        "paragraph01": {
+          "number": 3,
+          "numberPosTop": 84,
+          "numberPosLeft": 5,
+          "text":{
+            "english": "Use the controls to play and pause the video, change the volume and enter full-screen view.",
+            "turkish": "Video’yu oynatmak ve durdurmak, ses seviyesini değiştirmek ve tam ekran görünümüne geçmek için kontrol düğmelerini kullanın.",
+            "spanish": "Use los controles para reproducir y pausar el vídeo, cambiar el volumen y activar la vista de pantalla completa.",
+            "spanish_la": "Use los controles para reproducir y pausar el video, cambiar el volumen y activar la vista de pantalla completa.",
+            "portuguese": "Use os controles para iniciar e pausar a reprodução do vídeo, alterar o volume e entrar no modo de visualização em tela cheia.",
+            "japanese": "再生や一時停止、音量調節や全画面表示をするには、コントロール機能を使用してください。",
+            "chinese": "使用控制面板來播放與暫停影片、調整音量以及用全螢幕模式觀看影片。",
+            "thai": "ให้ใช้แถบควบคุมวีดีโอสำหรับการเล่นหรือหยุดชั่วคราว คุณสามารถปรับระดับเสียง หรือเลือกการแสดงภาพแบบเต็มจอได้จากแถบควบคุม",
+            "korean":"제어장치를 사용하여 비디오를 재생 및 정지시키고 음량을 조절하거나 전체화면 보기로 시청하십시오.",
+            "vietnamese":"Dùng các nút điều khiển để mở và tạm dừng đoạn phim, thay đổi âm lượng và xem ở chế độ toàn màn hình.",
+            "indonesian":"Gunakan berbagai kontrol untuk memainkan dan menghentikan video, mengubah volume dan memilih pandangan layar penuh.",
+            "arabic": "استخدم مفاتيح التحكم لتشغيل وإيقاف مقطع الفيديو وتغيير مستوى جهارة الصوت وإدخال المنظر بملء الشاشة."
+          }
+        }
+      }
+    }
+  }
+}

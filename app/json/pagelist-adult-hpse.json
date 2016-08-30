@@ -4,11 +4,6 @@
       "id" : "id01",
       "title": {
         "english": "Teacher",
-        "turkish": "Öğretmen",
-        "spanish": "Profesor",
-        "korean": "교사",
-        "japanese": "先生",
-        "chinese": "教師",
         "arabic": "المعلم"
       },
       "items" : [
@@ -16,34 +11,19 @@
           "id" : "id01-a",
           "title" : {
             "english": "Administration",
-            "turkish": "Yönetim",
-            "spanish": "Administración",
-            "korean": "관리",
-            "japanese": "管理",
-            "chinese": "管理",
             "arabic": "الإدارة"
           },
           "items" : [
             {
               "title": {
                 "english": "Home",
-                "turkish": "Anasayfa",
-                "spanish": "Inicio",
-                "korean": "(교사) 홈",
-                "japanese": "ホーム",
-                "chinese": "首頁",
                 "arabic": "الصفحة الرئيسية"
               },
-              "link": "adult-teacher-home-q2e"
+              "link": "adult-teacher-home-hpse"
             },
             {
               "title": {
                 "english": "Manage Classes",
-                "turkish": "Sınıfları Yönet",
-                "spanish": "Administrar Clases",
-                "korean": "(교사) 수업 관리",
-                "japanese": "クラスの管理",
-                "chinese": "管理班級",
                 "arabic": "إدارة الفصول"
               },
               "link": "adult-teacher-manageclasses-q2e"
@@ -51,11 +31,6 @@
             {
               "title": {
                 "english": "Manage Attempts",
-                "turkish": "Denemeleri Yönet",
-                "spanish": "Administrar los intentos",
-                "korean": "(교사) 시도 관리",
-                "japanese": "試みの管理-",
-                "chinese": "管理嘗試",
                 "arabic": "إدارة المحاولات"
               },
               "link": "adult-teacher-manageattempts-q2e"
@@ -63,11 +38,6 @@
             {
               "title": {
                 "english": "Class Details",
-                "turkish": "Sınıf Bilgileri",
-                "spanish": "Detalles de la Clase",
-                "korean": "수업 세부사항",
-                "japanese": "クラスの詳細",
-                "chinese": "班級資料",
                 "arabic": "تفاصيل الفصل"
               },
               "link": "adult-teacher-classdetails-v1_0_0"
@@ -75,11 +45,6 @@
             {
               "title": {
                 "english": "Edit Class Name",
-                "turkish": "Sınıf Adını Değiştir",
-                "spanish": "Editar Nombre de la Clase",
-                "korean": "수업명 편집",
-                "japanese": "クラス名の編集",
-                "chinese": "編輯班級名稱",
                 "arabic": "تحرير اسم الفصل"
               },
               "link": "adult-teacher-classeditname-v1_0_0"
@@ -87,14 +52,9 @@
             {
               "title": {
                 "english": "Hide/Assign Content",
-                "turkish": "İçeriği Gizle/Ata",
-                "spanish": "Ocultar/Asignar contenido",
-                "korean": "(교사) 컨텐츠 숨기기/배정 ",
-                "japanese": "ユニットとレッスンを非表示にする",
-                "chinese": "隱藏或顯示內容",
                 "arabic": "تحديد المحتوى /إخفاء"
               },
-              "link": "adult-teacher-contentassign-q2e"
+              "link": "adult-teacher-contentassign-v1_0_0"
             }
           ]
         },
@@ -102,22 +62,12 @@
           "id" : "id01-b",
           "title" : {
             "english": "Reports and Feedback",
-            "turkish": "Raporlar ve Geri Bildirim",
-            "spanish": "Informes y comentarios",
-            "korean": "보고서 및 피드백",
-            "japanese": "レポートおよびフィードバック",
-            "chinese": "報告與回饋",
             "arabic": "التقارير والملاحظات"
           },
           "items" : [
             {
               "title": {
                 "english": "Class Summary Report",
-                "turkish": "Sınıf Özet Raporu",
-                "spanish": "Informe de Resumen de la Clase",
-                "korean": "수업 요약 보고서",
-                "japanese": "クラスサマリーレポート",
-                "chinese": "班級簡要報告",
                 "arabic": "تقرير موجز الفصل"
               },
               "link": "adult-teacher-reportclasssummary-v1_0_0"
@@ -125,11 +75,6 @@
             {
               "title": {
                 "english": "Class Report",
-                "turkish": "Sınıf Raporu",
-                "spanish": "Informe de la Clase",
-                "korean": "수업 보고서",
-                "japanese": "クラスレポート",
-                "chinese": "班級報告",
                 "arabic": "التقرير الخاص بالفصل"
               },
               "link": "adult-teacher-reportclass-v1_0_0"
@@ -137,11 +82,6 @@
             {
               "title": {
                 "english": "Student Report",
-                "turkish": "Öğrenci Raporu",
-                "spanish": "Informe del Estudiante",
-                "korean": "학생 보고서",
-                "japanese": "生徒レポート",
-                "chinese": "學生報告",
                 "arabic": "تقرير عن الطالب"
               },
               "link": "adult-teacher-reportstudent-v1_0_0"
@@ -149,11 +89,6 @@
             {
               "title": {
                 "english": "Achievements",
-                "turkish": "Başarılar",
-                "spanish": "Logros",
-                "korean": "성과 ",
-                "japanese": "成績表",
-                "chinese": "學習成果",
                 "arabic": "التحصيل"
               },
               "link": "adult-teacher-dashboard-q2e"
@@ -161,11 +96,6 @@
             {
               "title": {
                 "english": "Segment Report",
-                "turkish": "Öğrenci Bölüm Raporu",
-                "spanish": "Informe del segmento de estudiante",
-                "korean": "(교사) 세그먼트 보고서 ",
-                "japanese": "セグメントレポート",
-                "chinese": "部分報告",
                 "arabic": "تقريرالطالب الجزئي"
               },
               "link": "adult-teacher-reportsegment-q2e"
@@ -173,11 +103,6 @@
             {
               "title": {
                 "english": "Unit Report",
-                "turkish": "Ünite Raporu",
-                "spanish": "Informe de la Unidad",
-                "korean": "(교사) 단원 보고서",
-                "japanese": "ユニットレポート",
-                "chinese": "單元報告",
                 "arabic": "تقرير الوحدة"
               },
               "link": "adult-teacher-reportunit-q2e"
@@ -185,26 +110,9 @@
             {
               "title": {
                 "english": "Student Activity Report",
-                "turkish": "Öğrenci Aktivite Raporu",
-                "spanish": "Informe de la Lección",
-                "korean": "학생 활동 보고서 ",
-                "japanese": "生徒のアクティビティレポート",
-                "chinese": "學生學習活動報告",
                 "arabic": "تقرير نشاط الطالب"
               },
               "link": "adult-teacher-reportstudentactivity-v1_0_0"
-            },
-            {
-              "title": {
-                "english": "Teacher Graded Activities",
-                "turkish": "Öğretmen Tarafından Puanlanan Aktiviteler",
-                "spanish": "Actividades calificadas por el maestro",
-                "korean": "교사가 평가한 활동",
-                "japanese": "講師が採点するアクティビティ",
-                "chinese": "單元報告",
-                "arabic": "النشاطات التي منحها المدرس درجة"
-              },
-              "link": "adult-teacher-manualgradedactivity-v1_0_0"
             }
           ]
         },
@@ -212,22 +120,12 @@
           "id" : "id01-c",
           "title" : {
             "english": "Content and Communication",
-            "turkish": "İçerik ve İletişim",
-            "spanish": "Contenido y comunicación",
-            "korean": "내용 및 커뮤니케이션",
-            "japanese": "内容および通信",
-            "chinese": "內容與交流",
             "arabic": "المحتوى والاتصالات"
           },
           "items" : [
             {
               "title": {
                 "english": "Activities and Resources",
-                "turkish": "Aktiviteler ve Kaynaklar ",
-                "spanish": "Actividades y Recursos",
-                "korean": "활동 및 자료",
-                "japanese": "アクティビティとリソース",
-                "chinese": "活動與資源",
                 "arabic": "أنشطة و الموارد"
               },
               "link": "adult-teacher-enteronlinepractice-v1_0_0"
@@ -235,11 +133,6 @@
             {
               "title": {
                 "english": "Activities",
-                "turkish": "Aktiviteler",
-                "spanish": "Actividades",
-                "korean": "(교사) 활동",
-                "japanese": "アクティビティ",
-                "chinese": "學習活動",
                 "arabic": "أنشطة"
               },
               "link": "adult-teacher-activities-q2e"
@@ -247,23 +140,13 @@
             {
               "title": {
                 "english": "Media Centre",
-                "turkish": "Medya Merkezi",
-                "spanish": "Centro de Medios",
-                "korean": "(교사) 미디어 센터",
-                "japanese": "メディアセンター",
-                "chinese": "媒體中心",
                 "arabic": "مركز الوسائط"
               },
-              "link": "adult-teacher-media-q2e"
+              "link": "adult-teacher-media-hpse"
             },
             {
               "title": {
                 "english": "Email",
-                "turkish": "E-posta",
-                "spanish": "Correo electrónico",
-                "korean": "이메일",
-                "japanese": "メール",
-                "chinese": "電子郵件",
                 "arabic": "البريد الإلكتروني"
               },
               "link": "adult-teacher-email-v1_0_0"
@@ -276,34 +159,19 @@
       "id" : "id02",
       "title": {
         "english": "Student",
-        "turkish": "Öğrenci",
-        "spanish": "Estudiante",
-        "korean": "학생",
-        "japanese": "生徒",
-        "chinese": "學生",
         "arabic": "الطالب"
       },
       "items" : [
         {
           "title": {
             "english": "Home",
-            "turkish": "Anasayfa",
-            "spanish": "Inicio",
-            "korean": "(학생) 홈",
-            "japanese": "ホーム",
-            "chinese": "首頁",
             "arabic": "الصفحة الرئيسية"
           },
-          "link": "adult-student-home-q2e"
+          "link": "adult-student-home-hpse"
         },
         {
           "title": {
             "english": "Achievements",
-            "turkish": "Başarılar",
-            "spanish": "Logros",
-            "korean": "성과 ",
-            "japanese": "アチーブメント",
-            "chinese": "學習成果",
             "arabic": "التحصيل"
           },
           "link": "adult-student-dashboard-q2e"
@@ -311,11 +179,6 @@
         {
           "title": {
             "english": "Report",
-            "turkish": "Rapor",
-            "spanish": "Informe",
-            "korean": "보고서",
-            "japanese": "レポート",
-            "chinese": "學習報告",
             "arabic": "التقرير"
           },
           "link": "adult-student-reportprogress-v1_0_0"
@@ -323,11 +186,6 @@
         {
           "title": {
             "english": "Segment Report",
-            "turkish": "Öğrenci Bölüm Raporu",
-            "spanish": "Informe del segmento de estudiante",
-            "korean": "세그먼트 보고서",
-            "japanese": "セグメントレポート",
-            "chinese": "部分報告",
             "arabic": "تقريرالطالب الجزئي"
           },
           "link": "adult-student-reportsegment-q2e"
@@ -335,11 +193,6 @@
         {
           "title": {
             "english": "Activities",
-            "turkish": "Aktiviteler",
-            "spanish": "Actividades",
-            "korean": "(학생) 활동",
-            "japanese": "アクティビティ",
-            "chinese": "學習活動",
             "arabic": "أنشطة"
           },
           "link": "adult-student-activities-q2e"
@@ -348,11 +201,6 @@
         {
           "title": {
             "english": "Email",
-            "turkish": "E-posta",
-            "spanish": "Correo electrónico",
-            "japanese": "メール",
-            "korean": "이메일",
-            "chinese": "電子郵件",
             "arabic": "البريد الإلكتروني"
           },
           "link": "adult-student-email-v1_0_0"
@@ -360,14 +208,9 @@
         {
           "title": {
             "english": "Media Centre",
-            "turkish": "Medya Merkezi",
-            "spanish": "Centro de Medios",
-            "korean": "(학생) 미디어 센터",
-            "japanese": "メディアセンター",
-            "chinese": "媒體中心",
             "arabic": "مركز الوسائط"
           },
-          "link": "adult-student-media-q2e"
+          "link": "adult-student-media-hpse"
         }
       ]
     }
