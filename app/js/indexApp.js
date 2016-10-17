@@ -81,6 +81,10 @@ angular.module('helpIndex.controllers', [])
        "link": "headway-plus-se.html",
        "imgAsset": "help-doc-icon-hpse-2x.jpg"
       },
+      {"name": "Headway Academic Skills",
+       "link": "headway-academic-skills.html",
+       "imgAsset": "help-doc-icon-has-2x.png"
+      },
       {"name": "Generic Primary: all languages",
        "link": "master-primary.html",
        "imgAsset": "help-doc-icon-primary-2x.png"
