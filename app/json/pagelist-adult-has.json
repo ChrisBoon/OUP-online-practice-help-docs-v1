@@ -136,13 +136,6 @@
                 "arabic": "أنشطة"
               },
               "link": "adult-teacher-activities-q2e"
-            },
-            {
-              "title": {
-                "english": "Email",
-                "arabic": "البريد الإلكتروني"
-              },
-              "link": "adult-teacher-email-v1_0_0"
             }
           ]
         }
@@ -189,14 +182,6 @@
             "arabic": "أنشطة"
           },
           "link": "adult-student-activities-q2e"
-        },
-
-        {
-          "title": {
-            "english": "Email",
-            "arabic": "البريد الإلكتروني"
-          },
-          "link": "adult-student-email-v1_0_0"
         }
       ]
     }
