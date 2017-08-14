@@ -31,7 +31,9 @@
       currentCourse: "<!--$coursePrefix-->",
       pagelist: "<!--$pagelist-->",
       currentCourseTitle: "<!--$courseTitle-->",
-      courseLanguages: <!--$courseLanguages-->
+      courseLanguages: <!--$courseLanguages-->,
+      supportAddressText: "<!--$supportAddressText-->",
+      supportAddressURL: "<!--$supportAddressURL-->"
     }
   }
 
@@ -145,7 +147,7 @@ ng-click="firstTimeSet()"
         </div>
       </v-accordion>
     </div><!-- end new accordion -->
-    
+
     <a
     ng-click="openDrawer.open=false;obj.value1='/faq';go('/faq')"
     ng-class="{'help-menu__option--active': obj.value1 === '/faq'}"

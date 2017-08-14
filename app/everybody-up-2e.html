@@ -31,7 +31,10 @@
       currentCourse: "eu2e",
       pagelist: "primary_v1",
       currentCourseTitle: "Everybody Up",
-      courseLanguages: ['English','Spanish','Turkish','Chinese','Arabic','Portuguese', 'Japanese', 'Thai','Indonesian','Korean','Vietnamese']    }
+      courseLanguages: ['English','Spanish','Turkish','Chinese','Arabic','Portuguese', 'Japanese', 'Thai','Indonesian','Korean','Vietnamese'],
+      supportAddressText: "ELTsupport@oup.com",
+      supportAddressURL: "ELTsupport@oup.com"
+    }
   }
 
   var runFastClick = function() {
@@ -144,7 +147,7 @@ ng-click="firstTimeSet()"
         </div>
       </v-accordion>
     </div><!-- end new accordion -->
-    
+
     <a
     ng-click="openDrawer.open=false;obj.value1='/faq';go('/faq')"
     ng-class="{'help-menu__option--active': obj.value1 === '/faq'}"

@@ -31,7 +31,10 @@
       currentCourse: "q2e",
       pagelist: "q2e",
       currentCourseTitle: "iQ",
-      courseLanguages: ['English','Spanish','Turkish','Arabic','Korean','Japanese','Chinese']    }
+      courseLanguages: ['English','Spanish','Turkish','Arabic','Korean','Japanese','Chinese'],
+      supportAddressText: "ELTsupport@oup.com",
+      supportAddressURL: "ELTsupport@oup.com"
+    }
   }
 
   var runFastClick = function() {
@@ -144,7 +147,7 @@ ng-click="firstTimeSet()"
         </div>
       </v-accordion>
     </div><!-- end new accordion -->
-    
+
     <a
     ng-click="openDrawer.open=false;obj.value1='/faq';go('/faq')"
     ng-class="{'help-menu__option--active': obj.value1 === '/faq'}"

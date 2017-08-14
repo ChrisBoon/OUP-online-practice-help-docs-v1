@@ -31,7 +31,10 @@
       currentCourse: "example",
       pagelist: "primary_docs",
       currentCourseTitle: "Example Course",
-      courseLanguages: ['English','Turkish','Arabic','Spanish','spanish_la','Portuguese','Japanese','Chinese','Thai','Indonesian']    }
+      courseLanguages: ['English','Turkish','Arabic','Spanish','spanish_la','Portuguese','Japanese','Chinese','Thai','Indonesian'],
+      supportAddressText: "ELTsupport@oup.com",
+      supportAddressURL: "ELTsupport@oup.com"
+    }
   }
 
   var runFastClick = function() {
@@ -144,7 +147,7 @@ ng-click="firstTimeSet()"
         </div>
       </v-accordion>
     </div><!-- end new accordion -->
-    
+
     <a
     ng-click="openDrawer.open=false;obj.value1='/faq';go('/faq')"
     ng-class="{'help-menu__option--active': obj.value1 === '/faq'}"

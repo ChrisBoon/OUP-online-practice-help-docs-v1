@@ -31,7 +31,10 @@
       currentCourse: "sc3eOTM",
       pagelist: "otm-v1",
       currentCourseTitle: "Smart Choice On The Move",
-      courseLanguages: ['English']    }
+      courseLanguages: ['English'],
+      supportAddressText: "ELTsupport@oup.com",
+      supportAddressURL: "ELTsupport@oup.com"
+    }
   }
 
   var runFastClick = function() {
@@ -144,7 +147,7 @@ ng-click="firstTimeSet()"
         </div>
       </v-accordion>
     </div><!-- end new accordion -->
-    
+
     <a
     ng-click="openDrawer.open=false;obj.value1='/faq';go('/faq')"
     ng-class="{'help-menu__option--active': obj.value1 === '/faq'}"

@@ -31,7 +31,10 @@
       currentCourse: "t2t",
       pagelist: "t2t",
       currentCourseTitle: "Teen2Teen Plus",
-      courseLanguages: ['English','spanish_la','Portuguese','japanese','chinese','thai']    }
+      courseLanguages: ['English','spanish_la','Portuguese','japanese','chinese','thai'],
+      supportAddressText: "ELTsupport@oup.com",
+      supportAddressURL: "ELTsupport@oup.com"
+    }
   }
 
   var runFastClick = function() {
@@ -144,7 +147,7 @@ ng-click="firstTimeSet()"
         </div>
       </v-accordion>
     </div><!-- end new accordion -->
-    
+
     <a
     ng-click="openDrawer.open=false;obj.value1='/faq';go('/faq')"
     ng-class="{'help-menu__option--active': obj.value1 === '/faq'}"

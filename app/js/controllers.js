@@ -59,7 +59,11 @@ angular.module('myApp.controllers', [])
     };
     //gets appLanguages global variable and adds it to scope for use with expressions in html page.
     $scope.appLanguages = opHelpGlobals.config.courseLanguages;
+    
     $scope.courseName = opHelpGlobals.config.currentCourseTitle;
+
+    $scope.supportAddressURL = opHelpGlobals.config.supportAddressURL;
+    $scope.supportAddressText = opHelpGlobals.config.supportAddressText;
 
     //workaround for touch bug
     $scope.go = function ( path ) {
