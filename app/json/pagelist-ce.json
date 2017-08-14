@@ -48,7 +48,7 @@
                 "chinese": "首頁",
                 "arabic": "الصفحة الرئيسية"
               },
-              "link": "adult-teacher-home-v1_0_0"
+              "link": "adult-teacher-home-ce"
             },
             {
               "title": {
@@ -256,32 +256,6 @@
                 "arabic": "تقرير نشاط الطالب"
               },
               "link": "adult-teacher-reportstudentactivity-v1_0_0"
-            },
-            {
-              "title": {
-                "english": "Writing Tutor Reports",
-                "turkish": "Özel Yazı Eğitmeni Raporları",
-                "spanish": "Informes del Tutor de escritura",
-                "korean": "쓰기 튜터 보고서",
-                "japanese": "ライティングチューターレポート",
-                "chinese": "寫作輔導報告",
-                "thai": "-",
-                "arabic": " تقارير مدرس الكتابة الخصوصي"
-              },
-              "link": "adult-teacher-writingtutorreport-v1_0_0"
-            },
-            {
-              "title": {
-                "english": "Writing Tutor Teacher Feedback",
-                "turkish": "Özel Yazı Eğitmeni Öğretmen Geri Bildirimi",
-                "spanish": "Comentarios del maestro sobre el Tutor de escritura",
-                "korean": "쓰기 튜터 교사 피드백",
-                "japanese": "ライティングチューターの講師フィードバック",
-                "chinese": "寫作輔導教師回饋",
-                "thai": "-",
-                "arabic": "ملاحظات المدرس إلى معلم الكتابة الخصوصي"
-              },
-              "link": "adult-teacher-writingtutorfeedback-v1_0_0"
             }
           ]
         },
@@ -320,20 +294,7 @@
                 "chinese": "學習活動",
                 "arabic": "أنشطة"
               },
-              "link": "adult-teacher-activities-v1_0_0"
-            },
-            {
-              "title": {
-                "english": "Writing Tutor",
-                "turkish": "Özel Yazı Eğitmeni",
-                "spanish": "Tutor de escritura",
-                "korean": "쓰기 튜터",
-                "japanese": "ライティングチューター",
-                "chinese": "寫作輔導",
-                "thai": "-",
-                "arabic": "معلم الكتابة الخصوصي"
-              },
-              "link": "adult-teacher-writingtutor-v1_0_0"
+              "link": "adult-teacher-activities-ce"
             },
             {
               "title": {
@@ -370,30 +331,6 @@
                 "arabic": "البريد الإلكتروني"
               },
               "link": "adult-teacher-email-v1_0_0"
-            },
-            {
-              "title": {
-                "english": "Glossary",
-                "turkish": "Sözlük",
-                "spanish": "Glosario",
-                "korean": "용어집",
-                "japanese": "グロッサリー",
-                "chinese": "詞庫",
-                "arabic": "المسرد"
-              },
-              "link": "adult-teacher-glossary-v1_0_0"
-            },
-            {
-              "title": {
-                "english": "Discussion Board",
-                "turkish": "Tartışma Panosu",
-                "spanish": "Panel de discusión",
-                "korean": "게시판",
-                "japanese": "ディスカッションボード",
-                "chinese": "討論區",
-                "arabic": "المناقشة لوحة"
-              },
-              "link": "adult-teacher-discussionboard-v1_0_0"
             }
           ]
         }
@@ -447,7 +384,7 @@
                 "chinese": "首頁",
                 "arabic": "الصفحة الرئيسية"
               },
-              "link": "adult-student-home-v1_0_0"
+              "link": "adult-student-home-ce"
             },
             {
               "title": {
@@ -496,19 +433,6 @@
                 "arabic": "تحرير الملف الشخصي"
               },
               "link": "adult-student-editprofile-v1_0_0"
-            },
-            {
-              "title": {
-                "english": "Writing Tutor",
-                "turkish": "Özel Yazı Eğitmeni",
-                "korean": "(학생) 쓰기 튜터",
-                "spanish": "Tutor de escritura",
-                "japanese": "ライティングチューター",
-                "chinese": "寫作輔導",
-                "thai": "-",
-                "arabic": "معلم الكتابة الخصوصي"
-              },
-              "link": "adult-student-writingtutor-v1_0_0"  
             }
           ]
         },
@@ -560,19 +484,6 @@
                 "arabic": "تقريرالطالب الجزئي"
               },
               "link": "adult-student-reportsegment-v1_0_0"
-            },
-            {
-              "title": {
-                "english": "Writing Tutor Reports",
-                "turkish": "Özel Yazı Eğitmeni Raporları",
-                "spanish": "Informes del Tutor de escritura",
-                "korean": "쓰기 튜터 보고서",
-                "japanese": "ライティングチューターレポート",
-                "chinese": "寫作輔導報告",
-                "thai": "-",
-                "arabic": "تقارير معلم الكتابة الخصوصي"
-              },
-              "link": "adult-student-writingtutorreport-v1_0_0"
             }
           ]
         },
@@ -599,7 +510,7 @@
                 "chinese": "學習活動",
                 "arabic": "أنشطة"
               },
-              "link": "adult-student-activities-v1_0_0"
+              "link": "adult-teacher-activities-ce"
             },
             {
               "title": {
@@ -627,18 +538,6 @@
             },
             {
               "title": {
-                "english": "Discussion Board",
-                "turkish": "Tartışma Panosu",
-                "spanish": "Panel de discusión",
-                 "korean": "게시판",
-                "japanese": "ディスカッションボード",
-                "chinese": "討論區",
-                "arabic": "المناقشة لوحة"
-              },
-              "link": "adult-student-discussionboard-v1_0_0"
-            },
-            {
-              "title": {
                 "english": "Media Center",
                 "turkish": "Medya Merkezi",
                 "spanish": "Centro de Medios",
@@ -648,18 +547,6 @@
                 "arabic": "مركز الوسائط"
               },
               "link": "adult-student-media-v1_0_0"
-            },
-            {
-              "title": {
-                "english": "Glossary",
-                "turkish": "Sözlük",
-                "spanish": "Glosario",
-                "korean": "용어집",
-                "japanese": "グロッサリー",
-                "chinese": "詞庫",
-                "arabic": "المسرد"
-              },
-              "link": "adult-student-glossary-v1_0_0"
             }
           ]
         }
