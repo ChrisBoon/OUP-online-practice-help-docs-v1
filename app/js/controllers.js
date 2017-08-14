@@ -63,7 +63,6 @@ angular.module('myApp.controllers', [])
     $scope.courseName = opHelpGlobals.config.currentCourseTitle;
 
     $scope.supportAddressURL = opHelpGlobals.config.supportAddressURL;
-    $scope.supportAddressText = opHelpGlobals.config.supportAddressText;
 
     //workaround for touch bug
     $scope.go = function ( path ) {
