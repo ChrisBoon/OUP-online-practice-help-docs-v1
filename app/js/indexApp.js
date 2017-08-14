@@ -85,6 +85,10 @@ angular.module('helpIndex.controllers', [])
        "link": "headway-academic-skills.html",
        "imgAsset": "help-doc-icon-has-2x.png"
       },
+      {"name": "Compass | Explore",
+      "link": "ce.html",
+      "imgAsset": "help-doc-icon-ce.svg"
+     },      
       {"name": "Generic Primary: all languages",
        "link": "master-primary.html",
        "imgAsset": "help-doc-icon-primary-2x.png"
