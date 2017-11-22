@@ -74,10 +74,14 @@ angular.module('helpIndex.controllers', [])
        "imgAsset": "help-doc-icon-sc3e-2x.png"
       },
       {"name": "Smart Choice 3rd Edition: On the Move",
-       "link": "smart-choice-otm.html",
-       "imgAsset": "help-doc-icon-sc3e-otm-2x.png"
-      },
-      {"name": "Headway Plus Special Edition",
+      "link": "smart-choice-otm.html",
+      "imgAsset": "help-doc-icon-sc3e-otm-2x.png"
+     },
+     {"name": "Smart Talk",
+     "link": "smart-talk.html",
+     "imgAsset": "help-doc-icon-st-2x.png"
+     },
+     {"name": "Headway Plus Special Edition",
        "link": "headway-plus-se.html",
        "imgAsset": "help-doc-icon-hpse-2x.jpg"
       },
