@@ -1,5 +1,7 @@
 # OUP ELT Online Practice Help Docs
 
+**NOTE: This repo is a copy of the main repo, now hosted on the OUP account. This is for reference only. Any future updates will be done in the OUP repo.**
+
 ## Overview
 
 This project is a web-app containing Help Docs for new Online Pracice courses.
