@@ -75,7 +75,7 @@ angular.module('helpIndex.controllers', [])
       },
       {"name": "Smart Choice 3rd Edition: On the Move",
       "link": "smart-choice-otm.html",
-      "imgAsset": "help-doc-icon-sc3e-otm-2x.png"
+      "imgAsset": "help-doc-icon-sc3e-OTM-2x.png"
      },
      {"name": "Smart Talk",
      "link": "smart-talk.html",
